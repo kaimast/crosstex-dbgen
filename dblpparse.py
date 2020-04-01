@@ -615,6 +615,7 @@ d.add_conference('socc',        'SoCC', 'Symposium on Cloud Computing', prefixes
 d.add_conference('soda',        'SODA', 'Symposium on Discrete Algorithms')
 d.add_conference('sosp',        'SOSP', 'Symposium on Operating Systems Principles')
 d.add_conference('stoc',        'STOC', 'ACM Symposium on Theory of Computing')
+d.add_conference('oakland',     'IEEE S&P', 'IEEE Symposium on Security and Privacy', prefixes=('conf/sp',))
 d.add_conference('sacmat',      'SACMAT', 'ACM Symposium on Access Control Models and Technologies')
 d.add_conference('saint',       'SAINT', 'International Symposium on Applications and the Internet')
 d.add_conference('wwca',        'WWCA', 'Worldwide Computing and its Applications')

@@ -6,8 +6,8 @@ all:
 	@echo "    install  install the xtx files to ~/.crosstex"
 	@echo "    install-global"
 	@echo "             install the xtx files to /usr/local/share/crosstex"
-	@echo "    clean    remove the generated locations.xtx and xtx/TIMESTAMP"
-	@echo "    clobber  remove the inputs so \"xtx\" will re-download dblp.xml (implies \"clean\")"
+	@echo "    clean    remove the generated locations.xtx and xtx/TIMESTAMP and cached DBLP files"
+	@echo "    clobber  clean and also remove the dblp.tar.gz file so it will be re-dowloaded"
 	@echo "    dblp.xml.gz"
 	@echo "             redownload the dblp.xml file"
 
@@ -47,6 +47,7 @@ install-global:
 
 clean:
 	rm -f xtx/TIMESTAMP xtx/locations.xtx
+	rm -f dblp.xml dblp.dtd
 
 clobber: clean
-	rm -f dblp.xml dblp.xml.gz dblp.dtd
+	rm -f dblp.xml.gz
