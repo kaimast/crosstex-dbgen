@@ -3,6 +3,11 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
 
 CONFERENCE_LOCATIONS = {
      '':{}
+    ,'eurosys':     {2019: ('Dresden', 'mar')
+                    ,2018: ('Porto', 'apr')
+                    ,2017: ('Belgrade', 'apr')
+                    ,2015: ('Bordeaux', 'apr')
+                    }
     ,'hotos':       {2009: ('MonteVerita', 'may')
                     ,2001: ('ElmauOberbayern', 'may')
                     }
@@ -40,7 +45,9 @@ CONFERENCE_LOCATIONS = {
                     ,1988: ('Stanford', 'aug')
                     ,1985: ('BC', 'sep')
                     }
-    ,'sosp':        {2001: ('Banff', 'oct')
+    ,'sosp':        {2019: ('Huntsville', 'oct')
+                    ,2013: ('Farmington', 'nov')
+                    ,2001: ('Banff', 'oct')
                     ,1999: ('KiawahIsland', 'dec')
                     ,1997: ('SaintMalo', 'oct')
                     ,1995: ('CopperMountain', 'dec')
@@ -63,6 +70,8 @@ CONFERENCE_LOCATIONS = {
                     ,1987: ('SF', 'may')
                     ,1984: ('Boston', 'jun')
                     ,1983: ('SanJose', 'may')
+                    }
+    ,'oakland':     {2010: ('Berkeley', 'may')
                     }
     }
 

@@ -604,6 +604,7 @@ d.add_conference('ipdps',       'IPDPS', 'International Parallel and Distributed
 d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium')
 d.add_conference('mobicom',     'MOBICOM', 'International Conference on Mobile Computing and Networking')
 d.add_conference('nsdi',        'NSDI', 'Symposium on Networked System Design and Implementation')
+d.add_conference('usenixsec',   'USENIX', 'USENIX Security Symposium', prefixes=('conf/uss',))
 d.add_conference('osdi',        'OSDI', 'Symposium on Operating System Design and Implementation')
 d.add_conference('pldi',        'PLDI', 'SIGPLAN Conference on Programming Language Design and Implementation')
 d.add_conference('podc',        'PODC', 'ACM Symposium on Principles of Distributed Computing')
