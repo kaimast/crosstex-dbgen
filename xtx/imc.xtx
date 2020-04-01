@@ -1,5 +1,460 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/imc/MullerTWHCTR19,
+  author    = {Moritz Müller and
+               Matthew Thomas and
+               Duane Wessels and
+               Wes Hardaker and
+               Taejoong Chung and
+               Willem Toorop and
+               Roland van Rijswijk-Deij},
+  title     = {Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever {DNSSEC} Root {KSK} Rollover},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/imc/BottgerCAFTCU19,
+  author    = {Timm Böttger and
+               Félix Cuadrado and
+               Gianni Antichi and
+               Eder Leão Fernandes and
+               Gareth Tyson and
+               Ignacio Castro and
+               Steve Uhlig},
+  title     = {An Empirical Study of the Cost of {DNS-over-HTTPS}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {15-21},
+}
+
+@inproceedings{DBLP:conf/imc/LuL0HDZLLZW19,
+  author    = {Chaoyi Lu and
+               Baojun Liu and
+               Zhou Li and
+               Shuang Hao and
+               Hai-Xin Duan and
+               Mingming Zhang and
+               Chunying Leng and
+               Ying Liu and
+               Zaifeng Zhang and
+               Jianping Wu},
+  title     = {An End-to-End, {Large-Scale} Measurement of DNS-over-Encryption: How Far Have We Come?},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {22-35},
+}
+
+@inproceedings{DBLP:conf/imc/DeKovenRMABSSVS19,
+  author    = {Louis F. DeKoven and
+               Audrey Randall and
+               Ariana Mirian and
+               Gautam Akiwate and
+               Ansel Blume and
+               Lawrence K. Saul and
+               Aaron Schulman and
+               Geoffrey M. Voelker and
+               Stefan Savage},
+  title     = {Measuring Security Practices and How They Impact Security},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {36-49},
+}
+
+@inproceedings{DBLP:conf/imc/CollierTCH19,
+  author    = {Ben Collier and
+               Daniel R. Thomas and
+               Richard Clayton and
+               Alice Hutchings},
+  title     = {Booting the Booters: Evaluating the Effects of Police Interventions in the Market for {Denial-of-Service} Attacks},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {50-64},
+}
+
+@inproceedings{DBLP:conf/imc/KoppSWHPD19,
+  author    = {Daniel Kopp and
+               Jair Santanna and
+               Matthias Wichtlhuber and
+               Oliver Hohlfeld and
+               Ingmar Poese and
+               Christoph Dietzel},
+  title     = {{DDoS} Hide & Seek: On the Effectiveness of a Booter Services Takedown},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {65-72},
+}
+
+@inproceedings{DBLP:conf/imc/PastranaS19,
+  author    = {Sergio Pastrana and
+               Guillermo Suarez-Tangil},
+  title     = {A First Look at the {Crypto-Mining} Malware Ecosystem: A Decade of Unrestricted Wealth},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {73-86},
+}
+
+@inproceedings{DBLP:conf/imc/ForemskiGM19,
+  author    = {Pawel Foremski and
+               Oliver Gasser and
+               Giovane C. M. Moura},
+  title     = {{DNS} Observatory: The Big Picture of the {DNS}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {87-100},
+}
+
+@inproceedings{DBLP:conf/imc/MouraHSH19,
+  author    = {Giovane C. M. Moura and
+               John S. Heidemann and
+               Ricardo de Oliveira Schmidt and
+               Wes Hardaker},
+  title     = {Cache Me If You Can: Effects of {DNS} {Time-to-Live}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {101-115},
+}
+
+@inproceedings{DBLP:conf/imc/Al-DalkyRS19,
+  author    = {Rami Al-Dalky and
+               Michael Rabinovich and
+               Kyle Schomp},
+  title     = {A Look at the {ECS} Behavior of {DNS} Resolvers},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {116-129},
+}
+
+@inproceedings{DBLP:conf/imc/CaoJSBG19,
+  author    = {Yi Cao and
+               Arpit Jain and
+               Kriti Sharma and
+               Aruna Balasubramanian and
+               Anshul Gandhi},
+  title     = {When to use and when not to use BBR: An empirical analysis and evaluation study},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {130-136},
+}
+
+@inproceedings{DBLP:conf/imc/WareMSS19,
+  author    = {Ranysha Ware and
+               Matthew K. Mukerjee and
+               Srinivasan Seshan and
+               Justine Sherry},
+  title     = {Modeling {BBR's} Interactions with {Loss-Based} Congestion Control},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {137-143},
+}
+
+@inproceedings{DBLP:conf/imc/RichterB19,
+  author    = {Philipp Richter and
+               Arthur W. Berger},
+  title     = {Scanning the Scanners: Sensing the Internet from a Massively Distributed Network Telescope},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {144-157},
+}
+
+@inproceedings{DBLP:conf/imc/AdarshNZB19,
+  author    = {Vivek Adarsh and
+               Michael Nekrasov and
+               Ellen W. Zegura and
+               Elizabeth M. Belding},
+  title     = {Packet-level Overload Estimation in {LTE} Networks using Passive Measurements},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {158-164},
+}
+
+@inproceedings{DBLP:conf/imc/McQuistinUF19,
+  author    = {Stephen McQuistin and
+               Sree Priyanka Uppu and
+               Marcel Flores},
+  title     = {Taming Anycast in the Wild Internet},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {165-178},
+}
+
+@inproceedings{DBLP:conf/imc/SchlinkerCCSK19,
+  author    = {Brandon Schlinker and
+               Ítalo S. Cunha and
+               Yi-Ching Chiu and
+               Srikanth Sundaresan and
+               Ethan Katz-Bassett},
+  title     = {Internet Performance from Facebook's Edge},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {179-194},
+}
+
+@inproceedings{DBLP:conf/imc/VargasGSB19,
+  author    = {Santiago Vargas and
+               Utkarsh Goel and
+               Moritz Steiner and
+               Aruna Balasubramanian},
+  title     = {Characterizing {JSON} Traffic Patterns on a {CDN}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {195-201},
+}
+
+@inproceedings{DBLP:conf/imc/YeganehDRW19,
+  author    = {Bahador Yeganeh and
+               Ramakrishnan Durairajan and
+               Reza Rejaie and
+               Walter Willinger},
+  title     = {How Cloud Traffic Goes Hiding: A Study of Amazon's Peering Fabric},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {202-216},
+}
+
+@inproceedings{DBLP:conf/imc/RamanJCST19,
+  author    = {Aravindh Raman and
+               Sagar Joglekar and
+               Emiliano De Cristofaro and
+               Nishanth Sastry and
+               Gareth Tyson},
+  title     = {Challenges in the Decentralised Web: The Mastodon Case},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {217-229},
+}
+
+@inproceedings{DBLP:conf/imc/AlrizahZX019,
+  author    = {Mshabab Alrizah and
+               Sencun Zhu and
+               Xinyu Xing and
+               Gang Wang},
+  title     = {Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {230-244},
+}
+
+@inproceedings{DBLP:conf/imc/VallinaFGVA19,
+  author    = {Pelayo Vallina and
+               Álvaro Feal and
+               Julien Gamba and
+               Narseo Vallina-Rodriguez and
+               Antonio Fernández Anta},
+  title     = {Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {245-258},
+}
+
+@inproceedings{DBLP:conf/imc/PeddintiBTPEAH19,
+  author    = {Sai Teja Peddinti and
+               Igor Bilogrevic and
+               Nina Taft and
+               Martin Pelikan and
+               Úlfar Erlingsson and
+               Pauline Anthonysamy and
+               Giles Hogben},
+  title     = {Reducing Permission Requests in Mobile Apps},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {259-266},
+}
+
+@inproceedings{DBLP:conf/imc/RenDCMKH19,
+  author    = {Jingjing Ren and
+               Daniel J. Dubois and
+               David R. Choffnes and
+               Anna Maria Mandalari and
+               Roman Kolcun and
+               Hamed Haddadi},
+  title     = {Information Exposure From Consumer {IoT} Devices: A Multidimensional, {Network-Informed} Measurement Approach},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {267-279},
+}
+
+@inproceedings{DBLP:conf/imc/PachilakisPMK19,
+  author    = {Michalis Pachilakis and
+               Panagiotis Papadopoulos and
+               Evangelos P. Markatos and
+               Nicolas Kourtellis},
+  title     = {No More Chasing Waterfalls: A Measurement Study of the Header Bidding {Ad-Ecosystem}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {280-293},
+}
+
+@inproceedings{DBLP:conf/imc/BashirAKRW19,
+  author    = {Muhammad Ahmad Bashir and
+               Sajjad Arshad and
+               Engin Kirda and
+               William K. Robertson and
+               Christo Wilson},
+  title     = {A Longitudinal Analysis of the ads.txt Standard},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {294-307},
+}
+
+@inproceedings{DBLP:conf/imc/VadrevuP19,
+  author    = {Phani Vadrevu and
+               Roberto Perdisci},
+  title     = {What You See is {NOT} What You Get: Discovering and Tracking Social Engineering Attack Campaigns},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {308-321},
+}
+
+@inproceedings{DBLP:conf/imc/BasatEGMR19,
+  author    = {Ran Ben Basat and
+               Gil Einziger and
+               Junzhi Gong and
+               Jalil Moraney and
+               Danny Raz},
+  title     = {q-MAX: A Unified Scheme for Improving Network Measurement Throughput},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {322-336},
+}
+
+@inproceedings{DBLP:conf/imc/LuckieHc19,
+  author    = {Matthew J. Luckie and
+               Bradley Huffaker and
+               kc claffy},
+  title     = {Learning Regexes to Extract Router Names from Hostnames},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {337-350},
+}
+
+@inproceedings{DBLP:conf/imc/NaabSJGC19,
+  author    = {Johannes Naab and
+               Patrick Sattler and
+               Jonas Jelten and
+               Oliver Gasser and
+               Georg Carle},
+  title     = {Prefix Top Lists: Gaining Insights with Prefixes from Domain-based Top Lists on {DNS} Deployment},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {351-357},
+}
+
+@inproceedings{DBLP:conf/imc/FidaAE19,
+  author    = {Mah-Rukh Fida and
+               Evrim Acar and
+               Ahmed Elmokashfi},
+  title     = {Multiway Reliability Analysis of Mobile Broadband Networks},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {358-364},
+}
+
+@inproceedings{DBLP:conf/imc/CaoNBG19,
+  author    = {Yi Cao and
+               Javad Nejati and
+               Aruna Balasubramanian and
+               Anshul Gandhi},
+  title     = {ECON: Modeling the network to improve application performance},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {365-378},
+}
+
+@inproceedings{DBLP:conf/imc/AndersonM19,
+  author    = {Blake Anderson and
+               David A. McGrew},
+  title     = {{TLS} Beyond the Browser: Combining End Host and Network Data to Understand Application Behavior},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {379-392},
+}
+
+@inproceedings{DBLP:conf/imc/JueckstockK19,
+  author    = {Jordan Jueckstock and
+               Alexandros Kapravelos},
+  title     = {VisibleV8: In-browser Monitoring of {JavaScript} in the Wild},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {393-405},
+}
+
+@inproceedings{DBLP:conf/imc/ChungAB0CLMMRRS19,
+  author    = {Taejoong Chung and
+               Emile Aben and
+               Tim Bruijnzeels and
+               Balakrishnan Chandrasekaran and
+               David R. Choffnes and
+               Dave Levin and
+               Bruce M. Maggs and
+               Alan Mislove and
+               Roland van Rijswijk-Deij and
+               John P. Rula and
+               Nick Sullivan},
+  title     = {{RPKI} is Coming of Age: A Longitudinal Study of {RPKI} Deployment and Invalid Route Origins},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {406-419},
+}
+
+@inproceedings{DBLP:conf/imc/TestartRKDC19,
+  author    = {Cecilia Testart and
+               Philipp Richter and
+               Alistair King and
+               Alberto Dainotti and
+               David Clark},
+  title     = {Profiling {BGP} Serial Hijackers: Capturing Persistent Misbehavior in the Global Routing Table},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {420-434},
+}
+
+@inproceedings{DBLP:conf/imc/NawrockiBDSW19,
+  author    = {Marcin Nawrocki and
+               Jeremias Blendin and
+               Christoph Dietzel and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {Down the Black Hole: Dismantling Operational Practices of {BGP} Blackholing at {IXPs}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {435-448},
+}
+
+@inproceedings{DBLP:conf/imc/Suzuki0YMG19,
+  author    = {Hiroaki Suzuki and
+               Daiki Chiba and
+               Yoshiro Yoneya and
+               Tatsuya Mori and
+               Shigeki Goto},
+  title     = {ShamFinder: An Automated Framework for Detecting {IDN} Homographs},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {449-462},
+}
+
+@inproceedings{DBLP:conf/imc/PastranaHTT19,
+  author    = {Sergio Pastrana and
+               Alice Hutchings and
+               Daniel R. Thomas and
+               Juan Tapiador},
+  title     = {Measuring {eWhoring}},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {463-477},
+}
+
+@inproceedings{DBLP:conf/imc/PengYS019,
+  author    = {Peng Peng and
+               Limin Yang and
+               Linhai Song and
+               Gang Wang},
+  title     = {Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines},
+  booktitle = imc,
+  year      = 2019,
+  pages     = {478-485},
+}
+
 @inproceedings{DBLP:conf/imc/DasariVBBDF18,
   author    = {Mallesham Dasari and
                Santiago Vargas and
@@ -744,7 +1199,7 @@
 }
 
 @inproceedings{DBLP:conf/imc/AndradeBGHPTV17,
-  author    = {Carlos E. Andrade and
+  author    = {Carlos Eduardo de Andrade and
                Simon D. Byers and
                Vijay Gopalakrishnan and
                Emir Halepovic and
@@ -1112,7 +1567,7 @@
 @inproceedings{DBLP:conf/imc/SnyderATK16,
   author    = {Peter Snyder and
                Lara Ansari and
-               Cynthia Taylor and
+               Cynthia Bagier Taylor and
                Chris Kanich},
   title     = {Browser Feature Usage on the Modern Web},
   booktitle = imc,
@@ -2560,7 +3015,7 @@
 }
 
 @inproceedings{DBLP:conf/imc/BatesPNHB14,
-  author    = {Adam M. Bates and
+  author    = {Adam Bates and
                Joe Pletcher and
                Tyler Nichols and
                Braden Hollembaek and
@@ -4300,7 +4755,7 @@
   author    = {Seppo Hätönen and
                Aki Nyrhinen and
                Lars Eggert and
-               Stephen Strowes and
+               Stephen D. Strowes and
                Pasi Sarolahti and
                Markku Kojo},
   title     = {An experimental study of home gateway characteristics},
@@ -6132,4 +6587,1114 @@
   booktitle = imc,
   year      = 2006,
   pages     = {339-344},
+}
+
+@inproceedings{DBLP:conf/imc/ChambersFSS05,
+  author    = {Chris Chambers and
+               Wu-chang Feng and
+               Sambit Sahu and
+               Debanjan Saha},
+  title     = {Measurement-based Characterization of a Collection of On-line Games},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/imc/PangABLPT05,
+  author    = {Ruoming Pang and
+               Mark Allman and
+               Mike Bennett and
+               Jason Lee and
+               Vern Paxson and
+               Brian Tierney},
+  title     = {A First Look at Modern Enterprise Traffic},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/imc/LiuRS05,
+  author    = {Hongzhou Liu and
+               Venugopalan Ramasubramanian and
+               Emin Gün Sirer},
+  title     = {Client Behavior and Feed Characteristics of RSS, a {Publish-Subscribe} System for Web Micronews},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {29-34},
+}
+
+@inproceedings{DBLP:conf/imc/GuoCXTDZ05,
+  author    = {Lei Guo and
+               Songqing Chen and
+               Zhen Xiao and
+               Enhua Tan and
+               Xiaoning Ding and
+               Xiaodong Zhang},
+  title     = {Measurements, Analysis, and Modeling of {BitTorrent-like} Systems},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {35-48},
+}
+
+@inproceedings{DBLP:conf/imc/StutzbachRS05,
+  author    = {Daniel Stutzbach and
+               Reza Rejaie and
+               Subhabrata Sen},
+  title     = {Characterizing Unstructured Overlay Topologies in Modern P2P {File-Sharing} Systems},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {49-62},
+}
+
+@inproceedings{DBLP:conf/imc/KaragiannisRP05,
+  author    = {Thomas Karagiannis and
+               Pablo Rodriguez and
+               Konstantina Papagiannaki},
+  title     = {Should Internet Service Providers Fear {Peer-Assisted} Content Distribution?},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {63-76},
+}
+
+@inproceedings{DBLP:conf/imc/ZhaoKX05,
+  author    = {Qi Zhao and
+               Abhishek Kumar and
+               Jun (Jim) Xu},
+  title     = {Joint Data Streaming and Sampling Techniques for Detection of Super Sources and Destinations},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {77-90},
+}
+
+@inproceedings{DBLP:conf/imc/DuffieldLT05,
+  author    = {Nick G. Duffield and
+               Carsten Lund and
+               Mikkel Thorup},
+  title     = {Optimal Combination of Sampled Network Measurements},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {91-104},
+}
+
+@inproceedings{DBLP:conf/imc/KompellaE05,
+  author    = {Ramana Rao Kompella and
+               Cristian Estan},
+  title     = {The Power of Slicing in Internet Flow Measurement},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {105-118},
+}
+
+@inproceedings{DBLP:conf/imc/TariqDDA05,
+  author    = {Muhammad Mukarram Bin Tariq and
+               Amogh Dhamdhere and
+               Constantinos Dovrolis and
+               Mostafa H. Ammar},
+  title     = {Poisson versus Periodic Path Probing (or, Does {PASTA} Matter?)},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {119-124},
+}
+
+@inproceedings{DBLP:conf/imc/LuaGPZC05,
+  author    = {Eng Keong Lua and
+               Timothy G. Griffin and
+               Marcelo Pias and
+               Han Zheng and
+               Jon Crowcroft},
+  title     = {On the Accuracy of Embeddings for Internet Coordinate Systems},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {125-138},
+}
+
+@inproceedings{DBLP:conf/imc/ChangJMW05,
+  author    = {Hyunseok Chang and
+               Sugih Jamin and
+               Zhuoqing Morley Mao and
+               Walter Willinger},
+  title     = {An Empirical Approach to Modeling {Inter-AS} Traffic Matrices},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {139-152},
+}
+
+@inproceedings{DBLP:conf/imc/FreedmanVFB05,
+  author    = {Michael J. Freedman and
+               Mythili Vutukuru and
+               Nick Feamster and
+               Hari Balakrishnan},
+  title     = {Geographic Locality of {IP} Prefixes},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {153-158},
+}
+
+@inproceedings{DBLP:conf/imc/LiuTYB05,
+  author    = {Yong Liu and
+               Donald F. Towsley and
+               Tao Ye and
+               Jean-Chrysostome Bolot},
+  title     = {An Information-theoretic Approach to Network Monitoring and Measurement},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {159-172},
+}
+
+@inproceedings{DBLP:conf/imc/LiuRL05,
+  author    = {Xiliang Liu and
+               Kaliappa Nadar Ravindran and
+               Dmitri Loguinov},
+  title     = {{Multi-Hop} Probing Asymptotics in Available Bandwidth Estimation: Stochastic Analysis},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {173-186},
+}
+
+@inproceedings{DBLP:conf/imc/HuS05,
+  author    = {Ningning Hu and
+               Peter Steenkiste},
+  title     = {Exploiting Internet Route Sharing for Large Scale Available Bandwidth Estimation},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {187-192},
+}
+
+@inproceedings{DBLP:conf/imc/LuckieCO05,
+  author    = {Matthew J. Luckie and
+               Kenjiro Cho and
+               Bill Owens},
+  title     = {Inferring and Debugging Path {MTU} Discovery Failures},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {193-198},
+}
+
+@inproceedings{DBLP:conf/imc/GuhaF05,
+  author    = {Saikat Guha and
+               Paul Francis},
+  title     = {Characterization and Measurement of {TCP} Traversal Through {NATs} and Firewalls},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {199-211},
+}
+
+@inproceedings{DBLP:conf/imc/ArlittKM05,
+  author    = {Martin F. Arlitt and
+               Balachander Krishnamurthy and
+               Jeffrey C. Mogul},
+  title     = {Predicting {Short-Transfer} Latency from {TCP} Arcana: A Trace-based Validation},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {213-226},
+}
+
+@inproceedings{DBLP:conf/imc/LuoC05,
+  author    = {Xiapu Luo and
+               Rocky K. C. Chang},
+  title     = {Novel Approaches to {End-to-End} Packet Reordering Measurement},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {227-238},
+}
+
+@inproceedings{DBLP:conf/imc/BaileyCJPRW05,
+  author    = {Michael Bailey and
+               Evan Cooke and
+               Farnam Jahanian and
+               Niels Provos and
+               Karl Rosaen and
+               David Watson},
+  title     = {Data Reduction for the Scalable Automated Analysis of Distributed Darknet Traffic},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {239-252},
+}
+
+@inproceedings{DBLP:conf/imc/AielloGRS05,
+  author    = {William Aiello and
+               Anna C. Gilbert and
+               Brian Rexroad and
+               Vyas Sekar},
+  title     = {Sparse Approximations for High Fidelity Compression of Network Traffic Data},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {253-266},
+}
+
+@inproceedings{DBLP:conf/imc/KornexlPDFS05,
+  author    = {Stefan Kornexl and
+               Vern Paxson and
+               Holger Dreger and
+               Anja Feldmann and
+               Robin Sommer},
+  title     = {Building a Time Machine for Efficient Recording and Retrieval of {High-Volume} Network Traffic},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {267-272},
+}
+
+@inproceedings{DBLP:conf/imc/LeeLYZ05,
+  author    = {Gene Moo Lee and
+               Huiya Liu and
+               Young Yoon and
+               Yin Zhang},
+  title     = {Improving Sketch Reconstruction Accuracy Using Linear Least Squares Method},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {273-278},
+}
+
+@inproceedings{DBLP:conf/imc/JardoshRAB05,
+  author    = {Amit P. Jardosh and
+               Krishna N. Ramachandran and
+               Kevin C. Almeroth and
+               Elizabeth M. Belding-Royer},
+  title     = {Understanding Congestion in {IEEE} 802.11b Wireless Networks},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {279-292},
+}
+
+@inproceedings{DBLP:conf/imc/VasudevanPDKT05,
+  author    = {Sudarshan Vasudevan and
+               Konstantina Papagiannaki and
+               Christophe Diot and
+               James F. Kurose and
+               Donald F. Towsley},
+  title     = {Facilitating Access Point Selection in {IEEE} 802.11 Wireless Networks},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {293-298},
+}
+
+@inproceedings{DBLP:conf/imc/BrikMB05,
+  author    = {Vladimir Brik and
+               Arunesh Mishra and
+               Suman Banerjee},
+  title     = {Eliminating Handoff Latencies in 802.11 {WLANs} Using Multiple Radios: Applications, Experience, and Evaluation},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {299-304},
+}
+
+@inproceedings{DBLP:conf/imc/PadhyeAPQRZ05,
+  author    = {Jitendra Padhye and
+               Sharad Agarwal and
+               Venkata N. Padmanabhan and
+               Lili Qiu and
+               Ananth Rao and
+               Brian Zill},
+  title     = {Estimation of Link Interference in Static Multi-hop Wireless Networks},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {305-310},
+}
+
+@inproceedings{DBLP:conf/imc/MishraRBA05,
+  author    = {Arunesh Mishra and
+               Eric Rozner and
+               Suman Banerjee and
+               William A. Arbaugh},
+  title     = {Exploiting Partially Overlapping Channels in Wireless Networks: Turning a Peril into an Advantage},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {311-316},
+}
+
+@inproceedings{DBLP:conf/imc/ZhangGGR05,
+  author    = {Yin Zhang and
+               Zihui Ge and
+               Albert G. Greenberg and
+               Matthew Roughan},
+  title     = {Network Anomography},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {317-330},
+}
+
+@inproceedings{DBLP:conf/imc/SouleST05,
+  author    = {Augustin Soule and
+               Kavé Salamatian and
+               Nina Taft},
+  title     = {Combining Filtering and Statistical Methods for Anomaly Detection},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {331-344},
+}
+
+@inproceedings{DBLP:conf/imc/GuMT05,
+  author    = {Yu Gu and
+               Andrew McCallum and
+               Donald F. Towsley},
+  title     = {Detecting Anomalies in Network Traffic Using Maximum Entropy Estimation},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {345-350},
+}
+
+@inproceedings{DBLP:conf/imc/KumarPW05,
+  author    = {Abhishek Kumar and
+               Vern Paxson and
+               Nicholas Weaver},
+  title     = {Exploiting Underlying Structure for Detailed Reconstruction of an Internet-scale Event},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {351-364},
+}
+
+@inproceedings{DBLP:conf/imc/KattiKK05,
+  author    = {Sachin Katti and
+               Balachander Krishnamurthy and
+               Dina Katabi},
+  title     = {Collaborating Against Common Enemies},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {365-378},
+}
+
+@inproceedings{DBLP:conf/imc/RamasubramanianS05,
+  author    = {Venugopalan Ramasubramanian and
+               Emin Gün Sirer},
+  title     = {Perils of Transitive Trust in the Domain Name System},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {379-384},
+}
+
+@inproceedings{DBLP:conf/imc/XiaGF05,
+  author    = {Jianhong Xia and
+               Lixin Gao and
+               Teng Fei},
+  title     = {Flooding Attacks by Exploiting Persistent Forwarding Loops},
+  booktitle = imc,
+  year      = 2005,
+  pages     = {385-390},
+}
+
+@inproceedings{DBLP:conf/imc/PangHAPMS04,
+  author    = {Jeffrey Pang and
+               James Hendricks and
+               Aditya Akella and
+               Roberto De Prisco and
+               Bruce M. Maggs and
+               Srinivasan Seshan},
+  title     = {Availability, usage, and deployment characteristics of the domain name system},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/imc/Malone04,
+  author    = {David Malone},
+  title     = {The root of the matter: hints or slaves},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {15-20},
+}
+
+@inproceedings{DBLP:conf/imc/PangASKS04,
+  author    = {Jeffrey Pang and
+               Aditya Akella and
+               Anees Shaikh and
+               Balachander Krishnamurthy and
+               Srinivasan Seshan},
+  title     = {On the responsiveness of {DNS-based} network control},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {21-26},
+}
+
+@inproceedings{DBLP:conf/imc/PangYBPP04,
+  author    = {Ruoming Pang and
+               Vinod Yegneswaran and
+               Paul Barford and
+               Vern Paxson and
+               Larry L. Peterson},
+  title     = {Characteristics of internet background radiation},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {27-40},
+}
+
+@inproceedings{DBLP:conf/imc/SripanidkulchaiMZ04,
+  author    = {Kunwadee Sripanidkulchai and
+               Bruce M. Maggs and
+               Hui Zhang},
+  title     = {An analysis of live streaming workloads on the internet},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {41-54},
+}
+
+@inproceedings{DBLP:conf/imc/KlemmLVW04,
+  author    = {Alexander Klemm and
+               Christoph Lindemann and
+               Mary K. Vernon and
+               Oliver P. Waldhorst},
+  title     = {Characterizing the query behavior in peer-to-peer file sharing systems},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {55-67},
+}
+
+@inproceedings{DBLP:conf/imc/SommersB04,
+  author    = {Joel Sommers and
+               Paul Barford},
+  title     = {Self-configuring network traffic generation},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {68-81},
+}
+
+@inproceedings{DBLP:conf/imc/SommersYB04,
+  author    = {Joel Sommers and
+               Vinod Yegneswaran and
+               Paul Barford},
+  title     = {A framework for malicious workload generation},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {82-87},
+}
+
+@inproceedings{DBLP:conf/imc/WillingerAL04,
+  author    = {Walter Willinger and
+               David L. Alderson and
+               Lun Li},
+  title     = {A pragmatic approach to dealing with high-variability in network measurements},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {88-100},
+}
+
+@inproceedings{DBLP:conf/imc/ZhangSSDL04,
+  author    = {Yin Zhang and
+               Sumeet Singh and
+               Subhabrata Sen and
+               Nick G. Duffield and
+               Carsten Lund},
+  title     = {Online identification of hierarchical heavy hitters: algorithms, evaluation, and applications},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {101-114},
+}
+
+@inproceedings{DBLP:conf/imc/MoriUKPG04,
+  author    = {Tatsuya Mori and
+               Masato Uchida and
+               Ryoichi Kawahara and
+               Jianping Pan and
+               Shigeki Goto},
+  title     = {Identifying elephant flows through periodically sampled packets},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {115-120},
+}
+
+@inproceedings{DBLP:conf/imc/KaragiannisBFC04,
+  author    = {Thomas Karagiannis and
+               Andre Broido and
+               Michalis Faloutsos and
+               Kimberly C. Claffy},
+  title     = {Transport layer identification of P2P traffic},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {121-134},
+}
+
+@inproceedings{DBLP:conf/imc/RoughanSSD04,
+  author    = {Matthew Roughan and
+               Subhabrata Sen and
+               Oliver Spatscheck and
+               Nick G. Duffield},
+  title     = {Class-of-service mapping for QoS: a statistical signature-based approach to {IP} traffic classification},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {135-148},
+}
+
+@inproceedings{DBLP:conf/imc/GunnarJT04,
+  author    = {Anders Gunnar and
+               Mikael Johansson and
+               Thomas Telkamp},
+  title     = {Traffic matrix estimation on a large {IP} backbone: a comparison on real data},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {149-160},
+}
+
+@inproceedings{DBLP:conf/imc/PapagiannakiTL04,
+  author    = {Konstantina Papagiannaki and
+               Nina Taft and
+               Anukool Lakhina},
+  title     = {A distributed approach to measure {IP} traffic matrices},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {161-174},
+}
+
+@inproceedings{DBLP:conf/imc/TsangYBN04,
+  author    = {Yolanda Tsang and
+               Mehmet Can Yildiz and
+               Paul Barford and
+               Robert D. Nowak},
+  title     = {Network radar: tomography from round trip time measurements},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {175-180},
+}
+
+@inproceedings{DBLP:conf/imc/KumarK04,
+  author    = {Ritesh Kumar and
+               Jasleen Kaur},
+  title     = {Efficient beacon placement for network tomography},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {181-186},
+}
+
+@inproceedings{DBLP:conf/imc/KompellaSV04,
+  author    = {Ramana Rao Kompella and
+               Sumeet Singh and
+               George Varghese},
+  title     = {On scalable attack detection in the network},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {187-200},
+}
+
+@inproceedings{DBLP:conf/imc/LakhinaCD04,
+  author    = {Anukool Lakhina and
+               Mark Crovella and
+               Christophe Diot},
+  title     = {Characterization of network-wide anomalies in traffic flows},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {201-206},
+}
+
+@inproceedings{DBLP:conf/imc/SchwellerGPC04,
+  author    = {Robert T. Schweller and
+               Ashish Gupta and
+               Elliot Parsons and
+               Yan Chen},
+  title     = {Reversible sketches for efficient and accurate change detection over network data streams},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {207-212},
+}
+
+@inproceedings{DBLP:conf/imc/FeamsterMR04,
+  author    = {Nick Feamster and
+               Zhuoqing Morley Mao and
+               Jennifer Rexford},
+  title     = {BorderGuard: detecting cold potatoes from peers},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {213-218},
+}
+
+@inproceedings{DBLP:conf/imc/VeitchBP04,
+  author    = {Darryl Veitch and
+               Satish Babu Korada and
+               Attila Pásztor},
+  title     = {Robust synchronization of software clocks across the internet},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {219-232},
+}
+
+@inproceedings{DBLP:conf/imc/DegioanniV04,
+  author    = {Loris Degioanni and
+               Gianluca Varenni},
+  title     = {Introducing scalability in network measurement: toward 10 Gbps with commodity hardware},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {233-238},
+}
+
+@inproceedings{DBLP:conf/imc/MaltzZXZHGR04,
+  author    = {David A. Maltz and
+               Jibin Zhan and
+               Geoffrey G. Xie and
+               Hui Zhang and
+               Gísli Hjálmtýsson and
+               Albert G. Greenberg and
+               Jennifer Rexford},
+  title     = {Structure preserving anonymization of router configuration data},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {239-244},
+}
+
+@inproceedings{DBLP:conf/imc/KattiKBKS04,
+  author    = {Sachin Katti and
+               Dina Katabi and
+               Charles Blake and
+               Eddie Kohler and
+               Jacob Strauss},
+  title     = {MultiQ: automated detection of multiple bottleneck capacities along a path},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {245-250},
+}
+
+@inproceedings{DBLP:conf/imc/RuppDFS04,
+  author    = {Andy Rupp and
+               Holger Dreger and
+               Anja Feldmann and
+               Robin Sommer},
+  title     = {Packet trace manipulation rramework for test labs},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {251-256},
+}
+
+@inproceedings{DBLP:conf/imc/BrikSB04,
+  author    = {Vladimir Brik and
+               Jesse Stroik and
+               Suman Banerjee},
+  title     = {Debugging {DHCP} performance},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {257-262},
+}
+
+@inproceedings{DBLP:conf/imc/Paxson04,
+  author    = {Vern Paxson},
+  title     = {Strategies for sound internet measurement},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {263-271},
+}
+
+@inproceedings{DBLP:conf/imc/JainD04,
+  author    = {Manish Jain and
+               Constantinos Dovrolis},
+  title     = {Ten fallacies and pitfalls on end-to-end available bandwidth estimation},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {272-277},
+}
+
+@inproceedings{DBLP:conf/imc/YunS04,
+  author    = {Yun Mao and
+               Lawrence K. Saul},
+  title     = {Modeling distances in large-scale networks by matrix factorization},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {278-287},
+}
+
+@inproceedings{DBLP:conf/imc/GueyeZCF04,
+  author    = {Bamba Gueye and
+               Artur Ziviani and
+               Mark Crovella and
+               Serge Fdida},
+  title     = {Constraint-based geolocation of internet hosts},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {288-293},
+}
+
+@inproceedings{DBLP:conf/imc/LeeZN04,
+  author    = {Sanghwan Lee and
+               Zhi-Li Zhang and
+               Srihari Nelakuditi},
+  title     = {Exploiting as hierarchy for scalable route selection in multi-homed stub networks},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {294-299},
+}
+
+@inproceedings{DBLP:conf/imc/LiuRLL04,
+  author    = {Xiliang Liu and
+               Kaliappa Nadar Ravindran and
+               Benyuan Liu and
+               Dmitri Loguinov},
+  title     = {Single-hop probing asymptotics in available bandwidth estimation: sample-path analysis},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {300-313},
+}
+
+@inproceedings{DBLP:conf/imc/LakshminarayananPP04,
+  author    = {Karthik Lakshminarayanan and
+               Venkata N. Padmanabhan and
+               Jitendra Padhye},
+  title     = {Bandwidth estimation in broadband access networks},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {314-321},
+}
+
+@inproceedings{DBLP:conf/imc/FeldmannKMMPS04,
+  author    = {Anja Feldmann and
+               Nils Kammenhuber and
+               Olaf Maennel and
+               Bruce M. Maggs and
+               Roberto De Prisco and
+               Ravi Sundaram},
+  title     = {A methodology for estimating interdomain web traffic demand},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {322-335},
+}
+
+@inproceedings{DBLP:conf/imc/MedinaAF04,
+  author    = {Alberto Medina and
+               Mark Allman and
+               Sally Floyd},
+  title     = {Measuring interactions between transport protocols and middleboxes},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {336-341},
+}
+
+@inproceedings{DBLP:conf/imc/RaghunathRKC04,
+  author    = {Satish Raghunath and
+               K. K. Ramakrishnan and
+               Shivkumar Kalyanaraman and
+               Chris Chase},
+  title     = {Measurement based characterization and provisioning of {IP} {VPNs}},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {342-355},
+}
+
+@inproceedings{DBLP:conf/imc/GomesCAAM04,
+  author    = {Luíz Henrique Gomes and
+               Cristiano Cazita and
+               Jussara M. Almeida and
+               Virgílio A. F. Almeida and
+               Wagner Meira Jr.},
+  title     = {Characterizing a spam traffic},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {356-369},
+}
+
+@inproceedings{DBLP:conf/imc/JungS04,
+  author    = {Jaeyeon Jung and
+               Emil Sit},
+  title     = {An empirical study of spam traffic and the use of {DNS} black lists},
+  booktitle = imc,
+  year      = 2004,
+  pages     = {370-375},
+}
+
+@inproceedings{DBLP:conf/imc/MaoBGR03,
+  author    = {Zhuoqing Morley Mao and
+               Randy Bush and
+               Timothy Griffin and
+               Matthew Roughan},
+  title     = {{BGP} beacons},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/imc/WangG03,
+  author    = {Feng Wang and
+               Lixin Gao},
+  title     = {On inferring and characterizing internet routing policies},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/imc/JinT03,
+  author    = {Guojun Jin and
+               Brian Tierney},
+  title     = {System capability effects on algorithms for network bandwidth measurement},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/imc/StraussKK03,
+  author    = {Jacob Strauss and
+               Dina Katabi and
+               M. Frans Kaashoek},
+  title     = {A measurement study of available bandwidth estimation tools},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {39-44},
+}
+
+@inproceedings{DBLP:conf/imc/LakshminarayananP03,
+  author    = {Karthik Lakshminarayanan and
+               Venkata N. Padmanabhan},
+  title     = {Some findings on the network performance of broadband hosts},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {45-50},
+}
+
+@inproceedings{DBLP:conf/imc/DewesWF03,
+  author    = {Christian Dewes and
+               Arne Wichmann and
+               Anja Feldmann},
+  title     = {An analysis of Internet chat systems},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {51-64},
+}
+
+@inproceedings{DBLP:conf/imc/CuiFMGB03,
+  author    = {Jun-Hong Cui and
+               Michalis Faloutsos and
+               Dario Maggiorini and
+               Mario Gerla and
+               Khaled Boussetta},
+  title     = {Measuring and modelling the group mmbership in the internet},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {65-77},
+}
+
+@inproceedings{DBLP:conf/imc/WillsMS03,
+  author    = {Craig E. Wills and
+               Mikhail Mikhailov and
+               Hao Shang},
+  title     = {Inferring relative popularity of internet applications by actively querying {DNS} caches},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {78-90},
+}
+
+@inproceedings{DBLP:conf/imc/AndersenSB03,
+  author    = {David G. Andersen and
+               Alex C. Snoeren and
+               Hari Balakrishnan},
+  title     = {Best-path vs. multi-path overlay routing},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {91-100},
+}
+
+@inproceedings{DBLP:conf/imc/AkellaSS03,
+  author    = {Aditya Akella and
+               Srinivasan Seshan and
+               Anees Shaikh},
+  title     = {An empirical evaluation of wide-area internet bottlenecks},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {101-114},
+}
+
+@inproceedings{DBLP:conf/imc/WeiWTK03,
+  author    = {Wei Wei and
+               Bing Wang and
+               Donald F. Towsley and
+               James F. Kurose},
+  title     = {Model-based identification of dominant congested links},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {115-128},
+}
+
+@inproceedings{DBLP:conf/imc/LimHC03,
+  author    = {Hyuk Lim and
+               Jennifer C. Hou and
+               Chong-Ho Choi},
+  title     = {Constructing internet coordinate system based on delay measurement},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {129-142},
+}
+
+@inproceedings{DBLP:conf/imc/TangC03,
+  author    = {Liying Tang and
+               Mark Crovella},
+  title     = {Virtual landmarks for the internet},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {143-152},
+}
+
+@inproceedings{DBLP:conf/imc/EstanVF03,
+  author    = {Cristian Estan and
+               George Varghese and
+               Mike Fisk},
+  title     = {Bitmap algorithms for counting active flows on high speed links},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {153-166},
+}
+
+@inproceedings{DBLP:conf/imc/KumarXLW03,
+  author    = {Abhishek Kumar and
+               Jun (Jim) Xu and
+               Erran L. Li and
+               Jia Wang},
+  title     = {Space-code bloom filter for efficient traffic flow measurement},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {167-172},
+}
+
+@inproceedings{DBLP:conf/imc/GolabDDLM03,
+  author    = {Lukasz Golab and
+               David DeHaan and
+               Erik D. Demaine and
+               Alejandro López-Ortiz and
+               J. Ian Munro},
+  title     = {Identifying frequent items in sliding windows over on-line packet streams},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {173-178},
+}
+
+@inproceedings{DBLP:conf/imc/DuffieldL03,
+  author    = {Nick G. Duffield and
+               Carsten Lund},
+  title     = {Predicting resource usage and estimation accuracy in an {IP} flow measurement collection infrastructure},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {179-191},
+}
+
+@inproceedings{DBLP:conf/imc/CoatesRN03,
+  author    = {Mark Coates and
+               Michael Rabbat and
+               Robert D. Nowak},
+  title     = {Merging logical topologies using end-to-end measurements},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {192-203},
+}
+
+@inproceedings{DBLP:conf/imc/HortonL03,
+  author    = {Joseph Douglas Horton and
+               Alejandro López-Ortiz},
+  title     = {On the number of distributed measurement points for network tomography},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {204-209},
+}
+
+@inproceedings{DBLP:conf/imc/Duffield03,
+  author    = {Nick G. Duffield},
+  title     = {Simple network performance tomography},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {210-215},
+}
+
+@inproceedings{DBLP:conf/imc/ChenBK03,
+  author    = {Yan Chen and
+               David Bindel and
+               Randy H. Katz},
+  title     = {Tomography-based overlay network monitoring},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {216-231},
+}
+
+@inproceedings{DBLP:conf/imc/HohnV03,
+  author    = {Nicolas Hohn and
+               Darryl Veitch},
+  title     = {Inverting sampled traffic},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {222-233},
+}
+
+@inproceedings{DBLP:conf/imc/KrishnamurthySZC03,
+  author    = {Balachander Krishnamurthy and
+               Subhabrata Sen and
+               Yin Zhang and
+               Yan Chen},
+  title     = {Sketch-based change detection: methods, evaluation, and applications},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {234-247},
+}
+
+@inproceedings{DBLP:conf/imc/RoughanTZ03,
+  author    = {Matthew Roughan and
+               Mikkel Thorup and
+               Yin Zhang},
+  title     = {Traffic engineering with estimated traffic matrices},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {248-258},
+}
+
+@inproceedings{DBLP:conf/imc/LuL03,
+  author    = {Guohan Lu and
+               Xing Li},
+  title     = {On the correspondency between {TCP} acknowledgment packet and data packet},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {259-272},
+}
+
+@inproceedings{DBLP:conf/imc/BiazV03,
+  author    = {Saad Biaz and
+               Nitin H. Vaidya},
+  title     = {Is the round-trip time correlated with the number of packets in flight?},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {273-278},
+}
+
+@inproceedings{DBLP:conf/imc/AikatKSJ03,
+  author    = {Jay Aikat and
+               Jasleen Kaur and
+               F. Donelson Smith and
+               Kevin Jeffay},
+  title     = {Variability in {TCP} round-trip times},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {279-284},
+}
+
+@inproceedings{DBLP:conf/imc/SridharanMD03,
+  author    = {Ashwin Sridharan and
+               Sue B. Moon and
+               Christophe Diot},
+  title     = {On the correlation between route dynamics and routing loops},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {285-294},
+}
+
+@inproceedings{DBLP:conf/imc/PapagiannakiCD03,
+  author    = {Konstantina Papagiannaki and
+               Rene L. Cruz and
+               Christophe Diot},
+  title     = {Network performance monitoring at small time scales},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {295-300},
+}
+
+@inproceedings{DBLP:conf/imc/JiangD03,
+  author    = {Hao Jiang and
+               Constantinos Dovrolis},
+  title     = {Source-level {IP} packet bursts: causes and effects},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {301-306},
+}
+
+@inproceedings{DBLP:conf/imc/Allman03,
+  author    = {Mark Allman},
+  title     = {On the performance of middleboxes},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {307-312},
+}
+
+@inproceedings{DBLP:conf/imc/TeixeiraMSV03,
+  author    = {Renata Teixeira and
+               Keith Marzullo and
+               Stefan Savage and
+               Geoffrey M. Voelker},
+  title     = {In search of path diversity in {ISP} networks},
+  booktitle = imc,
+  year      = 2003,
+  pages     = {313-318},
 }

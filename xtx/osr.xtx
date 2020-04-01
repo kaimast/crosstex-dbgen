@@ -1,5 +1,177 @@
 @include journals-cs
 
+@article{DBLP:journals/sigops/KrishnanEFPSDL19,
+  author    = {Sanjay Krishnan and
+               Aaron J. Elmore and
+               Michael J. Franklin and
+               John Paparrizos and
+               Zechao Shang and
+               Adam Dziedzic and
+               Rui Liu},
+  title     = {Artificial Intelligence in {Resource-Constrained} and Shared Environments},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {1-6},
+}
+
+@article{DBLP:journals/sigops/BirmanHS19,
+  author    = {Ken Birman and
+               Bharath Hariharan and
+               Christopher De Sa},
+  title     = {{Cloud-Hosted} Intelligence for Real-time {IoT} Applications},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {7-13},
+}
+
+@article{DBLP:journals/sigops/ColemanKNNZZBOR19,
+  author    = {Cody Coleman and
+               Daniel Kang and
+               Deepak Narayanan and
+               Luigi Nardi and
+               Tian Zhao and
+               Jian Zhang and
+               Peter Bailis and
+               Kunle Olukotun and
+               Christopher Ré and
+               Matei Zaharia},
+  title     = {Analysis of DAWNBench, a {Time-to-Accuracy} Machine Learning Performance Benchmark},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {14-25},
+}
+
+@article{DBLP:journals/sigops/JeongCYJSKC19,
+  author    = {Eunji Jeong and
+               Sungwoo Cho and
+               Gyeong-In Yu and
+               Joo Seong Jeong and
+               Dongjin Shin and
+               Taebum Kim and
+               Byung-Gon Chun},
+  title     = {Speculative Symbolic Graph Execution of Imperative Deep Learning Programs},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {26-33},
+}
+
+@article{DBLP:journals/sigops/GanZHCHPD19,
+  author    = {Yu Gan and
+               Yanqi Zhang and
+               Kelvin Hu and
+               Dailun Cheng and
+               Yuan He and
+               Meghna Pancholi and
+               Christina Delimitrou},
+  title     = {Leveraging Deep Learning to Improve Performance Predictability in Cloud Microservices with Seer},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {34-39},
+}
+
+@article{DBLP:journals/sigops/ZhangH19,
+  author    = {Yiying Zhang and
+               Yutong Huang},
+  title     = {"Learned": Operating Systems},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {40-45},
+}
+
+@article{DBLP:journals/sigops/VengerovJ19,
+  author    = {David Vengerov and
+               Sesh Jalagam},
+  title     = {A Machine Learning Approach to Recommending Files in a Collaborative Work Environment},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {46-51},
+}
+
+@article{DBLP:journals/sigops/MaiKLBP19,
+  author    = {Luo Mai and
+               Alexandros Koliousis and
+               Guo Li and
+               Andrei-Octavian Brabete and
+               Peter R. Pietzuch},
+  title     = {Taming Hyper-parameters in Deep Learning Systems},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {52-58},
+}
+
+@article{DBLP:journals/sigops/PeiWTWVCRJY19,
+  author    = {Kexin Pei and
+               Shiqi Wang and
+               Yuchi Tian and
+               Justin Whitehouse and
+               Carl Vondrick and
+               Yinzhi Cao and
+               Baishakhi Ray and
+               Suman Jana and
+               Junfeng Yang},
+  title     = {Bringing Engineering Rigor to Deep Learning},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {59-67},
+}
+
+@article{DBLP:journals/sigops/LiangXYZ19,
+  author    = {Chieh-Jan Mike Liang and
+               Hui Xue and
+               Mao Yang and
+               Lidong Zhou},
+  title     = {The Case for {Learning-and-System} Co-design},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {68-74},
+}
+
+@article{DBLP:journals/sigops/LecuyerSVGH19,
+  author    = {Mathias Lécuyer and
+               Riley Spahn and
+               Kiran Vodrahalli and
+               Roxana Geambasu and
+               Daniel Hsu},
+  title     = {Privacy Accounting and Quality Control in the Sage Differentially Private {ML} Platform},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {75-84},
+}
+
+@article{DBLP:journals/sigops/DuIS19,
+  author    = {Yifan Du and
+               Valérie Issarny and
+               Françoise Sailhan},
+  title     = {When the Power of the Crowd Meets the Intelligence of the Middleware: The Mobile Phone Sensing Case},
+  journal   = osr,
+  volume    = {53},
+  number    = {1},
+  year      = 2019,
+  pages     = {85-90},
+}
+
 @article{DBLP:journals/sigops/AlamZEE18,
   author    = {Hanna Alam and
                Tianhao Zhang and
@@ -153,7 +325,7 @@
 }
 
 @article{DBLP:journals/sigops/Tennenhouse17,
-  author    = {David Tennenhouse},
+  author    = {David L. Tennenhouse},
   title     = {Research at {VMware}},
   journal   = osr,
   volume    = {51},
@@ -1520,7 +1692,7 @@
 }
 
 @article{DBLP:journals/sigops/RodriguesAVC12,
-  author    = {Luis Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Divyakant Agrawal and
                Ymir Vigfusson and
                Gregory V. Chockler},
@@ -3153,7 +3325,7 @@
 @article{DBLP:journals/sigops/HuYM10,
   author    = {Wenjin Hu and
                Tao Yang and
-               Jeanna Neefe Matthews},
+               Jeanna N. Matthews},
   title     = {The good, the bad and the ugly of consumer cloud storage},
   journal   = osr,
   volume    = {44},
@@ -4675,7 +4847,7 @@
 }
 
 @article{DBLP:journals/sigops/Matthews07,
-  author    = {Jeanna Neefe Matthews},
+  author    = {Jeanna N. Matthews},
   title     = {Operating systems review: year in review},
   journal   = osr,
   volume    = {41},
@@ -5275,7 +5447,7 @@
 }
 
 @article{DBLP:journals/sigops/Matthews06,
-  author    = {Jeanna Neefe Matthews},
+  author    = {Jeanna N. Matthews},
   title     = {Operating systems review: looking back and looking forward},
   journal   = osr,
   volume    = {40},
@@ -7858,7 +8030,7 @@
 }
 
 @article{DBLP:journals/sigops/DawuY01,
-  author    = {Gu Dawu and
+  author    = {Dawu Gu and
                Wang Yi},
   title     = {On the Techniques of Enhancing the Security of Block Ciphers},
   journal   = osr,
@@ -8890,7 +9062,7 @@
   author    = {Evangelos P. Markatos},
   title     = {Visualizing Working Sets},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {3-11},
@@ -8945,7 +9117,7 @@
                Hong Zhu},
   title     = {On the Properties of Cryptographic Protocols and the Weakness of the {BAN-like} Logics},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {12-23},
@@ -8990,7 +9162,7 @@
   author    = {Pascal Ledru},
   title     = {Adaptive Parallelism: An Early Experiment with Java Remote Method Invocation},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {24-29},
@@ -9024,7 +9196,7 @@
                Li Xie},
   title     = {BFXM: A Parallel File System Model Based on the Mechanism of Distributed Shared Memory},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {30-40},
@@ -9057,7 +9229,7 @@
                Zhimin Tang},
   title     = {An Interaction of Coherence Protocols and Memory Consistency Models in {DSM} Systems},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {41-54},
@@ -9129,7 +9301,7 @@
                Rafael Méndez},
   title     = {A New Checkpoint Mechanism for Real Time Operating Systems},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {55-62},
@@ -9152,7 +9324,7 @@
                Avelino F. Zorzo},
   title     = {On Distribution of Coordinated Atomic Actions},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {63-71},
@@ -9172,7 +9344,7 @@
   author    = {Carl Ponder},
   title     = {Organizing {UNIX} Directories as Lattices},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {72-77},
@@ -9184,7 +9356,7 @@
                Jianping Zhang},
   title     = {A Model for a Distributed {OS} Automatic Generating System},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {78-84},
@@ -9207,7 +9379,7 @@
                Li Chen},
   title     = {The Semantics Subsystem in Distributed {OS} Formalization Generating System},
   journal   = osr,
-  volume    = {31.},
+  volume    = {31},
   number    = {4},
   year      = 1997,
   pages     = {85-92},
@@ -9525,7 +9697,7 @@
 
 @article{DBLP:journals/sigops/CarreteroPMGA96,
   author    = {Jesús Carretero and
-               Felix Pérez and
+               Fernando Pérez and
                Pedro de Miguel and
                Francisco García and
                L. Alonso},
@@ -13520,7 +13692,7 @@
 
 @article{DBLP:journals/sigops/BrowneA84,
   author    = {James C. Browne and
-               George S. Almasi},
+               George S. Almási},
   title     = {The Workshop on University/Industry/Government Collaboration on Research in Parallel Computing},
   journal   = osr,
   volume    = {18},

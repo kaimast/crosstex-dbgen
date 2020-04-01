@@ -1,5 +1,302 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/Jensen20,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: Updates to the Editorial Board},
+  journal   = tods,
+  volume    = {45},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/McCamishGTTSHC20,
+  author    = {Ben McCamish and
+               Vahid Ghadakchi and
+               Arash Termehchy and
+               Behrouz Touri and
+               Eduardo Cotilla Sanchez and
+               Liang Huang and
+               Soravit Changpinyo},
+  title     = {A Game-theoretic Approach to Data Interaction},
+  journal   = tods,
+  volume    = {45},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/ZhangMKBHMM20,
+  author    = {Dan Zhang and
+               Ryan McKenna and
+               Ios Kotsogiannis and
+               George Bissias and
+               Michael Hay and
+               Ashwin Machanavajjhala and
+               Gerome Miklau},
+  title     = {ϵKTELO: A Framework for Defining Differentially Private Computations},
+  journal   = tods,
+  volume    = {45},
+  number    = {1},
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/FlorenzanoRUVV20,
+  author    = {Fernando Florenzano and
+               Cristian Riveros and
+               Martín Ugarte and
+               Stijn Vansummeren and
+               Domagoj Vrgoc},
+  title     = {Efficient Enumeration Algorithms for Regular Document Spanners},
+  journal   = tods,
+  volume    = {45},
+  number    = {1},
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/LivshitsKR20,
+  author    = {Ester Livshits and
+               Benny Kimelfeld and
+               Sudeepa Roy},
+  title     = {Computing Optimal Repairs for Functional Dependencies},
+  journal   = tods,
+  volume    = {45},
+  number    = {1},
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/KipfPBBNK19,
+  author    = {Andreas Kipf and
+               Varun Pandey and
+               Jan Böttcher and
+               Lucas Braun and
+               Thomas Neumann and
+               Alfons Kemper},
+  title     = {Scalable Analytics on Fast Data},
+  journal   = tods,
+  volume    = {44},
+  number    = {1},
+  year      = 2019,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/LiWYZ19,
+  author    = {Feifei Li and
+               Bin Wu and
+               Ke Yi and
+               Zhuoyue Zhao},
+  title     = {Wander Join and XDB: Online Aggregation via Random Walks},
+  journal   = tods,
+  volume    = {44},
+  number    = {1},
+  year      = 2019,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/BaiHLHZ19,
+  author    = {Ran Bai and
+               Wing-Kai Hon and
+               Eric Lo and
+               Zhian He and
+               Kenny Q. Zhu},
+  title     = {Historic Moments Discovery in Sequence Data},
+  journal   = tods,
+  volume    = {44},
+  number    = {1},
+  year      = 2019,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/AlexandrovKM19,
+  author    = {Alexander Alexandrov and
+               Georgi Krastev and
+               Volker Markl},
+  title     = {Representations and Optimizations for Embedded Parallel Dataflow Languages},
+  journal   = tods,
+  volume    = {44},
+  number    = {1},
+  year      = 2019,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/FanL19,
+  author    = {Wenfei Fan and
+               Ping Lu},
+  title     = {Dependencies for Graphs},
+  journal   = tods,
+  volume    = {44},
+  number    = {2},
+  year      = 2019,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/HuYT19,
+  author    = {Xiao Hu and
+               Ke Yi and
+               Yufei Tao},
+  title     = {{Output-Optimal} Massively Parallel Algorithms for Similarity Joins},
+  journal   = tods,
+  volume    = {44},
+  number    = {2},
+  year      = 2019,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/DautrichR19,
+  author    = {Jonathan L. Dautrich Jr. and
+               Chinya V. Ravishankar},
+  title     = {Inferring Insertion Times and Optimizing Error Penalties in Time-decaying Bloom Filters},
+  journal   = tods,
+  volume    = {44},
+  number    = {2},
+  year      = 2019,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/GummidiXP19,
+  author    = {Srinivasa Raghavendra Bhuvan Gummidi and
+               Xike Xie and
+               Torben Bach Pedersen},
+  title     = {A Survey of Spatial Crowdsourcing},
+  journal   = tods,
+  volume    = {44},
+  number    = {2},
+  year      = 2019,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/DammeUHHL19,
+  author    = {Patrick Damme and
+               Annett Ungethüm and
+               Juliana Hildebrandt and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {From a Comprehensive Experimental Survey to a Cost-based Selection Strategy for Lightweight Integer Compression Algorithms},
+  journal   = tods,
+  volume    = {44},
+  number    = {3},
+  year      = 2019,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/BonifatiCCT19,
+  author    = {Angela Bonifati and
+               Ugo Comignani and
+               Emmanuel Coquery and
+               Romuald Thion},
+  title     = {Interactive Mapping Specification with Exemplar Tuples},
+  journal   = tods,
+  volume    = {44},
+  number    = {3},
+  year      = 2019,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/BeedkarGM19,
+  author    = {Kaustubh Beedkar and
+               Rainer Gemulla and
+               Wim Martens},
+  title     = {A Unified Framework for Frequent Sequence Mining with Subsequence Constraints},
+  journal   = tods,
+  volume    = {44},
+  number    = {3},
+  year      = 2019,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/DeutschLV19,
+  author    = {Alin Deutsch and
+               Yuliang Li and
+               Victor Vianu},
+  title     = {Verification of Hierarchical Artifact Systems},
+  journal   = tods,
+  volume    = {44},
+  number    = {3},
+  year      = 2019,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/SeidemannGKS19,
+  author    = {Marc Seidemann and
+               Nikolaus Glombiewski and
+               Michael Körber and
+               Bernhard Seeger},
+  title     = {ChronicleDB: A {High-Performance} Event Store},
+  journal   = tods,
+  volume    = {44},
+  number    = {4},
+  year      = 2019,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/HentschelHT19,
+  author    = {Brian Hentschel and
+               Peter J. Haas and
+               Yuanyuan Tian},
+  title     = {General Temporally Biased Sampling Schemes for Online Model Management},
+  journal   = tods,
+  volume    = {44},
+  number    = {4},
+  year      = 2019,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/BrijderGBW19,
+  author    = {Robert Brijder and
+               Floris Geerts and
+               Jan Van den Bussche and
+               Timmy Weerwag},
+  title     = {On the Expressive Power of Query Languages for Matrices},
+  journal   = tods,
+  volume    = {44},
+  number    = {4},
+  year      = 2019,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/MartensT19,
+  author    = {Wim Martens and
+               Tina Trautner},
+  title     = {Dichotomies for Evaluating Simple Regular Path Queries},
+  journal   = tods,
+  volume    = {44},
+  number    = {4},
+  year      = 2019,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/LiuYB19,
+  author    = {Feilong Liu and
+               Lingyan Yin and
+               Spyros Blanas},
+  title     = {Design and Evaluation of an {RDMA-aware} Data Shuffling Operator for Parallel Database Systems},
+  journal   = tods,
+  volume    = {44},
+  number    = {4},
+  year      = 2019,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/0001YWXWLY019,
+  author    = {Sibo Wang and
+               Renchi Yang and
+               Runhui Wang and
+               Xiaokui Xiao and
+               Zhewei Wei and
+               Wenqing Lin and
+               Yin Yang and
+               Nan Tang},
+  title     = {Efficient Algorithms for Approximate {Single-Source} Personalized {PageRank} Queries},
+  journal   = tods,
+  volume    = {44},
+  number    = {4},
+  year      = 2019,
+  pages     = {18-1},
+}
+
 @article{DBLP:journals/tods/Jensen18,
   author    = {Christian S. Jensen},
   title     = {Editorial: Updates to the Editorial Board},
@@ -711,7 +1008,7 @@
   author    = {Jinhong Jung and
                Kijung Shin and
                Lee Sael and
-               U. Kang},
+               U Kang},
   title     = {Random Walk with Restart on Large Graphs Using Block Elimination},
   journal   = tods,
   volume    = {41},
@@ -4574,7 +4871,7 @@
 @article{DBLP:journals/tods/ChengKVW06,
   author    = {David Cheng and
                Ravi Kannan and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Grant Wang},
   title     = {A divide-and-merge methodology for clustering},
   journal   = tods,
@@ -6654,7 +6951,7 @@
 
 @article{DBLP:journals/tods/ScioreSR94,
   author    = {Edward Sciore and
-               Michael Siegel and
+               Michael D. Siegel and
                Arnon Rosenthal},
   title     = {Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems},
   journal   = tods,
@@ -7011,7 +7308,7 @@
 
 @article{DBLP:journals/tods/MohanHLPS92,
   author    = {C. Mohan and
-               Donald J. Haderle and
+               Don Haderle and
                Bruce G. Lindsay and
                Hamid Pirahesh and
                Peter M. Schwarz},
@@ -7156,7 +7453,7 @@
 }
 
 @article{DBLP:journals/tods/SiegelSS92,
-  author    = {Michael Siegel and
+  author    = {Michael D. Siegel and
                Edward Sciore and
                Sharon C. Salveter},
   title     = {A Method for Automatic Rule Derivation to Support Semantic Query Optimization},

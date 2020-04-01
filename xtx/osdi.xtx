@@ -220,7 +220,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/IleriCCKZ18,
-  author    = {Atalay Ileri and
+  author    = {Atalay Mert Ileri and
                Tej Chajed and
                Adam Chlipala and
                M. Frans Kaashoek and
@@ -2134,6 +2134,90 @@
   booktitle = osdi,
   year      = 2012,
   pages     = {349-362},
+}
+
+@inproceedings{DBLP:conf/osdi/DandekarGGP10,
+  author    = {Pranav Dandekar and
+               Ashish Goel and
+               Ramesh Govindan and
+               Ian Post},
+  title     = {Liquidity in Credit Networks: A Little Trust Goes a Long Way},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/KhanG10,
+  author    = {Fariba Khan and
+               Carl A. Gunter},
+  title     = {Tiered Incentives for Integrity Based Queuing},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/LaskowskiC10,
+  author    = {Paul Laskowski and
+               John Chuang},
+  title     = {Innovations and Upgrades in Virtualized Network Architectures},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/LiuC10,
+  author    = {Jerry Liu and
+               Dah Ming Chiu},
+  title     = {Mathematical Modeling of Competition in Sponsored Search Market},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/LodhiD10,
+  author    = {Aemen Lodhi and
+               Constantine Dovrolis},
+  title     = {A Network Formation Model for Internet Transit Relations},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/LondonoBL10,
+  author    = {Jorge Londoño and
+               Azer Bestavros and
+               Nikolaos Laoutaris},
+  title     = {Trade & Cap: A Customer-Managed, {Market-Based} System for Trading Bandwidth Allowances at a Shared Link},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/ParkS10,
+  author    = {Jaeok Park and
+               Mihaela van der Schaar},
+  title     = {Content Pricing in {Peer-to-Peer} Networks},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/Ren10,
+  author    = {Shaolei Ren},
+  title     = {Subscription Dynamics and Competition in Communications Markets},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/TranLS10,
+  author    = {Dinh Nguyen Tran and
+               Jinyang Li and
+               Lakshminarayanan Subramanian},
+  title     = {Collusion-resilient Credit-based Reputations for {Peer-to-Peer} Content Distribution},
+  booktitle = osdi,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/osdi/VakiliPK10,
+  author    = {Golnaz Vakili and
+               Thanasis G. Papaioannou and
+               Siavash Khorsandi},
+  title     = {A {Decision-Analytic} Approach for P2P Cooperation Policy Setting},
+  booktitle = osdi,
+  year      = 2010,
 }
 
 @inproceedings{DBLP:conf/osdi/Boyd-WickizerCMPKMZ10,
@@ -4392,7 +4476,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/WeiserWDS94,
-  author    = {Mark Weiser and
+  author    = {Mark D. Weiser and
                Brent B. Welch and
                Alan J. Demers and
                Scott Shenker},

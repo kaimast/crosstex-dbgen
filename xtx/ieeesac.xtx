@@ -1,5 +1,427 @@
 @include journals-cs
 
+@article{DBLP:journals/jsac/ZhangSRWCG20,
+  author    = {Ying-Jun Angela Zhang and
+               Hans-Peter Schwefel and
+               Hamed Mohsenian Rad and
+               Christian Wietfeld and
+               Chen Chen and
+               Hamid Gharavi},
+  title     = {Guest Editorial Special Issue on Communications and Data Analytics in Smart Grid},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-4},
+}
+
+@article{DBLP:journals/jsac/TanLWT20,
+  author    = {Xiaoqi Tan and
+               Alberto Leon-Garcia and
+               Yuan Wu and
+               Danny H. K. Tsang},
+  title     = {{Posted-Price} Retailing of Transactive Energy: An Optimal Online Mechanism Without Prediction},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {5-16},
+}
+
+@article{DBLP:journals/jsac/ZhangZSLHP20,
+  author    = {Haobo Zhang and
+               Hongliang Zhang and
+               Lingyang Song and
+               Yonghui Li and
+               Zhu Han and
+               H. Vincent Poor},
+  title     = {{Peer-to-Peer} Energy Trading in {DC} Packetized Power Microgrids},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {17-30},
+}
+
+@article{DBLP:journals/jsac/ZhaoWHL20,
+  author    = {Dongwei Zhao and
+               Hao Wang and
+               Jianwei Huang and
+               Xiaojun Lin},
+  title     = {Storage or No Storage: Duopoly Competition Between Renewable Energy Suppliers in a Local Energy Market},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {31-47},
+}
+
+@article{DBLP:journals/jsac/MaYL20,
+  author    = {Kai Ma and
+               Jie Yang and
+               Pei Liu},
+  title     = {{Relaying-Assisted} Communications for Demand Response in Smart Grid: Cost Modeling, Game Strategies, and Algorithms},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {48-60},
+}
+
+@article{DBLP:journals/jsac/WangWWS20,
+  author    = {Xinan Wang and
+               Yishen Wang and
+               Jianhui Wang and
+               Di Shi},
+  title     = {Residential Customer Baseline Load Estimation Using Stacked Autoencoder With {Pseudo-Load} Selection},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {61-70},
+}
+
+@article{DBLP:journals/jsac/ShiTDPS20,
+  author    = {Ye Shi and
+               Hoang Duong Tuan and
+               Trung Q. Duong and
+               H. Vincent Poor and
+               Andrey V. Savkin},
+  title     = {{PMU} Placement Optimization for Efficient State Estimation in Smart Grid},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {71-83},
+}
+
+@article{DBLP:journals/jsac/ZhangZ20,
+  author    = {Ling Zhang and
+               Baosen Zhang},
+  title     = {Scenario Forecasting of Residential Load Profiles},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {84-95},
+}
+
+@article{DBLP:journals/jsac/MashlakovLKTH20,
+  author    = {Aleksei Mashlakov and
+               Lasse Lensu and
+               Arto Kaarna and
+               Ville Tikka and
+               Samuli Honkapuro},
+  title     = {Probabilistic Forecasting of Battery Energy Storage {State-of-Charge} under Primary Frequency Control},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {96-109},
+}
+
+@article{DBLP:journals/jsac/LiangT20,
+  author    = {Junkai Liang and
+               Wenyuan Tang},
+  title     = {Sequence Generative Adversarial Networks for Wind Power Scenario Generation},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {110-118},
+}
+
+@article{DBLP:journals/jsac/ChenHZYH20,
+  author    = {Kunjin Chen and
+               Jun Hu and
+               Yu Zhang and
+               Zhanqing Yu and
+               Jinliang He},
+  title     = {Fault Location in Power Distribution Systems via Deep Graph Convolutional Networks},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {119-131},
+}
+
+@article{DBLP:journals/jsac/SuiM20,
+  author    = {Zhiyuan Sui and
+               Hermann de Meer},
+  title     = {An Efficient Signcryption Protocol for {Hop-by-Hop} Data Aggregations in Smart Grids},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {132-140},
+}
+
+@article{DBLP:journals/jsac/LouTTYKBG20,
+  author    = {Xin Lou and
+               Cuong Tran and
+               Rui Tan and
+               David K. Y. Yau and
+               Zbigniew T. Kalbarczyk and
+               Ambarish Kumar Banerjee and
+               Prakhar Ganesh},
+  title     = {Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {141-155},
+}
+
+@article{DBLP:journals/jsac/ShahraeiniK20,
+  author    = {Mohammad Shahraeini and
+               Panayiotis Kotzanikolaou},
+  title     = {A Dependency Analysis Model for Resilient Wide Area Measurement Systems in Smart Grid},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {156-168},
+}
+
+@article{DBLP:journals/jsac/ShereenD20,
+  author    = {Ezzeldin Shereen and
+               György Dán},
+  title     = {{Model-Based} and {Data-Driven} Detectors for Time Synchronization Attacks Against {PMUs}},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {169-179},
+}
+
+@article{DBLP:journals/jsac/JameiRTGRSP20,
+  author    = {Mahdi Jamei and
+               Raksha Ramakrishna and
+               Teklemariam Tesfay and
+               Reinhard Gentz and
+               Ciaran M. Roberts and
+               Anna Scaglione and
+               Sean Peisert},
+  title     = {Phasor Measurement Units Optimal Placement and Performance Limits for Fault Localization},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {180-192},
+}
+
+@article{DBLP:journals/jsac/VelusamyGR20,
+  author    = {Durgadevi Velusamy and
+               Pugalendhi GaneshKumar and
+               Karthikeyan Ramasamy},
+  title     = {A {Cross-Layer} Trust Evaluation Protocol for Secured Routing in Communication Network of Smart Grid},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {193-204},
+}
+
+@article{DBLP:journals/jsac/TaoM20,
+  author    = {Jin Tao and
+               George Michailidis},
+  title     = {A Statistical Framework for Detecting Electricity Theft Activities in Smart Grid Distribution Networks},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {205-216},
+}
+
+@article{DBLP:journals/jsac/LiuGXKZZ20,
+  author    = {Jiajia Liu and
+               Hongzhi Guo and
+               Jingyu Xiong and
+               Nei Kato and
+               Jie Zhang and
+               Yanning Zhang},
+  title     = {Smart and Resilient {EV} Charging in {SDN-Enhanced} Vehicular Edge Computing Networks},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {217-228},
+}
+
+@article{DBLP:journals/jsac/LiGCZS20,
+  author    = {Mushu Li and
+               Jie Gao and
+               Nan Chen and
+               Lian Zhao and
+               Xuemin Shen},
+  title     = {Decentralized {PEV} Power Allocation With Power Distribution and Transportation Constraints},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {1},
+  year      = 2020,
+  pages     = {229-243},
+}
+
+@article{DBLP:journals/jsac/WeiXBS20,
+  author    = {David S. L. Wei and
+               Kaiping Xue and
+               Roberto Bruschi and
+               Stefan Schmid},
+  title     = {Guest Editorial Leveraging Machine Learning in SDN/{NFV-Based} Networks},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {245-247},
+}
+
+@article{DBLP:journals/jsac/ZhengTDMZCZ20,
+  author    = {Jiaqi Zheng and
+               Chen Tian and
+               Haipeng Dai and
+               Qiufang Ma and
+               Wei Zhang and
+               Guihai Chen and
+               Gong Zhang},
+  title     = {Optimizing {NFV} Chain Deployment in {Software-Defined} Cellular Core},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {248-262},
+}
+
+@article{DBLP:journals/jsac/PeiHPLZ20,
+  author    = {Jianing Pei and
+               Peilin Hong and
+               Miao Pan and
+               Jiangqing Liu and
+               Jingsong Zhou},
+  title     = {Optimal {VNF} Placement via Deep Reinforcement Learning in SDN/{NFV-Enabled} Networks},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {263-278},
+}
+
+@article{DBLP:journals/jsac/GuZLGZJ20,
+  author    = {Lin Gu and
+               Deze Zeng and
+               Wei Li and
+               Song Guo and
+               Albert Y. Zomaya and
+               Hai Jin},
+  title     = {Intelligent {VNF} Orchestration and Flow Scheduling via {Model-Assisted} Deep Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {279-291},
+}
+
+@article{DBLP:journals/jsac/SolozabalCSZBL20,
+  author    = {Ruben Solozabal and
+               Josu Ceberio and
+               Aitor Sanchoyerto and
+               Luis Zabala and
+               Bego Blanco and
+               Fidel Liberal},
+  title     = {Virtual Network Function Placement Optimization With Deep Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {292-303},
+}
+
+@article{DBLP:journals/jsac/RoigEG20,
+  author    = {Joan S. Pujol Roig and
+               David Manuel Gutiérrez Estévez and
+               Deniz Gündüz},
+  title     = {Management and Orchestration of Virtual Network Functions via Deep Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {304-317},
+}
+
+@article{DBLP:journals/jsac/Karimzadeh-Farshbafan20,
+  author    = {Mohammad Karimzadeh-Farshbafan and
+               Vahid Shah-Mansouri and
+               Dusit Niyato},
+  title     = {A Dynamic {Reliability-Aware} Service Placement for Network Function Virtualization (NFV)},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {318-333},
+}
+
+@article{DBLP:journals/jsac/HuaLZCZ20,
+  author    = {Yuxiu Hua and
+               Rongpeng Li and
+               Zhifeng Zhao and
+               Xianfu Chen and
+               Honggang Zhang},
+  title     = {{GAN-Powered} Deep Distributional Reinforcement Learning for Resource Management in Network Slicing},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {334-349},
+}
+
+@article{DBLP:journals/jsac/CherguiV20,
+  author    = {Hatim Chergui and
+               Christos V. Verikoukis},
+  title     = {Offline {SLA-Constrained} Deep Learning for 5G Networks Reliable and Dynamic {End-to-End} Slicing},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {350-360},
+}
+
+@article{DBLP:journals/jsac/BegaGFBC20,
+  author    = {Dario Bega and
+               Marco Gramaglia and
+               Marco Fiore and
+               Albert Banchs and
+               Xavier Costa-Pérez},
+  title     = {DeepCog: Optimizing Resource Provisioning in Network Slicing With {AI-Based} Capacity Forecasting},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {361-376},
+}
+
+@article{DBLP:journals/jsac/YangRB20,
+  author    = {Hemin Yang and
+               George F. Riley and
+               Douglas M. Blough},
+  title     = {STEREOS: Smart Table {EntRy} Eviction for {OpenFlow} Switches},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {377-388},
+}
+
+@article{DBLP:journals/jsac/XieJW20,
+  author    = {Ruitao Xie and
+               Xiaohua Jia and
+               Kaishun Wu},
+  title     = {Adaptive Online Decision Method for Initial Congestion Window in 5G Mobile Edge Computing Using Deep Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {38},
+  number    = {2},
+  year      = 2020,
+  pages     = {389-403},
+}
+
 @article{DBLP:journals/jsac/ClerckxZSNKP19,
   author    = {Bruno Clerckx and
                Rui Zhang and
@@ -144,7 +566,7 @@
 
 @article{DBLP:journals/jsac/KhalfetP19,
   author    = {Nizar Khalfet and
-               Samir Medina Perlaza},
+               Samir M. Perlaza},
   title     = {Simultaneous Information and Energy Transmission in the {Two-User} Gaussian Interference Channel},
   journal   = ieeesac,
   volume    = {37},
@@ -218,6 +640,2507 @@
   number    = {1},
   year      = 2019,
   pages     = {233-247},
+}
+
+@article{DBLP:journals/jsac/ClerckxZSNKP19b,
+  author    = {Bruno Clerckx and
+               Rui Zhang and
+               Robert Schober and
+               Derrick Wing Kwan Ng and
+               Dong In Kim and
+               H. Vincent Poor},
+  title     = {Guest Editorial Wireless Transmission of Information and Power - Part {II}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {249-252},
+}
+
+@article{DBLP:journals/jsac/ZhouLSWWCH19,
+  author    = {Xiaobo Zhou and
+               Jun Li and
+               Feng Shu and
+               Qingqing Wu and
+               Yongpeng Wu and
+               Wen Chen and
+               Lajos Hanzo},
+  title     = {Secure {SWIPT} for Directional {Modulation-Aided} {AF} Relaying Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {253-268},
+}
+
+@article{DBLP:journals/jsac/DengH19,
+  author    = {Na Deng and
+               Martin Haenggi},
+  title     = {The Energy and Rate Meta Distributions in Wirelessly Powered D2D Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {269-282},
+}
+
+@article{DBLP:journals/jsac/LiJGSY19,
+  author    = {Zhidu Li and
+               Yuming Jiang and
+               Yuehong Gao and
+               Lin Sang and
+               Dacheng Yang},
+  title     = {On {Buffer-Constrained} Throughput of a {Wireless-Powered} Communication System},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {283-297},
+}
+
+@article{DBLP:journals/jsac/ShanLWS19,
+  author    = {Feng Shan and
+               Junzhou Luo and
+               Weiwei Wu and
+               Xiaojun Shen},
+  title     = {Delay Minimization for Data Transmission in Wireless Power Transfer Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {298-312},
+}
+
+@article{DBLP:journals/jsac/ZewdeG19,
+  author    = {Tewodros A. Zewde and
+               Mustafa Cenk Gursoy},
+  title     = {Optimal Resource Allocation for {Energy-Harvesting} Communication Networks Under Statistical {QoS} Constraints},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {313-326},
+}
+
+@article{DBLP:journals/jsac/ZhangW19,
+  author    = {Xi Zhang and
+               Fei Wang},
+  title     = {Resource Allocation for Wireless Power Transmission Over {Full-Duplex} OFDMA/{NOMA} Mobile Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {327-344},
+}
+
+@article{DBLP:journals/jsac/ChangWGYHR19,
+  author    = {Zheng Chang and
+               Zhongyu Wang and
+               Xijuan Guo and
+               Chungang Yang and
+               Zhu Han and
+               Tapani Ristaniemi},
+  title     = {Distributed Resource Allocation for Energy Efficiency in {OFDMA} Multicell Networks With Wireless Power Transfer},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {345-356},
+}
+
+@article{DBLP:journals/jsac/NguyenVTJ19,
+  author    = {Kien-Giang Nguyen and
+               Quang-Doanh Vu and
+               Le-Nam Tran and
+               Markku J. Juntti},
+  title     = {Energy Efficiency Fairness for {Multi-Pair} {Wireless-Powered} Relaying Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {357-373},
+}
+
+@article{DBLP:journals/jsac/MalikV19,
+  author    = {Rafia Malik and
+               Mai Vu},
+  title     = {Optimal Transmission Using a {Self-Sustained} Relay in a {Full-Duplex} {MIMO} System},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {374-390},
+}
+
+@article{DBLP:journals/jsac/LiYAGH19,
+  author    = {Xiaoyang Li and
+               Changsheng You and
+               Sergey Andreev and
+               Yi Gong and
+               Kaibin Huang},
+  title     = {Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression, and Transmission},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {391-406},
+}
+
+@article{DBLP:journals/jsac/DuXF19,
+  author    = {Rong Du and
+               Ming Xiao and
+               Carlo Fischione},
+  title     = {Optimal Node Deployment and Energy Provision for Wirelessly Powered Sensor Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {407-423},
+}
+
+@article{DBLP:journals/jsac/PsomasK19,
+  author    = {Constantinos Psomas and
+               Ioannis Krikidis},
+  title     = {Energy Beamforming in Wireless Powered {mmWave} Sensor Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {424-438},
+}
+
+@article{DBLP:journals/jsac/LiXZYCH19,
+  author    = {Lixin Li and
+               Yang Xu and
+               Zihe Zhang and
+               Jiaying Yin and
+               Wei Chen and
+               Zhu Han},
+  title     = {A {Prediction-Based} Charging Policy and Interference Mitigation Approach in the Wireless Powered Internet of Things},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {439-451},
+}
+
+@article{DBLP:journals/jsac/ZhangGLY19,
+  author    = {Qianqian Zhang and
+               Huayan Guo and
+               Ying-Chang Liang and
+               Xiaojun Yuan},
+  title     = {Constellation {Learning-Based} Signal Detection for Ambient Backscatter Communication Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {452-463},
+}
+
+@article{DBLP:journals/jsac/VougioukasB19,
+  author    = {Georgios Vougioukas and
+               Aggelos Bletsas},
+  title     = {Switching Frequency Techniques for Universal Ambient Backscatter Networking},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {2},
+  year      = 2019,
+  pages     = {464-477},
+}
+
+@article{DBLP:journals/jsac/Taleb19,
+  author    = {Tarik Taleb},
+  title     = {Editorial Third Edition of the {IEEE} {JSAC} Series on Network Softwarization & Enablers},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {481-483},
+}
+
+@article{DBLP:journals/jsac/QiuYZWSF19,
+  author    = {Kun Qiu and
+               Jing Yuan and
+               Jin Zhao and
+               Xin Wang and
+               Stefano Secci and
+               Xiaoming Fu},
+  title     = {FastRule: Efficient Flow Entry Updates for {TCAM-Based} {OpenFlow} Switches},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {484-498},
+}
+
+@article{DBLP:journals/jsac/BruschiDLP19,
+  author    = {Roberto Bruschi and
+               Franco Davoli and
+               Paolo Lago and
+               Jane Frances Pajo},
+  title     = {A {Multi-Clustering} Approach to Scale Distributed Tenant Networks for Mobile Edge Computing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {499-514},
+}
+
+@article{DBLP:journals/jsac/XuCWWWWMC19,
+  author    = {Yang Xu and
+               Marco Cello and
+               I-Chih Wang and
+               Anwar Walid and
+               Gordon T. Wilfong and
+               Charles H.-P. Wen and
+               Mario Marchese and
+               H. Jonathan Chao},
+  title     = {Dynamic Switch Migration in Distributed {Software-Defined} Networks to Achieve Controller Load Balance},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {515-529},
+}
+
+@article{DBLP:journals/jsac/BeraMJ19,
+  author    = {Samaresh Bera and
+               Sudip Misra and
+               Abbas Jamalipour},
+  title     = {FlowStat: Adaptive {Flow-Rule} Placement for {Per-Flow} Statistics in {SDN}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {530-539},
+}
+
+@article{DBLP:journals/jsac/LvZLXWWLCL19,
+  author    = {Liang Lv and
+               Yuchao Zhang and
+               Yusen Li and
+               Ke Xu and
+               Dan Wang and
+               Wendong Wang and
+               Minghui Li and
+               Xuan Cao and
+               Qingqing Liang},
+  title     = {{Communication-Aware} Container Placement and Reassignment in {Large-Scale} Internet Data Centers},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {540-555},
+}
+
+@article{DBLP:journals/jsac/ZhangBZW19,
+  author    = {Cheng Zhang and
+               Jun Bi and
+               Yu Zhou and
+               Jianping Wu},
+  title     = {HyperVDP: {High-Performance} Virtualization of the Programmable Data Plane},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {556-569},
+}
+
+@article{DBLP:journals/jsac/ZhangBGQLKLH19,
+  author    = {Menghao Zhang and
+               Jun Bi and
+               Kai Gao and
+               Yi Qiao and
+               Guanyu Li and
+               Xiao Kong and
+               Zhaogeng Li and
+               Hongxin Hu},
+  title     = {Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {570-585},
+}
+
+@article{DBLP:journals/jsac/DuanYZWCL19,
+  author    = {Jingpu Duan and
+               Xiaodong Yi and
+               Shixiong Zhao and
+               Chuan Wu and
+               Heming Cui and
+               Franck Le},
+  title     = {NFVactor: A Resilient {NFV} System Using the Distributed Actor Model},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {586-599},
+}
+
+@article{DBLP:journals/jsac/DuanYWWL19,
+  author    = {Jingpu Duan and
+               Xiaodong Yi and
+               Junjie Wang and
+               Chuan Wu and
+               Franck Le},
+  title     = {NetStar: A Future/Promise Framework for Asynchronous Network Functions},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {600-612},
+}
+
+@article{DBLP:journals/jsac/MiaoMWHZWL19,
+  author    = {Wang Miao and
+               Geyong Min and
+               Yulei Wu and
+               Haojun Huang and
+               Zhiwei Zhao and
+               Haozhe Wang and
+               Chunbo Luo},
+  title     = {Stochastic Performance Analysis of Network Function Virtualization in Future Internet},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {613-626},
+}
+
+@article{DBLP:journals/jsac/Halabian19,
+  author    = {Hassan Halabian},
+  title     = {Distributed Resource Allocation Optimization in 5G Virtualized Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {627-642},
+}
+
+@article{DBLP:journals/jsac/HawiloJS19,
+  author    = {Hassan Hawilo and
+               Manar Jammal and
+               Abdallah Shami},
+  title     = {Network Function {Virtualization-Aware} Orchestrator for Service Function Chaining Placement in the Cloud},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {643-655},
+}
+
+@article{DBLP:journals/jsac/ChangW19,
+  author    = {Wan-Chi Chang and
+               Pi-Chung Wang},
+  title     = {{Write-Aware} Replica Placement for Cloud Computing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {656-667},
+}
+
+@article{DBLP:journals/jsac/AlameddineSSAA19,
+  author    = {Hyame Assem Alameddine and
+               Sanaa Sharafeddine and
+               Samir Sebbah and
+               Sara Ayoubi and
+               Chadi Assi},
+  title     = {Dynamic Task Offloading and Scheduling for {Low-Latency} {IoT} Services in {Multi-Access} Edge Computing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {668-682},
+}
+
+@article{DBLP:journals/jsac/FanDSF19,
+  author    = {Wenjun Fan and
+               Zhihui Du and
+               Max Smith-Creasey and
+               David Fernández},
+  title     = {HoneyDOC: An Efficient Honeypot Architecture Enabling {All-Round} Design},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {3},
+  year      = 2019,
+  pages     = {683-697},
+}
+
+@article{DBLP:journals/jsac/KountourisPHBMS19,
+  author    = {Marios Kountouris and
+               Petar Popovski and
+               I-Hong Hou and
+               Stefano Buzzi and
+               Andreas Müller and
+               Stefania Sesia and
+               Robert W. Heath Jr.},
+  title     = {Guest Editorial {Ultra-Reliable} {Low-Latency} Communications in Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {701-704},
+}
+
+@article{DBLP:journals/jsac/SwamyRRNS19,
+  author    = {Vasuki Narasimha Swamy and
+               Paul Rigge and
+               Gireeja Ranade and
+               Borivoje Nikolic and
+               Anant Sahai},
+  title     = {Wireless Channel Dynamics and Robustness for {Ultra-Reliable} {Low-Latency} Communications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {705-720},
+}
+
+@article{DBLP:journals/jsac/DevassyDFSU19,
+  author    = {Rahul Devassy and
+               Giuseppe Durisi and
+               Guido Carlo Ferrante and
+               Osvaldo Simeone and
+               Elif Uysal-Biyikoglu},
+  title     = {Reliable Transmission of Short Packets Through Queues and Noisy Channels Under Latency and {Peak-Age} Violation Guarantees},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {721-734},
+}
+
+@article{DBLP:journals/jsac/ZhouWM19,
+  author    = {Lin Zhou and
+               Albrecht Wolf and
+               Mehul Motani},
+  title     = {On Lossy Multi-Connectivity: Finite Blocklength Performance and {Second-Order} Asymptotics},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {735-748},
+}
+
+@article{DBLP:journals/jsac/SahinLPM19,
+  author    = {Cenk Sahin and
+               Lingjia Liu and
+               Erik Perrins and
+               Liangping Ma},
+  title     = {{Delay-Sensitive} Communications Over IR-HARQ: Modulation, Coding Latency, and Reliability},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {749-764},
+}
+
+@article{DBLP:journals/jsac/SchiesslGSC19,
+  author    = {Sebastian Schiessl and
+               James Gross and
+               Mikael Skoglund and
+               Giuseppe Caire},
+  title     = {Delay Performance of the Multiuser {MISO} Downlink Under Imperfect {CSI} and {Finite-Length} Coding},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {765-779},
+}
+
+@article{DBLP:journals/jsac/XiaoZNSLLW19,
+  author    = {Chiyang Xiao and
+               Jie Zeng and
+               Wei Ni and
+               Xin Su and
+               Ren Ping Liu and
+               Tiejun Lv and
+               Jing Wang},
+  title     = {Downlink {MIMO-NOMA} for {Ultra-Reliable} {Low-Latency} Communications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {780-794},
+}
+
+@article{DBLP:journals/jsac/ForssellTAG19,
+  author    = {Henrik Forssell and
+               Ragnar Thobaben and
+               Hussein Al-Zubaidy and
+               James Gross},
+  title     = {Physical Layer Authentication in {Mission-Critical} {MTC} Networks: A Security and Delay Performance Analysis},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {795-808},
+}
+
+@article{DBLP:journals/jsac/MalakMY19,
+  author    = {Derya Malak and
+               Muriel Médard and
+               Edmund M. Yeh},
+  title     = {Tiny Codes for Guaranteeable Delay},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {809-825},
+}
+
+@article{DBLP:journals/jsac/XiangBMAH19,
+  author    = {Luping Xiang and
+               Matthew F. Brejza and
+               Robert G. Maunder and
+               Bashir M. Al-Hashimi and
+               Lajos Hanzo},
+  title     = {Arbitrarily Parallel Turbo Decoding for {Ultra-Reliable} Low Latency Communication in 3{GPP} {LTE}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {826-838},
+}
+
+@article{DBLP:journals/jsac/LiuZLJH19,
+  author    = {Yujie Liu and
+               Xu Zhu and
+               Eng Gee Lim and
+               Yufei Jiang and
+               Yi Huang},
+  title     = {Fast Iterative {Semi-Blind} Receiver for {URLLC} in {Short-Frame} {Full-Duplex} Systems With {CFO}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {839-853},
+}
+
+@article{DBLP:journals/jsac/JainKP19,
+  author    = {Ish Kumar Jain and
+               Rajeev Kumar and
+               Shivendra S. Panwar},
+  title     = {The Impact of Mobile Blockers on Millimeter Wave Cellular Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {854-868},
+}
+
+@article{DBLP:journals/jsac/AyoughiYKV19,
+  author    = {Seyed Arvin Ayoughi and
+               Wei Yu and
+               Saeed R. Khosravirad and
+               Harish Viswanathan},
+  title     = {Interference Mitigation for Ultrareliable {Low-Latency} Wireless Communication},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {869-880},
+}
+
+@article{DBLP:journals/jsac/TangSQ19,
+  author    = {Jianhua Tang and
+               Byonghyo Shim and
+               Tony Q. S. Quek},
+  title     = {Service Multiplexing and Revenue Maximization in Sliced {C-RAN} Incorporated With {URLLC} and Multicast {eMBB}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {881-895},
+}
+
+@article{DBLP:journals/jsac/ElayoubiBDG19,
+  author    = {Salah-Eddine Elayoubi and
+               Patrick Brown and
+               Matha Deghel and
+               Ana Galindo-Serrano},
+  title     = {Radio Resource Allocation and Retransmission Schemes for {URLLC} Over 5G Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {896-904},
+}
+
+@article{DBLP:journals/jsac/GuoLL19,
+  author    = {Chongtao Guo and
+               Le Liang and
+               Geoffrey Ye Li},
+  title     = {Resource Allocation for {Low-Latency} Vehicular Communications: An Effective Capacity Perspective},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {905-917},
+}
+
+@article{DBLP:journals/jsac/AbbaslooXC19,
+  author    = {Soheil Abbasloo and
+               Yang Xu and
+               H. Jonathan Chao},
+  title     = {C2TCP: A Flexible Cellular {TCP} to Meet Stringent Delay Requirements},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {918-932},
+}
+
+@article{DBLP:journals/jsac/JiangPZDLF19,
+  author    = {Xiaolin Jiang and
+               Zhibo Pang and
+               Ming Zhan and
+               Dacfey Dzung and
+               Michele Luvisotto and
+               Carlo Fischione},
+  title     = {Packet Detection by a Single {OFDM} Symbol in {URLLC} for Critical Industrial Control: A Realistic Study},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {933-946},
+}
+
+@article{DBLP:journals/jsac/KhoshnevisanJGM19,
+  author    = {Mostafa Khoshnevisan and
+               Vinay Joseph and
+               Piyush Gupta and
+               Farhad Meshkati and
+               Rajat Prakash and
+               Peerapol Tinnakornsrisuphap},
+  title     = {5G Industrial Networks With {CoMP} for {URLLC} and Time Sensitive Network Architecture},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {4},
+  year      = 2019,
+  pages     = {947-959},
+}
+
+@article{DBLP:journals/jsac/Taleb19a,
+  author    = {Tarik Taleb},
+  title     = {Editorial Fourth Edition of the {IEEE} {JSAC} Series on Network Softwarization & Enablers},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {965-967},
+}
+
+@article{DBLP:journals/jsac/ZhengLTFSCWL19,
+  author    = {Jiaqi Zheng and
+               Bo Li and
+               Chen Tian and
+               Klaus-Tycho Foerster and
+               Stefan Schmid and
+               Guihai Chen and
+               Jie Wu and
+               Rui Li},
+  title     = {{Congestion-Free} Rerouting of Multiple Flows in Timed {SDNs}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {968-981},
+}
+
+@article{DBLP:journals/jsac/TapolcaiRBB19,
+  author    = {János Tapolcai and
+               Gábor Rétvári and
+               Péter Babarczi and
+               Erika R. Bérczi-Kovács},
+  title     = {Scalable and Efficient Multipath Routing via Redundant Trees},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {982-996},
+}
+
+@article{DBLP:journals/jsac/TomovicR19,
+  author    = {Slavica Tomovic and
+               Igor Radusinovic},
+  title     = {RO-RO: Routing Optimality - Reconfiguration Overhead Balance in {Software-Defined} {ISP} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {997-1011},
+}
+
+@article{DBLP:journals/jsac/GuoCLXZ19,
+  author    = {Zehua Guo and
+               Weikun Chen and
+               Ya-Feng Liu and
+               Yang Xu and
+               Zhi-Li Zhang},
+  title     = {Joint Switch Upgrade and Controller Deployment in Hybrid {Software-Defined} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1012-1028},
+}
+
+@article{DBLP:journals/jsac/DehuryS19,
+  author    = {Chinmaya Kumar Dehury and
+               Prasan Kumar Sahoo},
+  title     = {DYVINE: {Fitness-Based} Dynamic Virtual Network Embedding in Cloud Computing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1029-1045},
+}
+
+@article{DBLP:journals/jsac/ZhouLW19,
+  author    = {Ruiting Zhou and
+               Zongpeng Li and
+               Chuan Wu},
+  title     = {An Efficient Online Placement Scheme for Cloud Container Clusters},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1046-1058},
+}
+
+@article{DBLP:journals/jsac/GuZTGJZZ19,
+  author    = {Lin Gu and
+               Deze Zeng and
+               Sheng Tao and
+               Song Guo and
+               Hai Jin and
+               Albert Y. Zomaya and
+               Weihua Zhuang},
+  title     = {{Fairness-Aware} Dynamic Rate Control and Flow Scheduling for Network Utility Maximization in Network Service Chain},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1059-1071},
+}
+
+@article{DBLP:journals/jsac/ZahaviSRKK19,
+  author    = {Eitan Zahavi and
+               Alexander Shpiner and
+               Ori Rottenstreich and
+               Avinoam Kolodny and
+               Isaac Keslassy},
+  title     = {Links as a Service (LaaS): Guaranteed Tenant Isolation in the Shared Cloud},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1072-1084},
+}
+
+@article{DBLP:journals/jsac/RenGSTL19,
+  author    = {Bangbang Ren and
+               Deke Guo and
+               Yulong Shen and
+               Guoming Tang and
+               Xu Lin},
+  title     = {Embedding Service Function Tree With Minimum Cost for {NFV-Enabled} Multicast},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1085-1097},
+}
+
+@article{DBLP:journals/jsac/XiangGUNRF19,
+  author    = {Zuo Xiang and
+               Frank Gabriel and
+               Elena Urbano and
+               Giang T. Nguyen and
+               Martin Reisslein and
+               Frank H. P. Fitzek},
+  title     = {Reducing Latency in Virtual Machines: Enabling Tactile Internet for {Human-Machine} {Co-Working}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1098-1116},
+}
+
+@article{DBLP:journals/jsac/ChengLQZHSS19,
+  author    = {Xiongwen Cheng and
+               Feng Lyu and
+               Wei Quan and
+               Conghao Zhou and
+               Hongli He and
+               Weisen Shi and
+               Xuemin Shen},
+  title     = {Space/{Aerial-Assisted} Computing Offloading for {IoT} Applications: A {Learning-Based} Approach},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1117-1129},
+}
+
+@article{DBLP:journals/jsac/MouradianKAEJG19,
+  author    = {Carla Mouradian and
+               Somayeh Kianpisheh and
+               Mohammad Abu-Lebdeh and
+               Fereshteh Ebrahimnezhad and
+               Narjes Tahghigh Jahromi and
+               Roch H. Glitho},
+  title     = {Application Component Placement in {NFV-Based} Hybrid Cloud/Fog Systems With Mobile Fog Nodes},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1130-1143},
+}
+
+@article{DBLP:journals/jsac/HeRWHZZS19,
+  author    = {Shiwen He and
+               Ju Ren and
+               Jiaheng Wang and
+               Yongming Huang and
+               Yaoxue Zhang and
+               Weihua Zhuang and
+               Xuemin (Sherman) Shen},
+  title     = {{Cloud-Edge} Coordinated Processing: {Low-Latency} Multicasting Transmission},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1144-1158},
+}
+
+@article{DBLP:journals/jsac/MisraS19,
+  author    = {Sudip Misra and
+               Niloy Saha},
+  title     = {Detour: Dynamic Task Offloading in {Software-Defined} Fog for {IoT} Applications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1159-1166},
+}
+
+@article{DBLP:journals/jsac/SoltanianNGE19,
+  author    = {Abbas Soltanian and
+               Diala Naboulsi and
+               Roch H. Glitho and
+               Halima Elbiaze},
+  title     = {Resource Allocation Mechanism for Media Handling Services in Cloud Multimedia Conferencing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {5},
+  year      = 2019,
+  pages     = {1167-1181},
+}
+
+@article{DBLP:journals/jsac/ChemouilHKLSTWZ19,
+  author    = {Prosper Chemouil and
+               Pan Hui and
+               Wolfgang Kellerer and
+               Yong Li and
+               Rolf Stadler and
+               Dacheng Tao and
+               Yonggang Wen and
+               Ying Zhang},
+  title     = {Special Issue on Artificial Intelligence and Machine Learning for Networking and Communications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1185-1191},
+}
+
+@article{DBLP:journals/jsac/XiaoCZHW19,
+  author    = {Fu Xiao and
+               Lei Chen and
+               Hai Zhu and
+               Richang Hong and
+               Ruchuan Wang},
+  title     = {{Anomaly-Tolerant} Network Traffic Estimation via {Noise-Immune} Temporal Matrix Completion Model},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1192-1204},
+}
+
+@article{DBLP:journals/jsac/WangTSLMHC19,
+  author    = {Shiqiang Wang and
+               Tiffany Tuor and
+               Theodoros Salonidis and
+               Kin K. Leung and
+               Christian Makaya and
+               Ting He and
+               Kevin Chan},
+  title     = {Adaptive Federated Learning in Resource Constrained Edge Computing Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1205-1221},
+}
+
+@article{DBLP:journals/jsac/UsmanJHC19,
+  author    = {Muhammad Usman and
+               Mian Ahmad Jan and
+               Xiangjian He and
+               Jinjun Chen},
+  title     = {P2DCA: A {Privacy-Preserving-Based} Data Collection and Analysis Framework for {IoMT} Applications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1222-1230},
+}
+
+@article{DBLP:journals/jsac/NieZLCSZYP19,
+  author    = {Xiaohui Nie and
+               Youjian Zhao and
+               Zhihan Li and
+               Guo Chen and
+               Kaixin Sui and
+               Jiyang Zhang and
+               Zijie Ye and
+               Dan Pei},
+  title     = {Dynamic {TCP} Initial Windows and Congestion Control Schemes Through Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1231-1247},
+}
+
+@article{DBLP:journals/jsac/CuiSY19,
+  author    = {Wei Cui and
+               Kaiming Shen and
+               Wei Yu},
+  title     = {Spatial Deep Learning for Wireless Scheduling},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1248-1261},
+}
+
+@article{DBLP:journals/jsac/LiuCZ19,
+  author    = {Chi Harold Liu and
+               Zheyu Chen and
+               Yufeng Zhan},
+  title     = {{Energy-Efficient} Distributed Mobile Crowd Sensing: A Deep Learning Approach},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1262-1276},
+}
+
+@article{DBLP:journals/jsac/YuWL19,
+  author    = {Yiding Yu and
+               Taotao Wang and
+               Soung Chang Liew},
+  title     = {{Deep-Reinforcement} Learning Multiple Access for Heterogeneous Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1277-1290},
+}
+
+@article{DBLP:journals/jsac/XuYXLC19,
+  author    = {Yue Xu and
+               Feng Yin and
+               Wenjun Xu and
+               Jiaru Lin and
+               Shuguang Cui},
+  title     = {Wireless Traffic Prediction With Scalable Gaussian Process: Framework, Algorithms, and Verification},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1291-1306},
+}
+
+@article{DBLP:journals/jsac/JarwanSI19,
+  author    = {Abdallah Jarwan and
+               Ayman I. Sabbah and
+               Mohamed Ibnkahla},
+  title     = {Data Transmission Reduction Schemes in {WSNs} for Efficient {IoT} Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1307-1324},
+}
+
+@article{DBLP:journals/jsac/XuTYWX19,
+  author    = {Zhiyuan Xu and
+               Jian Tang and
+               Chengxiang Yin and
+               Yanzhi Wang and
+               Guoliang Xue},
+  title     = {{Experience-Driven} Congestion Control: When {Multi-Path} {TCP} Meets Deep Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1325-1336},
+}
+
+@article{DBLP:journals/jsac/TaoDXML19,
+  author    = {Xiaoming Tao and
+               Yiping Duan and
+               Mai Xu and
+               Zhishen Meng and
+               Jianhua Lu},
+  title     = {Learning {QoE} of Mobile Video Transmission With Deep Neural Network: A {Data-Driven} Approach},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1337-1348},
+}
+
+@article{DBLP:journals/jsac/ChenDWLHWG19,
+  author    = {Ziqian Chen and
+               Ling-Yu Duan and
+               Shiqi Wang and
+               Yihang Lou and
+               Tiejun Huang and
+               Dapeng Oliver Wu and
+               Wen Gao},
+  title     = {Toward Knowledge as a Service Over Networks: A Deep Learning Model Communication Paradigm},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1349-1363},
+}
+
+@article{DBLP:journals/jsac/ZhuWHS19,
+  author    = {Banghua Zhu and
+               Jintao Wang and
+               Longzhuang He and
+               Jian Song},
+  title     = {Joint Transceiver Optimization for Wireless Communication {PHY} Using Neural Network},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1364-1373},
+}
+
+@article{DBLP:journals/jsac/Ayala-RomeroAZZ19,
+  author    = {Jose A. Ayala-Romero and
+               Juan J. Alcaraz and
+               Andrea Zanella and
+               Michele Zorzi},
+  title     = {Online Learning for Energy Saving and Interference Coordination in {HetNets}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1374-1388},
+}
+
+@article{DBLP:journals/jsac/ZhangZQYZ19,
+  author    = {Chuanting Zhang and
+               Haixia Zhang and
+               Jingping Qiao and
+               Dongfeng Yuan and
+               Minggao Zhang},
+  title     = {Deep Transfer Learning for Intelligent Cellular Traffic Prediction Based on {Cross-Domain} Big Data},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1389-1401},
+}
+
+@article{DBLP:journals/jsac/MarchalMNSA19,
+  author    = {Samuel Marchal and
+               Markus Miettinen and
+               Thien Duc Nguyen and
+               Ahmad-Reza Sadeghi and
+               N. Asokan},
+  title     = {AuDI: Toward Autonomous {IoT} {Device-Type} Identification Using Periodic Communication},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1402-1412},
+}
+
+@article{DBLP:journals/jsac/WangDWB19,
+  author    = {Ying Wang and
+               Xiangming Dai and
+               Jason Min Wang and
+               Brahim Bensaou},
+  title     = {A Reinforcement Learning Approach to Energy Efficiency and {QoS} in 5G Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1413-1423},
+}
+
+@article{DBLP:journals/jsac/JiangDNC19,
+  author    = {Nan Jiang and
+               Yansha Deng and
+               Arumugam Nallanathan and
+               Jonathon A. Chambers},
+  title     = {Reinforcement Learning for {Real-Time} Optimization in {NB-IoT} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1424-1440},
+}
+
+@article{DBLP:journals/jsac/FangCWY19,
+  author    = {Luoyang Fang and
+               Xiang Cheng and
+               Haonan Wang and
+               Liuqing Yang},
+  title     = {Idle Time Window Prediction in Cellular Networks with Deep Spatiotemporal Modeling},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1441-1454},
+}
+
+@article{DBLP:journals/jsac/HuynhHND19,
+  author    = {Nguyen Van Huynh and
+               Dinh Thai Hoang and
+               Diep N. Nguyen and
+               Eryk Dutkiewicz},
+  title     = {Optimal and Fast {Real-Time} Resource Slicing With Deep Dueling Neural Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {6},
+  year      = 2019,
+  pages     = {1455-1470},
+}
+
+@article{DBLP:journals/jsac/JiLPTZ19,
+  author    = {Wen Ji and
+               Zhu Li and
+               H. Vincent Poor and
+               Christian Timmerer and
+               Wenwu Zhu},
+  title     = {Guest Editorial Multimedia Economics for Future Networks: Theory, Methods, and Applications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1473-1477},
+}
+
+@article{DBLP:journals/jsac/ShaoCH19,
+  author    = {Qi Shao and
+               Man Hon Cheung and
+               Jianwei Huang},
+  title     = {Multimedia Crowdsourcing With Bounded Rationality: A Cognitive Hierarchy Perspective},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1478-1488},
+}
+
+@article{DBLP:journals/jsac/LouDWCBCG19,
+  author    = {Yihang Lou and
+               Ling-Yu Duan and
+               Shiqi Wang and
+               Ziqian Chen and
+               Yan Bai and
+               Changwen Chen and
+               Wen Gao},
+  title     = {{Front-End} Smart Visual Sensing and {Back-End} Intelligent Analysis: A Unified Infrastructure for Economizing the Visual System of City Brain},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1489-1503},
+}
+
+@article{DBLP:journals/jsac/SenJHC19,
+  author    = {Soumya Sen and
+               Carlee Joe-Wong and
+               Sangtae Ha and
+               Mung Chiang},
+  title     = {{Time-Dependent} Pricing for Multimedia Data Traffic: Analysis, Systems, and Trials},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1504-1517},
+}
+
+@article{DBLP:journals/jsac/ZangBYVL19,
+  author    = {Shizhe Zang and
+               Wei Bao and
+               Phee Lep Yeoh and
+               Branka Vucetic and
+               Yonghui Li},
+  title     = {Filling Two Needs With One Deed: Combo Pricing Plans for {Computing-Intensive} Multimedia Applications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1518-1533},
+}
+
+@article{DBLP:journals/jsac/HarishankarPSSJ19,
+  author    = {Madhumitha Harishankar and
+               Sireesha Pilaka and
+               Pragya Sharma and
+               Nagarjun Srinivasan and
+               Carlee Joe-Wong and
+               Patrick Tague},
+  title     = {Procuring Spontaneous {Session-Level} Resource Guarantees for {Real-Time} Applications: An Auction Approach},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1534-1548},
+}
+
+@article{DBLP:journals/jsac/TaoCXL19,
+  author    = {Xiaoming Tao and
+               Zhao Chen and
+               Mai Xu and
+               Jianhua Lu},
+  title     = {Rebuffering Optimization for {DASH} via Pricing and {EEG-Based} {QoE} Modeling},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1549-1565},
+}
+
+@article{DBLP:journals/jsac/ZouLZXS19,
+  author    = {Junni Zou and
+               Chenglin Li and
+               Congcong Zhai and
+               Hongkai Xiong and
+               Eckehard G. Steinbach},
+  title     = {Joint Pricing and Cache Placement for Video Caching: A Game Theoretic Approach},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1566-1583},
+}
+
+@article{DBLP:journals/jsac/LiuZYZW19,
+  author    = {Ling Liu and
+               Yiqing Zhou and
+               Jinhong Yuan and
+               Weihua Zhuang and
+               Ying Wang},
+  title     = {Economically Optimal {MS} Association for Multimedia Content Delivery in {Cache-Enabled} Heterogeneous Cloud Radio Access Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1584-1593},
+}
+
+@article{DBLP:journals/jsac/DangP19,
+  author    = {Tian Dang and
+               Mugen Peng},
+  title     = {Joint Radio Communication, Caching, and Computing Design for Mobile Virtual Reality Delivery in Fog Radio Access Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1594-1607},
+}
+
+@article{DBLP:journals/jsac/ZhangLRNBG19,
+  author    = {Xuewei Zhang and
+               Tiejun Lv and
+               Yuan Ren and
+               Wei Ni and
+               Norman C. Beaulieu and
+               Y. Jay Guo},
+  title     = {Economical Caching for Scalable Videos in {Cache-Enabled} Heterogeneous Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1608-1621},
+}
+
+@article{DBLP:journals/jsac/LiYMP19,
+  author    = {Liying Li and
+               Chungang Yang and
+               Mbazingwa Elirehema Mkiramweni and
+               Lei Pang},
+  title     = {Intelligent Scheduling and Power Control for Multimedia Transmission in 5G {CoMP} Systems: A Dynamic Bargaining Game},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1622-1631},
+}
+
+@article{DBLP:journals/jsac/HaoHQC19,
+  author    = {Yixue Hao and
+               Long Hu and
+               Yongfeng Qian and
+               Min Chen},
+  title     = {Profit Maximization for Video Caching and Processing in Edge Cloud},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1632-1641},
+}
+
+@article{DBLP:journals/jsac/LiuXCMW19,
+  author    = {Lei Liu and
+               Song Xu and
+               Lizhen Cui and
+               Geyong Min and
+               Haozhe Wang},
+  title     = {Power Rationing for Tradeoff Between Energy Consumption and Profit in Multimedia Heterogeneous Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1642-1655},
+}
+
+@article{DBLP:journals/jsac/ZhouWWD19,
+  author    = {Liang Zhou and
+               Dan Wu and
+               Xin Wei and
+               Zhenjiang Dong},
+  title     = {Seeing Isn't Believing: {QoE} Evaluation for {Privacy-Aware} Users},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1656-1665},
+}
+
+@article{DBLP:journals/jsac/TangM19,
+  author    = {Jing Tang and
+               Richard T. B. Ma},
+  title     = {Regulating Monopolistic {ISPs} Without Neutrality},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {7},
+  year      = 2019,
+  pages     = {1666-1680},
+}
+
+@article{DBLP:journals/jsac/Taleb19b,
+  author    = {Tarik Taleb},
+  title     = {Fifth Edition of the {IEEE} {JSAC} Series on Network Softwarization & Enablers},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1685-1687},
+}
+
+@article{DBLP:journals/jsac/AljobyWFM19,
+  author    = {Walid A. Y. Aljoby and
+               Xin Wang and
+               Tom Z. J. Fu and
+               Richard T. B. Ma},
+  title     = {On {SDN-Enabled} Online and Dynamic Bandwidth Allocation for Stream Analytics},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1688-1702},
+}
+
+@article{DBLP:journals/jsac/ZhangWZWZ19,
+  author    = {Xinchang Zhang and
+               Yinglong Wang and
+               Jianwei Zhang and
+               Lu Wang and
+               Yanling Zhao},
+  title     = {RINGLM: A {Link-Level} Packet Loss Monitoring Solution for {Software-Defined} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1703-1720},
+}
+
+@article{DBLP:journals/jsac/ZhangZ19,
+  author    = {Xi Zhang and
+               Qixuan Zhu},
+  title     = {{Information-Centric} Virtualization for {Software-Defined} Statistical {QoS} Provisioning Over 5G Multimedia Big Data Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1721-1738},
+}
+
+@article{DBLP:journals/jsac/BiHLGW19,
+  author    = {Yuanguo Bi and
+               Guangjie Han and
+               Chuan Lin and
+               Mohsen Guizani and
+               Xingwei Wang},
+  title     = {Mobility Management for Intro/Inter Domain Handover in {Software-Defined} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1739-1754},
+}
+
+@article{DBLP:journals/jsac/QiuZWFS19,
+  author    = {Kun Qiu and
+               Jin Zhao and
+               Xin Wang and
+               Xiaoming Fu and
+               Stefano Secci},
+  title     = {Efficient Recovery Path Computation for Fast Reroute in {Large-Scale} {Software-Defined} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1755-1768},
+}
+
+@article{DBLP:journals/jsac/ChekiredTKK19,
+  author    = {Djabir Abdeldjalil Chekired and
+               Mohammed Amine Togou and
+               Lyes Khoukhi and
+               Adlen Ksentini},
+  title     = {5{G-Slicing-Enabled} Scalable {SDN} Core Network: Toward an {Ultra-Low} Latency of Autonomous Driving Service},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1769-1782},
+}
+
+@article{DBLP:journals/jsac/LiOD19,
+  author    = {He Li and
+               Kaoru Ota and
+               Mianxiong Dong},
+  title     = {LS-SDV: Virtual Network Management in {Large-Scale} {Software-Defined} {IoT}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1783-1793},
+}
+
+@article{DBLP:journals/jsac/TunTNPHH19,
+  author    = {Yan Kyaw Tun and
+               Nguyen H. Tran and
+               Duy Trong Ngo and
+               Shashi Raj Pandey and
+               Zhu Han and
+               Choong Seon Hong},
+  title     = {Wireless Network Slicing: Generalized Kelly {Mechanism-Based} Resource Allocation},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1794-1807},
+}
+
+@article{DBLP:journals/jsac/BellavistaCFLS19,
+  author    = {Paolo Bellavista and
+               Antonio Corradi and
+               Luca Foschini and
+               Sabato Luciano and
+               Michele Solimando},
+  title     = {A Simulation Framework for Virtualized Resources in Cloud Data Center Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1808-1819},
+}
+
+@article{DBLP:journals/jsac/FoukasMK19,
+  author    = {Xenofon Foukas and
+               Mahesh K. Marina and
+               Kimon P. Kontovasilis},
+  title     = {Iris: Deep Reinforcement Learning Driven Shared Spectrum Access Architecture for Indoor {Neutral-Host} Small Cells},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1820-1837},
+}
+
+@article{DBLP:journals/jsac/LuoWLZ19,
+  author    = {Ziyue Luo and
+               Chuan Wu and
+               Zongpeng Li and
+               Wei Zhou},
+  title     = {Scaling {Geo-Distributed} Network Function Chains: A Prediction and Learning Framework},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1838-1850},
+}
+
+@article{DBLP:journals/jsac/MengBWSH19,
+  author    = {Zili Meng and
+               Jun Bi and
+               Haiping Wang and
+               Chen Sun and
+               Hongxin Hu},
+  title     = {MicroNF: An Efficient Framework for Enabling Modularized Service Chains in {NFV}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1851-1865},
+}
+
+@article{DBLP:journals/jsac/ZhouWC19,
+  author    = {Zhi Zhou and
+               Qiong Wu and
+               Xu Chen},
+  title     = {Online Orchestration of {Cross-Edge} Service Function Chaining for {Cost-Efficient} Edge Computing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1866-1880},
+}
+
+@article{DBLP:journals/jsac/ZhangJYL19,
+  author    = {Yuan Zhang and
+               Lei Jiao and
+               Jinyao Yan and
+               Xiaojun Lin},
+  title     = {Dynamic Service Placement for Virtual Reality Group Gaming on Mobile Edge Cloudlets},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1881-1897},
+}
+
+@article{DBLP:journals/jsac/ZhangH19,
+  author    = {Meng Zhang and
+               Jianwei Huang},
+  title     = {Efficient Network Sharing With Asymmetric Constraint Information},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1898-1910},
+}
+
+@article{DBLP:journals/jsac/XuSGLTXC19,
+  author    = {Yang Xu and
+               Shikhar Shukla and
+               Zehua Guo and
+               Sen Liu and
+               Adrian Sai-Wah Tam and
+               Kang Xi and
+               H. Jonathan Chao},
+  title     = {RAPID: Avoiding {TCP} Incast Throughput Collapse in Public Clouds With Intelligent Packet Discarding},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1911-1923},
+}
+
+@article{DBLP:journals/jsac/XiangZWLGLMNY19,
+  author    = {Qiao Xiang and
+               Jingxuan Jensen Zhang and
+               Xin Tony Wang and
+               Yang Jace Liu and
+               Chin Guok and
+               Franck Le and
+               John MacAuley and
+               Harvey Newman and
+               Yang Richard Yang},
+  title     = {Toward Fine-Grained, Privacy-Preserving, Efficient {Multi-Domain} Network Resource Discovery},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {8},
+  year      = 2019,
+  pages     = {1924-1940},
+}
+
+@article{DBLP:journals/jsac/KimWRTCA19,
+  author    = {Kyeong Jin Kim and
+               Miaowen Wen and
+               Marco Di Renzo and
+               Theodoros A. Tsiftsis and
+               Kwang-Cheng Chen and
+               Naofal Al-Dhahir},
+  title     = {Guest Editorial Spatial Modulation in Emerging Wireless Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {1945-1948},
+}
+
+@article{DBLP:journals/jsac/WenZKRTCA19,
+  author    = {Miaowen Wen and
+               Beixiong Zheng and
+               Kyeong Jin Kim and
+               Marco Di Renzo and
+               Theodoros A. Tsiftsis and
+               Kwang-Cheng Chen and
+               Naofal Al-Dhahir},
+  title     = {A Survey on Spatial Modulation in Emerging Wireless Systems: Research Progresses and Applications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {1949-1972},
+}
+
+@article{DBLP:journals/jsac/LinZCJY19,
+  author    = {Shaoe Lin and
+               Beixiong Zheng and
+               Fangjiong Chen and
+               Fei Ji and
+               Hua Yu},
+  title     = {Soft Demodulators Based on Deterministic {SMC} for {Single-Carrier} {GSM} in Broadband Channels},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {1973-1985},
+}
+
+@article{DBLP:journals/jsac/LuoWW19,
+  author    = {Junshan Luo and
+               Shilian Wang and
+               Fanggang Wang},
+  title     = {Joint {Transmitter-Receiver} Spatial Modulation Design via Minimum Euclidean Distance Maximization},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {1986-2000},
+}
+
+@article{DBLP:journals/jsac/Al-NahhalBDI19,
+  author    = {Ibrahim Al-Nahhal and
+               Ertugrul Basar and
+               Octavia A. Dobre and
+               Salama Ikki},
+  title     = {Optimum {Low-Complexity} Decoder for Spatial Modulation},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2001-2013},
+}
+
+@article{DBLP:journals/jsac/GuoZZZWA19,
+  author    = {Shuaishuai Guo and
+               Haixia Zhang and
+               Peng Zhang and
+               Pengjie Zhao and
+               Leiyu Wang and
+               Mohamed-Slim Alouini},
+  title     = {Generalized Beamspace Modulation Using Multiplexing: A Breakthrough in {mmWave} {MIMO}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2014-2028},
+}
+
+@article{DBLP:journals/jsac/GaoCY19,
+  author    = {Shijian Gao and
+               Xiang Cheng and
+               Liuqing Yang},
+  title     = {Spatial Multiplexing With Limited {RF} Chains: Generalized Beamspace Modulation (GBM) for {mmWave} Massive {MIMO}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2029-2039},
+}
+
+@article{DBLP:journals/jsac/SarieddeenAA19,
+  author    = {Hadi Sarieddeen and
+               Mohamed-Slim Alouini and
+               Tareq Y. Al-Naffouri},
+  title     = {{Terahertz-Band} {Ultra-Massive} Spatial Modulation {MIMO}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2040-2052},
+}
+
+@article{DBLP:journals/jsac/Abou-RjeilyK19,
+  author    = {Chadi Abou-Rjeily and
+               Georges Kaddoum},
+  title     = {Optical Spatial Modulation for {FSO} IM/{DD} Communications With {Photon-Counting} Receivers: Performance Analysis, Transmit Diversity Order and Aperture Selection},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2053-2068},
+}
+
+@article{DBLP:journals/jsac/SoltaniATGSAHH19,
+  author    = {Mohammad Dehghani Soltani and
+               Mohamed Amine Arfaoui and
+               Iman Tavakkolnia and
+               Ali Ghrayeb and
+               Majid Safari and
+               Chadi M. Assi and
+               Mazen O. Hasna and
+               Harald Haas},
+  title     = {Bidirectional Optical Spatial Modulation for Mobile Users: Toward a Practical Design for {LiFi} Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2069-2086},
+}
+
+@article{DBLP:journals/jsac/WangGLWDA19,
+  author    = {Jin-Yuan Wang and
+               Hong Ge and
+               Min Lin and
+               Jun-Bo Wang and
+               Jianxin Dai and
+               Mohamed-Slim Alouini},
+  title     = {On the Secrecy Rate of Spatial {Modulation-Based} Indoor Visible Light Communications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2087-2101},
+}
+
+@article{DBLP:journals/jsac/LuZGL19,
+  author    = {Hancheng Lu and
+               Ming Zhang and
+               Yongqiang Gui and
+               Jinxue Liu},
+  title     = {{QoE-Driven} {Multi-User} Video Transmission Over {SM-NOMA} Integrated Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2102-2116},
+}
+
+@article{DBLP:journals/jsac/YangXXGLX19,
+  author    = {Ping Yang and
+               Yue Xiao and
+               Ming Xiao and
+               Yong Liang Guan and
+               Shaoqian Li and
+               Wei Xiang},
+  title     = {Adaptive Spatial Modulation {MIMO} Based on Machine Learning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2117-2131},
+}
+
+@article{DBLP:journals/jsac/NamDJL19,
+  author    = {Yunseo Nam and
+               Heedong Do and
+               Yo-Seb Jeon and
+               Namyoon Lee},
+  title     = {On the Capacity of {MISO} Channels With {One-Bit} {ADCs} and {DACs}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2132-2145},
+}
+
+@article{DBLP:journals/jsac/XuZRISWH19,
+  author    = {Chao Xu and
+               Peichang Zhang and
+               Rakshith Rajashekar and
+               Naoki Ishikawa and
+               Shinya Sugiura and
+               Zhaocheng Wang and
+               Lajos Hanzo},
+  title     = {"Near-Perfect" {Finite-Cardinality} Generalized {Space-Time} Shift Keying},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2146-2164},
+}
+
+@article{DBLP:journals/jsac/ZhangZ19a,
+  author    = {Yan-Yu Zhang and
+               Jian-Kang Zhang},
+  title     = {Fundamental Applicability of Spatial Modulation: {High-SNR} Limitation and {Low-SNR} Advantage},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {9},
+  year      = 2019,
+  pages     = {2165-2178},
+}
+
+@article{DBLP:journals/jsac/GesbertGKMSS19,
+  author    = {David Gesbert and
+               Deniz Gündüz and
+               Paul de Kerret and
+               Chandra R. Murthy and
+               Mihaela van der Schaar and
+               Nicholas D. Sidiropoulos},
+  title     = {Guest Editorial Special Issue on Machine Learning in Wireless Communication - Part I},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2181-2183},
+}
+
+@article{DBLP:journals/jsac/GunduzKSGMS19,
+  author    = {Deniz Gündüz and
+               Paul de Kerret and
+               Nicholas D. Sidiropoulos and
+               David Gesbert and
+               Chandra R. Murthy and
+               Mihaela van der Schaar},
+  title     = {Machine Learning in the Air},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2184-2199},
+}
+
+@article{DBLP:journals/jsac/He00Z19,
+  author    = {Chaofan He and
+               Yang Hu and
+               Yan Chen and
+               Bing Zeng},
+  title     = {Joint Power Allocation and Channel Assignment for {NOMA} With Deep Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2200-2210},
+}
+
+@article{DBLP:journals/jsac/NisiotiT19,
+  author    = {Eleni Nisioti and
+               Nikolaos Thomos},
+  title     = {Robust Coordinated Reinforcement Learning for {MAC} Design in Sensor Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2211-2224},
+}
+
+@article{DBLP:journals/jsac/OrtizAE0H19,
+  author    = {Andrea Ortiz and
+               Arash Asadi and
+               Max Engelhardt and
+               Anja Klein and
+               Matthias Hollick},
+  title     = {CBMoS: Combinatorial Bandit Learning for Mode Selection and Resource Allocation in D2D Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2225-2238},
+}
+
+@article{DBLP:journals/jsac/NasirG19,
+  author    = {Yasar Sinan Nasir and
+               Dongning Guo},
+  title     = {{Multi-Agent} Deep Reinforcement Learning for Dynamic Power Allocation in Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2239-2250},
+}
+
+@article{DBLP:journals/jsac/LeeLQ19,
+  author    = {Hoon Lee and
+               Sang Hyun Lee and
+               Tony Q. S. Quek},
+  title     = {Deep Learning for Distributed Optimization: Applications to Wireless Resource Management},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2251-2266},
+}
+
+@article{DBLP:journals/jsac/SadeghiSMG19,
+  author    = {Alireza Sadeghi and
+               Fatemeh Sheikholeslami and
+               Antonio G. Marques and
+               Georgios B. Giannakis},
+  title     = {Reinforcement Learning for Adaptive Caching With Dynamic Storage Pricing},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2267-2281},
+}
+
+@article{DBLP:journals/jsac/LiangYL19,
+  author    = {Le Liang and
+               Hao Ye and
+               Geoffrey Ye Li},
+  title     = {Spectrum Sharing in Vehicular Networks Based on {Multi-Agent} Reinforcement Learning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2282-2292},
+}
+
+@article{DBLP:journals/jsac/AliAATNP19,
+  author    = {Amjad Ali and
+               Muhammad Ejaz Ahmed and
+               Farman Ali and
+               Nguyen H. Tran and
+               Dusit Niyato and
+               Sangheon Pack},
+  title     = {{NOn-parametric} Bayesian {channEls} {cLustering} (NOBEL) Scheme for Wireless Multimedia Cognitive Radio Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2293-2305},
+}
+
+@article{DBLP:journals/jsac/00030LL19,
+  author    = {Chang Liu and
+               Jie Wang and
+               Xuemeng Liu and
+               Ying-Chang Liang},
+  title     = {Deep {CM-CNN} for Spectrum Sensing in Cognitive Radio},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2306-2321},
+}
+
+@article{DBLP:journals/jsac/WangGJARH19,
+  author    = {Jingjing Wang and
+               Sanghai Guan and
+               Chunxiao Jiang and
+               Dimitrios Alanis and
+               Yong Ren and
+               Lajos Hanzo},
+  title     = {Network Association in {Machine-Learning} Aided Cognitive Radar and Communication {Co-Design}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2322-2336},
+}
+
+@article{DBLP:journals/jsac/ZafaruddinBLN19,
+  author    = {Syed Mohammad Zafaruddin and
+               Ilai Bistritz and
+               Amir Leshem and
+               Dusit Niyato},
+  title     = {Distributed Learning for Channel Allocation Over a Shared Spectrum},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2337-2349},
+}
+
+@article{DBLP:journals/jsac/DarakH19,
+  author    = {Sumit Jagdish Darak and
+               Manjesh K. Hanawal},
+  title     = {{Multi-Player} {Multi-Armed} Bandits for Stable Allocation in Heterogeneous {Ad-Hoc} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2350-2363},
+}
+
+@article{DBLP:journals/jsac/Chen019,
+  author    = {Lixing Chen and
+               Jie Xu},
+  title     = {{Budget-Constrained} Edge Service Provisioning With Demand Estimation via Bandit Learning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2364-2376},
+}
+
+@article{DBLP:journals/jsac/ChenZWB0JZ19,
+  author    = {Xianfu Chen and
+               Zhifeng Zhao and
+               Celimuge Wu and
+               Mehdi Bennis and
+               Hang Liu and
+               Yusheng Ji and
+               Honggang Zhang},
+  title     = {{Multi-Tenant} {Cross-Slice} Resource Orchestration: A Deep Reinforcement Learning Approach},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2377-2392},
+}
+
+@article{DBLP:journals/jsac/LyuR00LD19,
+  author    = {Xinchen Lyu and
+               Chenshan Ren and
+               Wei Ni and
+               Hui Tian and
+               Ren Ping Liu and
+               Eryk Dutkiewicz},
+  title     = {Optimal Online Data Partitioning for {Geo-Distributed} Machine Learning in Edge of Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {10},
+  year      = 2019,
+  pages     = {2393-2406},
+}
+
+@article{DBLP:journals/jsac/GesbertGKMSS19a,
+  author    = {David Gesbert and
+               Deniz Gündüz and
+               Paul de Kerret and
+               Chandra R. Murthy and
+               Mihaela van der Schaar and
+               Nicholas D. Sidiropoulos},
+  title     = {Guest Editorial Special Issue on Machine Learning in Wireless Communication - Part 2},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2409-2412},
+}
+
+@article{DBLP:journals/jsac/NishioONKYMAM19,
+  author    = {Takayuki Nishio and
+               Hironao Okamoto and
+               Kota Nakashima and
+               Yusuke Koda and
+               Koji Yamamoto and
+               Masahiro Morikura and
+               Yusuke Asai and
+               Ryo Miyatake},
+  title     = {Proactive Received Power Prediction Using Machine Learning and Depth Images for {mmWave} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2413-2427},
+}
+
+@article{DBLP:journals/jsac/LiCWZ19,
+  author    = {Zhuo Li and
+               Jiannong Cao and
+               Hongwei Wang and
+               Miao Zhao},
+  title     = {Sparsely {Self-Supervised} Generative Adversarial Nets for Radio Frequency Estimation},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2428-2442},
+}
+
+@article{DBLP:journals/jsac/MehrabiMAJ19,
+  author    = {Mehrtash Mehrabi and
+               Mostafa Mohammadkarimi and
+               Masoud Ardakani and
+               Yindi Jing},
+  title     = {Decision Directed Channel Estimation Based on Deep Neural Network {k-Step} Predictor for {MIMO} Communications in 5G},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2443-2456},
+}
+
+@article{DBLP:journals/jsac/VillacresZBL19,
+  author    = {José Luis Carrera Villacrés and
+               Zhongliang Zhao and
+               Torsten Braun and
+               Zan Li},
+  title     = {A Particle {Filter-Based} Reinforcement Learning Approach for Reliable Wireless Indoor Positioning},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2457-2473},
+}
+
+@article{DBLP:journals/jsac/ChiuRJ19,
+  author    = {Sung-En Chiu and
+               Nancy Ronquillo and
+               Tara Javidi},
+  title     = {Active Learning and {CSI} Acquisition for {mmWave} Initial Alignment},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2474-2489},
+}
+
+@article{DBLP:journals/jsac/BrighenteFNT19,
+  author    = {Alessandro Brighente and
+               Francesco Formaggio and
+               Giorgio Maria Di Nunzio and
+               Stefano Tomasin},
+  title     = {Machine Learning for {In-Region} Location Verification in Wireless Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2490-2502},
+}
+
+@article{DBLP:journals/jsac/AoudiaH19,
+  author    = {Fayçal Ait Aoudia and
+               Jakob Hoydis},
+  title     = {{Model-Free} Training of {End-to-End} Communication Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2503-2516},
+}
+
+@article{DBLP:journals/jsac/ZhangWSL19,
+  author    = {Wenyi Zhang and
+               Yizhu Wang and
+               Cong Shen and
+               Ning Liang},
+  title     = {A Regression Approach to Certain Information Transmission Problems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2517-2531},
+}
+
+@article{DBLP:journals/jsac/CaoLF19,
+  author    = {Congzhe Cao and
+               Duanshun Li and
+               Ivan J. Fair},
+  title     = {Deep {Learning-Based} Decoding of Constrained Sequence Codes},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2532-2543},
+}
+
+@article{DBLP:journals/jsac/SiyariRK19,
+  author    = {Peyman Siyari and
+               Hanif Rahbari and
+               Marwan Krunz},
+  title     = {Lightweight Machine Learning for Efficient {Frequency-Offset-Aware} Demodulation},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2544-2558},
+}
+
+@article{DBLP:journals/jsac/KimHL19,
+  author    = {Daeun Kim and
+               Song-Nam Hong and
+               Namyoon Lee},
+  title     = {{Supervised-Learning} for {Multi-Hop} {MU-MIMO} Communications With {One-Bit} Transceivers},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2559-2572},
+}
+
+@article{DBLP:journals/jsac/StrodthoffGSHS19,
+  author    = {Nils Strodthoff and
+               Baris Göktepe and
+               Thomas Schierl and
+               Cornelius Hellge and
+               Wojciech Samek},
+  title     = {Enhanced Machine Learning Techniques for Early {HARQ} Feedback Prediction in 5G},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2573-2587},
+}
+
+@article{DBLP:journals/jsac/YaoXYHWZ19,
+  author    = {Yuan Yao and
+               Bin Xiao and
+               Gang Yang and
+               Yujiao Hu and
+               Liang Wang and
+               Xingshe Zhou},
+  title     = {Power Control Identification: A Novel Sybil Attack Detection Scheme in {VANETs} Using {RSSI}},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2588-2602},
+}
+
+@article{DBLP:journals/jsac/HuynhNHD19,
+  author    = {Nguyen Van Huynh and
+               Diep N. Nguyen and
+               Dinh Thai Hoang and
+               Eryk Dutkiewicz},
+  title     = {"Jam Me If You Can: " Defeating Jammer With Deep Dueling Neural Network Architecture and Ambient Backscattering Augmented Communications},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2603-2620},
+}
+
+@article{DBLP:journals/jsac/LiZGXWL19,
+  author    = {Wenzhong Li and
+               Han Zhang and
+               Shaohua Gao and
+               Chaojing Xue and
+               Xiaoliang Wang and
+               Sanglu Lu},
+  title     = {SmartCC: A Reinforcement Learning Approach for Multipath {TCP} Congestion Control in Heterogeneous Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2621-2633},
+}
+
+@article{DBLP:journals/jsac/ValerioPPPSB19,
+  author    = {Valerio Di Valerio and
+               Francesco Lo Presti and
+               Chiara Petrioli and
+               Luigi Picari and
+               Daniele Spaccini and
+               Stefano Basagni},
+  title     = {CARMA: {Channel-Aware} Reinforcement {Learning-Based} {Multi-Path} Adaptive Routing for Underwater Wireless Sensor Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {11},
+  year      = 2019,
+  pages     = {2634-2647},
+}
+
+@article{DBLP:journals/jsac/FischioneKRSWZZ19,
+  author    = {Carlo Fischione and
+               Dimitrios Koutsonikolas and
+               Sundeep Rangan and
+               Ljiljana Simic and
+               Joerg Widmer and
+               Xinyu Zhang and
+               Anfu Zhou},
+  title     = {Guest Editorial {Millimeter-Wave} Networking},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2649-2652},
+}
+
+@article{DBLP:journals/jsac/KwonP19,
+  author    = {Girim Kwon and
+               Hyuncheol Park},
+  title     = {Joint User Association and Beamforming Design for Millimeter Wave {UDN} With Wireless Backhaul},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2653-2668},
+}
+
+@article{DBLP:journals/jsac/SahaD19,
+  author    = {Chiranjib Saha and
+               Harpreet S. Dhillon},
+  title     = {Millimeter Wave Integrated Access and Backhaul in 5G: Performance Analysis and Design Insights},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2669-2684},
+}
+
+@article{DBLP:journals/jsac/OrtizASSH19,
+  author    = {Andrea Ortiz and
+               Arash Asadi and
+               Gek Hong Sim and
+               Daniel Steinmetzer and
+               Matthias Hollick},
+  title     = {SCAROS: A Scalable and Robust {Self-Backhauling} Solution for Highly Dynamic {Millimeter-Wave} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2685-2698},
+}
+
+@article{DBLP:journals/jsac/KoutsaftisKLP19,
+  author    = {Athanasios Koutsaftis and
+               Rajeev Kumar and
+               Pei Liu and
+               Shivendra S. Panwar},
+  title     = {Fast {Inter-Base} Station Ring (FIBR): A New Millimeter Wave Cellular Network Architecture},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2699-2714},
+}
+
+@article{DBLP:journals/jsac/MarziM19,
+  author    = {Zhinus Marzi and
+               Upamanyu Madhow},
+  title     = {Interference Management and Capacity Analysis for {mm-Wave} Picocells in Urban Canyons},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2715-2726},
+}
+
+@article{DBLP:journals/jsac/ZhangWP19,
+  author    = {Xi Zhang and
+               Jingqing Wang and
+               H. Vincent Poor},
+  title     = {Heterogeneous {Statistical-QoS} Driven Resource Allocation Over {mmWave} {Massive-MIMO} Based 5G Mobile Wireless Networks in the {Non-Asymptotic} Regime},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2727-2743},
+}
+
+@article{DBLP:journals/jsac/GhasempourHCK19,
+  author    = {Yasaman Ghasempour and
+               Muhammad Kumail Haider and
+               Carlos Cordeiro and
+               Edward W. Knightly},
+  title     = {{Multi-User} {Multi-Stream} {mmWave} {WLANs} With Efficient Path Discovery and Beam Steering},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2744-2758},
+}
+
+@article{DBLP:journals/jsac/ZhouGH19,
+  author    = {Hao Zhou and
+               Dongning Guo and
+               Michael L. Honig},
+  title     = {Beam Acquisition and Training in Millimeter Wave Networks With Narrowband Pilots},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2759-2771},
+}
+
+@article{DBLP:journals/jsac/AykinAK19,
+  author    = {Irmak Aykin and
+               Berk Akgun and
+               Marwan Krunz},
+  title     = {Multi-beam Transmissions for Blockage Resilience and Reliability in {Millimeter-Wave} Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2772-2785},
+}
+
+@article{DBLP:journals/jsac/ZhaoXWM19,
+  author    = {Jie Zhao and
+               Dongliang Xie and
+               Xin Wang and
+               Arjuna Madanayake},
+  title     = {Towards Efficient Medium Access for {Millimeter-Wave} Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2786-2798},
+}
+
+@article{DBLP:journals/jsac/LiuB19,
+  author    = {Jia Liu and
+               Elizabeth S. Bentley},
+  title     = {{Hybrid-Beamforming-Based} {Millimeter-Wave} Cellular Network Optimization},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2799-2813},
+}
+
+@article{DBLP:journals/jsac/LiuHW19,
+  author    = {Chun-Hung Liu and
+               Kai-Hsiang Ho and
+               Jwo-Yuh Wu},
+  title     = {{MmWave} {UAV} Networks With {Multi-Cell} Association: Performance Limit and Optimization},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2814-2831},
+}
+
+@article{DBLP:journals/jsac/WangG19,
+  author    = {Xueyuan Wang and
+               Mustafa Cenk Gursoy},
+  title     = {Coverage Analysis for {Energy-Harvesting} {UAV-Assisted} {mmWave} Cellular Networks},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2832-2850},
+}
+
+@article{DBLP:journals/jsac/YiLDNH19,
+  author    = {Wenqiang Yi and
+               Yuanwei Liu and
+               Yansha Deng and
+               Arumugam Nallanathan and
+               Robert W. Heath Jr.},
+  title     = {Modeling and Analysis of {MmWave} V2X Networks With Vehicular Platoon Systems},
+  journal   = ieeesac,
+  volume    = {37},
+  number    = {12},
+  year      = 2019,
+  pages     = {2851-2866},
 }
 
 @article{DBLP:journals/jsac/ZhangBLLMX18,
@@ -1315,7 +4238,7 @@
 
 @article{DBLP:journals/jsac/FerreiraPWHBRM18,
   author    = {Paulo Victor Rodrigues Ferreira and
-               Randy Paffenroth and
+               Randy C. Paffenroth and
                Alexander M. Wyglinski and
                Timothy M. Hackett and
                Sven G. Bilen and
@@ -1372,7 +4295,7 @@
 @article{DBLP:journals/jsac/FuchsPRP18,
   author    = {Christian Fuchs and
                Nicolas Perlot and
-               Jerome Riedi and
+               Jérôme C. Riedi and
                Josep Perdigues},
   title     = {Performance Estimation of Optical {LEO} Downlinks},
   journal   = ieeesac,
@@ -8122,7 +11045,7 @@
                Michael Seufert and
                Raimund Schatz and
                Kjell Brunnström and
-               Narciso N. García},
+               Narciso García},
   title     = {Perceptual Quality of {HTTP} Adaptive Streaming Strategies: {Cross-Experimental} Analysis of {Multi-Laboratory} and Crowdsourced Subjective Studies},
   journal   = ieeesac,
   volume    = {34},
@@ -9862,7 +12785,7 @@
 }
 
 @article{DBLP:journals/jsac/RanaLS16,
-  author    = {Md Masud Rana and
+  author    = {Md. Masud Rana and
                Li Li and
                Steven W. Su},
   title     = {An {Adaptive-Then-Combine} Dynamic State Estimation Considering Renewable Generations in Smart Grids},
@@ -11945,7 +14868,7 @@
 }
 
 @article{DBLP:journals/jsac/AtaB15,
-  author    = {Yalcin Ata and
+  author    = {Yalçin Ata and
                Yahya Baykal},
   title     = {Transmittance of Multi Gaussian Optical Beams for Uplink Applications in Atmospheric Turbulence},
   journal   = ieeesac,
@@ -13604,7 +16527,7 @@
 @article{DBLP:journals/jsac/TavakoliGG14,
   author    = {Samira Tavakoli and
                Jesús Gutiérrez and
-               Narciso N. García},
+               Narciso García},
   title     = {Subjective Quality Study of Adaptive Streaming of Monoscopic and Stereoscopic Video},
   journal   = ieeesac,
   volume    = {32},
@@ -17865,7 +20788,7 @@
 }
 
 @article{DBLP:journals/jsac/Azmi0YM13,
-  author    = {Marwan H. Azmi and
+  author    = {Marwan Hadri Azmi and
                Jun Li and
                Jinhong Yuan and
                Robert A. Malaney},
@@ -18072,7 +20995,7 @@
   author    = {SendilRamKumar Devar and
                K. S. Karthik and
                Bhaskar Ramamurthi and
-               R. David Koilpillai},
+               Ravinder David Koilpillai},
   title     = {Downlink Throughput Enhancement of a Cellular Network using {Two-Hop} {User-Deployable} Indoor Relays},
   journal   = ieeesac,
   volume    = {31},
@@ -18565,7 +21488,7 @@
 
 @article{DBLP:journals/jsac/WangYLL13,
   author    = {Fanggang Wang and
-               Xiaojun Jenny Yuan and
+               Xiaojun Yuan and
                Soung Chang Liew and
                Yonghui Li},
   title     = {Bidirectional Cellular Relay Network with Distributed Relaying},
@@ -19795,7 +22718,7 @@
   author    = {Andrea Conti and
                Matteo Guerra and
                Davide Dardari and
-               Nicolo Decarli and
+               Nicolò Decarli and
                Moe Z. Win},
   title     = {Network Experimentation for Cooperative Localization},
   journal   = ieeesac,
@@ -23792,7 +26715,7 @@
 @article{DBLP:journals/jsac/BlockFMMRSS11,
   author    = {Frederick J. Block and
                E. Barry Felstead and
-               Thomas G. Macdonald and
+               Thomas G. MacDonald and
                Joseph P. Macker and
                Harlan B. Russell and
                Wayne E. Stark and
@@ -25092,7 +28015,7 @@
 @article{DBLP:journals/jsac/KellyMZKMTA10,
   author    = {A. E. Kelly and
                W. Craig Michie and
-               Wende Zhong and
+               Wen-De Zhong and
                S. Karagianopoulos and
                W. Iain Madden and
                C. Tombling and
@@ -25811,7 +28734,7 @@
   author    = {Shuo Xiao and
                Ashay Dhamdhere and
                Vijay Sivaraman and
-               Alison Burdett},
+               Alison J. Burdett},
   title     = {Transmission Power Control in Body Area Sensor Networks for Healthcare Monitoring},
   journal   = ieeesac,
   volume    = {27},
@@ -26998,7 +29921,7 @@
   author    = {Jose Joaquin Garcia-Luna-Aceves and
                Zheng Wang and
                Hamid R. Sadjadpour and
-               Shirish S. Karande},
+               Shirish Subhash Karande},
   title     = {Optimal Unicast Capacity of Random Geometric Graphs: Impact of Multipacket Transmission and Reception},
   journal   = ieeesac,
   volume    = {27},
@@ -27665,7 +30588,7 @@
                Václav Kvicera and
                Muhammad Saleem Awan and
                Erich Leitgeb and
-               S. Muhammad and
+               Sajid Sheikh Muhammad and
                Gorazd Kandus},
   title     = {Weather effects on hybrid FSO/{RF} communication link},
   journal   = ieeesac,
@@ -28623,7 +31546,7 @@
 }
 
 @article{DBLP:journals/jsac/AbdollahiK08,
-  author    = {F. Abdollahi and
+  author    = {Farzaneh Abdollahi and
                Kash Khorasani},
   title     = {A novel H∞ control strategy for design of a robust dynamic routing algorithm in traffic networks},
   journal   = ieeesac,
@@ -30342,9 +33265,9 @@
 }
 
 @article{DBLP:journals/jsac/MielkeAD07,
-  author    = {M. M. Mielke and
-               G. A. Alphonse and
-               P. J. Delfyett},
+  author    = {Michael M. Mielke and
+               Gerard A. Alphonse and
+               Peter J. Delfyett},
   title     = {Multiwavelength modelocked semiconductor lasers for photonic access network applications},
   journal   = ieeesac,
   volume    = {25},
@@ -31208,8 +34131,8 @@
 }
 
 @article{DBLP:journals/jsac/TomicJ07,
-  author    = {S. Tomic and
-               A. Jukan},
+  author    = {Slobodanka Tomic and
+               Admela Jukan},
   title     = {Performance Analysis of Infrastructure Service Provision with {GMPLS-Based} Traffic Engineering},
   journal   = ieeesac,
   volume    = {25},
@@ -32346,7 +35269,7 @@
 }
 
 @article{DBLP:journals/jsac/Pavel06,
-  author    = {L. Pavel},
+  author    = {Lacra Pavel},
   title     = {{OSNR} optimization in optical networks: modeling and distributed algorithms via a central cost approach},
   journal   = ieeesac,
   volume    = {24},
@@ -32548,7 +35471,7 @@
 
 @article{DBLP:journals/jsac/TanML06,
   author    = {Chee-Wei Tan and
-               G. Mohan and
+               Gurusamy Mohan and
                John C. S. Lui},
   title     = {Achieving {Multi-Class} Service Differentiation in {WDM} Optical Burst Switching Networks: A Probabilistic Preemptive Burst Segmentation Scheme},
   journal   = ieeesac,
@@ -33139,7 +36062,7 @@
 }
 
 @article{DBLP:journals/jsac/LiuA06,
-  author    = {L. Liu and
+  author    = {Le Liu and
                Fumiyuki Adachi},
   title     = {Joint frequency-domain differential detection and equalization for {DS-CDMA} signal transmissions in a frequency-selective fading channel},
   journal   = ieeesac,
@@ -33543,7 +36466,7 @@
 @article{DBLP:journals/jsac/LiLT06,
   author    = {Jia Li and
                Qingchong Liu and
-               D. P. Taylor},
+               Desmond P. Taylor},
   title     = {Performance of {UWB} {PSK} systems using fully saturated power amplifiers},
   journal   = ieeesac,
   volume    = {24},
@@ -34497,7 +37420,7 @@
 }
 
 @article{DBLP:journals/jsac/AyresSCL06,
-  author    = {P. E. Ayres and
+  author    = {Paulo E. Ayres and
                H. Sun and
                H. Jonathan Chao and
                Wing Cheong Lau},
@@ -34617,7 +37540,7 @@
                Fan Yang and
                Kun Tan and
                Jie Chen and
-               Quan Zhang and
+               Qian Zhang and
                Zhensheng Zhang},
   title     = {Distributed Channel Assignment and Routing in Multiradio Multichannel Multihop Wireless Networks},
   journal   = ieeesac,
@@ -36331,7 +39254,7 @@
 
 @article{DBLP:journals/jsac/MomeniA05,
   author    = {B. Momeni and
-               A. Adibi},
+               Ali Adibi},
   title     = {Systematic design of superprism-based photonic crystal demultiplexers},
   journal   = ieeesac,
   volume    = {23},
@@ -36368,13 +39291,13 @@
 }
 
 @article{DBLP:journals/jsac/SchusterKRTPKK05,
-  author    = {M. Schuster and
-               N. Klein and
+  author    = {Michael Schuster and
+               Norbert Klein and
                Patrick Ruther and
-               A. Trautmann and
+               Achim Trautmann and
                Oliver Paul and
-               P. Kuzel and
-               F. Kadlec},
+               Petr Kuzel and
+               Filip Kadlec},
   title     = {An interconnected 2{D-TM} {EBG} structure for millimeter and submillimeter waves},
   journal   = ieeesac,
   volume    = {23},
@@ -36384,9 +39307,9 @@
 }
 
 @article{DBLP:journals/jsac/SasakiHK05,
-  author    = {F. Sasaki and
-               S. Haraichi and
-               S. Kobayashi},
+  author    = {Fumio Sasaki and
+               Satoshi Haraichi and
+               Shunsuke Kobayashi},
   title     = {Highly oriented molecular aggregates in 1-D photonic crystal slabs: toward the control of molecular arrangement from submicron to nanometer region},
   journal   = ieeesac,
   volume    = {23},
@@ -36427,9 +39350,9 @@
                F. Paleari and
                M. Patrini and
                G. Guizzetti and
-               D. Gerace and
+               Dario Gerace and
                M. Agio and
-               L. C. Andreani and
+               Lucio C. Andreani and
                D. Peyrade and
                Y. Chen},
   title     = {Measurement of photonic mode dispersion and linewidths in silicon-on-insulator photonic crystal slabs},
@@ -36670,7 +39593,7 @@
 }
 
 @article{DBLP:journals/jsac/Ali05,
-  author    = {M. Ali},
+  author    = {Maher Ali},
   title     = {Routing of 40-Gb/s Streams in {Wavelength-Routed} Heterogeneous Optical Networks},
   journal   = ieeesac,
   volume    = {23},
@@ -36786,7 +39709,7 @@
   author    = {Michele Franceschini and
                Gianluigi Ferrari and
                Riccardo Raheli and
-               A. Curtoni},
+               Aldo Curtoni},
   title     = {Serial concatenation of {LDPC} codes and differential modulations},
   journal   = ieeesac,
   volume    = {23},
@@ -36947,7 +39870,7 @@
   author    = {Stephen G. Wilson and
                Maïté Brandt-Pearce and
                Qianling Cao and
-               M. Baedke},
+               Michael Baedke},
   title     = {Optical repetition {MIMO} transmission with multipulse {PPM}},
   journal   = ieeesac,
   volume    = {23},
@@ -37137,7 +40060,7 @@
   author    = {Ehab Al-Shaer and
                Hazem H. Hamed and
                Raouf Boutaba and
-               M. Hasan},
+               Masum Hasan},
   title     = {Conflict classification and analysis of distributed firewall policies},
   journal   = ieeesac,
   volume    = {23},
@@ -38932,8 +41855,8 @@
 }
 
 @article{DBLP:journals/jsac/DegilaS04,
-  author    = {J. R. Degila and
-               B. Sanso},
+  author    = {Jules R. Dégila and
+               Brunilde Sansò},
   title     = {Topological design optimization of a yottabit-per-second lattice network},
   journal   = ieeesac,
   volume    = {22},
@@ -39152,7 +42075,7 @@
 
 @article{DBLP:journals/jsac/RuanLL04,
   author    = {Lu Ruan and
-               H. Luo and
+               Haibo Luo and
                Chang Liu},
   title     = {A dynamic routing algorithm with load balancing heuristics for restorable connections in {WDM} networks},
   journal   = ieeesac,
@@ -40221,9 +43144,9 @@
 }
 
 @article{DBLP:journals/jsac/ViswanathanVH03,
-  author    = {H. Viswanathan and
+  author    = {Harish Viswanathan and
                S. Venkatesan and
-               H. Huang},
+               Howard Huang},
   title     = {Downlink capacity evaluation of cellular networks with known-interference cancellation},
   journal   = ieeesac,
   volume    = {21},
@@ -40489,7 +43412,7 @@
                Julie Taylor and
                Zhong Pan and
                Jing Cao and
-               Minyong Jeon and
+               Min-Yong Jeon and
                Tony Nady and
                Gary Goncher and
                Kirk Boyer and
@@ -40855,7 +43778,7 @@
 
 @article{DBLP:journals/jsac/SankaranarayananS03,
   author    = {S. Sankaranarayanan and
-               S. Subramaniam},
+               Suresh Subramaniam},
   title     = {Comprehensive performance modeling and analysis of multicasting in optical networks},
   journal   = ieeesac,
   volume    = {21},
@@ -40941,7 +43864,7 @@
 }
 
 @article{DBLP:journals/jsac/ChandramouliSSWY03,
-  author    = {R. Chandramouli and
+  author    = {Rajarathnam Chandramouli and
                R. Shorey and
                Pradip K. Srimani and
                X. Wang and
@@ -44947,7 +47870,7 @@
 }
 
 @article{DBLP:journals/jsac/Garcia-FriasV01,
-  author    = {Javier Garcia-Frias and
+  author    = {Javier Garcia-Frías and
                John D. Villasenor},
   title     = {Joint turbo decoding and estimation of hidden Markov sources},
   journal   = ieeesac,
@@ -47211,7 +50134,7 @@
 }
 
 @article{DBLP:journals/jsac/MacdonaldP00,
-  author    = {Thomas G. Macdonald and
+  author    = {Thomas G. MacDonald and
                Michael B. Pursley},
   title     = {The performance of direct-sequence spread spectrum with complex processing and quaternary data modulation},
   journal   = ieeesac,
@@ -47615,7 +50538,7 @@
 }
 
 @article{DBLP:journals/jsac/Mukherjee00,
-  author    = {B. Mukherjee},
+  author    = {Biswanath Mukherjee},
   title     = {{WDM} optical communication networks: progress and challenges},
   journal   = ieeesac,
   volume    = {18},
@@ -49053,7 +51976,7 @@
 
 @article{DBLP:journals/jsac/ZangiK99,
   author    = {Kambiz C. Zangi and
-               R. David Koilpillai},
+               Ravinder David Koilpillai},
   title     = {Software radio issues in cellular base stations},
   journal   = ieeesac,
   volume    = {17},
@@ -51629,7 +54552,7 @@
 
 @article{DBLP:journals/jsac/GarrettDG98,
   author    = {L. D. Garrett and
-               R. M. Derosier and
+               Richard M. Derosier and
                A. H. Gnauck and
                A. McCormick and
                Robert W. Tkach and
@@ -51650,13 +54573,13 @@
                Brian J. Wilson and
                Yukun Tsai and
                G. K. Chang and
-               S. H. Patel and
+               Sunita H. Patel and
                C. L. Allyn and
-               A. R. Chraplyvy and
+               Andrew R. Chraplyvy and
                J. Judkins and
-               A. K. Srivastava and
-               J. W. Sulhoff and
-               Y. Sun and
+               Atul K. Srivastava and
+               James W. Sulhoff and
+               Yan Sun and
                A. M. Vengsarkar and
                C. Wolf and
                J. L. Zyskind and
@@ -51664,7 +54587,7 @@
                B. Comissiong and
                G. W. Davis and
                G. Duverney and
-               N. A. Jackman and
+               Neil A. Jackman and
                A. Jozan and
                V. Nichols and
                B. H. Lee and
@@ -51688,7 +54611,7 @@
 }
 
 @article{DBLP:journals/jsac/KerfootM98,
-  author    = {Frank W. Kerfoot and
+  author    = {Franklin W. Kerfoot and
                William C. Marra},
   title     = {Undersea fiber optic networks: past, present, and future},
   journal   = ieeesac,
@@ -51715,7 +54638,7 @@
                N. Flaaronning and
                D. Vercauteren and
                Mario Puleo and
-               E. Ciaramella and
+               Ernesto Ciaramella and
                G. Marone and
                R. Hess and
                Hans Melchior and
@@ -53858,7 +56781,7 @@
 
 @article{DBLP:journals/jsac/SuzukiN97,
   author    = {Shigefusa Suzuki and
-               K. Nakada},
+               Kazuhiko Nakada},
   title     = {An Authentication Technique Based on Distributed Security Management for the Global Mobility Network},
   journal   = ieeesac,
   volume    = {15},
@@ -62038,7 +64961,7 @@
 
 @article{DBLP:journals/jsac/ElhakeemRBL92,
   author    = {Ahmed K. Elhakeem and
-               M. Anisur Rahman and
+               Md Anisur Rahman and
                Premkumar Balasubramanian and
                Tho Le-Ngoc},
   title     = {Modified SUGAR/DS: A New {CDMA} Scheme},
@@ -62215,7 +65138,7 @@
 }
 
 @article{DBLP:journals/jsac/Macq92,
-  author    = {Benoit M. Macq},
+  author    = {Benoît Macq},
   title     = {Weighted Optimum Bit Allocations to Orthogonal Transforms for Picture Coding},
   journal   = ieeesac,
   volume    = {10},
@@ -63545,7 +66468,7 @@
 }
 
 @article{DBLP:journals/jsac/Descloux91,
-  author    = {A. Descloux},
+  author    = {Alfred Descloux},
   title     = {Stochastic Models for {ATM} Switching Networks},
   journal   = ieeesac,
   volume    = {9},
@@ -68996,7 +71919,7 @@
 }
 
 @article{DBLP:journals/jsac/TaheriJM88,
-  author    = {M. Taheri and
+  author    = {Majid Taheri and
                Graham A. Jullien and
                William C. Miller},
   title     = {High-speed signal processing using systolic arrays over finite rings},
@@ -69684,9 +72607,9 @@
 }
 
 @article{DBLP:journals/jsac/KishimotoYI88,
-  author    = {R. Kishimoto and
-               K. Yoshino and
-               M. Ikeda},
+  author    = {Ryozo Kishimoto and
+               Kaoru Yoshino and
+               Masahiro Ikeda},
   title     = {Fiber-optic digital video distribution system for using high-definition television signals using laser-diode optical switch},
   journal   = ieeesac,
   volume    = {6},
@@ -69891,8 +72814,8 @@
 }
 
 @article{DBLP:journals/jsac/KishimotoI88,
-  author    = {T. Kishimoto and
-               M. Ikeda},
+  author    = {Ryozo Kishimoto and
+               Masahiro Ikeda},
   title     = {Optical self-routing switch using integrated laser diode optical switch},
   journal   = ieeesac,
   volume    = {6},
@@ -70140,9 +73063,9 @@
 }
 
 @article{DBLP:journals/jsac/KumarRA88,
-  author    = {A. Kumar and
-               S. Rai and
-               D. P. Agrawal},
+  author    = {Anup Kumar and
+               Suresh Rai and
+               Dharma P. Agrawal},
   title     = {On computer communication network reliability under program execution constraints},
   journal   = ieeesac,
   volume    = {6},
@@ -73640,7 +76563,7 @@
 }
 
 @article{DBLP:journals/jsac/Schreiber86,
-  author    = {Fabio A. Schreiber},
+  author    = {Fabio Alberto Schreiber},
   title     = {Information Systems: A Challenge for Computers and Communications Reliability},
   journal   = ieeesac,
   volume    = {4},
@@ -75897,8 +78820,8 @@
 
 @article{DBLP:journals/jsac/MesserschmittNA84,
   author    = {David G. Messerschmitt and
-               M. Narasimha and
-               B. Agrawal},
+               Madihally Narasimha and
+               Bhagwati P. Agrawal},
   title     = {Guest Editorial},
   journal   = ieeesac,
   volume    = {2},
@@ -76014,7 +78937,7 @@
 @article{DBLP:journals/jsac/SanzMS84,
   author    = {Alberto Sanz and
                Carlos Muñoz and
-               Narciso García Santos},
+               Narciso García},
   title     = {Approximation Quality Improvement Techniques in Progressive Image Transmission},
   journal   = ieeesac,
   volume    = {2},
@@ -76638,9 +79561,9 @@
 
 @article{DBLP:journals/jsac/MochizukiNKN84,
   author    = {Kiyofumi Mochizuki and
-               Y. Namihira and
-               M. Kuwazuru and
-               M. Nunokawa},
+               Yoshinori Namihira and
+               Masakuni Kuwazuru and
+               Makoto Nunokawa},
   title     = {Influence of Hydrogen on Optical Fiber Loss in Submarine Cables},
   journal   = ieeesac,
   volume    = {2},
@@ -76875,10 +79798,10 @@
 }
 
 @article{DBLP:journals/jsac/NakanoSIMI84,
-  author    = {Y. Nakano and
-               H. Sudo and
-               G. Iwane and
-               T. Matsumoto and
+  author    = {Yoshinori Nakano and
+               Hiromi Sudo and
+               Genzo Iwane and
+               Tadashi Matsumoto and
                Tetsuhiko Ikegami},
   title     = {Reliability of Semiconductor Lasers and Detectors for Undersea Transmission Systems},
   journal   = ieeesac,
@@ -77161,11 +80084,11 @@
 }
 
 @article{DBLP:journals/jsac/SamejimaIKIS83,
-  author    = {S. Samejima and
-               T. Inoue and
-               K. Kagoshima and
+  author    = {Shuichi Samejima and
+               Takeo Inoue and
+               Kenichi Kagoshima and
                Masayoshi Inoue and
-               M. Suzuki},
+               Mikio Suzuki},
   title     = {{One-Way} Multiaddress Satellite Data Communication System},
   journal   = ieeesac,
   volume    = {1},
@@ -77294,11 +80217,11 @@
 }
 
 @article{DBLP:journals/jsac/AssalGBZA83,
-  author    = {F. Assal and
+  author    = {François T. Assal and
                Ramesh K. Gupta and
                Khodadad Betaharon and
                Amir I. Zaghloul and
-               J. Apple},
+               Joseph H. Apple},
   title     = {A {Wide-Band} Satellite Microwave Switch Matrix for SS/{TDMA} Communications},
   journal   = ieeesac,
   volume    = {1},
@@ -77735,7 +80658,7 @@
 }
 
 @article{DBLP:journals/jsac/Taylor83,
-  author    = {H. Taylor},
+  author    = {Henry F. Taylor},
   title     = {Technology and Design Considerations for a {Very-High-Speed} {Fiber-Optic} Data Bus},
   journal   = ieeesac,
   volume    = {1},
@@ -77865,11 +80788,11 @@
 }
 
 @article{DBLP:journals/jsac/InoueNMKS83,
-  author    = {T. Inoue and
-               S. Nakajima and
-               T. Masamura and
-               T. Kaitsuka and
-               K. Satoh},
+  author    = {Takeo Inoue and
+               Shigeo Nakajima and
+               Tatsuro Masamura and
+               Toshiyuki Kaitsuka and
+               Kohei Satoh},
   title     = {30/20 {GHz} Band {SCPC} Satellite Communication Using Small Earth Stations},
   journal   = ieeesac,
   volume    = {1},
@@ -77927,8 +80850,8 @@
 }
 
 @article{DBLP:journals/jsac/MizunoK83,
-  author    = {H. Mizuno and
-               H. Kato},
+  author    = {Hideki Mizuno and
+               Haruhiko Kato},
   title     = {30 {GHz} Band Low Noise Receiver for 30/20 {GHz} {Single-Conversion} Transponder},
   journal   = ieeesac,
   volume    = {1},
@@ -77938,10 +80861,10 @@
 }
 
 @article{DBLP:journals/jsac/NoguchiAWK83,
-  author    = {T. Noguchi and
-               Y. Aono and
-               K. Watanabe and
-               S. Kameda},
+  author    = {Tsutomu Noguchi and
+               Yoichi Aono and
+               Kenzi Watanabe and
+               Shozaburo Kameda},
   title     = {A 20 {GHz} Band 0.5 W {GaAs} {FET} Amplifier for Satellite Communications},
   journal   = ieeesac,
   volume    = {1},

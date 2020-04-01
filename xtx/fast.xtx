@@ -1,5 +1,317 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fast/KourtisIK19,
+  author    = {Kornilios Kourtis and
+               Nikolas Ioannou and
+               Ioannis Koltsidas},
+  title     = {Reaping the performance of fast {NVM} storage with {uDepot}},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/fast/BittmanLAM19,
+  author    = {Daniel Bittman and
+               Darrell D. E. Long and
+               Peter Alvaro and
+               Ethan L. Miller},
+  title     = {Optimizing Systems for {Byte-Addressable} {NVM} by Reducing Bit Flipping},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {17-30},
+}
+
+@inproceedings{DBLP:conf/fast/NamCCNN19,
+  author    = {Moohyeon Nam and
+               Hokeun Cha and
+               Young-ri Choi and
+               Sam H. Noh and
+               Beomseok Nam},
+  title     = {{Write-Optimized} Dynamic Hashing for Persistent Memory},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {31-44},
+}
+
+@inproceedings{DBLP:conf/fast/GogteWDKCNW19,
+  author    = {Vaibhav Gogte and
+               William Wang and
+               Stephan Diestelhorst and
+               Aasheesh Kolli and
+               Peter M. Chen and
+               Satish Narayanasamy and
+               Thomas F. Wenisch},
+  title     = {Software Wear Management for Persistent Memories},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {45-63},
+}
+
+@inproceedings{DBLP:conf/fast/KesavanCDM19,
+  author    = {Ram Kesavan and
+               Matthew Curtis-Maury and
+               Vinay Devadas and
+               Kesari Mishra},
+  title     = {Storage Gardening: Using a Virtualization Layer for Efficient Defragmentation in the {WAFL} File System},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {65-78},
+}
+
+@inproceedings{DBLP:conf/fast/JungKRKJ19,
+  author    = {Seokyong Jung and
+               Jong-Bin Kim and
+               Minsoo Ryu and
+               Sooyong Kang and
+               Hyungsoo Jung},
+  title     = {Pay Migration Tax to Homeland: Anchor-based Scalable Reference Counting for Multicores},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {79-91},
+}
+
+@inproceedings{DBLP:conf/fast/EduardoBZ19,
+  author    = {Vandeir Eduardo and
+               Luis Carlos Erpen De Bona and
+               Wagner M. Nunan Zola},
+  title     = {Speculative Encryption on {GPU} Applied to Cryptographic File Systems},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {93-105},
+}
+
+@inproceedings{DBLP:conf/fast/HarnikHSEK19,
+  author    = {Danny Harnik and
+               Moshik Hershcovitch and
+               Yosef Shatsky and
+               Amir Epstein and
+               Ronen I. Kat},
+  title     = {Sketching Volume Capacities in Deduplicated Storage},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {107-119},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangX000W19,
+  author    = {Yucheng Zhang and
+               Wen Xia and
+               Dan Feng and
+               Hong Jiang and
+               Yu Hua and
+               Qiang Wang},
+  title     = {Finesse: {Fine-Grained} Feature Locality based Fast Resemblance Detection for {Post-Deduplication} Delta Compression},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {121-128},
+}
+
+@inproceedings{DBLP:conf/fast/CaoLWWLD19,
+  author    = {Zhichao Cao and
+               Shiyong Liu and
+               Fenggang Wu and
+               Guohua Wang and
+               Bingzhe Li and
+               David H. C. Du},
+  title     = {Sliding {Look-Back} Window Assisted Data Chunk Rewriting for Improving Deduplication Restore Performance},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {129-142},
+}
+
+@inproceedings{DBLP:conf/fast/LiuBLLKB0S19,
+  author    = {Zaoxing Liu and
+               Zhihao Bai and
+               Zhenming Liu and
+               Xiaozhou Li and
+               Changhoon Kim and
+               Vladimir Braverman and
+               Xin Jin and
+               Ion Stoica},
+  title     = {DistCache: Provable Load Balancing for {Large-Scale} Storage Systems with Distributed Caching},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {143-157},
+}
+
+@inproceedings{DBLP:conf/fast/YaoWHZLXH19,
+  author    = {Ting Yao and
+               Jiguang Wan and
+               Ping Huang and
+               Yiwen Zhang and
+               Zhiwen Liu and
+               Changsheng Xie and
+               Xubin He},
+  title     = {GearDB: A {GC-free} {Key-Value} Store on {HM-SMR} Drives with Gear Compaction},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {159-171},
+}
+
+@inproceedings{DBLP:conf/fast/BailleuTBFHV19,
+  author    = {Maurice Bailleu and
+               Jörg Thalheim and
+               Pramod Bhatotia and
+               Christof Fetzer and
+               Michio Honda and
+               Kapil Vaswani},
+  title     = {SPEICHER: Securing {LSM-based} {Key-Value} Stores using Shielded Execution},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {173-190},
+}
+
+@inproceedings{DBLP:conf/fast/KaiyrakhmetLNNC19,
+  author    = {Olzhas Kaiyrakhmet and
+               Songyi Lee and
+               Beomseok Nam and
+               Sam H. Noh and
+               Young-ri Choi},
+  title     = {SLM-DB: {Single-Level} {Key-Value} Store with Persistent Memory},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {191-205},
+}
+
+@inproceedings{DBLP:conf/fast/ZhengHS19,
+  author    = {Shengan Zheng and
+               Morteza Hoseinzadeh and
+               Steven Swanson},
+  title     = {Ziggurat: A Tiered File System for {Non-Volatile} Main Memories and Disks},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {207-219},
+}
+
+@inproceedings{DBLP:conf/fast/YangIS19,
+  author    = {Jian Yang and
+               Joseph Izraelevitz and
+               Steven Swanson},
+  title     = {Orion: A Distributed File System for {Non-Volatile} Main Memory and {RDMA-Capable} Networks},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {221-234},
+}
+
+@inproceedings{DBLP:conf/fast/SivathanuVGRLMK19,
+  author    = {Muthian Sivathanu and
+               Midhul Vuppalapati and
+               Bhargav S. Gulavani and
+               Kaushik Rajan and
+               Jyoti Leeka and
+               Jayashree Mohan and
+               Piyus Kedia},
+  title     = {INSTalytics: Cluster Filesystem Co-design for Big-data Analytics},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {235-248},
+}
+
+@inproceedings{DBLP:conf/fast/KumarH19,
+  author    = {Pradeep Kumar and
+               H. Howie Huang},
+  title     = {GraphOne: A Data Store for Real-time Analytics on Evolving Graphs},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {249-263},
+}
+
+@inproceedings{DBLP:conf/fast/JiYZMZWEZLX19,
+  author    = {Xu Ji and
+               Bin Yang and
+               Tianyu Zhang and
+               Xiaosong Ma and
+               Xiupeng Zhu and
+               Xiyang Wang and
+               Nosayba El-Sayed and
+               Jidong Zhai and
+               Weiguo Liu and
+               Wei Xue},
+  title     = {Automatic, {Application-Aware} I/O Forwarding Resource Allocation},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {265-279},
+}
+
+@inproceedings{DBLP:conf/fast/KimCM19,
+  author    = {Bryan S. Kim and
+               Jongmoo Choi and
+               Sang Lyul Min},
+  title     = {Design Tradeoffs for {SSD} Reliability},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {281-294},
+}
+
+@inproceedings{DBLP:conf/fast/KimHHCLHLK19,
+  author    = {Taejin Kim and
+               Duwon Hong and
+               Sangwook Shane Hahn and
+               Myoungjun Chun and
+               Sungjin Lee and
+               Joo Young Hwang and
+               Jongyoul Lee and
+               Jihong Kim},
+  title     = {Fully Automatic Stream Management for {Multi-Streamed} {SSDs} Using Program Contexts},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/fast/ElyasiCS19,
+  author    = {Nima Elyasi and
+               Changho Choi and
+               Anand Sivasubramaniam},
+  title     = {{Large-Scale} Graph Processing on Emerging Storage Devices},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {309-316},
+}
+
+@inproceedings{DBLP:conf/fast/ZhouT19,
+  author    = {Tianli Zhou and
+               Chao Tian},
+  title     = {Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {317-329},
+}
+
+@inproceedings{DBLP:conf/fast/LiLLH19,
+  author    = {Xiaolu Li and
+               Runhui Li and
+               Patrick P. C. Lee and
+               Yuchong Hu},
+  title     = {OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {331-344},
+}
+
+@inproceedings{DBLP:conf/fast/KadekodiRG19,
+  author    = {Saurabh Kadekodi and
+               K. V. Rashmi and
+               Gregory R. Ganger},
+  title     = {Cluster storage systems gotta have HeART: improving storage efficiency by exploiting disk-reliability heterogeneity},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {345-358},
+}
+
+@inproceedings{DBLP:conf/fast/StuardoLSKLCLG19,
+  author    = {Cesar A. Stuardo and
+               Tanakorn Leesatapornwongsa and
+               Riza O. Suminto and
+               Huan Ke and
+               Jeffrey F. Lukman and
+               Wei-Chiu Chuang and
+               Shan Lu and
+               Haryadi S. Gunawi},
+  title     = {ScaleCheck: A {Single-Machine} Approach for Discovering Scalability Bugs in Large Distributed Systems},
+  booktitle = fast,
+  year      = 2019,
+  pages     = {359-373},
+}
+
 @inproceedings{DBLP:conf/fast/GunawiSSGSLESBM18,
   author    = {Haryadi S. Gunawi and
                Riza O. Suminto and
@@ -1412,8 +1724,8 @@
 }
 
 @inproceedings{DBLP:conf/fast/MirandaC14,
-  author    = {A. Miranda and
-               T. Cortes},
+  author    = {Alberto Miranda and
+               Toni Cortes},
   title     = {CRAID: online {RAID} upgrades using dynamic hot data reorganization},
   booktitle = fast,
   year      = 2014,
@@ -3250,7 +3562,7 @@
   author    = {Michael P. Mesnier and
                Matthew Wachs and
                Raja R. Sambasivan and
-               Julio López and
+               Julio López Hernandez and
                James Hendricks and
                Gregory R. Ganger and
                David R. O'Hallaron},
@@ -3820,7 +4132,7 @@
                Erwin Oertli and
                David G. Andersen and
                Michael Burrows and
-               Timothy Mann and
+               Timothy P. Mann and
                Chandramohan A. Thekkath},
   title     = {{Block-Level} Security for {Network-Attached} Disks},
   booktitle = fast,

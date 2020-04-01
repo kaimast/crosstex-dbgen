@@ -1,5 +1,2812 @@
 @include journals-cs
 
+@article{DBLP:journals/ton/DaiLLZC20,
+  author    = {Haipeng Dai and
+               Meng Li and
+               Alex X. Liu and
+               Jiaqi Zheng and
+               Guihai Chen},
+  title     = {Finding Persistent Items in Distributed Datasets},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-14},
+}
+
+@article{DBLP:journals/ton/TalakKM20,
+  author    = {Rajat Talak and
+               Sertac Karaman and
+               Eytan Modiano},
+  title     = {Optimizing Information Freshness in Wireless Networks Under General Interference Constraints},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {15-28},
+}
+
+@article{DBLP:journals/ton/SantagatiDM20,
+  author    = {Giuseppe Enrico Santagati and
+               Neil Dave and
+               Tommaso Melodia},
+  title     = {Design and Performance Evaluation of an Implantable Ultrasonic Networking Platform for the Internet of Medical Things},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {29-42},
+}
+
+@article{DBLP:journals/ton/QiaoJCR20,
+  author    = {Yan Qiao and
+               Jun Jiao and
+               Xinhong Cui and
+               Yuan Rao},
+  title     = {Robust Loss Inference in the Presence of Noisy Measurements and Hidden Fault Diagnosis},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {43-56},
+}
+
+@article{DBLP:journals/ton/ZhaoLWXGX20,
+  author    = {Jia Zhao and
+               Jiangchuan Liu and
+               Haiyang Wang and
+               Chi Xu and
+               Wei Gong and
+               Changqiao Xu},
+  title     = {Measurement, Analysis, and Enhancement of Multipath {TCP} Energy Efficiency for Datacenters},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {57-70},
+}
+
+@article{DBLP:journals/ton/LiaoCH20,
+  author    = {Guocheng Liao and
+               Xu Chen and
+               Jianwei Huang},
+  title     = {Prospect Theoretic Analysis of {Privacy-Preserving} Mechanism},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {71-83},
+}
+
+@article{DBLP:journals/ton/KimLKSSC20,
+  author    = {Seokhyun Kim and
+               Kimin Lee and
+               Yeonkeun Kim and
+               Jinwoo Shin and
+               Seungwon Shin and
+               Song Chong},
+  title     = {Dynamic Control for {On-Demand} {Interference-Managed} {WLAN} Infrastructures},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {84-97},
+}
+
+@article{DBLP:journals/ton/ShanRCSG20,
+  author    = {Danfeng Shan and
+               Fengyuan Ren and
+               Peng Cheng and
+               Ran Shu and
+               Chuanxiong Guo},
+  title     = {Observing and Mitigating {Micro-Burst} Traffic in Data Center Networks},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {98-111},
+}
+
+@article{DBLP:journals/ton/SainoPLP20,
+  author    = {Lorenzo Saino and
+               Ioannis Psaras and
+               Emilio Leonardi and
+               George Pavlou},
+  title     = {Load Imbalance and Caching Performance of Sharded Systems},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {112-125},
+}
+
+@article{DBLP:journals/ton/LiuCLQXLCL20,
+  author    = {Xiulong Liu and
+               Sheng Chen and
+               Jia Liu and
+               Wenyu Qu and
+               Fengjun Xiao and
+               Alex X. Liu and
+               Jiannong Cao and
+               Jiangchuan Liu},
+  title     = {Fast and Accurate Detection of Unknown Tags for {RFID} Systems - Hash Collisions are Desirable},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {126-139},
+}
+
+@article{DBLP:journals/ton/NaveenK20,
+  author    = {Kolar Purushothama Naveen and
+               Anurag Kumar},
+  title     = {Coverage in {One-Dimensional} Wireless Networks With Infrastructure Nodes and Relay Extensions},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {140-153},
+}
+
+@article{DBLP:journals/ton/ChenLZCM20,
+  author    = {Shuyi Chen and
+               Xiqing Liu and
+               Tianyu Zhao and
+               Hsiao-Hwa Chen and
+               Weixiao Meng},
+  title     = {Performance Analysis of Joint Transmission Schemes in {Ultra-Dense} Networks - A Unified Approach},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {154-167},
+}
+
+@article{DBLP:journals/ton/MehicFRMPPRNV20,
+  author    = {Miralem Mehic and
+               Peppino Fazio and
+               Stefan Rass and
+               Oliver Maurhart and
+               Momtchil Peev and
+               Andreas Poppe and
+               Jan Rozhon and
+               Marcin Niemiec and
+               Miroslav Voznák},
+  title     = {A Novel Approach to {Quality-of-Service} Provisioning in Trusted Relay Quantum Key Distribution Networks},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {168-181},
+}
+
+@article{DBLP:journals/ton/Ganesan20,
+  author    = {Ashwin Ganesan},
+  title     = {Performance Guarantees of Distributed Algorithms for {QoS} in Wireless Ad Hoc Networks},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {182-195},
+}
+
+@article{DBLP:journals/ton/LuCUPP20,
+  author    = {Zongqing Lu and
+               Kevin Chan and
+               Rahul Urgaonkar and
+               Shiliang Pu and
+               Thomas F. La Porta},
+  title     = {NetVision: {On-Demand} Video Processing in Wireless Networks},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {196-209},
+}
+
+@article{DBLP:journals/ton/PhamHC20,
+  author    = {Minh Pham and
+               Doan B. Hoang and
+               Zenon Chaczko},
+  title     = {{Congestion-Aware} and {Energy-Aware} Virtual Network Embedding},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {210-223},
+}
+
+@article{DBLP:journals/ton/KouHYA20,
+  author    = {Caixia Kou and
+               Dedong Hu and
+               JianHua Yuan and
+               Wenbao Ai},
+  title     = {Bisection and Exact Algorithms Based on the Lagrangian Dual for a {Single-Constrained} Shortest Path Problem},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {224-233},
+}
+
+@article{DBLP:journals/ton/WangDRMWXC20,
+  author    = {Xiong Wang and
+               Qi Deng and
+               Jing Ren and
+               Mehdi Malboubi and
+               Sheng Wang and
+               Shizhong Xu and
+               Chen-Nee Chuah},
+  title     = {The Joint Optimization of Online Traffic Matrix Measurement and Traffic Engineering For {Software-Defined} Networks},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {234-247},
+}
+
+@article{DBLP:journals/ton/ThomasKXP20,
+  author    = {Yannis Thomas and
+               Merkourios Karaliopoulos and
+               George Xylomenos and
+               George C. Polyzos},
+  title     = {Low Latency Friendliness for Multipath {TCP}},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {248-261},
+}
+
+@article{DBLP:journals/ton/BhattacharjeeAB20,
+  author    = {Sangeeta Bhattacharjee and
+               Tamaghna Acharya and
+               Uma Bhattacharya},
+  title     = {{Energy-Efficient} Multicasting in Hybrid Cognitive Small Cell Networks: A {Cross-Layer} Approach},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {262-274},
+}
+
+@article{DBLP:journals/ton/CsikorSRPPT20,
+  author    = {Levente Csikor and
+               Márk Szalay and
+               Gábor Rétvári and
+               Gergely Pongrácz and
+               Dimitrios P. Pezaros and
+               László Toka},
+  title     = {Transition to {SDN} is HARMLESS: Hybrid Architecture for Migrating Legacy Ethernet Switches to {SDN}},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {275-288},
+}
+
+@article{DBLP:journals/ton/PasicBTBKR20,
+  author    = {Alija Pasic and
+               Péter Babarczi and
+               János Tapolcai and
+               Erika R. Bérczi-Kovács and
+               Zoltán Király and
+               Lajos Rónyai},
+  title     = {Minimum Cost Survivable Routing Algorithms for Generalized Diversity Coding},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {289-300},
+}
+
+@article{DBLP:journals/ton/GuoHZYG20,
+  author    = {Xiuzhen Guo and
+               Yuan He and
+               Xiaolong Zheng and
+               Liangcheng Yu and
+               Omprakash Gnawali},
+  title     = {ZigFi: Harnessing Channel State Information for {Cross-Technology} Communication},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {301-311},
+}
+
+@article{DBLP:journals/ton/YangY20,
+  author    = {Ze Yang and
+               Kwan L. Yeung},
+  title     = {{SDN} Candidate Selection in Hybrid IP/{SDN} Networks for Single Link Failure Protection},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {312-321},
+}
+
+@article{DBLP:journals/ton/XueCVVT20,
+  author    = {Jiachen Xue and
+               Muhammad Usama Chaudhry and
+               Balajee Vamanan and
+               T. N. Vijaykumar and
+               Mithuna Thottethodi},
+  title     = {Dart: Divide and Specialize for Fast Response to Congestion in {RDMA-Based} Datacenter Networks},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {322-335},
+}
+
+@article{DBLP:journals/ton/TangWNYL20,
+  author    = {Bin Tang and
+               Xiaoliang Wang and
+               Cam-Tu Nguyen and
+               Baoliu Ye and
+               Sanglu Lu},
+  title     = {Construction of {Subexponential-Size} Optical Priority Queues With Switches and Fiber Delay Lines},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {336-346},
+}
+
+@article{DBLP:journals/ton/AlbannaY20,
+  author    = {Amr Kamal Albanna and
+               Homayoun Yousefi'zadeh},
+  title     = {Congestion Minimization of {LTE} Networks: A Deep Learning Approach},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {347-359},
+}
+
+@article{DBLP:journals/ton/FuZWWWC20,
+  author    = {Luoyi Fu and
+               Jiapeng Zhang and
+               Shuaiqi Wang and
+               Xinyu Wu and
+               Xinbing Wang and
+               Guihai Chen},
+  title     = {{De-Anonymizing} Social Networks With Overlapping Community Structure},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {360-375},
+}
+
+@article{DBLP:journals/ton/LiuAJ20,
+  author    = {Teng Liu and
+               Alhussein A. Abouzeid and
+               A. Agung Julius},
+  title     = {Traffic Flow Control in Vehicular {Multi-Hop} Networks With Data Caching and Infrastructure Support},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {376-386},
+}
+
+@article{DBLP:journals/ton/Fukunaga20,
+  author    = {Takuro Fukunaga},
+  title     = {Adaptive Algorithm for Finding Connected Dominating Sets in Uncertain Graphs},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {387-398},
+}
+
+@article{DBLP:journals/ton/ShamiehW20,
+  author    = {Fuad Shamieh and
+               Xianbin Wang},
+  title     = {{Steganographic-Based} Header Size Reduction Technique for Multimedia Streams},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {399-412},
+}
+
+@article{DBLP:journals/ton/RahmanS20,
+  author    = {Mahbubur Rahman and
+               Abusayeed Saifullah},
+  title     = {Integrating {Low-Power} {Wide-Area} Networks for Enhanced Scalability and Extended Coverage},
+  journal   = ton,
+  volume    = {28},
+  number    = {1},
+  year      = 2020,
+  pages     = {413-426},
+}
+
+@article{DBLP:journals/ton/DongCZG19,
+  author    = {Wei Dong and
+               Chenhong Cao and
+               Xiaoyu Zhang and
+               Yi Gao},
+  title     = {Understanding Path Reconstruction Algorithms in Multihop Wireless Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {1-14},
+}
+
+@article{DBLP:journals/ton/ShafighGHLD19,
+  author    = {Alireza Shams Shafigh and
+               Savo Glisic and
+               Ekram Hossain and
+               Beatriz Lorenzo and
+               Luiz A. DaSilva},
+  title     = {{User-Centric} Distributed Spectrum Sharing in Dynamic Network Architectures},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {15-28},
+}
+
+@article{DBLP:journals/ton/BorkotokyP19,
+  author    = {Siddhartha S. Borkotoky and
+               Michael B. Pursley},
+  title     = {{Fountain-Coded} Broadcast Distribution in {Multiple-Hop} Packet Radio Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {29-41},
+}
+
+@article{DBLP:journals/ton/YuGLCW19,
+  author    = {Jihong Yu and
+               Wei Gong and
+               Jiangchuan Liu and
+               Lin Chen and
+               Kehao Wang},
+  title     = {On Efficient {Tree-Based} Tag Search in {Large-Scale} {RFID} Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {42-55},
+}
+
+@article{DBLP:journals/ton/PegatoquetLM19,
+  author    = {Alain Pegatoquet and
+               Trong Nhan Le and
+               Michele Magno},
+  title     = {A {Wake-Up} {Radio-Based} {MAC} Protocol for Autonomous Wireless Sensor Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {56-70},
+}
+
+@article{DBLP:journals/ton/AlbazrqaoeHX19,
+  author    = {Wahhab Albazrqaoe and
+               Jun Huang and
+               Guoliang Xing},
+  title     = {A Practical Bluetooth Traffic Sniffing System: Design, Implementation, and Countermeasure},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {71-84},
+}
+
+@article{DBLP:journals/ton/JosiloD19,
+  author    = {Sladana Josilo and
+               György Dán},
+  title     = {Decentralized Algorithm for Randomized Task Allocation in Fog Computing Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {85-97},
+}
+
+@article{DBLP:journals/ton/TangWWG19,
+  author    = {Guoming Tang and
+               Huan Wang and
+               Kui Wu and
+               Deke Guo},
+  title     = {Tapping the Knowledge of Dynamic Traffic Demands for Optimal {CDN} Design},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {98-111},
+}
+
+@article{DBLP:journals/ton/TadrousES19,
+  author    = {John Tadrous and
+               Atilla Eryilmaz and
+               Ashutosh Sabharwal},
+  title     = {{Action-Based} Scheduling: Leveraging App Interactivity for Scheduler Efficiency},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {112-125},
+}
+
+@article{DBLP:journals/ton/LiuFYFWC19,
+  author    = {Jiaqi Liu and
+               Luoyi Fu and
+               Yuhang Yao and
+               Xinzhe Fu and
+               Xinbing Wang and
+               Guihai Chen},
+  title     = {Modeling, Analysis and Validation of Evolving Networks With Hybrid Interactions},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {126-142},
+}
+
+@article{DBLP:journals/ton/XiaoCLCL19,
+  author    = {Qingjun Xiao and
+               Shigang Chen and
+               Jia Liu and
+               Guang Cheng and
+               Junzhou Luo},
+  title     = {A Protocol for Simultaneously Estimating Moments and Popular Groups in a Multigroup {RFID} System},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {143-158},
+}
+
+@article{DBLP:journals/ton/LiuCXCXC19,
+  author    = {Jia Liu and
+               Shigang Chen and
+               Qingjun Xiao and
+               Min Chen and
+               Bin Xiao and
+               Lijun Chen},
+  title     = {Efficient Information Sampling in {Multi-Category} {RFID} Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {159-172},
+}
+
+@article{DBLP:journals/ton/ZhangZH19,
+  author    = {Peng Zhang and
+               Cheng Zhang and
+               Chengchen Hu},
+  title     = {Fast Data Plane Testing for {Software-Defined} Networks With {RuleChecker}},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {173-186},
+}
+
+@article{DBLP:journals/ton/LiuJJLMJX19,
+  author    = {Wenping Liu and
+               Hongbo Jiang and
+               Guoyin Jiang and
+               Jiangchuan Liu and
+               Xiaoqiang Ma and
+               Yufu Jia and
+               Fu Xiao},
+  title     = {Indoor Navigation With Virtual Graph Representation: Exploiting Peak Intensities of Unmodulated Luminaries},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {187-200},
+}
+
+@article{DBLP:journals/ton/GaoGZC19,
+  author    = {Xiaofeng Gao and
+               Yuanning Gao and
+               Yichen Zhu and
+               Guihai Chen},
+  title     = {U2-Tree: A Universal {Two-Layer} Distributed Indexing Scheme for Cloud Storage System},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {201-213},
+}
+
+@article{DBLP:journals/ton/CuiJLCHTDZL19,
+  author    = {Yong Cui and
+               Yimin Jiang and
+               Zeqi Lai and
+               Xiaomeng Chen and
+               Y. Charlie Hu and
+               Kun Tan and
+               Minglong Dai and
+               Kai Zheng and
+               Yi Li},
+  title     = {Wireless Network Instabilities in the Wild: Measurement, Applications (Non)Resilience, and {OS} Remedy},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {214-230},
+}
+
+@article{DBLP:journals/ton/ZhangK19,
+  author    = {Xu Zhang and
+               Edward W. Knightly},
+  title     = {$CSIsnoop$ : Inferring Channel State Information in {Multi-User} {MIMO} {WLANs}},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {231-244},
+}
+
+@article{DBLP:journals/ton/ChengW19,
+  author    = {Linsong Cheng and
+               Jiliang Wang},
+  title     = {Walls Have No Ears: A {Non-Intrusive} {WiFi-Based} User Identification System for Mobile Devices},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {245-257},
+}
+
+@article{DBLP:journals/ton/BejeranoRYGGYIA19,
+  author    = {Yigal Bejerano and
+               Chandrashekhar Raman and
+               Chun-Nam Yu and
+               Varun Gupta and
+               Craig Gutterman and
+               Tomas Young and
+               Hugo Infante and
+               Yousef Abdelmalek and
+               Gil Zussman},
+  title     = {DyMo: Dynamic Monitoring of {Large-Scale} {LTE-Multicast} Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {258-271},
+}
+
+@article{DBLP:journals/ton/ZhouLWSULX19,
+  author    = {Jianer Zhou and
+               Zhenyu Li and
+               Qinghua Wu and
+               Peter Steenkiste and
+               Steve Uhlig and
+               Jun Li and
+               Gaogang Xie},
+  title     = {{TCP} Stalls at the Server Side: Measurement and Mitigation},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {272-287},
+}
+
+@article{DBLP:journals/ton/PoularakisIST19,
+  author    = {Konstantinos Poularakis and
+               George Iosifidis and
+               Georgios Smaragdakis and
+               Leandros Tassiulas},
+  title     = {Optimizing Gradual {SDN} Upgrades in {ISP} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {288-301},
+}
+
+@article{DBLP:journals/ton/HurtigGBFAK19,
+  author    = {Per Hurtig and
+               Karl-Johan Grinnemo and
+               Anna Brunström and
+               Simone Ferlin and
+               Ozgu Alay and
+               Nicolas Kuhn},
+  title     = {{Low-Latency} Scheduling in {MPTCP}},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {302-315},
+}
+
+@article{DBLP:journals/ton/MaatoukAE19,
+  author    = {Ali Maatouk and
+               Mohamad Assaad and
+               Anthony Ephremides},
+  title     = {Energy Efficient and Throughput Optimal {CSMA} Scheme},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {316-329},
+}
+
+@article{DBLP:journals/ton/JinHMZFC19,
+  author    = {Meng Jin and
+               Yuan He and
+               Xin Meng and
+               Yilun Zheng and
+               Dingyi Fang and
+               Xiaojiang Chen},
+  title     = {FlipTracer: Practical Parallel Decoding for Backscatter Communication},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {330-343},
+}
+
+@article{DBLP:journals/ton/HanTWCLL19,
+  author    = {Zhenhua Han and
+               Haisheng Tan and
+               Rui Wang and
+               Guihai Chen and
+               Yupeng Li and
+               Francis C. M. Lau},
+  title     = {{Energy-Efficient} Dynamic Virtual Machine Management in Data Centers},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {344-360},
+}
+
+@article{DBLP:journals/ton/LuoLXSLHL19,
+  author    = {Chengwen Luo and
+               Xiao Liu and
+               Wanli Xue and
+               Yiran Shen and
+               Jianqiang Li and
+               Wen Hu and
+               Alex X. Liu},
+  title     = {Predictable {Privacy-Preserving} Mobile Crowd Sensing: A Tale of Two Roles},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {361-374},
+}
+
+@article{DBLP:journals/ton/SunBTH19,
+  author    = {Yahui Sun and
+               Marcus Brazil and
+               Doreen A. Thomas and
+               Saman K. Halgamuge},
+  title     = {The Fast Heuristic Algorithms and {Post-Processing} Techniques to Design Large and {Low-Cost} Communication Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {375-388},
+}
+
+@article{DBLP:journals/ton/LiuHZWH19,
+  author    = {Sen Liu and
+               Jiawei Huang and
+               Yutao Zhou and
+               Jianxin Wang and
+               Tian He},
+  title     = {{Task-Aware} {TCP} in Data Center Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {389-404},
+}
+
+@article{DBLP:journals/ton/BouchouchaCD19,
+  author    = {Taha Bouchoucha and
+               Chen-Nee Chuah and
+               Zhi Ding},
+  title     = {Topology Inference of Unknown Networks Based on Robust Virtual Coordinate Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {405-418},
+}
+
+@article{DBLP:journals/ton/LynchFFKCO19,
+  author    = {David Lynch and
+               Michael Fenton and
+               David Fagan and
+               Stepán Kucera and
+               Holger Claussen and
+               Michael O'Neill},
+  title     = {Automated {Self-Optimization} in Heterogeneous Wireless Communications Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {419-432},
+}
+
+@article{DBLP:journals/ton/AgarwalMCD19,
+  author    = {Satyam Agarwal and
+               Francesco Malandrino and
+               Carla-Fabiana Chiasserini and
+               Swades De},
+  title     = {{VNF} Placement and Resource Allocation for the Support of Vertical Services in 5G Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {433-446},
+}
+
+@article{DBLP:journals/ton/LuYCLZKL19,
+  author    = {Li Lu and
+               Jiadi Yu and
+               Yingying Chen and
+               Hongbo Liu and
+               Yanmin Zhu and
+               Linghe Kong and
+               Minglu Li},
+  title     = {Lip {Reading-Based} User Authentication Through Acoustic Sensing on Smartphones},
+  journal   = ton,
+  volume    = {27},
+  number    = {1},
+  year      = 2019,
+  pages     = {447-460},
+}
+
+@article{DBLP:journals/ton/SuleRDL19,
+  author    = {Oladele Theophilus Sule and
+               Roberto Rojas-Cessa and
+               Ziqian Dong and
+               Chuan-Bi Lin},
+  title     = {A {Split-Central-Buffered} {Load-Balancing} {Clos-Network} Switch With {In-Order} Forwarding},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {467-476},
+}
+
+@article{DBLP:journals/ton/DehghanCNTZ19,
+  author    = {Mostafa Dehghan and
+               Weibo Chu and
+               Philippe Nain and
+               Don Towsley and
+               Zhi-Li Zhang},
+  title     = {Sharing Cache Resources Among Content Providers: A {Utility-Based} Approach},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {477-490},
+}
+
+@article{DBLP:journals/ton/WangLTJ19,
+  author    = {Chang-Heng Wang and
+               Jaime Llorca and
+               Antonia Maria Tulino and
+               Tara Javidi},
+  title     = {Dynamic Cloud Network Control Under Reconfiguration Delay and Cost},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {491-504},
+}
+
+@article{DBLP:journals/ton/RaoPPSKN19,
+  author    = {Vijay S. Rao and
+               R. Venkatesha Prasad and
+               Tamma V. Prabhakar and
+               Chayan Sarkar and
+               Madhusudan Koppal and
+               Ignas G. Niemegeers},
+  title     = {Understanding and Improving the Performance of Constructive Interference Using Destructive Interference in {WSNs}},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {505-517},
+}
+
+@article{DBLP:journals/ton/XiaLZLZG19,
+  author    = {Xianjin Xia and
+               ShiNing Li and
+               Yu Zhang and
+               Bingqi Li and
+               Yuanqing Zheng and
+               Tao Gu},
+  title     = {Enabling {Out-of-Band} Coordination of {Wi-Fi} Communications on Smartphones},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {518-531},
+}
+
+@article{DBLP:journals/ton/KopruluKS19,
+  author    = {Irem Koprulu and
+               Yoora Kim and
+               Ness B. Shroff},
+  title     = {Battle of Opinions Over Evolving Social Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {532-545},
+}
+
+@article{DBLP:journals/ton/SongLHDJ19,
+  author    = {Liang Song and
+               Chunyan Liu and
+               Hejiao Huang and
+               Hongwei Du and
+               Xiaohua Jia},
+  title     = {Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {546-559},
+}
+
+@article{DBLP:journals/ton/AtyaQKPMM19,
+  author    = {Ahmed Osama Fathy Atya and
+               Zhiyun Qian and
+               Srikanth V. Krishnamurthy and
+               Thomas F. La Porta and
+               Patrick D. McDaniel and
+               Lisa M. Marvel},
+  title     = {Catch Me if You Can: A Closer Look at Malicious {Co-Residency} on the Cloud},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {560-576},
+}
+
+@article{DBLP:journals/ton/BajpaiS19,
+  author    = {Vaibhav Bajpai and
+               Jürgen Schönwälder},
+  title     = {A Longitudinal View of {Dual-Stacked} Websites - Failures, Latency and Happy Eyeballs},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {577-590},
+}
+
+@article{DBLP:journals/ton/TillmanMGB19,
+  author    = {Balint Tillman and
+               Athina Markopoulou and
+               Minas Gjoka and
+               Carter T. Butts},
+  title     = {2K+ Graph Construction Framework: Targeting Joint Degree Matrix and Beyond},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {591-606},
+}
+
+@article{DBLP:journals/ton/RamakrishnanR19,
+  author    = {S. Ramakrishnan and
+               Venkatesh Ramaiyan},
+  title     = {Completely Uncoupled Algorithms for Network Utility Maximization},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {607-620},
+}
+
+@article{DBLP:journals/ton/LiWWYQ19,
+  author    = {Xin Li and
+               Minmei Wang and
+               Huazhe Wang and
+               Ye Yu and
+               Chen Qian},
+  title     = {Toward Secure and Efficient Communication for the Internet of Things},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {621-634},
+}
+
+@article{DBLP:journals/ton/NaumannDS19,
+  author    = {Roman Naumann and
+               Stefan Dietzel and
+               Björn Scheuermann},
+  title     = {Push the Barrier: Discrete Event Protocol Emulation},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {635-648},
+}
+
+@article{DBLP:journals/ton/LiSDT19,
+  author    = {Xiang Li and
+               J. David Smith and
+               Thang N. Dinh and
+               My T. Thai},
+  title     = {TipTop: (Almost) Exact Solutions for Influence Maximization in {Billion-Scale} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {649-661},
+}
+
+@article{DBLP:journals/ton/GarcesBVC19,
+  author    = {Pablo Caballero Garces and
+               Albert Banchs and
+               Gustavo de Veciana and
+               Xavier Pérez Costa},
+  title     = {Network Slicing Games: Enabling Customization in {Multi-Tenant} Mobile Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {662-675},
+}
+
+@article{DBLP:journals/ton/LeeMSR19,
+  author    = {Ming-Chun Lee and
+               Andreas F. Molisch and
+               Nishanth Sastry and
+               Aravindh Raman},
+  title     = {Individual Preference Probability Modeling and Parameterization for Video Content in Wireless Caching Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {676-690},
+}
+
+@article{DBLP:journals/ton/AfekBF19,
+  author    = {Yehuda Afek and
+               Anat Bremler-Barr and
+               Shir Landau Feibish},
+  title     = {{Zero-Day} Signature Extraction for {High-Volume} Attacks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {691-706},
+}
+
+@article{DBLP:journals/ton/BasileVLLP19,
+  author    = {Cataldo Basile and
+               Fulvio Valenza and
+               Antonio Lioy and
+               Diego R. Lopez and
+               Antonio Pastor Perales},
+  title     = {Adding Support for Automatic Enforcement of Security Policies in {NFV} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {707-720},
+}
+
+@article{DBLP:journals/ton/CuiDW19,
+  author    = {Hui Cui and
+               Robert H. Deng and
+               Guilin Wang},
+  title     = {An {Attribute-Based} Framework for Secure Communications in Vehicular Ad Hoc Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {721-733},
+}
+
+@article{DBLP:journals/ton/ChatterjeeHOFY19,
+  author    = {Bijoy Chand Chatterjee and
+               Fujun He and
+               Eiji Oki and
+               Andrea Fumagalli and
+               Naoaki Yamanaka},
+  title     = {A Span Power Management Scheme for Rapid Lightpath Provisioning and Releasing in {Multi-Core} Fiber Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {734-747},
+}
+
+@article{DBLP:journals/ton/XiaoZCCLCL19,
+  author    = {Qingjun Xiao and
+               Youlin Zhang and
+               Shigang Chen and
+               Min Chen and
+               Jia Liu and
+               Guang Cheng and
+               Junzhou Luo},
+  title     = {Estimating Cardinality of Arbitrary Expression of Multiple Tag Sets in a Distributed {RFID} System},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {748-762},
+}
+
+@article{DBLP:journals/ton/NayakGK19,
+  author    = {Peshal Nayak and
+               Michele Garetto and
+               Edward W. Knightly},
+  title     = {Modeling {Multi-User} {WLANs} Under {Closed-Loop} Traffic},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {763-776},
+}
+
+@article{DBLP:journals/ton/GhasemiYSZ19,
+  author    = {Chavoosh Ghasemi and
+               Hamed Yousefi and
+               Kang G. Shin and
+               Beichuan Zhang},
+  title     = {On the Granularity of {Trie-Based} Data Structures for Name Lookups and Updates},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {777-789},
+}
+
+@article{DBLP:journals/ton/TsengTCT19,
+  author    = {Shih-Hao Tseng and
+               Ao Tang and
+               Gagan L. Choudhury and
+               Simon Tse},
+  title     = {Routing Stability in Hybrid {Software-Defined} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {790-804},
+}
+
+@article{DBLP:journals/ton/GaoXWYB19,
+  author    = {Kai Gao and
+               Qiao Xiang and
+               Xin Wang and
+               Yang Richard Yang and
+               Jun Bi},
+  title     = {An {Objective-Driven} {On-Demand} Network Abstraction for Adaptive Applications},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {805-818},
+}
+
+@article{DBLP:journals/ton/LinYDA19,
+  author    = {Qiongzheng Lin and
+               Lei Yang and
+               Chunhui Duan and
+               Zhenlin An},
+  title     = {Tash: Toward Selective Reading as Hash Primitives for Gen2 {RFIDs}},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {819-834},
+}
+
+@article{DBLP:journals/ton/Al-AbbasiAR19,
+  author    = {Abubakr O. Al-Abbasi and
+               Vaneet Aggarwal and
+               Moo-Ryong Ra},
+  title     = {{Multi-Tier} Caching Analysis in {CDN-Based} {Over-the-Top} Video Streaming Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {835-847},
+}
+
+@article{DBLP:journals/ton/WangHCTZ19,
+  author    = {Qian Wang and
+               Jing Huang and
+               Yanjiao Chen and
+               Xin Tian and
+               Qian Zhang},
+  title     = {{Privacy-Preserving} and Truthful Double Auction for Heterogeneous Spectrum},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {848-861},
+}
+
+@article{DBLP:journals/ton/PhalakMN19,
+  author    = {Kunal Phalak and
+               D. Manjunath and
+               Jayakrishnan Nair},
+  title     = {Zero Rating: The Power in the Middle},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {862-874},
+}
+
+@article{DBLP:journals/ton/DoncelAA19,
+  author    = {Josu Doncel and
+               Samuli Aalto and
+               Urtzi Ayesta},
+  title     = {Performance Degradation in {Parallel-Server} Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {875-888},
+}
+
+@article{DBLP:journals/ton/HuZCGTPC19,
+  author    = {Shuihai Hu and
+               Yibo Zhu and
+               Peng Cheng and
+               Chuanxiong Guo and
+               Kun Tan and
+               Jitendra Padhye and
+               Kai Chen},
+  title     = {Tagger: Practical {PFC} Deadlock Prevention in Data Center Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {2},
+  year      = 2019,
+  pages     = {889-902},
+}
+
+@article{DBLP:journals/ton/Neely19,
+  author    = {Michael J. Neely},
+  title     = {Convergence and Adaptation for Utility Optimal Opportunistic Scheduling},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {904-917},
+}
+
+@article{DBLP:journals/ton/ChisciECAW19,
+  author    = {Giovanni Chisci and
+               Hesham ElSawy and
+               Andrea Conti and
+               Mohamed-Slim Alouini and
+               Moe Z. Win},
+  title     = {Uncoordinated Massive Wireless Networks: Spatiotemporal Models and Multiaccess Strategies},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {918-931},
+}
+
+@article{DBLP:journals/ton/ChiLSYZ19,
+  author    = {Zicheng Chi and
+               Yan Li and
+               Hongyu Sun and
+               Yao Yao and
+               Ting Zhu},
+  title     = {Concurrent {Cross-Technology} Communication Among Heterogeneous {IoT} Devices},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {932-947},
+}
+
+@article{DBLP:journals/ton/LiuXLBCN19,
+  author    = {Jia Liu and
+               Bin Xiao and
+               Xuan Liu and
+               Kai Bu and
+               Lijun Chen and
+               Changhai Nie},
+  title     = {Efficient {Polling-Based} Information Collection in {RFID} Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {948-961},
+}
+
+@article{DBLP:journals/ton/KianiAK19,
+  author    = {Abbas Kiani and
+               Nirwan Ansari and
+               Abdallah Khreishah},
+  title     = {Hierarchical Capacity Provisioning for Fog Computing},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {962-971},
+}
+
+@article{DBLP:journals/ton/GuWYS19,
+  author    = {Jiaxi Gu and
+               Jiliang Wang and
+               Zhiwen Yu and
+               Kele Shen},
+  title     = {{Traffic-Based} {Side-Channel} Attack in Video Streaming},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {972-985},
+}
+
+@article{DBLP:journals/ton/ZhangGHH19,
+  author    = {Meng Zhang and
+               Lin Gao and
+               Jianwei Huang and
+               Michael L. Honig},
+  title     = {Hybrid Pricing for Mobile Collaborative Internet Access},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {986-999},
+}
+
+@article{DBLP:journals/ton/BartolomeoDPSR19,
+  author    = {Marco Di Bartolomeo and
+               Valentino Di Donato and
+               Maurizio Pizzonia and
+               Claudio Squarcella and
+               Massimo Rimondini},
+  title     = {Extracting Routing Events From Traceroutes: A Matter of Empathy},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1000-1012},
+}
+
+@article{DBLP:journals/ton/DehghanMTMT19,
+  author    = {Mostafa Dehghan and
+               Laurent Massoulié and
+               Don Towsley and
+               Daniel Sadoc Menasché and
+               Y. C. Tay},
+  title     = {A Utility Optimization Approach to Network Cache Design},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1013-1027},
+}
+
+@article{DBLP:journals/ton/QiuLSW19,
+  author    = {Tie Qiu and
+               Jie Liu and
+               Weisheng Si and
+               Dapeng Oliver Wu},
+  title     = {Robustness Optimization Scheme With {Multi-Population} {Co-Evolution} for {Scale-Free} Wireless Sensor Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1028-1042},
+}
+
+@article{DBLP:journals/ton/CayciE19,
+  author    = {Semih Cayci and
+               Atilla Eryilmaz},
+  title     = {Optimal Learning for Dynamic Coding in {Deadline-Constrained} {Multi-Channel} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1043-1054},
+}
+
+@article{DBLP:journals/ton/KongCHCWH19,
+  author    = {Linghe Kong and
+               Yifeng Cao and
+               Liang He and
+               Guihai Chen and
+               Min-You Wu and
+               Tian He},
+  title     = {{Multi-Rate} Selection in {ZigBee}},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1055-1068},
+}
+
+@article{DBLP:journals/ton/JiangYLLKH19,
+  author    = {Wenchao Jiang and
+               Zhimeng Yin and
+               Ruofeng Liu and
+               Zhijun Li and
+               Song Min Kim and
+               Tian He},
+  title     = {Boosting the Bitrate of {Cross-Technology} Communication on Commodity {IoT} Devices},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1069-1083},
+}
+
+@article{DBLP:journals/ton/HondaS19,
+  author    = {Hirotada Honda and
+               Hiroshi Saito},
+  title     = {{Nation-Wide} Disaster Avoidance Control Against Heavy Rain},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1084-1097},
+}
+
+@article{DBLP:journals/ton/LinLX19,
+  author    = {Zongzong Lin and
+               Wenlian Lu and
+               Shouhuai Xu},
+  title     = {Unified Preventive and Reactive Cyber Defense Dynamics Is Still Globally Convergent},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1098-1111},
+}
+
+@article{DBLP:journals/ton/PaiC19,
+  author    = {Kung-Jui Pai and
+               Jou-Ming Chang},
+  title     = {Dual-CISTs: Configuring a Protection Routing on Some Cayley Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1112-1123},
+}
+
+@article{DBLP:journals/ton/LiWPCDZGSG19,
+  author    = {Zonghui Li and
+               Hai Wan and
+               Zaiyu Pang and
+               Qiubo Chen and
+               Yangdong Deng and
+               Xibin Zhao and
+               Yue Gao and
+               Xiaoyu Song and
+               Ming Gu},
+  title     = {An Enhanced Reconfiguration for Deterministic Transmission in {Time-Triggered} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1124-1137},
+}
+
+@article{DBLP:journals/ton/ElgabliFA19,
+  author    = {Anis Elgabli and
+               Muhamad Felemban and
+               Vaneet Aggarwal},
+  title     = {GroupCast: {Preference-Aware} Cooperative Video Streaming With Scalable Video Coding},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1138-1150},
+}
+
+@article{DBLP:journals/ton/NguyenLB19,
+  author    = {Duong Tung Nguyen and
+               Long Bao Le and
+               Vijay K. Bhargava},
+  title     = {A {Market-Based} Framework for {Multi-Resource} Allocation in Fog Computing},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1151-1164},
+}
+
+@article{DBLP:journals/ton/ChiariottiKZC19,
+  author    = {Federico Chiariotti and
+               Stepán Kucera and
+               Andrea Zanella and
+               Holger Claussen},
+  title     = {Analysis and Design of a Latency Control Protocol for {Multi-Path} Data Delivery With {Pre-Defined} {QoS} Guarantees},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1165-1178},
+}
+
+@article{DBLP:journals/ton/LiuCYQZLY19,
+  author    = {Xiulong Liu and
+               Jiannong Cao and
+               Yanni Yang and
+               Wenyu Qu and
+               Xibin Zhao and
+               Keqiu Li and
+               Didi Yao},
+  title     = {Fast {RFID} Sensory Data Collection: Trade-off Between Computation and Communication Costs},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1179-1191},
+}
+
+@article{DBLP:journals/ton/NguyenGRF19,
+  author    = {Thi-Minh Nguyen and
+               André Girard and
+               Catherine Rosenberg and
+               Serge Fdida},
+  title     = {Routing via Functions in Virtual Networks: The Curse of Choices},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1192-1205},
+}
+
+@article{DBLP:journals/ton/NamJKPYS19,
+  author    = {Jaehyun Nam and
+               Hyeonseong Jo and
+               Yeonkeun Kim and
+               Phillip A. Porras and
+               Vinod Yegneswaran and
+               Seungwon Shin},
+  title     = {{Operator-Defined} Reconfigurable Network {OS} for {Software-Defined} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1206-1219},
+}
+
+@article{DBLP:journals/ton/XueHZXWYW19,
+  author    = {Kaiping Xue and
+               Peixuan He and
+               Xiang Zhang and
+               Qiudong Xia and
+               David S. L. Wei and
+               Hao Yue and
+               Feng Wu},
+  title     = {A Secure, Efficient, and Accountable {Edge-Based} Access Control Framework for Information Centric Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1220-1233},
+}
+
+@article{DBLP:journals/ton/XieGQLRC19,
+  author    = {Junjie Xie and
+               Deke Guo and
+               Chen Qian and
+               Lei Li and
+               Bangbang Ren and
+               Honghui Chen},
+  title     = {Validation of Distributed {SDN} Control Plane Under Uncertain Failures},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1234-1247},
+}
+
+@article{DBLP:journals/ton/BedewySS19,
+  author    = {Ahmed M. Bedewy and
+               Yin Sun and
+               Ness B. Shroff},
+  title     = {The Age of Information in Multihop Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1248-1257},
+}
+
+@article{DBLP:journals/ton/DengZH19,
+  author    = {Han Deng and
+               Tao Zhao and
+               I-Hong Hou},
+  title     = {Online Routing and Scheduling With Capacity Redundancy for Timely Delivery Guarantees in Multihop Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1258-1271},
+}
+
+@article{DBLP:journals/ton/WangUZHCL19,
+  author    = {Shiqiang Wang and
+               Rahul Urgaonkar and
+               Murtaza Zafer and
+               Ting He and
+               Kevin Chan and
+               Kin K. Leung},
+  title     = {Dynamic Service Migration in Mobile Edge Computing Based on Markov Decision Process},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1272-1288},
+}
+
+@article{DBLP:journals/ton/SantagatiM19,
+  author    = {Giuseppe Enrico Santagati and
+               Tommaso Melodia},
+  title     = {Corrections to "A {Software-Defined} Ultrasonic Networking Framework for Wearable Devices"},
+  journal   = ton,
+  volume    = {27},
+  number    = {3},
+  year      = 2019,
+  pages     = {1289},
+}
+
+@article{DBLP:journals/ton/ChisciCMW19,
+  author    = {Giovanni Chisci and
+               Andrea Conti and
+               Lorenzo Mucchi and
+               Moe Z. Win},
+  title     = {Intrinsic Secrecy in Inhomogeneous Stochastic Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1291-1304},
+}
+
+@article{DBLP:journals/ton/NandigamJMNP19,
+  author    = {Anvitha Nandigam and
+               Suraj Jog and
+               D. Manjunath and
+               Jayakrishnan Nair and
+               Balakrishna J. Prabhu},
+  title     = {Sharing Within Limits: Partial Resource Pooling in Loss Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1305-1318},
+}
+
+@article{DBLP:journals/ton/WangCW19,
+  author    = {Tianheng Wang and
+               Andrea Conti and
+               Moe Z. Win},
+  title     = {Network Navigation With Scheduling: Distributed Algorithms},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1319-1329},
+}
+
+@article{DBLP:journals/ton/YangPA19,
+  author    = {Chien-Sheng Yang and
+               Ramtin Pedarsani and
+               Amir Salman Avestimehr},
+  title     = {{Communication-Aware} Scheduling of Serial Tasks for Dispersed Computing},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1330-1343},
+}
+
+@article{DBLP:journals/ton/TrimponiasXWXG19,
+  author    = {George Trimponias and
+               Yan Xiao and
+               Xiaorui Wu and
+               Hong Xu and
+               Yanhui Geng},
+  title     = {{Node-Constrained} Traffic Engineering: Theory and Applications},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1344-1358},
+}
+
+@article{DBLP:journals/ton/KadotaSM19,
+  author    = {Igor Kadota and
+               Abhishek Sinha and
+               Eytan Modiano},
+  title     = {Scheduling Algorithms for Optimizing Age of Information in Wireless Networks With Throughput Constraints},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1359-1372},
+}
+
+@article{DBLP:journals/ton/LiuWWAZW19,
+  author    = {Shengchao Liu and
+               Jianping Weng and
+               Jessie Hui Wang and
+               Changqing An and
+               Yipeng Zhou and
+               Jilong Wang},
+  title     = {An Adaptive Online Scheme for Scheduling and Resource Enforcement in Storm},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1373-1386},
+}
+
+@article{DBLP:journals/ton/KimuraLVL19,
+  author    = {Bruno Yuji Lino Kimura and
+               Demetrius C. S. F. Lima and
+               Leandro A. Villas and
+               Antonio A. F. Loureiro},
+  title     = {Interpath Contention in {MultiPath} {TCP} Disjoint Paths},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1387-1400},
+}
+
+@article{DBLP:journals/ton/ShrivastavLWW19,
+  author    = {Vishal Shrivastav and
+               Ki-Suh Lee and
+               Han Wang and
+               Hakim Weatherspoon},
+  title     = {Globally Synchronized Time via Datacenter Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1401-1416},
+}
+
+@article{DBLP:journals/ton/DalyBLPRTTY19,
+  author    = {James Daly and
+               Valerio Bruschi and
+               Leonardo Linguaglossa and
+               Salvatore Pontarelli and
+               Dario Rossi and
+               Jerome Tollet and
+               Eric Torng and
+               Andrew Yourtchenko},
+  title     = {TupleMerge: Fast Software Packet Processing for Online Packet Classification},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1417-1431},
+}
+
+@article{DBLP:journals/ton/BasatCEFK19,
+  author    = {Ran Ben Basat and
+               Xiaoqi Chen and
+               Gil Einziger and
+               Roy Friedman and
+               Yaron Kassner},
+  title     = {Randomized Admission Policy for Efficient Top-k, Frequency, and Volume Estimation},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1432-1445},
+}
+
+@article{DBLP:journals/ton/ShabaraKE19,
+  author    = {Yahia Shabara and
+               C. Emre Koksal and
+               Eylem Ekici},
+  title     = {Beam Discovery Using Linear Block Codes for Millimeter Wave Communication Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1446-1459},
+}
+
+@article{DBLP:journals/ton/ZhongHTLLZM19,
+  author    = {Zhizhen Zhong and
+               Nan Hua and
+               Massimo Tornatore and
+               Jialong Li and
+               Yanhe Li and
+               Xiaoping Zheng and
+               Biswanath Mukherjee},
+  title     = {Provisioning {Short-Term} Traffic Fluctuations in Elastic Optical Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1460-1473},
+}
+
+@article{DBLP:journals/ton/KlinkowskiW19,
+  author    = {Miroslaw Klinkowski and
+               Krzysztof Walkowiak},
+  title     = {An Efficient Optimization Framework for Solving {RSSA} Problems in Spectrally and Spatially Flexible Optical Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1474-1486},
+}
+
+@article{DBLP:journals/ton/ChuaiL19,
+  author    = {Jie Chuai and
+               Victor O. K. Li},
+  title     = {An Analytical Framework for Resource Allocation Between Data and Delayed Network State Information},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1487-1500},
+}
+
+@article{DBLP:journals/ton/YuN19,
+  author    = {Hao Yu and
+               Michael J. Neely},
+  title     = {{Learning-Aided} Optimization for {Energy-Harvesting} Devices With Outdated State Information},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1501-1514},
+}
+
+@article{DBLP:journals/ton/ZhangHGF19,
+  author    = {Xiaonan Zhang and
+               Pei Huang and
+               Linke Guo and
+               Yuguang Fang},
+  title     = {{Social-Aware} {Energy-Efficient} Data Offloading With Strong Stability},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1515-1528},
+}
+
+@article{DBLP:journals/ton/StimpflingBLS19,
+  author    = {Thibaut Stimpfling and
+               Normand Bélanger and
+               J. M. Pierre Langlois and
+               Yvon Savaria},
+  title     = {SHIP: A Scalable {High-Performance} IPv6 Lookup Algorithm That Exploits Prefix Characteristics},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1529-1542},
+}
+
+@article{DBLP:journals/ton/SciancaleporeCB19,
+  author    = {Vincenzo Sciancalepore and
+               Xavier Costa-Pérez and
+               Albert Banchs},
+  title     = {RL-NSB: Reinforcement {Learning-Based} 5G Network Slice Broker},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1543-1557},
+}
+
+@article{DBLP:journals/ton/XuXNWWA19,
+  author    = {Yuedong Xu and
+               Zhujun Xiao and
+               Tianyu Ni and
+               Jessie Hui Wang and
+               Xin Wang and
+               Eitan Altman},
+  title     = {On The Robustness of {Price-Anticipating} Kelly Mechanism},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1558-1571},
+}
+
+@article{DBLP:journals/ton/BakshiCSKE19,
+  author    = {Arjun Bakshi and
+               Lu Chen and
+               Kannan Srinivasan and
+               C. Emre Koksal and
+               Atilla Eryilmaz},
+  title     = {EMIT: An Efficient {MAC} Paradigm for the Internet of Things},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1572-1583},
+}
+
+@article{DBLP:journals/ton/ChangLW19,
+  author    = {Cheng-Shang Chang and
+               Duan-Shin Lee and
+               Chun Wang},
+  title     = {Asynchronous {Grant-Free} Uplink Transmissions in Multichannel Wireless Networks With Heterogeneous {QoS} Guarantees},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1584-1597},
+}
+
+@article{DBLP:journals/ton/FuLBHHSS19,
+  author    = {Yongquan Fu and
+               Dongsheng Li and
+               Pere Barlet-Ros and
+               Chun Huang and
+               Zhen Huang and
+               Siqi Shen and
+               Huayou Su},
+  title     = {A {Skewness-Aware} Matrix Factorization Approach for {Mesh-Structured} Cloud Services},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1598-1611},
+}
+
+@article{DBLP:journals/ton/CuiDLLLHRC19,
+  author    = {Yong Cui and
+               Ningwei Dai and
+               Zeqi Lai and
+               Minming Li and
+               Zhenhua Li and
+               Yuming Hu and
+               Kui Ren and
+               Yuchi Chen},
+  title     = {TailCutter: Wisely Cutting Tail Latency in Cloud {CDNs} Under Cost Constraints},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1612-1628},
+}
+
+@article{DBLP:journals/ton/BoubrimaBR19,
+  author    = {Ahmed Boubrima and
+               Walid Bechkit and
+               Hervé Rivano},
+  title     = {On the Deployment of Wireless Sensor Networks for Air Quality Mapping: Optimization Models and Algorithms},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1629-1642},
+}
+
+@article{DBLP:journals/ton/ZhangMLLKT19,
+  author    = {Ziyao Zhang and
+               Liang Ma and
+               Kin K. Leung and
+               Franck Le and
+               Sastry Kompella and
+               Leandros Tassiulas},
+  title     = {How Advantageous Is It? An Analytical Study of {Controller-Assisted} Path Construction in Distributed {SDN}},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1643-1656},
+}
+
+@article{DBLP:journals/ton/MukhopadhyayHL19,
+  author    = {Arpan Mukhopadhyay and
+               Nidhi Hegde and
+               Marc Lelarge},
+  title     = {Asymptotics of Replication and Matching in Large Caching Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1657-1668},
+}
+
+@article{DBLP:journals/ton/ShiSY19,
+  author    = {Junyang Shi and
+               Mo Sha and
+               Zhicheng Yang},
+  title     = {Distributed Graph Routing and Scheduling for Industrial Wireless {Sensor-Actuator} Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1669-1682},
+}
+
+@article{DBLP:journals/ton/LiakopoulosPS19,
+  author    = {Nikolaos Liakopoulos and
+               Georgios S. Paschos and
+               Thrasyvoulos Spyropoulos},
+  title     = {Robust Optimization Framework for Proactive User Association in UDNs: A {Data-Driven} Approach},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1683-1695},
+}
+
+@article{DBLP:journals/ton/LiaskosTNPIA19,
+  author    = {Christos Liaskos and
+               Ageliki Tsioliaridou and
+               Shuai Nie and
+               Andreas Pitsillides and
+               Sotiris Ioannidis and
+               Ian F. Akyildiz},
+  title     = {On the {Network-Layer} Modeling and Configuration of Programmable Wireless Environments},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1696-1713},
+}
+
+@article{DBLP:journals/ton/ZhouBZLLWY19,
+  author    = {Yu Zhou and
+               Jun Bi and
+               Cheng Zhang and
+               Bingyang Liu and
+               Zhaogeng Li and
+               Yangyang Wang and
+               Mingli Yu},
+  title     = {P4DB: {On-the-Fly} Debugging for Programmable Data Planes},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1714-1727},
+}
+
+@article{DBLP:journals/ton/SatpathiDSY19,
+  author    = {Siddhartha Satpathi and
+               Supratim Deb and
+               R. Srikant and
+               He Yan},
+  title     = {Learning Latent Events From Network Message Logs},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1728-1741},
+}
+
+@article{DBLP:journals/ton/HeSO19,
+  author    = {Fujun He and
+               Takehiro Sato and
+               Eiji Oki},
+  title     = {Optimization Model for Backup Resource Allocation in Middleboxes With Importance},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1742-1755},
+}
+
+@article{DBLP:journals/ton/MalandrinoCCLC19,
+  author    = {Francesco Malandrino and
+               Carla-Fabiana Chiasserini and
+               Claudio Casetti and
+               Giada Landi and
+               Marco Capitani},
+  title     = {An {Optimization-Enhanced} {MANO} for {Energy-Efficient} 5G Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {4},
+  year      = 2019,
+  pages     = {1756-1769},
+}
+
+@article{DBLP:journals/ton/TanJL0ZHL19,
+  author    = {Haisheng Tan and
+               Shaofeng H.-C. Jiang and
+               Yupeng Li and
+               Xiang-Yang Li and
+               Chenzi Zhang and
+               Zhenhua Han and
+               Francis Chi-Moon Lau},
+  title     = {Joint Online Coflow Routing and Scheduling in Data Center Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1771-1786},
+}
+
+@article{DBLP:journals/ton/GhaliTU19,
+  author    = {Cesar Ghali and
+               Gene Tsudik and
+               Ersin Uzun},
+  title     = {In Content We Trust: {Network-Layer} Trust in {Content-Centric} Networking},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1787-1800},
+}
+
+@article{DBLP:journals/ton/LiG0019,
+  author    = {Huikang Li and
+               Yi Gao and
+               Wei Dong and
+               Chun Chen},
+  title     = {Preferential Link Tomography in Dynamic Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1801-1814},
+}
+
+@article{DBLP:journals/ton/Zhou00HWJ19,
+  author    = {Pan Zhou and
+               Jie Xu and
+               Wei Wang and
+               Yuchong Hu and
+               Dapeng Oliver Wu and
+               Shouling Ji},
+  title     = {Toward Optimal Adaptive Online Shortest Path Routing With Acceleration Under Jamming Attack},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1815-1829},
+}
+
+@article{DBLP:journals/ton/KhabbazianS19,
+  author    = {Majid Khabbazian and
+               Keyvan Gharouni Saffar},
+  title     = {The Gain of Energy Accumulation in {Multi-Hop} Wireless Network Broadcast},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1830-1844},
+}
+
+@article{DBLP:journals/ton/0003ZLGUCL19,
+  author    = {Tong Yang and
+               Haowei Zhang and
+               Jinyang Li and
+               Junzhi Gong and
+               Steve Uhlig and
+               Shigang Chen and
+               Xiaoming Li},
+  title     = {HeavyKeeper: An Accurate Algorithm for Finding Top-k Elephant Flows},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1845-1858},
+}
+
+@article{DBLP:journals/ton/Zheng00CG19,
+  author    = {Jiaqi Zheng and
+               Hong Xu and
+               Xiaojun Zhu and
+               Guihai Chen and
+               Yanhui Geng},
+  title     = {Sentinel: Failure Recovery in Centralized Traffic Engineering},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1859-1872},
+}
+
+@article{DBLP:journals/ton/LiuXW0YCL19,
+  author    = {Xiulong Liu and
+               Xin Xie and
+               Shangguang Wang and
+               Jia Liu and
+               Didi Yao and
+               Jiannong Cao and
+               Keqiu Li},
+  title     = {Efficient Range Queries for {Large-Scale} {Sensor-Augmented} {RFID} Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1873-1886},
+}
+
+@article{DBLP:journals/ton/0002DF19,
+  author    = {Qing He and
+               György Dán and
+               Viktoria Fodor},
+  title     = {Joint Assignment and Scheduling for Minimizing Age of Correlated Information},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1887-1900},
+}
+
+@article{DBLP:journals/ton/PopescuJMDPP19,
+  author    = {Dalia Popescu and
+               Philippe Jacquet and
+               Bernard Mans and
+               Robert Dumitru and
+               Andra Pastrav and
+               Emanuel Puschita},
+  title     = {Information Dissemination Speed in Delay Tolerant Urban Vehicular Networks in a Hyperfractal Setting},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1901-1914},
+}
+
+@article{DBLP:journals/ton/MendisBL19,
+  author    = {H. V. Kalpanie Mendis and
+               Indika A. M. Balapuwaduge and
+               Frank Y. Li},
+  title     = {{Dependability-Based} Reliability Analysis in {URC} Networks: Availability in the Space Domain},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1915-1930},
+}
+
+@article{DBLP:journals/ton/YuX019,
+  author    = {Ruozhou Yu and
+               Guoliang Xue and
+               Xiang Zhang},
+  title     = {Provisioning {QoS-Aware} and Robust Applications in Internet of Things: A Network Perspective},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1931-1944},
+}
+
+@article{DBLP:journals/ton/0001L0WXCWL19,
+  author    = {Xiangyang Li and
+               Huiqi Liu and
+               Lan Zhang and
+               Zhenan Wu and
+               Yaochen Xie and
+               Ge Chen and
+               Chunxiao Wan and
+               Zhongwei Liang},
+  title     = {Finding the Stars in the Fireworks: Deep Understanding of Motion Sensor Fingerprint},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1945-1958},
+}
+
+@article{DBLP:journals/ton/GongS19,
+  author    = {Xiaowen Gong and
+               Ness B. Shroff},
+  title     = {Truthful Mobile Crowdsensing for Strategic Users With Private Data Quality},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1959-1972},
+}
+
+@article{DBLP:journals/ton/Yang00LLXL19,
+  author    = {Zhenjie Yang and
+               Yong Cui and
+               Xin Wang and
+               Yadong Liu and
+               Minming Li and
+               Shihan Xiao and
+               Chuming Li},
+  title     = {{Cost-Efficient} Scheduling of Bulk Transfers in {Inter-Datacenter} {WANs}},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1973-1986},
+}
+
+@article{DBLP:journals/ton/0002LA19,
+  author    = {Pablo Garrido and
+               Douglas J. Leith and
+               Ramón Agüero},
+  title     = {Joint Scheduling and Coding for Low {In-Order} Delivery Delay Over Lossy Paths With Delayed Feedback},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {1987-2000},
+}
+
+@article{DBLP:journals/ton/RoyDZBS19,
+  author    = {Arjun Roy and
+               Rajdeep Das and
+               Hongyi Zeng and
+               Jasmeet Bagga and
+               Alex C. Snoeren},
+  title     = {Understanding the Limits of Passive Realtime Datacenter Fault Detection and Localization},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2001-2014},
+}
+
+@article{DBLP:journals/ton/Jia0Z019,
+  author    = {Xuya Jia and
+               Dan Li and
+               Jing Zhu and
+               Yong Jiang},
+  title     = {Metro: An Efficient Traffic Fast Rerouting Scheme With Low Overhead},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2015-2027},
+}
+
+@article{DBLP:journals/ton/PappasLRSP19,
+  author    = {Christos Pappas and
+               Taeho Lee and
+               Raphael M. Reischuk and
+               Pawel Szalachowski and
+               Adrian Perrig},
+  title     = {Network Transparency for Better Internet Security},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2028-2042},
+}
+
+@article{DBLP:journals/ton/YangX0LGCF19,
+  author    = {Kang Yang and
+               Tianzhang Xing and
+               Yang Liu and
+               Zhenjiang Li and
+               Xiaoqing Gong and
+               Xiaojiang Chen and
+               Dingyi Fang},
+  title     = {cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2043-2055},
+}
+
+@article{DBLP:journals/ton/MotamediY0RMW19,
+  author    = {Reza Motamedi and
+               Bahador Yeganeh and
+               Balakrishnan Chandrasekaran and
+               Reza Rejaie and
+               Bruce M. Maggs and
+               Walter Willinger},
+  title     = {On Mapping the Interconnections in Today's Internet},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2056-2070},
+}
+
+@article{DBLP:journals/ton/Rost019,
+  author    = {Matthias Rost and
+               Stefan Schmid},
+  title     = {Virtual Network Embedding Approximations: Leveraging Randomized Rounding},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2071-2084},
+}
+
+@article{DBLP:journals/ton/HayhoeAG19,
+  author    = {Mikhail Hayhoe and
+               Fady Alajaji and
+               Bahman Gharesifard},
+  title     = {Curing Epidemics on Networks Using a Polya Contagion Model},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2085-2097},
+}
+
+@article{DBLP:journals/ton/CohenN19,
+  author    = {Reuven Cohen and
+               Yuval Nezri},
+  title     = {Cardinality Estimation in a Virtualized Network Device Using Online Machine Learning},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2098-2110},
+}
+
+@article{DBLP:journals/ton/DarzanosKS19,
+  author    = {George Darzanos and
+               Iordanis Koutsopoulos and
+               George D. Stamoulis},
+  title     = {Cloud Federations: Economics, Games and Benefits},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2111-2124},
+}
+
+@article{DBLP:journals/ton/BaldesiMB19,
+  author    = {Luca Baldesi and
+               Athina Markopoulou and
+               Carter T. Butts},
+  title     = {Spectral Graph Forge: A Framework for Generating Synthetic Graphs With a Target Modularity},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2125-2136},
+}
+
+@article{DBLP:journals/ton/Houdt19,
+  author    = {Benny Van Houdt},
+  title     = {Randomized Work Stealing Versus Sharing in {Large-Scale} Systems With {Non-Exponential} Job Sizes},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2137-2149},
+}
+
+@article{DBLP:journals/ton/LinHW19,
+  author    = {Kate Ching-Ju Lin and
+               Kai-Cheng Hsu and
+               Hung-Yu Wei},
+  title     = {{Inter-Client} Interference Cancellation for {Full-Duplex} Networks With {Half-Duplex} Clients},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2150-2163},
+}
+
+@article{DBLP:journals/ton/Shen0ZP19,
+  author    = {Kaiming Shen and
+               Wei Yu and
+               Licheng Zhao and
+               Daniel P. Palomar},
+  title     = {Optimization of {MIMO} {Device-to-Device} Networks via Matrix Fractional Programming: A {Minorization-Maximization} Approach},
+  journal   = ton,
+  volume    = {27},
+  number    = {5},
+  year      = 2019,
+  pages     = {2164-2177},
+}
+
+@article{DBLP:journals/ton/LiuN19,
+  author    = {Alex X. Liu and
+               Eric Norige},
+  title     = {A {De-Compositional} Approach to Regular Expression Matching for Network Security},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2179-2191},
+}
+
+@article{DBLP:journals/ton/AvnerM19,
+  author    = {Orly Avner and
+               Shie Mannor},
+  title     = {{Multi-User} Communication Networks: A Coordinated {Multi-Armed} Bandit Approach},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2192-2207},
+}
+
+@article{DBLP:journals/ton/JinHSNW19,
+  author    = {Haiming Jin and
+               Baoxiang He and
+               Lu Su and
+               Klara Nahrstedt and
+               Xinbing Wang},
+  title     = {{Data-Driven} Pricing for Sensing Effort Elicitation in Mobile Crowd Sensing Systems},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2208-2221},
+}
+
+@article{DBLP:journals/ton/XieWWCXOWCZ19,
+  author    = {Kun Xie and
+               Xiangge Wang and
+               Xin Wang and
+               Yuxiang Chen and
+               Gaogang Xie and
+               Yudian Ouyang and
+               Jigang Wen and
+               Jiannong Cao and
+               Dafang Zhang},
+  title     = {Accurate Recovery of Missing Network Measurement Data With Localized Tensor Completion},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2222-2235},
+}
+
+@article{DBLP:journals/ton/YangJLHGZMLU19,
+  author    = {Tong Yang and
+               Jie Jiang and
+               Peng Liu and
+               Qun Huang and
+               Junzhi Gong and
+               Yang Zhou and
+               Rui Miao and
+               Xiaoming Li and
+               Steve Uhlig},
+  title     = {Adaptive Measurements Using One Elastic Sketch},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2236-2251},
+}
+
+@article{DBLP:journals/ton/ReviriegoR19,
+  author    = {Pedro Reviriego and
+               Ori Rottenstreich},
+  title     = {The Tandem Counting Bloom Filter - It Takes Two Counters to Tango},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2252-2265},
+}
+
+@article{DBLP:journals/ton/AktasS19,
+  author    = {Mehmet Fatih Aktas and
+               Emina Soljanin},
+  title     = {Straggler Mitigation at Scale},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2266-2279},
+}
+
+@article{DBLP:journals/ton/YunWRK19,
+  author    = {Daqing Yun and
+               Chase Q. Wu and
+               Nageswara S. V. Rao and
+               Rajkumar Kettimuthu},
+  title     = {Advising Big Data Transfer Over Dedicated Connections Based on Profiling Optimization},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2280-2293},
+}
+
+@article{DBLP:journals/ton/WuWXTY19,
+  author    = {Haiqin Wu and
+               Liangmin Wang and
+               Guoliang Xue and
+               Jian Tang and
+               Dejun Yang},
+  title     = {Enabling Data Trustworthiness and User Privacy in Mobile Crowdsensing},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2294-2307},
+}
+
+@article{DBLP:journals/ton/ChenLLTXCZM19,
+  author    = {Guo Chen and
+               Yuanwei Lu and
+               Bojie Li and
+               Kun Tan and
+               Yongqiang Xiong and
+               Peng Cheng and
+               Jiansong Zhang and
+               Thomas Moscibroda},
+  title     = {MP-RDMA: Enabling {RDMA} With {Multi-Path} Transport in Datacenters},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2308-2323},
+}
+
+@article{DBLP:journals/ton/ChenLQWR19,
+  author    = {Chen Chen and
+               Lei Liu and
+               Tie Qiu and
+               Dapeng Oliver Wu and
+               Zhiyuan Ren},
+  title     = {{Delay-Aware} {Grid-Based} Geographic Routing in Urban VANETs: A Backbone Approach},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2324-2337},
+}
+
+@article{DBLP:journals/ton/HuHLZWH19,
+  author    = {Jinbin Hu and
+               Jiawei Huang and
+               Wenjun Lv and
+               Yutao Zhou and
+               Jianxin Wang and
+               Tian He},
+  title     = {CAPS: {Coding-Based} Adaptive Packet Spraying to Reduce Flow Completion Time in Data Center},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2338-2353},
+}
+
+@article{DBLP:journals/ton/ChenZLKS19,
+  author    = {Qian Chen and
+               Xiaojuan Zhang and
+               Wei Lih Lim and
+               Yuen Sam Kwok and
+               Sumei Sun},
+  title     = {High Reliability, Low Latency and Cost Effective Network Planning for Industrial Wireless Mesh Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2354-2362},
+}
+
+@article{DBLP:journals/ton/MalandrinoCES19,
+  author    = {Francesco Malandrino and
+               Carla-Fabiana Chiasserini and
+               Gil Einziger and
+               Gabriel Scalosub},
+  title     = {Reducing Service Deployment Cost Through {VNF} Sharing},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2363-2376},
+}
+
+@article{DBLP:journals/ton/CociglioFMSS19,
+  author    = {Mauro Cociglio and
+               Giuseppe Fioccola and
+               Guido Marchetto and
+               Amedeo Sapio and
+               Riccardo Sisto},
+  title     = {Multipoint Passive Monitoring in Packet Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2377-2390},
+}
+
+@article{DBLP:journals/ton/ZhaoJLZXXZ19,
+  author    = {Ping Zhao and
+               Hongbo Jiang and
+               Jie Li and
+               Fanzi Zeng and
+               Zhu Xiao and
+               Kun Xie and
+               Guanglin Zhang},
+  title     = {Synthesizing Privacy Preserving Traces: Enhancing Plausibility With Social Networks},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2391-2404},
+}
+
+@article{DBLP:journals/ton/JayasumanaPMRG19,
+  author    = {Anura P. Jayasumana and
+               Randy C. Paffenroth and
+               Gunjan Mahindre and
+               Sridhar Ramasamy and
+               Kelum Gajamannage},
+  title     = {Network Topology Mapping From Partial Virtual Coordinates and Graph Geodesics},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2405-2417},
+}
+
+@article{DBLP:journals/ton/LiuLAS19,
+  author    = {Yang Liu and
+               Bo Li and
+               Brian D. O. Anderson and
+               Guodong Shi},
+  title     = {Clique Gossiping},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2418-2431},
+}
+
+@article{DBLP:journals/ton/NazemiLS19,
+  author    = {Sepideh Nazemi and
+               Kin K. Leung and
+               Ananthram Swami},
+  title     = {Distributed Optimization Framework for {In-Network} Data Processing},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2432-2443},
+}
+
+@article{DBLP:journals/ton/SunWH19,
+  author    = {Elaine Y.-N. Sun and
+               Hsiao-Chun Wu and
+               Scott C.-H. Huang},
+  title     = {Theoretical Analysis of Various {Software-Defined} Multiplexing Codes},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2444-2457},
+}
+
+@article{DBLP:journals/ton/ZhangGLYSWWL19,
+  author    = {Han Zhang and
+               Haijun Geng and
+               Yahui Li and
+               Xia Yin and
+               Xingang Shi and
+               Zhiliang Wang and
+               Qianhong Wu and
+               Jianwei Liu},
+  title     = {DA&{FD-Deadline-Aware} and Flow {Duration-Based} Rate Control for Mixed Flows in {DCNs}},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2458-2471},
+}
+
+@article{DBLP:journals/ton/HanTLJLL19,
+  author    = {Zhenhua Han and
+               Haisheng Tan and
+               Xiang-Yang Li and
+               Shaofeng H.-C. Jiang and
+               Yupeng Li and
+               Francis C. M. Lau},
+  title     = {OnDisc: Online {Latency-Sensitive} Job Dispatching and Scheduling in Heterogeneous {Edge-Clouds}},
+  journal   = ton,
+  volume    = {27},
+  number    = {6},
+  year      = 2019,
+  pages     = {2472-2485},
+}
+
 @article{DBLP:journals/ton/WangLSMWLX18,
   author    = {Haiyang Wang and
                Tong Li and
@@ -191,7 +2998,7 @@
 }
 
 @article{DBLP:journals/ton/RahmanUHRK18,
-  author    = {M. Saifur Rahman and
+  author    = {Mohammad Saifur Rahman and
                Mohammad Yusuf Sarwar Uddin and
                Tahmid Hasan and
                M. Sohel Rahman and
@@ -1569,7 +4376,7 @@
   author    = {Jiang-Bo Qian and
                Zhipeng Huang and
                Qiang Zhu and
-               HuaHui Chen},
+               Huahui Chen},
   title     = {Hamming Metric {Multi-Granularity} {Locality-Sensitive} Bloom Filter},
   journal   = ton,
   volume    = {26},
@@ -4841,7 +7648,7 @@
 
 @article{DBLP:journals/ton/JiangLSTW17,
   author    = {Guiyuan Jiang and
-               Siew Kei Lam and
+               Siew-Kei Lam and
                Yidan Sun and
                Lijia Tu and
                Jigang Wu},
@@ -8262,7 +11069,7 @@
 }
 
 @article{DBLP:journals/ton/ApplegateAGLR16,
-  author    = {David Applegate and
+  author    = {David L. Applegate and
                Aaron Archer and
                Vijay Gopalakrishnan and
                Seungjoon Lee and
@@ -19830,11 +22637,11 @@
 }
 
 @article{DBLP:journals/ton/MaoWQLS10,
-  author    = {Y. Mao and
-               F. Wang and
-               L. Qiu and
-               S. Lam and
-               J. Smith},
+  author    = {Yun Mao and
+               Feng Wang and
+               Lili Qiu and
+               Simon Lam and
+               Jonathan Smith},
   title     = {S4: Small State and Small Stretch Compact Routing Protocol for Large Static Wireless Networks},
   journal   = ton,
   volume    = {18},
@@ -19904,7 +22711,7 @@
 @article{DBLP:journals/ton/TangWLC10,
   author    = {Ao Tang and
                X. Wei and
-               Stephen H. Low and
+               Steven H. Low and
                Mung Chiang},
   title     = {Equilibrium of Heterogeneous Congestion Control: Optimality and Stability},
   journal   = ton,
@@ -20003,8 +22810,8 @@
 }
 
 @article{DBLP:journals/ton/LuS10,
-  author    = {W. Lu and
-               S. Sahni},
+  author    = {Wencheng Lu and
+               Sartaj Sahni},
   title     = {{Low-Power} {TCAMs} for Very Large Forwarding Tables},
   journal   = ton,
   volume    = {18},
@@ -20048,9 +22855,9 @@
 }
 
 @article{DBLP:journals/ton/FanHH10,
-  author    = {C.-I. Fan and
-               P.-H. Ho and
-               R.-H. Hsu},
+  author    = {Chun-I Fan and
+               Pei-Hsiu Ho and
+               Ruei-Hau Hsu},
   title     = {Provably Secure Nested {One-Time} Secret Mechanisms for Fast Mutual Authentication and Key Exchange in Mobile Communications},
   journal   = ton,
   volume    = {18},
@@ -20796,9 +23603,9 @@
 }
 
 @article{DBLP:journals/ton/YangLL10,
-  author    = {Z. Yang and
-               Y. Liu and
-               X.-Y. Li},
+  author    = {Zheng Yang and
+               Yunhao Liu and
+               Xiang-Yang Li},
   title     = {Beyond Trilateration: On the Localizability of Wireless Ad Hoc Networks},
   journal   = ton,
   volume    = {18},
@@ -20822,10 +23629,10 @@
 }
 
 @article{DBLP:journals/ton/LiaoGGZ10,
-  author    = {Y. Liao and
-               L. Gao and
-               R. Guerin and
-               Z.-L. Zhang},
+  author    = {Yong Liao and
+               Lixin Gao and
+               Roch Guérin and
+               Zhi-Li Zhang},
   title     = {Safe Interdomain Routing Under Diverse Commercial Agreements},
   journal   = ton,
   volume    = {18},
@@ -20858,8 +23665,8 @@
 }
 
 @article{DBLP:journals/ton/SalehK10,
-  author    = {M. A. Saleh and
-               A. E. Kamal},
+  author    = {Mohammad A. Saleh and
+               Ahmed E. Kamal},
   title     = {Design and Provisioning of {WDM} Networks With {Many-to-Many} Traffic Grooming},
   journal   = ton,
   volume    = {18},
@@ -23968,7 +26775,7 @@
 
 @article{DBLP:journals/ton/SolanoSFM08,
   author    = {Fernando Solano and
-               Thomas Stidsen and
+               Thomas R. Stidsen and
                Ramón Fabregat and
                José-Luis Marzo},
   title     = {Label space reduction in {MPLS} networks: how much can a single stacked label do?},
@@ -26732,7 +29539,7 @@
                Milan Vojnovic},
   title     = {The random trip model: stability, stationary regime, and perfect simulation},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1153-1166},
@@ -26742,7 +29549,7 @@
   author    = {Jerzy Konorski},
   title     = {A game-theoretic study of CSMA/{CA} under a backoff attack},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1167-1178},
@@ -26754,18 +29561,18 @@
                Sai Shankar N.},
   title     = {Contention-based airtime usage control in multirate {IEEE} 802.11 wireless {LANs}},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1179-1192},
 }
 
 @article{DBLP:journals/ton/ApplegateC06,
-  author    = {David Applegate and
+  author    = {David L. Applegate and
                Edith Cohen},
   title     = {Making routing robust to changing traffic demands: algorithms and evaluation},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1193-1206},
@@ -26778,7 +29585,7 @@
                Scott Shenker},
   title     = {Observed structure of addresses in {IP} traffic},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1207-1218},
@@ -26791,7 +29598,7 @@
                Serge Fdida},
   title     = {Constraint-based geolocation of internet hosts},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1219-1232},
@@ -26802,7 +29609,7 @@
                R. Srikant},
   title     = {Economics of network pricing with multiple {ISPs}},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1233-1245},
@@ -26815,7 +29622,7 @@
                Sanjay Hegde},
   title     = {{FAST} TCP: motivation, architecture, algorithms, performance},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1246-1259},
@@ -26829,7 +29636,7 @@
                Donald F. Towsley},
   title     = {Multi-path TCP: a joint congestion control and routing scheme to exploit path diversity in the internet},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1260-1271},
@@ -26842,7 +29649,7 @@
                Bernard Liau},
   title     = {Computing optimal max-min fair resource allocation for elastic flows},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1272-1281},
@@ -26854,7 +29661,7 @@
                Steven H. Low},
   title     = {Application-oriented flow control: fundamentals, algorithms and fairness},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1282-1291},
@@ -26865,7 +29672,7 @@
                Pi Huang},
   title     = {{OBEX} over IrDA: performance analysis and optimization by considering multiple applications},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1292-1301},
@@ -26876,7 +29683,7 @@
                Philip A. Chou},
   title     = {{RaDiO} edge: rate-distortion optimized proxy-driven streaming from the network edge},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1302-1312},
@@ -26890,7 +29697,7 @@
                John Ting-Yung Wen},
   title     = {A two-time-scale design for edge-based detection and rectification of uncooperative flows},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1313-1322},
@@ -26902,7 +29709,7 @@
                Chee Kheong Siew},
   title     = {The impact of loss recovery on congestion control for reliable multicast},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1323-1335},
@@ -26915,7 +29722,7 @@
                Yuval Shavitt},
   title     = {Efficient {QoS} partition and routing of unicast and multicast},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1336-1347},
@@ -26926,7 +29733,7 @@
                Ness B. Shroff},
   title     = {An optimization-based approach for {QoS} routing in high-bandwidth networks},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1348-1361},
@@ -26937,7 +29744,7 @@
                Joseph Pasquale},
   title     = {The Stratified Round Robin scheduler: design, analysis and implementation},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1362-1373},
@@ -26950,7 +29757,7 @@
                Vahid Tarokh},
   title     = {Approximating fluid schedules in crossbar packet-switches and Banyan networks},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1374-1387},
@@ -26960,7 +29767,7 @@
   author    = {Maher Ali},
   title     = {Generalized sharing in survivable optical networks},
   journal   = ton,
-  volume    = {16},
+  volume    = {14},
   number    = {6},
   year      = 2006,
   pages     = {1388-1399},
@@ -31542,7 +34349,7 @@
 }
 
 @article{DBLP:journals/ton/MohanMS01,
-  author    = {G. Mohan and
+  author    = {Gurusamy Mohan and
                C. Siva Ram Murthy and
                Arun K. Somani},
   title     = {Efficient algorithms for routing dependable connections in {WDM} optical networks},
@@ -37703,7 +40510,7 @@
 }
 
 @article{DBLP:journals/ton/ZhongKO93,
-  author    = {Wen De Zhong and
+  author    = {Wen-De Zhong and
                Jaidev Kaniyil and
                Yoshikuni Onozato},
   title     = {A copy network with shared buffers for large-scale multicast {ATM} switching},

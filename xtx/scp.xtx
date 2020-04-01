@@ -1,5 +1,629 @@
 @include journals-cs
 
+@article{DBLP:journals/scp/AvanziniLY20,
+  author    = {Martin Avanzini and
+               Ugo Dal Lago and
+               Akihisa Yamada},
+  title     = {On probabilistic term rewriting},
+  journal   = scp,
+  volume    = {185},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/AzadbakhtBBV20,
+  author    = {Keyvan Azadbakht and
+               Frank S. de Boer and
+               Nikolaos Bezirgiannis and
+               Erik P. de Vink},
+  title     = {A formal actor-based model for streaming the future},
+  journal   = scp,
+  volume    = {186},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/BenesBPS20,
+  author    = {Nikola Benes and
+               Lubos Brim and
+               Samuel Pastva and
+               David Safránek},
+  title     = {Parallel parameter synthesis algorithm for hybrid {CTL}},
+  journal   = scp,
+  volume    = {185},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/BeoharKKS20,
+  author    = {Harsh Beohar and
+               Barbara König and
+               Sebastian Küpper and
+               Alexandra Silva},
+  title     = {Conditional transition systems with upgrades},
+  journal   = scp,
+  volume    = {186},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/BowlesC20,
+  author    = {Juliana Küster Filipe Bowles and
+               Marco B. Caminati},
+  title     = {Correct composition in the presence of behavioural conflicts and dephasing},
+  journal   = scp,
+  volume    = {185},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/LimaSLRP20,
+  author    = {Caio Lima and
+               Junio Cezar R. da Silva and
+               Guilherme V. Leobas and
+               Erven Rohou and
+               Fernando Magno Quintão Pereira},
+  title     = {Guided just-in-time specialization},
+  journal   = scp,
+  volume    = {185},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/MoserS20,
+  author    = {Georg Moser and
+               Manuel Schneckenreither},
+  title     = {Automated amortised resource analysis for term rewrite systems},
+  journal   = scp,
+  volume    = {185},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/RusuGH20,
+  author    = {Vlad Rusu and
+               Gilles Grimaud and
+               Michaël Hauspie},
+  title     = {Proving partial-correctness and invariance properties of transition-system models},
+  journal   = scp,
+  volume    = {186},
+  year      = 2020,
+}
+
+@article{DBLP:journals/scp/HamanaAK20,
+  author    = {Makoto Hamana and
+               Tatsuya Abe and
+               Kentaro Kikuchi},
+  title     = {Polymorphic computation systems: Theory and practice of confluence with call-by-value},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102322},
+}
+
+@article{DBLP:journals/scp/XiangZWXBXZ20,
+  author    = {Shuangqing Xiang and
+               Huibiao Zhu and
+               Xi Wu and
+               Lili Xiao and
+               Marcello M. Bonsangue and
+               Wanling Xie and
+               Lei Zhang},
+  title     = {Modeling and verifying the topology discovery mechanism of {OpenFlow} controllers in software-defined networks using process algebra},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102343},
+}
+
+@article{DBLP:journals/scp/BasileBDLFGG20,
+  author    = {Davide Basile and
+               Maurice H. ter Beek and
+               Pierpaolo Degano and
+               Axel Legay and
+               Gian Luigi Ferrari and
+               Stefania Gnesi and
+               Felicita Di Giandomenico},
+  title     = {Controller synthesis of service contracts with variability},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102344},
+}
+
+@article{DBLP:journals/scp/NicolaSI20,
+  author    = {Rocco De Nicola and
+               Luca Di Stefano and
+               Omar Inverso},
+  title     = {Multi-agent systems with virtual stigmergy},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102345},
+}
+
+@article{DBLP:journals/scp/KukovecTK20,
+  author    = {Jure Kukovec and
+               Thanh-Hai Tran and
+               Igor Konnov},
+  title     = {Extracting symbolic transitions from TLA+ specifications},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102361},
+}
+
+@article{DBLP:journals/scp/WangFQF20,
+  author    = {Jiawei Wang and
+               Ming Fu and
+               Lei Qiao and
+               Xinyu Feng},
+  title     = {Formalizing SPARCv8 instruction set architecture in Coq},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102371},
+}
+
+@article{DBLP:journals/scp/Sakaguchi20,
+  author    = {Kazuhiko Sakaguchi},
+  title     = {Program extraction for mutable arrays},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102372},
+}
+
+@article{DBLP:journals/scp/MedeirosJM20,
+  author    = {Sérgio Queiroz de Medeiros and
+               Gilney de Azevedo Alvez Junior and
+               Fabio Mascarenhas},
+  title     = {Automatic syntax error reporting and recovery in parsing expression grammars},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102373},
+}
+
+@article{DBLP:journals/scp/ZhangZP20,
+  author    = {Yueling Zhang and
+               Min Zhang and
+               Geguang Pu},
+  title     = {Optimizing backbone filtering},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102374},
+}
+
+@article{DBLP:journals/scp/ZhangP20,
+  author    = {Chenyi Zhang and
+               Jun Pang},
+  title     = {Preface for the special issue of the 12th International Symposium on Theoretical Aspects of Software Engineering ({TASE} 2018)},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102375},
+}
+
+@article{DBLP:journals/scp/SaidC20,
+  author    = {Najah Ben Said and
+               Ioana Cristescu},
+  title     = {End-to-end information flow security for web services orchestration},
+  journal   = scp,
+  volume    = {187},
+  year      = 2020,
+  pages     = {102376},
+}
+
+@article{DBLP:journals/scp/ArrudaBS20,
+  author    = {Filipe Arruda and
+               Flávia A. Barros and
+               Augusto Sampaio},
+  title     = {Automation and consistency analysis of test cases written in natural language: An industrial context},
+  journal   = scp,
+  volume    = {189},
+  year      = 2020,
+  pages     = {102377},
+}
+
+@article{DBLP:journals/scp/KringsLSSF20,
+  author    = {Sebastian Krings and
+               Michael Leuschel and
+               Joshua Schmidt and
+               David Schneider and
+               Marc Frappier},
+  title     = {Translating Alloy and extensions to classical B},
+  journal   = scp,
+  volume    = {188},
+  year      = 2020,
+  pages     = {102378},
+}
+
+@article{DBLP:journals/scp/DantasJB20,
+  author    = {Allberson Bruno de Oliveira Dantas and
+               Francisco Heron de Carvalho Junior and
+               Luís Soares Barbosa},
+  title     = {A component-based framework for certification of components in a cloud of {HPC} services},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102379},
+}
+
+@article{DBLP:journals/scp/CastiglioniCP20,
+  author    = {Valentina Castiglioni and
+               Konstantinos Chatzikokolakis and
+               Catuscia Palamidessi},
+  title     = {A logical characterization of differential privacy},
+  journal   = scp,
+  volume    = {188},
+  year      = 2020,
+  pages     = {102388},
+}
+
+@article{DBLP:journals/scp/NeeleWG20,
+  author    = {Thomas Neele and
+               Tim A. C. Willemse and
+               Jan Friso Groote},
+  title     = {Finding compact proofs for infinite-data parameterised Boolean equation systems},
+  journal   = scp,
+  volume    = {188},
+  year      = 2020,
+  pages     = {102389},
+}
+
+@article{DBLP:journals/scp/ZhuBC20,
+  author    = {Chenyang Zhu and
+               Michael J. Butler and
+               Corina Cîrstea},
+  title     = {Formalizing hierarchical scheduling for refinement of real-time systems},
+  journal   = scp,
+  volume    = {189},
+  year      = 2020,
+  pages     = {102390},
+}
+
+@article{DBLP:journals/scp/JaiswalKC20,
+  author    = {Swati Jaiswal and
+               Uday P. Khedker and
+               Supratik Chakraborty},
+  title     = {Bidirectionality in flow-sensitive demand-driven analysis},
+  journal   = scp,
+  volume    = {190},
+  year      = 2020,
+  pages     = {102391},
+}
+
+@article{DBLP:journals/scp/FerraraCS20,
+  author    = {Pietro Ferrara and
+               Agostino Cortesi and
+               Fausto Spoto},
+  title     = {From {CIL} to Java bytecode: Semantics-based translation for static analysis leveraging},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102392},
+}
+
+@article{DBLP:journals/scp/GualandiI20,
+  author    = {Hugo Musso Gualandi and
+               Roberto Ierusalimschy},
+  title     = {Pallene: A companion language for Lua},
+  journal   = scp,
+  volume    = {189},
+  year      = 2020,
+  pages     = {102393},
+}
+
+@article{DBLP:journals/scp/Lopez-GonzalezS20,
+  author    = {J. López-González and
+               Juan M. Serrano},
+  title     = {The optics of language-integrated query},
+  journal   = scp,
+  volume    = {190},
+  year      = 2020,
+  pages     = {102395},
+}
+
+@article{DBLP:journals/scp/Banach20,
+  author    = {Richard Banach},
+  title     = {Automated urban train control with hybrid Event-B: 'Tackling' the rugby club problem},
+  journal   = scp,
+  volume    = {190},
+  year      = 2020,
+  pages     = {102404},
+}
+
+@article{DBLP:journals/scp/CabreraLTS20,
+  author    = {Pedro Cabrera and
+               Henrik Lund and
+               Jakob Zinck Thellufsen and
+               Peter Sorknæs},
+  title     = {The {MATLAB} Toolbox for EnergyPLAN: A tool to extend energy planning studies},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102405},
+}
+
+@article{DBLP:journals/scp/PelliccioneKAHB20,
+  author    = {Patrizio Pelliccione and
+               Eric Knauss and
+               S. Magnus Ågren and
+               Rogardt Heldal and
+               Carl Bergenhem and
+               Alexey Vinel and
+               Oliver Brunnegård},
+  title     = {Beyond connected cars: A systems of systems perspective},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102414},
+}
+
+@article{DBLP:journals/scp/AlcocerBV20,
+  author    = {Juan Pablo Sandoval Alcocer and
+               Alexandre Bergel and
+               Marco Tulio Valente},
+  title     = {Prioritizing versions for performance regression testing: The Pharo case},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102415},
+}
+
+@article{DBLP:journals/scp/TekinerdoganE20,
+  author    = {Bedir Tekinerdogan and
+               Ferhat Erata},
+  title     = {Automated reasoning framework for traceability management of system of systems},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102416},
+}
+
+@article{DBLP:journals/scp/JacquetS20,
+  author    = {Jean-Marie Jacquet and
+               Jacopo Soldani},
+  title     = {Preface to the Special Issue on Foundations of Coordination Languages and {Self-Adaptive} Systems (Foclasa 2018)},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102417},
+}
+
+@article{DBLP:journals/scp/PinheiroVRFFGF20,
+  author    = {Pedro Pinheiro and
+               José Carlos Viana and
+               Márcio Ribeiro and
+               Leonardo Fernandes and
+               Fabiano Cutigi Ferrari and
+               Rohit Gheyi and
+               Baldoino Fonseca},
+  title     = {Mutating code annotations: An empirical evaluation on Java and C# programs},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102418},
+}
+
+@article{DBLP:journals/scp/SilvaBO20,
+  author    = {Eduardo Silva and
+               Thaís Batista and
+               Flávio Oquendo},
+  title     = {On the verification of mission-related properties in software-intensive systems-of-systems architectural design},
+  journal   = scp,
+  volume    = {192},
+  year      = 2020,
+  pages     = {102425},
+}
+
+@article{DBLP:journals/scp/DaviesWMH20,
+  author    = {Jim Davies and
+               James Welch and
+               David Milward and
+               Steve Harris},
+  title     = {A formal, scalable approach to semantic interoperability},
+  journal   = scp,
+  volume    = {192},
+  year      = 2020,
+  pages     = {102426},
+}
+
+@article{DBLP:journals/scp/CavalheiroF20,
+  author    = {Simone André da Costa Cavalheiro and
+               José Luiz Fiadeiro},
+  title     = {Selected papers from the Brazilian Symposium on Formal Methods ({SBMF} 2017)},
+  journal   = scp,
+  volume    = {191},
+  year      = 2020,
+  pages     = {102427},
+}
+
+@article{DBLP:journals/scp/AlrahmanNL20,
+  author    = {Yehia Abd Alrahman and
+               Rocco De Nicola and
+               Michele Loreti},
+  title     = {Programming interactions in collective adaptive systems by relying on attribute-based communication},
+  journal   = scp,
+  volume    = {192},
+  year      = 2020,
+  pages     = {102428},
+}
+
+@article{DBLP:journals/scp/LiSS20,
+  author    = {Yi Li and
+               Weidi Sun and
+               Meng Sun},
+  title     = {Mediator: A component-based modeling language for concurrent and distributed systems},
+  journal   = scp,
+  volume    = {192},
+  year      = 2020,
+  pages     = {102438},
+}
+
+@article{DBLP:journals/scp/AccattoliG19,
+  author    = {Beniamino Accattoli and
+               Giulio Guerrieri},
+  title     = {Abstract machines for Open {Call-by-Value}},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/BeierleS19,
+  author    = {Christoph Beierle and
+               Klaus-Dieter Schewe},
+  title     = {Type-2 effectivity in abstract state machines for algorithms with exact real arithmetic},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/ChaabaneRPGJ19,
+  author    = {Mariam Chaabane and
+               Ismael Bouassida Rodriguez and
+               Ricardo Colomo Palacios and
+               Walid Gaaloul and
+               Mohamed Jmaiel},
+  title     = {A modeling approach for {Systems-of-Systems} by adapting ISO/IEC/{IEEE} 42010 Standard evaluated by {Goal-Question-Metric}},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/DuranRS19,
+  author    = {Francisco Durán and
+               Camilo Rocha and
+               Gwen Salaün},
+  title     = {A rewriting logic approach to resource allocation analysis in business process models},
+  journal   = scp,
+  volume    = {183},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/EmaraH19,
+  author    = {Tamer Z. Emara and
+               Joshua Zhexue Huang},
+  title     = {RRPlib: A spark library for representing {HDFS} blocks as a set of random sample data blocks},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/FerrarottiGS19,
+  author    = {Flavio Ferrarotti and
+               Senén González and
+               Klaus-Dieter Schewe},
+  title     = {{BSP} abstract state machines capture bulk synchronous parallel computations},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/KappeLAT19,
+  author    = {Tobias Kappé and
+               Benjamin Lion and
+               Farhad Arbab and
+               Carolyn L. Talcott},
+  title     = {Soft component automata: Composition, compilation, logic, and verification},
+  journal   = scp,
+  volume    = {183},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/Mariani19,
+  author    = {Stefano Mariani},
+  title     = {Coordination in Socio-technical Systems: Where are we now? Where do we go next?},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/SaadatjooB19,
+  author    = {Mohammad Ali Saadatjoo and
+               Seyed Morteza Babamir},
+  title     = {Test-data generation directed by program path coverage through imperialist competitive algorithm},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/TiganeKBBB19,
+  author    = {Samir Tigane and
+               Laïd Kahloul and
+               Saber Benharzallah and
+               Souheib Baarir and
+               Samir Bourekkache},
+  title     = {Reconfigurable GSPNs: A modeling formalism of evolvable discrete-event systems},
+  journal   = scp,
+  volume    = {183},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/WinterSD19,
+  author    = {Kirsten Winter and
+               Graeme Smith and
+               John Derrick},
+  title     = {Modelling concurrent objects running on the {TSO} and ARMv8 memory models},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/ZhangBBHJKW19,
+  author    = {Dan Zhang and
+               Dragan Bosnacki and
+               Mark van den Brand and
+               Cornelis Huizing and
+               Bart Jacobs and
+               Ruurd Kuiper and
+               Anton Wijs},
+  title     = {Dependency safety for Java - Implementing and testing failboxes},
+  journal   = scp,
+  volume    = {184},
+  year      = 2019,
+}
+
+@article{DBLP:journals/scp/CastorL19,
+  author    = {Fernando Castor and
+               Yu David Liu},
+  title     = {Selected papers of the Brazilian Symposium on Programming Languages (SBLP'15+16)},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/scp/PerezO19,
+  author    = {Baltasar J. García Pérez and
+               Francisco Ortin},
+  title     = {A didactic object-oriented, prototype-based visual programming environment},
+  journal   = scp,
+  volume    = {176},
+  year      = 2019,
+  pages     = {1-13},
+}
+
+@article{DBLP:journals/scp/VassalloGPGB19,
+  author    = {Carmine Vassallo and
+               Giovanni Grano and
+               Fabio Palomba and
+               Harald C. Gall and
+               Alberto Bacchelli},
+  title     = {A large-scale empirical exploration on refactoring activities in open source software projects},
+  journal   = scp,
+  volume    = {180},
+  year      = 2019,
+  pages     = {1-15},
+}
+
+@article{DBLP:journals/scp/SantiagoBMM19,
+  author    = {Regivan H. N. Santiago and
+               Benjamín R. C. Bedregal and
+               Alexandre Madeira and
+               Manuel A. Martins},
+  title     = {On interval dynamic logic: Introducing quasi-action lattices},
+  journal   = scp,
+  volume    = {175},
+  year      = 2019,
+  pages     = {1-16},
+}
+
 @article{DBLP:journals/scp/BeekDGMP19,
   author    = {Maurice H. ter Beek and
                Ferruccio Damiani and
@@ -13,6 +637,76 @@
   pages     = {1-17},
 }
 
+@article{DBLP:journals/scp/Hierons19,
+  author    = {Robert M. Hierons},
+  title     = {{FSM} quasi-equivalence testing via reduction and observing absences},
+  journal   = scp,
+  volume    = {177},
+  year      = 2019,
+  pages     = {1-18},
+}
+
+@article{DBLP:journals/scp/JiaYZL19,
+  author    = {Jingdong Jia and
+               Xiaoying Yang and
+               Rong Zhang and
+               Xi Liu},
+  title     = {Understanding software developers' cognition in agile requirements engineering},
+  journal   = scp,
+  volume    = {178},
+  year      = 2019,
+  pages     = {1-19},
+}
+
+@article{DBLP:journals/scp/KyriakakisCAX19,
+  author    = {Panos Kyriakakis and
+               Alexander Chatzigeorgiou and
+               Apostolos Ampatzoglou and
+               Stelios Xinogalos},
+  title     = {Exploring the frequency and change proneness of dynamic feature pattern instances in {PHP} applications},
+  journal   = scp,
+  volume    = {171},
+  year      = 2019,
+  pages     = {1-20},
+}
+
+@article{DBLP:journals/scp/PeleskaHC19,
+  author    = {Jan Peleska and
+               Wen-ling Huang and
+               Ana Cavalcanti},
+  title     = {Finite complete suites for {CSP} refinement testing},
+  journal   = scp,
+  volume    = {179},
+  year      = 2019,
+  pages     = {1-23},
+}
+
+@article{DBLP:journals/scp/BonchiBLR19,
+  author    = {Filippo Bonchi and
+               Tom van Bussel and
+               Matias David Lee and
+               Jurriaan Rot},
+  title     = {Bisimilarity of open terms in stream {GSOS}},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {1-26},
+}
+
+@article{DBLP:journals/scp/GkolfiDJKSY19,
+  author    = {Anastasia Gkolfi and
+               Crystal Chang Din and
+               Einar Broch Johnsen and
+               Lars Michael Kristensen and
+               Martin Steffen and
+               Ingrid Chieh Yu},
+  title     = {Translating active objects into colored Petri nets for communication analysis},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {1-26},
+}
+
 @article{DBLP:journals/scp/KrishnaPS19,
   author    = {Ajay Krishna and
                Pascal Poizat and
@@ -22,6 +716,79 @@
   volume    = {170},
   year      = 2019,
   pages     = {1-26},
+}
+
+@article{DBLP:journals/scp/CavalcantiSMRFD19,
+  author    = {Ana Cavalcanti and
+               Augusto Sampaio and
+               Alvaro Miyazawa and
+               Pedro Ribeiro and
+               Madiel Conserva Filho and
+               André Didier and
+               Wei Li and
+               Jon Timmis},
+  title     = {Verified simulation for robotics},
+  journal   = scp,
+  volume    = {174},
+  year      = 2019,
+  pages     = {1-37},
+}
+
+@article{DBLP:journals/scp/Marmsoler19,
+  author    = {Diego Marmsoler},
+  title     = {A calculus for dynamic architectures},
+  journal   = scp,
+  volume    = {182},
+  year      = 2019,
+  pages     = {1-41},
+}
+
+@article{DBLP:journals/scp/FerreiraSP19,
+  author    = {Bruno Morais Ferreira and
+               Britaldo Silveira Soares-Filho and
+               Fernando Magno Quintão Pereira},
+  title     = {The Dinamica {EGO} virtual machine},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {3-20},
+}
+
+@article{DBLP:journals/scp/AvelinoPHV19,
+  author    = {Guilherme Avelino and
+               Leonardo Teixeira Passos and
+               André C. Hora and
+               Marco Tulio Valente},
+  title     = {Measuring and analyzing code authorship in 1 + 118 open source projects},
+  journal   = scp,
+  volume    = {176},
+  year      = 2019,
+  pages     = {14-32},
+}
+
+@article{DBLP:journals/scp/JacquetM19,
+  author    = {Jean-Marie Jacquet and
+               Mieke Massink},
+  title     = {Preface to the special issue on Coordination Models and Languages (Coordination 2017)},
+  journal   = scp,
+  volume    = {180},
+  year      = 2019,
+  pages     = {16-17},
+}
+
+@article{DBLP:journals/scp/HarrisonFDCMMW19,
+  author    = {Michael D. Harrison and
+               Leo Freitas and
+               Michael Drinnan and
+               José Creissac Campos and
+               Paolo Masci and
+               Costanzo di Maria and
+               Michael Whitaker},
+  title     = {Formal techniques in the safety analysis of software components of a new dialysis machine},
+  journal   = scp,
+  volume    = {175},
+  year      = 2019,
+  pages     = {17-34},
 }
 
 @article{DBLP:journals/scp/YinTLBWH19,
@@ -38,6 +805,77 @@
   pages     = {18-32},
 }
 
+@article{DBLP:journals/scp/YuanMPQ19,
+  author    = {Qixia Yuan and
+               Andrzej Mizera and
+               Jun Pang and
+               Hongyang Qu},
+  title     = {A new decomposition-based method for detecting attractors in synchronous Boolean networks},
+  journal   = scp,
+  volume    = {180},
+  year      = 2019,
+  pages     = {18-35},
+}
+
+@article{DBLP:journals/scp/LiZJS19,
+  author    = {Yi Li and
+               Xiyue Zhang and
+               Yuanyi Ji and
+               Meng Sun},
+  title     = {A formal framework capturing real-time and stochastic behavior in connectors},
+  journal   = scp,
+  volume    = {177},
+  year      = 2019,
+  pages     = {19-40},
+}
+
+@article{DBLP:journals/scp/BaeR19,
+  author    = {Kyungmin Bae and
+               Camilo Rocha},
+  title     = {Symbolic state space reduction with guarded terms for rewriting modulo {SMT}},
+  journal   = scp,
+  volume    = {178},
+  year      = 2019,
+  pages     = {20-42},
+}
+
+@article{DBLP:journals/scp/BessaGQFNP19,
+  author    = {Tarsila Bessa and
+               Christopher J. Gull and
+               Pedro Quintão and
+               Michael Frank and
+               José Augusto Miranda Nacif and
+               Fernando Magno Quintão Pereira},
+  title     = {JetsonLEAP: A framework to measure power on a heterogeneous system-on-a-chip device},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {21-36},
+}
+
+@article{DBLP:journals/scp/IannopolloTS19,
+  author    = {Antonio Iannopollo and
+               Stavros Tripakis and
+               Alberto L. Sangiovanni-Vincentelli},
+  title     = {Constrained synthesis from component libraries},
+  journal   = scp,
+  volume    = {171},
+  year      = 2019,
+  pages     = {21-41},
+}
+
+@article{DBLP:journals/scp/BijoJPT19,
+  author    = {Shiji Bijo and
+               Einar Broch Johnsen and
+               Ka I Pun and
+               Silvia Lizeth Tapia Tarifa},
+  title     = {A formal model of data access for multicore architectures with multilevel caches},
+  journal   = scp,
+  volume    = {179},
+  year      = 2019,
+  pages     = {24-53},
+}
+
 @article{DBLP:journals/scp/ZhangHLS19,
   author    = {Xiyue Zhang and
                Weijiang Hong and
@@ -50,6 +888,126 @@
   pages     = {27-44},
 }
 
+@article{DBLP:journals/scp/WangCST19,
+  author    = {Yuchen Wang and
+               Kwok Sun Cheng and
+               Myoungkyu Song and
+               Eli Tilevich},
+  title     = {A declarative enhancement of {JavaScript} programs by leveraging the Java metadata infrastructure},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {27-46},
+}
+
+@article{DBLP:journals/scp/LuthmannML19,
+  author    = {Lars Luthmann and
+               Stephan Mennicke and
+               Malte Lochau},
+  title     = {Unifying modal interface theories and compositional input/output conformance testing},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {27-47},
+}
+
+@article{DBLP:journals/scp/ArthoO19,
+  author    = {Cyrille Artho and
+               Peter Csaba Ölveczky},
+  title     = {Formal Techniques for {Safety-Critical} Systems ({FTSCS} 2016)},
+  journal   = scp,
+  volume    = {175},
+  year      = 2019,
+  pages     = {35-36},
+}
+
+@article{DBLP:journals/scp/JefferyB19,
+  author    = {Alexander Jeffery and
+               Martin Berger},
+  title     = {Asynchronous sessions with implicit functions and messages},
+  journal   = scp,
+  volume    = {180},
+  year      = 2019,
+  pages     = {36-70},
+}
+
+@article{DBLP:journals/scp/FeitosaVPB19,
+  author    = {Samuel da Silva Feitosa and
+               Juliana Kaizer Vizzotto and
+               Eduardo Kessler Piveta and
+               André Rauber Du Bois},
+  title     = {A monadic semantics for quantum computing in an object oriented language},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {37-55},
+}
+
+@article{DBLP:journals/scp/TimmG19,
+  author    = {Nils Timm and
+               Stefan Gruner},
+  title     = {Three-valued bounded model checking with cause-guided abstraction refinement},
+  journal   = scp,
+  volume    = {175},
+  year      = 2019,
+  pages     = {37-62},
+}
+
+@article{DBLP:journals/scp/MuramTZ19,
+  author    = {Faiz Ul Muram and
+               Huy Tran and
+               Uwe Zdun},
+  title     = {Supporting automated containment checking of software behavioural models using model transformations and model checking},
+  journal   = scp,
+  volume    = {174},
+  year      = 2019,
+  pages     = {38-71},
+}
+
+@article{DBLP:journals/scp/Sabahi-KavianiG19,
+  author    = {Zeynab Sabahi-Kaviani and
+               Fatemeh Ghassemi},
+  title     = {Behavioral model identification and classification of multi-component systems},
+  journal   = scp,
+  volume    = {177},
+  year      = 2019,
+  pages     = {41-66},
+}
+
+@article{DBLP:journals/scp/BowlesCCM19,
+  author    = {Juliana Bowles and
+               Marco B. Caminati and
+               Suhyun Cha and
+               J. Mendoza},
+  title     = {A framework for automated conflict detection and resolution in medical guidelines},
+  journal   = scp,
+  volume    = {182},
+  year      = 2019,
+  pages     = {42-63},
+}
+
+@article{DBLP:journals/scp/AbbassiKHK19,
+  author    = {Imran Hafeez Abbassi and
+               Faiq Khalid and
+               Osman Hasan and
+               Awais Mehmood Kamboh},
+  title     = {Using gate-level side channel parameters for formally analyzing vulnerabilities in integrated circuits},
+  journal   = scp,
+  volume    = {171},
+  year      = 2019,
+  pages     = {42-66},
+}
+
+@article{DBLP:journals/scp/KouchnarenkoM19,
+  author    = {Olga Kouchnarenko and
+               Eric Madelaine},
+  title     = {Selected and extended papers from {FACS} 2016},
+  journal   = scp,
+  volume    = {178},
+  year      = 2019,
+  pages     = {43-44},
+}
+
 @article{DBLP:journals/scp/SyrianiSL19,
   author    = {Eugene Syriani and
                Vasco Sousa and
@@ -59,6 +1017,327 @@
   volume    = {170},
   year      = 2019,
   pages     = {45-79},
+}
+
+@article{DBLP:journals/scp/MolinaCDRCAF19,
+  author    = {Facundo Molina and
+               César Cornejo and
+               Renzo Degiovanni and
+               Germán Regis and
+               Pablo F. Castro and
+               Nazareno Aguirre and
+               Marcelo F. Frias},
+  title     = {An evolutionary approach to translating operational specifications into declarative specifications},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {47-63},
+}
+
+@article{DBLP:journals/scp/Benzmuller19,
+  author    = {Christoph Benzmüller},
+  title     = {Universal (meta-)logical reasoning: Recent successes},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {48-62},
+}
+
+@article{DBLP:journals/scp/InoueI19,
+  author    = {Hiroaki Inoue and
+               Atsushi Igarashi},
+  title     = {A type system for first-class layers with inheritance, subtyping, and swapping},
+  journal   = scp,
+  volume    = {179},
+  year      = 2019,
+  pages     = {54-86},
+}
+
+@article{DBLP:journals/scp/DuarteBPCR19,
+  author    = {Rodrigo Medeiros Duarte and
+               André Rauber Du Bois and
+               Maurício Lima Pilla and
+               Gerson Geraldo H. Cavalheiro and
+               Renata Hax Sander Reiser},
+  title     = {Comparing the performance of concurrent hash tables implemented in Haskell},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {56-70},
+}
+
+@article{DBLP:journals/scp/ScottJB19,
+  author    = {Elizabeth Scott and
+               Adrian Johnstone and
+               L. Thomas van Binsbergen},
+  title     = {Derivation representation using binary subtree sets},
+  journal   = scp,
+  volume    = {175},
+  year      = 2019,
+  pages     = {63-84},
+}
+
+@article{DBLP:journals/scp/BouraouiG19,
+  author    = {Amina Bouraoui and
+               Imen Gharbi},
+  title     = {Model driven engineering of accessible and multi-platform graphical user interfaces by parameterized model transformations},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {63-101},
+}
+
+@article{DBLP:journals/scp/Laneve19,
+  author    = {Cosimo Laneve},
+  title     = {A lightweight deadlock analysis for programs with threads and reentrant locks},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {64-81},
+}
+
+@article{DBLP:journals/scp/VidalOGDM19,
+  author    = {Santiago A. Vidal and
+               Willian Nalepa Oizumi and
+               Alessandro Garcia and
+               J. Andres Diaz-Pace and
+               Claudia Marcos},
+  title     = {Ranking architecturally critical agglomerations of code smells},
+  journal   = scp,
+  volume    = {182},
+  year      = 2019,
+  pages     = {64-85},
+}
+
+@article{DBLP:journals/scp/FragalSM19,
+  author    = {Vanderson Hafemann Fragal and
+               Adenilso da Silva Simão and
+               Mohammad Reza Mousavi},
+  title     = {Hierarchical featured state machines},
+  journal   = scp,
+  volume    = {171},
+  year      = 2019,
+  pages     = {67-88},
+}
+
+@article{DBLP:journals/scp/SeguraL19,
+  author    = {Ángel Mora Segura and
+               Juan de Lara},
+  title     = {Extremo: An Eclipse plugin for modelling and meta-modelling assistance},
+  journal   = scp,
+  volume    = {180},
+  year      = 2019,
+  pages     = {71-80},
+}
+
+@article{DBLP:journals/scp/FernandesMPSV19,
+  author    = {João Paulo Fernandes and
+               Pedro Martins and
+               Alberto Pardo and
+               João Saraiva and
+               Marcos Viera},
+  title     = {Memoized zipper-based attribute grammars and their higher order extension},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {71-94},
+}
+
+@article{DBLP:journals/scp/LindnerGM19,
+  author    = {Andreas Lindner and
+               Roberto Guanciale and
+               Roberto Metere},
+  title     = {TrABin: Trustworthy analyses of binaries},
+  journal   = scp,
+  volume    = {174},
+  year      = 2019,
+  pages     = {72-89},
+}
+
+@article{DBLP:journals/scp/CornelioR19,
+  author    = {Márcio Cornélio and
+               A. William Roscoe},
+  title     = {Guest editorial for the special issue from the 18th Brazilian Symposium on Formal Methods ({SBMF} 2015)},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {82-83},
+}
+
+@article{DBLP:journals/scp/NogueiraAAIS19,
+  author    = {Sidney Nogueira and
+               Hugo L. S. Araujo and
+               Renata B. S. Araujo and
+               Juliano Iyoda and
+               Augusto Sampaio},
+  title     = {Test case generation, selection and coverage from natural language},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {84-110},
+}
+
+@article{DBLP:journals/scp/DastaniS19,
+  author    = {Mehdi Dastani and
+               Marjan Sirjani},
+  title     = {Fundamentals of Software Engineering (extended versions of selected papers of {FSEN} 2017)},
+  journal   = scp,
+  volume    = {182},
+  year      = 2019,
+  pages     = {86-87},
+}
+
+@article{DBLP:journals/scp/Ancona19,
+  author    = {Davide Ancona},
+  title     = {Preface: Special Issue on Verification of Objects at Runtime Execution},
+  journal   = scp,
+  volume    = {182},
+  year      = 2019,
+  pages     = {88-89},
+}
+
+@article{DBLP:journals/scp/BuddeDH19,
+  author    = {Carlos E. Budde and
+               Pedro R. D'Argenio and
+               Arnd Hartmanns},
+  title     = {Automated compositional importance splitting},
+  journal   = scp,
+  volume    = {174},
+  year      = 2019,
+  pages     = {90-108},
+}
+
+@article{DBLP:journals/scp/SilvaDJ19,
+  author    = {Jefferson de Carvalho Silva and
+               Allberson Bruno de Oliveira Dantas and
+               Francisco Heron de Carvalho Junior},
+  title     = {A Scientific Workflow Management System for orchestration of parallel components in a cloud of large-scale parallel processing services},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {95-127},
+}
+
+@article{DBLP:journals/scp/DeutschbeinFBB19,
+  author    = {Calvin Deutschbein and
+               Tom Fleming and
+               Alan Burns and
+               Sanjoy Baruah},
+  title     = {Multi-core cyclic executives for safety-critical systems},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {102-116},
+}
+
+@article{DBLP:journals/scp/SilvaCS19,
+  author    = {Bruno Cesar F. Silva and
+               Gustavo Carvalho and
+               Augusto Sampaio},
+  title     = {{CPN} simulation-based test case generation from controlled natural-language requirements},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {111-139},
+}
+
+@article{DBLP:journals/scp/HanTL19,
+  author    = {Xiao Han and
+               Tao Tang and
+               Jidong Lv},
+  title     = {A hierarchical verification approach to verify complex safety control systems based on {STAMP}},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {117-134},
+}
+
+@article{DBLP:journals/scp/RochaGP19,
+  author    = {Rodrigo C. O. Rocha and
+               Luís F. W. Góes and
+               Fernando Magno Quintão Pereira},
+  title     = {Automatic parallelization of recursive functions with rewriting rules},
+  journal   = scp,
+  volume    = {173},
+  year      = 2019,
+  pages     = {128-152},
+}
+
+@article{DBLP:journals/scp/ImaiYY19,
+  author    = {Keigo Imai and
+               Nobuko Yoshida and
+               Shoji Yuen},
+  title     = {Session-ocaml: A session-based library with polarities and lenses},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {135-159},
+}
+
+@article{DBLP:journals/scp/MiyazawaCW19,
+  author    = {Alvaro Miyazawa and
+               Ana Cavalcanti and
+               Andy J. Wellings},
+  title     = {SCJ-Circus: Specification and refinement of {Safety-Critical} Java programs},
+  journal   = scp,
+  volume    = {181},
+  year      = 2019,
+  pages     = {140-176},
+}
+
+@article{DBLP:journals/scp/Ferrando19,
+  author    = {Angelo Ferrando},
+  title     = {The early bird catches the worm: First verify, then monitor!},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {160-179},
+}
+
+@article{DBLP:journals/scp/GianniniRSZ19,
+  author    = {Paola Giannini and
+               Tim Richter and
+               Marco Servetto and
+               Elena Zucca},
+  title     = {Tracing sharing in an imperative pure calculus},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {180-202},
+}
+
+@article{DBLP:journals/scp/DamianiLP19,
+  author    = {Ferruccio Damiani and
+               Michael Lienhardt and
+               Luca Paolini},
+  title     = {A formal model for Multi Software Product Lines},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {203-231},
+}
+
+@article{DBLP:journals/scp/ParraEPP19,
+  author    = {Otto Parra and
+               Sergio España and
+               José Ignacio Panach and
+               Oscar Pastor},
+  title     = {An empirical comparative evaluation of {gestUI} to include gesture-based interaction in user interfaces},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {232-263},
+}
+
+@article{DBLP:journals/scp/SanchezPZ19,
+  author    = {Luis Emiliano Sanchez and
+               Jorge Andrés Díaz Pace and
+               Alejandro Zunino},
+  title     = {A family of heuristic search algorithms for feature model optimization},
+  journal   = scp,
+  volume    = {172},
+  year      = 2019,
+  pages     = {264-293},
 }
 
 @article{DBLP:journals/scp/EtienL18,
@@ -1077,7 +2356,7 @@
 }
 
 @article{DBLP:journals/scp/BaughA18,
-  author    = {John Baugh and
+  author    = {John W. Baugh Jr. and
                Alper Altuntas},
   title     = {Formal methods and finite element analysis of hurricane storm surge: A case study in software verification},
   journal   = scp,
@@ -1155,7 +2434,7 @@
 }
 
 @article{DBLP:journals/scp/CastroLATAS18,
-  author    = {Thiago Castro and
+  author    = {Thiago M. Castro and
                André Lanna and
                Vander Alves and
                Leopoldo Teixeira and
@@ -2131,7 +3410,7 @@
 
 @article{DBLP:journals/scp/HongHP17,
   author    = {Linh Vu Hong and
-               Anne Elisabeth Haxthausen and
+               Anne E. Haxthausen and
                Jan Peleska},
   title     = {Formal modelling and verification of interlocking systems featuring sequential release},
   journal   = scp,
@@ -2431,7 +3710,7 @@
 @article{DBLP:journals/scp/CamaraoFR16,
   author    = {Carlos Camarão and
                Lucília Figueiredo and
-               Rodrigo Ribeiro},
+               Rodrigo Geraldo Ribeiro},
   title     = {Ambiguity and constrained polymorphism},
   journal   = scp,
   volume    = {124},
@@ -2770,7 +4049,7 @@
 }
 
 @article{DBLP:journals/scp/DelenPVV16,
-  author    = {G. P. A. J. Delen and
+  author    = {Guus P. A. J. Delen and
                R. J. Peters and
                Chris Verhoef and
                S. F. M. van Vlijmen},
@@ -4662,7 +5941,7 @@
 }
 
 @article{DBLP:journals/scp/WieringaD15,
-  author    = {Roel Wieringa and
+  author    = {Roel J. Wieringa and
                Maya Daneva},
   title     = {Six strategies for generalizing software engineering theories},
   journal   = scp,
@@ -5382,7 +6661,7 @@
 @article{DBLP:journals/scp/PhamDH15,
   author    = {Thanh-Trung Pham and
                Xavier Défago and
-               Quyet-Thang Huynh},
+               Huynh Quyet Thang},
   title     = {Reliability prediction for component-based software systems: Dealing with concurrent and propagating errors},
   journal   = scp,
   volume    = {97},
@@ -5545,7 +6824,7 @@
 }
 
 @article{DBLP:journals/scp/ParizekL15,
-  author    = {Pavel Parizek and
+  author    = {Pavel Parízek and
                Ondrej Lhoták},
   title     = {Model checking of concurrent programs with static analysis of field accesses},
   journal   = scp,
@@ -7227,7 +8506,7 @@
 }
 
 @article{DBLP:journals/scp/Mine14,
-  author    = {A. Miné},
+  author    = {Antoine Miné},
   title     = {Backward under-approximations in numeric abstract domains to automatically infer sufficient program conditions},
   journal   = scp,
   volume    = {93},
@@ -11741,7 +13020,7 @@
 }
 
 @article{DBLP:journals/scp/ParraBCD11,
-  author    = {Carlos Andres Parra and
+  author    = {Carlos Parra and
                Xavier Blanc and
                Anthony Cleve and
                Laurence Duchien},
@@ -14006,7 +15285,7 @@
   author    = {María-del-Mar Gallardo and
                Jesús Martínez and
                Pedro Merino and
-               Pablo Nuñez and
+               Pablo Núñez and
                Ernesto Pimentel},
   title     = {PiXL: Applying xml standards to support the integration of analysis tools for protocols},
   journal   = scp,
@@ -16309,7 +17588,7 @@
 @article{DBLP:journals/scp/PlosilaSW05,
   author    = {Juha Plosila and
                Kaisa Sere and
-               Marina A. Waldén},
+               Marina Waldén},
   title     = {Asynchronous system synthesis},
   journal   = scp,
   volume    = {55},
@@ -17243,7 +18522,7 @@
 @article{DBLP:journals/scp/ReesST03,
   author    = {D. Ll. L. Rees and
                Karen Stephenson and
-               J. V. Tucker},
+               John V. Tucker},
   title     = {The algebraic structure of interfaces},
   journal   = scp,
   volume    = {49},
@@ -21872,7 +23151,7 @@
 
 @article{DBLP:journals/scp/GriesP87,
   author    = {David Gries and
-               Jan Prins},
+               Jan F. Prins},
   title     = {{McLaren's} Masterpiece},
   journal   = scp,
   volume    = {8},
@@ -22390,7 +23669,7 @@
 
 @article{DBLP:journals/scp/BergstraT85,
   author    = {Jan A. Bergstra and
-               J. V. Tucker},
+               John V. Tucker},
   title     = {{Top-Down} Design and the Algebra of Communicating Processes},
   journal   = scp,
   volume    = {5},

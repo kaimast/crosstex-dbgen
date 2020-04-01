@@ -1,5 +1,1443 @@
 @include journals-cs
 
+@article{DBLP:journals/tpds/ZhouLCL20,
+  author    = {Zhi Zhou and
+               Fangming Liu and
+               Shutong Chen and
+               Zongpeng Li},
+  title     = {A Truthful and Efficient Incentive Mechanism for Demand Response in Green Datacenters},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-15},
+}
+
+@article{DBLP:journals/tpds/ShahGJSC20,
+  author    = {Ankit Shah and
+               Rajesh Ganesan and
+               Sushil Jajodia and
+               Pierangela Samarati and
+               Hasan Cam},
+  title     = {Adaptive Alert Management for Balancing Optimal Performance among Distributed {CSOCs} using Reinforcement Learning},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {16-33},
+}
+
+@article{DBLP:journals/tpds/RapartiP20,
+  author    = {Venkata Yaswanth Raparti and
+               Sudeep Pasricha},
+  title     = {Approximate {NoC} and Memory Controller Architectures for {GPGPU} Accelerators},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {25-39},
+}
+
+@article{DBLP:journals/tpds/ChenQWFYZL20,
+  author    = {Zhaoyun Chen and
+               Wei Quan and
+               Mei Wen and
+               Jianbin Fang and
+               Jie Yu and
+               Chunyuan Zhang and
+               Lei Luo},
+  title     = {Deep Learning Research and Development Platform: Characterizing and Scheduling with {QoS} Guarantees on {GPU} Clusters},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {34-50},
+}
+
+@article{DBLP:journals/tpds/SunJLN20,
+  author    = {Yidan Sun and
+               Guiyuan Jiang and
+               Siew-Kei Lam and
+               Fangxin Ning},
+  title     = {Designing {Energy-Efficient} {MPSoC} with Untrustworthy 3{PIP} Cores},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {51-63},
+}
+
+@article{DBLP:journals/tpds/ShenLX20,
+  author    = {Minghua Shen and
+               Guojie Luo and
+               Nong Xiao},
+  title     = {EEPC: A Framework for {Energy-Efficient} Parallel Control of Connected Cars},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {64-79},
+}
+
+@article{DBLP:journals/tpds/ZhouZSC20,
+  author    = {Weijie Zhou and
+               Yue Zhao and
+               Xipeng Shen and
+               Wang Chen},
+  title     = {Enabling Runtime {SpMV} Format Selection through an Overhead Conscious Method},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {80-93},
+}
+
+@article{DBLP:journals/tpds/LiSCLLTB20,
+  author    = {Ang Li and
+               Shuaiwen Leon Song and
+               Jieyang Chen and
+               Jiajia Li and
+               Xu Liu and
+               Nathan R. Tallent and
+               Kevin J. Barker},
+  title     = {Evaluating Modern {GPU} Interconnect: PCIe, NVLink, NV-SLI, {NVSwitch} and {GPUDirect}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {94-110},
+}
+
+@article{DBLP:journals/tpds/ParedesRL20,
+  author    = {Mireya Paredes and
+               Graham D. Riley and
+               Mikel Luján},
+  title     = {Exploiting Parallelism and Vectorisation in {Breadth-First} Search for the Intel Xeon Phi},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {111-128},
+}
+
+@article{DBLP:journals/tpds/WenLYJRRLX20,
+  author    = {Zhenyu Wen and
+               Tao Lin and
+               Renyu Yang and
+               Shouling Ji and
+               Rajiv Ranjan and
+               Alexander B. Romanovsky and
+               Chang-Ting Lin and
+               Jie Xu},
+  title     = {GA-Par: Dependable Microservice Orchestration Framework for {Geo-Distributed} Clouds},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {129-143},
+}
+
+@article{DBLP:journals/tpds/XuLLSWY20,
+  author    = {Ke Xu and
+               Liang Lv and
+               Tong Li and
+               Meng Shen and
+               Haiyang Wang and
+               Kun Yang},
+  title     = {Minimizing Tardiness for {Data-Intensive} Applications in Heterogeneous Systems: A Matching Theory Perspective},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {144-158},
+}
+
+@article{DBLP:journals/tpds/WangSMLC20,
+  author    = {Shengling Wang and
+               Weiman Sun and
+               Liran Ma and
+               Weifeng Lv and
+               Xiuzhen Cheng},
+  title     = {Quantum Game Analysis on Extrinsic Incentive Mechanisms for P2P Services},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {159-170},
+}
+
+@article{DBLP:journals/tpds/ChoKSEPC20,
+  author    = {Hyeonjoong Cho and
+               Chulgoo Kim and
+               Joohyung Sun and
+               Arvind Easwaran and
+               Ju-Derk Park and
+               Byeong-Cheol Choi},
+  title     = {Scheduling Parallel {Real-Time} Tasks on the Minimum Number of Processors},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {171-186},
+}
+
+@article{DBLP:journals/tpds/ChampatiL20,
+  author    = {Jaya Prakash Champati and
+               Ben Liang},
+  title     = {Single Restart with Time Stamps for Parallel Task Processing with Known and Unknown Processors},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {187-200},
+}
+
+@article{DBLP:journals/tpds/QinHC20,
+  author    = {Xiao-Wen Qin and
+               Rong-Xia Hao and
+               Jou-Ming Chang},
+  title     = {The Existence of Completely Independent Spanning Trees for Some Compound Graphs},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {201-210},
+}
+
+@article{DBLP:journals/tpds/AilijiangCDK20,
+  author    = {Ailidani Ailijiang and
+               Aleksey Charapko and
+               Murat Demirbas and
+               Tevfik Kosar},
+  title     = {WPaxos: Wide Area Network Flexible Consensus},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {211-223},
+}
+
+@article{DBLP:journals/tpds/CriswellA20,
+  author    = {Keeley Criswell and
+               Tosiron Adegbija},
+  title     = {A Survey of Phase Classification Techniques for Characterizing Variable Application Behavior},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {224-236},
+}
+
+@article{DBLP:journals/tpds/LessleyC20,
+  author    = {Brenton Lessley and
+               Hank Childs},
+  title     = {{Data-Parallel} Hashing Techniques for {GPU} Architectures},
+  journal   = tpds,
+  volume    = {31},
+  number    = {1},
+  year      = 2020,
+  pages     = {237-250},
+}
+
+@article{DBLP:journals/tpds/Parashar20,
+  author    = {Manish Parashar},
+  title     = {Editor's Note},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {251-252},
+}
+
+@article{DBLP:journals/tpds/ChenGLC20,
+  author    = {Tao Chen and
+               Xiaofeng Gao and
+               Tao Liao and
+               Guihai Chen},
+  title     = {Pache: A Packet Management Scheme of Cache in Data Center Networks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {253-265},
+}
+
+@article{DBLP:journals/tpds/TanWYSCL20,
+  author    = {Yujuan Tan and
+               Baiping Wang and
+               Zhichao Yan and
+               Witawas Srisa-an and
+               Xianzhang Chen and
+               Duo Liu},
+  title     = {APMigration: Improving Performance of Hybrid Memory Performance via An Adaptive Page Migration Method},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {266-278},
+}
+
+@article{DBLP:journals/tpds/ZhaoYMLLQ20,
+  author    = {Laiping Zhao and
+               Yanan Yang and
+               Ali Munir and
+               Alex X. Liu and
+               Yue Li and
+               Wenyu Qu},
+  title     = {Optimizing {Geo-Distributed} Data Analytics with Coordinated Task Scheduling and Routing},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {279-293},
+}
+
+@article{DBLP:journals/tpds/OhQCW20,
+  author    = {Kwangsung Oh and
+               Nan Qin and
+               Abhishek Chandra and
+               Jon B. Weissman},
+  title     = {Wiera: {Policy-Driven} {Multi-Tiered} {Geo-Distributed} Cloud Storage System},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {294-305},
+}
+
+@article{DBLP:journals/tpds/SuyyaghZ20,
+  author    = {Ashraf Suyyagh and
+               Zeljko Zilic},
+  title     = {Energy and {Task-Aware} Partitioning on {Single-ISA} Clustered Heterogeneous Processors},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {306-317},
+}
+
+@article{DBLP:journals/tpds/ChoOE20,
+  author    = {Younghyun Cho and
+               Surim Oh and
+               Bernhard Egger},
+  title     = {Performance Modeling of Parallel Loops on {Multi-Socket} Platforms Using Queueing Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {318-331},
+}
+
+@article{DBLP:journals/tpds/ZhangCJY20,
+  author    = {Wenhui Zhang and
+               Qiang Cao and
+               Hong Jiang and
+               Jie Yao},
+  title     = {Improving Overall Performance of {TLC} {SSD} by Exploiting Dissimilarity of Flash Pages},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {332-346},
+}
+
+@article{DBLP:journals/tpds/SiavoshaniPPS20,
+  author    = {Mahdi Jafari Siavoshani and
+               Farzad Parvaresh and
+               Ali Pourmiri and
+               Seyed Pooya Shariatpanahi},
+  title     = {Coded Load Balancing in Cache Networks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {347-358},
+}
+
+@article{DBLP:journals/tpds/FeliuSPE20,
+  author    = {Josué Feliu and
+               Julio Sahuquillo and
+               Salvador Petit and
+               Lieven Eeckhout},
+  title     = {Thread Isolation to Improve Symbiotic Scheduling on {SMT} Multicore Processors},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {359-373},
+}
+
+@article{DBLP:journals/tpds/ZhouCWHM20,
+  author    = {Jiang Zhou and
+               Yong Chen and
+               Weiping Wang and
+               Shuibing He and
+               Dan Meng},
+  title     = {A Highly Reliable Metadata Service for {Large-Scale} Distributed File Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {374-392},
+}
+
+@article{DBLP:journals/tpds/MaLWX20,
+  author    = {Yu Ma and
+               Weifa Liang and
+               Jie Wu and
+               Zichuan Xu},
+  title     = {Throughput Maximization of {NFV-Enabled} Multicasting in Mobile Edge Cloud Networks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {393-407},
+}
+
+@article{DBLP:journals/tpds/YanCAQD20,
+  author    = {Hao Yan and
+               Hebin R. Cherian and
+               Ethan C. Ahn and
+               Xuehai Qian and
+               Lide Duan},
+  title     = {iCELIA: A {Full-Stack} Framework for {STT-MRAM-Based} Deep Learning Acceleration},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {408-422},
+}
+
+@article{DBLP:journals/tpds/AllegrettiBG20,
+  author    = {Stefano Allegretti and
+               Federico Bolelli and
+               Costantino Grana},
+  title     = {Optimized {Block-Based} Algorithms to Label Connected Components on {GPUs}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {423-438},
+}
+
+@article{DBLP:journals/tpds/YuWHZL20,
+  author    = {Yinghao Yu and
+               Wei Wang and
+               Renfei Huang and
+               Jun Zhang and
+               Khaled Ben Letaief},
+  title     = {Achieving Load-Balanced, {Redundancy-Free} Cluster Caching with Selective Partition},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {439-454},
+}
+
+@article{DBLP:journals/tpds/YuT20,
+  author    = {Chia-Lin Yu and
+               Shiao-Li Tsao},
+  title     = {Efficient and Portable Workgroup Size Tuning},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {455-469},
+}
+
+@article{DBLP:journals/tpds/SidikPZE20,
+  author    = {Bronislav Sidik and
+               Rami Puzis and
+               Polina Zilberman and
+               Yuval Elovici},
+  title     = {PALE: Time Bounded Practical Agile Leader Election},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {470-485},
+}
+
+@article{DBLP:journals/tpds/KettanehATYAAA20,
+  author    = {Ibrahim Kettaneh and
+               Ahmed Alquraan and
+               Hatem Takruri and
+               Suli Yang and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Samer Al-Kiswany},
+  title     = {The {Network-Integrated} Storage System},
+  journal   = tpds,
+  volume    = {31},
+  number    = {2},
+  year      = 2020,
+  pages     = {486-500},
+}
+
+@article{DBLP:journals/tpds/WuLH20,
+  author    = {Xiaohu Wu and
+               Patrick Loiseau and
+               Esa Hyytiä},
+  title     = {Toward Designing {Cost-Optimal} Policies to Utilize {IaaS} Clouds with Online Learning},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {501-514},
+}
+
+@article{DBLP:journals/tpds/HeCZCDJLY20,
+  author    = {Qiang He and
+               Guangming Cui and
+               Xuyun Zhang and
+               Feifei Chen and
+               Shuiguang Deng and
+               Hai Jin and
+               Yanhui Li and
+               Yun Yang},
+  title     = {A {Game-Theoretical} Approach for User Allocation in Edge Computing Environment},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {515-529},
+}
+
+@article{DBLP:journals/tpds/ZarebavaniJHS20,
+  author    = {Behrooz Zarebavani and
+               Foad Jafarinejad and
+               Matin Hashemi and
+               Saber Salehkaleybar},
+  title     = {cuPC: {CUDA-Based} Parallel {PC} Algorithm for Causal Structure Learning on {GPU}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {530-542},
+}
+
+@article{DBLP:journals/tpds/SchneiderT20,
+  author    = {Thomas Schneider and
+               Amos Treiber},
+  title     = {A Comment on {Privacy-Preserving} Scalar Product Protocols as Proposed in "SPOC"},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {543-546},
+}
+
+@article{DBLP:journals/tpds/GuoHGSLBDL20,
+  author    = {Pengxing Guo and
+               Weigang Hou and
+               Lei Guo and
+               Wei Sun and
+               Chuang Liu and
+               Hainan Bao and
+               Luan H. K. Duong and
+               Weichen Liu},
+  title     = {{Fault-Tolerant} Routing Mechanism in 3D Optical {Network-on-Chip} Based on Node Reuse},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {547-564},
+}
+
+@article{DBLP:journals/tpds/ZhangWKSH20,
+  author    = {Shungeng Zhang and
+               Qingyang Wang and
+               Yasuhiko Kanemasa and
+               Huasong Shan and
+               Liting Hu},
+  title     = {The Impact of Event Processing Flow on Asynchronous Server Efficiency},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {565-579},
+}
+
+@article{DBLP:journals/tpds/LanMHSDWLQF20,
+  author    = {Haidong Lan and
+               Jintao Meng and
+               Christian Hundt and
+               Bertil Schmidt and
+               Minwen Deng and
+               Xiaoning Wang and
+               Weiguo Liu and
+               Yu Qiao and
+               Shengzhong Feng},
+  title     = {FeatherCNN: Fast Inference Computation with {TensorGEMM} on {ARM} Architectures},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {580-594},
+}
+
+@article{DBLP:journals/tpds/ZhangLWW20,
+  author    = {Tao Zhang and
+               Xiao-Yang Liu and
+               Xiaodong Wang and
+               Anwar Walid},
+  title     = {cuTensor-Tubal: Efficient Primitives for {Tubal-Rank} Tensor Learning Operations on {GPUs}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {595-610},
+}
+
+@article{DBLP:journals/tpds/WangLHWYW20,
+  author    = {Liang Wang and
+               Leibo Liu and
+               Jie Han and
+               Xiaohang Wang and
+               Shouyi Yin and
+               Shaojun Wei},
+  title     = {Achieving Flexible Global Reconfiguration in {NoCs} Using Reconfigurable Rings},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {611-622},
+}
+
+@article{DBLP:journals/tpds/AnsariSPE20,
+  author    = {Mohsen Ansari and
+               Javad Saber-Latibari and
+               Mostafa Pasandideh and
+               Alireza Ejlali},
+  title     = {Simultaneous Management of {Peak-Power} and Reliability in Heterogeneous Multicore Embedded Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {623-633},
+}
+
+@article{DBLP:journals/tpds/YuanYZLW20,
+  author    = {Xu Yuan and
+               Xingliang Yuan and
+               Yihe Zhang and
+               Baochun Li and
+               Cong Wang},
+  title     = {Enabling Encrypted Boolean Queries in Geographically Distributed Databases},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {634-646},
+}
+
+@article{DBLP:journals/tpds/WangLFCJ20,
+  author    = {Guijuan Wang and
+               Cheng-Kuan Lin and
+               Jianxi Fan and
+               Baolei Cheng and
+               Xiaohua Jia},
+  title     = {A Novel Low Cost Interconnection Architecture Based on the Generalized Hypercube},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {647-662},
+}
+
+@article{DBLP:journals/tpds/CiLZZY20,
+  author    = {Yi-Wei Ci and
+               Michael R. Lyu and
+               Zhan Zhang and
+               De-Cheng Zuo and
+               Xiao-Zong Yang},
+  title     = {Random {Priority-Based} Thrashing Control for Distributed Shared Memory},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {663-674},
+}
+
+@article{DBLP:journals/tpds/HeshamGG20,
+  author    = {Salma Hesham and
+               Diana Goehringer and
+               Mohamed A. Abd El Ghany},
+  title     = {HPPT-NoC: A {Dark-Silicon} Inspired Hierarchical {TDM} {NoC} with Efficient {Power-Performance} Trading},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {675-694},
+}
+
+@article{DBLP:journals/tpds/LiJZY20,
+  author    = {Zhi Li and
+               Hai Jin and
+               Deqing Zou and
+               Bin Yuan},
+  title     = {Exploring New Opportunities to Defeat {Low-Rate} {DDoS} Attack in {Container-Based} Cloud Environment},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {695-706},
+}
+
+@article{DBLP:journals/tpds/ZhangYLZP20,
+  author    = {Weihua Zhang and
+               Zhaofeng Yan and
+               Yuzhe Lin and
+               Chuanlei Zhao and
+               Lu Peng},
+  title     = {A High Throughput B+tree for {SIMD} Architectures},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {707-720},
+}
+
+@article{DBLP:journals/tpds/CanonMSV20,
+  author    = {Louis-Claude Canon and
+               Loris Marchal and
+               Bertrand Simon and
+               Frédéric Vivien},
+  title     = {Online Scheduling of Task Graphs on Heterogeneous Platforms},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {721-732},
+}
+
+@article{DBLP:journals/tpds/LvHPW20,
+  author    = {Hongwu Lv and
+               Jane Hillston and
+               Paul Piho and
+               Huiqiang Wang},
+  title     = {An {Attribute-Based} Availability Model for Large Scale {IaaS} Clouds with {CARMA}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {3},
+  year      = 2020,
+  pages     = {733-748},
+}
+
+@article{DBLP:journals/tpds/HosseinalipourN20,
+  author    = {Seyyedali Hosseinalipour and
+               Anuj Nayak and
+               Huaiyu Dai},
+  title     = {{Power-Aware} Allocation of Graph Jobs in {Geo-Distributed} Cloud Networks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {749-765},
+}
+
+@article{DBLP:journals/tpds/ShekoftehNNFY20,
+  author    = {S. Kazem Shekofteh and
+               Hamid Noori and
+               Mahmoud Naghibzadeh and
+               Holger Fröning and
+               Hadi Sadoghi Yazdi},
+  title     = {cCUDA: Effective {Co-Scheduling} of Concurrent Kernels on {GPUs}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {766-778},
+}
+
+@article{DBLP:journals/tpds/JinLLLZ20,
+  author    = {Hai Jin and
+               Zhiwei Li and
+               Haikun Liu and
+               Xiaofei Liao and
+               Yu Zhang},
+  title     = {{Hotspot-Aware} Hybrid Memory Management for {In-Memory} {Key-Value} Stores},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {779-792},
+}
+
+@article{DBLP:journals/tpds/AoP20,
+  author    = {Weng-Chon Ao and
+               Konstantinos Psounis},
+  title     = {{Resource-Constrained} Replication Strategies for Hierarchical and Heterogeneous Tasks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {793-804},
+}
+
+@article{DBLP:journals/tpds/LiWYSY20,
+  author    = {Riling Li and
+               Bujiao Wu and
+               Mingsheng Ying and
+               Xiaoming Sun and
+               Guangwen Yang},
+  title     = {Quantum Supremacy Circuit Simulation on Sunway {TaihuLight}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {805-816},
+}
+
+@article{DBLP:journals/tpds/LiT20,
+  author    = {Chuanyou Li and
+               Xueyan Tang},
+  title     = {On {Fault-Tolerant} Bin Packing for Online Resource Allocation},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {817-829},
+}
+
+@article{DBLP:journals/tpds/HeLZYXCS20,
+  author    = {Shuibing He and
+               Zheng Li and
+               Jiang Zhou and
+               Yanlong Yin and
+               Xiaohua Xu and
+               Yong Chen and
+               Xian-He Sun},
+  title     = {A Holistic {Heterogeneity-Aware} Data Placement Scheme for Hybrid Parallel I/O Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {830-842},
+}
+
+@article{DBLP:journals/tpds/LuYGG20,
+  author    = {Qiumin Lu and
+               Jianguo Yao and
+               Haibing Guan and
+               Ping Gao},
+  title     = {gQoS: A {QoS-Oriented} {GPU} Virtualization with Adaptive Capacity Sharing},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {843-855},
+}
+
+@article{DBLP:journals/tpds/LuCMJL20,
+  author    = {Ziyi Lu and
+               Qiang Cao and
+               Fei Mei and
+               Hong Jiang and
+               Jingjun Li},
+  title     = {A Novel {Multi-Stage} {Forest-Based} {Key-Value} Store for Holistic Performance Improvement},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {856-870},
+}
+
+@article{DBLP:journals/tpds/KumarMM20,
+  author    = {Niraj Kumar and
+               Jaishree Mayank and
+               Arijit Mondal},
+  title     = {Reliability Aware Energy Optimized Scheduling of {Non-Preemptive} Periodic {Real-Time} Tasks on Heterogeneous Multiprocessor System},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {871-885},
+}
+
+@article{DBLP:journals/tpds/Anselmi20,
+  author    = {Jonatha Anselmi},
+  title     = {Combining {Size-Based} Load Balancing with {Round-Robin} for Scalable Low Latency},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {886-896},
+}
+
+@article{DBLP:journals/tpds/DerafshiNKB20,
+  author    = {Danesh Derafshi and
+               Amin Norollah and
+               Mohsen Khosroanjam and
+               Hakem Beitollahi},
+  title     = {HRHS: A {High-Performance} {Real-Time} Hardware Scheduler},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {897-908},
+}
+
+@article{DBLP:journals/tpds/BadriBGY20,
+  author    = {Hossein Badri and
+               Tayebeh Bahreini and
+               Daniel Grosu and
+               Kai Yang},
+  title     = {{Energy-Aware} Application Placement in Mobile Edge Computing: A Stochastic Optimization Approach},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {909-922},
+}
+
+@article{DBLP:journals/tpds/ChenHMZE20,
+  author    = {Zheyi Chen and
+               Jia Hu and
+               Geyong Min and
+               Albert Y. Zomaya and
+               Tarek A. El-Ghazawi},
+  title     = {Towards Accurate Prediction for {High-Dimensional} and {Highly-Variable} Cloud Workloads with Deep Learning},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {923-934},
+}
+
+@article{DBLP:journals/tpds/ZlausM20,
+  author    = {Danijel Zlaus and
+               Domen Mongus},
+  title     = {Efficient Method for Parallel Computation of Geodesic Transformation on {CPU}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {935-947},
+}
+
+@article{DBLP:journals/tpds/LiZJWDL20,
+  author    = {Xiaotong Li and
+               Ruiting Zhou and
+               Lei Jiao and
+               Chuan Wu and
+               Yuhang Deng and
+               Zongpeng Li},
+  title     = {Online Placement and Scaling of {Geo-Distributed} Machine Learning Jobs via {Volume-Discounting} Brokerage},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {948-966},
+}
+
+@article{DBLP:journals/tpds/YinWZEQLY20,
+  author    = {Yan Yin and
+               Junmin Wu and
+               Xu Zhou and
+               Lieven Eeckhout and
+               Amer Qouneh and
+               Tao Li and
+               Zhibin Yu},
+  title     = {COPA: Highly {Cost-Effective} Power {Back-Up} for Green Datacenters},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {967-980},
+}
+
+@article{DBLP:journals/tpds/LiCZRY20,
+  author    = {Xuesong Li and
+               Wenxue Cheng and
+               Tong Zhang and
+               Fengyuan Ren and
+               Bailong Yang},
+  title     = {Towards Power Efficient High Performance Packet I/O},
+  journal   = tpds,
+  volume    = {31},
+  number    = {4},
+  year      = 2020,
+  pages     = {981-996},
+}
+
+@article{DBLP:journals/tpds/YuZLJYWFYT20,
+  author    = {Teng Yu and
+               Wenlai Zhao and
+               Pan Liu and
+               Vladimir Janjic and
+               Xiaohan Yan and
+               Shicai Wang and
+               Haohuan Fu and
+               Guangwen Yang and
+               John Thomson},
+  title     = {{Large-Scale} Automatic {K-Means} Clustering for Heterogeneous {Many-Core} Supercomputer},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {997-1008},
+}
+
+@article{DBLP:journals/tpds/KangMLE20,
+  author    = {Donghyun Kang and
+               Changwoo Min and
+               Sang Won Lee and
+               Young Ik Eom},
+  title     = {Making {Application-Level} Crash Consistency Practical on Flash Storage},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1009-1020},
+}
+
+@article{DBLP:journals/tpds/TurchettoPV20,
+  author    = {Massimiliano Turchetto and
+               Alessandro Dal Palù and
+               Renato Vacondio},
+  title     = {A General Design for a Scalable {MPI-GPU} {Multi-Resolution} 2D Numerical Solver},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1036-1047},
+}
+
+@article{DBLP:journals/tpds/LiL20,
+  author    = {Li Li and
+               Loukas Lazos},
+  title     = {Proofs of Physical Reliability for Cloud Storage Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1048-1065},
+}
+
+@article{DBLP:journals/tpds/SinghNK20,
+  author    = {Vishal Krishna Singh and
+               Bhoomika Nathani and
+               Manish Kumar},
+  title     = {WEED-MC: Wavelet Transform for Energy Efficient Data Gathering and Matrix Completion},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1066-1073},
+}
+
+@article{DBLP:journals/tpds/WangZZWH20,
+  author    = {Tian Wang and
+               Junlong Zhou and
+               Gongxuan Zhang and
+               Tongquan Wei and
+               Shiyan Hu},
+  title     = {Customer Perceived Value- and {Risk-Aware} Multiserver Configuration for Profit Maximization},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1074-1088},
+}
+
+@article{DBLP:journals/tpds/WangQKH20,
+  author    = {Xiebing Wang and
+               Xuehai Qian and
+               Alois Knoll and
+               Kai Huang},
+  title     = {Efficient Performance Estimation and {Work-Group} Size Pruning for {OpenCL} Kernels on {GPUs}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1089-1106},
+}
+
+@article{DBLP:journals/tpds/ChenLZP20,
+  author    = {Sui Chen and
+               Lei Liu and
+               Weihua Zhang and
+               Lu Peng},
+  title     = {Architectural Support for {NVRAM} Persistence in {GPUs}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1107-1120},
+}
+
+@article{DBLP:journals/tpds/GaoXWLYQ20,
+  author    = {Lan Gao and
+               Yunlong Xu and
+               Rui Wang and
+               Zhongzhi Luan and
+               Zhibin Yu and
+               Depei Qian},
+  title     = {{Thread-Level} Locking for {SIMT} Architectures},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1121-1136},
+}
+
+@article{DBLP:journals/tpds/JeongLKYJJR20,
+  author    = {Won Seob Jeong and
+               Changmin Lee and
+               Keunsoo Kim and
+               Myung Kuk Yoon and
+               Won Jeon and
+               Myoungsoo Jung and
+               Won Woo Ro},
+  title     = {REACT: Scalable and {High-Performance} Regular Expression Pattern Matching Accelerator for {In-Storage} Processing},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1137-1151},
+}
+
+@article{DBLP:journals/tpds/LangrK20,
+  author    = {Daniel Langr and
+               Martin Kocicka},
+  title     = {Reducing the Impact of Intensive Dynamic Memory Allocations in Parallel {Multi-Threaded} Programs},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1152-1164},
+}
+
+@article{DBLP:journals/tpds/QuanWYG20,
+  author    = {Zhe Quan and
+               Zhi-Jie Wang and
+               Ting Ye and
+               Song Guo},
+  title     = {Task Scheduling for Energy Consumption Constrained Parallel Applications on Heterogeneous Computing Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1165-1182},
+}
+
+@article{DBLP:journals/tpds/Hassanzadeh-Nazarabadi20,
+  author    = {Yahya Hassanzadeh-Nazarabadi and
+               Alptekin Küpçü and
+               Öznur Özkasap},
+  title     = {Decentralized Utility- and {Locality-Aware} Replication for Heterogeneous {DHT-Based} P2P Cloud Storage Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1183-1193},
+}
+
+@article{DBLP:journals/tpds/HuYLGYQ20,
+  author    = {Yongmin Hu and
+               Hailong Yang and
+               Zhongzhi Luan and
+               Lin Gan and
+               Guangwen Yang and
+               Depei Qian},
+  title     = {Massively Scaling Seismic Processing on Sunway {TaihuLight} Supercomputer},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1194-1208},
+}
+
+@article{DBLP:journals/tpds/LuZMDQYHG20,
+  author    = {Qiumin Lu and
+               Xiao Zheng and
+               Jiacheng Ma and
+               Yaozu Dong and
+               Zhengwei Qi and
+               Jianguo Yao and
+               Bingsheng He and
+               Haibing Guan},
+  title     = {gMig: Efficient {vGPU} Live Migration with Overlapped {Software-Based} Dirty Page Verification},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1209-1222},
+}
+
+@article{DBLP:journals/tpds/LiuCDJZJZZTTLWZ20,
+  author    = {Kexin Liu and
+               Bingchuan Tian and
+               Chen Tian and
+               Bo Li and
+               Qingyue Wang and
+               Jiaqi Zheng and
+               Jiajun Sun and
+               Yixiao Gao and
+               Wei Wang and
+               Guihai Chen and
+               Wanchun Dou and
+               Yanan Jiang and
+               Huaping Zhou and
+               Jingjie Jiang and
+               Fan Zhang and
+               Gong Zhang},
+  title     = {Exploring {Token-Oriented} {In-Network} Prioritization in Datacenter Networks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {5},
+  year      = 2020,
+  pages     = {1223-1238},
+}
+
+@article{DBLP:journals/tpds/FaragardiSFFR20,
+  author    = {Hamid Reza Faragardi and
+               Mohammad Reza Saleh Sedghpour and
+               Saber Fazliahmadi and
+               Thomas Fahringer and
+               Nayereh Rasouli},
+  title     = {GRP-HEFT: A {Budget-Constrained} Resource Provisioning Scheme for Workflow Scheduling in {IaaS} Clouds},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1239-1254},
+}
+
+@article{DBLP:journals/tpds/LimCLRZ20,
+  author    = {Soklong Lim and
+               Tyler Coy and
+               Zaixin Lu and
+               Bin Ren and
+               Xuechen Zhang},
+  title     = {NVGraph: Enforcing Crash Consistency of Evolving Network Analytics in {NVMM} Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1255-1269},
+}
+
+@article{DBLP:journals/tpds/MengTLHL20,
+  author    = {Jiaying Meng and
+               Haisheng Tan and
+               Xiang-Yang Li and
+               Zhenhua Han and
+               Bojie Li},
+  title     = {Online {Deadline-Aware} Task Dispatching and Scheduling in Edge Computing},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1270-1286},
+}
+
+@article{DBLP:journals/tpds/HuaSYJYCCC20,
+  author    = {Qiang-Sheng Hua and
+               Yuliang Shi and
+               Dongxiao Yu and
+               Hai Jin and
+               Jiguo Yu and
+               Zhipeng Cai and
+               Xiuzhen Cheng and
+               Hanhua Chen},
+  title     = {Faster Parallel Core Maintenance Algorithms in Dynamic Graphs},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1287-1300},
+}
+
+@article{DBLP:journals/tpds/GilPRA20,
+  author    = {J. Rubén Titos Gil and
+               Ricardo Fernández Pascual and
+               Alberto Ros and
+               Manuel E. Acacio},
+  title     = {Concurrent Irrevocability in {Best-Effort} Hardware Transactional Memory},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1301-1315},
+}
+
+@article{DBLP:journals/tpds/ShibataP20,
+  author    = {Naoki Shibata and
+               Francesco Petrogalli},
+  title     = {SLEEF: A Portable Vectorized Library of C Standard Mathematical Functions},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1316-1327},
+}
+
+@article{DBLP:journals/tpds/HanLWLZ20,
+  author    = {Jianhui Han and
+               He Liu and
+               Mingyu Wang and
+               Zhaolin Li and
+               Youhui Zhang},
+  title     = {ERA-LSTM: An Efficient {ReRAM-Based} Architecture for Long {Short-Term} Memory},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1328-1342},
+}
+
+@article{DBLP:journals/tpds/GaveauMA20,
+  author    = {Jérôme Gaveau and
+               Christophe J. Le Martret and
+               Mohamad Assaad},
+  title     = {Performance Analysis of Trial and Error Algorithms},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1343-1356},
+}
+
+@article{DBLP:journals/tpds/ChenZHWL20,
+  author    = {Qiong Chen and
+               Zimu Zheng and
+               Chuang Hu and
+               Dan Wang and
+               Fangming Liu},
+  title     = {{On-Edge} {Multi-Task} Transfer Learning: Model and Practice With {Data-Driven} Task Allocation},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1357-1371},
+}
+
+@article{DBLP:journals/tpds/WangNL20,
+  author    = {Hao Wang and
+               Di Niu and
+               Baochun Li},
+  title     = {Turbo: Dynamic and Decentralized Global Analytics via Machine Learning},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1372-1386},
+}
+
+@article{DBLP:journals/tpds/CharyyevA20,
+  author    = {Batyr Charyyev and
+               Engin Arslan},
+  title     = {RIVA: Robust Integrity Verification Algorithm for {High-Speed} File Transfers},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1387-1399},
+}
+
+@article{DBLP:journals/tpds/WuNAAQLML20,
+  author    = {Di Wu and
+               Xiang Nie and
+               Eskindir Asmare and
+               Dmitri I. Arkhipov and
+               Zhijing Qin and
+               Renfa Li and
+               Julie A. McCann and
+               Keqin Li},
+  title     = {Towards Distributed SDN: Mobility Management and Flow Scheduling in Software Defined Urban {IoT}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1400-1418},
+}
+
+@article{DBLP:journals/tpds/KumbhareMASAH20,
+  author    = {Nirmal Kumbhare and
+               Aniruddha Marathe and
+               Ali Akoglu and
+               Howard Jay Siegel and
+               Ghaleb Abdulla and
+               Salim Hariri},
+  title     = {A {Value-Oriented} Job Scheduling Approach for {Power-Constrained} and Oversubscribed {HPC} Systems},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1419-1433},
+}
+
+@article{DBLP:journals/tpds/ChenL20,
+  author    = {Yuechen Chen and
+               Ahmed Louri},
+  title     = {An Approximate Communication Framework for {Network-on-Chips}},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1434-1446},
+}
+
+@article{DBLP:journals/tpds/TianLQZYWCD20,
+  author    = {Chen Tian and
+               Bo Li and
+               Liulan Qin and
+               Jiaqi Zheng and
+               Jie Yang and
+               Wei Wang and
+               Guihai Chen and
+               Wanchun Dou},
+  title     = {P-PFC: Reducing Tail Latency with Predictive {PFC} in Lossless Data Center Networks},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1447-1459},
+}
+
+@article{DBLP:journals/tpds/KohZKYDKJ20,
+  author    = {Sungjoon Koh and
+               Jie Zhang and
+               Miryeong Kwon and
+               Jungyeon Yoon and
+               David Donofrio and
+               Nam Sung Kim and
+               Myoungsoo Jung},
+  title     = {Errata to "Exploring {Fault-Tolerant} Erasure Codes for Scalable {All-Flash} Array Clusters"},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1460},
+}
+
+@article{DBLP:journals/tpds/KarsavuranAA20,
+  author    = {M. Ozan Karsavuran and
+               Seher Acer and
+               Cevdet Aykanat},
+  title     = {Reduce Operations: Send Volume Balancing While Minimizing Latency},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1461-1473},
+}
+
+@article{DBLP:journals/tpds/YiZWT20,
+  author    = {Deliang Yi and
+               Xin Zhou and
+               Yonggang Wen and
+               Rui Tan},
+  title     = {Efficient {Compute-Intensive} Job Allocation in Data Centers via Deep Reinforcement Learning},
+  journal   = tpds,
+  volume    = {31},
+  number    = {6},
+  year      = 2020,
+  pages     = {1474-1485},
+}
+
 @article{DBLP:journals/tpds/Parashar19,
   author    = {Manish Parashar},
   title     = {Editor's Note},
@@ -240,6 +1678,2528 @@
   number    = {1},
   year      = 2019,
   pages     = {230-244},
+}
+
+@article{DBLP:journals/tpds/DasN19,
+  author    = {Uddipan Das and
+               Vinod Namboodiri},
+  title     = {A {Quality-Aware} {Multi-Level} Data Aggregation Approach to Manage Smart Grid {AMI} Traffic},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {245-256},
+}
+
+@article{DBLP:journals/tpds/TanTHLL19,
+  author    = {Huailiang Tan and
+               Yanjie Tan and
+               Xiaofei He and
+               Kenli Li and
+               Keqin Li},
+  title     = {A Virtual {Multi-Channel} {GPU} Fair Scheduling Method for Virtual Machines},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {257-270},
+}
+
+@article{DBLP:journals/tpds/SimVKVTB19,
+  author    = {Hyogi Sim and
+               Geoffroy Vallée and
+               Youngjae Kim and
+               Sudharshan S. Vazhkudai and
+               Devesh Tiwari and
+               Ali Raza Butt},
+  title     = {An Analysis {Workflow-Aware} Storage System for {Multi-Core} Active Flash Arrays},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {271-285},
+}
+
+@article{DBLP:journals/tpds/IanniPQ19,
+  author    = {Mauro Ianni and
+               Alessandro Pellegrini and
+               Francesco Quaglia},
+  title     = {Anonymous Readers Counting: A {Wait-Free} {Multi-Word} Atomic Register Algorithm for Scalable Data Sharing on {Multi-Core} Machines},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {286-299},
+}
+
+@article{DBLP:journals/tpds/WangWTZG19,
+  author    = {Pinghui Wang and
+               Xiangyu Wang and
+               Jing Tao and
+               Peng Zhang and
+               Xiaohong Guan},
+  title     = {Continuously Distinct Sampling over Centralized and Distributed High Speed Data Streams},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {300-314},
+}
+
+@article{DBLP:journals/tpds/YasudoKNMA19,
+  author    = {Ryota Yasudo and
+               Michihiro Koibuchi and
+               Koji Nakano and
+               Hiroki Matsutani and
+               Hideharu Amano},
+  title     = {Designing {High-Performance} Interconnection Networks with {Host-Switch} Graphs},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {315-330},
+}
+
+@article{DBLP:journals/tpds/DiTLC19,
+  author    = {Sheng Di and
+               Dingwen Tao and
+               Xin Liang and
+               Franck Cappello},
+  title     = {Efficient Lossy Compression for Scientific Data Based on Pointwise Relative Error Bound},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {331-345},
+}
+
+@article{DBLP:journals/tpds/WuZLFZZ19,
+  author    = {Chao Wu and
+               Lan Zhang and
+               Qiushi Li and
+               Ziyan Fu and
+               Wenwu Zhu and
+               Yaoxue Zhang},
+  title     = {Enabling Flexible Resource Allocation in Mobile Deep Learning Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {346-360},
+}
+
+@article{DBLP:journals/tpds/DiGGPSC19,
+  author    = {Sheng Di and
+               Hanqi Guo and
+               Rinku Gupta and
+               Eric Pershey and
+               Marc Snir and
+               Franck Cappello},
+  title     = {Exploring Properties and Correlations of Fatal Events in a {Large-Scale} {HPC} System},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {361-374},
+}
+
+@article{DBLP:journals/tpds/ChengZDWJ19,
+  author    = {Dazhao Cheng and
+               Xiaobo Zhou and
+               Zhijun Ding and
+               Yu Wang and
+               Mike Ji},
+  title     = {Heterogeneity Aware Workload Management in Distributed Sustainable Datacenters},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {375-387},
+}
+
+@article{DBLP:journals/tpds/LiZWZ19,
+  author    = {Xiaqing Li and
+               Guangyan Zhang and
+               Zhufan Wang and
+               Weimin Zheng},
+  title     = {HyConv: Accelerating {Multi-Phase} {CNN} Computation by {Fine-Grained} Policy Selection},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {388-399},
+}
+
+@article{DBLP:journals/tpds/MeiCJT19,
+  author    = {Fei Mei and
+               Qiang Cao and
+               Hong Jiang and
+               Lei Tian},
+  title     = {{LSM-Tree} Managed Storage for {Large-Scale} {Key-Value} Store},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {400-414},
+}
+
+@article{DBLP:journals/tpds/LiuLLH19,
+  author    = {Tingwei Liu and
+               John C. S. Lui and
+               Dong Lin and
+               David Shui Wing Hui},
+  title     = {On the Feasibility of {Inter-Domain} Routing via a Small Broker Set},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {415-427},
+}
+
+@article{DBLP:journals/tpds/PoshtkohiGS19,
+  author    = {Alireza Poshtkohi and
+               M. B. Ghaznavi-Ghoushchi and
+               Kamyar Saghafi},
+  title     = {Optimistic Modeling and Simulation of Complex Hardware Platforms and Embedded Systems on {Many-Core} {HPC} Clusters},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {428-444},
+}
+
+@article{DBLP:journals/tpds/AbubakerAA19,
+  author    = {Nabil Abubaker and
+               Kadir Akbudak and
+               Cevdet Aykanat},
+  title     = {Spatiotemporal Graph and Hypergraph Partitioning Models for Sparse {Matrix-Vector} Multiplication on {Many-Core} Architectures},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {445-458},
+}
+
+@article{DBLP:journals/tpds/CarvalhoAB19,
+  author    = {Joao P. L. de Carvalho and
+               Guido Araujo and
+               Alexandro Baldassin},
+  title     = {The Case for {Phase-Based} Transactional Memory},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {459-472},
+}
+
+@article{DBLP:journals/tpds/LucasMPG19,
+  author    = {Enrique de Lucas and
+               Pedro Marcuello and
+               Joan-Manuel Parcerisa and
+               Antonio González},
+  title     = {Visibility Rendering Order: Improving Energy Efficiency on Mobile {GPUs} through Frame Coherence},
+  journal   = tpds,
+  volume    = {30},
+  number    = {2},
+  year      = 2019,
+  pages     = {473-485},
+}
+
+@article{DBLP:journals/tpds/VillalbaBC19,
+  author    = {Álvaro Villalba and
+               Josep Lluis Berral and
+               David Carrera},
+  title     = {{Constant-Time} Sliding Window Framework with Reduced Memory Footprint and Efficient Bulk Evictions},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {486-500},
+}
+
+@article{DBLP:journals/tpds/ShahzadTKZHW19,
+  author    = {Faisal Shahzad and
+               Jonas Thies and
+               Moritz Kreutzer and
+               Thomas Zeiser and
+               Georg Hager and
+               Gerhard Wellein},
+  title     = {CRAFT: A Library for Easier {Application-Level} Checkpoint/Restart and Automatic Fault Tolerance},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {501-514},
+}
+
+@article{DBLP:journals/tpds/WangCZZW19,
+  author    = {Shaoqi Wang and
+               Wei Chen and
+               Xiaobo Zhou and
+               Liqiang Zhang and
+               Yin Wang},
+  title     = {{Dependency-Aware} Network Adaptive Scheduling of {Data-Intensive} Parallel Jobs},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {515-529},
+}
+
+@article{DBLP:journals/tpds/TangZC19,
+  author    = {Hong Tang and
+               Danny Zhou and
+               Duan Chen},
+  title     = {Dynamic Network Function Instance Scaling Based on Traffic Forecasting and {VNF} Placement in Operator Data Centers},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {530-543},
+}
+
+@article{DBLP:journals/tpds/AttiyaCEKW19,
+  author    = {Hagit Attiya and
+               Hyun Chul Chung and
+               Faith Ellen and
+               Saptaparni Kumar and
+               Jennifer L. Welch},
+  title     = {Emulating a Shared Register in a System That Never Stops Changing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {544-559},
+}
+
+@article{DBLP:journals/tpds/MedhatBF19,
+  author    = {Ramy Medhat and
+               Borzoo Bonakdarpour and
+               Sebastian Fischmeister},
+  title     = {{Energy-Efficient} Multiple {Producer-Consumer}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {560-574},
+}
+
+@article{DBLP:journals/tpds/ChuLASEP19,
+  author    = {Ching-Hsiang Chu and
+               Xiaoyi Lu and
+               Ammar Ahmad Awan and
+               Hari Subramoni and
+               Bracy Elton and
+               Dhabaleswar K. Panda},
+  title     = {Exploiting Hardware Multicast and {GPUDirect} {RDMA} for Efficient Broadcast},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {575-588},
+}
+
+@article{DBLP:journals/tpds/WangCYL19,
+  author    = {Yi Wang and
+               Weixuan Chen and
+               Jing Yang and
+               Tao Li},
+  title     = {Exploiting Parallelism for {CNN} Applications on 3D Stacked {Processing-In-Memory} Architecture},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {589-600},
+}
+
+@article{DBLP:journals/tpds/EdmondsADT19,
+  author    = {Mark Edmonds and
+               Tanvir Atahary and
+               Scott Douglass and
+               Tarek M. Taha},
+  title     = {Hardware Accelerated Semantic Declarative Memory Systems through {CUDA} and {MapReduce}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {601-614},
+}
+
+@article{DBLP:journals/tpds/HuangLKWCLP19,
+  author    = {Dan Huang and
+               Qing Liu and
+               Scott Klasky and
+               Jun Wang and
+               Jong Youl Choi and
+               Jeremy Logan and
+               Norbert Podhorszki},
+  title     = {Harnessing Data Movement in Virtual Clusters for {In-Situ} Execution},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {615-629},
+}
+
+@article{DBLP:journals/tpds/KimPB19,
+  author    = {Kyu Yeun Kim and
+               Jinsu Park and
+               Woongki Baek},
+  title     = {Improving the Performance and Energy Efficiency of {GPGPU} Computing through Integrated Adaptive Cache Management},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {630-645},
+}
+
+@article{DBLP:journals/tpds/ChenCHH19,
+  author    = {Xiaoming Chen and
+               Danny Ziyi Chen and
+               Yinhe Han and
+               Xiaobo Sharon Hu},
+  title     = {moDNN: Memory Optimal Deep Neural Network Training on Graphics Processing Units},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {646-661},
+}
+
+@article{DBLP:journals/tpds/WangHFXS19,
+  author    = {Yang Wang and
+               Shuibing He and
+               Xiaopeng Fan and
+               Cheng-Zhong Xu and
+               Xian-He Sun},
+  title     = {On {Cost-Driven} Collaborative Data Caching: A New Model Approach},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {662-676},
+}
+
+@article{DBLP:journals/tpds/NguyenTDZ19,
+  author    = {Bao Nguyen and
+               Hua Tan and
+               Kei Davis and
+               Xuechen Zhang},
+  title     = {Persistent Octrees for Parallel Mesh Refinement through {Non-Volatile} {Byte-Addressable} Memory},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {677-691},
+}
+
+@article{DBLP:journals/tpds/ZhangCJ19,
+  author    = {Fan Zhang and
+               Hanhua Chen and
+               Hai Jin},
+  title     = {Piggyback Game: Efficient Event Stream Dissemination in Online Social Network Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {692-709},
+}
+
+@article{DBLP:journals/tpds/JinCWYLGZ19,
+  author    = {Hai Jin and
+               Fei Chen and
+               Song Wu and
+               Yin Yao and
+               Zhiyi Liu and
+               Lin Gu and
+               Yongluan Zhou},
+  title     = {Towards {Low-Latency} Batched Stream Processing by {Pre-Scheduling}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {3},
+  year      = 2019,
+  pages     = {710-722},
+}
+
+@article{DBLP:journals/tpds/ZhouHWZJ19,
+  author    = {Jian Zhou and
+               Dezhi Han and
+               Jun Wang and
+               Xiaobo Zhou and
+               Changjun Jiang},
+  title     = {A {Correlation-Aware} {Page-Level} {FTL} to Exploit Semantic Links in Workloads},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {723-737},
+}
+
+@article{DBLP:journals/tpds/DaiLXS19,
+  author    = {Yi Dai and
+               Kai Lu and
+               Liquan Xiao and
+               Jinshu Su},
+  title     = {A {Cost-Efficient} Router Architecture for {HPC} {Inter-Connection} Networks: Design and Implementation},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {738-753},
+}
+
+@article{DBLP:journals/tpds/ArleoDLM19,
+  author    = {Alessio Arleo and
+               Walter Didimo and
+               Giuseppe Liotta and
+               Fabrizio Montecchiani},
+  title     = {A Distributed Multilevel {Force-Directed} Algorithm},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {754-765},
+}
+
+@article{DBLP:journals/tpds/GowanlockRBLP19,
+  author    = {Michael Gowanlock and
+               Cody M. Rude and
+               David M. Blair and
+               Justin D. Li and
+               Victor Pankratius},
+  title     = {A Hybrid Approach for Optimizing Parallel Clustering Throughput using the {GPU}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {766-777},
+}
+
+@article{DBLP:journals/tpds/GhafoorianAS19,
+  author    = {Mahdi Ghafoorian and
+               Dariush Abbasinezhad-Mood and
+               Hassan Shakeri},
+  title     = {A Thorough Trust and Reputation Based {RBAC} Model for Secure Data Storage in the Cloud},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {778-788},
+}
+
+@article{DBLP:journals/tpds/ChenW19,
+  author    = {Yu-Jia Chen and
+               Li-Chun Wang},
+  title     = {An Overflow Problem in Network Coding for Secure Cloud Storage},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {789-799},
+}
+
+@article{DBLP:journals/tpds/BauerHSAK19,
+  author    = {André Bauer and
+               Nikolas Herbst and
+               Simon Spinner and
+               Ahmed Ali-Eldin and
+               Samuel Kounev},
+  title     = {Chameleon: A Hybrid, Proactive {Auto-Scaling} Mechanism on a {Level-Playing} Field},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {800-813},
+}
+
+@article{DBLP:journals/tpds/ChengZXLJ19,
+  author    = {Dazhao Cheng and
+               Xiaobo Zhou and
+               Yinggen Xu and
+               Liu Liu and
+               Changjun Jiang},
+  title     = {{Deadline-Aware} {MapReduce} Job Scheduling with Dynamic Resource Availability},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {814-826},
+}
+
+@article{DBLP:journals/tpds/BesardFS19,
+  author    = {Tim Besard and
+               Christophe Foket and
+               Bjorn De Sutter},
+  title     = {Effective Extensible Programming: Unleashing Julia on {GPUs}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {827-841},
+}
+
+@article{DBLP:journals/tpds/CuiTGJWZ19,
+  author    = {Lin Cui and
+               Fung Po Tso and
+               Song Guo and
+               Weijia Jia and
+               Kaimin Wei and
+               Wei Zhao},
+  title     = {Enabling Heterogeneous Network Function Chaining},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {842-854},
+}
+
+@article{DBLP:journals/tpds/WangCZHP19,
+  author    = {Qingyang Wang and
+               Hui Chen and
+               Shungeng Zhang and
+               Liting Hu and
+               Balaji Palanisamy},
+  title     = {Integrating Concurrency Control in {n-Tier} Application Scaling Management in the Cloud},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {855-869},
+}
+
+@article{DBLP:journals/tpds/XuWLGLYG19,
+  author    = {Chenhan Xu and
+               Kun Wang and
+               Peng Li and
+               Song Guo and
+               Jiangtao Luo and
+               Baoliu Ye and
+               Minyi Guo},
+  title     = {Making Big Data Open in Edges: A {Resource-Efficient} {Blockchain-Based} Approach},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {870-882},
+}
+
+@article{DBLP:journals/tpds/TuncerAZTBLEC19,
+  author    = {Ozan Tuncer and
+               Emre Ates and
+               Yijia Zhang and
+               Ata Turk and
+               Jim M. Brandt and
+               Vitus J. Leung and
+               Manuel Egele and
+               Ayse K. Coskun},
+  title     = {Online Diagnosis of Performance Variation in {HPC} Systems Using Machine Learning},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {883-896},
+}
+
+@article{DBLP:journals/tpds/XuVLZ19,
+  author    = {Huanle Xu and
+               Gustavo de Veciana and
+               Wing Cheong Lau and
+               Kunxiao Zhou},
+  title     = {Online Job Scheduling with Redundancy and Opportunistic Checkpointing: A {Speedup-Function-Based} Analysis},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {897-909},
+}
+
+@article{DBLP:journals/tpds/LiSJDLB19,
+  author    = {Xiangbo Li and
+               Mohsen Amini Salehi and
+               Yamini Joshi and
+               Mahmoud K. Darwich and
+               Brad Landreneau and
+               Magdy Bayoumi},
+  title     = {Performance Analysis and Modeling of Video Transcoding Using Heterogeneous Cloud Services},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {910-922},
+}
+
+@article{DBLP:journals/tpds/ChenLYXXL19,
+  author    = {Yuedan Chen and
+               Kenli Li and
+               Wangdong Yang and
+               Guoqing Xiao and
+               Xianghui Xie and
+               Tao Li},
+  title     = {{Performance-Aware} Model for Sparse {Matrix-Matrix} Multiplication on the Sunway {TaihuLight} Supercomputer},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {923-938},
+}
+
+@article{DBLP:journals/tpds/AngstadtWWS19,
+  author    = {Kevin Angstadt and
+               Jack Wadden and
+               Westley Weimer and
+               Kevin Skadron},
+  title     = {Portable Programming with {RAPID}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {939-952},
+}
+
+@article{DBLP:journals/tpds/LuWLZDWZL19,
+  author    = {Jianyuan Lu and
+               Ying Wan and
+               Yang Li and
+               Chuwen Zhang and
+               Huichen Dai and
+               Yi Wang and
+               Gong Zhang and
+               Bin Liu},
+  title     = {{Ultra-Fast} Bloom Filters using {SIMD} Techniques},
+  journal   = tpds,
+  volume    = {30},
+  number    = {4},
+  year      = 2019,
+  pages     = {953-964},
+}
+
+@article{DBLP:journals/tpds/ChenLBZLY19,
+  author    = {Jianguo Chen and
+               Kenli Li and
+               Kashif Bilal and
+               Xu Zhou and
+               Keqin Li and
+               Philip S. Yu},
+  title     = {A Bi-layered Parallel Training Architecture for {Large-Scale} Convolutional Neural Networks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {965-976},
+}
+
+@article{DBLP:journals/tpds/WangYL19,
+  author    = {Lingkang Wang and
+               Tong Ye and
+               Tony T. Lee},
+  title     = {A Parallel Route Assignment Algorithm for {Fault-Tolerant} Clos Networks in {OTN} Switches},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {977-989},
+}
+
+@article{DBLP:journals/tpds/ChenWLS19,
+  author    = {Yuxi Chen and
+               Shu Wang and
+               Shan Lu and
+               Karthikeyan Sankaralingam},
+  title     = {Applying Transactional Memory for {Concurrency-Bug} Failure Recovery in Production Runs},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {990-1006},
+}
+
+@article{DBLP:journals/tpds/LorenzonOSB19,
+  author    = {Arthur Francisco Lorenzon and
+               Charles Cardoso De Oliveira and
+               Jeckson Dellagostin Souza and
+               Antonio Carlos Schneider Beck},
+  title     = {Aurora: Seamless Optimization of {OpenMP} Applications},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1007-1021},
+}
+
+@article{DBLP:journals/tpds/MaZLT19,
+  author    = {Hua Ma and
+               Haibin Zhu and
+               Keqin Li and
+               Wensheng Tang},
+  title     = {Collaborative Optimization of Service Composition for {Data-Intensive} Applications in a Hybrid Cloud},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1022-1035},
+}
+
+@article{DBLP:journals/tpds/XuZJSLZ19,
+  author    = {Fei Xu and
+               Haoyue Zheng and
+               Huan Jiang and
+               Wujie Shao and
+               Haikun Liu and
+               Zhi Zhou},
+  title     = {{Cost-Effective} Cloud Server Provisioning for Predictable Performance of Big Data Analytics},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1036-1051},
+}
+
+@article{DBLP:journals/tpds/KarnKE19,
+  author    = {Rupesh Raj Karn and
+               Prabhakar Kudva and
+               Ibrahim Abe M. Elfadel},
+  title     = {Dynamic Autoselection and Autotuning of Machine Learning Models for Cloud Network Analytics},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1052-1064},
+}
+
+@article{DBLP:journals/tpds/DassSM19,
+  author    = {Jyotikrishna Dass and
+               Vivek Sarin and
+               Rabi N. Mahapatra},
+  title     = {Fast and {Communication-Efficient} Algorithm for Distributed Support Vector Machine Training},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1065-1076},
+}
+
+@article{DBLP:journals/tpds/ShiTL19,
+  author    = {Min Shi and
+               Yufei Tang and
+               Jianxun Liu},
+  title     = {Functional and Contextual {Attention-Based} {LSTM} for Service Recommendation in Mashup Creation},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1077-1090},
+}
+
+@article{DBLP:journals/tpds/ZhouTZQ19,
+  author    = {Yi Zhou and
+               Shubbhi Taneja and
+               Chaowei Zhang and
+               Xiao Qin},
+  title     = {GreenDB: {Energy-Efficient} Prefetching and Caching in Database Clusters},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1091-1104},
+}
+
+@article{DBLP:journals/tpds/ZhangDMXYZ19,
+  author    = {Zhen Zhang and
+               Yuhui Deng and
+               Geyong Min and
+               Junjie Xie and
+               Laurence T. Yang and
+               Yongtao Zhou},
+  title     = {HSDC: A Highly Scalable Data Center Network Architecture for Greater Incremental Scalability},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1105-1119},
+}
+
+@article{DBLP:journals/tpds/WangVM19,
+  author    = {Xiaoli Wang and
+               Bharadwaj Veeravalli and
+               Haiming Ma},
+  title     = {On the Design of a Time, Resource and Energy Efficient {Multi-Installment} {Large-Scale} Workload Scheduling Strategy for {Network-Based} Compute Platforms},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1120-1133},
+}
+
+@article{DBLP:journals/tpds/SiwikWTPCP19,
+  author    = {Leszek Siwik and
+               Maciej Wozniak and
+               Victor Trujillo and
+               David Pardo and
+               Victor Manuel Calo and
+               Maciej Paszynski},
+  title     = {Parallel Refined Isogeometric Analysis in 3D},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1134-1142},
+}
+
+@article{DBLP:journals/tpds/MaLXG19,
+  author    = {Yu Ma and
+               Weifa Liang and
+               Zichuan Xu and
+               Song Guo},
+  title     = {Profit Maximization for Admitting Requests with Network Function Services in Distributed Clouds},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1143-1157},
+}
+
+@article{DBLP:journals/tpds/ZaitsevTD19,
+  author    = {Dmitry Zaitsev and
+               Stanimire Tomov and
+               Jack J. Dongarra},
+  title     = {Solving Linear Diophantine Systems on Parallel Architectures},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1158-1169},
+}
+
+@article{DBLP:journals/tpds/ChengJWHFGW19,
+  author    = {Yongli Cheng and
+               Hong Jiang and
+               Fang Wang and
+               Yu Hua and
+               Dan Feng and
+               Wenzhong Guo and
+               Yunxiang Wu},
+  title     = {Using {High-Bandwidth} Networks Efficiently for Fast Graph Computation},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1170-1183},
+}
+
+@article{DBLP:journals/tpds/AbabeiM19,
+  author    = {Cristinel Ababei and
+               Milad Ghorbani Moghaddam},
+  title     = {A Survey of Prediction and Classification Techniques in Multicore Processor Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {5},
+  year      = 2019,
+  pages     = {1184-1200},
+}
+
+@article{DBLP:journals/tpds/DouCA19,
+  author    = {Yi Dou and
+               Henry C. B. Chan and
+               Man Ho Au},
+  title     = {A Distributed Trust Evaluation Protocol with Privacy Protection for Intercloud},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1208-1221},
+}
+
+@article{DBLP:journals/tpds/DongLBKHZPZ19,
+  author    = {Zheng Dong and
+               Cong Liu and
+               Soroush Bateni and
+               Zelun Kong and
+               Liang He and
+               Lingming Zhang and
+               Ravi Prakash and
+               Yuqun Zhang},
+  title     = {A General Analysis Framework for Soft {Real-Time} Tasks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1222-1237},
+}
+
+@article{DBLP:journals/tpds/SalkhordehHA19,
+  author    = {Reza Salkhordeh and
+               Mostafa Hadizadeh and
+               Hossein Asadi},
+  title     = {An Efficient Hybrid I/O Caching Architecture Using Heterogeneous {SSDs}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1238-1250},
+}
+
+@article{DBLP:journals/tpds/LiWYLZHLXD19,
+  author    = {Ming Li and
+               Jian Weng and
+               Anjia Yang and
+               Wei Lu and
+               Yue Zhang and
+               Lin Hou and
+               Jia-Nan Liu and
+               Yang Xiang and
+               Robert H. Deng},
+  title     = {CrowdBC: A {Blockchain-Based} Decentralized Framework for Crowdsourcing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1251-1266},
+}
+
+@article{DBLP:journals/tpds/FraguelaA19,
+  author    = {Basilio B. Fraguela and
+               Diego Andrade},
+  title     = {Easy Dataflow Programming in Clusters with UPC++ {DepSpawn}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1267-1282},
+}
+
+@article{DBLP:journals/tpds/GuoYWWLJ19,
+  author    = {Yu Guo and
+               Xingliang Yuan and
+               Xinyu Wang and
+               Cong Wang and
+               Baochun Li and
+               Xiaohua Jia},
+  title     = {Enabling Encrypted Rich Queries in Distributed {Key-Value} Stores},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1283-1297},
+}
+
+@article{DBLP:journals/tpds/JinHWY19,
+  author    = {Peiquan Jin and
+               Xingjun Hao and
+               Xiaoliang Wang and
+               Lihua Yue},
+  title     = {{Energy-Efficient} Task Scheduling for {CPU-Intensive} Streaming Jobs on Hadoop},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1298-1311},
+}
+
+@article{DBLP:journals/tpds/KohZKYDKJ19,
+  author    = {Sungjoon Koh and
+               Jie Zhang and
+               Miryeong Kwon and
+               Jungyeon Yoon and
+               David Donofrio and
+               Nam Sung Kim and
+               Myoungsoo Jung},
+  title     = {Exploring {Fault-Tolerant} Erasure Codes for Scalable {All-Flash} Array Clusters},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1312-1330},
+}
+
+@article{DBLP:journals/tpds/ShenLX19,
+  author    = {Minghua Shen and
+               Guojie Luo and
+               Nong Xiao},
+  title     = {Exploring {GPU-Accelerated} Routing for {FPGAs}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1331-1345},
+}
+
+@article{DBLP:journals/tpds/WangYXFQH19,
+  author    = {Haibo Wang and
+               Xiwen Yu and
+               Hongli Xu and
+               Jingyuan Fan and
+               Chunming Qiao and
+               Liusheng Huang},
+  title     = {Integrating Coflow and Circuit Scheduling for Optical Networks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1346-1358},
+}
+
+@article{DBLP:journals/tpds/SudoOKMDL19,
+  author    = {Yuichi Sudo and
+               Fukuhito Ooshita and
+               Hirotsugu Kakugawa and
+               Toshimitsu Masuzawa and
+               Ajoy K. Datta and
+               Lawrence L. Larmore},
+  title     = {{Loosely-Stabilizing} Leader Election for Arbitrary Graphs in Population Protocol Model},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1359-1373},
+}
+
+@article{DBLP:journals/tpds/DenoyelleGIJS19,
+  author    = {Nicolas Denoyelle and
+               Brice Goglin and
+               Aleksandar Ilic and
+               Emmanuel Jeannot and
+               Leonel Sousa},
+  title     = {Modeling {Non-Uniform} Memory Access on Large Compute Nodes with the {Cache-Aware} Roofline Model},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1374-1389},
+}
+
+@article{DBLP:journals/tpds/ZhouHXLL19,
+  author    = {Siwang Zhou and
+               Yan He and
+               Shuzhen Xiang and
+               Keqin Li and
+               Yonghe Liu},
+  title     = {{Region-Based} Compressive Networked Storage with Lazy Encoding},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1390-1402},
+}
+
+@article{DBLP:journals/tpds/WangMCLZTJ19,
+  author    = {Puwei Wang and
+               Ji Meng and
+               Jinchuan Chen and
+               Tao Liu and
+               Ying Zhan and
+               Wei-Tek Tsai and
+               Zhi Jin},
+  title     = {Smart {Contract-Based} Negotiation for Adaptive {QoS-Aware} Service Composition},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1403-1420},
+}
+
+@article{DBLP:journals/tpds/ZhongLWLLRLLSL19,
+  author    = {Kan Zhong and
+               Duo Liu and
+               Yunsong Wu and
+               Linbo Long and
+               Weichen Liu and
+               Jinting Ren and
+               Renping Liu and
+               Liang Liang and
+               Zili Shao and
+               Tao Li},
+  title     = {Towards Fast and Lightweight Checkpointing for Mobile Virtualization Using {NVRAM}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1421-1433},
+}
+
+@article{DBLP:journals/tpds/LiNLLL19,
+  author    = {Wenxin Li and
+               Di Niu and
+               Yinan Liu and
+               Shuhao Liu and
+               Baochun Li},
+  title     = {{Wide-Area} Spark Streaming: Automated Routing and Batch Sizing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {6},
+  year      = 2019,
+  pages     = {1434-1448},
+}
+
+@article{DBLP:journals/tpds/CaiCJ19,
+  author    = {Haoran Cai and
+               Qiang Cao and
+               Hong Jiang},
+  title     = {A Renewable Energy Driven Approach for Computational Sprinting},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1449-1463},
+}
+
+@article{DBLP:journals/tpds/WuKW19,
+  author    = {Huaming Wu and
+               William J. Knottenbelt and
+               Katinka Wolter},
+  title     = {An Efficient Application Partitioning Algorithm in Mobile Environments},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1464-1480},
+}
+
+@article{DBLP:journals/tpds/AsaharaF19,
+  author    = {Masato Asahara and
+               Ryohei Fujimaki},
+  title     = {An Empirical Study on Distributed Bayesian Approximation Inference of Piecewise Sparse Linear Models},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1481-1493},
+}
+
+@article{DBLP:journals/tpds/ZhangWJYWZJ19,
+  author    = {Xuhong Zhang and
+               Jun Wang and
+               Shouling Ji and
+               Jiangling Yin and
+               Rui Wang and
+               Xiaobo Zhou and
+               Changjun Jiang},
+  title     = {An I/O Efficient Distributed Approximation Framework Using Cluster Sampling},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1494-1511},
+}
+
+@article{DBLP:journals/tpds/VarshneyS19,
+  author    = {Prateeksha Varshney and
+               Yogesh Simmhan},
+  title     = {AutoBoT: Resilient and {Cost-Effective} Scheduling of a Bag of Tasks on Spot {VMs}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1512-1527},
+}
+
+@article{DBLP:journals/tpds/MaZLGB19,
+  author    = {Wenlong Ma and
+               Yuqing Zhu and
+               Cheng Li and
+               Mengying Guo and
+               Yungang Bao},
+  title     = {{BiloKey} : A Scalable {Bi-Index} {Locality-Aware} {In-Memory} {Key-Value} Store},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1528-1540},
+}
+
+@article{DBLP:journals/tpds/TanRT19,
+  author    = {Ming Ming Tan and
+               Runtian Ren and
+               Xueyan Tang},
+  title     = {Cloud Scheduling with Discrete Charging Units},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1541-1551},
+}
+
+@article{DBLP:journals/tpds/ShenLSG19,
+  author    = {Zhirong Shen and
+               Patrick P. C. Lee and
+               Jiwu Shu and
+               Wenzhong Guo},
+  title     = {{Correlation-Aware} Stripe Organization for Efficient Writes in {Erasure-Coded} Storage: Algorithms and Evaluation},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1552-1564},
+}
+
+@article{DBLP:journals/tpds/ZhangSSR19,
+  author    = {Tong Zhang and
+               Ran Shu and
+               Zhiguang Shan and
+               Fengyuan Ren},
+  title     = {Distributed {Bottleneck-Aware} Coflow Scheduling in Data Centers},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1565-1579},
+}
+
+@article{DBLP:journals/tpds/HaAU19,
+  author    = {Phuong Hoai Ha and
+               Otto J. Anshus and
+               Ibrahim Umar},
+  title     = {Efficient Concurrent Search Trees Using Portable {Fine-Grained} Locality},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1580-1595},
+}
+
+@article{DBLP:journals/tpds/PengYH19,
+  author    = {Yaqiong Peng and
+               Xiaochun Yun and
+               Zhiyu Hao},
+  title     = {Fast {Wait-Free} Construction for {Pool-Like} Objects with Weakened Internal Order: Stacks as an Example},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1596-1612},
+}
+
+@article{DBLP:journals/tpds/DaiCCJZR19,
+  author    = {Dong Dai and
+               Yong Chen and
+               Philip H. Carns and
+               John Jenkins and
+               Wei Zhang and
+               Robert B. Ross},
+  title     = {Managing Rich Metadata in {High-Performance} Computing Systems Using a Graph Model},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1613-1627},
+}
+
+@article{DBLP:journals/tpds/WeiLLWGL19,
+  author    = {Xiaohui Wei and
+               Lina Li and
+               Xiang Li and
+               Xingwang Wang and
+               Shang Gao and
+               Hongliang Li},
+  title     = {Pec: Proactive Elastic Collaborative Resource Scheduling in Data Stream Processing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1628-1642},
+}
+
+@article{DBLP:journals/tpds/HuaLYJ19,
+  author    = {Qiang-Sheng Hua and
+               Yangyang Li and
+               Dongxiao Yu and
+               Hai Jin},
+  title     = {{Quasi-Streaming} Graph Partitioning: A Game Theoretical Approach},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1643-1656},
+}
+
+@article{DBLP:journals/tpds/WuMSZCG19,
+  author    = {Yongwei Wu and
+               Teng Ma and
+               Maomeng Su and
+               Mingxing Zhang and
+               Kang Chen and
+               Zhenyu Guo},
+  title     = {RF-RPC: Remote Fetching {RPC} Paradigm for {RDMA-Enabled} Network},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1657-1671},
+}
+
+@article{DBLP:journals/tpds/LakhlefRT19,
+  author    = {Hicham Lakhlef and
+               Michel Raynal and
+               François Taïani},
+  title     = {Vertex Coloring with Communication Constraints in Synchronous Broadcast Networks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {7},
+  year      = 2019,
+  pages     = {1672-1686},
+}
+
+@article{DBLP:journals/tpds/Parashar19a,
+  author    = {Manish Parashar},
+  title     = {Editor's Note},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1687-1689},
+}
+
+@article{DBLP:journals/tpds/Parashar19b,
+  author    = {Manish Parashar},
+  title     = {Editor's Note: {IEEE} Transactions on Parallel and Distributed Systems (TPDS) Reproducibility Initiative, June 2019},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1690},
+}
+
+@article{DBLP:journals/tpds/VuT19,
+  author    = {Vinh-An Vu and
+               Gary Tan},
+  title     = {A Framework for Mesoscopic Traffic Simulation in {GPU}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1691-1703},
+}
+
+@article{DBLP:journals/tpds/SabarimuthuV19,
+  author    = {Jasmine Madonna Sabarimuthu and
+               T. G. Venkatesh},
+  title     = {Analytical Derivation of Concurrent Reuse Distance Profile for {Multi-Threaded} Application Running on Chip {Multi-Processor}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1704-1721},
+}
+
+@article{DBLP:journals/tpds/JiangAJSBC19,
+  author    = {Jiuchuan Jiang and
+               Bo An and
+               Yichuan Jiang and
+               Peng Shi and
+               Zhan Bu and
+               Jie Cao},
+  title     = {Batch Allocation for Tasks with Overlapping Skill Requirements in Crowdsourcing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1722-1737},
+}
+
+@article{DBLP:journals/tpds/ChenHHK19,
+  author    = {Chien-Hung Chen and
+               Ting-Yuan Hsia and
+               Yennun Huang and
+               Sy-Yen Kuo},
+  title     = {Data Prefetching and Eviction Mechanisms of {In-Memory} Storage Systems Based on Scheduling for Big Data Processing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1738-1752},
+}
+
+@article{DBLP:journals/tpds/NardelliCGP19,
+  author    = {Matteo Nardelli and
+               Valeria Cardellini and
+               Vincenzo Grassi and
+               Francesco Lo Presti},
+  title     = {Efficient Operator Placement for Distributed Data Stream Processing Applications},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1753-1767},
+}
+
+@article{DBLP:journals/tpds/ShudlerBCHSW19,
+  author    = {Sergei Shudler and
+               Yannick Berens and
+               Alexandru Calotoiu and
+               Torsten Hoefler and
+               Alexandre Strube and
+               Felix Wolf},
+  title     = {Engineering Algorithms for Scalability through Continuous Validation of Performance Expectations},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1768-1785},
+}
+
+@article{DBLP:journals/tpds/BasuWHCB19,
+  author    = {Debabrota Basu and
+               Xiayang Wang and
+               Yang Hong and
+               Haibo Chen and
+               Stéphane Bressan},
+  title     = {Learn-as-you-go with Megh: Efficient Live Migration of Virtual Machines},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1786-1801},
+}
+
+@article{DBLP:journals/tpds/HuZWZCX19,
+  author    = {Miao Hu and
+               Lei Zhuang and
+               Di Wu and
+               Yipeng Zhou and
+               Xu Chen and
+               Liang Xiao},
+  title     = {Learning Driven Computation Offloading for Asymmetrically Informed Edge Computing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1802-1815},
+}
+
+@article{DBLP:journals/tpds/LiuCZZZ19,
+  author    = {Zhuotao Liu and
+               Yuan Cao and
+               Xuewu Zhang and
+               Changping Zhu and
+               Fan Zhang},
+  title     = {Managing Recurrent Virtual Network Updates in {Multi-Tenant} Datacenters: A System Perspective},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1816-1825},
+}
+
+@article{DBLP:journals/tpds/WangMWW19,
+  author    = {Junbo Wang and
+               Michael Conrad Meyer and
+               Yilang Wu and
+               Yu Wang},
+  title     = {Maximum {Data-Resolution} Efficiency for {Fog-Computing} Supported Spatial Big Data Processing in Disaster Scenarios},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1826-1842},
+}
+
+@article{DBLP:journals/tpds/CameronACXLABJL19,
+  author    = {Kirk W. Cameron and
+               Ali Anwar and
+               Yue Cheng and
+               Li Xu and
+               Bo Li and
+               Uday Ananth and
+               Jon Bernard and
+               Chandler Jearls and
+               Thomas Lux and
+               Yili Hong and
+               Layne T. Watson and
+               Ali Raza Butt},
+  title     = {MOANA: Modeling and Analyzing I/O Variability in Parallel System Experimental Design},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1843-1856},
+}
+
+@article{DBLP:journals/tpds/TaoDLCC19,
+  author    = {Dingwen Tao and
+               Sheng Di and
+               Xin Liang and
+               Zizhong Chen and
+               Franck Cappello},
+  title     = {Optimizing Lossy Compression {Rate-Distortion} from Automatic Online Selection between {SZ} and {ZFP}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1857-1871},
+}
+
+@article{DBLP:journals/tpds/ZhouXGHZM19,
+  author    = {Amelie Chi Zhou and
+               Yao Xiao and
+               Yifan Gong and
+               Bingsheng He and
+               Jidong Zhai and
+               Rui Mao},
+  title     = {Privacy Regulation Aware Process Mapping in {Geo-Distributed} Cloud Data Centers},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1872-1888},
+}
+
+@article{DBLP:journals/tpds/GueunetFJT19,
+  author    = {Charles Gueunet and
+               Pierre Fortin and
+               Julien Jomier and
+               Julien Tierny},
+  title     = {{Task-Based} Augmented Contour Trees with Fibonacci Heaps},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1889-1905},
+}
+
+@article{DBLP:journals/tpds/KarniavouraM19,
+  author    = {Flora Karniavoura and
+               Kostas Magoutis},
+  title     = {{Decision-Making} Approaches for Performance {QoS} in Distributed Storage Systems: A Survey},
+  journal   = tpds,
+  volume    = {30},
+  number    = {8},
+  year      = 2019,
+  pages     = {1906-1919},
+}
+
+@article{DBLP:journals/tpds/MartinoEDMN19,
+  author    = {Beniamino Di Martino and
+               Antonio Esposito and
+               Salvatore D'Angelo and
+               Salvatore Augusto Maisto and
+               Stefania Nacchia},
+  title     = {A Compiler for Agnostic Programming and Deployment of Big Data Analytics on Multiple Platforms},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {1920-1931},
+}
+
+@article{DBLP:journals/tpds/TanBAJAV19,
+  author    = {Xubin Tan and
+               Jaume Bosch and
+               Carlos Álvarez and
+               Daniel Jiménez-González and
+               Eduard Ayguadé and
+               Mateo Valero},
+  title     = {A Hardware Runtime for {Task-Based} Programming Models},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {1932-1946},
+}
+
+@article{DBLP:journals/tpds/WuYZCM19,
+  author    = {Junhao Wu and
+               Xuan Yang and
+               Zhengrui Zhang and
+               Guoliang Chen and
+               Rui Mao},
+  title     = {A Performance Model for {GPU} Architectures that Considers {On-Chip} Resources: Application to Medical Image Registration},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {1947-1961},
+}
+
+@article{DBLP:journals/tpds/GaoGYLC19,
+  author    = {Yuanning Gao and
+               Xiaofeng Gao and
+               Xiaochun Yang and
+               Jiaxi Liu and
+               Guihai Chen},
+  title     = {An Efficient {Ring-Based} Metadata Management Policy for {Large-Scale} Distributed File Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {1962-1974},
+}
+
+@article{DBLP:journals/tpds/JiaoWNS19,
+  author    = {Yutao Jiao and
+               Ping Wang and
+               Dusit Niyato and
+               Kongrath Suankaewmanee},
+  title     = {Auction Mechanisms in Cloud/Fog Computing Resource Allocation for Public Blockchain Networks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {1975-1989},
+}
+
+@article{DBLP:journals/tpds/PanLG19,
+  author    = {Peitian Pan and
+               Chao Li and
+               Minyi Guo},
+  title     = {CongraPlus: Towards Efficient Processing of Concurrent Graph Queries on {NUMA} Machines},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {1990-2002},
+}
+
+@article{DBLP:journals/tpds/WangZSYLGWL19,
+  author    = {Zhiliang Wang and
+               Han Zhang and
+               Xingang Shi and
+               Xia Yin and
+               Yahui Li and
+               Haijun Geng and
+               Qianhong Wu and
+               Jianwei Liu},
+  title     = {Efficient Scheduling of Weighted Coflows in Data Centers},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2003-2017},
+}
+
+@article{DBLP:journals/tpds/DeveciDPTRC19,
+  author    = {Mehmet Deveci and
+               Karen D. Devine and
+               Kevin T. Pedretti and
+               Mark A. Taylor and
+               Sivasankaran Rajamanickam and
+               Ümit V. Çatalyürek},
+  title     = {Geometric Mapping of Tasks to Processors on Parallel Computers with Mesh or Torus Networks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2018-2032},
+}
+
+@article{DBLP:journals/tpds/ZhouSWHHLLLY19,
+  author    = {Ke Zhou and
+               Si Sun and
+               Hua Wang and
+               Ping Huang and
+               Xubin He and
+               Rui Lan and
+               Wenyan Li and
+               Wenjie Liu and
+               Tianming Yang},
+  title     = {Improving Cache Performance for {Large-Scale} Photo Stores via Heuristic Prefetching Scheme},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2033-2045},
+}
+
+@article{DBLP:journals/tpds/WangHNZWXY19,
+  author    = {Shaowei Wang and
+               Liusheng Huang and
+               Yiwen Nie and
+               Xinyuan Zhang and
+               Pengzhan Wang and
+               Hongli Xu and
+               Wei Yang},
+  title     = {Local Differential Private Data Aggregation for Discrete Distribution Estimation},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2046-2059},
+}
+
+@article{DBLP:journals/tpds/Traff19,
+  author    = {Jesper Larsson Träff},
+  title     = {On Optimal Trees for Irregular Gather and Scatter Collectives},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2060-2074},
+}
+
+@article{DBLP:journals/tpds/LettichLNOPTV19,
+  author    = {Francesco Lettich and
+               Claudio Lucchese and
+               Franco Maria Nardini and
+               Salvatore Orlando and
+               Raffaele Perego and
+               Nicola Tonellotto and
+               Rossano Venturini},
+  title     = {Parallel Traversal of Large Ensembles of Decision Trees},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2075-2089},
+}
+
+@article{DBLP:journals/tpds/JiSLD19,
+  author    = {Shihao Ji and
+               Nadathur Satish and
+               Sheng Li and
+               Pradeep Dubey},
+  title     = {Parallelizing Word2Vec in Shared and Distributed Memory},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2090-2100},
+}
+
+@article{DBLP:journals/tpds/BaoWBRS19,
+  author    = {Liang Bao and
+               Chase Q. Wu and
+               Xiaoxuan Bu and
+               Nana Ren and
+               Mengqing Shen},
+  title     = {Performance Modeling and Workflow Scheduling of {Microservice-Based} Applications in Clouds},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2101-2116},
+}
+
+@article{DBLP:journals/tpds/WuMJLZ19,
+  author    = {Suzhen Wu and
+               Bo Mao and
+               Hong Jiang and
+               Huagao Luan and
+               Jindong Zhou},
+  title     = {PFP: Improving the Reliability of Deduplication-based Storage Systems with {Per-File} Parity},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2117-2129},
+}
+
+@article{DBLP:journals/tpds/SouravRG19,
+  author    = {Suman Sourav and
+               Peter Robinson and
+               Seth Gilbert},
+  title     = {Slow Links, Fast Links, and the Cost of Gossip},
+  journal   = tpds,
+  volume    = {30},
+  number    = {9},
+  year      = 2019,
+  pages     = {2130-2147},
+}
+
+@article{DBLP:journals/tpds/MaLCHGWZ19,
+  author    = {Sheng Ma and
+               Zhong Liu and
+               Shenggang Chen and
+               Libo Huang and
+               Yang Guo and
+               Zhiying Wang and
+               Meidi Zhang},
+  title     = {Coordinated DMA: Improving the {DRAM} Access Efficiency for Matrix Multiplication},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2148-2164},
+}
+
+@article{DBLP:journals/tpds/LiaoH0019,
+  author    = {Xiaofei Liao and
+               Yu Huang and
+               Long Zheng and
+               Hai Jin},
+  title     = {Efficient {Time-Evolving} Stream Processing at Scale},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2165-2178},
+}
+
+@article{DBLP:journals/tpds/PeiHXL19,
+  author    = {Jianing Pei and
+               Peilin Hong and
+               Kaiping Xue and
+               Defang Li},
+  title     = {Efficiently Embedding Service Function Chains with Dynamic Virtual Network Function Placement in {Geo-Distributed} Cloud System},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2179-2192},
+}
+
+@article{DBLP:journals/tpds/AbdiGZ19,
+  author    = {Athena Abdi and
+               Alain Girault and
+               Hamid R. Zarandi},
+  title     = {ERPOT: A {Quad-Criteria} Scheduling Heuristic to Optimize Execution Time, Reliability, Power Consumption and Temperature in Multicores},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2193-2210},
+}
+
+@article{DBLP:journals/tpds/HajihassaniMKG19,
+  author    = {Omid Hajihassani and
+               Saleh Khalaj Monfared and
+               Seyed Hossein Khasteh and
+               Saeid Gorgin},
+  title     = {Fast {AES} Implementation: A {High-Throughput} Bitsliced Approach},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2211-2222},
+}
+
+@article{DBLP:journals/tpds/LiuYPL19,
+  author    = {Lei Liu and
+               Shengjie Yang and
+               Lu Peng and
+               Xinyu Li},
+  title     = {Hierarchical Hybrid Memory Management in {OS} for Tiered Memory Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2223-2236},
+}
+
+@article{DBLP:journals/tpds/OhPJSK19,
+  author    = {Sejoon Oh and
+               Namyong Park and
+               Jun-Gi Jang and
+               Lee Sael and
+               U Kang},
+  title     = {{High-Performance} Tucker Factorization on Heterogeneous Platforms},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2237-2248},
+}
+
+@article{DBLP:journals/tpds/ZhouKPSW19,
+  author    = {Shijie Zhou and
+               Rajgopal Kannan and
+               Viktor K. Prasanna and
+               Guna Seetharaman and
+               Qing Wu},
+  title     = {HitGraph: High-throughput Graph Processing Framework on {FPGA}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2249-2264},
+}
+
+@article{DBLP:journals/tpds/Ozdal19,
+  author    = {Muhammet Mustafa Ozdal},
+  title     = {Improving Efficiency of Parallel {Vertex-Centric} Algorithms for Irregular Graphs},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2265-2282},
+}
+
+@article{DBLP:journals/tpds/HeJGG19,
+  author    = {Qingqiang He and
+               Xu Jiang and
+               Nan Guan and
+               Zhishan Guo},
+  title     = {{Intra-Task} Priority Assignment in {Real-Time} Scheduling of {DAG} Tasks on {Multi-Cores}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2283-2295},
+}
+
+@article{DBLP:journals/tpds/SilvaJAL19,
+  author    = {Matheus Leônidas Silva and
+               Lincoln N. Santos Júnior and
+               André L. L. de Aquino and
+               Joubert de Castro Lima},
+  title     = {JSensor: A Parallel Simulator for Huge Wireless Sensor Networks Applications},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2296-2308},
+}
+
+@article{DBLP:journals/tpds/NikitopoulosGJC19,
+  author    = {Konstantinos Nikitopoulos and
+               Georgios Georgis and
+               Chathura Jayawardena and
+               Daniil Chatzipanagiotis and
+               Rahim Tafazolli},
+  title     = {Massively Parallel Tree Search for {High-Dimensional} Sphere Decoders},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2309-2325},
+}
+
+@article{DBLP:journals/tpds/Marangozova-Martin19,
+  author    = {Vania Marangozova-Martin and
+               Noël De Palma and
+               Ahmed El-Rheddane},
+  title     = {{Multi-Level} Elasticity for Data Stream Processing},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2326-2337},
+}
+
+@article{DBLP:journals/tpds/SafariAEH19,
+  author    = {Sepideh Safari and
+               Mohsen Ansari and
+               Ghazal Ershadi and
+               Shaahin Hessabi},
+  title     = {On the Scheduling of {Energy-Aware} {Fault-Tolerant} {Mixed-Criticality} Multicore Systems with Service Guarantee Exploration},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2338-2354},
+}
+
+@article{DBLP:journals/tpds/LiuSN19,
+  author    = {Jinwei Liu and
+               Haiying Shen and
+               Husnu S. Narman},
+  title     = {{Popularity-Aware} {Multi-Failure} Resilient and {Cost-Effective} Replication for High Data Durability in Cloud Storage},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2355-2369},
+}
+
+@article{DBLP:journals/tpds/GaoSHZCT19,
+  author    = {Xiaofeng Gao and
+               Ailun Song and
+               Luoyao Hao and
+               Junni Zou and
+               Guihai Chen and
+               Shaojie Tang},
+  title     = {Towards Efficient {Multi-Channel} Data Broadcast for Multimedia Streams},
+  journal   = tpds,
+  volume    = {30},
+  number    = {10},
+  year      = 2019,
+  pages     = {2370-2383},
+}
+
+@article{DBLP:journals/tpds/LiangGZWTL19,
+  author    = {Yu Liang and
+               Jidong Ge and
+               Sheng Zhang and
+               Jie Wu and
+               Ze Tang and
+               Bin Luo},
+  title     = {A {Utility-Based} Optimization Framework for Edge Service Entity Caching},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2384-2395},
+}
+
+@article{DBLP:journals/tpds/AlvanosC19,
+  author    = {Michail Alvanos and
+               Theodoros Christoudias},
+  title     = {Accelerating Atmospheric Chemical Kinetics for Climate Simulations},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2396-2407},
+}
+
+@article{DBLP:journals/tpds/Wang19,
+  author    = {Lei Wang},
+  title     = {{Architecture-Based} {Reliability-Sensitive} Criticality Measure for {Fault-Tolerance} Cloud Applications},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2408-2421},
+}
+
+@article{DBLP:journals/tpds/AnselmiD19,
+  author    = {Jonatha Anselmi and
+               Josu Doncel},
+  title     = {Asymptotically Optimal {Size-Interval} Task Assignments},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2422-2433},
+}
+
+@article{DBLP:journals/tpds/Konstantopoulos19,
+  author    = {Michalis Konstantopoulos and
+               Panos Diamantopoulos and
+               Nikos Chondros and
+               Mema Roussopoulos},
+  title     = {Distributed Personal Cloud Storage without Third Parties},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2434-2448},
+}
+
+@article{DBLP:journals/tpds/YouZHDK19,
+  author    = {Yang You and
+               Zhao Zhang and
+               Cho-Jui Hsieh and
+               James Demmel and
+               Kurt Keutzer},
+  title     = {Fast Deep Neural Network Training on Distributed Systems and Cloud {TPUs}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2449-2462},
+}
+
+@article{DBLP:journals/tpds/YuanLCWYWM19,
+  author    = {Ye Yuan and
+               Xiang Lian and
+               Lei Chen and
+               Guoren Wang and
+               Jeffrey Xu Yu and
+               Yishu Wang and
+               Yuliang Ma},
+  title     = {GCache: {Neighborhood-Guided} Graph Caching in a Distributed Environment},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2463-2477},
+}
+
+@article{DBLP:journals/tpds/LiuS19,
+  author    = {Yuhang Liu and
+               Xian-He Sun},
+  title     = {LPM: A Systematic Methodology for Concurrent Data Access Pattern Optimization from a Matching Perspective},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2478-2493},
+}
+
+@article{DBLP:journals/tpds/GuerreiroIRT19,
+  author    = {João Guerreiro and
+               Aleksandar Ilic and
+               Nuno Roma and
+               Pedro Tomás},
+  title     = {Modeling and Decoupling the {GPU} Power Consumption for {Cross-Domain} {DVFS}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2494-2506},
+}
+
+@article{DBLP:journals/tpds/CoolsCV19,
+  author    = {Siegfried Cools and
+               Jeffrey Cornelis and
+               Wim Vanroose},
+  title     = {Numerically Stable Recurrence Relations for the Communication Hiding Pipelined Conjugate Gradient Method},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2507-2522},
+}
+
+@article{DBLP:journals/tpds/PascualR19,
+  author    = {Fanny Pascual and
+               Krzysztof Rzadca},
+  title     = {Optimizing Egalitarian Performance when Colocating Tasks with Types for Cloud Data Center Resource Management},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2523-2535},
+}
+
+@article{DBLP:journals/tpds/ChenFLL19,
+  author    = {Li Chen and
+               Yuan Feng and
+               Baochun Li and
+               Bo Li},
+  title     = {Promenade: Proportionally Fair Multipath Rate Control in Datacenter Networks with Random Network Coding},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2536-2546},
+}
+
+@article{DBLP:journals/tpds/DobreKLMSV19,
+  author    = {Dan Dobre and
+               Ghassan O. Karame and
+               Wenting Li and
+               Matthias Majuntke and
+               Neeraj Suri and
+               Marko Vukolic},
+  title     = {Proofs of Writing for Robust Storage},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2547-2566},
+}
+
+@article{DBLP:journals/tpds/HanGSHDL19,
+  author    = {Meiling Han and
+               Nan Guan and
+               Jinghao Sun and
+               Qingqiang He and
+               Qingxu Deng and
+               Weichen Liu},
+  title     = {Response Time Bounds for Typed {DAG} Parallel Tasks on Heterogeneous {Multi-Cores}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2567-2581},
+}
+
+@article{DBLP:journals/tpds/CharapkoADK19,
+  author    = {Aleksey Charapko and
+               Ailidani Ailijiang and
+               Murat Demirbas and
+               Sandeep S. Kulkarni},
+  title     = {Retroscope: Retrospective Monitoring of Distributed Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2582-2594},
+}
+
+@article{DBLP:journals/tpds/YaoTWHZXH19,
+  author    = {Ting Yao and
+               Zhi-hu Tan and
+               Jiguang Wan and
+               Ping Huang and
+               Yiwen Zhang and
+               Changsheng Xie and
+               Xubin He},
+  title     = {SEALDB: An Efficient {LSM-tree} Based {KV} Store on {SMR} Drives with Sets and Dynamic Bands},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2595-2607},
+}
+
+@article{DBLP:journals/tpds/GilFPRPSA19,
+  author    = {J. Rubén Titos Gil and
+               Antonio Flores and
+               Ricardo Fernández Pascual and
+               Alberto Ros and
+               Salvador Petit and
+               Julio Sahuquillo and
+               Manuel E. Acacio},
+  title     = {Way Combination for an Adaptive and Scalable Coherence Directory},
+  journal   = tpds,
+  volume    = {30},
+  number    = {11},
+  year      = 2019,
+  pages     = {2608-2623},
+}
+
+@article{DBLP:journals/tpds/MaroulisZK19,
+  author    = {Stathis Maroulis and
+               Nikos Zacheilas and
+               Vana Kalogeraki},
+  title     = {A Holistic {Energy-Efficient} {Real-Time} Scheduler for Mixed Stream and Batch Processing Workloads},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2624-2635},
+}
+
+@article{DBLP:journals/tpds/ZhuLYL19,
+  author    = {Zhaowei Zhu and
+               Ting Liu and
+               Yang Yang and
+               Xiliang Luo},
+  title     = {BLOT: Bandit {Learning-Based} Offloading of Tasks in {Fog-Enabled} Networks},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2636-2649},
+}
+
+@article{DBLP:journals/tpds/YangGSWSL19,
+  author    = {Tong Yang and
+               Siang Gao and
+               Zhouyi Sun and
+               Yufei Wang and
+               Yulong Shen and
+               Xiaoming Li},
+  title     = {Diamond Sketch: Accurate Per-flow Measurement for Big Streaming Data},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2650-2662},
+}
+
+@article{DBLP:journals/tpds/ZhuWTGYH19,
+  author    = {Guanghui Zhu and
+               Qian Wang and
+               Qiwei Tang and
+               Rong Gu and
+               Chunfeng Yuan and
+               Yihua Huang},
+  title     = {Efficient and Scalable Functional Dependency Discovery on Distributed {Data-Parallel} Platforms},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2663-2676},
+}
+
+@article{DBLP:journals/tpds/XiaXLYGZ19,
+  author    = {Qiufen Xia and
+               Zichuan Xu and
+               Weifa Liang and
+               Shui Yu and
+               Song Guo and
+               Albert Y. Zomaya},
+  title     = {Efficient Data Placement and Replication for {QoS-Aware} Approximate Query Evaluation of Big Data Analytics},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2677-2691},
+}
+
+@article{DBLP:journals/tpds/ChenLLSLX19,
+  author    = {Youxu Chen and
+               Cheng Li and
+               Min Lv and
+               Xinyang Shao and
+               Yongkun Li and
+               Yinlong Xu},
+  title     = {Explicit Data {Correlations-Directed} Metadata Prefetching Method in Distributed File Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2692-2705},
+}
+
+@article{DBLP:journals/tpds/WenSHCRL19,
+  author    = {Zeyi Wen and
+               Jiashuai Shi and
+               Bingsheng He and
+               Jian Chen and
+               Kotagiri Ramamohanarao and
+               Qinbin Li},
+  title     = {Exploiting {GPUs} for Efficient Gradient Boosting Decision Tree Training},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2706-2717},
+}
+
+@article{DBLP:journals/tpds/PradesS19,
+  author    = {Javier Prades and
+               Federico Silla},
+  title     = {{GPU-Job} Migration: The {rCUDA} Case},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2718-2729},
+}
+
+@article{DBLP:journals/tpds/LuoGXL19,
+  author    = {Lailong Luo and
+               Deke Guo and
+               Jia Xu and
+               Xueshan Luo},
+  title     = {Graph Filter: Enabling Efficient Topology Calibration},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2730-2742},
+}
+
+@article{DBLP:journals/tpds/LiZYHT19,
+  author    = {Da Li and
+               Zhang Zhang and
+               Kai Yu and
+               Kaiqi Huang and
+               Tieniu Tan},
+  title     = {ISEE: An Intelligent Scene Exploration and Evaluation Platform for {Large-Scale} Visual Surveillance},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2743-2758},
+}
+
+@article{DBLP:journals/tpds/HongCHGZ19,
+  author    = {Zicong Hong and
+               Wuhui Chen and
+               Huawei Huang and
+               Song Guo and
+               Zibin Zheng},
+  title     = {{Multi-Hop} Cooperative Computation Offloading for Industrial {IoT-Edge-Cloud} Computing Environments},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2759-2774},
+}
+
+@article{DBLP:journals/tpds/LiWSM19,
+  author    = {Bing Li and
+               Xiaohang Wang and
+               Amit Kumar Singh and
+               Terrence S. T. Mak},
+  title     = {On Runtime Communication and {Thermal-Aware} Application Mapping and Defragmentation in 3D {NoC} Systems},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2775-2789},
+}
+
+@article{DBLP:journals/tpds/XuYFLGSXYJH19,
+  author    = {Jingheng Xu and
+               Guangwen Yang and
+               Haohuan Fu and
+               Wayne Luk and
+               Lin Gan and
+               Wen Shi and
+               Wei Xue and
+               Chao Yang and
+               Yong Jiang and
+               Conghui He},
+  title     = {Optimizing Finite Volume Method Solvers on Nvidia {GPUs}},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2790-2805},
+}
+
+@article{DBLP:journals/tpds/HanWGMY19,
+  author    = {Jian-Jun Han and
+               Zhenjiang Wang and
+               Sunlu Gong and
+               Tianpeng Miao and
+               Laurence T. Yang},
+  title     = {{Resource-Aware} Scheduling for Dependable Multicore {Real-Time} Systems: Utilization Bound and Partitioning Algorithm},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2806-2819},
+}
+
+@article{DBLP:journals/tpds/LiTCTLW19,
+  author    = {Yusen Li and
+               Xueyan Tang and
+               Wentong Cai and
+               Jiancong Tong and
+               Xiaoguang Liu and
+               Gang Wang},
+  title     = {{Resource-Efficient} Index Shard Replication in Large Scale Search Engines},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2820-2835},
+}
+
+@article{DBLP:journals/tpds/ZhangHL19,
+  author    = {Mi Zhang and
+               Shujie Han and
+               Patrick P. C. Lee},
+  title     = {SimEDC: A Simulator for the Reliability Analysis of {Erasure-Coded} Data Centers},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2836-2848},
+}
+
+@article{DBLP:journals/tpds/ChenZXRFMZ19,
+  author    = {Hao Chen and
+               Xu Zhang and
+               Yiling Xu and
+               Ju Ren and
+               Jingtao Fan and
+               Zhan Ma and
+               Wenjun Zhang},
+  title     = {T-Gaming: A {Cost-Efficient} Cloud Gaming System at Scale},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2849-2865},
+}
+
+@article{DBLP:journals/tpds/BouksiaaTLVDGBT19,
+  author    = {Mohamed Said Mosli Bouksiaa and
+               François Trahay and
+               Alexis Lescouet and
+               Gauthier Voron and
+               Rémi Dulong and
+               Amina Guermouche and
+               Elisabeth Brunet and
+               Gaël Thomas},
+  title     = {Using Differential Execution Analysis to Identify Thread Interference},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2866-2878},
+}
+
+@article{DBLP:journals/tpds/HanLZCLWZ19,
+  author    = {Rui Han and
+               Chi Harold Liu and
+               Zan Zong and
+               Lydia Y. Chen and
+               Wending Liu and
+               Siyi Wang and
+               Jianfeng Zhan},
+  title     = {{Workload-Adaptive} Configuration Tuning for Hierarchical Cloud Schedulers},
+  journal   = tpds,
+  volume    = {30},
+  number    = {12},
+  year      = 2019,
+  pages     = {2879-2895},
 }
 
 @article{DBLP:journals/tpds/Parashar18,
@@ -880,7 +4840,7 @@
 }
 
 @article{DBLP:journals/tpds/JamourSK18,
-  author    = {Fuad Jamour and
+  author    = {Fuad T. Jamour and
                Spiros Skiadopoulos and
                Panos Kalnis},
   title     = {Parallel Algorithm for Incremental Betweenness Centrality on Large Graphs},
@@ -1322,7 +5282,7 @@
                Partha Sarathi Roy and
                Kouichi Sakurai and
                Aruna Seneviratne and
-               Sanjay Jha},
+               Sanjay K. Jha},
   title     = {Light Weight Write Mechanism for Cloud Data},
   journal   = tpds,
   volume    = {29},
@@ -2465,7 +6425,7 @@
 }
 
 @article{DBLP:journals/tpds/LiQWWXZX18,
-  author    = {Da-ping Li and
+  author    = {Daping Li and
                Xiaoyang Qu and
                Jiguang Wan and
                Jun Wang and
@@ -4386,7 +8346,7 @@
   author    = {Salma Hesham and
                Jens Rettkowski and
                Diana Goehringer and
-               Mohamed A. Abd El-Ghany},
+               Mohamed A. Abd El Ghany},
   title     = {Survey on {Real-Time} {Networks-on-Chip}},
   journal   = tpds,
   volume    = {28},
@@ -5309,7 +9269,7 @@
 
 @article{DBLP:journals/tpds/NogueiraCB17,
   author    = {André Nogueira and
-               Antonio Casimiro and
+               António Casimiro and
                Alysson Bessani},
   title     = {Elastic State Machine Replication},
   journal   = tpds,
@@ -7232,7 +11192,7 @@
 
 @article{DBLP:journals/tpds/GrossmanBS16,
   author    = {Max Grossman and
-               Mauricio Breternitz Jr. and
+               Maurício Breternitz Jr. and
                Vivek Sarkar},
   title     = {HadoopCL2: Motivating the Design of a Distributed, Heterogeneous Programming System With {Machine-Learning} Applications},
   journal   = tpds,
@@ -9069,7 +13029,7 @@
 @article{DBLP:journals/tpds/DienerCANBH16,
   author    = {Matthias Diener and
                Eduardo H. M. Cruz and
-               Marco Antonio Zanata Alves and
+               Marco A. Z. Alves and
                Philippe O. A. Navaux and
                Anselm Busse and
                Hans-Ulrich Heiss},
@@ -10368,6 +14328,17 @@
   pages     = {329-339},
 }
 
+@article{DBLP:journals/tpds/AllahbakhshI15,
+  author    = {Mohammad Allahbakhsh and
+               Aleksandar Ignjatovic},
+  title     = {An Iterative Method for Calculating Robust Rating Scores},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {340-350},
+}
+
 @article{DBLP:journals/tpds/XiangYTCL15,
   author    = {Chaocan Xiang and
                Panlong Yang and
@@ -10464,6 +14435,21 @@
   pages     = {413-422},
 }
 
+@article{DBLP:journals/tpds/ChenHDZXY15,
+  author    = {Jing Chen and
+               Kun He and
+               Ruiying Du and
+               Minghui Zheng and
+               Yang Xiang and
+               Quan Yuan},
+  title     = {Dominating Set and Network {Coding-Based} Routing in Wireless Mesh Networks},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {423-433},
+}
+
 @article{DBLP:journals/tpds/ZhangZ15,
   author    = {Shurong Zhang and
                Xianwen Zhang},
@@ -10488,6 +14474,43 @@
   number    = {2},
   year      = 2015,
   pages     = {444-454},
+}
+
+@article{DBLP:journals/tpds/DouZLC15,
+  author    = {Wanchun Dou and
+               Xuyun Zhang and
+               Jianxun Liu and
+               Jinjun Chen},
+  title     = {HireSome-II: Towards {Privacy-Aware} {Cross-Cloud} Service Composition for Big Data Applications},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {455-466},
+}
+
+@article{DBLP:journals/tpds/ChinC15,
+  author    = {Tai-Lin Chin and
+               Wan-Chen Chuang},
+  title     = {Latency of Collaborative Target Detection for Surveillance Sensor Networks},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {467-477},
+}
+
+@article{DBLP:journals/tpds/ZhangRTL15,
+  author    = {Jiao Zhang and
+               Fengyuan Ren and
+               Li Tang and
+               Chuang Lin},
+  title     = {Modeling and Solving {TCP} Incast Problem in Data Center Networks},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {478-491},
 }
 
 @article{DBLP:journals/tpds/ShpinerKLCK15,
@@ -10555,6 +14578,32 @@
   number    = {2},
   year      = 2015,
   pages     = {538-550},
+}
+
+@article{DBLP:journals/tpds/AhmedWZ15,
+  author    = {Waseem Ahmed and
+               Yongwei Wu and
+               Weimin Zheng},
+  title     = {Response Time Based Optimal Web Service Selection},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {551-561},
+}
+
+@article{DBLP:journals/tpds/ZonouzBKSY15,
+  author    = {Saman A. Zonouz and
+               Robin Berthier and
+               Himanshu Khurana and
+               William H. Sanders and
+               Tim Yardley},
+  title     = {Seclius: An Information Flow-Based, {Consequence-Centric} Security Metric},
+  journal   = tpds,
+  volume    = {26},
+  number    = {2},
+  year      = 2015,
+  pages     = {562-573},
 }
 
 @article{DBLP:journals/tpds/XieHG15,
@@ -12895,7 +16944,7 @@
                José Manuel Moya and
                Kalyan Vaidyanathan and
                Kenny C. Gross and
-               Ayse Kivilcim Coskun},
+               Ayse K. Coskun},
   title     = {{Leakage-Aware} Cooling Management for Improving Server Energy Efficiency},
   journal   = tpds,
   volume    = {26},
@@ -18248,7 +22297,7 @@
 }
 
 @article{DBLP:journals/tpds/DuWYLLX13,
-  author    = {David Hongwei Du and
+  author    = {Hongwei Du and
                Weili Wu and
                Qiang Ye and
                Deying Li and
@@ -21736,7 +25785,7 @@
 }
 
 @article{DBLP:journals/tpds/RasheedM12,
-  author    = {Amar Rasheed and
+  author    = {Amar A. Rasheed and
                Rabi N. Mahapatra},
   title     = {The {Three-Tier} Security Scheme in Wireless Sensor Networks with Mobile Sinks},
   journal   = tpds,
@@ -23452,7 +27501,7 @@
 }
 
 @article{DBLP:journals/tpds/RasheedM11,
-  author    = {Amar Rasheed and
+  author    = {Amar A. Rasheed and
                Rabi N. Mahapatra},
   title     = {Key Predistribution Schemes for Establishing Pairwise Keys with a Mobile Sink in Sensor Networks},
   journal   = tpds,
@@ -31620,7 +35669,7 @@
 
 @article{DBLP:journals/tpds/ChaudhuriH07,
   author    = {Mainak Chaudhuri and
-               Mark Heinrich},
+               Mark A. Heinrich},
   title     = {Integrated Memory Controllers with Parallel Coherence Streams},
   journal   = tpds,
   volume    = {18},
@@ -31997,7 +36046,7 @@
 }
 
 @article{DBLP:journals/tpds/ZhuZMN07,
-  author    = {Feng W. Zhu and
+  author    = {Feng Zhu and
                Wei Zhu and
                Matt W. Mutka and
                Lionel M. Ni},
@@ -33407,7 +37456,7 @@
 
 @article{DBLP:journals/tpds/HsuCYL06,
   author    = {Ching-Hsien Hsu and
-               Ming-Hao Chen and
+               Minghao Chen and
                Chao-Tung Yang and
                Kuan-Ching Li},
   title     = {Optimizing Communications of Dynamic Data Redistribution on Symmetrical Matrices in Parallelizing Compilers},
@@ -34457,7 +38506,7 @@
 
 @article{DBLP:journals/tpds/CantoMD05,
   author    = {Sebastián Dormido-Canto and
-               Angel P. de Madrid and
+               Angel Pérez de Madrid and
                Sebastián Dormido-Bencomo},
   title     = {Parallel Dynamic Programming on Clusters of Workstations},
   journal   = tpds,
@@ -34997,7 +39046,7 @@
 
 @article{DBLP:journals/tpds/ChaudhuriH04,
   author    = {Mainak Chaudhuri and
-               Mark Heinrich},
+               Mark A. Heinrich},
   title     = {The Impact of Negative Acknowledgments in Shared Memory Scientific Applications},
   journal   = tpds,
   volume    = {15},
@@ -35535,7 +39584,7 @@
 
 @article{DBLP:journals/tpds/ChaudhuriH04a,
   author    = {Mainak Chaudhuri and
-               Mark Heinrich},
+               Mark A. Heinrich},
   title     = {Exploring Virtual Network Selection Algorithms in {DSM} Cache Coherence Protocols},
   journal   = tpds,
   volume    = {15},
@@ -36876,7 +40925,7 @@
 @article{DBLP:journals/tpds/JimenezLF03,
   author    = {Marta Jiménez and
                José M. Llabería and
-               Agustin Fernández},
+               Agustín Fernández},
   title     = {A {Cost-Effective} Implementation of Multilevel Tiling},
   journal   = tpds,
   volume    = {14},
@@ -37876,7 +41925,7 @@
 }
 
 @article{DBLP:journals/tpds/NocettiSZ02,
-  author    = {Fabian Garcia Nocetti and
+  author    = {Fabián García Nocetti and
                Ivan Stojmenovic and
                Jingyuan Zhang},
   title     = {Addressing and Routing in Hexagonal Networks with Applications for Tracking Mobile Users and Connection Rerouting in Cellular Networks},
@@ -42122,7 +46171,7 @@
 
 @article{DBLP:journals/tpds/DasC98,
   author    = {Sipra Das Bit and
-               A. Chaudhuri},
+               Arnab Chaudhuri},
   title     = {Fault Diagnosis in a Benes Interconnection Network},
   journal   = tpds,
   volume    = {9},
@@ -46175,7 +50224,7 @@
 }
 
 @article{DBLP:journals/tpds/FernandezLV95,
-  author    = {Agustin Fernández and
+  author    = {Agustín Fernández and
                José M. Llabería and
                Miguel Valero-García},
   title     = {Loop Transformation Using Nonunimodular Matrices},

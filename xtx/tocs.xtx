@@ -1,5 +1,148 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/GuerraouiGLQT19,
+  author    = {Rachid Guerraoui and
+               Hugo Guiroux and
+               Renaud Lachaize and
+               Vivien Quéma and
+               Vasileios Trigonakis},
+  title     = {Lock-Unlock: Is That All? A Pragmatic Analysis of Locking in Software Systems},
+  journal   = tocs,
+  volume    = {36},
+  number    = {1},
+  year      = 2019,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/ZhaoHDHMZLLZM19,
+  author    = {Boyan Zhao and
+               Rui Hou and
+               Jianbo Dong and
+               Michael C. Huang and
+               Sally A. McKee and
+               Qianlong Zhang and
+               Yueji Liu and
+               Ye Li and
+               Lixin Zhang and
+               Dan Meng},
+  title     = {Venice: An Effective Resource Sharing Architecture for Data Center Servers},
+  journal   = tocs,
+  volume    = {36},
+  number    = {1},
+  year      = 2019,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/ShiKZJLZHHW19,
+  author    = {Xuanhua Shi and
+               Zhixiang Ke and
+               Yongluan Zhou and
+               Hai Jin and
+               Lu Lu and
+               Xiong Zhang and
+               Ligang He and
+               Zhenyu Hu and
+               Fei Wang},
+  title     = {Deca: A Garbage Collection Optimizer for {In-Memory} Data Processing},
+  journal   = tocs,
+  volume    = {36},
+  number    = {1},
+  year      = 2019,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/JhaBGMSTRZB19,
+  author    = {Sagar Jha and
+               Jonathan Behrens and
+               Theo Gkountouvas and
+               Matthew Milano and
+               Weijia Song and
+               Edward Tremel and
+               Robbert van Renesse and
+               Sydney Zink and
+               Kenneth P. Birman},
+  title     = {Derecho: Fast State Machine Replication for Cloud Services},
+  journal   = tocs,
+  volume    = {36},
+  number    = {2},
+  year      = 2019,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/BergmanBCS19,
+  author    = {Shai Bergman and
+               Tanya Brokhman and
+               Tzachi Cohen and
+               Mark Silberstein},
+  title     = {SPIN: Seamless Operating System Integration of {Peer-to-Peer} {DMA} Between {SSDs} and {GPUs}},
+  journal   = tocs,
+  volume    = {36},
+  number    = {2},
+  year      = 2019,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tocs/NovakovicDUBFG19,
+  author    = {Stanko Novakovic and
+               Alexandros Daglis and
+               Dmitrii Ustiugov and
+               Edouard Bugnion and
+               Babak Falsafi and
+               Boris Grot},
+  title     = {Mitigating Load Imbalance in Distributed Data Serving with {Rack-Scale} Memory Pooling},
+  journal   = tocs,
+  volume    = {36},
+  number    = {2},
+  year      = 2019,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tocs/IturbeVOPGZ19,
+  author    = {Xabier Iturbe and
+               Balaji Venu and
+               Emre Ozer and
+               Jean-Luc Poupat and
+               Gregoire Gimenez and
+               Hans-Ulrich Zurek},
+  title     = {The Arm Triple Core {Lock-Step} (TCLS) Processor},
+  journal   = tocs,
+  volume    = {36},
+  number    = {3},
+  year      = 2019,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tocs/AinsworthJ19,
+  author    = {Sam Ainsworth and
+               Timothy M. Jones},
+  title     = {Software Prefetching for Indirect Memory Accesses: A Microarchitectural Perspective},
+  journal   = tocs,
+  volume    = {36},
+  number    = {3},
+  year      = 2019,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tocs/ChenLDLTHLGLXC19,
+  author    = {Yunji Chen and
+               Huiying Lan and
+               Zidong Du and
+               Shaoli Liu and
+               Jinhua Tao and
+               Dong Han and
+               Tao Luo and
+               Qi Guo and
+               Ling Li and
+               Yuan Xie and
+               Tianshi Chen},
+  title     = {An Instruction Set Architecture for Machine Learning},
+  journal   = tocs,
+  volume    = {36},
+  number    = {3},
+  year      = 2019,
+  pages     = {9-1},
+}
+
 @article{DBLP:journals/tocs/MaceRF18,
   author    = {Jonathan Mace and
                Ryan Roelke and
@@ -1168,7 +1311,7 @@
                Michael Brudno and
                Eyal de Lara and
                Stephen M. Rumble and
-               M. Satyanarayanan and
+               Mahadev Satyanarayanan and
                Adin Scannell},
   title     = {SnowFlock: Virtual Machine Cloning as a {First-Class} Cloud Primitive},
   journal   = tocs,
@@ -3626,7 +3769,7 @@
 }
 
 @article{DBLP:journals/tocs/MannBHJS94,
-  author    = {Timothy Mann and
+  author    = {Timothy P. Mann and
                Andrew Birrell and
                Andy Hisgen and
                Charles Jerian and
@@ -5598,7 +5741,7 @@
   author    = {Tsutomu Hoshino and
                Toshio Kawai and
                Tomonori Shirakawa and
-               Junichi Higashino and
+               Jun'ichi Higashino and
                Akira Yamaoka and
                Hachidai Ito and
                Takashi Sato and

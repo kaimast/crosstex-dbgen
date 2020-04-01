@@ -1,5 +1,629 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/KaliaKA19,
+  author    = {Anuj Kalia and
+               Michael Kaminsky and
+               David Andersen},
+  title     = {Datacenter {RPCs} can be General and Fast},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/nsdi/0001ZDZAHV19,
+  author    = {Ahmed Saeed and
+               Yimeng Zhao and
+               Nandita Dukkipati and
+               Ellen W. Zegura and
+               Mostafa H. Ammar and
+               Khaled Harras and
+               Amin Vahdat},
+  title     = {Eiffel: Efficient and Flexible Software Packet Scheduling},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {17-32},
+}
+
+@inproceedings{DBLP:conf/nsdi/StephensAS19,
+  author    = {Brent Stephens and
+               Aditya Akella and
+               Michael M. Swift},
+  title     = {Loom: Flexible and Efficient {NIC} Packet Scheduling},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {33-46},
+}
+
+@inproceedings{DBLP:conf/nsdi/ParkO19,
+  author    = {Seo Jin Park and
+               John K. Ousterhout},
+  title     = {Exploiting Commutativity For Practical Fast Replication},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {47-64},
+}
+
+@inproceedings{DBLP:conf/nsdi/EisenmanCPHSAK19,
+  author    = {Assaf Eisenman and
+               Asaf Cidon and
+               Evgenya Pergament and
+               Or Haimovich and
+               Ryan Stutsman and
+               Mohammad Alizadeh and
+               Sachin Katti},
+  title     = {Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {65-78},
+}
+
+@inproceedings{DBLP:conf/nsdi/DidonaZ19,
+  author    = {Diego Didona and
+               Willy Zwaenepoel},
+  title     = {Size-aware Sharding For Improving Tail Latencies in In-memory Key-value Stores},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {79-94},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangW19,
+  author    = {Jiaping Wang and
+               Hao Wang},
+  title     = {Monoxide: Scale out Blockchains with Asynchronous Consensus Zones},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {95-112},
+}
+
+@inproceedings{DBLP:conf/nsdi/KimYLZPRGSS19,
+  author    = {Daehyeok Kim and
+               Tianlong Yu and
+               Hongqiang Harry Liu and
+               Yibo Zhu and
+               Jitu Padhye and
+               Shachar Raindel and
+               Chuanxiong Guo and
+               Vyas Sekar and
+               Srinivasan Seshan},
+  title     = {FreeFlow: Software-based Virtual {RDMA} Networking for Containerized Clouds},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {113-126},
+}
+
+@inproceedings{DBLP:conf/nsdi/Shu0CGQXCM19,
+  author    = {Ran Shu and
+               Peng Cheng and
+               Guo Chen and
+               Zhiyuan Guo and
+               Lei Qu and
+               Yongqiang Xiong and
+               Derek Chiou and
+               Thomas Moscibroda},
+  title     = {Direct Universal Access: Making Data Center Resources Available to {FPGA}},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {127-140},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZilbermanBS19,
+  author    = {Noa Zilberman and
+               Gabi Bracha and
+               Golan Schzukin},
+  title     = {Stardust: Divide and Conquer in the Data Center Network},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {141-160},
+}
+
+@inproceedings{DBLP:conf/nsdi/HolterbachMADVV19,
+  author    = {Thomas Holterbach and
+               Edgar Costa Molero and
+               Maria Apostolaki and
+               Alberto Dainotti and
+               Stefano Vissicchio and
+               Laurent Vanbever},
+  title     = {Blink: Fast Connectivity Recovery Entirely in the Data Plane},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {161-176},
+}
+
+@inproceedings{DBLP:conf/nsdi/CurinoKKRFHCSCH19,
+  author    = {Carlo Curino and
+               Subru Krishnan and
+               Konstantinos Karanasos and
+               Sriram Rao and
+               Giovanni Matteo Fumarola and
+               Botong Huang and
+               Kishore Chaliparambil and
+               Arun Suresh and
+               Young Chen and
+               Solom Heddaya and
+               Roni Burd and
+               Sarvesh Sakalanaga and
+               Chris Douglas and
+               Bill Ramsey and
+               Raghu Ramakrishnan},
+  title     = {Hydra: a federated resource manager for data-center scale analytics},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {177-192},
+}
+
+@inproceedings{DBLP:conf/nsdi/PuVS19,
+  author    = {Qifan Pu and
+               Shivaram Venkataraman and
+               Ion Stoica},
+  title     = {Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {193-206},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuZAFZDY19,
+  author    = {Da Yu and
+               Yibo Zhu and
+               Behnaz Arzani and
+               Rodrigo Fonseca and
+               Tianrong Zhang and
+               Karl Deng and
+               Lihua Yuan},
+  title     = {dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {207-220},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoWZOMV19,
+  author    = {Shizhen Zhao and
+               Rui Wang and
+               Junlan Zhou and
+               Joon Ong and
+               Jeffrey C. Mogul and
+               Amin Vahdat},
+  title     = {Minimal Rewiring: Efficient Live Expansion for Clos Data Center Networks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {221-234},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangMSG19,
+  author    = {Mingyang Zhang and
+               Radhika Niranjan Mysore and
+               Sucha Supittayapornpong and
+               Ramesh Govindan},
+  title     = {Understanding Lifecycle Management Complexity of Datacenter Topologies},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {235-254},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShrivastavVBCLW19,
+  author    = {Vishal Shrivastav and
+               Asaf Valadarsky and
+               Hitesh Ballani and
+               Paolo Costa and
+               Ki-Suh Lee and
+               Han Wang and
+               Rachit Agarwal and
+               Hakim Weatherspoon},
+  title     = {Shoal: A Network Architecture for Disaggregated Racks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {255-270},
+}
+
+@inproceedings{DBLP:conf/nsdi/HessarNG19,
+  author    = {Mehrdad Hessar and
+               Ali Najafi and
+               Shyamnath Gollakota},
+  title     = {NetScatter: Enabling {Large-Scale} Backscatter Networks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {271-284},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiXSZGHJ19,
+  author    = {Zhuqi Li and
+               Yaxiong Xie and
+               Longfei Shangguan and
+               Rotman Ivan Zelaya and
+               Jeremy Gummeson and
+               Wenjun Hu and
+               Kyle Jamieson},
+  title     = {Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {285-300},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangZSJK19,
+  author    = {Jingxian Wang and
+               Junbo Zhang and
+               Rajarshi Saha and
+               Haojian Jin and
+               Swarun Kumar},
+  title     = {Pushing the Range Limits of Commercial Passive {RFIDs}},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {301-316},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuddetiSKSB19,
+  author    = {Yeswanth Guddeti and
+               Raghav Subbaraman and
+               Moein Khazraee and
+               Aaron Schulman and
+               Dinesh Bharadia},
+  title     = {SweepSense: Sensing 5 {GHz} in 5 Milliseconds with Low-cost Radios},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {317-330},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhuoZZLRKA19,
+  author    = {Danyang Zhuo and
+               Kaiyuan Zhang and
+               Yibo Zhu and
+               Hongqiang Harry Liu and
+               Matthew Rockett and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson},
+  title     = {Slim: {OS} Kernel Support for a {Low-Overhead} Container Overlay Network},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {331-344},
+}
+
+@inproceedings{DBLP:conf/nsdi/KaffesCHBMK19,
+  author    = {Kostis Kaffes and
+               Timothy Chong and
+               Jack Tigar Humphries and
+               Adam Belay and
+               David Mazières and
+               Christos Kozyrakis},
+  title     = {Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {345-360},
+}
+
+@inproceedings{DBLP:conf/nsdi/OusterhoutFBBB19,
+  author    = {Amy Ousterhout and
+               Joshua Fried and
+               Jonathan Behrens and
+               Adam Belay and
+               Hari Balakrishnan},
+  title     = {Shenango: Achieving High {CPU} Efficiency for Latency-sensitive Datacenter Workloads},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {361-378},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangJMWZZELYZLX19,
+  author    = {Bin Yang and
+               Xu Ji and
+               Xiaosong Ma and
+               Xiyang Wang and
+               Tianyu Zhang and
+               Xiupeng Zhu and
+               Nosayba El-Sayed and
+               Haidong Lan and
+               Yibo Yang and
+               Jidong Zhai and
+               Weiguo Liu and
+               Wei Xue},
+  title     = {End-to-end I/O Monitoring on a Leading Supercomputer},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {379-394},
+}
+
+@inproceedings{DBLP:conf/nsdi/WuCP19,
+  author    = {Yang Wu and
+               Ang Chen and
+               Linh Thi Xuan Phan},
+  title     = {Zeno: Diagnosing Performance Problems with Temporal Provenance},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {395-420},
+}
+
+@inproceedings{DBLP:conf/nsdi/Khandelwal0S19,
+  author    = {Anurag Khandelwal and
+               Rachit Agarwal and
+               Ion Stoica},
+  title     = {Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {421-436},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiMAY19,
+  author    = {Yuliang Li and
+               Rui Miao and
+               Mohammad Alizadeh and
+               Minlan Yu},
+  title     = {DETER: Deterministic {TCP} Replay for Performance Diagnosis},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {437-452},
+}
+
+@inproceedings{DBLP:conf/nsdi/JeongCYJSC19,
+  author    = {Eunji Jeong and
+               Sungwoo Cho and
+               Gyeong-In Yu and
+               Joo Seong Jeong and
+               Dongjin Shin and
+               Byung-Gon Chun},
+  title     = {JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {453-468},
+}
+
+@inproceedings{DBLP:conf/nsdi/SubramanyaSGKB19,
+  author    = {Suhas Jayaram Subramanya and
+               Harsha Vardhan Simhadri and
+               Srajan Garg and
+               Anil Kag and
+               Venkatesh Balasubramanian},
+  title     = {BLAS-on-flash: An Efficient Alternative for Large Scale {ML} Training and Inference?},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {469-484},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuCSZJQLG19,
+  author    = {Juncheng Gu and
+               Mosharaf Chowdhury and
+               Kang G. Shin and
+               Yibo Zhu and
+               Myeongjae Jeon and
+               Junjie Qian and
+               Hongqiang Harry Liu and
+               Chuanxiong Guo},
+  title     = {Tiresias: A {GPU} Cluster Manager for Distributed Deep Learning},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {485-500},
+}
+
+@inproceedings{DBLP:conf/nsdi/KhalidA19,
+  author    = {Junaid Khalid and
+               Aditya Akella},
+  title     = {Correctness and Performance for Stateful Chained Network Functions},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {501-516},
+}
+
+@inproceedings{DBLP:conf/nsdi/IyerPZPAC19,
+  author    = {Rishabh R. Iyer and
+               Luis Pedrosa and
+               Arseniy Zaostrovnykh and
+               Solal Pirelli and
+               Katerina J. Argyraki and
+               George Candea},
+  title     = {Performance Contracts for Software Network Functions},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {517-530},
+}
+
+@inproceedings{DBLP:conf/nsdi/PontarelliBBCSB19,
+  author    = {Salvatore Pontarelli and
+               Roberto Bifulco and
+               Marco Bonola and
+               Carmelo Cascone and
+               Marco Spaziani and
+               Valerio Bruschi and
+               Davide Sanvito and
+               Giuseppe Siracusano and
+               Antonio Capone and
+               Michio Honda and
+               Felipe Huici},
+  title     = {FlowBlaze: Stateful Packet Processing in Hardware},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {531-548},
+}
+
+@inproceedings{DBLP:conf/nsdi/GengLYNPRV19,
+  author    = {Yilong Geng and
+               Shiyu Liu and
+               Zi Yin and
+               Ashish Naik and
+               Balaji Prabhakar and
+               Mendel Rosenblum and
+               Amin Vahdat},
+  title     = {SIMON: A Simple and Scalable Method for Sensing, Inference and Measurement in Data Center Networks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {549-564},
+}
+
+@inproceedings{DBLP:conf/nsdi/DukicJKOZS19,
+  author    = {Vojislav Dukic and
+               Sangeetha Abdu Jyothi and
+               Bojan Karlas and
+               Muhsen Owaida and
+               Ce Zhang and
+               Ankit Singla},
+  title     = {Is advance knowledge of flow sizes a plausible assumption?},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {565-580},
+}
+
+@inproceedings{DBLP:conf/nsdi/JinSDGKS19,
+  author    = {Yuchen Jin and
+               Colin Scott and
+               Amogh Dhamdhere and
+               Vasileios Giotsas and
+               Arvind Krishnamurthy and
+               Scott Shenker},
+  title     = {Stable and Practical {AS} Relationship Inference with {ProbLink}},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {581-598},
+}
+
+@inproceedings{DBLP:conf/nsdi/TanJGZWDBX19,
+  author    = {Cheng Tan and
+               Ze Jin and
+               Chuanxiong Guo and
+               Tianrong Zhang and
+               Haitao Wu and
+               Karl Deng and
+               Dongming Bi and
+               Dong Xiang},
+  title     = {NetBouncer: Active Device and Link Failure Localization in Data Center Networks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {599-614},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangKM19,
+  author    = {Frank Wang and
+               Ronny Ko and
+               James Mickens},
+  title     = {Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {615-630},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangHCPLHZ19,
+  author    = {Xiang Wang and
+               Yang Hong and
+               Harry Chang and
+               KyoungSoo Park and
+               Geoff Langdale and
+               Jiayu Hu and
+               Heqing Zhu},
+  title     = {Hyperscan: A Fast Multi-pattern Regex Matcher for Modern {CPUs}},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {631-648},
+}
+
+@inproceedings{DBLP:conf/nsdi/SommerDMMRC19,
+  author    = {David M. Sommer and
+               Aritra Dhar and
+               Luka Malisa and
+               Esfandiar Mohammadi and
+               Daniel Ronzani and
+               Srdjan Capkun},
+  title     = {Deniable Upload and Download via Passive Participation},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {649-666},
+}
+
+@inproceedings{DBLP:conf/nsdi/CaoWBAWKI19,
+  author    = {Phuong Cao and
+               Yuming Wu and
+               Subho S. Banerjee and
+               Justin Azoff and
+               Alexander Withers and
+               Zbigniew T. Kalbarczyk and
+               Ravishankar K. Iyer},
+  title     = {CAUDIT: Continuous Auditing of {SSH} Servers To Mitigate {Brute-Force} Attacks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {667-682},
+}
+
+@inproceedings{DBLP:conf/nsdi/DumitrescuSPNR19,
+  author    = {Dragos Dumitrescu and
+               Radu Stoenescu and
+               Matei Popovici and
+               Lorina Negreanu and
+               Costin Raiciu},
+  title     = {Dataplane equivalence and its applications},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {683-698},
+}
+
+@inproceedings{DBLP:conf/nsdi/MoonHYBBSWYZ19,
+  author    = {Soo-Jin Moon and
+               Jeffrey Helt and
+               Yifei Yuan and
+               Yves Bieri and
+               Sujata Banerjee and
+               Vyas Sekar and
+               Wenfei Wu and
+               Mihalis Yannakakis and
+               Ying Zhang},
+  title     = {Alembic: Automated Model Inference for Stateful Network Functions},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {699-718},
+}
+
+@inproceedings{DBLP:conf/nsdi/SunXEZ19,
+  author    = {Wei Sun and
+               Lisong Xu and
+               Sebastian G. Elbaum and
+               Di Zhao},
+  title     = {{Model-Agnostic} and Efficient Exploration of Numerical State Space of {Real-World} {TCP} Congestion Control Implementations},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {719-734},
+}
+
+@inproceedings{DBLP:conf/nsdi/HasanBJBH19,
+  author    = {Shaddi Hasan and
+               Mary Claire Barela and
+               Matthew Johnson and
+               Eric A. Brewer and
+               Kurtis Heimerl},
+  title     = {Scaling Community Cellular Networks with {CommunityCellularManager}},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {735-750},
+}
+
+@inproceedings{DBLP:conf/nsdi/DhekneCSR19,
+  author    = {Ashutosh Dhekne and
+               Ayon Chakraborty and
+               Karthikeyan Sundaresan and
+               Sampath Rangarajan},
+  title     = {TrackIO: Tracking First Responders {Inside-Out}},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {751-764},
+}
+
+@inproceedings{DBLP:conf/nsdi/LuoZMSA19,
+  author    = {Zhihong Luo and
+               Qiping Zhang and
+               Yunfei Ma and
+               Manish Singh and
+               Fadel Adib},
+  title     = {3D Backscatter Localization for {Fine-Grained} Robotics},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {765-782},
+}
+
+@inproceedings{DBLP:conf/nsdi/JogWGMHC19,
+  author    = {Suraj Jog and
+               Jiaming Wang and
+               Junfeng Guan and
+               Thomas Moon and
+               Haitham Hassanieh and
+               Romit Roy Choudhury},
+  title     = {{Many-to-Many} Beam Alignment in Millimeter Wave Networks},
+  booktitle = nsdi,
+  year      = 2019,
+  pages     = {783-800},
+}
+
 @inproceedings{DBLP:conf/nsdi/SharmaLAK18,
   author    = {Naveen Kr. Sharma and
                Ming Liu and

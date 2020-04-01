@@ -1,5 +1,224 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotnets/Allman19,
+  author    = {Mark Allman},
+  title     = {On Eliminating Root Nameservers from the {DNS}},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/hotnets/ArnoldCCGMSK19,
+  author    = {Todd Arnold and
+               Matt Calder and
+               Ítalo Cunha and
+               Arpit Gupta and
+               Harsha V. Madhyastha and
+               Michael Schapira and
+               Ethan Katz-Bassett},
+  title     = {Beating {BGP} is Harder than we Thought},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/hotnets/WareMSS19,
+  author    = {Ranysha Ware and
+               Matthew K. Mukerjee and
+               Srinivasan Seshan and
+               Justine Sherry},
+  title     = {Beyond Jain's Fairness Index: Setting the Bar For The Deployment of Congestion Control Algorithms},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {17-24},
+}
+
+@inproceedings{DBLP:conf/hotnets/XiongZ19,
+  author    = {Zhaoqi Xiong and
+               Noa Zilberman},
+  title     = {Do Switches Dream of Machine Learning?: Toward {In-Network} Classification},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {25-33},
+}
+
+@inproceedings{DBLP:conf/hotnets/MeierHKSLSV19,
+  author    = {Roland Meier and
+               Thomas Holterbach and
+               Stephan Keck and
+               Matthias Stähli and
+               Vincent Lenders and
+               Ankit Singla and
+               Laurent Vanbever},
+  title     = {(Self) Driving Under the Influence: Intoxicating Adversarial Network Inputs},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {34-42},
+}
+
+@inproceedings{DBLP:conf/hotnets/LinMZMKFS19,
+  author    = {Zinan Lin and
+               Soo-Jin Moon and
+               Carolina M. Zarate and
+               Ritika Mulagalapalli and
+               Sekar Kulandaivel and
+               Giulia C. Fanti and
+               Vyas Sekar},
+  title     = {Towards Oblivious Network Analysis using Generative Adversarial Networks},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {43-51},
+}
+
+@inproceedings{DBLP:conf/hotnets/IbanezSM19,
+  author    = {Stephen Ibanez and
+               Muhammad Shahbaz and
+               Nick McKeown},
+  title     = {The Case for a Network Fast Path to the {CPU}},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {52-59},
+}
+
+@inproceedings{DBLP:conf/hotnets/HumphriesKMK19,
+  author    = {Jack Tigar Humphries and
+               Kostis Kaffes and
+               David Mazières and
+               Christos Kozyrakis},
+  title     = {Mind the Gap: A Case for Informed Request Scheduling at the {NIC}},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {60-68},
+}
+
+@inproceedings{DBLP:conf/hotnets/WangJQR19,
+  author    = {Yanjun Wang and
+               Chuan Jiang and
+               Xiaokang Qiu and
+               Sanjay G. Rao},
+  title     = {Learning Network Design Objectives Using A Program Synthesis Approach},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {69-76},
+}
+
+@inproceedings{DBLP:conf/hotnets/BeckettM19,
+  author    = {Ryan Beckett and
+               Ratul Mahajan},
+  title     = {Putting network verification to good use},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {77-84},
+}
+
+@inproceedings{DBLP:conf/hotnets/GiladJSGS19,
+  author    = {Tomer Gilad and
+               Nathan H. Jay and
+               Michael Shnaiderman and
+               Brighten Godfrey and
+               Michael Schapira},
+  title     = {Robustifying Network Protocols with Adversarial Examples},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {85-92},
+}
+
+@inproceedings{DBLP:conf/hotnets/GuptaMW19,
+  author    = {Arpit Gupta and
+               Chris Mac-Stoker and
+               Walter Willinger},
+  title     = {An Effort to Democratize Networking Research in the Era of AI/{ML}},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {93-100},
+}
+
+@inproceedings{DBLP:conf/hotnets/VarvelloKPHL19,
+  author    = {Matteo Varvello and
+               Kleomenis Katevas and
+               Mihai Plesa and
+               Hamed Haddadi and
+               Benjamin Livshits},
+  title     = {BatteryLab, A Distributed Power Monitoring Platform For Mobile Devices},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {101-108},
+}
+
+@inproceedings{DBLP:conf/hotnets/RanSGC19,
+  author    = {Xukan Ran and
+               Carter Slocum and
+               Maria Gorlatova and
+               Jiasi Chen},
+  title     = {ShareAR: {Communication-Efficient} {Multi-User} Mobile Augmented Reality},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {109-116},
+}
+
+@inproceedings{DBLP:conf/hotnets/0002AB19,
+  author    = {Ali Abedi and
+               Omid Abari and
+               Tim Brecht},
+  title     = {Wi-LE: Can {WiFi} Replace Bluetooth?},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {117-124},
+}
+
+@inproceedings{DBLP:conf/hotnets/Handley19,
+  author    = {Mark Handley},
+  title     = {Using ground relays for low-latency wide-area routing in megaconstellations},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {125-132},
+}
+
+@inproceedings{DBLP:conf/hotnets/IbanezABM19,
+  author    = {Stephen Ibanez and
+               Gianni Antichi and
+               Gordon J. Brebner and
+               Nick McKeown},
+  title     = {{Event-Driven} Packet Processing},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {133-140},
+}
+
+@inproceedings{DBLP:conf/hotnets/0002CNWW19,
+  author    = {Dingming Wu and
+               Ang Chen and
+               T. S. Eugene Ng and
+               Guohui Wang and
+               Haiyong Wang},
+  title     = {Accelerated Service Chaining on a Single Switch {ASIC}},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {141-149},
+}
+
+@inproceedings{DBLP:conf/hotnets/GaoKVSN19,
+  author    = {Xiangyu Gao and
+               Taegyun Kim and
+               Aatish Kishan Varma and
+               Anirudh Sivaraman and
+               Srinivas Narayana},
+  title     = {Autogenerating Fast {Packet-Processing} Code Using Program Synthesis},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {150-160},
+}
+
+@inproceedings{DBLP:conf/hotnets/XingWC19,
+  author    = {Jiarong Xing and
+               Wenqing Wu and
+               Ang Chen},
+  title     = {Architecting Programmable Data Plane Defenses into the Network with {FastFlex}},
+  booktitle = hotnets,
+  year      = 2019,
+  pages     = {161-169},
+}
+
 @inproceedings{DBLP:conf/hotnets/KimZKLS18,
   author    = {Daehyeok Kim and
                Yibo Zhu and
@@ -2021,7 +2240,7 @@
 
 @inproceedings{DBLP:conf/hotnets/ChengSKA12,
   author    = {Raymond Cheng and
-               Will Scott and
+               William Scott and
                Arvind Krishnamurthy and
                Thomas E. Anderson},
   title     = {FreeDOM: a new baseline for the web},
@@ -3133,7 +3352,7 @@
 
 @inproceedings{DBLP:conf/hotnets/KanadeV07,
   author    = {Varun Kanade and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Life (and routing) on the Wireless Manifold},
   booktitle = hotnets,
   year      = 2007,
@@ -3190,7 +3409,7 @@
 @inproceedings{DBLP:conf/hotnets/MotiwalaFV07,
   author    = {Murtaza Motiwala and
                Nick Feamster and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Path Splicing: Reliable Connectivity with Rapid Recovery},
   booktitle = hotnets,
   year      = 2007,

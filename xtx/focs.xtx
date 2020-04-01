@@ -1,5 +1,922 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/focs/CohenPW19,
+  author    = {Ilan Reuven Cohen and
+               Binghui Peng and
+               David Wajc},
+  title     = {Tight Bounds for Online Edge Coloring},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1-25},
+}
+
+@inproceedings{DBLP:conf/focs/GamlathKMSW19,
+  author    = {Buddhima Gamlath and
+               Michael Kapralov and
+               Andreas Maggiori and
+               Ola Svensson and
+               David Wajc},
+  title     = {Online Matching with General Arrivals},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {26-37},
+}
+
+@inproceedings{DBLP:conf/focs/EnglertRS19,
+  author    = {Matthias Englert and
+               Harald Räcke and
+               Richard Stotz},
+  title     = {Polylogarithmic Guarantees for Generalized Reordering Buffer Management},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {38-59},
+}
+
+@inproceedings{DBLP:conf/focs/AzarT19,
+  author    = {Yossi Azar and
+               Noam Touitou},
+  title     = {General Framework for Metric Optimization Problems with Delay or with Deadlines},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {60-71},
+}
+
+@inproceedings{DBLP:conf/focs/Neel0W19,
+  author    = {Seth Neel and
+               Aaron Roth and
+               Zhiwei Steven Wu},
+  title     = {How to Use Heuristics for Differential Privacy},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {72-93},
+}
+
+@inproceedings{DBLP:conf/focs/JosephMN019,
+  author    = {Matthew Joseph and
+               Jieming Mao and
+               Seth Neel and
+               Aaron Roth},
+  title     = {The Role of Interactivity in Local Differential Privacy},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {94-105},
+}
+
+@inproceedings{DBLP:conf/focs/DworkKRRY19,
+  author    = {Cynthia Dwork and
+               Michael P. Kim and
+               Omer Reingold and
+               Guy N. Rothblum and
+               Gal Yona},
+  title     = {Learning from Outcomes: {Evidence-Based} Rankings},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {106-125},
+}
+
+@inproceedings{DBLP:conf/focs/Tao0019,
+  author    = {Chao Tao and
+               Qin Zhang and
+               Yuan Zhou},
+  title     = {Collaborative Learning with Limited Interaction: Tight Bounds for Distributed Exploration in Multi-armed Bandits},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {126-146},
+}
+
+@inproceedings{DBLP:conf/focs/Guo0SS19,
+  author    = {Zeyu Guo and
+               Mrinal Kumar and
+               Ramprasad Saptharishi and
+               Noam Solomon},
+  title     = {Derandomization from Algebraic Hardness: Treading the Borders},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {147-157},
+}
+
+@inproceedings{DBLP:conf/focs/ChapmanLP19,
+  author    = {Michael Chapman and
+               Nati Linial and
+               Yuval Peled},
+  title     = {Expander Graphs - Both Local and Global},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {158-170},
+}
+
+@inproceedings{DBLP:conf/focs/ApplebaumK19,
+  author    = {Benny Applebaum and
+               Eliran Kachlon},
+  title     = {Sampling Graphs without Forbidden Subgraphs and Unbalanced Expanders with Negligible Error},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {171-179},
+}
+
+@inproceedings{DBLP:conf/focs/AlevJT19,
+  author    = {Vedat Levi Alev and
+               Fernando Granha Jeronimo and
+               Madhur Tulsiani},
+  title     = {Approximating Constraint Satisfaction Problems on {High-Dimensional} Expanders},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {180-201},
+}
+
+@inproceedings{DBLP:conf/focs/ImmorlicaSSS19,
+  author    = {Nicole Immorlica and
+               Karthik Abinav Sankararaman and
+               Robert E. Schapire and
+               Aleksandrs Slivkins},
+  title     = {Adversarial Bandits with Knapsacks},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {202-219},
+}
+
+@inproceedings{DBLP:conf/focs/Kothari0MSW19,
+  author    = {Pravesh Kothari and
+               Sahil Singla and
+               Divyarthi Mohan and
+               Ariel Schvartzman and
+               S. Matthew Weinberg},
+  title     = {Approximation Schemes for a {Unit-Demand} Buyer with Independent Items via Symmetries},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {220-232},
+}
+
+@inproceedings{DBLP:conf/focs/Assadi019,
+  author    = {Sepehr Assadi and
+               Sahil Singla},
+  title     = {Improved Truthful Mechanisms for Combinatorial Auctions with Submodular Bidders},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {233-248},
+}
+
+@inproceedings{DBLP:conf/focs/EzraFNTW19,
+  author    = {Tomer Ezra and
+               Michal Feldman and
+               Eric Neyman and
+               Inbal Talgam-Cohen and
+               Matthew Weinberg},
+  title     = {Settling the Communication Complexity of Combinatorial Auctions with Two Subadditive Buyers},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {249-272},
+}
+
+@inproceedings{DBLP:conf/focs/AbbeY19,
+  author    = {Emmanuel Abbe and
+               Min Ye},
+  title     = {{Reed-Muller} Codes Polarize},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {273-286},
+}
+
+@inproceedings{DBLP:conf/focs/Stephens-Davidowitz19,
+  author    = {Noah Stephens-Davidowitz and
+               Vinod Vaikuntanathan},
+  title     = {{SETH-Hardness} of Coding Problems},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {287-301},
+}
+
+@inproceedings{DBLP:conf/focs/SilbakKS19,
+  author    = {Jad Silbak and
+               Swastik Kopparty and
+               Ronen Shaltiel},
+  title     = {Quasilinear Time {List-Decodable} Codes for Space Bounded Channels},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {302-333},
+}
+
+@inproceedings{DBLP:conf/focs/Haeupler19,
+  author    = {Bernhard Haeupler},
+  title     = {Optimal Document Exchange and New Codes for Insertions and Deletions},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {334-347},
+}
+
+@inproceedings{DBLP:conf/focs/EfremenkoKS19,
+  author    = {Klim Efremenko and
+               Gillat Kol and
+               Raghuvansh Saxena},
+  title     = {Radio Network Coding Requires Logarithmic Overhead},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {348-369},
+}
+
+@inproceedings{DBLP:conf/focs/ChechikZ19,
+  author    = {Shiri Chechik and
+               Tianyi Zhang},
+  title     = {Fully Dynamic Maximal Independent Set in Expected {Poly-Log} Update Time},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {370-381},
+}
+
+@inproceedings{DBLP:conf/focs/BehnezhadDHSS19,
+  author    = {Soheil Behnezhad and
+               Mahsa Derakhshan and
+               MohammadTaghi Hajiaghayi and
+               Cliff Stein and
+               Madhu Sudan},
+  title     = {Fully Dynamic Maximal Independent Set with Polylogarithmic Update Time},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {382-405},
+}
+
+@inproceedings{DBLP:conf/focs/BhattacharyaHN19,
+  author    = {Sayan Bhattacharya and
+               Monika Henzinger and
+               Danupon Nanongkai},
+  title     = {A New Deterministic Algorithm for Dynamic Set Cover},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {406-423},
+}
+
+@inproceedings{DBLP:conf/focs/BrandS19,
+  author    = {Jan van den Brand and
+               Thatchaphol Saranurak},
+  title     = {Sensitive Distance and Reachability Oracles for Large Batch Updates},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {424-435},
+}
+
+@inproceedings{DBLP:conf/focs/BrandN19,
+  author    = {Jan van den Brand and
+               Danupon Nanongkai},
+  title     = {Dynamic Approximate Shortest Paths and Beyond: Subquadratic and {Worst-Case} Update Time},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {436-455},
+}
+
+@inproceedings{DBLP:conf/focs/BrandNS19,
+  author    = {Jan van den Brand and
+               Danupon Nanongkai and
+               Thatchaphol Saranurak},
+  title     = {Dynamic Matrix Inverse: Improved Algorithms and Matching Conditional Lower Bounds},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {456-480},
+}
+
+@inproceedings{DBLP:conf/focs/Balliu0HORS19,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Juho Hirvonen and
+               Dennis Olivetti and
+               Mikaël Rabie and
+               Jukka Suomela},
+  title     = {Lower Bounds for Maximal Matchings and Maximal Independent Sets},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {481-497},
+}
+
+@inproceedings{DBLP:conf/focs/AtseriasM19,
+  author    = {Albert Atserias and
+               Moritz Müller},
+  title     = {Automating Resolution is {NP-Hard}},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {498-509},
+}
+
+@inproceedings{DBLP:conf/focs/Natarajan019,
+  author    = {Anand Natarajan and
+               John Wright},
+  title     = {{NEEXP} is Contained in {MIP}},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {510-518},
+}
+
+@inproceedings{DBLP:conf/focs/Cohen-AddadS19,
+  author    = {Vincent Cohen-Addad and
+               Karthik C. S.},
+  title     = {Inapproximability of Clustering in Lp Metrics},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {519-539},
+}
+
+@inproceedings{DBLP:conf/focs/SaulpicCF19,
+  author    = {David Saulpic and
+               Vincent Cohen-Addad and
+               Andreas Emil Feldmann},
+  title     = {{Near-Linear} Time Approximations Schemes for Clustering in Doubling Metrics},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {540-559},
+}
+
+@inproceedings{DBLP:conf/focs/Cohen-AddadPP19,
+  author    = {Vincent Cohen-Addad and
+               Michal Pilipczuk and
+               Marcin Pilipczuk},
+  title     = {A {Polynomial-Time} Approximation Scheme for Facility Location on Planar Graphs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {560-581},
+}
+
+@inproceedings{DBLP:conf/focs/BhaskaraCPV19,
+  author    = {Aditya Bhaskara and
+               Aidao Chen and
+               Aidan Perreault and
+               Aravindan Vijayaraghavan},
+  title     = {Smoothed Analysis in Unsupervised Learning via Decoupling},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {582-610},
+}
+
+@inproceedings{DBLP:conf/focs/GriloSY19,
+  author    = {Alex Bredariol Grilo and
+               William Slofstra and
+               Henry Yuen},
+  title     = {Perfect Zero Knowledge for Quantum Multiprover Interactive Proofs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {611-635},
+}
+
+@inproceedings{DBLP:conf/focs/0002MS19,
+  author    = {Ashutosh Kumar and
+               Raghu Meka and
+               Amit Sahai},
+  title     = {{Leakage-Resilient} Secret Sharing Against Colluding Parties},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {636-660},
+}
+
+@inproceedings{DBLP:conf/focs/DottlingGGM19,
+  author    = {Nico Döttling and
+               Sanjam Garg and
+               Vipul Goyal and
+               Giulio Malavolta},
+  title     = {Laconic Conditional Disclosure of Secrets and Applications},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {661-685},
+}
+
+@inproceedings{DBLP:conf/focs/GoyalR19,
+  author    = {Vipul Goyal and
+               Silas Richelson},
+  title     = {{Non-Malleable} Commitments using {Goldreich-Levin} List Decoding},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {686-699},
+}
+
+@inproceedings{DBLP:conf/focs/Harris19,
+  author    = {David G. Harris},
+  title     = {Distributed Local Approximation Algorithms for Maximum Matching in Graphs and Hypergraphs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {700-724},
+}
+
+@inproceedings{DBLP:conf/focs/AchlioptasIS19,
+  author    = {Dimitris Achlioptas and
+               Fotis Iliopoulos and
+               Alistair Sinclair},
+  title     = {Beyond the Lovász Local Lemma: Point to Set Correlations and Their Algorithmic Applications},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {725-744},
+}
+
+@inproceedings{DBLP:conf/focs/Ban0FSS19,
+  author    = {Frank Ban and
+               Xi Chen and
+               Adam Freilich and
+               Rocco A. Servedio and
+               Sandip Sinha},
+  title     = {Beyond Trace Reconstruction: Population Recovery from the Deletion Channel},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {745-768},
+}
+
+@inproceedings{DBLP:conf/focs/CharikarS19,
+  author    = {Moses Charikar and
+               Paris Siminelakis},
+  title     = {Multi-resolution Hashing for Fast Pairwise Summations},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {769-792},
+}
+
+@inproceedings{DBLP:conf/focs/Umans19,
+  author    = {Chris Umans},
+  title     = {Fast Generalized {DFTs} for all Finite Groups},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {793-805},
+}
+
+@inproceedings{DBLP:conf/focs/Pratt19,
+  author    = {Kevin Pratt},
+  title     = {Waring Rank, Parameterized and Exact Algorithms},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {806-823},
+}
+
+@inproceedings{DBLP:conf/focs/GargMOW19,
+  author    = {Ankit Garg and
+               Visu Makam and
+               Rafael Mendes de Oliveira and
+               Avi Wigderson},
+  title     = {More Barriers for Rank Methods, via a "numeric to Symbolic" Transfer},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {824-844},
+}
+
+@inproceedings{DBLP:conf/focs/BurgisserFGOWW19,
+  author    = {Peter Bürgisser and
+               Cole Franks and
+               Ankit Garg and
+               Rafael Mendes de Oliveira and
+               Michael Walter and
+               Avi Wigderson},
+  title     = {Towards a Theory of {Non-Commutative} Optimization: Geodesic 1st and 2nd Order Methods for Moment Maps and Polytopes},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {845-861},
+}
+
+@inproceedings{DBLP:conf/focs/DujmovicJMMUW19,
+  author    = {Vida Dujmovic and
+               Gwenaël Joret and
+               Piotr Micek and
+               Pat Morin and
+               Torsten Ueckerdt and
+               David R. Wood},
+  title     = {Planar Graphs have Bounded {Queue-Number}},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {862-875},
+}
+
+@inproceedings{DBLP:conf/focs/GajjarR19,
+  author    = {Kshitij Gajjar and
+               Jaikumar Radhakrishnan},
+  title     = {Parametric Shortest Paths in Planar Graphs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {876-895},
+}
+
+@inproceedings{DBLP:conf/focs/HolmKTZZ19,
+  author    = {Jacob Holm and
+               Valerie King and
+               Mikkel Thorup and
+               Or Zamir and
+               Uri Zwick},
+  title     = {Random k-out Subgraph Leaves only O(n/k) {Inter-Component} Edges},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {896-909},
+}
+
+@inproceedings{DBLP:conf/focs/BansalST19,
+  author    = {Nikhil Bansal and
+               Ola Svensson and
+               Luca Trevisan},
+  title     = {New Notions and Constructions of Sparsification for Graphs and Hypergraphs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {910-928},
+}
+
+@inproceedings{DBLP:conf/focs/Postle19,
+  author    = {Luke Postle},
+  title     = {{Linear-Time} and Efficient Distributed Algorithms for List Coloring Graphs on Surfaces},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {929-941},
+}
+
+@inproceedings{DBLP:conf/focs/AaronsonGS19,
+  author    = {Scott Aaronson and
+               Daniel Grier and
+               Luke Schaeffer},
+  title     = {A Quantum Query Complexity Trichotomy for Regular Languages},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {942-965},
+}
+
+@inproceedings{DBLP:conf/focs/SinhaW19,
+  author    = {Makrand Sinha and
+               Ronald de Wolf},
+  title     = {Exponential Separation between Quantum Communication and Logarithm of Approximate Rank},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {966-981},
+}
+
+@inproceedings{DBLP:conf/focs/AnshuBT19,
+  author    = {Anurag Anshu and
+               Naresh Goud Boddu and
+               Dave Touchette},
+  title     = {Quantum {Log-Approximate-Rank} Conjecture is Also False},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {982-994},
+}
+
+@inproceedings{DBLP:conf/focs/BravyiGKT19,
+  author    = {Sergey Bravyi and
+               David Gosset and
+               Robert König and
+               Marco Tomamichel},
+  title     = {Quantum Advantage with Noisy Shallow Circuits in 3D},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {995-999},
+}
+
+@inproceedings{DBLP:conf/focs/AharonovG19,
+  author    = {Dorit Aharonov and
+               Alex Bredariol Grilo},
+  title     = {Stoquastic {PCP} vs. Randomness},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1000-1023},
+}
+
+@inproceedings{DBLP:conf/focs/GheorghiuV19,
+  author    = {Alexandru Gheorghiu and
+               Thomas Vidick},
+  title     = {{Computationally-Secure} and Composable Remote State Preparation},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1024-1033},
+}
+
+@inproceedings{DBLP:conf/focs/AlmanC19,
+  author    = {Josh Alman and
+               Lijie Chen},
+  title     = {Efficient Construction of Rigid Matrices Using an {NP} Oracle},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1034-1055},
+}
+
+@inproceedings{DBLP:conf/focs/Li19,
+  author    = {Jason Li},
+  title     = {Faster Minimum k-cut of a Simple Graph},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1056-1077},
+}
+
+@inproceedings{DBLP:conf/focs/LeS19,
+  author    = {Hung Le and
+               Shay Solomon},
+  title     = {Truly Optimal Euclidean Spanners},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1078-1100},
+}
+
+@inproceedings{DBLP:conf/focs/GoldenbergKS19,
+  author    = {Elazar Goldenberg and
+               Robert Krauthgamer and
+               Barna Saha},
+  title     = {Sublinear Algorithms for Gap Edit Distance},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1101-1120},
+}
+
+@inproceedings{DBLP:conf/focs/RubinsteinSSS19,
+  author    = {Aviad Rubinstein and
+               Saeed Seddighin and
+               Zhao Song and
+               Xiaorui Sun},
+  title     = {Approximation Algorithms for {LCS} and {LIS} with Truly Improved Running Times},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1121-1145},
+}
+
+@inproceedings{DBLP:conf/focs/ChakrabartyLS0W19,
+  author    = {Deeparnab Chakrabarty and
+               Yin Tat Lee and
+               Aaron Sidford and
+               Sahil Singla and
+               Sam Chiu-wai Wong},
+  title     = {Faster Matroid Intersection},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1146-1168},
+}
+
+@inproceedings{DBLP:conf/focs/GanardiJL19,
+  author    = {Moses Ganardi and
+               Artur Jez and
+               Markus Lohrey},
+  title     = {Balancing {Straight-Line} Programs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1169-1183},
+}
+
+@inproceedings{DBLP:conf/focs/KwokLR19,
+  author    = {Tsz Chiu Kwok and
+               Lap Chi Lau and
+               Akshay Ramachandran},
+  title     = {Spectral Analysis of Matrix Scaling and Operator Scaling},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1184-1204},
+}
+
+@inproceedings{DBLP:conf/focs/LifshitzM19,
+  author    = {Noam Lifshitz and
+               Dor Minzer},
+  title     = {Noise Sensitivity on the p -Biased Hypercube},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1205-1226},
+}
+
+@inproceedings{DBLP:conf/focs/KrokhinO19,
+  author    = {Andrei A. Krokhin and
+               Jakub Oprsal},
+  title     = {The Complexity of 3-Colouring {H-Colourable} Graphs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1227-1239},
+}
+
+@inproceedings{DBLP:conf/focs/ChenJW19,
+  author    = {Lijie Chen and
+               Ce Jin and
+               R. Ryan Williams},
+  title     = {Hardness Magnification for all Sparse {NP} Languages},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1240-1255},
+}
+
+@inproceedings{DBLP:conf/focs/Boix-AdseraBB19,
+  author    = {Enric Boix-Adserà and
+               Matthew Brennan and
+               Guy Bresler},
+  title     = {The {Average-Case} Complexity of Counting Cliques in Erdős-Rényi Hypergraphs},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1256-1280},
+}
+
+@inproceedings{DBLP:conf/focs/Chen19,
+  author    = {Lijie Chen},
+  title     = {Non-deterministic {Quasi-Polynomial} Time is {Average-Case} Hard for {ACC} Circuits},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1281-1304},
+}
+
+@inproceedings{DBLP:conf/focs/PichS19,
+  author    = {Ján Pich and
+               Rahul Santhanam},
+  title     = {Why are Proof Complexity Lower Bounds Hard?},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1305-1324},
+}
+
+@inproceedings{DBLP:conf/focs/GalesiKT19,
+  author    = {Nicola Galesi and
+               Leszek Aleksander Kolodziejczyk and
+               Neil Thapen},
+  title     = {Polynomial Calculus Space and Resolution Width},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1325-1337},
+}
+
+@inproceedings{DBLP:conf/focs/MangoubiV19,
+  author    = {Oren Mangoubi and
+               Nisheeth K. Vishnoi},
+  title     = {Faster Polytope Rounding, Sampling, and Volume Computation via a {Sub-Linear} Ball Walk},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1338-1357},
+}
+
+@inproceedings{DBLP:conf/focs/Cryan0M19,
+  author    = {Mary Cryan and
+               Heng Guo and
+               Giorgos Mousa},
+  title     = {Modified {log-Sobolev} Inequalities for Strongly {Log-Concave} Distributions},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1358-1370},
+}
+
+@inproceedings{DBLP:conf/focs/ArmanGW19,
+  author    = {Andrii Arman and
+               Pu Gao and
+               Nicholas C. Wormald},
+  title     = {Fast Uniform Generation of Random Graphs with Given Degree Sequences},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1371-1379},
+}
+
+@inproceedings{DBLP:conf/focs/0001SS19,
+  author    = {Jingcheng Liu and
+               Alistair Sinclair and
+               Piyush Srivastava},
+  title     = {A Deterministic Algorithm for Counting Colorings with 2-Delta Colors},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1380-1404},
+}
+
+@inproceedings{DBLP:conf/focs/BarthaSZ19,
+  author    = {Zsolt Bartha and
+               Nike Sun and
+               Yumeng Zhang},
+  title     = {Breaking of 1{RSB} in Random Regular {MAX-NAE-SAT}},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1405-1416},
+}
+
+@inproceedings{DBLP:conf/focs/Montanari19,
+  author    = {Andrea Montanari},
+  title     = {Optimization of the {Sherrington-Kirkpatrick} Hamiltonian},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1417-1433},
+}
+
+@inproceedings{DBLP:conf/focs/AnariR19,
+  author    = {Nima Anari and
+               Alireza Rezaei},
+  title     = {A Tight Analysis of Bethe Approximation for Permanent},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1434-1445},
+}
+
+@inproceedings{DBLP:conf/focs/WeinAM19,
+  author    = {Alexander S. Wein and
+               Ahmed El Alaoui and
+               Cristopher Moore},
+  title     = {The Kikuchi Hierarchy and Tensor {PCA}},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1446-1468},
+}
+
+@inproceedings{DBLP:conf/focs/Ben-EliezerCLW19,
+  author    = {Omri Ben-Eliezer and
+               Clément L. Canonne and
+               Shoham Letzter and
+               Erik Waingarten},
+  title     = {Finding Monotone Patterns in Sublinear Time},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1469-1494},
+}
+
+@inproceedings{DBLP:conf/focs/DiksteinD19,
+  author    = {Yotam Dikstein and
+               Irit Dinur},
+  title     = {Agreement Testing Theorems on Layered Set Systems},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1495-1524},
+}
+
+@inproceedings{DBLP:conf/focs/CzumajS19,
+  author    = {Artur Czumaj and
+               Christian Sohler},
+  title     = {A Characterization of Graph Properties Testable for General Planar Graphs with {one-Sided} Error (It's all About Forbidden Subgraphs)},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1525-1548},
+}
+
+@inproceedings{DBLP:conf/focs/DeMN19,
+  author    = {Anindya De and
+               Elchanan Mossel and
+               Joe Neeman},
+  title     = {Junta Correlation is Testable},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1549-1563},
+}
+
+@inproceedings{DBLP:conf/focs/BlasiokLLMR19,
+  author    = {Jaroslaw Blasiok and
+               Patrick Lopatto and
+               Kyle Luh and
+               Jake Marcinek and
+               Shravas Rao},
+  title     = {An Improved Lower Bound for Sparse Reconstruction from Subsampled Hadamard Matrices},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1564-1567},
+}
+
+@inproceedings{DBLP:conf/focs/NakosSW19,
+  author    = {Vasileios Nakos and
+               Zhao Song and
+               Zhengyu Wang},
+  title     = {(Nearly) {Sample-Optimal} Sparse Fourier Transform in Any Dimension; {RIPless} and Filterless},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1568-1577},
+}
+
+@inproceedings{DBLP:conf/focs/KontonisTZ19,
+  author    = {Vasilis Kontonis and
+               Christos Tzamos and
+               Manolis Zampetakis},
+  title     = {Efficient Truncated Statistics with Unknown Truncation},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1578-1595},
+}
+
+@inproceedings{DBLP:conf/focs/BhaskaraLVZ19,
+  author    = {Aditya Bhaskara and
+               Silvio Lattanzi and
+               Sergei Vassilvitskii and
+               Morteza Zadimoghaddam},
+  title     = {Residual Based Sampling for Online Low Rank Approximation},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1596-1614},
+}
+
+@inproceedings{DBLP:conf/focs/BehnezhadDELM19,
+  author    = {Soheil Behnezhad and
+               Laxman Dhulipala and
+               Hossein Esfandiari and
+               Jakub Lacki and
+               Vahab S. Mirrokni},
+  title     = {{Near-Optimal} Massively Parallel Graph Connectivity},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1615-1636},
+}
+
+@inproceedings{DBLP:conf/focs/BehnezhadHH19,
+  author    = {Soheil Behnezhad and
+               MohammadTaghi Hajiaghayi and
+               David G. Harris},
+  title     = {Exponentially Faster Massively Parallel Maximal Matching},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1637-1649},
+}
+
+@inproceedings{DBLP:conf/focs/GhaffariKU19,
+  author    = {Mohsen Ghaffari and
+               Fabian Kuhn and
+               Jara Uitto},
+  title     = {Conditional Hardness Results for Massively Parallel Computation from Distributed Lower Bounds},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1650-1663},
+}
+
+@inproceedings{DBLP:conf/focs/LiuJS19,
+  author    = {Yang P. Liu and
+               Arun Jambulapati and
+               Aaron Sidford},
+  title     = {Parallel Reachability in Almost Linear Work and Square Root Depth},
+  booktitle = focs,
+  year      = 2019,
+  pages     = {1664-1686},
+}
+
 @inproceedings{DBLP:conf/focs/DadushNTT18,
   author    = {Daniel Dadush and
                Aleksandar Nikolov and
@@ -711,7 +1628,7 @@
 
 @inproceedings{DBLP:conf/focs/HuangJLW18,
   author    = {Lingxiao Huang and
-               Shaofeng Jiang and
+               Shaofeng H.-C. Jiang and
                Jian Li and
                Xuan Wu},
   title     = {{Epsilon-Coresets} for Clustering (with Outliers) in Doubling Metrics},
@@ -2422,7 +3339,7 @@
 @inproceedings{DBLP:conf/focs/LaiRV16,
   author    = {Kevin A. Lai and
                Anup B. Rao and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Agnostic Estimation of Mean and Covariance},
   booktitle = focs,
   year      = 2016,
@@ -2492,7 +3409,7 @@
 
 @inproceedings{DBLP:conf/focs/LouisV16,
   author    = {Anand Louis and
-               Santosh Srinivas Vempala},
+               Santosh S. Vempala},
   title     = {Accelerated Newton Iteration for Roots of Black Box Polynomials},
   booktitle = focs,
   year      = 2016,
@@ -4446,7 +5363,7 @@
 @inproceedings{DBLP:conf/focs/LouisRV13,
   author    = {Anand Louis and
                Prasad Raghavendra and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {The Complexity of Approximating Vertex Expansion},
   booktitle = focs,
   year      = 2013,
@@ -5430,7 +6347,7 @@
 @inproceedings{DBLP:conf/focs/ChandrasekaranVV12,
   author    = {Karthekeyan Chandrasekaran and
                László A. Végh and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {The Cutting Plane Method Is Polynomial for Perfect Matchings},
   booktitle = focs,
   year      = 2012,
@@ -6205,7 +7122,7 @@
 @inproceedings{DBLP:conf/focs/DadushPV11,
   author    = {Daniel Dadush and
                Chris Peikert and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Enumerative Lattice Algorithms in any Norm Via M-ellipsoid Coverings},
   booktitle = focs,
   year      = 2011,
@@ -6442,7 +7359,7 @@
                Adam R. Klivans and
                Raghu Meka and
                Daniel Stefankovic and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Eric Vigoda},
   title     = {An {FPTAS} for #Knapsack and Related Counting Problems},
   booktitle = focs,
@@ -6584,7 +7501,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/Vempala10,
-  author    = {Santosh Vempala},
+  author    = {Santosh S. Vempala},
   title     = {Corrigendum: A Random Sampling Algorithm for Learning an Intersection of Halfspaces},
   booktitle = focs,
   year      = 2010,
@@ -6592,7 +7509,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/Vempala10a,
-  author    = {Santosh Vempala},
+  author    = {Santosh S. Vempala},
   title     = {Learning Convex Concepts from Gaussian Distributions with {PCA}},
   booktitle = focs,
   year      = 2010,
@@ -6600,7 +7517,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/DvorakKT10,
-  author    = {Zdenek Dvorak and
+  author    = {Zdenek Dvorák and
                Daniel Král and
                Robin Thomas},
   title     = {Deciding {First-Order} Properties for Sparse Graphs},
@@ -8463,7 +9380,7 @@
 
 @inproceedings{DBLP:conf/focs/BrubakerV08,
   author    = {S. Charles Brubaker and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Isotropic {PCA} and {Affine-Invariant} Clustering},
   booktitle = focs,
   year      = 2008,
@@ -8864,7 +9781,7 @@
 
 @inproceedings{DBLP:conf/focs/StefankovicVV07,
   author    = {Daniel Stefankovic and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Eric Vigoda},
   title     = {Adaptive Simulated Annealing: A Near-optimal Connection between Sampling and Counting},
   booktitle = focs,
@@ -9400,7 +10317,7 @@
 
 @inproceedings{DBLP:conf/focs/LovaszV06,
   author    = {László Lovász and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Fast Algorithms for Logconcave Functions: Sampling, Rounding, Integration and Optimization},
   booktitle = focs,
   year      = 2006,
@@ -10004,7 +10921,7 @@
 
 @inproceedings{DBLP:conf/focs/RademacherV06,
   author    = {Luis Rademacher and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Dispersion of Mass and the Complexity of Randomized Geometric Algorithms},
   booktitle = focs,
   year      = 2006,
@@ -10203,7 +11120,7 @@
 
 @inproceedings{DBLP:conf/focs/BaranyVV05,
   author    = {Imre Bárány and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Adrian Vetta},
   title     = {Nash Equilibria in Random Games},
   booktitle = focs,
@@ -11910,7 +12827,7 @@
 
 @inproceedings{DBLP:conf/focs/LovaszV03a,
   author    = {László Lovász and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Logconcave Functions: Geometry and Efficient Sampling Algorithms},
   booktitle = focs,
   year      = 2003,
@@ -11919,7 +12836,7 @@
 
 @inproceedings{DBLP:conf/focs/LovaszV03,
   author    = {László Lovász and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Simulated Annealing in Convex Bodies and an 0*(n4) Volume Algorithm},
   booktitle = focs,
   year      = 2003,
@@ -12036,7 +12953,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/VempalaW02,
-  author    = {Santosh Vempala and
+  author    = {Santosh S. Vempala and
                Grant Wang},
   title     = {A Spectral Algorithm for Learning Mixtures of Distributions},
   booktitle = focs,
@@ -13602,7 +14519,7 @@
 
 @inproceedings{DBLP:conf/focs/VempalaV00,
   author    = {Ravi Kannan and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Adrian Vetta},
   title     = {On Clusterings - Good, Bad and Spectral},
   booktitle = focs,
@@ -13704,7 +14621,7 @@
 
 @inproceedings{DBLP:conf/focs/KalaiV00,
   author    = {Adam Kalai and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Efficient Algorithms for Universal Portfolios},
   booktitle = focs,
   year      = 2000,
@@ -14475,7 +15392,7 @@
 
 @inproceedings{DBLP:conf/focs/ArriagaV99,
   author    = {Rosa I. Arriaga and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {An Algorithmic Theory of Learning: Robust Concepts and Random Projection},
   booktitle = focs,
   year      = 1999,
@@ -14894,7 +15811,7 @@
 @inproceedings{DBLP:conf/focs/FriezeKV98,
   author    = {Alan M. Frieze and
                Ravi Kannan and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Fast {Monte-Carlo} Algorithms for Finding {Low-Rank} Approximations},
   booktitle = focs,
   year      = 1998,
@@ -14914,7 +15831,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/Vempala98,
-  author    = {Santosh Vempala},
+  author    = {Santosh S. Vempala},
   title     = {Random Projection: A New Approach to {VLSI} Layout},
   booktitle = focs,
   year      = 1998,
@@ -15730,7 +16647,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/Vempala97,
-  author    = {Santosh Vempala},
+  author    = {Santosh S. Vempala},
   title     = {A Random Sampling Based Algorithm for Learning the Intersection of Half-spaces},
   booktitle = focs,
   year      = 1997,
@@ -16133,7 +17050,7 @@
   author    = {Avrim Blum and
                Alan M. Frieze and
                Ravi Kannan and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {A {Polynomial-Time} Algorithm for Learning Noisy Linear Threshold Functions},
   booktitle = focs,
   year      = 1996,
@@ -17189,7 +18106,7 @@
 
 @inproceedings{DBLP:conf/focs/Simon94,
   author    = {Daniel R. Simon},
-  title     = {On the Power of Quantum Cryptography},
+  title     = {On the Power of Quantum Computation},
   booktitle = focs,
   year      = 1994,
   pages     = {116-123},
@@ -17482,7 +18399,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/AldousV94,
-  author    = {David Aldous and
+  author    = {David J. Aldous and
                Umesh V. Vazirani},
   title     = {"Go With the Winners" Algorithms},
   booktitle = focs,
@@ -20360,7 +21277,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/AldousV90,
-  author    = {David Aldous and
+  author    = {David J. Aldous and
                Umesh V. Vazirani},
   title     = {A Markovian Extension of Valiant's Learning Model},
   booktitle = focs,
@@ -23672,7 +24589,7 @@
 
 @inproceedings{DBLP:conf/focs/BachS85,
   author    = {Eric Bach and
-               Jeffrey Shallit},
+               Jeffrey O. Shallit},
   title     = {Factoring with Cyclotomic Polynomials},
   booktitle = focs,
   year      = 1985,
@@ -24530,7 +25447,7 @@
 
 @inproceedings{DBLP:conf/focs/KrausL83,
   author    = {Sarit Kraus and
-               Daniel J. Lehmann},
+               Daniel Lehmann},
   title     = {Decision Procedures for Time and Chance},
   booktitle = focs,
   year      = 1983,
@@ -25822,7 +26739,7 @@
 
 @inproceedings{DBLP:conf/focs/FrancezLP80,
   author    = {Nissim Francez and
-               Daniel J. Lehmann and
+               Daniel Lehmann and
                Amir Pnueli},
   title     = {A Linear History Semantics for Distributed Languages},
   booktitle = focs,
@@ -26742,7 +27659,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/LehmannS77,
-  author    = {Daniel J. Lehmann and
+  author    = {Daniel Lehmann and
                Michael B. Smyth},
   title     = {Data Types},
   booktitle = focs,

@@ -1,5 +1,540 @@
 @include journals-cs
 
+@article{DBLP:journals/jacm/BishopFMNRSSW19,
+  author    = {Steve Bishop and
+               Matthew Fairbairn and
+               Hannes Mehnert and
+               Michael Norrish and
+               Tom Ridge and
+               Peter Sewell and
+               Michael Smith and
+               Keith Wansbrough},
+  title     = {Engineering with Logic: Rigorous {Test-Oracle} Specification and Validation for TCP/{IP} and the Sockets {API}},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/jacm/BushkovDFG19,
+  author    = {Victor Bushkov and
+               Dmytro Dziuma and
+               Panagiota Fatourou and
+               Rachid Guerraoui},
+  title     = {The {PCL} Theorem: Transactions cannot be Parallel, Consistent, and Live},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/jacm/Raz19,
+  author    = {Ran Raz},
+  title     = {Fast Learning Requires Good Memory: A {Time-Space} Lower Bound for Parity Learning},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/jacm/KawarabayashiT19,
+  author    = {Ken-ichi Kawarabayashi and
+               Mikkel Thorup},
+  title     = {Deterministic Edge Connectivity in {Near-Linear} Time},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/jacm/BurgisserCL19,
+  author    = {Peter Bürgisser and
+               Felipe Cucker and
+               Pierre Lairez},
+  title     = {Computing the Homology of Basic Semialgebraic Sets in Weak Exponential Time},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/jacm/BenderFGY19,
+  author    = {Michael A. Bender and
+               Jeremy T. Fineman and
+               Seth Gilbert and
+               Maxwell Young},
+  title     = {Scaling Exponential Backoff: Constant Throughput, Polylogarithmic {Channel-Access} Attempts, and Robustness},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/jacm/DevanurJSW19,
+  author    = {Nikhil R. Devanur and
+               Kamal Jain and
+               Balasubramanian Sivan and
+               Christopher A. Wilkens},
+  title     = {Near Optimal Online Algorithms and Fast Approximation Algorithms for Resource Allocation Problems},
+  journal   = jacm,
+  volume    = {66},
+  number    = {1},
+  year      = 2019,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/jacm/FominGLS19,
+  author    = {Fedor V. Fomin and
+               Serge Gaspers and
+               Daniel Lokshtanov and
+               Saket Saurabh},
+  title     = {Exact Algorithms via Monotone Local Search},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/jacm/Cheraghchi19,
+  author    = {Mahdi Cheraghchi},
+  title     = {Capacity Upper Bounds for Deletion-type Channels},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/jacm/Moitra19,
+  author    = {Ankur Moitra},
+  title     = {Approximate Counting, the Lovász Local Lemma, and Inference in Graphical Models},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/jacm/ImpagliazzoMZ19,
+  author    = {Russell Impagliazzo and
+               Raghu Meka and
+               David Zuckerman},
+  title     = {Pseudorandomness from Shrinkage},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/jacm/PlaceZ19,
+  author    = {Thomas Place and
+               Marc Zeitoun},
+  title     = {Going Higher in {First-Order} Quantifier Alternation Hierarchies on Words},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/jacm/RahliBCC19,
+  author    = {Vincent Rahli and
+               Mark Bickford and
+               Liron Cohen and
+               Robert L. Constable},
+  title     = {Bar Induction is Compatible with Constructive Type Theory},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/jacm/TraubV19,
+  author    = {Vera Traub and
+               Jens Vygen},
+  title     = {Approaching 3/2 for the s-t-path {TSP}},
+  journal   = jacm,
+  volume    = {66},
+  number    = {2},
+  year      = 2019,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/jacm/OuakninePPW19,
+  author    = {Joël Ouaknine and
+               Amaury Pouly and
+               João Sousa Pinto and
+               James Worrell},
+  title     = {On the Decidability of Membership in Matrix-exponential Semigroups},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/jacm/KaneLM19,
+  author    = {Daniel M. Kane and
+               Shachar Lovett and
+               Shay Moran},
+  title     = {Near-optimal Linear Decision Trees for {k-SUM} and Related Problems},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/jacm/FraigniaudKR19,
+  author    = {Pierre Fraigniaud and
+               Amos Korman and
+               Yoav Rodeh},
+  title     = {Parallel Bayesian Search with No Coordination},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/jacm/GuoJL19,
+  author    = {Heng Guo and
+               Mark Jerrum and
+               Jingcheng Liu},
+  title     = {Uniform Sampling Through the Lovász Local Lemma},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/jacm/FerrereMNP19,
+  author    = {Thomas Ferrère and
+               Oded Maler and
+               Dejan Nickovic and
+               Amir Pnueli},
+  title     = {From Real-time Logic to Timed Automata},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/jacm/Tardos19,
+  author    = {Éva Tardos},
+  title     = {Invited Articles Foreword},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/jacm/GoaocPPTW19,
+  author    = {Xavier Goaoc and
+               Pavel Paták and
+               Zuzana Patáková and
+               Martin Tancer and
+               Uli Wagner},
+  title     = {Shellability is {NP-complete}},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/jacm/BeameL19,
+  author    = {Paul Beame and
+               Vincent Liew},
+  title     = {Toward Verifying Nonlinear Integer Arithmetic},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/jacm/AckermanFR19,
+  author    = {Nathanael L. Ackerman and
+               Cameron E. Freer and
+               Daniel M. Roy},
+  title     = {On the Computability of Conditional Probability},
+  journal   = jacm,
+  volume    = {66},
+  number    = {3},
+  year      = 2019,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/jacm/WirthSYCS19,
+  author    = {Fabian R. Wirth and
+               Sonja Stüdli and
+               Jia Yuan Yu and
+               Martin Corless and
+               Robert Shorten},
+  title     = {Nonhomogeneous Place-dependent Markov Chains, Unsynchronised AIMD, and Optimisation},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/jacm/IkenmeyerKLLMS19,
+  author    = {Christian Ikenmeyer and
+               Balagopal Komarath and
+               Christoph Lenzen and
+               Vladimir Lysikov and
+               Andrey Mokhov and
+               Karteek Sreenivasaiah},
+  title     = {On the Complexity of Hazard-free Circuits},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/jacm/Cohen-AddadKMM19,
+  author    = {Vincent Cohen-Addad and
+               Varun Kanade and
+               Frederik Mallmann-Trenn and
+               Claire Mathieu},
+  title     = {Hierarchical Clustering: Objective Functions and Algorithms},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/jacm/MalajovichS19,
+  author    = {Gregorio Malajovich and
+               Mike Shub},
+  title     = {A Theory of {NP-completeness} and Ill-conditioning for Approximate Real Computations},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/jacm/SeboZ19,
+  author    = {András Sebö and
+               Anke van Zuylen},
+  title     = {The Salesman's Improved Paths through Forests},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/jacm/AdamaszekHW19,
+  author    = {Anna Adamaszek and
+               Sariel Har-Peled and
+               Andreas Wiese},
+  title     = {Approximation Schemes for Independent Set and Sparse Subsets of Polygons},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/jacm/KleinbergSU19,
+  author    = {Robert Kleinberg and
+               Aleksandrs Slivkins and
+               Eli Upfal},
+  title     = {Bandits and Experts in Metric Spaces},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/jacm/AvniHC19,
+  author    = {Guy Avni and
+               Thomas A. Henzinger and
+               Ventsislav Chonev},
+  title     = {Infinite-duration Bidding Games},
+  journal   = jacm,
+  volume    = {66},
+  number    = {4},
+  year      = 2019,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/jacm/LenzenR19,
+  author    = {Christoph Lenzen and
+               Joel Rybicki},
+  title     = {{Self-Stabilising} Byzantine Clock Synchronisation Is Almost as Easy as Consensus},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/jacm/SLM19,
+  author    = {Karthik C. S. and
+               Bundit Laekhanukit and
+               Pasin Manurangsi},
+  title     = {On the Parameterized Complexity of Approximating Dominating Set},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/jacm/KomargodskiNY19,
+  author    = {Ilan Komargodski and
+               Moni Naor and
+               Eylon Yogev},
+  title     = {{White-Box} vs. {Black-Box} Complexity of Search Problems: Ramsey and Graph Property Testing},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/jacm/IwataOT19,
+  author    = {Satoru Iwata and
+               Taihei Oki and
+               Mizuyo Takamatsu},
+  title     = {Index Reduction for Differential-algebraic Equations with Mixed Matrices},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {35-1},
+}
+
+@article{DBLP:journals/jacm/HarrisS19,
+  author    = {David G. Harris and
+               Aravind Srinivasan},
+  title     = {The {Moser-Tardos} Framework with Partial Resampling},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {36-1},
+}
+
+@article{DBLP:journals/jacm/BernsteinHR19,
+  author    = {Aaron Bernstein and
+               Jacob Holm and
+               Eva Rotenberg},
+  title     = {Online Bipartite Matching with Amortized O(log 2 n) Replacements},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {37-1},
+}
+
+@article{DBLP:journals/jacm/RomashchenkoZ19,
+  author    = {Andrei E. Romashchenko and
+               Marius Zimand},
+  title     = {An Operational Characterization of Mutual Information in Algorithmic Information Theory},
+  journal   = jacm,
+  volume    = {66},
+  number    = {5},
+  year      = 2019,
+  pages     = {38-1},
+}
+
+@article{DBLP:journals/jacm/Jez19,
+  author    = {Artur Jez},
+  title     = {Deciding Context Unification},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {39-1},
+}
+
+@article{DBLP:journals/jacm/DisserHK19,
+  author    = {Yann Disser and
+               Jan Hackfeld and
+               Max Klimm},
+  title     = {Tight Bounds for Undirected Graph Exploration with Pebbles and Multiple Agents},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {40-1},
+}
+
+@article{DBLP:journals/jacm/MonniauxT19,
+  author    = {David Monniaux and
+               Valentin Touzeau},
+  title     = {On the Complexity of Cache Analysis for Different Replacement Policies},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {41-1},
+}
+
+@article{DBLP:journals/jacm/Mendelson19,
+  author    = {Shahar Mendelson},
+  title     = {An Unrestricted Learning Procedure},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {42-1},
+}
+
+@article{DBLP:journals/jacm/Tardos19a,
+  author    = {Éva Tardos},
+  title     = {Invited Articles Foreword},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {43-1},
+}
+
+@article{DBLP:journals/jacm/KieferPS19,
+  author    = {Sandra Kiefer and
+               Ilia Ponomarenko and
+               Pascal Schweitzer},
+  title     = {The {Weisfeiler-Leman} Dimension of Planar Graphs Is at Most 3},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {44-1},
+}
+
+@article{DBLP:journals/jacm/DespreL19,
+  author    = {Vincent Despré and
+               Francis Lazarus},
+  title     = {Computing the Geometric Intersection Number of Curves},
+  journal   = jacm,
+  volume    = {66},
+  number    = {6},
+  year      = 2019,
+  pages     = {45-1},
+}
+
 @article{DBLP:journals/jacm/Tardos18,
   author    = {Éva Tardos},
   title     = {Invited Article Foreword},
@@ -693,7 +1228,7 @@
   author    = {Vitaly Feldman and
                Elena Grigorescu and
                Lev Reyzin and
-               Santosh Srinivas Vempala and
+               Santosh S. Vempala and
                Ying Xiao},
   title     = {Statistical Algorithms and a Lower Bound for Detecting Planted Cliques},
   journal   = jacm,
@@ -2405,7 +2940,7 @@
   author    = {Julien Cassaigne and
                James D. Currie and
                Luke Schaeffer and
-               Jeffrey Shallit},
+               Jeffrey O. Shallit},
   title     = {Avoiding Three Consecutive Blocks of the Same Size and Same Sum},
   journal   = jacm,
   volume    = {61},
@@ -3187,7 +3722,7 @@
 }
 
 @article{DBLP:journals/jacm/DvorakKT13,
-  author    = {Zdenek Dvorak and
+  author    = {Zdenek Dvorák and
                Daniel Král and
                Robin Thomas},
   title     = {Testing first-order properties for subclasses of sparse graphs},
@@ -4322,7 +4857,7 @@
 }
 
 @article{DBLP:journals/jacm/Vempala10,
-  author    = {Santosh Vempala},
+  author    = {Santosh S. Vempala},
   title     = {A random-sampling-based algorithm for learning intersections of halfspaces},
   journal   = jacm,
   volume    = {57},
@@ -4599,7 +5134,7 @@
 
 @article{DBLP:journals/jacm/StefankovicVV09,
   author    = {Daniel Stefankovic and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Eric Vigoda},
   title     = {Adaptive simulated annealing: A near-optimal connection between sampling and counting},
   journal   = jacm,
@@ -5188,7 +5723,7 @@
 
 @article{DBLP:journals/jacm/BergstraT07,
   author    = {Jan A. Bergstra and
-               J. V. Tucker},
+               John V. Tucker},
   title     = {The rational numbers as an abstract data type},
   journal   = jacm,
   volume    = {54},
@@ -6364,7 +6899,7 @@
 
 @article{DBLP:journals/jacm/KannanVV04,
   author    = {Ravi Kannan and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Adrian Vetta},
   title     = {On clusterings: Good, bad and spectral},
   journal   = jacm,
@@ -6387,7 +6922,7 @@
 
 @article{DBLP:journals/jacm/BertsimasV04,
   author    = {Dimitris Bertsimas and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Solving convex programs by random walks},
   journal   = jacm,
   volume    = {51},
@@ -6555,7 +7090,7 @@
 @article{DBLP:journals/jacm/FriezeKV04,
   author    = {Alan M. Frieze and
                Ravi Kannan and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Fast monte-carlo algorithms for finding low-rank approximations},
   journal   = jacm,
   volume    = {51},
@@ -7383,7 +7918,7 @@
 }
 
 @article{DBLP:journals/jacm/LehmannOS02,
-  author    = {Daniel J. Lehmann and
+  author    = {Daniel Lehmann and
                Liadan O'Callaghan and
                Yoav Shoham},
   title     = {Truth revelation in approximately efficient combinatorial auctions},
@@ -10245,7 +10780,7 @@
 
 @article{DBLP:journals/jacm/BergstraT95,
   author    = {Jan A. Bergstra and
-               J. V. Tucker},
+               John V. Tucker},
   title     = {Equational Specifications, Complete Term Rewriting Systems, and Computable and Semicomputable Algebras},
   journal   = jacm,
   volume    = {42},
@@ -12730,7 +13265,7 @@
 @article{DBLP:journals/jacm/ManacherBM89,
   author    = {Glenn K. Manacher and
                Tien Dai Bui and
-               T. Mai},
+               Mai Thanh},
   title     = {Optimum combinations of sorting and merging},
   journal   = jacm,
   volume    = {36},
@@ -14636,7 +15171,7 @@
 }
 
 @article{DBLP:journals/jacm/Bauer85,
-  author    = {Michael Anthony Bauer},
+  author    = {Michael A. Bauer},
   title     = {Soundness and Completeness of a Synthesis Algorithm Based on Example Computations},
   journal   = jacm,
   volume    = {32},
@@ -24521,7 +25056,7 @@
 }
 
 @article{DBLP:journals/jacm/Lyness69,
-  author    = {J. N. Lyness},
+  author    = {James N. Lyness},
   title     = {Notes on the Adaptive Simpson Quadrature Routine},
   journal   = jacm,
   volume    = {16},
@@ -25955,7 +26490,7 @@
 }
 
 @article{DBLP:journals/jacm/HorwitzKMW66,
-  author    = {L. P. Horwitz and
+  author    = {Lawrence Paul Horwitz and
                Richard M. Karp and
                Raymond E. Miller and
                Shmuel Winograd},
@@ -26021,7 +26556,7 @@
 
 @article{DBLP:journals/jacm/BarlowJ66,
   author    = {C. A. Barlow Jr. and
-               E. L. Jones},
+               Eric L. Jones},
   title     = {A Method for the Solution of Roots of a Nonlinear Equation and for Solution of the General Eigenvalue Problem},
   journal   = jacm,
   volume    = {13},
@@ -28638,7 +29173,7 @@
 
 @article{DBLP:journals/jacm/GutenmakherV61,
   author    = {L. L. Gutenmakher and
-               G. E. Vleduts},
+               G. É. Vléduts},
   title     = {The Prospects for the Utilization of {Informational-Logical} Machines in Chemistry (USSR)},
   journal   = jacm,
   volume    = {8},
@@ -29159,7 +29694,7 @@
 }
 
 @article{DBLP:journals/jacm/Alonso60,
-  author    = {R. Alonso},
+  author    = {Ramón Alonso},
   title     = {A Starting Method for the {Three-Point} Adams {Predictor-Corrector} Method},
   journal   = jacm,
   volume    = {7},
@@ -29587,7 +30122,7 @@
 
 @article{DBLP:journals/jacm/GoldstineH59,
   author    = {Herman H. Goldstine and
-               L. P. Horwitz},
+               Lawrence Paul Horwitz},
   title     = {A Procedure for the Diagonalization of Normal Matrices},
   journal   = jacm,
   volume    = {6},
@@ -29690,7 +30225,7 @@
 }
 
 @article{DBLP:journals/jacm/WheelerS59,
-  author    = {D. J. Wheeler and
+  author    = {David J. Wheeler and
                H. P. F. Swinnerton-Dyer},
   title     = {Letter to the Editor on "A Method for Transposing a Matrix"},
   journal   = jacm,

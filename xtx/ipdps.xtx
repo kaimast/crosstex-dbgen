@@ -1,5 +1,2826 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/ipps/Foster19,
+  author    = {Ian T. Foster},
+  title     = {Coding the Continuum},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ipps/Pasricha19,
+  author    = {Sudeep Pasricha},
+  title     = {Introduction to {HCW} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ipps/Shirazi19,
+  author    = {Behrooz A. Shirazi},
+  title     = {Message from the {HCW} Steering Committee Chair},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/ipps/AzadB19,
+  author    = {Ariful Azad and
+               Aydin Buluç},
+  title     = {LACC: A {Linear-Algebraic} Algorithm for Finding Connected Components in Distributed Memory},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {2-12},
+}
+
+@inproceedings{DBLP:conf/ipps/Pasricha19a,
+  author    = {Sudeep Pasricha},
+  title     = {Message from the {HCW} General Chair},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/ipps/Antonio19,
+  author    = {John K. Antonio},
+  title     = {Message from the {HCW} Program Committee Chair},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/ipps/Prasanna19,
+  author    = {Viktor K. Prasanna},
+  title     = {{HCW} 2019 Keynote Address},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/ipps/DenninnartGS19,
+  author    = {Chavit Denninnart and
+               James Gentry and
+               Mohsen Amini Salehi},
+  title     = {Improving Robustness of Heterogeneous Serverless Computing Systems via Probabilistic Task Pruning},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {6-15},
+}
+
+@inproceedings{DBLP:conf/ipps/HenzingerN019,
+  author    = {Monika Henzinger and
+               Alexander Noe and
+               Christian Schulz},
+  title     = {{Shared-Memory} Exact Minimum Cuts},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/ipps/BeaumontEG19,
+  author    = {Olivier Beaumont and
+               Lionel Eyraud-Dubois and
+               Yihong Gao},
+  title     = {Influence of Tasks Duration Variability on {Task-Based} Runtime Schedulers},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {16-25},
+}
+
+@inproceedings{DBLP:conf/ipps/AgarwalR19,
+  author    = {Udit Agarwal and
+               Vijaya Ramachandran},
+  title     = {Distributed Weighted All Pairs Shortest Paths Through Pipelining},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {23-32},
+}
+
+@inproceedings{DBLP:conf/ipps/NoackFS19,
+  author    = {Matthias Noack and
+               Erich Focht and
+               Thomas Steinke},
+  title     = {Heterogeneous Active Messages for Offloading on the {NEC} {SX-Aurora} {TSUBASA}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {26-35},
+}
+
+@inproceedings{DBLP:conf/ipps/BambergerKM19,
+  author    = {Philipp Bamberger and
+               Fabian Kuhn and
+               Yannic Maus},
+  title     = {Local Distributed Algorithms in Highly Dynamic Networks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {33-42},
+}
+
+@inproceedings{DBLP:conf/ipps/FuentesCLS19,
+  author    = {Joel Fuentes and
+               Wei-Yu Chen and
+               Guei-Yuan Lueh and
+               Isaac D. Scherson},
+  title     = {A {Lock-Free} Skiplist for Integrated Graphics Processing Units},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {36-46},
+}
+
+@inproceedings{DBLP:conf/ipps/FrankSB19,
+  author    = {Alvaro Frank and
+               Tim Süß and
+               André Brinkmann},
+  title     = {Effects and Benefits of Node Sharing Strategies in {HPC} Batch Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {43-53},
+}
+
+@inproceedings{DBLP:conf/ipps/RawalFC19,
+  author    = {Arjun Rawal and
+               Yuanwei Fang and
+               Andrew A. Chien},
+  title     = {Programmable Acceleration for Sparse Matrices in a {Data-Movement} Limited World},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {47-56},
+}
+
+@inproceedings{DBLP:conf/ipps/GomezMAMMC19,
+  author    = {Constantino Gómez and
+               Francesc Martínez and
+               Adrià Armejach and
+               Miquel Moretó and
+               Filippo Mantovani and
+               Marc Casas},
+  title     = {Design Space Exploration of {Next-Generation} {HPC} Machines},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {54-65},
+}
+
+@inproceedings{DBLP:conf/ipps/PattonKML19,
+  author    = {Stephen Patton and
+               Hamidreza Khaleghzadeh and
+               Ravi Reddy Manumachu and
+               Alexey L. Lastovetsky},
+  title     = {SummaGen: Parallel {Matrix-Matrix} Multiplication Based on Non-rectangular Partitions for Heterogeneous {HPC} Platforms},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {57-68},
+}
+
+@inproceedings{DBLP:conf/ipps/Ben-NunBHZPH19,
+  author    = {Tal Ben-Nun and
+               Maciej Besta and
+               Simon Huber and
+               Alexandros Nikolaos Ziogas and
+               Daniel Peter and
+               Torsten Hoefler},
+  title     = {A Modular Benchmarking Infrastructure for {High-Performance} and Reproducible Deep Learning},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {66-77},
+}
+
+@inproceedings{DBLP:conf/ipps/LimaD19,
+  author    = {Fernanda Lima and
+               Oliver Diessel},
+  title     = {Introduction to {RAW} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {69},
+}
+
+@inproceedings{DBLP:conf/ipps/Carro19,
+  author    = {Luigi Carro},
+  title     = {{RAW} 2019 Keynote Speaker},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {70},
+}
+
+@inproceedings{DBLP:conf/ipps/Ben-AsherS19,
+  author    = {Yosi Ben-Asher and
+               Esti Stein},
+  title     = {Evaluation of Circuits on the Reconfigurable Mesh},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {71-74},
+}
+
+@inproceedings{DBLP:conf/ipps/SaquettiBCA19,
+  author    = {Mateus Saquetti and
+               Guilherme Bueno and
+               Weverton Cordeiro and
+               José Rodrigo Azambuja},
+  title     = {VirtP4: An Architecture for P4 Virtualization},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {75-78},
+}
+
+@inproceedings{DBLP:conf/ipps/DomkeMWZYTTPM19,
+  author    = {Jens Domke and
+               Kazuaki Matsumura and
+               Mohamed Wahib and
+               Haoyu Zhang and
+               Keita Yashima and
+               Toshiki Tsuchikawa and
+               Yohei Tsuji and
+               Artur Podobas and
+               Satoshi Matsuoka},
+  title     = {{Double-Precision} {FPUs} in {High-Performance} Computing: An Embarrassment of Riches?},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {78-88},
+}
+
+@inproceedings{DBLP:conf/ipps/BekbolatKSV19,
+  author    = {Marzhan Bekbolat and
+               Sabina Kairatova and
+               Ayan Shymyrbay and
+               Kizheppatt Vipin},
+  title     = {HBLast: An {Open-Source} {FPGA} Library for {DNA} Sequencing Acceleration},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {79-82},
+}
+
+@inproceedings{DBLP:conf/ipps/RettkowskiMSHG19,
+  author    = {Jens Rettkowski and
+               Safdar Mahmood and
+               Arij Shallufa and
+               Michael Hübner and
+               Diana Göhringer},
+  title     = {Inspection of Partial Bitstreams for {FPGAs} Using Artificial Neural Networks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {83-86},
+}
+
+@inproceedings{DBLP:conf/ipps/NabiV19,
+  author    = {Syed Waqar Nabi and
+               Wim Vanderbauwhede},
+  title     = {Smart-Cache: Optimising Memory Accesses for Arbitrary Boundaries and Stencils on {FPGAs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {87-90},
+}
+
+@inproceedings{DBLP:conf/ipps/HutterS19,
+  author    = {Edward Hutter and
+               Edgar Solomonik},
+  title     = {{Communication-Avoiding} Cholesky-QR2 for Rectangular Matrices},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {89-100},
+}
+
+@inproceedings{DBLP:conf/ipps/NestorovSRSS19,
+  author    = {Anna Maria Nestorov and
+               Alberto Scolari and
+               Enrico Reggiani and
+               Luca Stornaiuolo and
+               Marco D. Santambrogio},
+  title     = {A Case Study for an Accelerated {DCNN} on {FPGA-Based} Embedded Distributed System},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {91-94},
+}
+
+@inproceedings{DBLP:conf/ipps/DiasF19,
+  author    = {Maurício Acconcia Dias and
+               Daniel Augusto Pagi Ferreira},
+  title     = {Deep Learning in Reconfigurable Hardware: A Survey},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {95-98},
+}
+
+@inproceedings{DBLP:conf/ipps/GuettatfiPKK19,
+  author    = {Zakarya Guettatfi and
+               Marco Platzner and
+               Omar Kermia and
+               Abdelhakim Khouas},
+  title     = {An Approach for Mapping Periodic {Real-Time} Tasks to Reconfigurable Hardware},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {99-106},
+}
+
+@inproceedings{DBLP:conf/ipps/Wolfson-PouC19,
+  author    = {Jordi Wolfson-Pou and
+               Edmond Chow},
+  title     = {Asynchronous Multigrid Methods},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {101-110},
+}
+
+@inproceedings{DBLP:conf/ipps/ReggianiRNSSS19,
+  author    = {Enrico Reggiani and
+               Marco Rabozzi and
+               Anna Maria Nestorov and
+               Alberto Scolari and
+               Luca Stornaiuolo and
+               Marco D. Santambrogio},
+  title     = {Pareto Optimal Design Space Exploration for Accelerated {CNN} on {FPGA}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {107-114},
+}
+
+@inproceedings{DBLP:conf/ipps/AbdelfattahTD19,
+  author    = {Ahmad Abdelfattah and
+               Stanimire Tomov and
+               Jack J. Dongarra},
+  title     = {Fast Batched Matrix Multiplication for Small Sizes Using {Half-Precision} Arithmetic on {GPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/ipps/Weinhardt19,
+  author    = {Markus Weinhardt},
+  title     = {{High-Level} Synthesis Oriented Restructuring of Functions with While Loops},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {115-122},
+}
+
+@inproceedings{DBLP:conf/ipps/WinogradSG19,
+  author    = {Theodore Winograd and
+               Rabia Shahid and
+               Kris Gaj},
+  title     = {An Automated {Scheduler-Based} Approach for the Development of Cryptoprocessors for {Pairing-Based} Cryptosystems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {123-131},
+}
+
+@inproceedings{DBLP:conf/ipps/Nisa0SVS19,
+  author    = {Israt Nisa and
+               Jiajia Li and
+               Aravind Sukumaran-Rajam and
+               Richard W. Vuduc and
+               P. Sadayappan},
+  title     = {{Load-Balanced} Sparse {MTTKRP} on {GPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {123-133},
+}
+
+@inproceedings{DBLP:conf/ipps/StornaiuoloPSS19,
+  author    = {Luca Stornaiuolo and
+               Massimo Perini and
+               Marco D. Santambrogio and
+               Donatella Sciuto},
+  title     = {{FPGA-Based} Embedded System Implementation of Audio Signal Alignment},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {132-139},
+}
+
+@inproceedings{DBLP:conf/ipps/AgrawalL0LM19,
+  author    = {Kunal Agrawal and
+               I-Ting Angelina Lee and
+               Jing Li and
+               Kefu Lu and
+               Benjamin Moseley},
+  title     = {Practically Efficient Scheduler for Minimizing Average Flow Time of Parallel Jobs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {134-144},
+}
+
+@inproceedings{DBLP:conf/ipps/BenevenutiCTTKZ19,
+  author    = {Fabio Benevenuti and
+               Eduardo Chielle and
+               Jorge L. Tonfat and
+               Lucas A. Tambara and
+               Fernanda Lima Kastensmidt and
+               Carlos Alberto Zaffari and
+               João Baptista dos Santos Martins and
+               Otávio Santos Cupertino Durão},
+  title     = {Experimental Applications on {SRAM-Based} {FPGA} for the NanosatC-BR2 Scientific Mission},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {140-146},
+}
+
+@inproceedings{DBLP:conf/ipps/JansenMM19,
+  author    = {Klaus Jansen and
+               Marten Maack and
+               Alexander Mäcker},
+  title     = {Scheduling on (Un-)Related Machines with Setup Times},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {145-154},
+}
+
+@inproceedings{DBLP:conf/ipps/Fricke0SWH19,
+  author    = {Florian Fricke and
+               André Werner and
+               Keyvan Shahin and
+               Florian Werner and
+               Michael Hübner},
+  title     = {Automatic {Tool-Flow} for Mapping Applications to an {Application-Specific} {CGRA} Architecture},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {147-154},
+}
+
+@inproceedings{DBLP:conf/ipps/KorolijaS19,
+  author    = {Dario Korolija and
+               Mirjana Stojilovic},
+  title     = {{FPGA-Assisted} Deterministic Routing for {FPGAs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {155-162},
+}
+
+@inproceedings{DBLP:conf/ipps/OzkayaBUHC19,
+  author    = {M. Yusuf Özkaya and
+               Anne Benoit and
+               Bora Uçar and
+               Julien Herrmann and
+               Ümit V. Çatalyürek},
+  title     = {A Scalable {Clustering-Based} Task Scheduler for Homogeneous Processors Using {DAG} Partitioning},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {155-165},
+}
+
+@inproceedings{DBLP:conf/ipps/MeloK19,
+  author    = {Alba Cristina Magalhaes Alves de Melo and
+               Ananth Kalyanaraman},
+  title     = {Introduction to {HiCOMB} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {163-164},
+}
+
+@inproceedings{DBLP:conf/ipps/Royyuru19,
+  author    = {Ajay K. Royyuru},
+  title     = {{HiCOMB} 2019 Keynote Speaker},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {165},
+}
+
+@inproceedings{DBLP:conf/ipps/RaoSL19,
+  author    = {Dhananjai Madhava Rao and
+               Sutharzan Sreeskandarajan and
+               Chun Liang},
+  title     = {Accelerating Clustering using Approximate Spanning Tree and Prime Number Based Filter},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {166-174},
+}
+
+@inproceedings{DBLP:conf/ipps/AupyGHRRS19,
+  author    = {Guillaume Aupy and
+               Ana Gainaru and
+               Valentin Honoré and
+               Padma Raghavan and
+               Yves Robert and
+               Hongyang Sun},
+  title     = {Reservation Strategies for Stochastic Jobs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {166-175},
+}
+
+@inproceedings{DBLP:conf/ipps/BaarHOZSSM19,
+  author    = {Ivo Baar and
+               Lukas Hübner and
+               Peter Oettig and
+               Adrian Zapletal and
+               Sebastian Schlag and
+               Alexandros Stamatakis and
+               Benoit Morel},
+  title     = {Data Distribution for Phylogenetic Inference with Site Repeats via Judicious Hypergraph Partitioning},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {175-184},
+}
+
+@inproceedings{DBLP:conf/ipps/MagalhaesSSH19,
+  author    = {Bruno R. C. Magalhães and
+               Thomas Sterling and
+               Felix Schürmann and
+               Michael L. Hines},
+  title     = {Exploiting Flow Graph of System of {ODEs} to Accelerate the Simulation of {Biologically-Detailed} Neural Networks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {176-187},
+}
+
+@inproceedings{DBLP:conf/ipps/OcanaG019,
+  author    = {Kary A. C. S. Ocaña and
+               Thaylon Guedes and
+               Daniel de Oliveira},
+  title     = {ArrOW: Experiencing a Parallel {Cloud-Based} De Novo Assembler Workflow},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {185-190},
+}
+
+@inproceedings{DBLP:conf/ipps/LiuLKV19,
+  author    = {Jiawen Liu and
+               Dong Li and
+               Gokcen Kestor and
+               Jeffrey S. Vetter},
+  title     = {Runtime Concurrency Control and Operation Scheduling for High Performance Neural Network Training},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {188-199},
+}
+
+@inproceedings{DBLP:conf/ipps/HaseebAS19,
+  author    = {Muhammad Haseeb and
+               Fatima Afzali and
+               Fahad Saeed},
+  title     = {LBE: A Computational Load Balancing Algorithm for Speeding up Parallel Peptide Search in {Mass-Spectrometry} Based Proteomics},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {191-198},
+}
+
+@inproceedings{DBLP:conf/ipps/BinderLP19,
+  author    = {Elliott Binder and
+               Tze Meng Low and
+               Doru-Thom Popovici},
+  title     = {A Portable {GPU} Framework for {SNP} Comparisons},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {199-208},
+}
+
+@inproceedings{DBLP:conf/ipps/BGK19,
+  author    = {Shriram S. B and
+               Anshuj Garg and
+               Purushottam Kulkarni},
+  title     = {Dynamic Memory Management for {GPU-Based} Training of Deep Neural Networks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {200-209},
+}
+
+@inproceedings{DBLP:conf/ipps/KerbiriouC19,
+  author    = {Maël Kerbiriou and
+               Rayan Chikhi},
+  title     = {Parallel Decompression of {Gzip-Compressed} Files and Random Access to {DNA} Sequences},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {209-217},
+}
+
+@inproceedings{DBLP:conf/ipps/DrydenMBMSE19,
+  author    = {Nikoli Dryden and
+               Naoya Maruyama and
+               Tom Benson and
+               Tim Moon and
+               Marc Snir and
+               Brian Van Essen},
+  title     = {Improving {Strong-Scaling} of {CNN} Training by Exploiting {Finer-Grained} Parallelism},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {210-220},
+}
+
+@inproceedings{DBLP:conf/ipps/MattsonT19,
+  author    = {Tim Mattson and
+               Antonino Tumeo},
+  title     = {Introduction to {GrAPL} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {218-219},
+}
+
+@inproceedings{DBLP:conf/ipps/Pingali19,
+  author    = {Keshav Pingali},
+  title     = {{GrAPL} Keynote 1},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {220},
+}
+
+@inproceedings{DBLP:conf/ipps/PriestSSP19,
+  author    = {Benjamin Priest and
+               Trevor Steil and
+               Geoffrey Sanders and
+               Roger Pearce},
+  title     = {You've Got Mail (YGM): Building Missing Asynchronous Communication Primitives},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {221-230},
+}
+
+@inproceedings{DBLP:conf/ipps/WangZLG19,
+  author    = {Pengyu Wang and
+               Lu Zhang and
+               Chao Li and
+               Minyi Guo},
+  title     = {Excavating the Potential of {GPU} for Accelerating Graph Traversal},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {221-230},
+}
+
+@inproceedings{DBLP:conf/ipps/OsamaTYBO19,
+  author    = {Muhammad Osama and
+               Minh Truong and
+               Carl Yang and
+               Aydin Buluç and
+               John D. Owens},
+  title     = {Graph Coloring on the {GPU}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {231-240},
+}
+
+@inproceedings{DBLP:conf/ipps/AnztRFCD19,
+  author    = {Hartwig Anzt and
+               Tobias Ribizel and
+               Goran Flegar and
+               Edmond Chow and
+               Jack J. Dongarra},
+  title     = {{ParILUT} - A Parallel Threshold {ILU} for {GPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {231-241},
+}
+
+@inproceedings{DBLP:conf/ipps/SridharBMSLM19,
+  author    = {Upasana Sridhar and
+               Mark Blanco and
+               Rahul Mayuranath and
+               Daniele G. Spampinato and
+               Tze Meng Low and
+               Scott McMillan},
+  title     = {{Delta-Stepping} SSSP: From Vertices and Edges to {GraphBLAS} Implementations},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {241-250},
+}
+
+@inproceedings{DBLP:conf/ipps/0045LCP19,
+  author    = {Jie Zhang and
+               Xiaoyi Lu and
+               Ching-Hsiang Chu and
+               Dhabaleswar K. Panda},
+  title     = {C-GDR: {High-Performance} {Container-Aware} {GPUDirect} {MPI} Communication Schemes on {RDMA} Networks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {242-251},
+}
+
+@inproceedings{DBLP:conf/ipps/SteilPSPFI19,
+  author    = {Trevor Steil and
+               Benjamin W. Priest and
+               Geoffrey Sanders and
+               Roger Pearce and
+               Timothy La Fond and
+               Keita Iwabuchi},
+  title     = {Distributed Kronecker Graph Generation with Ground Truth of Many Graph Properties},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {251-260},
+}
+
+@inproceedings{DBLP:conf/ipps/AllenF019,
+  author    = {Tyler Allen and
+               Xizhou Feng and
+               Rong Ge},
+  title     = {Slate: Enabling {Workload-Aware} Efficient Multiprocessing for Modern {GPGPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {252-261},
+}
+
+@inproceedings{DBLP:conf/ipps/Ribeiro19,
+  author    = {Bruno Ribeiro},
+  title     = {{GrAPL} Keynote 2},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {261},
+}
+
+@inproceedings{DBLP:conf/ipps/HaganHPRL19,
+  author    = {Ronald D. Hagan and
+               Brett D. Hagan and
+               Charles A. Phillips and
+               Bradley J. Rhodes and
+               Michael A. Langston},
+  title     = {Compound Analytics using Combinatorics for Feature Selection: A Case Study in Biomarker Detection},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {262-267},
+}
+
+@inproceedings{DBLP:conf/ipps/Xu0XYKK19,
+  author    = {Jielong Xu and
+               Jian Tang and
+               Zhiyuan Xu and
+               Chengxiang Yin and
+               Kevin A. Kwiat and
+               Charles A. Kamhoua},
+  title     = {A Deep Recurrent Neural Network Based Predictive Control Framework for Reliable Distributed Stream Data Processing},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {262-272},
+}
+
+@inproceedings{DBLP:conf/ipps/KepnerR19,
+  author    = {Jeremy Kepner and
+               Ryan A. Robinett},
+  title     = {RadiX-Net: Structured Sparse Matrices for Deep Neural Networks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {268-274},
+}
+
+@inproceedings{DBLP:conf/ipps/ColasoPFGP19,
+  author    = {Adrian Colaso and
+               Pablo Prieto and
+               Pablo Abad Fidalgo and
+               José-Ángel Gregorio and
+               Valentin Puente},
+  title     = {Architecting Racetrack Memory Preshift through {Pattern-Based} Prediction Mechanisms},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {273-282},
+}
+
+@inproceedings{DBLP:conf/ipps/Appel19,
+  author    = {Ana Paula Appel},
+  title     = {{GrAPL} Keynote 3},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {275},
+}
+
+@inproceedings{DBLP:conf/ipps/MattsonDKBMMY19,
+  author    = {Tim Mattson and
+               Timothy A. Davis and
+               Manoj Kumar and
+               Aydin Buluç and
+               Scott McMillan and
+               José E. Moreira and
+               Carl Yang},
+  title     = {LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the {GraphBLAS}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {276-284},
+}
+
+@inproceedings{DBLP:conf/ipps/ChardLCWBWTBFF19,
+  author    = {Ryan Chard and
+               Zhuozhao Li and
+               Kyle Chard and
+               Logan T. Ward and
+               Yadu N. Babuji and
+               Anna Woodard and
+               Steven Tuecke and
+               Ben Blaiszik and
+               Michael J. Franklin and
+               Ian T. Foster},
+  title     = {DLHub: Model and Data Serving for Science},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {283-292},
+}
+
+@inproceedings{DBLP:conf/ipps/CailliauDGKLLO19,
+  author    = {Pieter Cailliau and
+               Tim Davis and
+               Vijay Gadepally and
+               Jeremy Kepner and
+               Roi Lipman and
+               Jeffrey Lovitz and
+               Keren Ouaknine},
+  title     = {{RedisGraph} {GraphBLAS} Enabled Graph Database},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {285-286},
+}
+
+@inproceedings{DBLP:conf/ipps/Rodriguez19,
+  author    = {Noemi Rodriguez},
+  title     = {Introduction to {EduPar} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {287-288},
+}
+
+@inproceedings{DBLP:conf/ipps/Silva19,
+  author    = {Dilma Da Silva},
+  title     = {{EduPar} 2019 Keynote},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {289},
+}
+
+@inproceedings{DBLP:conf/ipps/PG19,
+  author    = {Chitra P and
+               Sheikh K. Ghafoor},
+  title     = {Activity Based Approach for Teaching Parallel Computing: An Indian Experience},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {290-295},
+}
+
+@inproceedings{DBLP:conf/ipps/LuoH0Q0BYZWQ19,
+  author    = {Huizhang Luo and
+               Dan Huang and
+               Qing Liu and
+               Zhenbo Qiao and
+               Hong Jiang and
+               Jing Bi and
+               Haitao Yuan and
+               Mengchu Zhou and
+               Jinzhen Wang and
+               Zhenlu Qin},
+  title     = {Identifying Latent Reduced Models to Precondition Lossy Compression},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {293-302},
+}
+
+@inproceedings{DBLP:conf/ipps/MarzuloBSFGF19,
+  author    = {Leandro A. J. Marzulo and
+               Calebe P. Bianchini and
+               Leandro Santiago and
+               Victor C. Ferreira and
+               Brunno F. Goldstein and
+               Felipe M. G. França},
+  title     = {Teaching High Performance Computing through Parallel Programming Marathons},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {296-303},
+}
+
+@inproceedings{DBLP:conf/ipps/NejatPS19,
+  author    = {Mehrzad Nejat and
+               Miquel Pericàs and
+               Per Stenström},
+  title     = {{QoS-Driven} Coordinated Management of Resources to Save Energy in Multi-core Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {303-313},
+}
+
+@inproceedings{DBLP:conf/ipps/YounisSMB19,
+  author    = {Awad A. Younis and
+               Rajshekhar Sunderraman and
+               Mike Metzler and
+               Anu G. Bourgeois},
+  title     = {Case Study: Using Project Based Learning to Develop Parallel Programing and Soft Skills},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {304-311},
+}
+
+@inproceedings{DBLP:conf/ipps/GoncharowBMBSSP19,
+  author    = {Alec Goncharow and
+               Anna Boekelheide and
+               Matthew Mcquaigue and
+               David Burlinson and
+               Erik Saule and
+               Kalpathi R. Subramanian and
+               Jamie Payton},
+  title     = {Classifying Pedagogical Material to Improve Adoption of Parallel and Distributed Computing Topics},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {312-319},
+}
+
+@inproceedings{DBLP:conf/ipps/VasimuddinMLA19,
+  author    = {Md. Vasimuddin and
+               Sanchit Misra and
+               Heng Li and
+               Srinivas Aluru},
+  title     = {Efficient {Architecture-Aware} Acceleration of {BWA-MEM} for Multicore Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {314-324},
+}
+
+@inproceedings{DBLP:conf/ipps/WatkinsonSNV19,
+  author    = {Neftali Watkinson and
+               Aniket Shivam and
+               Alexandru Nicolau and
+               Alexander V. Veidenbaum},
+  title     = {Teaching Parallel Computing and Dependence Analysis with Python},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {320-325},
+}
+
+@inproceedings{DBLP:conf/ipps/LabasanLCR19,
+  author    = {Stephanie Labasan and
+               Matthew Larsen and
+               Hank Childs and
+               Barry Rountree},
+  title     = {Power and Performance Tradeoffs for Visualization Algorithms},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {325-334},
+}
+
+@inproceedings{DBLP:conf/ipps/DannerNW19,
+  author    = {Andrew Danner and
+               Tia Newhall and
+               Kevin C. Webb},
+  title     = {ParaVis: A Library for Visualizing and Debugging Parallel Applications},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {326-333},
+}
+
+@inproceedings{DBLP:conf/ipps/LevandowskiPB19,
+  author    = {Benjamin Levandowski and
+               Debbie Perouli and
+               Dennis Brylow},
+  title     = {Using Embedded Xinu and the Raspberry Pi 3 to Teach Parallel Computing in Assembly Programming},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {334-341},
+}
+
+@inproceedings{DBLP:conf/ipps/CheY19,
+  author    = {Shuai Che and
+               Jieming Yin},
+  title     = {Northup: {Divide-and-Conquer} Programming in Systems with Heterogeneous Memories and Processors},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {335-344},
+}
+
+@inproceedings{DBLP:conf/ipps/OzturkGMB19,
+  author    = {Ozcan Ozturk and
+               Ben Glick and
+               Jens Mache and
+               David P. Bunde},
+  title     = {Peachy Parallel Assignments ({EduPar} 2019)},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {342-346},
+}
+
+@inproceedings{DBLP:conf/ipps/ChanSS19,
+  author    = {T.-H. Hubert Chan and
+               Mauro Sozio and
+               Bintao Sun},
+  title     = {Distributed Approximate {k-Core} Decomposition and {Min-Max} Edge Orientation: Breaking the Diameter Barrier},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {345-354},
+}
+
+@inproceedings{DBLP:conf/ipps/AggarwalCCDDDFK19,
+  author    = {Deepak Aggarwal and
+               Fei Cao and
+               Harish Charan and
+               Debzani Deb and
+               Dabin Ding and
+               Toby Dragon and
+               Muztaba Fuad and
+               Prashant Kumar and
+               Hemant Joshi and
+               Anthony Moore and
+               Justin Shi and
+               Michelle M. Zhu and
+               Martina Barnas and
+               Noemi Rodriguez},
+  title     = {{EduPar} Posters},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {347-349},
+}
+
+@inproceedings{DBLP:conf/ipps/GholkarJ19,
+  author    = {Neha Gholkar and
+               Changhee Jung},
+  title     = {Introduction to {HIPS} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {350-351},
+}
+
+@inproceedings{DBLP:conf/ipps/Lee19,
+  author    = {Jaejin Lee},
+  title     = {{HIPS} 2019 Keynote},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {352},
+}
+
+@inproceedings{DBLP:conf/ipps/ChikinAAT19,
+  author    = {Artem Chikin and
+               José Nelson Amaral and
+               Karim Ali and
+               Ettore Tiotto},
+  title     = {Toward an Analytical Performance Model to Select between {GPU} and {CPU} Execution},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {353-362},
+}
+
+@inproceedings{DBLP:conf/ipps/Hashmi0BSP19,
+  author    = {Jahanzeb Maqbool Hashmi and
+               Sourav Chakraborty and
+               Mohammadreza Bayatpour and
+               Hari Subramoni and
+               Dhabaleswar K. Panda},
+  title     = {FALCON: Efficient Designs for {Zero-Copy} {MPI} Datatype Processing on Emerging Architectures},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {355-364},
+}
+
+@inproceedings{DBLP:conf/ipps/DanalisJHLD19,
+  author    = {Anthony Danalis and
+               Heike Jagode and
+               Thomas Hérault and
+               Piotr Luszczek and
+               Jack J. Dongarra},
+  title     = {{Software-Defined} Events through {PAPI}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {363-372},
+}
+
+@inproceedings{DBLP:conf/ipps/KhanchandaniW19,
+  author    = {Pankaj Khanchandani and
+               Roger Wattenhofer},
+  title     = {Two Elementary Instructions Make {Compare-and-Swap}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {365-374},
+}
+
+@inproceedings{DBLP:conf/ipps/SandersSB19,
+  author    = {William S. Sanders and
+               Srishti Srivastava and
+               Ioana Banicescu},
+  title     = {A {Container-Based} Framework to Facilitate Reproducibility in Employing Stochastic Process Algebra for Modeling Parallel Computing Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {373-381},
+}
+
+@inproceedings{DBLP:conf/ipps/GentryDS19,
+  author    = {James Gentry and
+               Chavit Denninnart and
+               Mohsen Amini Salehi},
+  title     = {Robust Dynamic Resource Allocation via Probabilistic Task Pruning in Heterogeneous Computing Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {375-384},
+}
+
+@inproceedings{DBLP:conf/ipps/RenLL19,
+  author    = {Jie Ren and
+               Chunhua Liao and
+               Dong Li},
+  title     = {Opera: Similarity Analysis on Data Access Patterns of {OpenMP} Tasks to Optimize Task Affinity},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {382-386},
+}
+
+@inproceedings{DBLP:conf/ipps/Rauchwerger19,
+  author    = {Lawrence Rauchwerger},
+  title     = {Two Roads to Parallelism: From Serial Code to Programming with {STAPL}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {385},
+}
+
+@inproceedings{DBLP:conf/ipps/Yan0TSL19,
+  author    = {Zhichao Yan and
+               Hong Jiang and
+               Yujuan Tan and
+               Stan Skelton and
+               Hao Luo},
+  title     = {Z-Dedup: A Case for Deduplicating Compressed Contents in Cloud},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {386-395},
+}
+
+@inproceedings{DBLP:conf/ipps/KnaustMS19,
+  author    = {Marius Knaust and
+               Florian Mayer and
+               Thomas Steinke},
+  title     = {{OpenMP} to {FPGA} Offloading Prototype Using {OpenCL} {SDK}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {387-390},
+}
+
+@inproceedings{DBLP:conf/ipps/Choi19,
+  author    = {Jee Choi},
+  title     = {Invited Talk 1},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {391},
+}
+
+@inproceedings{DBLP:conf/ipps/Hoefler19,
+  author    = {Torsten Hoefler},
+  title     = {Invited Talk 2},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {392},
+}
+
+@inproceedings{DBLP:conf/ipps/Fonseca19,
+  author    = {Pedeo Fonseca},
+  title     = {Invited Talk 3},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {393},
+}
+
+@inproceedings{DBLP:conf/ipps/LuZP19,
+  author    = {Xiaoyi Lu and
+               Jianfeng Zhan and
+               Dhabaleswar K. Panda},
+  title     = {Introduction to {HPBDC} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {394},
+}
+
+@inproceedings{DBLP:conf/ipps/Beckman19,
+  author    = {Pete Beckman},
+  title     = {{HPBDC} 2019 Keynote Speaker},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {395},
+}
+
+@inproceedings{DBLP:conf/ipps/GalletG19,
+  author    = {Benoît Gallet and
+               Michael Gowanlock},
+  title     = {Load Imbalance Mitigation Optimizations for {GPU-Accelerated} Similarity Joins},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {396-405},
+}
+
+@inproceedings{DBLP:conf/ipps/KochovskiSBDS19,
+  author    = {Petar Kochovski and
+               Rizos Sakellariou and
+               Marko Bajec and
+               Pavel D. Drobintsev and
+               Vlado Stankovski},
+  title     = {An Architecture and Stochastic Method for Database Container Placement in the {Edge-Fog-Cloud} Continuum},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {396-405},
+}
+
+@inproceedings{DBLP:conf/ipps/CaoLXL19,
+  author    = {Liqiang Cao and
+               Xu Liu and
+               Xiaowen Xu and
+               Zhanjun Liu},
+  title     = {A Performance Analysis of Large Scale Scientific Computing Applications from Log Archives},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {406-411},
+}
+
+@inproceedings{DBLP:conf/ipps/TziritasLK0Z19,
+  author    = {Nikos Tziritas and
+               Thanasis Loukopoulos and
+               Samee Khan and
+               Cheng-Zhong Xu and
+               Albert Y. Zomaya},
+  title     = {Online Live {VM} Migration Algorithms to Minimize Total Migration Time and Downtime},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {406-417},
+}
+
+@inproceedings{DBLP:conf/ipps/DoudaliG19,
+  author    = {Thaleia Dimitra Doudali and
+               Ada Gavrilovska},
+  title     = {Mnemo: Boosting Memory Cost Efficiency in Hybrid Memory Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {412-421},
+}
+
+@inproceedings{DBLP:conf/ipps/SaurabhRKPB19,
+  author    = {Nishant Saurabh and
+               Julian Remmers and
+               Dragi Kimovski and
+               Radu Prodan and
+               Jorge G. Barbosa},
+  title     = {{Semantics-Aware} Virtual Machine Image Management in {IaaS} Clouds},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {418-427},
+}
+
+@inproceedings{DBLP:conf/ipps/FoxGKJKQSSMACBJ19,
+  author    = {Geoffrey C. Fox and
+               James A. Glazier and
+               J. C. S. Kadupitiya and
+               Vikram Jadhao and
+               Minje Kim and
+               Judy Qiu and
+               James P. Sluka and
+               Endre T. Somogyi and
+               Madhav Marathe and
+               Abhijin Adiga and
+               Jiangzhuo Chen and
+               Oliver Beckstein and
+               Shantenu Jha},
+  title     = {Learning Everywhere: Pervasive Machine Learning for Effective {High-Performance} Computation},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {422-429},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhangH19,
+  author    = {Yongzhe Zhang and
+               Zhenjiang Hu},
+  title     = {Composing Optimization Techniques for {Vertex-Centric} Graph Processing via Communication Channels},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {428-438},
+}
+
+@inproceedings{DBLP:conf/ipps/HuangCN19,
+  author    = {Xin Sunny Huang and
+               Ang Chen and
+               T. S. Eugene Ng},
+  title     = {Green, Yellow, Yield: {End-Host} Traffic Scheduling for Distributed Deep Learning with {TensorLights}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {430-437},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhangZWC19,
+  author    = {Qin Zhang and
+               Li Zha and
+               Xiaohua Wan and
+               Boqun Cheng},
+  title     = {A {GPU} Inference System Scheduling Algorithm with Asynchronous Data Transfer},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {438-445},
+}
+
+@inproceedings{DBLP:conf/ipps/HoangDGP19,
+  author    = {Loc Hoang and
+               Roshan Dathathri and
+               Gurbinder Gill and
+               Keshav Pingali},
+  title     = {CuSP: A Customizable Streaming Edge Partitioner for Distributed Graph Analytics},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {439-450},
+}
+
+@inproceedings{DBLP:conf/ipps/Pi0Z019,
+  author    = {Aidi Pi and
+               Wei Chen and
+               Will Zeller and
+               Xiaobo Zhou},
+  title     = {It Can Understand the Logs, Literally},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {446-451},
+}
+
+@inproceedings{DBLP:conf/ipps/JainMZDA19,
+  author    = {Chirag Jain and
+               Sanchit Misra and
+               Haowen Zhang and
+               Alexander T. Dilthey and
+               Srinivas Aluru},
+  title     = {Accelerating Sequence Alignment to Graphs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {451-461},
+}
+
+@inproceedings{DBLP:conf/ipps/JaiswalS19,
+  author    = {Siddharth D. Jaiswal and
+               Yogesh Simmhan},
+  title     = {A {Partition-Centric} Distributed Algorithm for Identifying Euler Circuits in Large Graphs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {452-459},
+}
+
+@inproceedings{DBLP:conf/ipps/Pena19,
+  author    = {Antonio J. Peña},
+  title     = {Introduction to {AsHES} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {460},
+}
+
+@inproceedings{DBLP:conf/ipps/BoothB19,
+  author    = {Joshua Dennis Booth and
+               Gregory Bolet},
+  title     = {Javelin: A Scalable Implementation for Sparse Incomplete {LU} Factorization},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {461-470},
+}
+
+@inproceedings{DBLP:conf/ipps/ZengZSKP19,
+  author    = {Hanqing Zeng and
+               Hongkuan Zhou and
+               Ajitesh Srivastava and
+               Rajgopal Kannan and
+               Viktor K. Prasanna},
+  title     = {Accurate, Efficient and Scalable Graph Embedding},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {462-471},
+}
+
+@inproceedings{DBLP:conf/ipps/RibizelA19,
+  author    = {Tobias Ribizel and
+               Hartwig Anzt},
+  title     = {Approximate and Exact Selection on {GPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {471-478},
+}
+
+@inproceedings{DBLP:conf/ipps/YamazakiBLD19,
+  author    = {Ichitaro Yamazaki and
+               Zhaojun Bai and
+               Ding Lu and
+               Jack J. Dongarra},
+  title     = {Matrix Powers Kernels for {Thick-Restart} Lanczos with Explicit External Deflation},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {472-481},
+}
+
+@inproceedings{DBLP:conf/ipps/FujitaKYB19,
+  author    = {Norihisa Fujita and
+               Ryohei Kobayashi and
+               Yoshiki Yamaguchi and
+               Taisuke Boku},
+  title     = {Parallel Processing on {FPGA} Combining Computation and Communication in {OpenCL} Programming},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {479-488},
+}
+
+@inproceedings{DBLP:conf/ipps/NissimS19,
+  author    = {Roy Nissim and
+               Oded Schwartz},
+  title     = {Revisiting the I/{O-Complexity} of Fast Matrix Multiplication with Recomputations},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {482-490},
+}
+
+@inproceedings{DBLP:conf/ipps/KobayashiFYNB19,
+  author    = {Ryohei Kobayashi and
+               Norihisa Fujita and
+               Yoshiki Yamaguchi and
+               Ayumi Nakamichi and
+               Taisuke Boku},
+  title     = {{GPU-FPGA} Heterogeneous Computing with {OpenCL-Enabled} Direct Memory Access},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {489-498},
+}
+
+@inproceedings{DBLP:conf/ipps/WeissS19,
+  author    = {Elad Weiss and
+               Oded Schwartz},
+  title     = {Computation of Matrix Chain Products on Parallel Machines},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {491-500},
+}
+
+@inproceedings{DBLP:conf/ipps/FeiLYl19,
+  author    = {Xiongwei Fei and
+               Kenli Li and
+               Wangdong Yang and
+               Keqin Li},
+  title     = {Analysis of Energy Efficiency of a Parallel {AES} Algorithm for {CPU-GPU} Heterogeneous Platforms},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {499-508},
+}
+
+@inproceedings{DBLP:conf/ipps/HuangC19,
+  author    = {Hua Huang and
+               Edmond Chow},
+  title     = {Overlapping Communications with Other Communications and Its Application to Distributed Dense Matrix Computations},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {501-510},
+}
+
+@inproceedings{DBLP:conf/ipps/ChienMOBLV19,
+  author    = {Steven Wei Der Chien and
+               Stefano Markidis and
+               Vyacheslav Olshevsky and
+               Yaroslav Bulatov and
+               Erwin Laure and
+               Jeffrey S. Vetter},
+  title     = {{TensorFlow} Doing {HPC}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {509-518},
+}
+
+@inproceedings{DBLP:conf/ipps/ShinBXVGOR19,
+  author    = {Woong Shin and
+               Christopher Brumgard and
+               Bing Xie and
+               Sudharshan S. Vazhkudai and
+               Devarshi Ghoshal and
+               Sarp Oral and
+               Lavanya Ramakrishnan},
+  title     = {Data Jockey: Automatic Data Management for {HPC} Multi-tiered Storage Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {511-522},
+}
+
+@inproceedings{DBLP:conf/ipps/DanoyB19,
+  author    = {Grégoire Danoy and
+               Didier El Baz},
+  title     = {Introduction to {PDCO} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {519-520},
+}
+
+@inproceedings{DBLP:conf/ipps/DufloKBDB19,
+  author    = {Gabriel Duflo and
+               Emmanuel Kieffer and
+               Matthias R. Brust and
+               Grégoire Danoy and
+               Pascal Bouvry},
+  title     = {A {GP} {Hyper-Heuristic} Approach for Generating {TSP} Heuristics},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {521-529},
+}
+
+@inproceedings{DBLP:conf/ipps/Fan0IC0XG19,
+  author    = {Hao Fan and
+               Song Wu and
+               Shadi Ibrahim and
+               Ximing Chen and
+               Hai Jin and
+               Jiang Xiao and
+               Haibing Guan},
+  title     = {{NCQ-Aware} I/O Scheduling for Conventional Solid State Drives},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {523-532},
+}
+
+@inproceedings{DBLP:conf/ipps/ShinanoRG19,
+  author    = {Yuji Shinano and
+               Daniel Rehfeldt and
+               Tristan Gally},
+  title     = {An Easy Way to Build Parallel State-of-the-art Combinatorial Optimization Problem Solvers: A Computational Study on Solving Steiner Tree Problems and Mixed Integer Semidefinite Programs by using ug[SCIP-*, *]-Libraries},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {530-541},
+}
+
+@inproceedings{DBLP:conf/ipps/GuWXQ0GHDZ19,
+  author    = {Junqing Gu and
+               Chentao Wu and
+               Xin Xie and
+               Han Qiu and
+               Jie Li and
+               Minyi Guo and
+               Xubin He and
+               Yuanyuan Dong and
+               Yafei Zhao},
+  title     = {Optimizing the Parity Check Matrix for Efficient Decoding of {RS-Based} Cloud Storage Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {533-544},
+}
+
+@inproceedings{DBLP:conf/ipps/MoralesCF19,
+  author    = {Davi Melo Morales and
+               Antonio Augusto Chaves and
+               Alvaro Luiz Fazenda},
+  title     = {Parallel Clustering Search Applied to Capacitated Centered Clustering Problem},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {542-548},
+}
+
+@inproceedings{DBLP:conf/ipps/LiLXLX19,
+  author    = {Zhipeng Li and
+               Min Lv and
+               Yinlong Xu and
+               Yongkun Li and
+               Liangliang Xu},
+  title     = {D3: Deterministic Data Distribution for Efficient Data Reconstruction in {Erasure-Coded} Distributed Storage Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {545-556},
+}
+
+@inproceedings{DBLP:conf/ipps/BorisenkoG19,
+  author    = {Andrey Borisenko and
+               Sergei Gorlatch},
+  title     = {Optimal Batch Plants Design on Parallel Systems: A Comparative Study},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {549-558},
+}
+
+@inproceedings{DBLP:conf/ipps/LiuCLMSHXFY19,
+  author    = {Zhao Liu and
+               XueSen Chu and
+               Xiaojing Lv and
+               Hongsong Meng and
+               Shupeng Shi and
+               Wenji Han and
+               Jingheng Xu and
+               Haohuan Fu and
+               Guangwen Yang},
+  title     = {SunwayLB: Enabling {Extreme-Scale} Lattice Boltzmann Method Based Computing Fluid Dynamics Simulations on Sunway {TaihuLight}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {557-566},
+}
+
+@inproceedings{DBLP:conf/ipps/PonceS19,
+  author    = {Hiram Ponce and
+               Paulo Vitor C. Souza},
+  title     = {Intelligent Control Navigation Emerging on Multiple Mobile Robots Applying Social Wound Treatment},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {559-564},
+}
+
+@inproceedings{DBLP:conf/ipps/TchernykhBKMARR19,
+  author    = {Andrei Tchernykh and
+               Mikhail G. Babenko and
+               Viktor Andreevich Kuchukov and
+               Vanessa Miranda-López and
+               Arutyun Avetisyan and
+               Raúl Rivera-Rodríguez and
+               Gleb I. Radchenko},
+  title     = {Data Reliability and Redundancy Optimization of a Secure Multi-cloud Storage Under Uncertainty of Errors and Falsifications},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {565-572},
+}
+
+@inproceedings{DBLP:conf/ipps/RudyyGMSSV19,
+  author    = {Oleksandr Rudyy and
+               Marta Garcia-Gasulla and
+               Filippo Mantovani and
+               Alfonso Santiago and
+               Raül Sirvent and
+               Mariano Vázquez},
+  title     = {Containers in HPC: A Scalability and Portability Study in Production Biological Simulations},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {567-577},
+}
+
+@inproceedings{DBLP:conf/ipps/Goodwin19,
+  author    = {Roger L. Goodwin},
+  title     = {Efficiently Computing the Power Set in a Parallel Environment},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {573-579},
+}
+
+@inproceedings{DBLP:conf/ipps/GhoshKK19,
+  author    = {Priyanka Ghosh and
+               Sriram Krishnamoorthy and
+               Ananth Kalyanaraman},
+  title     = {PaKman: Scalable Assembly of Large Genomes on Distributed Memory Machines},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {578-589},
+}
+
+@inproceedings{DBLP:conf/ipps/BordimN19,
+  author    = {Jacir Luiz Bordim and
+               Koji Nakano},
+  title     = {Introduction to {APDCM} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {580-581},
+}
+
+@inproceedings{DBLP:conf/ipps/Melo19,
+  author    = {Alba Cristina Magalhaes Alves de Melo},
+  title     = {{APDCM} 2019 Keynote Talk},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {582},
+}
+
+@inproceedings{DBLP:conf/ipps/AbdelhafezZVR19,
+  author    = {Hazem A. Abdelhafez and
+               Christopher Zimmer and
+               Sudharshan S. Vazhkudai and
+               Matei Ripeanu},
+  title     = {AHEAD: A Tool for Projecting {Next-Generation} Hardware Enhancements on {GPU-Accelerated} Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {583-592},
+}
+
+@inproceedings{DBLP:conf/ipps/PatwaryCJHDC19,
+  author    = {Md. Mostofa Ali Patwary and
+               Milind Chabbi and
+               Heewoo Jun and
+               Jiaji Huang and
+               Greg Diamos and
+               Kenneth Church},
+  title     = {Language Modeling at Scale},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {590-599},
+}
+
+@inproceedings{DBLP:conf/ipps/LimPC19,
+  author    = {Seung-Ho Lim and
+               Ki-Woong Park and
+               Kwangho Cha},
+  title     = {Developing an {OpenSHMEM} Model Over a Switchless {PCIe} {Non-Transparent} Bridge Interface},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {593-602},
+}
+
+@inproceedings{DBLP:conf/ipps/DzinamariraDN19,
+  author    = {Simbarashe Dzinamarira and
+               Florin Dinu and
+               T. S. Eugene Ng},
+  title     = {DYRS: {Bandwidth-Aware} {Disk-to-Memory} Migration of Cold Data in {Big-Data} File Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {600-609},
+}
+
+@inproceedings{DBLP:conf/ipps/IkedaYKSN19,
+  author    = {Hiroya Ikeda and
+               Hiroki Yamane and
+               Mutsumi Kimura and
+               Yuki Shibayama and
+               Yasuhiko Nakashima},
+  title     = {Evaluation of Neuromorphic Hardware using Cellular Neural Networks and Oxide Semiconductors},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {603-608},
+}
+
+@inproceedings{DBLP:conf/ipps/KameiK19,
+  author    = {Sayaka Kamei and
+               Hirotsugu Kakugawa},
+  title     = {A {Self-Stabilizing} Algorithm for the Local (1, |Ni|)-Critical Section Problem with Safe Convergence},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {609-618},
+}
+
+@inproceedings{DBLP:conf/ipps/WadhwaPNWOBBC19,
+  author    = {Bharti Wadhwa and
+               Arnab Kumar Paul and
+               Sarah Neuwirth and
+               Feiyi Wang and
+               Sarp Oral and
+               Ali Raza Butt and
+               Jon Bernard and
+               Kirk W. Cameron},
+  title     = {iez: Resource Contention Aware Load Balancing for {Large-Scale} Parallel File Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {610-620},
+}
+
+@inproceedings{DBLP:conf/ipps/PaillardFL19,
+  author    = {Gabriel Paillard and
+               Felipe M. G. França and
+               Christian Lavault},
+  title     = {A Distributed Wheel Sieve Algorithm},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {619-626},
+}
+
+@inproceedings{DBLP:conf/ipps/GirolamoSSH19,
+  author    = {Salvatore Di Girolamo and
+               Pirmin Schmid and
+               Thomas C. Schulthess and
+               Torsten Hoefler},
+  title     = {SimFS: A Simulation Data Virtualizing File System Interface},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {621-630},
+}
+
+@inproceedings{DBLP:conf/ipps/CarvalhoBA19,
+  author    = {Ranyelson Neres Carvalho and
+               Jacir Luiz Bordim and
+               Eduardo Adílio Pelinson Alchieri},
+  title     = {{Entropy-Based} {DoS} Attack Identification in {SDN}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {627-634},
+}
+
+@inproceedings{DBLP:conf/ipps/AupyBE19,
+  author    = {Guillaume Aupy and
+               Olivier Beaumont and
+               Lionel Eyraud-Dubois},
+  title     = {Sizing and Partitioning Strategies for {Burst-Buffers} to Reduce {IO} Contention},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {631-640},
+}
+
+@inproceedings{DBLP:conf/ipps/VyskocilD19,
+  author    = {Tomás Vyskocil and
+               Hristo Djidjev},
+  title     = {Constraint Embedding for Solving Optimization Problems on Quantum Annealers},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {635-644},
+}
+
+@inproceedings{DBLP:conf/ipps/RawatVSRPS19,
+  author    = {Prashant Singh Rawat and
+               Miheer Vaidya and
+               Aravind Sukumaran-Rajam and
+               Atanas Rountev and
+               Louis-Noël Pouchet and
+               P. Sadayappan},
+  title     = {On Optimizing Complex Stencils on {GPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {641-652},
+}
+
+@inproceedings{DBLP:conf/ipps/ReguntaTK19,
+  author    = {Sai Charan Regunta and
+               Sai Harsh Tondomker and
+               Kishore Kothapalli},
+  title     = {{BRICS} - Efficient Techniques for Estimating the {Farness-Centrality} in Parallel},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {645-654},
+}
+
+@inproceedings{DBLP:conf/ipps/Zhao0LZLLZLG19,
+  author    = {Wenyi Zhao and
+               Quan Chen and
+               Hao Lin and
+               Jianfeng Zhang and
+               Jingwen Leng and
+               Chao Li and
+               Wenli Zheng and
+               Li Li and
+               Minyi Guo},
+  title     = {Themis: Predicting and Reining in {Application-Level} Slowdown on Spatial Multitasking {GPUs}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {653-663},
+}
+
+@inproceedings{DBLP:conf/ipps/Ben-AsherT19,
+  author    = {Yosi Ben-Asher and
+               Vladislav Tartakovsky},
+  title     = {Efficient Conversion of Boolean Circuits to Nondeterministic Branching Programs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {655-662},
+}
+
+@inproceedings{DBLP:conf/ipps/NakanoIB19,
+  author    = {Koji Nakano and
+               Yasuaki Ito and
+               Jacir Luiz Bordim},
+  title     = {{FIFO-Based} Hardware Sorters for High Bandwidth Memory},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {663-672},
+}
+
+@inproceedings{DBLP:conf/ipps/TavanaSAK19,
+  author    = {Mohammad Khavari Tavana and
+               Yifan Sun and
+               Nicolas Bohm Agostini and
+               David R. Kaeli},
+  title     = {Exploiting Adaptive Data Compression to Improve Performance and {Energy-Efficiency} of Compute Workloads in {Multi-GPU} Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {664-674},
+}
+
+@inproceedings{DBLP:conf/ipps/BanicescuSACSRR19,
+  author    = {Ioana Banicescu and
+               Peter Strazdins and
+               Eric Aubanel and
+               Raphaël Couturier and
+               Suzanne Michelle Shontz and
+               Thomas Rauber and
+               Gudula Rünger and
+               Laurence T. Yang},
+  title     = {Introduction to PDSEC-19},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {673-674},
+}
+
+@inproceedings{DBLP:conf/ipps/Phillips19,
+  author    = {Cynthia A. Phillips},
+  title     = {PDSEC-19 Keynote},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {675},
+}
+
+@inproceedings{DBLP:conf/ipps/KimDNDYK19,
+  author    = {Kyung Hoon Kim and
+               Priyank Devpura and
+               Abhishek Nayyar and
+               Andrew Doolittle and
+               Ki Hwan Yum and
+               Eun-Jung Kim},
+  title     = {Dual Pattern Compression Using {Data-Preprocessing} for {Large-Scale} {GPU} Architectures},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {675-685},
+}
+
+@inproceedings{DBLP:conf/ipps/TotounferoushPS19,
+  author    = {Amin Totounferoush and
+               Neda Ebrahimi Pour and
+               Juri Schröder and
+               Sabine Roller and
+               Miriam Mehl},
+  title     = {A New Load Balancing Approach for Coupled {Multi-Physics} Simulations},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {676-682},
+}
+
+@inproceedings{DBLP:conf/ipps/DubeyCHM19,
+  author    = {Anshu Dubey and
+               Saurabh Chawdhary and
+               James Austin Harris and
+               Bronson Messer},
+  title     = {Simulation Planning Using Component Based Cost Model},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {683-688},
+}
+
+@inproceedings{DBLP:conf/ipps/LegrandTZ19,
+  author    = {Arnaud Legrand and
+               Denis Trustram and
+               Salah Zrigui},
+  title     = {Adapting Batch Scheduling to Workload Characteristics: What Can We Expect From Online Learning?},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {686-695},
+}
+
+@inproceedings{DBLP:conf/ipps/EleliemyC19,
+  author    = {Ahmed Eleliemy and
+               Florina M. Ciorba},
+  title     = {Hierarchical Dynamic Loop {Self-Scheduling} on {Distributed-Memory} Systems Using an MPI+{MPI} Approach},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {689-697},
+}
+
+@inproceedings{DBLP:conf/ipps/WuZXX0DZ19,
+  author    = {Heng Wu and
+               Wenbo Zhang and
+               Yuanjia Xu and
+               Hao Xiang and
+               Tao Huang and
+               Haiyang Ding and
+               Zheng Zhang},
+  title     = {Aladdin: Optimized Maximum Flow Management for Shared Production Clusters},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {696-707},
+}
+
+@inproceedings{DBLP:conf/ipps/PerezNN19,
+  author    = {Daniel Hugo Cámpora Pérez and
+               Niko Neufeld and
+               Agustin Riscos-Núñez},
+  title     = {A Fast Local Algorithm for Track Reconstruction on Parallel Architectures},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {698-707},
+}
+
+@inproceedings{DBLP:conf/ipps/GarncarekJKM19,
+  author    = {Pawel Garncarek and
+               Tomasz Jurdzinski and
+               Dariusz R. Kowalski and
+               Miguel A. Mosteiro},
+  title     = {{mmWave} Wireless Backhaul Scheduling of Stochastic Packet Arrivals},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {708-717},
+}
+
+@inproceedings{DBLP:conf/ipps/GaspariniRCASCG19,
+  author    = {Leonardo Gasparini and
+               José Roberto Pereira Rodrigues and
+               Cesar Conopoima and
+               Douglas Adriano Augusto and
+               Michael de Souza and
+               Luiz Mariano Carvalho and
+               Paulo Goldfeld and
+               João Paulo Ramirez and
+               Jairo Panetta},
+  title     = {A Linear Solver Framework for Flow and Geomechanics Reservoir Simulation},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {708-717},
+}
+
+@inproceedings{DBLP:conf/ipps/BerenbrinkFKK19,
+  author    = {Petra Berenbrink and
+               Tom Friedetzky and
+               Dominik Kaaser and
+               Peter Kling},
+  title     = {Tight & Simple Load Balancing},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {718-726},
+}
+
+@inproceedings{DBLP:conf/ipps/GodardLBSM19,
+  author    = {Paul Godard and
+               Vincent Loechner and
+               Cédric Bastoul and
+               Frédéric Soulier and
+               Guillaume Muller},
+  title     = {A Flexible and Distributed Runtime System for {High-Throughput} Constrained Data Streams Generation},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {718-728},
+}
+
+@inproceedings{DBLP:conf/ipps/DeRose19,
+  author    = {Luiz DeRose},
+  title     = {The Path to Delivering Programable Exascale Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {727},
+}
+
+@inproceedings{DBLP:conf/ipps/DexterCS19,
+  author    = {Philip Dexter and
+               Kenneth Chiu and
+               Bedri Sendir},
+  title     = {An {Error-Reflective} Consistency Model for Distributed Data Stores},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {728-737},
+}
+
+@inproceedings{DBLP:conf/ipps/YuSHP19,
+  author    = {Fan Yu and
+               Peter Strazdins and
+               Jörg Henrichs and
+               Tim Pugh},
+  title     = {Shared Memory and {GPU} Parallelization of an Operational Atmospheric Transport and Dispersion Application},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {729-738},
+}
+
+@inproceedings{DBLP:conf/ipps/ArnoldGR19,
+  author    = {Jason Arnold and
+               Boris Glavic and
+               Ioan Raicu},
+  title     = {A {High-Performance} Distributed Relational Database System for Scalable {OLAP} Processing},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {738-748},
+}
+
+@inproceedings{DBLP:conf/ipps/AnztF19,
+  author    = {Hartwig Anzt and
+               Goran Flegar},
+  title     = {Are we Doing the Right Thing? - A Critical Analysis of the Academic {HPC} Community},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {739-745},
+}
+
+@inproceedings{DBLP:conf/ipps/Fujii19,
+  author    = {Akihiro Fujii},
+  title     = {Introduction to {IWAPT} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {746},
+}
+
+@inproceedings{DBLP:conf/ipps/Stanzani19,
+  author    = {Silvio Stanzani},
+  title     = {{IWAPT} 2019 Keynote Talk},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {747},
+}
+
+@inproceedings{DBLP:conf/ipps/GratlSTBN19,
+  author    = {Fabio Alexander Gratl and
+               Steffen Seckler and
+               Nikola Tchipev and
+               Hans-Joachim Bungartz and
+               Philipp Neumann},
+  title     = {AutoPas: {Auto-Tuning} for Particle Simulations},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {748-757},
+}
+
+@inproceedings{DBLP:conf/ipps/MecaRB19,
+  author    = {Ondrej Meca and
+               Lubomír Ríha and
+               Tomás Brzobohatý},
+  title     = {An Approach for Parallel Loading and {Pre-Processing} of Unstructured Meshes Stored in Spatially Scattered Fashion},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {749-760},
+}
+
+@inproceedings{DBLP:conf/ipps/Wende19,
+  author    = {Florian Wende},
+  title     = {C++ Data Layout Abstractions through Proxy Types},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {758-767},
+}
+
+@inproceedings{DBLP:conf/ipps/GhoshHKKG19,
+  author    = {Sayan Ghosh and
+               Mahantesh Halappanavar and
+               Ananth Kalyanaraman and
+               Arif Khan and
+               Assefaw H. Gebremedhin},
+  title     = {Exploring {MPI} Communication Models for Graph Applications Using Graph Matching as a Case Study},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {761-770},
+}
+
+@inproceedings{DBLP:conf/ipps/KomatsuK0K19,
+  author    = {Kazuhiko Komatsu and
+               Takumi Kishitani and
+               Masayuki Sato and
+               Hiroaki Kobayashi},
+  title     = {An Appropriate Computing System and Its System Parameters Selection Based on Bottleneck Prediction of Applications},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {768-777},
+}
+
+@inproceedings{DBLP:conf/ipps/0002GJWHWL19,
+  author    = {Zhiqiang Zuo and
+               Rong Gu and
+               Xi Jiang and
+               Zhaokang Wang and
+               Yihua Huang and
+               Linzhang Wang and
+               Xuandong Li},
+  title     = {BigSpa: An Efficient Interprocedural Static Analysis Engine in the Cloud},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {771-780},
+}
+
+@inproceedings{DBLP:conf/ipps/IbeidMDOG19,
+  author    = {Huda Ibeid and
+               Siping Meng and
+               Oliver Dobon and
+               Luke Olson and
+               William Gropp},
+  title     = {Learning with Analytical Models},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {778-786},
+}
+
+@inproceedings{DBLP:conf/ipps/GhazimirsaeedMA19,
+  author    = {S. Mahdieh Ghazimirsaeed and
+               Seyed Hessam Mirsadeghi and
+               Ahmad Afsahi},
+  title     = {An Efficient Collaborative Communication Mechanism for {MPI} Neighborhood Collectives},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {781-792},
+}
+
+@inproceedings{DBLP:conf/ipps/OhshimaSSOKA19,
+  author    = {Satoshi Ohshima and
+               Soichiro Suzuki and
+               Tatsuya Sakashita and
+               Masao Ogino and
+               Takahiro Katagiri and
+               Yoshimichi Andoh},
+  title     = {Performance Evaluation of the {MODYLAS} Application on Modern Multi-core and {Many-Core} Environments},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {787-796},
+}
+
+@inproceedings{DBLP:conf/ipps/RameshPBMB19,
+  author    = {Srinivasan Ramesh and
+               Swann Perarnau and
+               Sridutt Bhalachandra and
+               Allen D. Malony and
+               Peter H. Beckman},
+  title     = {Understanding the Impact of Dynamic Power Capping on Application Progress},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {793-804},
+}
+
+@inproceedings{DBLP:conf/ipps/RamosVSM19,
+  author    = {Vitor Ramos and
+               Carlos Valderrama and
+               Samuel Xavier de Souza and
+               Pierre Manneback},
+  title     = {An Accurate Tool for Modeling, Fingerprinting, Comparison, and Clustering of Parallel Applications Based on Performance Counters},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {797-804},
+}
+
+@inproceedings{DBLP:conf/ipps/MarzuloF19,
+  author    = {Leandro A. J. Marzulo and
+               Felipe M. G. França},
+  title     = {Introduction to {MPP} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {805-807},
+}
+
+@inproceedings{DBLP:conf/ipps/ChadhaG19,
+  author    = {Mohak Chadha and
+               Michael Gerndt},
+  title     = {Modelling {DVFS} and {UFS} for {Region-Based} Energy Aware Tuning of {HPC} Applications},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {805-814},
+}
+
+@inproceedings{DBLP:conf/ipps/Kundu19,
+  author    = {Sandip Kundu},
+  title     = {{MPP} Keynote 1},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {808},
+}
+
+@inproceedings{DBLP:conf/ipps/MelloAAMPF19,
+  author    = {Rui R. Mello Junior and
+               Leandro Santiago de Araújo and
+               Tiago A. O. Alves and
+               Leandro A. J. Marzulo and
+               Gabriel Paillard and
+               Felipe M. G. França},
+  title     = {Exploring the Equivalence between Dynamic Dataflow Model and Gamma - General Abstract Model for Multiset {mAnipulation}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {809-816},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhengWMLLYZG19,
+  author    = {Wenli Zheng and
+               Xiaorui Wang and
+               Yue Ma and
+               Chao Li and
+               Hao Lin and
+               Bin Yao and
+               Jianfeng Zhang and
+               Minyi Guo},
+  title     = {SprintCon: Controllable and Efficient Computational Sprinting for Data Center Servers},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {815-824},
+}
+
+@inproceedings{DBLP:conf/ipps/NascimentoOSP019,
+  author    = {André Nascimento and
+               Victor Olimpio and
+               Vítor Silva and
+               Aline Paes and
+               Daniel de Oliveira},
+  title     = {A Reinforcement Learning Scheduling Strategy for Parallel {Cloud-Based} Workflows},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {817-824},
+}
+
+@inproceedings{DBLP:conf/ipps/Alves19,
+  author    = {Vladimir Alves},
+  title     = {{MPP} Keynote 2},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {825},
+}
+
+@inproceedings{DBLP:conf/ipps/BacouTTHLZ19,
+  author    = {Mathieu Bacou and
+               Grégoire Todeschi and
+               Alain Tchana and
+               Daniel Hagimont and
+               Baptiste Lepers and
+               Willy Zwaenepoel},
+  title     = {Drowsy-DC: Data Center Power Management System},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {825-834},
+}
+
+@inproceedings{DBLP:conf/ipps/SampaioSN19,
+  author    = {Adrianno Sampaio and
+               Alexandre da Costa Sena and
+               Alexandre Solon Nery},
+  title     = {A {Re-Configurable} {Ray-Triangle} Vector Accelerator for Emerging Fog Architectures},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {826-833},
+}
+
+@inproceedings{DBLP:conf/ipps/RockenbachSGMTD19,
+  author    = {Dinei A. Rockenbach and
+               Charles Michael Stein and
+               Dalvan Griebler and
+               Gabriele Mencagli and
+               Massimo Torquati and
+               Marco Danelutto and
+               Luiz Gustavo Fernandes},
+  title     = {Stream Processing on Multi-cores with GPUs: Parallel Programming Models' Challenges},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {834-841},
+}
+
+@inproceedings{DBLP:conf/ipps/YuZ0LY0C019,
+  author    = {Dongxiao Yu and
+               Yifei Zou and
+               Yong Zhang and
+               Feng Li and
+               Jiguo Yu and
+               Yu Wu and
+               Xiuzhen Cheng and
+               Francis C. M. Lau},
+  title     = {Distributed Dominating Set and Connected Dominating Set Construction Under the Dynamic {SINR} Model},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {835-844},
+}
+
+@inproceedings{DBLP:conf/ipps/HeghedusCR19,
+  author    = {Cristina Heghedus and
+               Antorweep Chakravorty and
+               Chunming Rong},
+  title     = {Neural Network Frameworks. Comparison on Public Transportation Prediction},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {842-849},
+}
+
+@inproceedings{DBLP:conf/ipps/LuoSS19,
+  author    = {Linghui Luo and
+               Christian Scheideler and
+               Thim Strothmann},
+  title     = {MULTISKIPGRAPH: A {Self-Stabilizing} Overlay Network that Maintains Monotonic Searchability},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {845-854},
+}
+
+@inproceedings{DBLP:conf/ipps/BoitoMDVD19,
+  author    = {Francieli Zanon Boito and
+               Jean-François Méhaut and
+               Thierry Deutsch and
+               Brice Videau and
+               Frédéric Desprez},
+  title     = {Instrumental Data Management and Scientific Workflow Execution: the {CEA} Case Study},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {850-857},
+}
+
+@inproceedings{DBLP:conf/ipps/ChatterjeeP019,
+  author    = {Soumyottam Chatterjee and
+               Gopal Pandurangan and
+               Peter Robinson},
+  title     = {Network Size Estimation in {Small-World} Networks Under Byzantine Faults},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {855-865},
+}
+
+@inproceedings{DBLP:conf/ipps/DosanjhGG19,
+  author    = {Matthew G. F. Dosanjh and
+               Ryan E. Grant and
+               Taylor L. Groves},
+  title     = {Introduction to {SNACS} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {858},
+}
+
+@inproceedings{DBLP:conf/ipps/ConnorsGQH19,
+  author    = {Tiffany Connors and
+               Taylor L. Groves and
+               Tony Quan and
+               K. Scott Hemmert},
+  title     = {Simulation Framework for Studying Optical Cable Failures in Dragonfly Topologies},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {859-864},
+}
+
+@inproceedings{DBLP:conf/ipps/AltintasMNSGMPC19,
+  author    = {Ilkay Altintas and
+               Kyle Marcus and
+               Isaac Nealey and
+               Scott L. Sellars and
+               John Graham and
+               Dima Mishin and
+               Joel Polizzi and
+               Daniel Crawl and
+               Thomas A. DeFanti and
+               Larry Smarr},
+  title     = {{Workflow-Driven} Distributed Machine Learning in CHASE-CI: A Cognitive Hardware and Software Ecosystem Community Infrastructure},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {865-873},
+}
+
+@inproceedings{DBLP:conf/ipps/HardyMS19,
+  author    = {Corentin Hardy and
+               Erwan Le Merrer and
+               Bruno Sericola},
+  title     = {MD-GAN: {Multi-Discriminator} Generative Adversarial Networks for Distributed Datasets},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {866-877},
+}
+
+@inproceedings{DBLP:conf/ipps/BeckmanS19,
+  author    = {Peter H. Beckman and
+               Rajesh Sankaran},
+  title     = {Introduction to {PAISE} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {874-875},
+}
+
+@inproceedings{DBLP:conf/ipps/Altintas19,
+  author    = {Ilkay Altintas},
+  title     = {{PAISE} 2019 Keynote Speaker},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {876},
+}
+
+@inproceedings{DBLP:conf/ipps/KumariRCBA19,
+  author    = {Sangeeta Kumari and
+               Dhrubojyoti Roy and
+               Mark Cartwright and
+               Juan Pablo Bello and
+               Anish Arora},
+  title     = {EdgeL^3: Compressing L^3-Net for Mote Scale Urban Noise Monitoring},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {877-884},
+}
+
+@inproceedings{DBLP:conf/ipps/GuoL19,
+  author    = {Luanzheng Guo and
+               Dong Li},
+  title     = {MOARD: Modeling Application Resilience to Transient Faults on Data Objects},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {878-889},
+}
+
+@inproceedings{DBLP:conf/ipps/RenartBP19,
+  author    = {Eduard Gibert Renart and
+               Daniel Balouek-Thomert and
+               Manish Parashar},
+  title     = {An {Edge-Based} Framework for Enabling {Data-Driven} Pipelines for {IoT} Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {885-894},
+}
+
+@inproceedings{DBLP:conf/ipps/GeorgakoudisLVN19,
+  author    = {Giorgis Georgakoudis and
+               Ignacio Laguna and
+               Hans Vandierendonck and
+               Dimitrios S. Nikolopoulos and
+               Martin Schulz},
+  title     = {SAFIRE: Scalable and Accurate Fault Injection for Parallel Multithreaded Applications},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {890-899},
+}
+
+@inproceedings{DBLP:conf/ipps/HammerMH19,
+  author    = {Josef Hammer and
+               Philipp Moll and
+               Hermann Hellwagner},
+  title     = {Transparent Access to 5G Edge Computing Services},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {895-898},
+}
+
+@inproceedings{DBLP:conf/ipps/KukrejaSBHFHG19,
+  author    = {Navjot Kukreja and
+               Alena Shilova and
+               Olivier Beaumont and
+               Jan Hückelheim and
+               Nicola Ferrier and
+               Paul D. Hovland and
+               Gerard Gorman},
+  title     = {Training on the Edge: The why and the how},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {899-903},
+}
+
+@inproceedings{DBLP:conf/ipps/HussainZM19,
+  author    = {Zaeem Hussain and
+               Taieb Znati and
+               Rami G. Melhem},
+  title     = {Optimal Placement of In-memory Checkpoints Under Heterogeneous Failure Likelihoods},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {900-910},
+}
+
+@inproceedings{DBLP:conf/ipps/SilvaCA19,
+  author    = {Pedro Silva and
+               Alexandru Costan and
+               Gabriel Antoniu},
+  title     = {Towards a Methodology for Benchmarking Edge Processing Frameworks},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {904-907},
+}
+
+@inproceedings{DBLP:conf/ipps/BeckmanJP19,
+  author    = {Peter H. Beckman and
+               Emmanuel Jeannot and
+               Swann Perarnau},
+  title     = {Introduction to {RADR} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {908-910},
+}
+
+@inproceedings{DBLP:conf/ipps/GarridoNC19,
+  author    = {Luis A. Garrido and
+               Rajiv Nishtala and
+               Paul M. Carpenter},
+  title     = {SmarTmem: Intelligent Management of Transcendent Memory in a Virtualized Server},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {911-920},
+}
+
+@inproceedings{DBLP:conf/ipps/NicolaeMGMC19,
+  author    = {Bogdan Nicolae and
+               Adam Moody and
+               Elsa Gonsiorowski and
+               Kathryn Mohror and
+               Franck Cappello},
+  title     = {VeloC: Towards High Performance Adaptive Asynchronous Checkpointing at Large Scale},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {911-920},
+}
+
+@inproceedings{DBLP:conf/ipps/Dubey19,
+  author    = {Anshu Dubey},
+  title     = {Invited Talk 1},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {921},
+}
+
+@inproceedings{DBLP:conf/ipps/Pan0S19,
+  author    = {Wen Pan and
+               Tao Xie and
+               Xiaojia Song},
+  title     = {HART: A Concurrent {Hash-Assisted} Radix Tree for {DRAM-PM} Hybrid Memory Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {921-931},
+}
+
+@inproceedings{DBLP:conf/ipps/Gerofi19,
+  author    = {Balazs Gerofi},
+  title     = {Invited Talk 2},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {922},
+}
+
+@inproceedings{DBLP:conf/ipps/Brightwell19,
+  author    = {Ron Brightwell},
+  title     = {Invited Talk 3},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {923},
+}
+
+@inproceedings{DBLP:conf/ipps/JoshiV19,
+  author    = {Gauri Joshi and
+               Ashish Verma},
+  title     = {Introduction to {ScaDL} 2019},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {924},
+}
+
+@inproceedings{DBLP:conf/ipps/Snir19,
+  author    = {Marc Snir},
+  title     = {{ScaDL} 2019 Keynote Talk},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {925},
+}
+
+@inproceedings{DBLP:conf/ipps/AyacheR19,
+  author    = {Ghadir Ayache and
+               Salim El Rouayheb},
+  title     = {Random Walk Gradient Descent for Decentralized Learning on Graphs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {926-931},
+}
+
+@inproceedings{DBLP:conf/ipps/Miera19,
+  author    = {Wagner Miera},
+  title     = {Invited Talk 1},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {932},
+}
+
+@inproceedings{DBLP:conf/ipps/VasilakisPTS19,
+  author    = {Evangelos Vasilakis and
+               Vassilis Papaefstathiou and
+               Pedro Trancoso and
+               Ioannis Sourdis},
+  title     = {{LLC-Guided} Data Migration in Hybrid Memory Systems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {932-942},
+}
+
+@inproceedings{DBLP:conf/ipps/HiguchiYSKTIT19,
+  author    = {Tomokazu Higuchi and
+               Naoki Yoshifuji and
+               Tomoya Sakai and
+               Yoriyuki Kitta and
+               Ryousei Takano and
+               Tsutomu Ikegami and
+               Kenjiro Taura},
+  title     = {ClPy: A {NumPy-Compatible} Library Accelerated with {OpenCL}},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {933-940},
+}
+
+@inproceedings{DBLP:conf/ipps/YoginathARBLP19,
+  author    = {Srikanth B. Yoginath and
+               Maksudul Alam and
+               Arvind Ramanathan and
+               Debsindhu Bhowmik and
+               Nouamane Laanait and
+               Kalyan S. Perumalla},
+  title     = {Towards Native Execution of Deep Learning on a {Leadership-Class} {HPC} System},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {941-950},
+}
+
+@inproceedings{DBLP:conf/ipps/HauckPF19,
+  author    = {Matthias Hauck and
+               Marcus Paradies and
+               Holger Fröning},
+  title     = {{Software-Based} Buffering of Associative Operations on Random Memory Addresses},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {943-952},
+}
+
+@inproceedings{DBLP:conf/ipps/Silva19a,
+  author    = {Pedro Silva},
+  title     = {Invited Talk 2},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {951},
+}
+
+@inproceedings{DBLP:conf/ipps/GoyalCS19,
+  author    = {Saurabh Goyal and
+               Anamitra Roy Choudhury and
+               Vivek Sharma},
+  title     = {Compression of Deep Neural Networks by Combining Pruning and Low Rank Decomposition},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {952-958},
+}
+
+@inproceedings{DBLP:conf/ipps/SunSV19,
+  author    = {Gongjin Sun and
+               Junjie Shen and
+               Alexander V. Veidenbaum},
+  title     = {Combining Prefetch Control and Cache Partitioning to Improve Multicore Performance},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {953-962},
+}
+
+@inproceedings{DBLP:conf/ipps/Netto19,
+  author    = {Marco Aurélio Stelmar Netto},
+  title     = {Invited Talk 3},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {959},
+}
+
+@inproceedings{DBLP:conf/ipps/BachanBHJKBHA19,
+  author    = {John Bachan and
+               Scott B. Baden and
+               Steven A. Hofmeyr and
+               Mathias Jacquelin and
+               Amir Kamil and
+               Dan Bonachea and
+               Paul H. Hargrove and
+               Hadia Ahmed},
+  title     = {UPC++: A {High-Performance} Communication Framework for Asynchronous Computation},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {963-973},
+}
+
+@inproceedings{DBLP:conf/ipps/HuangLGW19,
+  author    = {Tsung-Wei Huang and
+               Chun-Xun Lin and
+               Guannan Guo and
+               Martin D. F. Wong},
+  title     = {Cpp-Taskflow: Fast {Task-Based} Parallel Programming Using Modern C++},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {974-983},
+}
+
+@inproceedings{DBLP:conf/ipps/BeniRC19,
+  author    = {Laleh Aghababaie Beni and
+               Saikiran Ramanan and
+               Aparna Chandramowlishwaran},
+  title     = {Portal: A {High-Performance} Language and Compiler for Parallel {N-Body} Problems},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {984-995},
+}
+
+@inproceedings{DBLP:conf/ipps/MachtG19,
+  author    = {Thomas Macht and
+               Clemens Grelck},
+  title     = {{SAC} Goes Cluster: Fully Implicit Distributed Computing},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {996-1006},
+}
+
+@inproceedings{DBLP:conf/ipps/SallinenPR19,
+  author    = {Scott Sallinen and
+               Roger Pearce and
+               Matei Ripeanu},
+  title     = {Incremental Graph Processing for On-line Analytics},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1007-1018},
+}
+
+@inproceedings{DBLP:conf/ipps/ZakianCH19,
+  author    = {Timothy A. K. Zakian and
+               Ludovic A. R. Capelli and
+               Zhenjiang Hu},
+  title     = {Incrementalization of {Vertex-Centric} Programs},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1019-1029},
+}
+
+@inproceedings{DBLP:conf/ipps/JaiyeobaS19,
+  author    = {Wole Jaiyeoba and
+               Kevin Skadron},
+  title     = {GraphTinker: A High Performance Data Structure for Dynamic Graph Processing},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1030-1041},
+}
+
+@inproceedings{DBLP:conf/ipps/Zhou0C0Z19,
+  author    = {Shunjie Zhou and
+               Fan Zhang and
+               Hanhua Chen and
+               Hai Jin and
+               Bing Bing Zhou},
+  title     = {FastJoin: A {Skewness-Aware} Distributed Stream Join System},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1042-1052},
+}
+
+@inproceedings{DBLP:conf/ipps/HabermannCMJ19,
+  author    = {Philipp Habermann and
+               Chi Ching Chi and
+               Mauricio Alvarez Mesa and
+               Ben H. H. Juurlink},
+  title     = {A {Bin-Based} Bitstream Partitioning Approach for Parallel {CABAC} Decoding in Next Generation Video Coding},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1053-1062},
+}
+
+@inproceedings{DBLP:conf/ipps/MaRT19,
+  author    = {Yujing Ma and
+               Florin Rusu and
+               Martin Torres},
+  title     = {Stochastic Gradient Descent on Modern Hardware: Multi-core {CPU} or GPU? Synchronous or Asynchronous?},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1063-1072},
+}
+
+@inproceedings{DBLP:conf/ipps/GotteVS19,
+  author    = {Thorsten Götte and
+               Vipin Ravindran Vijayalakshmi and
+               Christian Scheideler},
+  title     = {Always be Two Steps Ahead of Your Enemy},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1073-1082},
+}
+
+@inproceedings{DBLP:conf/ipps/GuptaSY19,
+  author    = {Diksha Gupta and
+               Jared Saia and
+               Maxwell Young},
+  title     = {Peace Through Superior Puzzling: An Asymmetric Sybil Defense},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1083-1094},
+}
+
+@inproceedings{DBLP:conf/ipps/BiswasZBL19,
+  author    = {Swarnendu Biswas and
+               Rui Zhang and
+               Michael D. Bond and
+               Brandon Lucia},
+  title     = {Rethinking Support for Region Conflict Exceptions},
+  booktitle = ipdps,
+  year      = 2019,
+  pages     = {1095-1106},
+}
+
 @inproceedings{DBLP:conf/ipps/Bender18,
   author    = {Michael A. Bender},
   title     = {The Algorithmics of Write Optimization},
@@ -975,7 +3796,7 @@
                Tiansheng Zhang and
                Shaizeen Aga and
                Satish Narayanasamy and
-               Ayse Kivilcim Coskun},
+               Ayse K. Coskun},
   title     = {MOCA: Memory Object Classification and Allocation in Heterogeneous Memory Systems},
   booktitle = ipdps,
   year      = 2018,
@@ -1045,7 +3866,7 @@
 @inproceedings{DBLP:conf/ipps/ShamsiHBS18,
   author    = {Jawwad Ahmed Shamsi and
                Syed Zain ul Hassan and
-               Narmeen Bawany and
+               Narmeen Zakaria Bawany and
                Nausheen Shoaib},
   title     = {A Comprehensive Course on Big Data for Undergraduate Students},
   booktitle = ipdps,
@@ -1075,7 +3896,7 @@
 @inproceedings{DBLP:conf/ipps/Castro0B18,
   author    = {Daniel Castro and
                Paolo Romano and
-               João Barreto},
+               João Pedro Barreto},
   title     = {Hardware Transactional Memory Meets Memory Persistency},
   booktitle = ipdps,
   year      = 2018,
@@ -1335,7 +4156,7 @@
 @inproceedings{DBLP:conf/ipps/Zeng0BRH18,
   author    = {Jingna Zeng and
                Paolo Romano and
-               João Barreto and
+               João Pedro Barreto and
                Luís E. T. Rodrigues and
                Seif Haridi},
   title     = {Online Tuning of Parallelism Degree in Parallel Nesting Transactional Memory},
@@ -1567,7 +4388,7 @@
   author    = {Jee W. Choi and
                Xing Liu and
                Shaden Smith and
-               Tyler Simon},
+               Tyler A. Simon},
   title     = {Blocking Optimization Techniques for Sparse Tensor Computation},
   booktitle = ipdps,
   year      = 2018,
@@ -1601,7 +4422,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/HeinCYELLVR18,
-  author    = {Eric Hein and
+  author    = {Eric R. Hein and
                Tom Conte and
                Jeffrey Young and
                Srinivas Eswar and
@@ -1870,7 +4691,7 @@
 @inproceedings{DBLP:conf/ipps/MaiterthKPJBBMB18,
   author    = {Matthias Maiterth and
                Gregory A. Koenig and
-               Kevin Pedretti and
+               Kevin T. Pedretti and
                Siddhartha Jana and
                Natalie J. Bates and
                Andrea Borghesi and
@@ -2183,7 +5004,7 @@
 @inproceedings{DBLP:conf/ipps/HeraultRBAFBD18,
   author    = {Thomas Hérault and
                Yves Robert and
-               Aurelien Bouteiller and
+               Aurélien Bouteiller and
                Dorian C. Arnold and
                Kurt B. Ferreira and
                George Bosilca and
@@ -2671,7 +5492,7 @@
 @inproceedings{DBLP:conf/ipps/WangZKWE18,
   author    = {Lu Wang and
                Xia Zhao and
-               David Kaeli and
+               David R. Kaeli and
                Zhiying Wang and
                Lieven Eeckhout},
   title     = {{Intra-Cluster} Coalescing to Reduce {GPU} {NoC} Pressure},
@@ -2903,7 +5724,7 @@
 
 @inproceedings{DBLP:conf/ipps/KaramatiYV18,
   author    = {Sara Karamati and
-               Jeffrey Young and
+               Jeffrey S. Young and
                Richard W. Vuduc},
   title     = {An {Energy-Efficient} {Single-Source} Shortest Path Algorithm},
   booktitle = ipdps,
@@ -3008,7 +5829,7 @@
                Fulya Kaplan and
                Katzalin Olcoz and
                Vitus J. Leung and
-               Ayse Kivilcim Coskun},
+               Ayse K. Coskun},
   title     = {Level-Spread: A New Job Allocation Policy for Dragonfly Networks},
   booktitle = ipdps,
   year      = 2018,
@@ -3118,7 +5939,7 @@
                Ali Anwar and
                Yue Cheng and
                Mohammed Salman and
-               Da-ping Li and
+               Daping Li and
                Jiguang Wan and
                Changsheng Xie and
                Xubin He and
@@ -3143,7 +5964,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Ahmed18,
-  author    = {Nesreen Ahmed},
+  author    = {Nesreen K. Ahmed},
   title     = {{GraML} 2018 Keynote},
   booktitle = ipdps,
   year      = 2018,
@@ -3421,6 +6242,16 @@
   pages     = {1323-1330},
 }
 
+@inproceedings{DBLP:conf/ipps/GaleaCZ18,
+  author    = {François Galea and
+               Sergiu Carpov and
+               Lilia Zaourar},
+  title     = {Multi-start simulated annealing for partially-reconfigurable {FPGA} floorplanning},
+  booktitle = ipdps,
+  year      = 2018,
+  pages     = {1335-1338},
+}
+
 @inproceedings{DBLP:conf/ipps/SauleJ17,
   author    = {Erik Saule and
                Emmanuel Jeannot},
@@ -3582,7 +6413,7 @@
                Michael Wright and
                Marcia Hilton and
                Rajendra Rambharos and
-               Thomas Naughton and
+               Thomas J. Naughton and
                Neena Imam},
   title     = {Preemptive Resource Management for Dynamically Arriving Tasks in an Oversubscribed Heterogeneous Computing System},
   booktitle = ipdps,
@@ -3729,7 +6560,7 @@
                Shawki Areibi and
                Matthew Westrik and
                Ziad Abuowaimer and
-               B. Zhao},
+               Betty Zhao},
   title     = {Automatic Flow Selection and {Quality-of-Result} Estimation for {FPGA} Placement},
   booktitle = ipdps,
   year      = 2017,
@@ -4169,7 +7000,7 @@
 
 @inproceedings{DBLP:conf/ipps/CosenzaDEJ17,
   author    = {Biagio Cosenza and
-               Juan J. Durillo and
+               Juan José Durillo and
                Stefano Ermon and
                Ben H. H. Juurlink},
   title     = {Autotuning Stencil Computations with Structural Ordinal Regression Learning},
@@ -4331,7 +7162,7 @@
 
 @inproceedings{DBLP:conf/ipps/WyngaardLNPJ17,
   author    = {Jane Wyngaard and
-               Heather Lynch and
+               Heather J. Lynch and
                Jaroslaw Nabrzyski and
                Allen Pope and
                Shantenu Jha},
@@ -5916,7 +8747,7 @@
 
 @inproceedings{DBLP:conf/ipps/MironovMA17,
   author    = {Vladimir Mironov and
-               Alexander Moskovsky and
+               Alexander A. Moskovsky and
                Yuri Alexeev},
   title     = {Power Measurements of {Hartree-Fock} Algorithms Using Different Storage Devices},
   booktitle = ipdps,
@@ -6104,7 +8935,7 @@
                Sam Ford and
                Liexiao Ding and
                Michael Phillips and
-               Fang Cherry Liu and
+               Fang (Cherry) Liu and
                Nagi Gebraeel and
                Duen Horng Chau},
   title     = {Scalable Architecture for Anomaly Detection and Visualization in Power Generating Assets},
@@ -6294,7 +9125,7 @@
 
 @inproceedings{DBLP:conf/ipps/AliagaCKQ17,
   author    = {José Ignacio Aliaga and
-               Rocio Carratala-Saez and
+               Rocío Carratalá-Sáez and
                Ronald Kriemann and
                Enrique S. Quintana-Ortí},
   title     = {{Task-Parallel} {LU} Factorization of Hierarchical Matrices Using {OmpSs}},
@@ -6743,7 +9574,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Szymanski17,
-  author    = {Boleslaw Szymanski},
+  author    = {Boleslaw K. Szymanski},
   title     = {{ParSocial} Keynote},
   booktitle = ipdps,
   year      = 2017,
@@ -6867,7 +9698,7 @@
 
 @inproceedings{DBLP:conf/ipps/DjidjevOVHKS17,
   author    = {Hristo Djidjev and
-               Daniel OMalley and
+               Daniel O'Malley and
                Hari S. Viswanathan and
                Jeffrey D. Hyman and
                Satish Karra and
@@ -6899,7 +9730,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Bader17,
-  author    = {David Bader},
+  author    = {David A. Bader},
   title     = {Introduction to {EMBRACE} Workshop},
   booktitle = ipdps,
   year      = 2017,
@@ -7463,7 +10294,7 @@
                Jidong Zhai and
                Yangtong Xu and
                Weimin Zheng and
-               Hai Xiang Lin},
+               Hai-Xiang Lin},
   title     = {A Fast Tridiagonal Solver for Intel {MIC} Architecture},
   booktitle = ipdps,
   year      = 2016,
@@ -7677,7 +10508,7 @@
 @inproceedings{DBLP:conf/ipps/HeshamGE16,
   author    = {Salma Hesham and
                Diana Göhringer and
-               Mohamed A. Abd El-Ghany},
+               Mohamed A. Abd El Ghany},
   title     = {ARTNoCs: An Evaluation Framework for Hardware Architectures of {Real-Time} {NoCs}},
   booktitle = ipdps,
   year      = 2016,
@@ -8671,7 +11502,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/CarsonDGKKSS16,
-  author    = {Erin Carson and
+  author    = {Erin C. Carson and
                James Demmel and
                Laura Grigori and
                Nicholas Knight and
@@ -8713,7 +11544,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/JamrozD16,
-  author    = {Benjamin Jamroz and
+  author    = {Benjamin F. Jamroz and
                John M. Dennis},
   title     = {Minimal Aggregated Shared Memory Messaging on Distributed Memory Supercomputers},
   booktitle = ipdps,
@@ -10746,7 +13577,7 @@
   author    = {Patricia Grubel and
                Hartmut Kaiser and
                Kevin A. Huck and
-               Jeanine Cook},
+               Jeanine E. Cook},
   title     = {Using Intrinsic Performance Counters to Assess Efficiency in {Task-Based} Parallel Applications},
   booktitle = ipdps,
   year      = 2016,
@@ -10862,7 +13693,7 @@
 
 @inproceedings{DBLP:conf/ipps/GoswamiYSFGWE16,
   author    = {Anshuman Goswami and
-               Jeffrey Young and
+               Jeffrey S. Young and
                Karsten Schwan and
                Naila Farooqui and
                Ada Gavrilovska and
@@ -10987,7 +13818,7 @@
 
 @inproceedings{DBLP:conf/ipps/BrownM16,
   author    = {Dick Brown and
-               Suzanne Matthews},
+               Suzanne J. Matthews},
   title     = {Workshop 24-Roundtable I Introduction},
   booktitle = ipdps,
   year      = 2016,
@@ -11125,7 +13956,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/IslamNSG15,
-  author    = {Md Tarikul Islam and
+  author    = {Md. Tarikul Islam and
                Hien Nguyen and
                Jaspal Subhlok and
                Edgar Gabriel},
@@ -11401,7 +14232,7 @@
 
 @inproceedings{DBLP:conf/ipps/WuBBFD15,
   author    = {Wei Wu and
-               Aurelien Bouteiller and
+               Aurélien Bouteiller and
                George Bosilca and
                Mathieu Faverge and
                Jack J. Dongarra},
@@ -13439,7 +16270,7 @@
   author    = {Sara S. Hamouda and
                Josh Milthorpe and
                Peter E. Strazdins and
-               Vijay Saraswat},
+               Vijay A. Saraswat},
   title     = {A Resilient Framework for Iterative Linear Algebra Applications in X10},
   booktitle = ipdps,
   year      = 2015,
@@ -13921,7 +16752,7 @@
 @inproceedings{DBLP:conf/ipps/RajeswarSBS15,
   author    = {M. Sai Rajeswar and
                A. Ravi Sankar and
-               Vineeth N. Balasubramaniam and
+               Vineeth N. Balasubramanian and
                C. D. Sudheer},
   title     = {Scaling Up the Training of Deep {CNNs} for Human Action Recognition},
   booktitle = ipdps,
@@ -14272,7 +17103,7 @@
 @inproceedings{DBLP:conf/ipps/GustedtVM14,
   author    = {Jens Gustedt and
                Stéphane Vialle and
-               Patrick Mercier},
+               Patrick P. Mercier},
   title     = {Resource Centered Computing Delivering High Parallel Performance},
   booktitle = ipdps,
   year      = 2014,
@@ -15648,7 +18479,7 @@
 
 @inproceedings{DBLP:conf/ipps/BosilcaBHRD14,
   author    = {George Bosilca and
-               Aurelien Bouteiller and
+               Aurélien Bouteiller and
                Thomas Hérault and
                Yves Robert and
                Jack J. Dongarra},
@@ -15949,7 +18780,7 @@
 
 @inproceedings{DBLP:conf/ipps/NetzerJASVL14,
   author    = {Gilbert Netzer and
-               Lennart Johnsson and
+               S. Lennart Johnsson and
                Daniel Ahlin and
                Eric Stotzer and
                Pekka Varis and
@@ -16140,7 +18971,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Bloom14,
-  author    = {Joshua Bloom},
+  author    = {Joshua S. Bloom},
   title     = {Astrophysical Applications of Machine Learning at Scale and under Duress},
   booktitle = ipdps,
   year      = 2014,
@@ -16267,7 +19098,7 @@
 
 @inproceedings{DBLP:conf/ipps/AnztSTLYD14,
   author    = {Hartwig Anzt and
-               William Sawyer and
+               William B. Sawyer and
                Stanimire Tomov and
                Piotr Luszczek and
                Ichitaro Yamazaki and
@@ -16791,7 +19622,7 @@
                Mike Lijewski and
                Ann S. Almgren and
                Brian van Straalen and
-               Erin Carson and
+               Erin C. Carson and
                Nicholas Knight and
                James Demmel},
   title     = {{s-Step} Krylov Subspace Methods as Bottom Solvers for Geometric Multigrid},
@@ -17539,7 +20370,7 @@
 
 @inproceedings{DBLP:conf/ipps/SukhijaMSBC14,
   author    = {Nitin Sukhija and
-               Brandon Malone and
+               Brandon M. Malone and
                Srishti Srivastava and
                Ioana Banicescu and
                Florina M. Ciorba},
@@ -18281,7 +21112,7 @@
 
 @inproceedings{DBLP:conf/ipps/BomelMD13,
   author    = {Pierre Bomel and
-               Kevin Martin and
+               Kevin J. M. Martin and
                Jean-Philippe Diguet},
   title     = {Virtual {UARTs} for Reconfigurable Multi-processor Architectures},
   booktitle = ipdps,
@@ -21411,7 +24242,7 @@
 
 @inproceedings{DBLP:conf/ipps/GrossmanBS13,
   author    = {Max Grossman and
-               Mauricio Breternitz Jr. and
+               Maurício Breternitz Jr. and
                Vivek Sarkar},
   title     = {HadoopCL: {MapReduce} on Distributed Heterogeneous Platforms through Seamless Integration of Hadoop and {OpenCL}},
   booktitle = ipdps,
@@ -22016,7 +24847,7 @@
 
 @inproceedings{DBLP:conf/ipps/HankendiC13,
   author    = {Can Hankendi and
-               Ayse Kivilcim Coskun},
+               Ayse K. Coskun},
   title     = {Adaptive Power and Resource Management Techniques for Multi-threaded Workloads},
   booktitle = ipdps,
   year      = 2013,
@@ -22994,7 +25825,7 @@
 
 @inproceedings{DBLP:conf/ipps/RodriguezMKG12,
   author    = {Laurent Rodriguez and
-               Benoit Miramond and
+               Benoît Miramond and
                Imen Kalbousi and
                Bertrand Granado},
   title     = {Embodied Computing: Self-adaptation in Bio-inspired Reconfigurable Architectures},
@@ -24314,7 +27145,7 @@
 @inproceedings{DBLP:conf/ipps/MaBBD12,
   author    = {Teng Ma and
                George Bosilca and
-               Aurelien Bouteiller and
+               Aurélien Bouteiller and
                Jack J. Dongarra},
   title     = {HierKNEM: An Adaptive Framework for {Kernel-Assisted} and {Topology-Aware} Collective Communications on Many-core Clusters},
   booktitle = ipdps,
@@ -28385,7 +31216,7 @@
   author    = {Jiri Barnat and
                Petr Bauch and
                Lubos Brim and
-               Milan Ceska Jr.},
+               Milan Ceska},
   title     = {Computing Strongly Connected Components in Parallel on {CUDA}},
   booktitle = ipdps,
   year      = 2011,
@@ -29773,7 +32604,7 @@
 
 @inproceedings{DBLP:conf/ipps/MillerBK11,
   author    = {Phil Miller and
-               Aaron Becker and
+               Aaron T. Becker and
                Laxmikant V. Kalé},
   title     = {Using Shared Arrays in {Message-Driven} Parallel Programs},
   booktitle = ipdps,
@@ -29794,7 +32625,7 @@
 
 @inproceedings{DBLP:conf/ipps/BosilcaBDHLD11,
   author    = {George Bosilca and
-               Aurelien Bouteiller and
+               Aurélien Bouteiller and
                Anthony Danalis and
                Thomas Hérault and
                Pierre Lemarinier and
@@ -29866,7 +32697,7 @@
 
 @inproceedings{DBLP:conf/ipps/GuoRTGBS11,
   author    = {Jing Guo and
-               Wendell Rodrigues and
+               Antonio Wendell De Oliveira Rodrigues and
                Jeyarajan Thiyagalingam and
                Frédéric Guyomarc'h and
                Pierre Boulet and
@@ -30265,7 +33096,7 @@
 
 @inproceedings{DBLP:conf/ipps/BosilcaBDFHHKLLLLYD11,
   author    = {George Bosilca and
-               Aurelien Bouteiller and
+               Aurélien Bouteiller and
                Anthony Danalis and
                Mathieu Faverge and
                Azzam Haidar and
@@ -33528,7 +36359,7 @@
 @inproceedings{DBLP:conf/ipps/RutzigMAFBMNC10,
   author    = {Mateus B. Rutzig and
                Felipe Lopes Madruga and
-               Marco Antonio Zanata Alves and
+               Marco A. Z. Alves and
                Henrique Cota de Freitas and
                Antonio Carlos Schneider Beck and
                Nicolas Maillard and
@@ -36021,7 +38852,7 @@
   author    = {Lokman A. Abbas-Turki and
                Stéphane Vialle and
                Bernard Lapeyre and
-               Patrick Mercier},
+               Patrick P. Mercier},
   title     = {High dimensional pricing of exotic European contracts on a {GPU} Cluster, and comparison to a {CPU} cluster},
   booktitle = ipdps,
   year      = 2009,
@@ -37271,7 +40102,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/MartinezCPRB09,
-  author    = {Diego Rodriguez Martínez and
+  author    = {Diego Rodríguez Martínez and
                José Carlos Cabaleiro and
                Tomás F. Pena and
                Francisco F. Rivera and
@@ -37379,7 +40210,7 @@
   author    = {Zubair Nawaz and
                Thomas Marconi and
                Koen Bertels and
-               Todor Stefanov},
+               Todor P. Stefanov},
   title     = {Flexible pipelining design for recursive variable expansion},
   booktitle = ipdps,
   year      = 2009,
@@ -37993,7 +40824,7 @@
                G. Guizzunti and
                Alessandro Italiano and
                Luca Magnoni and
-               B. Martelli and
+               Barbara Martelli and
                Mirco Mazzucato and
                Giuseppe Misurelli and
                M. Onofri and
@@ -38518,7 +41349,7 @@
 
 @inproceedings{DBLP:conf/ipps/NikoletseasRS09,
   author    = {Sotiris E. Nikoletseas and
-               Christoforos Raptopoulos and
+               Christoforos L. Raptopoulos and
                Paul G. Spirakis},
   title     = {Combinatorial properties for efficient communication in distributed networks with local interactions},
   booktitle = ipdps,
@@ -39174,7 +42005,7 @@
 @inproceedings{DBLP:conf/ipps/ChanGCLD08,
   author    = {S. C. Chan and
                G. R. Gao and
-               B. Chapman and
+               Barbara M. Chapman and
                T. Linthicum and
                A. Dasgupta},
   title     = {Open64 compiler infrastructure for emerging multicore/manycore architecture All Symposium Tutorial},
@@ -40538,7 +43369,7 @@
 
 @inproceedings{DBLP:conf/ipps/MeR08,
   author    = {Gianluigi Me and
-               M. Rossi},
+               Maurizio Rossi},
   title     = {Internal forensic acquisition for mobile equipments},
   booktitle = ipdps,
   year      = 2008,
@@ -40584,7 +43415,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/PetersKBMMMSS08,
-  author    = {Amanda Peters and
+  author    = {Amanda E. Peters and
                Alan King and
                Tom Budnik and
                Paul McCarthy and
@@ -40823,7 +43654,7 @@
 
 @inproceedings{DBLP:conf/ipps/BakerP08,
   author    = {Zachary K. Baker and
-               Reid Porter},
+               Reid B. Porter},
   title     = {Rotationally invariant sparse patch matching on {GPU} and {FPGA}},
   booktitle = ipdps,
   year      = 2008,
@@ -41582,8 +44413,8 @@
 
 @inproceedings{DBLP:conf/ipps/HuangLF08,
   author    = {S. Huang and
-               Y. Luo and
-               W. Feng},
+               Yan Luo and
+               Wu Feng},
   title     = {Modeling and analysis of power in multicore network processors},
   booktitle = ipdps,
   year      = 2008,
@@ -42528,7 +45359,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/TakizawaEM08,
-  author    = {S. Takizawa and
+  author    = {Shin'ichiro Takizawa and
                Toshio Endo and
                Satoshi Matsuoka},
   title     = {Locality aware {MPI} communication on a commodity opto-electronic hybrid network},
@@ -44331,7 +47162,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/BrennerWTSPI07,
-  author    = {Paul Brenner and
+  author    = {Paul R. Brenner and
                Justin M. Wozniak and
                Douglas Thain and
                Aaron Striegel and
@@ -45775,7 +48606,7 @@
   author    = {James Dinan and
                Stephen Olivier and
                Gerald Sabin and
-               Jan Prins and
+               Jan F. Prins and
                P. Sadayappan and
                Chau-Wen Tseng},
   title     = {Dynamic Load Balancing of Unbalanced Computations Using Message Passing},
@@ -46543,7 +49374,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/MartinezPBCRR07,
-  author    = {Diego Rodriguez Martínez and
+  author    = {Diego Rodríguez Martínez and
                Vicente Blanco Pérez and
                Marcos Boullón and
                José Carlos Cabaleiro and
@@ -46768,7 +49599,7 @@
 
 @inproceedings{DBLP:conf/ipps/OlivierPDV07,
   author    = {Stephen Olivier and
-               Jan Prins and
+               Jan F. Prins and
                Jeff Derby and
                Ken V. Vu},
   title     = {Porting the {GROMACS} Molecular Dynamics Code to the Cell Processor},
@@ -48172,7 +51003,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/LiuB07,
-  author    = {Fang Liu and
+  author    = {Fang (Cherry) Liu and
                Randall Bramley},
   title     = {CCA-LISI: On Designing A {CCA} Parallel Sparse Linear Solver Interface},
   booktitle = ipdps,
@@ -48913,7 +51744,7 @@
 @inproceedings{DBLP:conf/ipps/AlonsoCMSLD06,
   author    = {Marina Alonso and
                Salvador Coll and
-               Juan Miguel Martínez and
+               Juan-Miguel Martínez and
                Vicente Santonja and
                Pedro López and
                José Duato},
@@ -49127,23 +51958,23 @@
 
 @inproceedings{DBLP:conf/ipps/BellofattoCDKMMOORS06,
   author    = {Ralph Bellofatto and
-               P. G. Crumley and
-               D. Darrington and
+               Paul G. Crumley and
+               David Darrington and
                Brant Knudson and
                Mark Megerian and
                José E. Moreira and
-               A. S. Ohmacht and
-               J. Orbeck and
+               Alda S. Ohmacht and
+               John Orbeck and
                Don Reed and
-               G. Stewart},
+               Greg Stewart},
   title     = {A database-centric approach to system management in the Blue Gene/L supercomputer},
   booktitle = ipdps,
   year      = 2006,
 }
 
 @inproceedings{DBLP:conf/ipps/BengtssonS06,
-  author    = {J. Bengtsson and
-               B. Svensson},
+  author    = {Jerker Bengtsson and
+               Bertil Svensson},
   title     = {A configurable framework for stream programming exploration in baseband applications},
   booktitle = ipdps,
   year      = 2006,
@@ -49359,7 +52190,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/BrodieXS06,
-  author    = {A. Brodie and
+  author    = {Aharon S. Brodie and
                Cheng-Zhong Xu and
                Weisong Shi},
   title     = {Shubac: a searchable P2P network utilizing dynamic paths for client/server anonymity},
@@ -49799,7 +52630,7 @@
 
 @inproceedings{DBLP:conf/ipps/DikaiakosAT06,
   author    = {Marios D. Dikaiakos and
-               A. Artemiou and
+               Artemakis Artemiou and
                George Tsouloupas},
   title     = {Towards a universal client for grid monitoring systems: design and implementation of the Ovid browser},
   booktitle = ipdps,
@@ -51579,7 +54410,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Nikolopoulos06,
-  author    = {D. Nikolopoulos},
+  author    = {Dimitrios S. Nikolopoulos},
   title     = {Facing the challenges of multicore processor technologies using autonomic system software},
   booktitle = ipdps,
   year      = 2006,
@@ -51654,7 +54485,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Ozmen06,
-  author    = {A. Ozmen},
+  author    = {Ahmet Özmen},
   title     = {An entropy-based algorithm for time-driven software instrumentation in parallel systems},
   booktitle = ipdps,
   year      = 2006,
@@ -51880,10 +54711,10 @@
 }
 
 @inproceedings{DBLP:conf/ipps/RaoNSKV06,
-  author    = {V. Rao and
-               N. Navet and
-               G. Singhal and
-               A. Kumar and
+  author    = {Venkat Rao and
+               Nicolas Navet and
+               Gaurav Singhal and
+               Anshul Kumar and
                G. S. Visweswaran},
   title     = {Battery aware dynamic scheduling for periodic task graphs},
   booktitle = ipdps,
@@ -52645,7 +55476,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/WangMWK06,
-  author    = {Liang-min Wang and
+  author    = {Liangmin Wang and
                Jianfeng Ma and
                Chao Wang and
                A. C. Kot},
@@ -53190,7 +56021,7 @@
 
 @inproceedings{DBLP:conf/ipps/AlonsoMSLD05,
   author    = {Marina Alonso and
-               Juan Miguel Martínez and
+               Juan-Miguel Martínez and
                Vicente Santonja and
                Pedro López and
                José Duato},
@@ -53526,7 +56357,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/BouteillerCHLC05,
-  author    = {Aurelien Bouteiller and
+  author    = {Aurélien Bouteiller and
                Boris Collin and
                Thomas Hérault and
                Pierre Lemarinier and
@@ -54047,7 +56878,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/EidenbenzRS05,
-  author    = {Stephan Eidenbenz and
+  author    = {Stephan J. Eidenbenz and
                Giovanni Resta and
                Paolo Santi},
   title     = {COMMIT: A {Sender-Centric} Truthful and {Energy-Efficient} Routing Protocol for Ad Hoc Networks with Selfish Nodes},
@@ -54632,7 +57463,7 @@
 
 @inproceedings{DBLP:conf/ipps/HuangB05,
   author    = {Min Huang and
-               Brett Bode},
+               Brett M. Bode},
   title     = {A Performance Comparison of Tree and Ring Topologies in Distributed Systems},
   booktitle = ipdps,
   year      = 2005,
@@ -57219,7 +60050,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Alba04,
-  author    = {E. Alba},
+  author    = {Enrique Alba},
   title     = {Evolutionary Algorithms for Optimal Placement of Antennae in Radio Network Design},
   booktitle = ipdps,
   year      = 2004,
@@ -57302,7 +60133,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/AshworthHP04,
-  author    = {M. Ashworth and
+  author    = {Mike Ashworth and
                J. T. Holt and
                R. Proctor},
   title     = {Optimization of the {POLCOMS} Hydrodynamic Code for Terascale {High-Performance} Computers},
@@ -60375,7 +63206,7 @@
 @inproceedings{DBLP:conf/ipps/SubramaniYO04,
   author    = {K. Subramani and
                Kiran Yellajyosula and
-               A. Osman},
+               Ashraf M. Osman},
   title     = {Distributed Algorithms for Partially Clairvoyant Dispatchers},
   booktitle = ipdps,
   year      = 2004,
@@ -61149,7 +63980,7 @@
 @inproceedings{DBLP:conf/ipps/KimCH03,
   author    = {Daehyun Kim and
                Mainak Chaudhuri and
-               Mark Heinrich},
+               Mark A. Heinrich},
   title     = {Active Memory Techniques for {ccNUMA} Multiprocessors},
   booktitle = ipdps,
   year      = 2003,
@@ -64178,11 +67009,11 @@
 }
 
 @inproceedings{DBLP:conf/ipps/ZhuPYZRH03,
-  author    = {H. Zhu and
+  author    = {Hailan Zhu and
                Manish Parashar and
                Jingmei Yang and
                Yeliang Zhang and
-               S. Rao and
+               Soujanya Rao and
                Salim Hariri},
   title     = {Self-Adapting, {Self-Optimizing} Runtime Management of Grid Applications Using {PRAGMA}},
   booktitle = ipdps,
@@ -64326,7 +67157,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/WangCW03,
-  author    = {Gaocai Wang and
+  author    = {GaoCai Wang and
                Jianer Chen and
                Guojun Wang},
   title     = {A Probabilistic Approach to Fault Tolerant Broadcast Routing Algorithms on Mesh Networks},
@@ -64566,7 +67397,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/Pissaloux03,
-  author    = {Edwige Pissaloux},
+  author    = {Edwige E. Pissaloux},
   title     = {Parallel Vision Processing and Dedicated Parallel Architectures},
   booktitle = ipdps,
   year      = 2003,
@@ -64714,7 +67545,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/AttiogbePS03,
-  author    = {Christian Attiogbé and
+  author    = {J. Christian Attiogbé and
                Pascal Poizat and
                Gwen Salaün},
   title     = {Specification of a Gas Station Using a Formalism Integrating Formal Datatypes within State Diagrams},
@@ -65176,7 +68007,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/AlmasiBBBCCCEGLMMSSSSBLRADGGS03,
-  author    = {George S. Almasi and
+  author    = {George S. Almási and
                Leonardo R. Bachega and
                Ralph Bellofatto and
                José R. Brunheroto and
@@ -65327,7 +68158,7 @@
 @inproceedings{DBLP:conf/ipps/JarvisSKNCS03,
   author    = {Stephen A. Jarvis and
                Daniel P. Spooner and
-               Helene N. Lim Choi Keung and
+               Hélène N. Lim Choi Keung and
                Graham R. Nudd and
                Junwei Cao and
                Subhash Saini},
@@ -67668,7 +70499,7 @@
                Glenn J. Martyna and
                Manfred E. Schabes and
                Byron H. Lengsfield III and
-               T. Schrefl},
+               Thomas Schrefl},
   title     = {Performance of a Novel Algorithm for Perpendicular Magnetic Recording Simulation},
   booktitle = ipdps,
   year      = 2002,
@@ -67982,7 +70813,7 @@
 @inproceedings{DBLP:conf/ipps/SalaunAA02,
   author    = {Gwen Salaün and
                Michel Allemand and
-               Christian Attiogbé},
+               J. Christian Attiogbé},
   title     = {Specification of an Access Control System with a Formalism Combining {CCS} and {CASL}},
   booktitle = ipdps,
   year      = 2002,
@@ -68423,7 +71254,7 @@
                Naren Ramakrishnan and
                Clifford A. Shaffer and
                Theodore S. Rappaport and
-               Christopher R. Anderson and
+               Christopher Robert Anderson and
                Kyung Kyoon Bae and
                Jing Jiang and
                William H. Tranter},
@@ -71466,7 +74297,7 @@
 @inproceedings{DBLP:conf/ipps/AbduLB01,
   author    = {Hasina Abdu and
                Hanan Lutfiyya and
-               Michael Anthony Bauer},
+               Michael A. Bauer},
   title     = {Towards efficient resource allocation in distributed systems management},
   booktitle = ipdps,
   year      = 2001,
@@ -72552,7 +75383,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/PradoHE00,
-  author    = {Hércules Antonio do Prado and
+  author    = {Hércules Antônio do Prado and
                Stephen C. Hirtle and
                Paulo Martins Engel},
   title     = {Scalable Model for Extensional and Intensional Descriptions of Unclassified Data},
@@ -73923,7 +76754,7 @@
 @inproceedings{DBLP:conf/ipps/RosaJC00,
   author    = {Nelson S. Rosa and
                George R. Ribeiro-Justo and
-               P. R. F. Cunha},
+               Paulo R. F. Cunha},
   title     = {Incorporating Non-functional Requirements into Software Architectures},
   booktitle = ipdps,
   year      = 2000,

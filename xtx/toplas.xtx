@@ -1,5 +1,352 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/Ahmed20,
+  author    = {Amal Ahmed},
+  title     = {Introduction to the Special Issue on {ESOP} 2018},
+  journal   = toplas,
+  volume    = {42},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/XieBOS20,
+  author    = {Ningning Xie and
+               Xuan Bi and
+               Bruno C. d. S. Oliveira and
+               Tom Schrijvers},
+  title     = {Consistent Subtyping for All},
+  journal   = toplas,
+  volume    = {42},
+  number    = {1},
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/EilersMH20,
+  author    = {Marco Eilers and
+               Peter Müller and
+               Samuel Hitz},
+  title     = {Modular Product Programs},
+  journal   = toplas,
+  volume    = {42},
+  number    = {1},
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/SimpsonV20,
+  author    = {Alex Simpson and
+               Niels F. W. Voorneveld},
+  title     = {Behavioural Equivalence via Modalities for Algebraic Effects},
+  journal   = toplas,
+  volume    = {42},
+  number    = {1},
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/SkorstengaardDB20,
+  author    = {Lau Skorstengaard and
+               Dominique Devriese and
+               Lars Birkedal},
+  title     = {Reasoning about a Machine with Local Capabilities: Provably Safe Stack and Return Pointer Management},
+  journal   = toplas,
+  volume    = {42},
+  number    = {1},
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/toplas/CogumbreiroHMY19,
+  author    = {Tiago Cogumbreiro and
+               Raymond Hu and
+               Francisco Martins and
+               Nobuko Yoshida},
+  title     = {Dynamic Deadlock Verification for General Barrier Synchronisation},
+  journal   = toplas,
+  volume    = {41},
+  number    = {1},
+  year      = 2019,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/SolovyevBBJRG19,
+  author    = {Alexey Solovyev and
+               Marek S. Baranowski and
+               Ian Briggs and
+               Charles Jacobsen and
+               Zvonimir Rakamaric and
+               Ganesh Gopalakrishnan},
+  title     = {Rigorous Estimation of {Floating-Point} {Round-Off} Errors with Symbolic Taylor Expansions},
+  journal   = toplas,
+  volume    = {41},
+  number    = {1},
+  year      = 2019,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/JacekCMM19,
+  author    = {Nicholas Jacek and
+               Meng-Chieh Chiu and
+               Benjamin M. Marlin and
+               J. Eliot B. Moss},
+  title     = {Optimal Choice of When to Garbage Collect},
+  journal   = toplas,
+  volume    = {41},
+  number    = {1},
+  year      = 2019,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/AndersenSVF19,
+  author    = {Leif Andersen and
+               Vincent St-Amour and
+               Jan Vitek and
+               Matthias Felleisen},
+  title     = {{Feature-Specific} Profiling},
+  journal   = toplas,
+  volume    = {41},
+  number    = {1},
+  year      = 2019,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/LepigreR19,
+  author    = {Rodolphe Lepigre and
+               Christophe Raffalli},
+  title     = {Practical Subtyping for {Curry-Style} Languages},
+  journal   = toplas,
+  volume    = {41},
+  number    = {1},
+  year      = 2019,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/toplas/LiuHR19,
+  author    = {Bozhen Liu and
+               Jeff Huang and
+               Lawrence Rauchwerger},
+  title     = {Rethinking Incremental and Parallel Pointer Analysis},
+  journal   = toplas,
+  volume    = {41},
+  number    = {1},
+  year      = 2019,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/toplas/Myers19,
+  author    = {Andrew C. Myers},
+  title     = {Editorial},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/toplas/Miquey19,
+  author    = {Étienne Miquey},
+  title     = {A Classical Sequent Calculus with Dependent Types},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/toplas/Padovani19,
+  author    = {Luca Padovani},
+  title     = {{Context-Free} Session Type Inference},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/LagoG19,
+  author    = {Ugo Dal Lago and
+               Charles Grellois},
+  title     = {Probabilistic Termination by Monadic Affine Sized Typing},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/Cotton-BarrattM19,
+  author    = {Conrad Cotton-Barratt and
+               Andrzej S. Murawski and
+               C.-H. Luke Ong},
+  title     = {ML, Visibly Pushdown Class Memory Automata, and Extended Branching Vector Addition Systems with States},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/toplas/HagueLH19,
+  author    = {Matthew Hague and
+               Anthony W. Lin and
+               Chih-Duo Hong},
+  title     = {{CSS} Minification via Constraint Solving},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/toplas/JeonJCO19,
+  author    = {Minseok Jeon and
+               Sehun Jeong and
+               Sung Deok Cha and
+               Hakjoo Oh},
+  title     = {A {Machine-Learning} Algorithm with Disjunctive Model for {Data-Driven} Program Analysis},
+  journal   = toplas,
+  volume    = {41},
+  number    = {2},
+  year      = 2019,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/FacchinettiPS19,
+  author    = {Leandro Facchinetti and
+               Zachary Palmer and
+               Scott F. Smith},
+  title     = {Higher-order Demand-driven Program Analysis},
+  journal   = toplas,
+  volume    = {41},
+  number    = {3},
+  year      = 2019,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/toplas/GroveHHIKMSSTT19,
+  author    = {David Grove and
+               Sara S. Hamouda and
+               Benjamin Herta and
+               Arun Iyengar and
+               Kiyokuni Kawachiya and
+               Josh Milthorpe and
+               Vijay A. Saraswat and
+               Avraham Shinnar and
+               Mikio Takeuchi and
+               Olivier Tardieu},
+  title     = {Failure Recovery in Resilient X10},
+  journal   = toplas,
+  volume    = {41},
+  number    = {3},
+  year      = 2019,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/toplas/ThakurN19,
+  author    = {Manas Thakur and
+               V. Krishna Nandivada},
+  title     = {PYE: A Framework for {Precise-Yet-Efficient} {Just-In-Time} Analyses for Java Programs},
+  journal   = toplas,
+  volume    = {41},
+  number    = {3},
+  year      = 2019,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/LozanoCBS19,
+  author    = {Roberto Castañeda Lozano and
+               Mats Carlsson and
+               Gabriel Hjort Blindell and
+               Christian Schulte},
+  title     = {Combinatorial Register Allocation and Instruction Scheduling},
+  journal   = toplas,
+  volume    = {41},
+  number    = {3},
+  year      = 2019,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/toplas/SpotoBEFLMS19,
+  author    = {Fausto Spoto and
+               Elisa Burato and
+               Michael D. Ernst and
+               Pietro Ferrara and
+               Alberto Lovato and
+               Damiano Macedonio and
+               Ciprian Spiridon},
+  title     = {Static Identification of Injection Attacks in Java},
+  journal   = toplas,
+  volume    = {41},
+  number    = {3},
+  year      = 2019,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/toplas/RosaRB19,
+  author    = {Andrea Rosà and
+               Eduardo Rosales and
+               Walter Binder},
+  title     = {Analysis and Optimization of Task Granularity on the Java Virtual Machine},
+  journal   = toplas,
+  volume    = {41},
+  number    = {3},
+  year      = 2019,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/toplas/ChatterjeeFG19,
+  author    = {Krishnendu Chatterjee and
+               Hongfei Fu and
+               Amir Kafshdar Goharshady},
+  title     = {Non-polynomial {Worst-Case} Analysis of Recursive Programs},
+  journal   = toplas,
+  volume    = {41},
+  number    = {4},
+  year      = 2019,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/toplas/BergerHMVV19,
+  author    = {Emery D. Berger and
+               Celeste Hollenbeck and
+               Petr Maj and
+               Olga Vitek and
+               Jan Vitek},
+  title     = {On the Impact of Programming Languages on Code Quality: A Reproduction Study},
+  journal   = toplas,
+  volume    = {41},
+  number    = {4},
+  year      = 2019,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/toplas/SangiorgiV19,
+  author    = {Davide Sangiorgi and
+               Valeria Vignudelli},
+  title     = {Environmental Bisimulations for Probabilistic Higher-order Languages},
+  journal   = toplas,
+  volume    = {41},
+  number    = {4},
+  year      = 2019,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/toplas/ChatterjeeGGIP19,
+  author    = {Krishnendu Chatterjee and
+               Amir Kafshdar Goharshady and
+               Prateesh Goyal and
+               Rasmus Ibsen-Jensen and
+               Andreas Pavlogiannis},
+  title     = {Faster Algorithms for Dynamic Algebraic Queries in Basic {RSMs} with Constant Treewidth},
+  journal   = toplas,
+  volume    = {41},
+  number    = {4},
+  year      = 2019,
+  pages     = {23-1},
+}
+
 @article{DBLP:journals/toplas/Myers18,
   author    = {Andrew Myers},
   title     = {Editor's Foreword to "Static Backward Slicing of {Non-Deterministic} Programs and Systems"},
@@ -177,6 +524,64 @@
   number    = {3},
   year      = 2018,
   pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/HeoOYY18,
+  author    = {Kihong Heo and
+               Hakjoo Oh and
+               Hongseok Yang and
+               Kwangkeun Yi},
+  title     = {Adaptive Static Analysis via Learning with Bayesian Optimization},
+  journal   = toplas,
+  volume    = {40},
+  number    = {4},
+  year      = 2018,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/toplas/UgawaRJ18,
+  author    = {Tomoharu Ugawa and
+               Carl G. Ritson and
+               Richard E. Jones},
+  title     = {Transactional Sapphire: Lessons in High-Performance, On-the-fly Garbage Collection},
+  journal   = toplas,
+  volume    = {40},
+  number    = {4},
+  year      = 2018,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/toplas/ToroGT18,
+  author    = {Matías Toro and
+               Ronald Garcia and
+               Éric Tanter},
+  title     = {{Type-Driven} Gradual Security with References},
+  journal   = toplas,
+  volume    = {40},
+  number    = {4},
+  year      = 2018,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/ToninhoY18,
+  author    = {Bernardo Toninho and
+               Nobuko Yoshida},
+  title     = {Interconnectability of {Session-Based} Logical Processes},
+  journal   = toplas,
+  volume    = {40},
+  number    = {4},
+  year      = 2018,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/toplas/X18,
+  author    = {},
+  title     = {Corrigendum to "{Cross-Language} Interoperability in a {Multi-Language} Runtime", by Grimmer et al., {ACM} Transactions on Programming Languages and Systems (TOPLAS) Volume 40, Issue 2, Article No. 8},
+  journal   = toplas,
+  volume    = {40},
+  number    = {4},
+  year      = 2018,
+  pages     = {18-1},
 }
 
 @article{DBLP:journals/toplas/Myers17,
@@ -3508,7 +3913,7 @@
   author    = {Adam L. Buchsbaum and
                Haim Kaplan and
                Anne Rogers and
-               Jeffery Westbrook},
+               Jeffery R. Westbrook},
   title     = {Corrigendum:  a new, simpler linear-time dominators algorithm},
   journal   = toplas,
   volume    = {27},
@@ -4458,7 +4863,7 @@
 @article{DBLP:journals/toplas/JimenezLF02,
   author    = {Marta Jiménez and
                José M. Llabería and
-               Agustin Fernández},
+               Agustín Fernández},
   title     = {Register tiling in nonrectangular iteration spaces},
   journal   = toplas,
   volume    = {24},
@@ -5836,7 +6241,7 @@
   author    = {Adam L. Buchsbaum and
                Haim Kaplan and
                Anne Rogers and
-               Jeffery Westbrook},
+               Jeffery R. Westbrook},
   title     = {A New, Simpler {Linear-Time} Dominators Algorithm},
   journal   = toplas,
   volume    = {20},
@@ -8874,7 +9279,7 @@
 
 @article{DBLP:journals/toplas/HorwitzPR89,
   author    = {Susan Horwitz and
-               Jan Prins and
+               Jan F. Prins and
                Thomas W. Reps},
   title     = {Integrating Noninterfering Versions of Programs},
   journal   = toplas,
@@ -11344,7 +11749,7 @@
 }
 
 @article{DBLP:journals/toplas/AndersonB81,
-  author    = {S. O. Anderson and
+  author    = {Stuart Oliver Anderson and
                Roland Carl Backhouse},
   title     = {Locally {Least-Cost} Error Recovery in Early's Algorithm},
   journal   = toplas,

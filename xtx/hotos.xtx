@@ -1,5 +1,340 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotos/Litton0DB19,
+  author    = {James Litton and
+               Deepak Garg and
+               Peter Druschel and
+               Bobby Bhattacharjee},
+  title     = {Composing Abstractions using the {null-Kernel}},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/hotos/RazaSCADJKMW19,
+  author    = {Ali Raza and
+               Parul Sohal and
+               James Cadden and
+               Jonathan Appavoo and
+               Ulrich Drepper and
+               Richard Jones and
+               Orran Krieger and
+               Renato Mancuso and
+               Larry Woodman},
+  title     = {Unikernels: The Next Stage of Linux's Dominance},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {7-13},
+}
+
+@inproceedings{DBLP:conf/hotos/BaumannAKR19,
+  author    = {Andrew Baumann and
+               Jonathan Appavoo and
+               Orran Krieger and
+               Timothy Roscoe},
+  title     = {A fork() in the road},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {14-22},
+}
+
+@inproceedings{DBLP:conf/hotos/HeiserKM19,
+  author    = {Gernot Heiser and
+               Gerwin Klein and
+               Toby C. Murray},
+  title     = {Can We Prove Time Protection?},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {23-29},
+}
+
+@inproceedings{DBLP:conf/hotos/MaGJKKS19,
+  author    = {Haojun Ma and
+               Aman Goel and
+               Jean-Baptiste Jeannin and
+               Manos Kapritsos and
+               Baris Kasikci and
+               Karem A. Sakallah},
+  title     = {Towards Automatic Inference of Inductive Invariants},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {30-36},
+}
+
+@inproceedings{DBLP:conf/hotos/NarayananBRRB19,
+  author    = {Vikram Narayanan and
+               Marek S. Baranowski and
+               Leonid Ryzhyk and
+               Zvonimir Rakamaric and
+               Anton Burtsev},
+  title     = {RedLeaf: Towards An Operating System for Safe and Verified Firmware},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {37-44},
+}
+
+@inproceedings{DBLP:conf/hotos/SureshLNRSO19,
+  author    = {Lalith Suresh and
+               João Loff and
+               Nina Narodytska and
+               Leonid Ryzhyk and
+               Mooly Sagiv and
+               Brian Oki},
+  title     = {Synthesizing Cluster Management Code for Distributed Systems},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {45-50},
+}
+
+@inproceedings{DBLP:conf/hotos/LouHS19,
+  author    = {Chang Lou and
+               Peng Huang and
+               Scott Smith},
+  title     = {Comprehensive and Efficient Runtime Checking in System Software through Watchdogs},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {51-57},
+}
+
+@inproceedings{DBLP:conf/hotos/YuPAR19,
+  author    = {Hangchen Yu and
+               Arthur M. Peters and
+               Amogh Akshintala and
+               Christopher J. Rossbach},
+  title     = {Automatic Virtualization of Accelerators},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {58-65},
+}
+
+@inproceedings{DBLP:conf/hotos/SaniA19,
+  author    = {Ardalan Amiri Sani and
+               Thomas Anderson},
+  title     = {The Case for I/{O-Device-as-a-Service}},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {66-72},
+}
+
+@inproceedings{DBLP:conf/hotos/ZhangLARB19,
+  author    = {Irene Zhang and
+               Jing Liu and
+               Amanda Austin and
+               Michael Lowell Roberts and
+               Anirudh Badam},
+  title     = {I'm Not Dead Yet!: The Role of the Operating System in a {Kernel-Bypass} Era},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {73-80},
+}
+
+@inproceedings{DBLP:conf/hotos/EnbergRT19,
+  author    = {Pekka Enberg and
+               Ashwin Rao and
+               Sasu Tarkoma},
+  title     = {I/O Is Faster Than the CPU: Let's Partition Resources and Eliminate (Most) {OS} Abstractions},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {81-87},
+}
+
+@inproceedings{DBLP:conf/hotos/MarzoevASYKMKM19,
+  author    = {Alana Marzoev and
+               Lara Timbó Araújo and
+               Malte Schwarzkopf and
+               Samyukta Yagati and
+               Eddie Kohler and
+               Robert Tappan Morris and
+               M. Frans Kaashoek and
+               Sam Madden},
+  title     = {Towards Multiverse Databases},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {88-95},
+}
+
+@inproceedings{DBLP:conf/hotos/HuntJMRW19,
+  author    = {Tyler Hunt and
+               Zhipeng Jia and
+               Vance Miller and
+               Christopher J. Rossbach and
+               Emmett Witchel},
+  title     = {Isolation and Beyond: Challenges for System Security},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {96-104},
+}
+
+@inproceedings{DBLP:conf/hotos/AlpKFF19,
+  author    = {Enis Ceyhun Alp and
+               Eleftherios Kokoris-Kogias and
+               Georgia Fragkouli and
+               Bryan Ford},
+  title     = {Rethinking {General-Purpose} Decentralized Computing},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {105-112},
+}
+
+@inproceedings{DBLP:conf/hotos/AdyaGMQ19,
+  author    = {Atul Adya and
+               Robert Grandl and
+               Daniel Myers and
+               Henry Qin},
+  title     = {Fast key-value stores: An idea whose time has come and gone},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {113-119},
+}
+
+@inproceedings{DBLP:conf/hotos/AguileraKNS19,
+  author    = {Marcos K. Aguilera and
+               Kimberly Keeton and
+               Stanko Novakovic and
+               Sharad Singhal},
+  title     = {Designing Far Memory Data Structures: Think Outside the Box},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {120-126},
+}
+
+@inproceedings{DBLP:conf/hotos/CalciuPKNGMS19,
+  author    = {Irina Calciu and
+               Ivan Puddu and
+               Aasheesh Kolli and
+               Andreas Nowatzyk and
+               Jayneel Gandhi and
+               Onur Mutlu and
+               Pratap Subrahmanyam},
+  title     = {Project PBerry: {FPGA} Acceleration for Remote Memory},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {127-135},
+}
+
+@inproceedings{DBLP:conf/hotos/MogulW19,
+  author    = {Jeffrey C. Mogul and
+               John Wilkes},
+  title     = {Nines are Not Enough: Meaningful Metrics for Clouds},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {136-141},
+}
+
+@inproceedings{DBLP:conf/hotos/YangGHP19,
+  author    = {Tian Yang and
+               Robert Gifford and
+               Andreas Haeberlen and
+               Linh Thi Xuan Phan},
+  title     = {The Synchronous Data Center},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {142-148},
+}
+
+@inproceedings{DBLP:conf/hotos/LeeO19,
+  author    = {Collin Lee and
+               John K. Ousterhout},
+  title     = {Granular Computing},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {149-154},
+}
+
+@inproceedings{DBLP:conf/hotos/LiuLMN19,
+  author    = {Haopeng Liu and
+               Shan Lu and
+               Madan Musuvathi and
+               Suman Nath},
+  title     = {What bugs cause production cloud incidents?},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {155-162},
+}
+
+@inproceedings{DBLP:conf/hotos/QuinnFC19,
+  author    = {Andrew Quinn and
+               Jason Flinn and
+               Michael J. Cafarella},
+  title     = {You can't debug what you can't see: Expanding observability with the {OmniTable}},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {163-169},
+}
+
+@inproceedings{DBLP:conf/hotos/MillerZZXKA19,
+  author    = {Samantha Miller and
+               Kaiyuan Zhang and
+               Danyang Zhuo and
+               Shibin Xu and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson},
+  title     = {Practical Safe Linux Kernel Extensibility},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {170-176},
+}
+
+@inproceedings{DBLP:conf/hotos/0001I19,
+  author    = {Paul Barham and
+               Michael Isard},
+  title     = {Machine Learning Systems are Stuck in a Rut},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {177-183},
+}
+
+@inproceedings{DBLP:conf/hotos/YadwadkarRLK19,
+  author    = {Neeraja J. Yadwadkar and
+               Francisco Romero and
+               Qian Li and
+               Christos Kozyrakis},
+  title     = {A Case for Managed and Model-less Inference Serving},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {184-191},
+}
+
+@inproceedings{DBLP:conf/hotos/ZuckGZPT19,
+  author    = {Aviad Zuck and
+               Philipp Gühring and
+               Tao Zhang and
+               Donald E. Porter and
+               Dan Tsafrir},
+  title     = {Why and How to Increase {SSD} Performance Transparency},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {192-200},
+}
+
+@inproceedings{DBLP:conf/hotos/KimLLM19,
+  author    = {Bryan S. Kim and
+               Eunji Lee and
+               Sungjin Lee and
+               Sang Lyul Min},
+  title     = {{CPR} for {SSDs}},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {201-208},
+}
+
+@inproceedings{DBLP:conf/hotos/PortsN19,
+  author    = {Dan R. K. Ports and
+               Jacob Nelson},
+  title     = {When Should The Network Be The Computer?},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {209-215},
+}
+
+@inproceedings{DBLP:conf/hotos/Benson19,
+  author    = {Theophilus A. Benson},
+  title     = {{In-Network} Compute: Considered Armed and Dangerous},
+  booktitle = hotos,
+  year      = 2019,
+  pages     = {216-224},
+}
+
 @inproceedings{DBLP:conf/hotos/OusterhoutCWRS17,
   author    = {Kay Ousterhout and
                Christopher Canel and
@@ -3547,7 +3882,7 @@
 
 @inproceedings{DBLP:conf/hotos/LuS95,
   author    = {Qi Lu and
-               M. Satyanarayanan},
+               Mahadev Satyanarayanan},
   title     = {Improving data consistency in mobile computing using isolation-only transactions},
   booktitle = hotos,
   year      = 1995,
@@ -3565,7 +3900,7 @@
 
 @inproceedings{DBLP:conf/hotos/SteereS95,
   author    = {David C. Steere and
-               M. Satyanarayanan},
+               Mahadev Satyanarayanan},
   title     = {Using dynamic sets to overcome high I/O latencies during search},
   booktitle = hotos,
   year      = 1995,

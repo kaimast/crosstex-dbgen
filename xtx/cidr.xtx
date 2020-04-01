@@ -1,5 +1,981 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cidr/000120,
+  author    = {Yuya Sasaki},
+  title     = {We do not have Systems for Analysing {IoT} {Big-Data}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/AbadiANS20,
+  author    = {Daniel J. Abadi and
+               Owen Arden and
+               Faisal Nawab and
+               Moshe Shadmon},
+  title     = {AnyLog: a Grand Unification of the Internet of Things},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Abedjan20,
+  author    = {Ziawasch Abedjan},
+  title     = {CAFE: {Constraint-Aware} Feature Extraction from Large Databases},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/AgrawalCCFGIJKK20,
+  author    = {Ashvin Agrawal and
+               Rony Chatterjee and
+               Carlo Curino and
+               Avrilia Floratou and
+               Neha Gowdal and
+               Matteo Interlandi and
+               Alekh Jindal and
+               Konstantinos Karanasos and
+               Subru Krishnan and
+               Brian Kroth and
+               Jyoti Leeka and
+               Kwanghyun Park and
+               Hiren Patel and
+               Olga Poppe and
+               Fotis Psallidas and
+               Raghu Ramakrishnan and
+               Abhishek Roy and
+               Karla Saur and
+               Rathijit Sen and
+               Markus Weimer and
+               Travis Wright and
+               Yiwen Zhu},
+  title     = {Cloudy with high chance of DBMS: a 10-year prediction for {Enterprise-Grade} {ML}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/AlonsoRCEKKSW20,
+  author    = {Gustavo Alonso and
+               Timothy Roscoe and
+               David Cock and
+               Mohsen Ewaida and
+               Kaan Kara and
+               Dario Korolija and
+               David Sidler and
+               Zeke Wang},
+  title     = {Tackling Hardware/Software co-design from a database perspective},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Baik20,
+  author    = {Christopher Baik},
+  title     = {{Fragment-Driven} Natural Language Interaction with Databases},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/BaikJCJ20,
+  author    = {Christopher Baik and
+               Zhongjun Jin and
+               Michael J. Cafarella and
+               H. V. Jagadish},
+  title     = {Constructing Expressive Relational Queries with {Dual-Specification} Synthesis},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Berti-Equille20,
+  author    = {Laure Berti-Équille},
+  title     = {Active Reinforcement Learning for Data Preparation: Learn2Clean with {Human-In-The-Loop}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Bian20,
+  author    = {Haoqiong Bian},
+  title     = {Pixels: Multiversion Wide Table Store for Data Lakes},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/BlanasKS20,
+  author    = {Spyros Blanas and
+               Paraschos Koutris and
+               Anastasios Sidiropoulos},
+  title     = {Topology-aware Parallel Data Processing: Models, Algorithms and Systems at Scale},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/BoehmADGIKLPR20,
+  author    = {Matthias Boehm and
+               Iulian Antonov and
+               Sebastian Baunsgaard and
+               Mark Dokter and
+               Robert Ginthör and
+               Kevin Innerebner and
+               Florijan Klezin and
+               Stefanie N. Lindstaedt and
+               Arnab Phani and
+               Benjamin Rath and
+               Berthold Reinwald and
+               Shafaq Siddiqui and
+               Sebastian Benjamin Wrede},
+  title     = {SystemDS: A Declarative Machine Learning System for the {End-to-End} Data Science Lifecycle},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/BrachmannSKGMCB20,
+  author    = {Mike Brachmann and
+               William Spoth and
+               Oliver Kennedy and
+               Boris Glavic and
+               Heiko Mueller and
+               Sonia Castelo and
+               Carlos Bautista and
+               Juliana Freire},
+  title     = {Your notebook is not crumby enough, {REPLace} it},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/ChenCBHHWC20,
+  author    = {Xinyu Chen and
+               Yao Chen and
+               Ronak Bajaj and
+               Jiong He and
+               Bingsheng He and
+               Weng-Fai Wong and
+               Deming Chen},
+  title     = {Is {FPGA} Useful for Hash Joins?},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Chernishev20,
+  author    = {George A. Chernishev},
+  title     = {Making {DBMSes} {Dependency-Aware}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/DittrichN20,
+  author    = {Jens Dittrich and
+               Joris Nix},
+  title     = {The Case for Deep Query Optimisation},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/DutaHG20,
+  author    = {Christian Duta and
+               Denis Hirn and
+               Torsten Grust},
+  title     = {Compiling PL/{SQL} Away},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/ElMS20,
+  author    = {Ori Bar El and
+               Tova Milo and
+               Amit Somech},
+  title     = {Towards Autonomous, {Hands-Free} Data Exploration},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Faerber20,
+  author    = {Franz Faerber},
+  title     = {Data Management for Enterprise Applications},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Fernandez20,
+  author    = {Raul Castro Fernandez},
+  title     = {A System for Studying Deep Network Training},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/GhitaTB20,
+  author    = {Bogdan Ghita and
+               Diego G. Tomé and
+               Peter A. Boncz},
+  title     = {White-box Compression: Learning and Exploiting Compact Table Representations},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/HaasHL20,
+  author    = {Gabriel Haas and
+               Michael Haubenschild and
+               Viktor Leis},
+  title     = {Exploiting {Directly-Attached} {NVMe} Arrays in {DBMS}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Hagedorn20,
+  author    = {Stefan Hagedorn},
+  title     = {When sweet and cute isn't enough anymore: Solving scalability issues in Python Pandas with Grizzly},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/HaynesDMBCC20,
+  author    = {Brandon Haynes and
+               Maureen Daum and
+               Amrita Mazumdar and
+               Magdalena Balazinska and
+               Alvin Cheung and
+               Luis Ceze},
+  title     = {VisualWorldDB: A {DBMS} for the Visual World},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/HilprechtBBEHKR20,
+  author    = {Benjamin Hilprecht and
+               Carsten Binnig and
+               Tiemo Bang and
+               Muhammad El-Hindi and
+               Benjamin Hättasch and
+               Aditya Khanna and
+               Robin Rehrmann and
+               Uwe Röhm and
+               Andreas Schmidt and
+               Lasse Thostrup and
+               Tobias Ziegler},
+  title     = {{DBMS} Fitting: Why should we learn what we already know?},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Holman20,
+  author    = {Jonathan Holman},
+  title     = {Big Data, {AI} and Banks - Uses Cases and Possibilities on the Ground},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/JoT20,
+  author    = {Saehan Jo and
+               Immanuel Trummer},
+  title     = {BitGourmet: Deterministic Approximation via Optimized Bit Selection},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/KaranasosIPSPPX20,
+  author    = {Konstantinos Karanasos and
+               Matteo Interlandi and
+               Fotis Psallidas and
+               Rathijit Sen and
+               Kwanghyun Park and
+               Ivan Popivanov and
+               Doris Xin and
+               Supun Nakandala and
+               Subru Krishnan and
+               Markus Weimer and
+               Yuan Yu and
+               Raghu Ramakrishnan and
+               Carlo Curino},
+  title     = {Extending Relational Query Processing with {ML} Inference},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/LernerKLPSC20,
+  author    = {Alberto Lerner and
+               Jaewook Kwak and
+               Sangjin Lee and
+               Kibin Park and
+               Yong Ho Song and
+               Philippe Cudré-Mauroux},
+  title     = {It Takes Two: Instrumenting the Interaction between {In-Memory} Databases and {Solid-State} Drives},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Meng20,
+  author    = {Fan Meng},
+  title     = {Aiming at real applications: Subsequence Outlier Detection on {Mixed-Type} Attributes Data in {RDBMS}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/MoerkotteH20,
+  author    = {Guido Moerkotte and
+               Axel Hertzschuch},
+  title     = {alpha to omega: the G(r)eek Alphabet of Sampling},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Nerone20,
+  author    = {Matheus Nerone},
+  title     = {Efficient Hard {Real-Time} Transaction Processing - Unachievable in Software},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/NeumannF20,
+  author    = {Thomas Neumann and
+               Michael J. Freitag},
+  title     = {Umbra: A {Disk-Based} System with {In-Memory} Performance},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/NollTMB20,
+  author    = {Stefan Noll and
+               Jens Teubner and
+               Norman May and
+               Alexander Boehm},
+  title     = {Shared Load(ing): Efficient Bulk Loading into Optimized Storage},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/OrrAJCBS20,
+  author    = {Laurel J. Orr and
+               Samuel K. Ainsworth and
+               Kevin G. Jamieson and
+               Walter Cai and
+               Magdalena Balazinska and
+               Dan Suciu},
+  title     = {Mosaic: A {Sample-Based} Database System for Open World Query Processing},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/PicoliHBT20,
+  author    = {Ivan Luiz Picoli and
+               Niclas Hedam and
+               Philippe Bonnet and
+               Pinar Tözün},
+  title     = {{Open-Channel} {SSD} (What is it Good For)},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/QuamarST20,
+  author    = {Abdul Quamar and
+               Jannik Straube and
+               Yuanyuan Tian},
+  title     = {Enabling Rich Queries Over Heterogeneous Data From Diverse Sources In {HealthCare}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/RaasveldtM20,
+  author    = {Mark Raasveldt and
+               Hannes Mühleisen},
+  title     = {Data Management for Data Science - Towards Embedded Analytics},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/RazaCSIAA20,
+  author    = {Aunn Raza and
+               Periklis Chrysogelos and
+               Panagiotis Sioulas and
+               Vladimir Indjic and
+               Angelos-Christos G. Anadiotis and
+               Anastasia Ailamaki},
+  title     = {{GPU-accelerated} data management under the test of time},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Re20,
+  author    = {Christopher Ré},
+  title     = {Overton: A Data System for Monitoring and Improving {Machine-Learned} Products},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Reilly20,
+  author    = {Christine F. Reilly},
+  title     = {Parallel Traversal of Graphs Stored in {RDBMSs}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/RezigCSSMTOS20,
+  author    = {El Kindi Rezig and
+               Lei Cao and
+               Giovanni Simonini and
+               Maxime Schoemans and
+               Samuel Madden and
+               Nan Tang and
+               Mourad Ouzzani and
+               Michael Stonebraker},
+  title     = {Dagger: A Data (not code) Debugger},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Schelter20,
+  author    = {Sebastian Schelter},
+  title     = {"Amnesia" - Machine Learning Models That Can Forget User Data Very Fast},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/ShangLTDEKF20,
+  author    = {Zechao Shang and
+               Xi Liang and
+               Dixin Tang and
+               Cong Ding and
+               Aaron J. Elmore and
+               Sanjay Krishnan and
+               Michael J. Franklin},
+  title     = {CrocodileDB: Efficient Database Execution through Intelligent Deferment},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/ShengVWTN20,
+  author    = {Ying Sheng and
+               Nguyen Vo and
+               James B. Wendt and
+               Sandeep Tata and
+               Marc Najork},
+  title     = {Migrating a {Privacy-Safe} Information Extraction System to a Software 2.0 Design},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/Tawose20,
+  author    = {Olamide Timothy Tawose},
+  title     = {{Cross-Blockchain} Transactions},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/UngethumPDKHLF20,
+  author    = {Annett Ungethüm and
+               Johannes Pietrzyk and
+               Patrick Damme and
+               Alexander Krause and
+               Dirk Habich and
+               Wolfgang Lehner and
+               Erich Focht},
+  title     = {{Hardware-Oblivious} {SIMD} Parallelism for {In-Memory} {Column-Stores}},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/YanCYL20,
+  author    = {Cong Yan and
+               Alvin Cheung and
+               Junwen Yang and
+               Shan Lu},
+  title     = {{View-Driven} Optimization of {Database-Backed} Web Applications},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/ZeuchCMGGGBTM20,
+  author    = {Steffen Zeuch and
+               Ankit Chaudhary and
+               Bonaventura Del Monte and
+               Haralampos Gavriilidis and
+               Dimitrios Giouroukis and
+               Philipp M. Grulich and
+               Sebastian Breß and
+               Jonas Traub and
+               Volker Markl},
+  title     = {The {NebulaStream} Platform for Data and Application Management in the Internet of Things},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhangCALCL20,
+  author    = {Qizhen Zhang and
+               Yifan Cai and
+               Sebastian Angel and
+               Vincent Liu and
+               Ang Chen and
+               Boon Thau Loo},
+  title     = {Rethinking Data Management Systems for Disaggregated Data Centers},
+  booktitle = cidr,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/cidr/AlonsoBPSSST0W019,
+  author    = {Gustavo Alonso and
+               Carsten Binnig and
+               Ippokratis Pandis and
+               Kenneth Salem and
+               Jan Skrzypczak and
+               Ryan Stutsman and
+               Lasse Thostrup and
+               Tianzheng Wang and
+               Zeke Wang and
+               Tobias Ziegler},
+  title     = {DPI: The Data Processing Interface for Modern Networks},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/AppuswamyBBAMFM19,
+  author    = {Raja Appuswamy and
+               Kevin Le Brigand and
+               Pascal Barbry and
+               Marc Antonini and
+               Olivier Madderson and
+               Paul Freemont and
+               James McDonald and
+               Thomas Heinis},
+  title     = {OligoArchive: Using {DNA} in the {DBMS} storage hierarchy},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/ArvanitisBCPSW19,
+  author    = {Anastasios Arvanitis and
+               Shivnath Babu and
+               Eric Chu and
+               Adrian Popescu and
+               Alkis Simitsis and
+               Kevin Wilkinson},
+  title     = {Automated Performance Management for the Big Data Stack},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Bernstein19,
+  author    = {Philip A. Bernstein and
+               Todd Porter and
+               Rahul Potharaju and
+               Alejandro Z. Tomsic and
+               Shivaram Venkataraman and
+               Wentao Wu},
+  title     = {Serverless {Event-Stream} Processing over Virtual Actors},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/BleifussBKNS19,
+  author    = {Tobias Bleifuß and
+               Leon Bornemann and
+               Dmitri V. Kalashnikov and
+               Felix Naumann and
+               Divesh Srivastava},
+  title     = {DBChEx: Interactive Exploration of Data and Schema Change},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/BordawekarS19,
+  author    = {Rajesh Bordawekar and
+               Oded Shmueli},
+  title     = {Exploiting Latent Information in Relational Databases via Word Embedding and Application to Degrees of Disclosure},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Burley019,
+  author    = {Codi J. Burley and
+               Arnab Nandi},
+  title     = {ARQuery: Hallucinating Analytics over {Real-World} Data using Augmented Reality},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Bussler19,
+  author    = {Christoph Bussler},
+  title     = {Calling a {Server-Less} Function from a {Container-Based} System: Why This Fad?},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Callaghan19,
+  author    = {Mark Callaghan},
+  title     = {Diversity of {LSM} tree shapes},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/ChrysogelosSA19,
+  author    = {Periklis Chrysogelos and
+               Panagiotis Sioulas and
+               Anastasia Ailamaki},
+  title     = {Hardware-conscious Query Processing in {GPU-accelerated} Analytical Engines},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Crotty19,
+  author    = {Andrew Crotty},
+  title     = {NullDB: Instantaneously Answering Any {OLAP} Query},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Freitag019,
+  author    = {Michael J. Freitag and
+               Thomas Neumann},
+  title     = {Every Row Counts: Combining Sketches and Sampling for Accurate {Group-By} Result Estimates},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/GehrkeAAAHHKKRS19,
+  author    = {Johannes Gehrke and
+               Lindsay Allen and
+               Panagiotis Antonopoulos and
+               Arvind Arasu and
+               Joachim Hammer and
+               James Hunter and
+               Raghav Kaushik and
+               Donald Kossmann and
+               Ravi Ramamurthy and
+               Srinath T. V. Setty and
+               Jakub Szymaszek and
+               Alexander van Renen and
+               Jonathan Lee and
+               Ramarathnam Venkatesan},
+  title     = {Veritas: Shared Verifiable Databases and Tables in the Cloud},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Giannakopoulou19,
+  author    = {Stella Giannakopoulou},
+  title     = {{Query-Driven} Data Cleaning for Exploratory Queries},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Helland19,
+  author    = {Pat Helland},
+  title     = {The I's Have It: Identity, Immutability, Idempotence, and Interchangeability Form the Backbone of Distributed Computing},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/HellersteinFGSS19,
+  author    = {Joseph M. Hellerstein and
+               Jose M. Faleiro and
+               Joseph Gonzalez and
+               Johann Schleier-Smith and
+               Vikram Sreekanti and
+               Alexey Tumanov and
+               Chenggang Wu},
+  title     = {Serverless Computing: One Step Forward, Two Steps Back},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/IdreosDQAHRLJGL19,
+  author    = {Stratos Idreos and
+               Niv Dayan and
+               Wilson Qin and
+               Mali Akmanalp and
+               Sophie Hilgard and
+               Andrew Ross and
+               James Lennon and
+               Varun Jain and
+               Harshita Gupta and
+               David Li and
+               Zichen Zhu},
+  title     = {Design Continuums and the Path Toward {Self-Designing} {Key-Value} Stores that Know and Learn},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/IvesZHZ19,
+  author    = {Zack Ives and
+               Yi Zhang and
+               Soonbo Han and
+               Nan Zheng},
+  title     = {Dataset Relationship Management},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/JainYCH19,
+  author    = {Shrainik Jain and
+               Jiaqi Yan and
+               Thierry Cruanes and
+               Bill Howe},
+  title     = {{Database-Agnostic} Workload Management},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/JinBCJL19,
+  author    = {Zhongjun Jin and
+               Christopher Baik and
+               Michael J. Cafarella and
+               H. V. Jagadish and
+               Yuze Lou},
+  title     = {Demonstration of a Multiresolution Schema Mapping System},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/KangBZ19,
+  author    = {Daniel Kang and
+               Peter Bailis and
+               Matei Zaharia},
+  title     = {Challenges and Opportunities in {DNN-Based} Video Analytics: A Demonstration of the {BlazeIt} Video Query Engine},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/KerstenMZK19,
+  author    = {Martin L. Kersten and
+               Stefan Manegold and
+               Ying Zhang and
+               Panos Kuoutsourakis},
+  title     = {SQALPEL: A database performance platform},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/KipfKRLBK19,
+  author    = {Andreas Kipf and
+               Thomas Kipf and
+               Bernhard Radke and
+               Viktor Leis and
+               Peter A. Boncz and
+               Alfons Kemper},
+  title     = {Learned Cardinalities: Estimating Correlated Joins with Deep Learning},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/KotsogiannisTMM19,
+  author    = {Ios Kotsogiannis and
+               Yuchao Tao and
+               Ashwin Machanavajjhala and
+               Gerome Miklau and
+               Michael Hay},
+  title     = {Architecting a Differentially Private {SQL} Engine},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/KraskaABCKLMMN19,
+  author    = {Tim Kraska and
+               Mohammad Alizadeh and
+               Alex Beutel and
+               Ed H. Chi and
+               Ani Kristo and
+               Guillaume Leclerc and
+               Samuel Madden and
+               Hongzi Mao and
+               Vikram Nathan},
+  title     = {SageDB: A Learned Database System},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/KrishnanDE19,
+  author    = {Sanjay Krishnan and
+               Adam Dziedzic and
+               Aaron J. Elmore},
+  title     = {DeepLens: Towards a Visual Data Management System},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/LernerHC19,
+  author    = {Alberto Lerner and
+               Rana Hussein and
+               Philippe Cudré-Mauroux},
+  title     = {The Case for Network Accelerated Query Processing},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Lo19,
+  author    = {Eric Lo},
+  title     = {Decentralized Search on Decentralized Web},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/MarcusP19,
+  author    = {Ryan Marcus and
+               Olga Papaemmanouil},
+  title     = {Towards a {Hands-Free} Query Optimizer through Deep Learning},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Mirzargar19,
+  author    = {Seyedehsharareh Mirzargar},
+  title     = {Elastic {In-Memory} Transaction Processing for {Multi-Tenant} Database Systems},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Nuessle19,
+  author    = {Carl Nuessle},
+  title     = {Bringing Databases up to {Pocket-Scale}},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/OldenburgZRA19,
+  author    = {Lennart Oldenburg and
+               Xiangfeng Zhu and
+               Kamala Ramasubramanian and
+               Peter Alvaro},
+  title     = {Fixed It For You: Protocol Repair Using Lineage Graphs},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Paradies19,
+  author    = {Marcus Paradies},
+  title     = {CryoDrill: {Near-Data} Processing in Deep and Cold Storage Hierarchies},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/PirkGP19,
+  author    = {Holger Pirk and
+               Jana Giceva and
+               Peter R. Pietzuch},
+  title     = {Thriving in the No Man's Land between Compilers and Databases},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Porobic19,
+  author    = {Danica Porobic},
+  title     = {Revisiting {RISC-style} Data Management System Design},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Ramsay19,
+  author    = {Mark Ramsay},
+  title     = {Using Bots, Machine Learning & Pipelines to create a modern data management environment},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/RatnerHR19,
+  author    = {Alexander J. Ratner and
+               Braden Hancock and
+               Christopher Ré},
+  title     = {The Role of Massively {Multi-Task} and Weak Supervision in Software 2.0},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Reilly19,
+  author    = {Christine Reilly},
+  title     = {Storing and Querying Social Graph Data on a Variety of Distributed Systems},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Schleier-Smith19,
+  author    = {Johann Schleier-Smith},
+  title     = {Serverless Foundations for Elastic Database Systems},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Shah19,
+  author    = {Mehul Shah},
+  title     = {Data warehouses are dead, long live data warehousing!},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Shin19,
+  author    = {Jun Hyung Shin and
+               Florin Rusu and
+               Alex Suhan},
+  title     = {Selectivity Computation for {In-Memory} Query Optimization},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/StraussC19,
+  author    = {Karin Strauss and
+               Luis Ceze},
+  title     = {{DNA} Data Storage and {Near-Molecule} Processing for the Yottabyte Era},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Taft19,
+  author    = {Rebecca Taft},
+  title     = {Making Neural Network Optimizers Practical},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/TaoLDCS19,
+  author    = {Wenbo Tao and
+               Xiaoyu Liu and
+               Çagatay Demiralp and
+               Remco Chang and
+               Michael Stonebraker},
+  title     = {Kyrix: Interactive Visual Data Exploration at Scale},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/TataPCC19,
+  author    = {Sandeep Tata and
+               Vlad Panait and
+               Suming Chen and
+               Mike Colagrosso},
+  title     = {ItemSuggest: A Data Management Platform for Machine Learned Ranking Services},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Tatbul19,
+  author    = {Nesime Tatbul},
+  title     = {Tools for Advanced Time Series Analytics: Enabling the Future},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Trummer19,
+  author    = {Immanuel Trummer},
+  title     = {Data Vocalization with {CiceroDB}},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Wu19,
+  author    = {Eugene Wu},
+  title     = {Crazy Idea! Databases ⨝ Reinforcement-learning Research (CIDR2)},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/Zhang19,
+  author    = {Huanchen Zhang},
+  title     = {The End of the x86 Dominance in Databases?},
+  booktitle = cidr,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhangDP19,
+  author    = {Zuyu Zhang and
+               Harshad Deshmukh and
+               Jignesh M. Patel},
+  title     = {Data Partitioning for {In-Memory} Systems: Myths, Challenges, and Opportunities},
+  booktitle = cidr,
+  year      = 2019,
+}
+
 @inproceedings{DBLP:conf/cidr/000117,
   author    = {Arnab Nandi},
   title     = {Casual Querying: Facilitating Information Dissemination in Ad-hoc Environments},
@@ -466,7 +1442,7 @@
   author    = {Shoumik Palkar and
                James J. Thomas and
                Anil Shanbhag and
-               Malte Schwarzkopt and
+               Malte Schwarzkopf and
                Saman P. Amarasinghe and
                Matei Zaharia},
   title     = {A Common Runtime for High Performance Data Analysis},
@@ -747,7 +1723,7 @@
 }
 
 @inproceedings{DBLP:conf/cidr/Anderson15,
-  author    = {Michael Anderson},
+  author    = {Michael R. Anderson},
   title     = {Faster Evaluation of {Labor-Intensive} Features},
   booktitle = cidr,
   year      = 2015,
@@ -1193,7 +2169,7 @@
 
 @inproceedings{DBLP:conf/cidr/RajwarDS15,
   author    = {Ravi Rajwar and
-               Martin Dixon and
+               Martin G. Dixon and
                Ronak Singhal},
   title     = {Specialized Evolution of the General Purpose {CPU}},
   booktitle = cidr,

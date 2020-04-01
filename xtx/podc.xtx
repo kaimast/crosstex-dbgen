@@ -1,5 +1,802 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/AlvisiDEKKS19,
+  author    = {Lorenzo Alvisi and
+               Shlomi Dolev and
+               Faith Ellen and
+               Idit Keidar and
+               Fabian Kuhn and
+               Jukka Suomela},
+  title     = {2019 Edsger W. Dijkstra Prize in Distributed Computing},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/podc/JayantiLP019,
+  author    = {Prasad Jayanti and
+               Nancy A. Lynch and
+               Boaz Patt-Shamir and
+               Ulrich Schmid},
+  title     = {2019 Principles of Distributed Computing Doctoral Dissertation Award},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/podc/Rubinfeld19,
+  author    = {Ronitt Rubinfeld},
+  title     = {Local Computation Algorithms},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/podc/CzyzowiczGKK19,
+  author    = {Jurek Czyzowicz and
+               Leszek Gasieniec and
+               Ryan Killick and
+               Evangelos Kranakis},
+  title     = {Symmetry Breaking in the Plane: Rendezvous by Robots with Unknown Attributes},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {4-13},
+}
+
+@inproceedings{DBLP:conf/podc/SeversonHD19,
+  author    = {Eric E. Severson and
+               David Haley and
+               David Doty},
+  title     = {Composable Computation in Discrete Chemical Reaction Networks},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {14-23},
+}
+
+@inproceedings{DBLP:conf/podc/GiakkoupisMS19,
+  author    = {George Giakkoupis and
+               Frederik Mallmann-Trenn and
+               Hayk Saribekyan},
+  title     = {How to Spread a Rumor: Call Your Neighbors or Take a Walk?},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {24-33},
+}
+
+@inproceedings{DBLP:conf/podc/DotyE19,
+  author    = {David Doty and
+               Mahsa Eftekhari},
+  title     = {Efficient Size Estimation and Impossibility of Termination in Uniform Dense Population Protocols},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {34-42},
+}
+
+@inproceedings{DBLP:conf/podc/BerenbrinkKR19,
+  author    = {Petra Berenbrink and
+               Dominik Kaaser and
+               Tomasz Radzik},
+  title     = {On Counting the Population Size},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {43-52},
+}
+
+@inproceedings{DBLP:conf/podc/ChenC19,
+  author    = {Hsueh-Ping Chen and
+               Ho-Lin Chen},
+  title     = {{Self-Stabilizing} Leader Election},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {53-59},
+}
+
+@inproceedings{DBLP:conf/podc/SudoOIKM19,
+  author    = {Yuichi Sudo and
+               Fukuhito Ooshita and
+               Taisuke Izumi and
+               Hirotsugu Kakugawa and
+               Toshimitsu Masuzawa},
+  title     = {Logarithmic {Expected-Time} Leader Election in Population Protocol Model},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {60-62},
+}
+
+@inproceedings{DBLP:conf/podc/AggarwalFGM19,
+  author    = {Abhinav Aggarwal and
+               G. Matthew Fricke and
+               Diksha Gupta and
+               Melanie E. Moses},
+  title     = {On Site Fidelity and the Price of Ignorance in Swarm Robotic Central Place Foraging Algorithms},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {63-65},
+}
+
+@inproceedings{DBLP:conf/podc/ChangS19,
+  author    = {Yi-Jun Chang and
+               Thatchaphol Saranurak},
+  title     = {Improved Distributed Expander Decomposition and Nearly Optimal Triangle Enumeration},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {66-73},
+}
+
+@inproceedings{DBLP:conf/podc/Censor-HillelDK19,
+  author    = {Keren Censor-Hillel and
+               Michal Dory and
+               Janne H. Korhonen and
+               Dean Leitersdorf},
+  title     = {Fast Approximate Shortest Paths in the Congested Clique},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {74-83},
+}
+
+@inproceedings{DBLP:conf/podc/IzumiG19,
+  author    = {Taisuke Izumi and
+               François Le Gall},
+  title     = {Quantum Distributed Algorithm for the {All-Pairs} Shortest Path Problem in the {CONGEST-CLIQUE} Model},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {84-93},
+}
+
+@inproceedings{DBLP:conf/podc/DeurerKM19,
+  author    = {Janosch Deurer and
+               Fabian Kuhn and
+               Yannic Maus},
+  title     = {Deterministic Distributed Dominating Set Approximation in the {CONGEST} Model},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {94-103},
+}
+
+@inproceedings{DBLP:conf/podc/Ben-BasatEKS19,
+  author    = {Ran Ben-Basat and
+               Guy Even and
+               Ken-ichi Kawarabayashi and
+               Gregory Schwartzman},
+  title     = {Optimal Distributed Covering Algorithms},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {104-106},
+}
+
+@inproceedings{DBLP:conf/podc/ParterY19,
+  author    = {Merav Parter and
+               Eylon Yogev},
+  title     = {Secure Distributed Computing Made (Nearly) Optimal},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {107-116},
+}
+
+@inproceedings{DBLP:conf/podc/MillerPR19,
+  author    = {Avery Miller and
+               Boaz Patt-Shamir and
+               Will Rosenbaum},
+  title     = {With Great Speed Come Small Buffers: {Space-Bandwidth} Tradeoffs for Routing},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {117-126},
+}
+
+@inproceedings{DBLP:conf/podc/HalldorssonT19,
+  author    = {Magnús M. Halldórsson and
+               Tigran Tonoyan},
+  title     = {Plain {SINR} is Enough!},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {127-136},
+}
+
+@inproceedings{DBLP:conf/podc/GellesKR19,
+  author    = {Ran Gelles and
+               Yael Tauman Kalai and
+               Govind Ramnarayan},
+  title     = {Efficient Multiparty Interactive Coding for Insertions, Deletions, and Substitutions},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {137-146},
+}
+
+@inproceedings{DBLP:conf/podc/AggarwalDHS19,
+  author    = {Abhinav Aggarwal and
+               Varsha Dani and
+               Thomas P. Hayes and
+               Jared Saia},
+  title     = {Multiparty Interactive Communication with Private Channels},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {147-149},
+}
+
+@inproceedings{DBLP:conf/podc/LiSYAKV19,
+  author    = {Songze Li and
+               Saeid Sahraei and
+               Mingchao Yu and
+               Salman Avestimehr and
+               Sreeram Kannan and
+               Pramod Viswanath},
+  title     = {Coded State Machine - Scaling State Machine Execution under Byzantine Faults},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {150-152},
+}
+
+@inproceedings{DBLP:conf/podc/HussakT19,
+  author    = {Walter Hussak and
+               Amitabh Trehan},
+  title     = {On Termination of a Flooding Process},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {153-155},
+}
+
+@inproceedings{DBLP:conf/podc/Woelfel19,
+  author    = {Philipp Woelfel},
+  title     = {Towards a Theory of Randomized Shared Memory Algorithms},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {156},
+}
+
+@inproceedings{DBLP:conf/podc/AghazadehIRTW19,
+  author    = {Zahra Aghazadeh and
+               Damien Imbs and
+               Michel Raynal and
+               Gadi Taubenfeld and
+               Philipp Woelfel},
+  title     = {Optimal {Memory-Anonymous} Symmetric {Deadlock-Free} Mutual Exclusion},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {157-166},
+}
+
+@inproceedings{DBLP:conf/podc/JayantiJ19,
+  author    = {Prasad V. Jayanti and
+               Siddhartha Jayanti},
+  title     = {Constant Amortized {RMR} Abortable Mutex for {CC} and {DSM}},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {167-176},
+}
+
+@inproceedings{DBLP:conf/podc/JayantiJJ19,
+  author    = {Prasad Jayanti and
+               Siddhartha V. Jayanti and
+               Anup Joshi},
+  title     = {A Recoverable Mutex Algorithm with Sub-logarithmic {RMR} on Both {CC} and {DSM}},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {177-186},
+}
+
+@inproceedings{DBLP:conf/podc/JayantiTB19,
+  author    = {Siddhartha V. Jayanti and
+               Robert E. Tarjan and
+               Enric Boix-Adserà},
+  title     = {Randomized Concurrent Set Union and Generalized {Wake-Up}},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {187-196},
+}
+
+@inproceedings{DBLP:conf/podc/OvensW19,
+  author    = {Sean Ovens and
+               Philipp Woelfel},
+  title     = {Strongly Linearizable Implementations of Snapshots and Other Types},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {197-206},
+}
+
+@inproceedings{DBLP:conf/podc/RinbergSBHKS19,
+  author    = {Arik Rinberg and
+               Alexander Spiegelman and
+               Edward Bortnikov and
+               Eshcar Hillel and
+               Idit Keidar and
+               Hadar Serviansky},
+  title     = {Fast Concurrent Data Sketches},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {207-208},
+}
+
+@inproceedings{DBLP:conf/podc/GeorgiouLS19,
+  author    = {Chryssis Georgiou and
+               Oskar Lundström and
+               Elad Michael Schiller},
+  title     = {{Self-Stabilizing} Snapshot Objects for Asynchronous {Failure-Prone} Networked Systems},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {209-211},
+}
+
+@inproceedings{DBLP:conf/podc/Golab19,
+  author    = {Wojciech Golab},
+  title     = {The Recoverable Consensus Hierarchy},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {212-214},
+}
+
+@inproceedings{DBLP:conf/podc/ChaudhuriFW19,
+  author    = {Soma Chaudhuri and
+               Reginald Frank and
+               Jennifer L. Welch},
+  title     = {How Fast Reads Affect {Multi-Valued} Register Simulations},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {215-217},
+}
+
+@inproceedings{DBLP:conf/podc/Nowak0W19,
+  author    = {Thomas Nowak and
+               Ulrich Schmid and
+               Kyrill Winkler},
+  title     = {Topological Characterization of Consensus under General Message Adversaries},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {218-227},
+}
+
+@inproceedings{DBLP:conf/podc/MeirMO19,
+  author    = {Uri Meir and
+               Dor Minzer and
+               Rotem Oshman},
+  title     = {Can Distributed Uniformity Testing Be Local?},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {228-237},
+}
+
+@inproceedings{DBLP:conf/podc/BachrachCDELP19,
+  author    = {Nir Bachrach and
+               Keren Censor-Hillel and
+               Michal Dory and
+               Yuval Efron and
+               Dean Leitersdorf and
+               Ami Paz},
+  title     = {Hardness of Distributed Optimization},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {238-247},
+}
+
+@inproceedings{DBLP:conf/podc/ChenG19,
+  author    = {Lijie Chen and
+               Ofer Grossman},
+  title     = {Broadcast Congested Clique: Planted Cliques and Pseudorandom Generators},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {248-255},
+}
+
+@inproceedings{DBLP:conf/podc/PaiP19,
+  author    = {Shreyas Pai and
+               Sriram V. Pemmaraju},
+  title     = {Connectivity Lower Bounds in Broadcast Congested Clique},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {256-258},
+}
+
+@inproceedings{DBLP:conf/podc/FoersterKR019,
+  author    = {Klaus-Tycho Foerster and
+               Janne H. Korhonen and
+               Joel Rybicki and
+               Stefan Schmid},
+  title     = {Does Preprocessing Help under Congestion?},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {259-261},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0CORS19,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Yi-Jun Chang and
+               Dennis Olivetti and
+               Mikaël Rabie and
+               Jukka Suomela},
+  title     = {The Distributed Complexity of Locally Checkable Problems on Paths is Decidable},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {262-271},
+}
+
+@inproceedings{DBLP:conf/podc/KosowskiUV19,
+  author    = {Adrian Kosowski and
+               Przemyslaw Uznanski and
+               Laurent Viennot},
+  title     = {Hardness of Exact Distance Queries in Sparse Graphs Through Hub Labeling},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {272-279},
+}
+
+@inproceedings{DBLP:conf/podc/BambergerGKMU19,
+  author    = {Philipp Bamberger and
+               Mohsen Ghaffari and
+               Fabian Kuhn and
+               Yannic Maus and
+               Jara Uitto},
+  title     = {On the Complexity of Distributed Splitting Problems},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {280-289},
+}
+
+@inproceedings{DBLP:conf/podc/GhaffariK19,
+  author    = {Mohsen Ghaffari and
+               Fabian Kuhn},
+  title     = {On the Use of Randomness in Local Distributed Graph Algorithms},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {290-299},
+}
+
+@inproceedings{DBLP:conf/podc/BittonEIK19,
+  author    = {Shimon Bitton and
+               Yuval Emek and
+               Taisuke Izumi and
+               Shay Kutten},
+  title     = {Message Reduction in the {LOCAL} Model is a Free Lunch},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {300-302},
+}
+
+@inproceedings{DBLP:conf/podc/Maus19,
+  author    = {Yannic Maus},
+  title     = {{P-SLOCAL-Completeness} of Maximum Independent Set Approximation},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {303-305},
+}
+
+@inproceedings{DBLP:conf/podc/Sergey19,
+  author    = {Ilya Sergey},
+  title     = {Engineering Distributed Systems that We Can Trust (and Also Run)},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {306},
+}
+
+@inproceedings{DBLP:conf/podc/GuerraouiKMPS19,
+  author    = {Rachid Guerraoui and
+               Petr Kuznetsov and
+               Matteo Monti and
+               Matej Pavlovic and
+               Dragos-Adrian Seredinschi},
+  title     = {The Consensus Number of a Cryptocurrency},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {307-316},
+}
+
+@inproceedings{DBLP:conf/podc/AbrahamCDNP0S19,
+  author    = {Ittai Abraham and
+               T.-H. Hubert Chan and
+               Danny Dolev and
+               Kartik Nayak and
+               Rafael Pass and
+               Ling Ren and
+               Elaine Shi},
+  title     = {Communication Complexity of Byzantine Agreement, Revisited},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {317-326},
+}
+
+@inproceedings{DBLP:conf/podc/KhanNV19,
+  author    = {Muhammad Samir Khan and
+               Syed Shalan Naqvi and
+               Nitin H. Vaidya},
+  title     = {Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {327-336},
+}
+
+@inproceedings{DBLP:conf/podc/AbrahamMS19,
+  author    = {Ittai Abraham and
+               Dahlia Malkhi and
+               Alexander Spiegelman},
+  title     = {Asymptotically Optimal Validated Asynchronous Byzantine Agreement},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {337-346},
+}
+
+@inproceedings{DBLP:conf/podc/YinMRGA19,
+  author    = {Maofan Yin and
+               Dahlia Malkhi and
+               Michael K. Reiter and
+               Guy Golan-Gueta and
+               Ittai Abraham},
+  title     = {HotStuff: {BFT} Consensus with Linearity and Responsiveness},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {347-356},
+}
+
+@inproceedings{DBLP:conf/podc/BundLR19,
+  author    = {Johannes Bund and
+               Christoph Lenzen and
+               Will Rosenbaum},
+  title     = {Fault Tolerant Gradient Clock Synchronization},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {357-365},
+}
+
+@inproceedings{DBLP:conf/podc/AggarwalMSZ19,
+  author    = {Abhinav Aggarwal and
+               Mahnush Movahedi and
+               Jared Saia and
+               Mahdi Zamani},
+  title     = {Bootstrapping Public Blockchains Without a Trusted Setup},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {366-368},
+}
+
+@inproceedings{DBLP:conf/podc/BalliuHOS19,
+  author    = {Alkida Balliu and
+               Juho Hirvonen and
+               Dennis Olivetti and
+               Jukka Suomela},
+  title     = {Hardness of Minimal Symmetry Breaking in Distributed Computing},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {369-378},
+}
+
+@inproceedings{DBLP:conf/podc/Brandt19,
+  author    = {Sebastian Brandt},
+  title     = {An Automatic Speedup Theorem for Distributed Problems},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {379-388},
+}
+
+@inproceedings{DBLP:conf/podc/BrandtMU19,
+  author    = {Sebastian Brandt and
+               Yannic Maus and
+               Jara Uitto},
+  title     = {A Sharp Threshold Phenomenon for the Distributed Complexity of the Lovász Local Lemma},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {389-398},
+}
+
+@inproceedings{DBLP:conf/podc/BravoG19,
+  author    = {Manuel Bravo and
+               Alexey Gotsman},
+  title     = {Reconfigurable Atomic Transaction Commit},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {399-408},
+}
+
+@inproceedings{DBLP:conf/podc/AguileraBGMZ19,
+  author    = {Marcos K. Aguilera and
+               Naama Ben-David and
+               Rachid Guerraoui and
+               Virendra Marathe and
+               Igor Zablotchi},
+  title     = {The Impact of {RDMA} on Agreement},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {409-418},
+}
+
+@inproceedings{DBLP:conf/podc/0001R19,
+  author    = {Ruslan Nikolaev and
+               Binoy Ravindran},
+  title     = {Hyaline: Fast and Transparent {Lock-Free} Memory Reclamation},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {419-421},
+}
+
+@inproceedings{DBLP:conf/podc/ThomasM19,
+  author    = {Samuel Thomas and
+               Hammurabi Mendes},
+  title     = {Layering Data Structures over Skip Graphs for Increased {NUMA} Locality},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {422-424},
+}
+
+@inproceedings{DBLP:conf/podc/XiangV19,
+  author    = {Zhuolun Xiang and
+               Nitin H. Vaidya},
+  title     = {Partially Replicated Causally Consistent Shared Memory: Lower Bounds and An Algorithm},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {425-434},
+}
+
+@inproceedings{DBLP:conf/podc/KorgaonkarIZS19,
+  author    = {Kunal Korgaonkar and
+               Joseph Izraelevitz and
+               Jishen Zhao and
+               Steven Swanson},
+  title     = {Vorpal: Vector Clock Ordering For Large Persistent Memory Systems},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {435-444},
+}
+
+@inproceedings{DBLP:conf/podc/WangZ0C019,
+  author    = {Zhaoguo Wang and
+               Changgeng Zhao and
+               Shuai Mu and
+               Haibo Chen and
+               Jinyang Li},
+  title     = {On the Parallels between Paxos and Raft, and how to Port Optimizations},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {445-454},
+}
+
+@inproceedings{DBLP:conf/podc/SkrzypczakSS19,
+  author    = {Jan Skrzypczak and
+               Florian Schintke and
+               Thorsten Schütt},
+  title     = {Linearizable State Machine Replication of {State-Based} {CRDTs} without Logs},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {455-457},
+}
+
+@inproceedings{DBLP:conf/podc/KokocinskiKW19,
+  author    = {Maciej Kokocinski and
+               Tadeusz Kobus and
+               Pawel T. Wojciechowski},
+  title     = {On Mixing Eventual and Strong Consistency: Bayou Revisited},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {458-460},
+}
+
+@inproceedings{DBLP:conf/podc/AssadiSW19,
+  author    = {Sepehr Assadi and
+               Xiaorui Sun and
+               Omri Weinstein},
+  title     = {Massively Parallel Algorithms for Finding {Well-Connected} Components in Sparse Graphs},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {461-470},
+}
+
+@inproceedings{DBLP:conf/podc/ChangFGUZ19,
+  author    = {Yi-Jun Chang and
+               Manuela Fischer and
+               Mohsen Ghaffari and
+               Jara Uitto and
+               Yufan Zheng},
+  title     = {The Complexity of (Δ+1) Coloring in Congested Clique, Massively Parallel Computation, and Centralized Local Computation},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {471-480},
+}
+
+@inproceedings{DBLP:conf/podc/Behnezhad0DFHKU19,
+  author    = {Soheil Behnezhad and
+               Sebastian Brandt and
+               Mahsa Derakhshan and
+               Manuela Fischer and
+               MohammadTaghi Hajiaghayi and
+               Richard M. Karp and
+               Jara Uitto},
+  title     = {Massively Parallel Computation of Matching and {MIS} in Sparse Graphs},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {481-490},
+}
+
+@inproceedings{DBLP:conf/podc/GamlathKMS19,
+  author    = {Buddhima Gamlath and
+               Sagar Kale and
+               Slobodan Mitrovic and
+               Ola Svensson},
+  title     = {Weighted Matchings via Unweighted Augmentations},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {491-500},
+}
+
+@inproceedings{DBLP:conf/podc/AbrahamDGH19,
+  author    = {Ittai Abraham and
+               Danny Dolev and
+               Ivan Geffner and
+               Joseph Y. Halpern},
+  title     = {Implementing Mediators with Asynchronous Cheap Talk},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {501-510},
+}
+
+@inproceedings{DBLP:conf/podc/DinitzHIN19,
+  author    = {Michael Dinitz and
+               Magnús M. Halldórsson and
+               Taisuke Izumi and
+               Calvin Newport},
+  title     = {Distributed Minimum Degree Spanning Trees},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {511-520},
+}
+
+@inproceedings{DBLP:conf/podc/DoryG19,
+  author    = {Michal Dory and
+               Mohsen Ghaffari},
+  title     = {Improved Distributed Approximations for {Minimum-Weight} {Two-Edge-Connected} Spanning Subgraph},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {521-530},
+}
+
+@inproceedings{DBLP:conf/podc/ElkinM19,
+  author    = {Michael Elkin and
+               Shaked Matar},
+  title     = {{Near-Additive} Spanners In Low Polynomial Deterministic {CONGEST} Time},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {531-540},
+}
+
+@inproceedings{DBLP:conf/podc/BodwinP19,
+  author    = {Greg Bodwin and
+               Shyamal Patel},
+  title     = {A Trivial Yet Optimal Solution to Vertex Fault Tolerant Spanners},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {541-543},
+}
+
+@inproceedings{DBLP:conf/podc/LiuS19,
+  author    = {Yanhong A. Liu and
+               Scott D. Stoller},
+  title     = {From Classical to Blockchain Consensus: What Are the Exact Algorithms?},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {544-545},
+}
+
+@inproceedings{DBLP:conf/podc/Buchman19,
+  author    = {Ethan Buchman},
+  title     = {Byzantine Fault Tolerant State Machine Replication in Any Programming Language},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {546},
+}
+
+@inproceedings{DBLP:conf/podc/Foerster19,
+  author    = {Klaus-Tycho Foerster},
+  title     = {Central Control over Distributed Asynchronous Systems: A Tutorial on {Software-Defined} Networks and Consistent Network Updates},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {547-548},
+}
+
+@inproceedings{DBLP:conf/podc/CepedaCG19,
+  author    = {Diego Cepeda and
+               Sakib Chowdhury and
+               Wojciech Golab},
+  title     = {Tutorial: Specifying, Implementing, and Verifying Algorithms for Persistent Memory},
+  booktitle = podc,
+  year      = 2019,
+  pages     = {549},
+}
+
 @inproceedings{DBLP:conf/podc/Alistarh18,
   author    = {Dan Alistarh},
   title     = {Session details: Session 1B: Shared Memory Theory},
@@ -390,7 +1187,7 @@
 @inproceedings{DBLP:conf/podc/JurdzinskiKRS18,
   author    = {Tomasz Jurdzinski and
                Dariusz R. Kowalski and
-               Michal Rozanski and
+               Michal Rózanski and
                Grzegorz Stachowiak},
   title     = {Deterministic Digital Clustering of Wireless Ad Hoc Networks},
   booktitle = podc,
@@ -2428,7 +3225,7 @@
 
 @inproceedings{DBLP:conf/podc/PapadimitriouV15,
   author    = {Christos H. Papadimitriou and
-               Santosh Srinivas Vempala},
+               Santosh S. Vempala},
   title     = {Cortical Computation},
   booktitle = podc,
   year      = 2015,
@@ -3472,7 +4269,7 @@
   author    = {Patricia Takako Endo and
                Marcelo Anderson Santos and
                Jonatas Vitalino and
-               Glauco Estacio Gonçalves and
+               Glauco Estácio Gonçalves and
                Moisés Rodrigues and
                Djamel Fawzi Hadj Sadok and
                Judith Kelner and
@@ -3753,7 +4550,7 @@
 @inproceedings{DBLP:conf/podc/JurdzinskiKRS13,
   author    = {Tomasz Jurdzinski and
                Dariusz R. Kowalski and
-               Michal Rozanski and
+               Michal Rózanski and
                Grzegorz Stachowiak},
   title     = {On the impact of geometry on ad hoc communication in wireless networks},
   booktitle = podc,
@@ -8075,7 +8872,7 @@
 @inproceedings{DBLP:conf/podc/SchultzLL08,
   author    = {David A. Schultz and
                Barbara Liskov and
-               Moses Liskov},
+               Moses D. Liskov},
   title     = {Mobile proactive secret sharing},
   booktitle = podc,
   year      = 2008,
@@ -10857,7 +11654,7 @@
   author    = {S. Amitanand and
                I. Sanketh and
                K. Srinathan and
-               V. Vinod and
+               Vinod Vaikuntanathan and
                C. Pandu Rangan},
   title     = {Distributed consensus in the presence of sectional faults},
   booktitle = podc,
@@ -10923,7 +11720,7 @@
 
 @inproceedings{DBLP:conf/podc/SrinathanVR03,
   author    = {K. Srinathan and
-               V. Vinod and
+               Vinod Vaikuntanathan and
                C. Pandu Rangan},
   title     = {Brief announcement: efficient perfectly secure communication over synchronous networks},
   booktitle = podc,
@@ -15050,7 +15847,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/WestbrookZ94,
-  author    = {Jeffery Westbrook and
+  author    = {Jeffery R. Westbrook and
                Lenore D. Zuck},
   title     = {Adaptive Algorithms for {PASO} Systems},
   booktitle = podc,
@@ -15308,7 +16105,7 @@
 
 @inproceedings{DBLP:conf/podc/SereW94,
   author    = {Kaisa Sere and
-               Marina A. Waldén},
+               Marina Waldén},
   title     = {Verification of a Distributed Algorithm},
   booktitle = podc,
   year      = 1994,
@@ -17062,7 +17859,7 @@
 @inproceedings{DBLP:conf/podc/LynchBS86,
   author    = {Nancy A. Lynch and
                Barbara T. Blaustein and
-               Michael Siegel},
+               Michael D. Siegel},
   title     = {Correctness Conditions for Highly Available Replicated Databases},
   booktitle = podc,
   year      = 1986,
@@ -17595,7 +18392,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/Lehmann84,
-  author    = {Daniel J. Lehmann},
+  author    = {Daniel Lehmann},
   title     = {Knowledge, Common Knowledge and related puzzles},
   booktitle = podc,
   year      = 1984,
@@ -18058,7 +18855,7 @@
 
 @inproceedings{DBLP:conf/podc/CohenL82,
   author    = {Shimon Cohen and
-               Daniel J. Lehmann},
+               Daniel Lehmann},
   title     = {Dynamic Systems and Their Distributed Termination},
   booktitle = podc,
   year      = 1982,
@@ -18265,7 +19062,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/BreitwieserL82,
-  author    = {H. Breitwieser and
+  author    = {Helmut Breitwieser and
                M. Leszak},
   title     = {A Distributed Transaction Processing Protocol Based on Majority Consensus},
   booktitle = podc,

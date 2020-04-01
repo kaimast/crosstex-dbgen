@@ -1,5 +1,3985 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/soda/X20,
+  author    = {},
+  title     = {Front Matter},
+  booktitle = soda,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/soda/X20a,
+  author    = {},
+  title     = {Front Matter},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/soda/ChanH20,
+  author    = {Timothy M. Chan and
+               Qizheng He},
+  title     = {Reducing 3{SUM} to Convolution-3{SUM}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/soda/AkavR20,
+  author    = {Maor Akav and
+               Liam Roditty},
+  title     = {An almost 2-approximation for all-pairs of shortest paths in subquadratic time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/soda/AsharovCNP0S20,
+  author    = {Gilad Asharov and
+               T.-H. Hubert Chan and
+               Kartik Nayak and
+               Rafael Pass and
+               Ling Ren and
+               Elaine Shi},
+  title     = {Bucket Oblivious Sort: An Extremely Simple Oblivious Sort},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {8-14},
+}
+
+@inproceedings{DBLP:conf/soda/WilliamsX20,
+  author    = {Virginia Vassilevska Williams and
+               Yinzhan Xu},
+  title     = {Truly Subcubic {Min-Plus} Product for Less Structured Matrices, with Applications},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {12-29},
+}
+
+@inproceedings{DBLP:conf/soda/GrenetV20,
+  author    = {Bruno Grenet and
+               Ilya Volkovich},
+  title     = {One (more) line on the most Ancient Algorithm in History},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {15-17},
+}
+
+@inproceedings{DBLP:conf/soda/Jaiswal020,
+  author    = {Ragesh Jaiswal and
+               Amit Kumar},
+  title     = {Multiplicative Rank-1 Approximation using {Length-Squared} Sampling},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {18-23},
+}
+
+@inproceedings{DBLP:conf/soda/AaronsonR20,
+  author    = {Scott Aaronson and
+               Patrick Rall},
+  title     = {Quantum Approximate Counting, Simplified},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {24-32},
+}
+
+@inproceedings{DBLP:conf/soda/DurajK0W20,
+  author    = {Lech Duraj and
+               Krzysztof Kleiner and
+               Adam Polak and
+               Virginia Vassilevska Williams},
+  title     = {Equivalences between triangle and range query problems},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {30-47},
+}
+
+@inproceedings{DBLP:conf/soda/Chan20,
+  author    = {Timothy M. Chan},
+  title     = {Dynamic Generalized Closest Pair: Revisiting Eppstein's Technique},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {33-37},
+}
+
+@inproceedings{DBLP:conf/soda/ChanH20a,
+  author    = {Timothy M. Chan and
+               Qizheng He},
+  title     = {On the {Change-Making} Problem},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {38-42},
+}
+
+@inproceedings{DBLP:conf/soda/Biniaz20a,
+  author    = {Ahmad Biniaz},
+  title     = {A Short Proof of the Toughness of Delaunay Triangulations},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {43-46},
+}
+
+@inproceedings{DBLP:conf/soda/CharikarWY20,
+  author    = {Moses Charikar and
+               Xian Wu and
+               Yinyu Ye},
+  title     = {Adaptive Discrete Phase Retrieval},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {47-56},
+}
+
+@inproceedings{DBLP:conf/soda/AbboudKT20,
+  author    = {Amir Abboud and
+               Robert Krauthgamer and
+               Ohad Trabelsi},
+  title     = {New Algorithms and Lower Bounds for {All-Pairs} {Max-Flow} in Undirected Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {48-61},
+}
+
+@inproceedings{DBLP:conf/soda/YaroslavtsevZ20,
+  author    = {Grigory Yaroslavtsev and
+               Samson Zhou},
+  title     = {Fast Fourier Sparsity Testing},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {57-68},
+}
+
+@inproceedings{DBLP:conf/soda/Manurangsi20,
+  author    = {Pasin Manurangsi},
+  title     = {Tight Running Time Lower Bounds for Strong Inapproximability of Maximum k-Coverage, Unique Set Cover and Related Problems (via {t-Wise} Agreement Testing Theorem)},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {62-81},
+}
+
+@inproceedings{DBLP:conf/soda/Quanrud20,
+  author    = {Kent Quanrud},
+  title     = {Nearly linear time approximations for mixed packing and covering problems without data structures or randomization},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {69-80},
+}
+
+@inproceedings{DBLP:conf/soda/ChenMOS20,
+  author    = {Louis L. Chen and
+               Will Ma and
+               James B. Orlin and
+               David Simchi-Levi},
+  title     = {Distributionally Robust Max Flows},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {81-90},
+}
+
+@inproceedings{DBLP:conf/soda/CanonneDS20,
+  author    = {Clément L. Canonne and
+               Anindya De and
+               Rocco A. Servedio},
+  title     = {Learning from satisfying assignments under continuous distributions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {82-101},
+}
+
+@inproceedings{DBLP:conf/soda/ChakrabartyS20,
+  author    = {Deeparnab Chakrabarty and
+               Paul de Supinski},
+  title     = {On a Decentralized (Δ+1)-Graph Coloring Algorithm},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {91-98},
+}
+
+@inproceedings{DBLP:conf/soda/Barenboim020,
+  author    = {Leonid Barenboim and
+               Gal Oren},
+  title     = {Distributed Backup Placement in One Round and its Applications to Maximum Matching Approximation and {Self-Stabilization}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {99-105},
+}
+
+@inproceedings{DBLP:conf/soda/LiLM20,
+  author    = {Ray Li and
+               Percy Liang and
+               Stephen Mussmann},
+  title     = {A Tight Analysis of Greedy Yields Subexponential Time Approximation for Uniform Decision Tree},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {102-121},
+}
+
+@inproceedings{DBLP:conf/soda/KarczmarzL20,
+  author    = {Adam Karczmarz and
+               Jakub Lacki},
+  title     = {Simple {Label-Correcting} Algorithms for Partially Dynamic Approximate Shortest Paths in Directed Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {106-120},
+}
+
+@inproceedings{DBLP:conf/soda/BhattacharyyaK20,
+  author    = {Chiranjib Bhattacharyya and
+               Ravindran Kannan},
+  title     = {Finding a latent k-simplex in O* (k · nnz(data)) time via Subset Smoothing},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {122-140},
+}
+
+@inproceedings{DBLP:conf/soda/AhleKKPVWZ20,
+  author    = {Thomas D. Ahle and
+               Michael Kapralov and
+               Jakob Bæk Tejs Knudsen and
+               Rasmus Pagh and
+               Ameya Velingker and
+               David P. Woodruff and
+               Amir Zandieh},
+  title     = {Oblivious Sketching of {High-Degree} Polynomial Kernels},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {141-160},
+}
+
+@inproceedings{DBLP:conf/soda/RaghavendraY20,
+  author    = {Prasad Raghavendra and
+               Morris Yau},
+  title     = {List Decodable Learning via Sum of Squares},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {161-180},
+}
+
+@inproceedings{DBLP:conf/soda/00010L20,
+  author    = {Heng Guo and
+               Jingcheng Liu and
+               Pinyan Lu},
+  title     = {Zeros of ferromagnetic 2-spin systems},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {181-192},
+}
+
+@inproceedings{DBLP:conf/soda/HarrowW20,
+  author    = {Aram Wettroth Harrow and
+               Annie Y. Wei},
+  title     = {Adaptive Quantum Simulated Annealing for Bayesian Inference and Estimating Partition Functions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {193-212},
+}
+
+@inproceedings{DBLP:conf/soda/JiangSTW0Z20,
+  author    = {Jiaqing Jiang and
+               Xiaoming Sun and
+               Shang-Hua Teng and
+               Bujiao Wu and
+               Kewen Wu and
+               Jialin Zhang},
+  title     = {Optimal {Space-Depth} {Trade-Off} of {CNOT} Circuits in Quantum Logic Synthesis},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {213-229},
+}
+
+@inproceedings{DBLP:conf/soda/Wiebking20,
+  author    = {Daniel Wiebking},
+  title     = {Normalizes and permutational isomorphisms in simply-exponential time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {230-238},
+}
+
+@inproceedings{DBLP:conf/soda/GiannopoulouKKK20,
+  author    = {Archontia C. Giannopoulou and
+               Ken-ichi Kawarabayashi and
+               Stephan Kreutzer and
+               O-joung Kwon},
+  title     = {The Directed Flat Wall Theorem},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {239-258},
+}
+
+@inproceedings{DBLP:conf/soda/Brand20,
+  author    = {Jan van den Brand},
+  title     = {A Deterministic Linear Program Solver in Current Matrix Multiplication Time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {259-278},
+}
+
+@inproceedings{DBLP:conf/soda/KyngW020,
+  author    = {Rasmus Kyng and
+               Di Wang and
+               Peng Zhang},
+  title     = {Packing {LPs} are Hard to Solve Accurately, Assuming Linear Equations are Hard},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {279-296},
+}
+
+@inproceedings{DBLP:conf/soda/BrakensiekG20,
+  author    = {Joshua Brakensiek and
+               Venkatesan Guruswami},
+  title     = {Symmetric Polymorphisms and Efficient Decidability of Promise {CSPs}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {297-304},
+}
+
+@inproceedings{DBLP:conf/soda/Brown-CohenR20,
+  author    = {Jonah Brown-Cohen and
+               Prasad Raghavendra},
+  title     = {Extended Formulation Lower Bounds for Refuting Random {CSPs}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {305-324},
+}
+
+@inproceedings{DBLP:conf/soda/FaenzaK20,
+  author    = {Yuri Faenza and
+               Telikepalli Kavitha},
+  title     = {Quasi-popular Matchings, Optimality, and Extended Formulations},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {325-344},
+}
+
+@inproceedings{DBLP:conf/soda/EtesamiMM20,
+  author    = {Omid Etesami and
+               Saeed Mahloujifar and
+               Mohammad Mahmoody},
+  title     = {Computational Concentration of Measure: Optimal Bounds, Reductions, and More},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {345-363},
+}
+
+@inproceedings{DBLP:conf/soda/AndersonR20,
+  author    = {Joseph Anderson and
+               Luis Rademacher},
+  title     = {Efficiency of the floating body as a robust measure of dispersion},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {364-377},
+}
+
+@inproceedings{DBLP:conf/soda/EldarLMM20,
+  author    = {Yonina C. Eldar and
+               Jerry Li and
+               Cameron Musco and
+               Christopher Musco},
+  title     = {Sample Efficient Toeplitz Covariance Estimation},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {378-397},
+}
+
+@inproceedings{DBLP:conf/soda/DasG0P20,
+  author    = {Abhimanyu Das and
+               Sreenivas Gollapudi and
+               Ravi Kumar and
+               Rina Panigrahy},
+  title     = {On the Learnability of Random Deep Networks},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {398-410},
+}
+
+@inproceedings{DBLP:conf/soda/ChuMS20,
+  author    = {Timothy Chu and
+               Gary L. Miller and
+               Donald R. Sheehy},
+  title     = {Exact computation of a manifold metric, via Lipschitz Embeddings and Shortest Paths on a Graph},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {411-425},
+}
+
+@inproceedings{DBLP:conf/soda/ViolaWY20,
+  author    = {Emanuele Viola and
+               Omri Weinstein and
+               Huacheng Yu},
+  title     = {How to Store a Random Walk},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {426-445},
+}
+
+@inproceedings{DBLP:conf/soda/BonamyGP20,
+  author    = {Marthe Bonamy and
+               Cyril Gavoille and
+               Michal Pilipczuk},
+  title     = {Shorter Labeling Schemes for Planar Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {446-462},
+}
+
+@inproceedings{DBLP:conf/soda/ChechikZ20,
+  author    = {Shiri Chechik and
+               Tianyi Zhang},
+  title     = {Dynamic {Low-Stretch} Spanning Trees in Subpolynomial Time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {463-475},
+}
+
+@inproceedings{DBLP:conf/soda/BhattacharyaNS20,
+  author    = {Sayan Bhattacharya and
+               Danupon Nanongkai and
+               Thatchaphol Saranurak},
+  title     = {{Coarse-Grained} Complexity for Dynamic Algorithms},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {476-494},
+}
+
+@inproceedings{DBLP:conf/soda/ChoudharyG20,
+  author    = {Keerti Choudhary and
+               Omer Gold},
+  title     = {Extremal Distances in Directed Graphs: Tight Spanners and {Near-Optimal} Approximation Algorithms},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {495-514},
+}
+
+@inproceedings{DBLP:conf/soda/JosephM020,
+  author    = {Matthew Joseph and
+               Jieming Mao and
+               Aaron Roth},
+  title     = {Exponential Separations in Local Differential Privacy},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {515-527},
+}
+
+@inproceedings{DBLP:conf/soda/CummingsD20,
+  author    = {Rachel Cummings and
+               David Durfee},
+  title     = {Individual Sensitivity Preprocessing for Data Privacy},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {528-547},
+}
+
+@inproceedings{DBLP:conf/soda/Stemmer20,
+  author    = {Uri Stemmer},
+  title     = {Locally Private {k-Means} Clustering},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {548-559},
+}
+
+@inproceedings{DBLP:conf/soda/EliasKKL20,
+  author    = {Marek Eliás and
+               Michael Kapralov and
+               Janardhan Kulkarni and
+               Yin Tat Lee},
+  title     = {Differentially Private Release of Synthetic Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {560-578},
+}
+
+@inproceedings{DBLP:conf/soda/Coja-OghlanEGHR20,
+  author    = {Amin Coja-Oghlan and
+               Alperen Ali Ergür and
+               Pu Gao and
+               Samuel Hetterich and
+               Maurice Rolvien},
+  title     = {The rank of sparse random matrices},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {579-591},
+}
+
+@inproceedings{DBLP:conf/soda/AfshaniDKN20,
+  author    = {Peyman Afshani and
+               Ingo van Duijn and
+               Rasmus Killmann and
+               Jesper Sindahl Nielsen},
+  title     = {A Lower Bound for Jumbled Indexing},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {592-606},
+}
+
+@inproceedings{DBLP:conf/soda/BirenzwigeGP20,
+  author    = {Or Birenzwige and
+               Shay Golan and
+               Ely Porat},
+  title     = {Locally Consistent Parsing for Text Indexing in Small Space},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {607-626},
+}
+
+@inproceedings{DBLP:conf/soda/ChanN20,
+  author    = {Timothy M. Chan and
+               Yakov Nekrich},
+  title     = {Better Data Structures for Colored Orthogonal Range Reporting},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {627-636},
+}
+
+@inproceedings{DBLP:conf/soda/AlmanCW20,
+  author    = {Josh Alman and
+               Timothy M. Chan and
+               R. Ryan Williams},
+  title     = {Faster Deterministic and Las Vegas Algorithms for Offline Approximate Nearest Neighbors in High Dimensions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {637-649},
+}
+
+@inproceedings{DBLP:conf/soda/BenderDFJK20,
+  author    = {Michael A. Bender and
+               Rathish Das and
+               Martin Farach-Colton and
+               Rob Johnson and
+               William Kuszmaul},
+  title     = {Flushing Without Cascades},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {650-669},
+}
+
+@inproceedings{DBLP:conf/soda/FriezeT20,
+  author    = {Alan M. Frieze and
+               Tomasz Tkocz},
+  title     = {A randomly weighted minimum spanning tree with a random cost constraint},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {670-689},
+}
+
+@inproceedings{DBLP:conf/soda/GaoIM20,
+  author    = {Pu Gao and
+               Mikhail Isaev and
+               Brendan D. McKay},
+  title     = {Sandwiching random regular graphs between binomial random graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {690-701},
+}
+
+@inproceedings{DBLP:conf/soda/HanHM20,
+  author    = {Hiêp Hàn and
+               Jie Han and
+               Patrick Morris},
+  title     = {Factors and loose Hamilton cycles in sparse pseudo-random hypergraphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {702-717},
+}
+
+@inproceedings{DBLP:conf/soda/Ben-EliezerGHK20,
+  author    = {Omri Ben-Eliezer and
+               Lior Gishboliner and
+               Dan Hefetz and
+               Michael Krivelevich},
+  title     = {Very fast construction of bounded-degree spanning graphs via the semi-random graph process},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {718-737},
+}
+
+@inproceedings{DBLP:conf/soda/McKenzieMT20,
+  author    = {Theo McKenzie and
+               Hermish Mehta and
+               Luca Trevisan},
+  title     = {A New Algorithm for the Robust Semi-random Independent Set Problem},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {738-746},
+}
+
+@inproceedings{DBLP:conf/soda/ChangM20,
+  author    = {Hsien-Chih Chang and
+               Arnaud de Mesmay},
+  title     = {Tightening Curves on Surfaces Monotonically with Applications},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {747-766},
+}
+
+@inproceedings{DBLP:conf/soda/Filakovsky0Z20,
+  author    = {Marek Filakovský and
+               Uli Wagner and
+               Stephan Zhechev},
+  title     = {Embeddability of Simplicial Complexes is Undecidable},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {767-785},
+}
+
+@inproceedings{DBLP:conf/soda/AryaAFM20,
+  author    = {Rahul Arya and
+               Sunil Arya and
+               Guilherme D. da Fonseca and
+               David M. Mount},
+  title     = {Optimal Bound on the Combinatorial Complexity of Approximating Polytopes},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {786-805},
+}
+
+@inproceedings{DBLP:conf/soda/DidimoLOP20,
+  author    = {Walter Didimo and
+               Giuseppe Liotta and
+               Giacomo Ortali and
+               Maurizio Patrignani},
+  title     = {Optimal Orthogonal Drawings of Planar 3-Graphs in Linear Time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {806-825},
+}
+
+@inproceedings{DBLP:conf/soda/Biniaz20,
+  author    = {Ahmad Biniaz},
+  title     = {Euclidean Bottleneck {Bounded-Degree} Spanning Tree Ratios},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {826-836},
+}
+
+@inproceedings{DBLP:conf/soda/AxelrodLS20,
+  author    = {Brian Axelrod and
+               Yang P. Liu and
+               Aaron Sidford},
+  title     = {Near-optimal Approximate Discrete and Continuous Submodular Function Minimization},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {837-853},
+}
+
+@inproceedings{DBLP:conf/soda/ZadehBGNSS20,
+  author    = {Sepehr Abbasi Zadeh and
+               Nikhil Bansal and
+               Guru Guruganesh and
+               Aleksandar Nikolov and
+               Roy Schwartz and
+               Mohit Singh},
+  title     = {Sticky Brownian Rounding and its Applications to Constraint Satisfaction Problems},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {854-873},
+}
+
+@inproceedings{DBLP:conf/soda/JonesM20,
+  author    = {Chris Jones and
+               Matt McPartlon},
+  title     = {Spherical Discrepancy Minimization and Algorithmic Lower Bounds for Covering the Sphere},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {874-891},
+}
+
+@inproceedings{DBLP:conf/soda/AdilS20,
+  author    = {Deeksha Adil and
+               Sushant Sachdeva},
+  title     = {Faster p-norm minimizing flows, via smoothed q-norm problems},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {892-910},
+}
+
+@inproceedings{DBLP:conf/soda/AlankoDPP20,
+  author    = {Jarno Alanko and
+               Giovanna D'Agostino and
+               Alberto Policriti and
+               Nicola Prezza},
+  title     = {Regular Languages meet Prefix Sorting},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {911-930},
+}
+
+@inproceedings{DBLP:conf/soda/GolovachST20,
+  author    = {Petr A. Golovach and
+               Giannos Stamoulis and
+               Dimitrios M. Thilikos},
+  title     = {Hitting Topological Minor Models in Planar Graphs is Fixed Parameter Tractable},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {931-950},
+}
+
+@inproceedings{DBLP:conf/soda/BasteST20,
+  author    = {Julien Baste and
+               Ignasi Sau and
+               Dimitrios M. Thilikos},
+  title     = {A complexity dichotomy for hitting connected minors on bounded treewidth graphs: the chair and the banner draw the boundary},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {951-970},
+}
+
+@inproceedings{DBLP:conf/soda/LiN20,
+  author    = {Jason Li and
+               Jesper Nederlof},
+  title     = {Detecting Feedback Vertex Sets of Size k in O*(2.7k) Time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {971-989},
+}
+
+@inproceedings{DBLP:conf/soda/KawarabayashiL20,
+  author    = {Ken-ichi Kawarabayashi and
+               Bingkai Lin},
+  title     = {A nearly 5/3-approximation {FPT} Algorithm for {Min-k-Cut}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {990-999},
+}
+
+@inproceedings{DBLP:conf/soda/Nutov20,
+  author    = {Zeev Nutov},
+  title     = {A 4 + ε approximation for k-connected subgraphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1000-1009},
+}
+
+@inproceedings{DBLP:conf/soda/LokshtanovMMPP020,
+  author    = {Daniel Lokshtanov and
+               Pranabendu Misra and
+               Joydeep Mukherjee and
+               Fahad Panolan and
+               Geevarghese Philip and
+               Saket Saurabh},
+  title     = {2-Approximating Feedback Vertex Set in Tournaments},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1010-1018},
+}
+
+@inproceedings{DBLP:conf/soda/ChekuriHQ20,
+  author    = {Chandra Chekuri and
+               Sariel Har-Peled and
+               Kent Quanrud},
+  title     = {Fast {LP-based} Approximations for Geometric Packing and Covering Problems},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1019-1038},
+}
+
+@inproceedings{DBLP:conf/soda/GhugeN20,
+  author    = {Rohan Ghuge and
+               Viswanath Nagarajan},
+  title     = {{Quasi-Polynomial} Algorithms for Submodular Tree Orienteering and Other Directed Network Design Problems},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1039-1048},
+}
+
+@inproceedings{DBLP:conf/soda/ElkinN20,
+  author    = {Michael Elkin and
+               Ofer Neiman},
+  title     = {Lossless Prioritized Embeddings},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1049-1062},
+}
+
+@inproceedings{DBLP:conf/soda/FiltserGK20,
+  author    = {Arnold Filtser and
+               Lee-Ad Gottlieb and
+               Robert Krauthgamer},
+  title     = {Labelings vs. Embeddings: On Distributed Representations of Distances},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1063-1075},
+}
+
+@inproceedings{DBLP:conf/soda/GolowichS20,
+  author    = {Noah Golowich and
+               Madhu Sudan},
+  title     = {Round Complexity of Common Randomness Generation: The Amortized Setting},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1076-1095},
+}
+
+@inproceedings{DBLP:conf/soda/NaorPY20,
+  author    = {Moni Naor and
+               Merav Parter and
+               Eylon Yogev},
+  title     = {The Power of Distributed Verifiers in Interactive Proofs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1096-115},
+}
+
+@inproceedings{DBLP:conf/soda/LarsenMWY20,
+  author    = {Kasper Green Larsen and
+               Tal Malkin and
+               Omri Weinstein and
+               Kevin Yeo},
+  title     = {Lower Bounds for Oblivious {Near-Neighbor} Search},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1116-1134},
+}
+
+@inproceedings{DBLP:conf/soda/BlumKMQR20,
+  author    = {Erica Blum and
+               Aggelos Kiayias and
+               Cristopher Moore and
+               Saad Quader and
+               Alexander Russell},
+  title     = {The Combinatorics of the {Longest-Chain} Rule: Linear Consistency for {Proof-of-Stake} Blockchains},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1135-1154},
+}
+
+@inproceedings{DBLP:conf/soda/KellerS20,
+  author    = {Chaya Keller and
+               Shakhar Smorodinsky},
+  title     = {A New Lower Bound on {Hadwiger-Debrunner} Numbers in the Plane},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1155-1169},
+}
+
+@inproceedings{DBLP:conf/soda/MartinssonU20,
+  author    = {Anders Martinsson and
+               Jara Uitto},
+  title     = {Navigating an Infinite Space with Unreliable Movements},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1170-1179},
+}
+
+@inproceedings{DBLP:conf/soda/NesetrilRMS20,
+  author    = {Jaroslav Nesetril and
+               Roman Rabinovich and
+               Patrice Ossona de Mendez and
+               Sebastian Siebertz},
+  title     = {Linear rankwidth meets stability},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1180-1199},
+}
+
+@inproceedings{DBLP:conf/soda/MehtaS20,
+  author    = {Jenish C. Mehta and
+               Leonard J. Schulman},
+  title     = {Edge Expansion and Spectral Gap of Nonnegative Matrices},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1200-1213},
+}
+
+@inproceedings{DBLP:conf/soda/HartungHMW20,
+  author    = {Elizabeth Hartung and
+               Hung Phuc Hoang and
+               Torsten Mütze and
+               Aaron Williams},
+  title     = {Combinatorial generation via permutation languages},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1214-1225},
+}
+
+@inproceedings{DBLP:conf/soda/MohantyO20,
+  author    = {Sidhanth Mohanty and
+               Ryan O'Donnell},
+  title     = {{X-Ramanujan} graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1226-1243},
+}
+
+@inproceedings{DBLP:conf/soda/Kuhn20,
+  author    = {Fabian Kuhn},
+  title     = {Faster Deterministic Distributed Coloring Through Recursive List Coloring},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1244-1259},
+}
+
+@inproceedings{DBLP:conf/soda/Ghaffari0T20,
+  author    = {Mohsen Ghaffari and
+               Krzysztof Nowicki and
+               Mikkel Thorup},
+  title     = {Faster Algorithms for Edge Connectivity via Random 2-Out Contractions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1260-1279},
+}
+
+@inproceedings{DBLP:conf/soda/AugustineHKSS20,
+  author    = {John Augustine and
+               Kristian Hinnenthal and
+               Fabian Kuhn and
+               Christian Scheideler and
+               Philipp Schneider},
+  title     = {Shortest Paths in a Hybrid Network Model},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1280-1299},
+}
+
+@inproceedings{DBLP:conf/soda/DhulipalaDKPSS20,
+  author    = {Laxman Dhulipala and
+               David Durfee and
+               Janardhan Kulkarni and
+               Richard Peng and
+               Saurabh Sawlani and
+               Xiaorui Sun},
+  title     = {Parallel {Batch-Dynamic} Graphs: Algorithms and Lower Bounds},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1300-1319},
+}
+
+@inproceedings{DBLP:conf/soda/BecchettiCNPT20,
+  author    = {Luca Becchetti and
+               Andrea E. F. Clementi and
+               Emanuele Natale and
+               Francesco Pasquale and
+               Luca Trevisan},
+  title     = {Finding a {Bounded-Degree} Expander Inside a Dense One},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1320-1336},
+}
+
+@inproceedings{DBLP:conf/soda/NarayananW20,
+  author    = {Anand Kumar Narayanan and
+               Matthew Weidner},
+  title     = {On Decoding {Cohen-Haeupler-Schulman} Tree Codes},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1337-1356},
+}
+
+@inproceedings{DBLP:conf/soda/SberloS20,
+  author    = {Ori Sberlo and
+               Amir Shpilka},
+  title     = {On the Performance of {Reed-Muller} Codes with respect to Random Errors and Erasures},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1357-1376},
+}
+
+@inproceedings{DBLP:conf/soda/GurL20,
+  author    = {Tom Gur and
+               Oded Lachish},
+  title     = {On the Power of Relaxed Local Decoding Algorithms},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1377-1394},
+}
+
+@inproceedings{DBLP:conf/soda/ChiesaGS20,
+  author    = {Alessandro Chiesa and
+               Tom Gur and
+               Igor Shinkar},
+  title     = {Relaxed Locally Correctable Codes with {Nearly-Linear} Block Length and Constant Query Complexity},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1395-1411},
+}
+
+@inproceedings{DBLP:conf/soda/AlevJQST20,
+  author    = {Vedat Levi Alev and
+               Fernando Granha Jeronimo and
+               Dylan Quintana and
+               Shashank Srivastava and
+               Madhur Tulsiani},
+  title     = {List Decoding of Direct Sum Codes},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1412-1425},
+}
+
+@inproceedings{DBLP:conf/soda/WrochnaZ20,
+  author    = {Marcin Wrochna and
+               Stanislav Zivny},
+  title     = {Improved hardness for H-colourings of G-colourable graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1426-1435},
+}
+
+@inproceedings{DBLP:conf/soda/KrystaMZ20,
+  author    = {Piotr Krysta and
+               Mathieu Mari and
+               Nan Zhi},
+  title     = {Ultimate greedy approximation of independent sets in subcubic graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1436-1455},
+}
+
+@inproceedings{DBLP:conf/soda/CannonP20,
+  author    = {Sarah Cannon and
+               Will Perkins},
+  title     = {Counting independent sets in unbalanced bipartite graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1456-1466},
+}
+
+@inproceedings{DBLP:conf/soda/EdenRS20,
+  author    = {Talya Eden and
+               Dana Ron and
+               C. Seshadhri},
+  title     = {Faster sublinear approximation of the number of k-cliques in low-arboricity graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1467-1478},
+}
+
+@inproceedings{DBLP:conf/soda/AustrinBP20,
+  author    = {Per Austrin and
+               Amey Bhangale and
+               Aditya Potukuchi},
+  title     = {Improved Inapproximability of Rainbow Coloring},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1479-1495},
+}
+
+@inproceedings{DBLP:conf/soda/BubeckKLLS20,
+  author    = {Sébastien Bubeck and
+               Bo'az Klartag and
+               Yin Tat Lee and
+               Yuanzhi Li and
+               Mark Sellke},
+  title     = {Chasing Nested Convex Bodies Nearly Optimally},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1496-1508},
+}
+
+@inproceedings{DBLP:conf/soda/Sellke20,
+  author    = {Mark Sellke},
+  title     = {Chasing Convex Bodies Optimally},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1509-1518},
+}
+
+@inproceedings{DBLP:conf/soda/ArgueGGT20,
+  author    = {C. J. Argue and
+               Anupam Gupta and
+               Guru Guruganesh and
+               Ziye Tang},
+  title     = {Chasing Convex Bodies with Linear Competitive Ratio},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1519-1524},
+}
+
+@inproceedings{DBLP:conf/soda/GuptaL20,
+  author    = {Anupam Gupta and
+               Roie Levin},
+  title     = {The Online Submodular Cover Problem},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1525-1537},
+}
+
+@inproceedings{DBLP:conf/soda/BartalFU20,
+  author    = {Yair Bartal and
+               Nova Fandina and
+               Seeun William Umboh},
+  title     = {Online Probabilistic Metric Embedding: A General Framework for Bypassing Inherent Bounds},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1538-1557},
+}
+
+@inproceedings{DBLP:conf/soda/Kuszmaul20,
+  author    = {William Kuszmaul},
+  title     = {Achieving Optimal Backlog in the Vanilla {Multi-Processor} Cup Game},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1558-1577},
+}
+
+@inproceedings{DBLP:conf/soda/OkrasaR20,
+  author    = {Karolina Okrasa and
+               Pawel Rzazewski},
+  title     = {Fine-grained complexity of graph homomorphism problem for bounded-treewidth graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1578-1590},
+}
+
+@inproceedings{DBLP:conf/soda/RubinsteinS20,
+  author    = {Aviad Rubinstein and
+               Zhao Song},
+  title     = {Reducing approximate Longest Common Subsequence to approximate Edit Distance},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1591-1600},
+}
+
+@inproceedings{DBLP:conf/soda/BoroujeniSS20,
+  author    = {Mahdi Boroujeni and
+               Masoud Seddighin and
+               Saeed Seddighin},
+  title     = {Improved Algorithms for Edit Distance and LCS: Beyond Worst Case},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1601-1620},
+}
+
+@inproceedings{DBLP:conf/soda/Kisfaludi-Bak20,
+  author    = {Sándor Kisfaludi-Bak},
+  title     = {Hyperbolic intersection graphs and (quasi)-polynomial time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1621-1638},
+}
+
+@inproceedings{DBLP:conf/soda/Juge20,
+  author    = {Vincent Jugé},
+  title     = {Adaptive Shivers Sort: An Alternative Sorting Algorithm},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1639-1654},
+}
+
+@inproceedings{DBLP:conf/soda/LiWW20,
+  author    = {Yi Li and
+               Ruosong Wang and
+               David P. Woodruff},
+  title     = {Tight Bounds for the Subspace Sketch Problem with Applications},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1655-1674},
+}
+
+@inproceedings{DBLP:conf/soda/IndykMGR20,
+  author    = {Piotr Indyk and
+               Sepideh Mahabadi and
+               Shayan Oveis Gharan and
+               Alireza Rezaei},
+  title     = {Composable Core-sets for Determinant Maximization Problems via Spectral Spanners},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1675-1694},
+}
+
+@inproceedings{DBLP:conf/soda/Ben-LevyP20,
+  author    = {Uri Ben-Levy and
+               Merav Parter},
+  title     = {New (α, β) Spanners and Hopsets},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1695-1714},
+}
+
+@inproceedings{DBLP:conf/soda/HuangPZZ20,
+  author    = {Dawei Huang and
+               Seth Pettie and
+               Yixiang Zhang and
+               Zhijun Zhang},
+  title     = {The Communication Complexity of Set Intersection and Multiple Equality Testing},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1715-1732},
+}
+
+@inproceedings{DBLP:conf/soda/VempalaWW20,
+  author    = {Santosh S. Vempala and
+               Ruosong Wang and
+               David P. Woodruff},
+  title     = {The Communication Complexity of Optimization},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1733-1752},
+}
+
+@inproceedings{DBLP:conf/soda/KapralovMNT20,
+  author    = {Michael Kapralov and
+               Slobodan Mitrovic and
+               Ashkan Norouzi-Fard and
+               Jakab Tardos},
+  title     = {Space Efficient Approximation to Maximum Matching Size from Uniform Edge Samples},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1753-1772},
+}
+
+@inproceedings{DBLP:conf/soda/0001HMRR20,
+  author    = {Alireza Farhadi and
+               Mohammad Taghi Hajiaghayi and
+               Tung Mai and
+               Anup Rao and
+               Ryan A. Rossi},
+  title     = {Approximate Maximum Matching in Random Streams},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1773-1785},
+}
+
+@inproceedings{DBLP:conf/soda/ChakrabartiG0V20,
+  author    = {Amit Chakrabarti and
+               Prantar Ghosh and
+               Andrew McGregor and
+               Sofya Vorotnikova},
+  title     = {Vertex Ordering Problems in Directed Graph Streams},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1786-1802},
+}
+
+@inproceedings{DBLP:conf/soda/AlmanY20,
+  author    = {Josh Alman and
+               Huacheng Yu},
+  title     = {Faster Update Time for Turnstile Streaming Algorithms},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1803-1813},
+}
+
+@inproceedings{DBLP:conf/soda/KapralovMMMNST20,
+  author    = {Michael Kapralov and
+               Aida Mousavifar and
+               Cameron Musco and
+               Christopher Musco and
+               Navid Nouri and
+               Aaron Sidford and
+               Jakab Tardos},
+  title     = {Fast and Space Efficient Spectral Sparsification in Dynamic Streams},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1814-1833},
+}
+
+@inproceedings{DBLP:conf/soda/Rohatgi20,
+  author    = {Dhruv Rohatgi},
+  title     = {{Near-Optimal} Bounds for Online Caching with Machine Learned Advice},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1834-1845},
+}
+
+@inproceedings{DBLP:conf/soda/0001PSV20,
+  author    = {Ravi Kumar and
+               Manish Purohit and
+               Zoya Svitkina and
+               Erik Vee},
+  title     = {Interleaved Caching with Access Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1846-1858},
+}
+
+@inproceedings{DBLP:conf/soda/LattanziLMV20,
+  author    = {Silvio Lattanzi and
+               Thomas Lavastida and
+               Benjamin Moseley and
+               Sergei Vassilvitskii},
+  title     = {Online Scheduling via Learned Weights},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1859-1877},
+}
+
+@inproceedings{DBLP:conf/soda/BoseCIKL20,
+  author    = {Prosenjit Bose and
+               Jean Cardinal and
+               John Iacono and
+               Grigorios Koumoutsos and
+               Stefan Langerman},
+  title     = {Competitive Online Search Trees on Trees},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1878-1891},
+}
+
+@inproceedings{DBLP:conf/soda/JungKL20,
+  author    = {Christopher Jung and
+               Sampath Kannan and
+               Neil Lutz},
+  title     = {Quantifying the Burden of Exploration and the Unfairness of Free Riding},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1892-1904},
+}
+
+@inproceedings{DBLP:conf/soda/DucoffeHV20,
+  author    = {Guillaume Ducoffe and
+               Michel Habib and
+               Laurent Viennot},
+  title     = {Diameter computation on H-minor free graphs and graphs of bounded (distance) {VC-dimension}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1905-1922},
+}
+
+@inproceedings{DBLP:conf/soda/Yamaguchi20,
+  author    = {Yutaro Yamaguchi},
+  title     = {A Strongly Polynomial Algorithm for Finding a Shortest Non-zero Path in {Group-Labeled} Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1923-1932},
+}
+
+@inproceedings{DBLP:conf/soda/0001Y20,
+  author    = {Satoru Iwata and
+               Yu Yokoi},
+  title     = {A Blossom Algorithm for Maximum {Edge-Disjoint} {T-Paths}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1933-1944},
+}
+
+@inproceedings{DBLP:conf/soda/Filtser20,
+  author    = {Arnold Filtser},
+  title     = {A face cover perspective to ℓ1 embeddings of planar graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1945-1954},
+}
+
+@inproceedings{DBLP:conf/soda/ChalermsookKSU20,
+  author    = {Parinya Chalermsook and
+               Samir Khuller and
+               Pattara Sukprasert and
+               Sumedha Uniyal},
+  title     = {Multi-transversals for Triangles and the Tuza's Conjecture},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1955-1974},
+}
+
+@inproceedings{DBLP:conf/soda/BlackCS20,
+  author    = {Hadley Black and
+               Deeparnab Chakrabarty and
+               C. Seshadhri},
+  title     = {Domain Reduction for Monotonicity Testing: A o(d) Tester for Boolean Functions in {d-Dimensions}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1975-1994},
+}
+
+@inproceedings{DBLP:conf/soda/PallavoorRW20,
+  author    = {Ramesh Krishnan S. Pallavoor and
+               Sofya Raskhodnikova and
+               Erik Waingarten},
+  title     = {Approximating the Distance to Monotonicity of Boolean Functions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {1995-2009},
+}
+
+@inproceedings{DBLP:conf/soda/ChenD20,
+  author    = {Xue Chen and
+               Anindya De},
+  title     = {Reconstruction under outliers for Fourier-sparse functions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2010-2029},
+}
+
+@inproceedings{DBLP:conf/soda/BelovsBB20,
+  author    = {Aleksandrs Belovs and
+               Eric Blais and
+               Abhinav Bommireddi},
+  title     = {Testing convexity of functions over finite domains},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2030-2045},
+}
+
+@inproceedings{DBLP:conf/soda/ForsterNYSY20,
+  author    = {Sebastian Forster and
+               Danupon Nanongkai and
+               Liu Yang and
+               Thatchaphol Saranurak and
+               Sorrachai Yingchareonthawornchai},
+  title     = {Computing and Testing Small Connectivity in {Near-Linear} Time and Queries via Fast Local Cut Algorithms},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2046-2065},
+}
+
+@inproceedings{DBLP:conf/soda/CorreaCES20,
+  author    = {José R. Correa and
+               Andrés Cristi and
+               Boris Epstein and
+               José A. Soto},
+  title     = {The {Two-Sided} Game of Googol and {Sample-Based} Prophet Inequalities},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2066-2081},
+}
+
+@inproceedings{DBLP:conf/soda/KaplanNR20,
+  author    = {Haim Kaplan and
+               David Naori and
+               Danny Raz},
+  title     = {Competitive Analysis with a Sample and the Secretary Problem},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2082-2095},
+}
+
+@inproceedings{DBLP:conf/soda/Abebe0GH20,
+  author    = {Rediet Abebe and
+               Richard Cole and
+               Vasilis Gkatzelis and
+               Jason D. Hartline},
+  title     = {A Truthful Cardinal Mechanism for {One-Sided} Matching},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2096-2113},
+}
+
+@inproceedings{DBLP:conf/soda/BeiSWZZZ20,
+  author    = {Xiaohui Bei and
+               Xiaoming Sun and
+               Hao Wu and
+               Jialin Zhang and
+               Zhijie Zhang and
+               Wei Zi},
+  title     = {Cake Cutting on Graphs: A Discrete and Bounded Proportional Protocol},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2114-2123},
+}
+
+@inproceedings{DBLP:conf/soda/Cohen-AddadMM20,
+  author    = {Vincent Cohen-Addad and
+               Frederik Mallmann-Trenn and
+               Claire Mathieu},
+  title     = {{Instance-Optimality} in the Noisy Value-and {Comparison-Model}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2124-2143},
+}
+
+@inproceedings{DBLP:conf/soda/BhargavaSV20,
+  author    = {Vishwas Bhargava and
+               Shubhangi Saraf and
+               Ilya Volkovich},
+  title     = {Reconstruction of Depth-4 Multilinear Circuits},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2144-2160},
+}
+
+@inproceedings{DBLP:conf/soda/RothW20,
+  author    = {Marc Roth and
+               Philip Wellnitz},
+  title     = {Counting and Finding Homomorphisms is Universal for Parameterized Complexity Theory},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2161-2180},
+}
+
+@inproceedings{DBLP:conf/soda/LokshtanovR0Z20,
+  author    = {Daniel Lokshtanov and
+               M. S. Ramanujan and
+               Saket Saurabh and
+               Meirav Zehavi},
+  title     = {Parameterized Complexity and Approximability of Directed Odd Cycle Transversal},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2181-2200},
+}
+
+@inproceedings{DBLP:conf/soda/DellLM20,
+  author    = {Holger Dell and
+               John Lapinskas and
+               Kitty Meeks},
+  title     = {Approximately counting and sampling small witnesses using a colourful decision oracle},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2201-2211},
+}
+
+@inproceedings{DBLP:conf/soda/DebskiFMS20,
+  author    = {Michal Debski and
+               Stefan Felsner and
+               Piotr Micek and
+               Felix Schröder},
+  title     = {Improved bounds for centered colorings},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2212-2226},
+}
+
+@inproceedings{DBLP:conf/soda/Dvorak20,
+  author    = {Zdenek Dvorák},
+  title     = {Baker game and polynomial-time approximation schemes},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2227-2240},
+}
+
+@inproceedings{DBLP:conf/soda/Cohen-Addad20,
+  author    = {Vincent Cohen-Addad},
+  title     = {Approximation Schemes for Capacitated Clustering in Doubling Metrics},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2241-2259},
+}
+
+@inproceedings{DBLP:conf/soda/ChudnovskyPPT20,
+  author    = {Maria Chudnovsky and
+               Marcin Pilipczuk and
+               Michal Pilipczuk and
+               Stéphan Thomassé},
+  title     = {Quasi-polynomial time approximation schemes for the Maximum Weight Independent Set Problem in H-free graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2260-2278},
+}
+
+@inproceedings{DBLP:conf/soda/Le20,
+  author    = {Hung Le},
+  title     = {A {PTAS} for subset {TSP} in minor-free graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2279-2298},
+}
+
+@inproceedings{DBLP:conf/soda/FominL0Z20,
+  author    = {Fedor V. Fomin and
+               Daniel Lokshtanov and
+               Saket Saurabh and
+               Meirav Zehavi},
+  title     = {Approximation Schemes via Width/Weight Trade-offs on Minor-free Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2299-2318},
+}
+
+@inproceedings{DBLP:conf/soda/IliopoulosS20,
+  author    = {Fotis Iliopoulos and
+               Alistair Sinclair},
+  title     = {Efficiently list-edge coloring multigraphs asymptotically optimally},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2319-2336},
+}
+
+@inproceedings{DBLP:conf/soda/ReisR20,
+  author    = {Victor Reis and
+               Thomas Rothvoss},
+  title     = {Linear Size Sparsifier and the Geometry of the Operator Norm Ball},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2337-2348},
+}
+
+@inproceedings{DBLP:conf/soda/ChanLPS20,
+  author    = {T.-H. Hubert Chan and
+               Zhibin Liang and
+               Antigoni Polychroniadou and
+               Elaine Shi},
+  title     = {Small Memory Robust Simulation of {Client-Server} Interactive Protocols over Oblivious Noisy Channels},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2349-2365},
+}
+
+@inproceedings{DBLP:conf/soda/HanK20,
+  author    = {Jie Han and
+               Peter Keevash},
+  title     = {Finding Perfect Matchings in Dense Hypergraphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2366-2377},
+}
+
+@inproceedings{DBLP:conf/soda/HolmR20,
+  author    = {Jacob Holm and
+               Eva Rotenberg},
+  title     = {{Worst-Case} Polylog Incremental SPQR-trees: Embeddings, Planarity, and Triconnectivity},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2378-2397},
+}
+
+@inproceedings{DBLP:conf/soda/Kong20,
+  author    = {Yuqing Kong},
+  title     = {Dominantly Truthful Multi-task Peer Prediction with a Constant Number of Tasks},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2398-2411},
+}
+
+@inproceedings{DBLP:conf/soda/ChenXZ20,
+  author    = {Yiling Chen and
+               Haifeng Xu and
+               Shuran Zheng},
+  title     = {Selling Information Through Consulting},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2412-2431},
+}
+
+@inproceedings{DBLP:conf/soda/CummingsD0W20,
+  author    = {Rachel Cummings and
+               Nikhil R. Devanur and
+               Zhiyi Huang and
+               Xiangning Wang},
+  title     = {Algorithmic Price Discrimination},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2432-2451},
+}
+
+@inproceedings{DBLP:conf/soda/BabaioffGG20,
+  author    = {Moshe Babaioff and
+               Kira Goldner and
+               Yannai A. Gonczarowski},
+  title     = {{Bulow-Klemperer-Style} Results for Welfare Maximization in {Two-Sided} Markets},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2452-2471},
+}
+
+@inproceedings{DBLP:conf/soda/HartlineJNW20,
+  author    = {Jason D. Hartline and
+               Aleck C. Johnsen and
+               Denis Nekipelov and
+               Zihe Wang},
+  title     = {Inference from Auction Prices},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2472-2491},
+}
+
+@inproceedings{DBLP:conf/soda/BehnezhadLM20,
+  author    = {Soheil Behnezhad and
+               Jakub Lacki and
+               Vahab S. Mirrokni},
+  title     = {Fully Dynamic Matching: Beating 2-Approximation in Δϵ Update Time},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2492-2508},
+}
+
+@inproceedings{DBLP:conf/soda/BhattacharyaK20,
+  author    = {Sayan Bhattacharya and
+               Janardhan Kulkarni},
+  title     = {An Improved Algorithm for Incremental Cycle Detection and Topological Ordering in Sparse Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2509-2521},
+}
+
+@inproceedings{DBLP:conf/soda/GutenbergW20,
+  author    = {Maximilian Probst Gutenberg and
+               Christian Wulff-Nilsen},
+  title     = {Deterministic Algorithms for Decremental Approximate Shortest Paths: Faster and Simpler},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2522-2541},
+}
+
+@inproceedings{DBLP:conf/soda/GutenbergW20a,
+  author    = {Maximilian Probst Gutenberg and
+               Christian Wulff-Nilsen},
+  title     = {Decremental {SSSP} in Weighted Digraphs: Faster and Against an Adaptive Adversary},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2542-2561},
+}
+
+@inproceedings{DBLP:conf/soda/GutenbergW20b,
+  author    = {Maximilian Probst Gutenberg and
+               Christian Wulff-Nilsen},
+  title     = {{Fully-Dynamic} {All-Pairs} Shortest Paths: Improved {Worst-Case} Time and Space Bounds},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2562-2574},
+}
+
+@inproceedings{DBLP:conf/soda/DumitrescuT20,
+  author    = {Adrian Dumitrescu and
+               Csaba D. Tóth},
+  title     = {On the Cover of the Rolling Stone},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2575-2586},
+}
+
+@inproceedings{DBLP:conf/soda/DeyHM20,
+  author    = {Tamal K. Dey and
+               Tao Hou and
+               Sayan Mandal},
+  title     = {Computing Minimal Persistent Cycles: Polynomial and Hard Cases},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2587-2606},
+}
+
+@inproceedings{DBLP:conf/soda/HaderKPS20,
+  author    = {Daniel Hader and
+               Aaron Koch and
+               Matthew J. Patitz and
+               Michael Sharp},
+  title     = {The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Universality in the abstract Tile Assembly Model},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2607-2624},
+}
+
+@inproceedings{DBLP:conf/soda/Balanza-Martinez20,
+  author    = {Jose Balanza-Martinez and
+               Timothy Gomez and
+               David Caballero and
+               Austin Luchsinger and
+               Angel A. Cantu and
+               Rene Reyes and
+               Mauricio Flores and
+               Robert T. Schweller and
+               Tim Wylie},
+  title     = {Hierarchical Shape Construction and Complexity for Slidable Polyominoes under Uniform External Forces},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2625-2641},
+}
+
+@inproceedings{DBLP:conf/soda/KaluzaT20,
+  author    = {Vojtech Kaluza and
+               Martin Tancer},
+  title     = {Even maps, the Colin de Verdière number and representations of graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2642-2657},
+}
+
+@inproceedings{DBLP:conf/soda/ChaudhuryKMS20,
+  author    = {Bhaskar Ray Chaudhury and
+               Telikepalli Kavitha and
+               Kurt Mehlhorn and
+               Alkmini Sgouritsa},
+  title     = {A Little Charity Guarantees Almost {Envy-Freeness}},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2658-2672},
+}
+
+@inproceedings{DBLP:conf/soda/GargKK20,
+  author    = {Jugal Garg and
+               Pooja Kulkarni and
+               Rucha Kulkarni},
+  title     = {Approximating Nash Social Welfare under Submodular Valuations through (Un)Matchings},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2673-2687},
+}
+
+@inproceedings{DBLP:conf/soda/DuttingRT20,
+  author    = {Paul Dütting and
+               Tim Roughgarden and
+               Inbal Talgam-Cohen},
+  title     = {The Complexity of Contracts},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2688-2707},
+}
+
+@inproceedings{DBLP:conf/soda/Xu20,
+  author    = {Haifeng Xu},
+  title     = {On the Tractability of Public Persuasion with No Externalities},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2708-2727},
+}
+
+@inproceedings{DBLP:conf/soda/KlimmW20,
+  author    = {Max Klimm and
+               Philipp Warode},
+  title     = {Complexity and Parametric Computation of Equilibria in Atomic Splittable Congestion Games via Weighted Block Laplacians},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2728-2747},
+}
+
+@inproceedings{DBLP:conf/soda/DaviesRZ20,
+  author    = {Sami Davies and
+               Thomas Rothvoss and
+               Yihao Zhang},
+  title     = {A Tale of Santa Claus, Hypergraphs and Matroids},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2748-2757},
+}
+
+@inproceedings{DBLP:conf/soda/AntoniadisGKK20,
+  author    = {Antonios Antoniadis and
+               Naveen Garg and
+               Gunjan Kumar and
+               Nikhil Kumar},
+  title     = {Parallel Machine Scheduling to Minimize Energy Consumption},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2758-2769},
+}
+
+@inproceedings{DBLP:conf/soda/KulkarniLTY20,
+  author    = {Janardhan Kulkarni and
+               Shi Li and
+               Jakub Tarnawski and
+               Minwei Ye},
+  title     = {{Hierarchy-Based} Algorithms for Minimizing Makespan under Precedence and Communication Constraints},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2770-2789},
+}
+
+@inproceedings{DBLP:conf/soda/ImS20,
+  author    = {Sungjin Im and
+               Maryam Shadloo},
+  title     = {Weighted Completion Time Minimization for Unrelated Machines via Iterative Fair Contention Resolution},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2790-2809},
+}
+
+@inproceedings{DBLP:conf/soda/MathieuM20,
+  author    = {Claire Mathieu and
+               Simon Mauras},
+  title     = {How to aggregate Top-lists: Approximation algorithms via scores and average ranks},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2810-2822},
+}
+
+@inproceedings{DBLP:conf/soda/WagnerW20,
+  author    = {Uli Wagner and
+               Emo Welzl},
+  title     = {Connectivity of Triangulation Flip Graphs in the Plane (Part I: Edge Flips)},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2823-2841},
+}
+
+@inproceedings{DBLP:conf/soda/Liu20,
+  author    = {Chih-Hung Liu},
+  title     = {Nearly Optimal Planar k Nearest Neighbors Queries under General Distance Functions},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2842-2859},
+}
+
+@inproceedings{DBLP:conf/soda/DongLQ20,
+  author    = {Sally Dong and
+               Yin Tat Lee and
+               Kent Quanrud},
+  title     = {Computing Circle Packing Representations of Planar Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2860-2875},
+}
+
+@inproceedings{DBLP:conf/soda/FulekT20,
+  author    = {Radoslav Fulek and
+               Csaba D. Tóth},
+  title     = {Atomic Embeddability, Clustered Planarity, and Thickenability},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2876-2895},
+}
+
+@inproceedings{DBLP:conf/soda/ConfortiFHJW20,
+  author    = {Michele Conforti and
+               Samuel Fiorini and
+               Tony Huynh and
+               Gwenaël Joret and
+               Stefan Weltge},
+  title     = {The stable set problem in graphs with bounded genus and bounded odd cycle packing number},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2896-2915},
+}
+
+@inproceedings{DBLP:conf/soda/0001LW20,
+  author    = {Xi Chen and
+               Amit Levi and
+               Erik Waingarten},
+  title     = {Nearly optimal edge estimation with independent set queries},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2916-2935},
+}
+
+@inproceedings{DBLP:conf/soda/ChenRSS20,
+  author    = {Xi Chen and
+               Tim Randolph and
+               Rocco A. Servedio and
+               Timothy Sun},
+  title     = {A Lower Bound on {Cycle-Finding} in Sparse Digraphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2936-2952},
+}
+
+@inproceedings{DBLP:conf/soda/Peng20,
+  author    = {Pan Peng},
+  title     = {Robust Clustering Oracle and Local Reconstructor of Cluster Structure of Graphs},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2953-2972},
+}
+
+@inproceedings{DBLP:conf/soda/CzumajS20,
+  author    = {Artur Czumaj and
+               Christian Sohler},
+  title     = {Sublinear time approximation of the cost of a metric k-nearest neighbor graph},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2973-2992},
+}
+
+@inproceedings{DBLP:conf/soda/GrunauMRV20,
+  author    = {Christoph Grunau and
+               Slobodan Mitrovic and
+               Ronitt Rubinfeld and
+               Ali Vakilian},
+  title     = {Improved Local Computation Algorithm for Set Cover via Sparsification},
+  booktitle = soda,
+  year      = 2020,
+  pages     = {2993-3011},
+}
+
+@inproceedings{DBLP:conf/soda/X19a,
+  author    = {},
+  title     = {Front Matter},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {i-ix},
+}
+
+@inproceedings{DBLP:conf/soda/X19,
+  author    = {},
+  title     = {Front Matter, Table of Contents, Preface, Conference Organization},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {0-0},
+}
+
+@inproceedings{DBLP:conf/soda/Rote19,
+  author    = {Günter Rote},
+  title     = {Isotonic Regression by Dynamic Programming},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/soda/ChenGLRR19,
+  author    = {Lijie Chen and
+               Shafi Goldwasser and
+               Kaifeng Lyu and
+               Guy N. Rothblum and
+               Aviad Rubinstein},
+  title     = {Fine-grained Complexity Meets {IP} = {PSPACE}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1-20},
+}
+
+@inproceedings{DBLP:conf/soda/Alman19,
+  author    = {Josh Alman},
+  title     = {An Illuminating Algorithm for the Light Bulb Problem},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/soda/LiuT19,
+  author    = {Sixue Liu and
+               Robert E. Tarjan},
+  title     = {Simple Concurrent Labeling Algorithms for Connected Components},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/soda/DereniowskiTUW19,
+  author    = {Dariusz Dereniowski and
+               Stefan Tiegel and
+               Przemyslaw Uznanski and
+               Daniel Wolleb-Graf},
+  title     = {A Framework for Searching in Graphs in the Presence of Errors},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/soda/Kaplan0ZZ19,
+  author    = {Haim Kaplan and
+               László Kozma and
+               Or Zamir and
+               Uri Zwick},
+  title     = {Selection from Heaps, {Row-Sorted} Matrices, and X+Y Using Soft Heaps},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/soda/Quanrud19,
+  author    = {Kent Quanrud},
+  title     = {Approximating Optimal Transport With Linear Programs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/soda/ChekuriQ019,
+  author    = {Chandra Chekuri and
+               Kent Quanrud and
+               Chao Xu},
+  title     = {{LP} Relaxation and Tree Packing for Minimum k-cuts},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/soda/FelsnerR19,
+  author    = {Stefan Felsner and
+               Günter Rote},
+  title     = {On {Primal-Dual} Circle Representations},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/soda/BarbaM19,
+  author    = {Luis Barba and
+               Wolfgang Mulzer},
+  title     = {Asymmetric Convex Intersection Testing},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/soda/FiltserKT19,
+  author    = {Arnold Filtser and
+               Robert Krauthgamer and
+               Ohad Trabelsi},
+  title     = {Relaxed Voronoi: A Simple Framework for {Terminal-Clustering} Problems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/soda/AssadiB19,
+  author    = {Sepehr Assadi and
+               Aaron Bernstein},
+  title     = {Towards a Unified Theory of Sparsification for Matching Problems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/soda/Ducoffe19,
+  author    = {Guillaume Ducoffe},
+  title     = {A New Application of Orthogonal Range Searching for Computing Giant Graph Diameters},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/soda/GhaffariW19,
+  author    = {Mohsen Ghaffari and
+               David Wajc},
+  title     = {Simplified and {Space-Optimal} {Semi-Streaming} (2+epsilon)-Approximate Matching},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/soda/KotrbcikS19,
+  author    = {Michal Kotrbcík and
+               Martin Skoviera},
+  title     = {Simple Greedy 2-Approximation Algorithm for the Maximum Genus of a Graph},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/soda/Manurangsi19,
+  author    = {Pasin Manurangsi},
+  title     = {A Note on Max {k-Vertex} Cover: Faster FPT-AS, Smaller Approximate Kernel and Improved Approximation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/soda/ChangJP19,
+  author    = {Yi-Jun Chang and
+               Wenyu Jin and
+               Seth Pettie},
+  title     = {Simple Contention Resolution via Multiplicative Weight Updates},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/soda/JinW19,
+  author    = {Ce Jin and
+               Hongxun Wu},
+  title     = {A Simple {Near-Linear} Pseudopolynomial Time Randomized Algorithm for Subset Sum},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/soda/LiuV19,
+  author    = {Paul Liu and
+               Jan Vondrák},
+  title     = {Submodular Optimization in the {MapReduce} Model},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/soda/KarmalkarP19,
+  author    = {Sushrut Karmalkar and
+               Eric Price},
+  title     = {Compressed Sensing with Adversarial Sparse Noise via L1 Regression},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/soda/GargMT19,
+  author    = {Jugal Garg and
+               Peter McGlaughlin and
+               Setareh Taki},
+  title     = {Approximating Maximin Share Allocations},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/soda/ChenW19,
+  author    = {Lijie Chen and
+               Ryan Williams},
+  title     = {An Equivalence Class for Orthogonal Vectors},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {21-40},
+}
+
+@inproceedings{DBLP:conf/soda/AbboudBHS19,
+  author    = {Amir Abboud and
+               Karl Bringmann and
+               Danny Hermelin and
+               Dvir Shabtay},
+  title     = {{SETH-Based} Lower Bounds for Subset Sum and Bicriteria Path},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {41-57},
+}
+
+@inproceedings{DBLP:conf/soda/AxiotisBJTW19,
+  author    = {Kyriakos Axiotis and
+               Arturs Backurs and
+               Ce Jin and
+               Christos Tzamos and
+               Hongxun Wu},
+  title     = {Fast Modular Subset Sum using Linear Sketching},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {58-69},
+}
+
+@inproceedings{DBLP:conf/soda/MuchaW019,
+  author    = {Marcin Mucha and
+               Karol Wegrzycki and
+               Michal Wlodarczyk},
+  title     = {A Subquadratic Approximation Scheme for Partition},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {70-88},
+}
+
+@inproceedings{DBLP:conf/soda/BubeckCLL19,
+  author    = {Sébastien Bubeck and
+               Michael B. Cohen and
+               James R. Lee and
+               Yin Tat Lee},
+  title     = {Metrical task systems on trees via mirror descent and unfair gluing},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {89-97},
+}
+
+@inproceedings{DBLP:conf/soda/BuchbinderGMN19,
+  author    = {Niv Buchbinder and
+               Anupam Gupta and
+               Marco Molinaro and
+               Joseph (Seffi) Naor},
+  title     = {{k-Servers} with a Smile: Online Algorithms via Projections},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {98-116},
+}
+
+@inproceedings{DBLP:conf/soda/ArgueBCGL19,
+  author    = {C. J. Argue and
+               Sébastien Bubeck and
+               Michael B. Cohen and
+               Anupam Gupta and
+               Yin Tat Lee},
+  title     = {A {Nearly-Linear} Bound for Chasing Nested Convex Bodies},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {117-122},
+}
+
+@inproceedings{DBLP:conf/soda/VeselyCJS19,
+  author    = {Pavel Veselý and
+               Marek Chrobak and
+               Lukasz Jez and
+               Jirí Sgall},
+  title     = {A ϕ-Competitive Algorithm for Scheduling Packets with Deadlines},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {123-142},
+}
+
+@inproceedings{DBLP:conf/soda/GuptaK0P19,
+  author    = {Anupam Gupta and
+               Ravishankar Krishnaswamy and
+               Amit Kumar and
+               Debmalya Panigrahi},
+  title     = {Elastic Caching},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {143-156},
+}
+
+@inproceedings{DBLP:conf/soda/BalseiroMLZ19,
+  author    = {Santiago R. Balseiro and
+               Vahab S. Mirrokni and
+               Renato Paes Leme and
+               Song Zuo},
+  title     = {Dynamic Double Auctions: Towards First Best},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {157-172},
+}
+
+@inproceedings{DBLP:conf/soda/DengP19,
+  author    = {Yuan Deng and
+               Debmalya Panigrahi},
+  title     = {Multi-unit Supply-monotone Auctions with Bayesian Valuations},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {173-192},
+}
+
+@inproceedings{DBLP:conf/soda/BeiGLT19,
+  author    = {Xiaohui Bei and
+               Nick Gravin and
+               Pinyan Lu and
+               Zhihao Gavin Tang},
+  title     = {{Correlation-Robust} Analysis of Single Item Auction},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {193-208},
+}
+
+@inproceedings{DBLP:conf/soda/JinLTX19,
+  author    = {Yaonan Jin and
+               Pinyan Lu and
+               Zhihao Gavin Tang and
+               Tao Xiao},
+  title     = {Tight Revenue Gaps among Simple Mechanisms},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {209-228},
+}
+
+@inproceedings{DBLP:conf/soda/AshlagiSS19,
+  author    = {Itai Ashlagi and
+               Amin Saberi and
+               Ali Shameli},
+  title     = {Assignment Mechanisms under Distributional Constraints},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {229-240},
+}
+
+@inproceedings{DBLP:conf/soda/BuchbinderF019,
+  author    = {Niv Buchbinder and
+               Moran Feldman and
+               Mohit Garg},
+  title     = {Deterministic (½ + ε)-Approximation for Submodular Maximization over a Matroid},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {241-254},
+}
+
+@inproceedings{DBLP:conf/soda/FahrbachMZ19,
+  author    = {Matthew Fahrbach and
+               Vahab S. Mirrokni and
+               Morteza Zadimoghaddam},
+  title     = {Submodular Maximization with Nearly Optimal Approximation, Adaptivity and Query Complexity},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {255-273},
+}
+
+@inproceedings{DBLP:conf/soda/EneN19,
+  author    = {Alina Ene and
+               Huy L. Nguyen},
+  title     = {Submodular Maximization with Nearly-optimal Approximation and Adaptivity in Nearly-linear Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {274-282},
+}
+
+@inproceedings{DBLP:conf/soda/BalkanskiRS19,
+  author    = {Eric Balkanski and
+               Aviad Rubinstein and
+               Yaron Singer},
+  title     = {An Exponential Speedup in Parallel Running Time for Submodular Maximization without Loss in Approximation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {283-302},
+}
+
+@inproceedings{DBLP:conf/soda/ChekuriQ19,
+  author    = {Chandra Chekuri and
+               Kent Quanrud},
+  title     = {Submodular Function Maximization in Parallel via the Multilinear Relaxation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {303-322},
+}
+
+@inproceedings{DBLP:conf/soda/AgarwalAK19,
+  author    = {Arpit Agarwal and
+               Sepehr Assadi and
+               Sanjeev Khanna},
+  title     = {Stochastic Submodular Cover with Limited Adaptivity},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {323-342},
+}
+
+@inproceedings{DBLP:conf/soda/Molinaro19,
+  author    = {Marco Molinaro},
+  title     = {Stochastic ℓp Load Balancing and Moment Problems via the {L-Function} Method},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {343-354},
+}
+
+@inproceedings{DBLP:conf/soda/AbdelkaderAFM19,
+  author    = {Ahmed Abdelkader and
+               Sunil Arya and
+               Guilherme Dias da Fonseca and
+               David M. Mount},
+  title     = {Approximate Nearest Neighbor Searching with {Non-Euclidean} and Weighted Distances},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {355-372},
+}
+
+@inproceedings{DBLP:conf/soda/Xue19,
+  author    = {Jie Xue},
+  title     = {Colored range closest-pair problem under general distance functions},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {373-390},
+}
+
+@inproceedings{DBLP:conf/soda/Oh19,
+  author    = {Eunjin Oh},
+  title     = {Optimal Algorithm for Geodesic Nearest-point Voronoi Diagrams in Simple Polygons},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {391-409},
+}
+
+@inproceedings{DBLP:conf/soda/DumitrescuM19,
+  author    = {Adrian Dumitrescu and
+               Ritankar Mandal},
+  title     = {New Lower Bounds for the Number of Pseudoline Arrangements},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {410-425},
+}
+
+@inproceedings{DBLP:conf/soda/0002KSS19,
+  author    = {Jie Han and
+               Yoshiharu Kohayakawa and
+               Marcelo Tadeu Sales and
+               Henrique Stagni},
+  title     = {Extremal and probabilistic results for order types},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {426-435},
+}
+
+@inproceedings{DBLP:conf/soda/BrakensiekG19,
+  author    = {Joshua Brakensiek and
+               Venkatesan Guruswami},
+  title     = {An Algorithmic Blend of {LPs} and Ring Equations for Promise {CSPs}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {436-455},
+}
+
+@inproceedings{DBLP:conf/soda/Mastrolilli19,
+  author    = {Monaldo Mastrolilli},
+  title     = {The Complexity of the Ideal Membership Problem for Constrained Problems Over the Boolean Domain},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {456-475},
+}
+
+@inproceedings{DBLP:conf/soda/CaiG19,
+  author    = {Jin-Yi Cai and
+               Artem Govorov},
+  title     = {Perfect Matchings, Rank of Connection Tensors and Graph Homomorphisms},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {476-495},
+}
+
+@inproceedings{DBLP:conf/soda/KarppaK19,
+  author    = {Matti Karppa and
+               Petteri Kaski},
+  title     = {Probabilistic Tensors and Opportunistic Boolean Matrix Multiplication},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {496-515},
+}
+
+@inproceedings{DBLP:conf/soda/Nguyen19,
+  author    = {Huy L. Nguyen},
+  title     = {Fast greedy for linear matroids},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {516-524},
+}
+
+@inproceedings{DBLP:conf/soda/KrauthgamerLR19,
+  author    = {Robert Krauthgamer and
+               James R. Lee and
+               Havana Rika},
+  title     = {{Flow-Cut} Gaps and Face Covers in Planar Graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {525-534},
+}
+
+@inproceedings{DBLP:conf/soda/SalmasiSS19,
+  author    = {Ario Salmasi and
+               Anastasios Sidiropoulos and
+               Vijay Sridhar},
+  title     = {On Constant {Multi-Commodity} {Flow-Cut} Gaps for Families of Directed {Minor-Free} Graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {535-553},
+}
+
+@inproceedings{DBLP:conf/soda/Wang19,
+  author    = {Yipu Wang},
+  title     = {Maximum Integer Flows in Directed Planar Graphs with Vertex Capacities and Multiple Sources and Sinks},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {554-568},
+}
+
+@inproceedings{DBLP:conf/soda/LahnR19,
+  author    = {Nathaniel Lahn and
+               Sharath Raghvendra},
+  title     = {A Faster Algorithm for {Minimum-Cost} Bipartite Matching in {Minor-Free} Graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {569-588},
+}
+
+@inproceedings{DBLP:conf/soda/EppsteinR19,
+  author    = {David Eppstein and
+               Bruce Reed},
+  title     = {Finding Maximal Sets of Laminar 3-Separators in Planar Graphs in Linear Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {589-605},
+}
+
+@inproceedings{DBLP:conf/soda/GrossmanL19,
+  author    = {Ofer Grossman and
+               Yang P. Liu},
+  title     = {Reproducibility and {Pseudo-Determinism} in {Log-Space}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {606-620},
+}
+
+@inproceedings{DBLP:conf/soda/ServedioT19,
+  author    = {Rocco A. Servedio and
+               Li-Yang Tan},
+  title     = {Pseudorandomness for read-k {DNF} formulas},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {621-638},
+}
+
+@inproceedings{DBLP:conf/soda/0001ST19,
+  author    = {Mrinal Kumar and
+               Ramprasad Saptharishi and
+               Anamay Tengse},
+  title     = {Near-optimal Bootstrapping of Hitting Sets for Algebraic Circuits},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {639-646},
+}
+
+@inproceedings{DBLP:conf/soda/BhargavaBJP19,
+  author    = {Vishwas Bhargava and
+               Markus Bläser and
+               Gorav Jindal and
+               Anurag Pandey},
+  title     = {A Deterministic {PTAS} for the Algebraic Rank of Bounded Degree Polynomials},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {647-661},
+}
+
+@inproceedings{DBLP:conf/soda/BunKT19,
+  author    = {Mark Bun and
+               Robin Kothari and
+               Justin Thaler},
+  title     = {Quantum algorithms and approximating polynomials for composed functions with shared inputs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {662-678},
+}
+
+@inproceedings{DBLP:conf/soda/KamathT19,
+  author    = {Gautam Kamath and
+               Christos Tzamos},
+  title     = {Anaconda: A {Non-Adaptive} Conditional Sampling Algorithm for Distribution Testing},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {679-693},
+}
+
+@inproceedings{DBLP:conf/soda/Harms19,
+  author    = {Nathaniel Harms},
+  title     = {Testing Halfspaces over {Rotation-Invariant} Distributions},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {694-713},
+}
+
+@inproceedings{DBLP:conf/soda/FichtenbergerPS19,
+  author    = {Hendrik Fichtenberger and
+               Pan Peng and
+               Christian Sohler},
+  title     = {Every Testable (Infinite) Property of {Bounded-Degree} Graphs Contains an Infinite Hyperfinite Subproperty},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {714-726},
+}
+
+@inproceedings{DBLP:conf/soda/BalcanLW019,
+  author    = {Maria-Florina Balcan and
+               Yi Li and
+               David P. Woodruff and
+               Hongyang Zhang},
+  title     = {Testing Matrix Rank, Optimally},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {727-746},
+}
+
+@inproceedings{DBLP:conf/soda/BanBBKLW19,
+  author    = {Frank Ban and
+               Vijay Bhattiprolu and
+               Karl Bringmann and
+               Pavel Kolev and
+               Euiwoong Lee and
+               David P. Woodruff},
+  title     = {A {PTAS} for ℓ{p-Low} Rank Approximation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {747-766},
+}
+
+@inproceedings{DBLP:conf/soda/AssadiCK19,
+  author    = {Sepehr Assadi and
+               Yu Chen and
+               Sanjeev Khanna},
+  title     = {Sublinear Algorithms for (Δ + 1) Vertex Coloring},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {767-786},
+}
+
+@inproceedings{DBLP:conf/soda/ChechikM19,
+  author    = {Shiri Chechik and
+               Doron Mukhtar},
+  title     = {Optimal Distributed Coloring Algorithms for Planar Graphs in the {LOCAL} model},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {787-804},
+}
+
+@inproceedings{DBLP:conf/soda/Ghaffari19,
+  author    = {Mohsen Ghaffari},
+  title     = {Distributed Maximal Independent Set using Small Messages},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {805-820},
+}
+
+@inproceedings{DBLP:conf/soda/ChangPZ19,
+  author    = {Yi-Jun Chang and
+               Seth Pettie and
+               Hengjie Zhang},
+  title     = {Distributed Triangle Detection via Expander Decomposition},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {821-840},
+}
+
+@inproceedings{DBLP:conf/soda/Harris19,
+  author    = {David G. Harris},
+  title     = {Oblivious resampling oracles and parallel algorithms for the Lopsided Lovász Local Lemma},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {841-860},
+}
+
+@inproceedings{DBLP:conf/soda/GurjarV19,
+  author    = {Rohit Gurjar and
+               Nisheeth K. Vishnoi},
+  title     = {On the Number of Circuits in Regular Matroids (with Connections to Lattices and Codes)},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {861-880},
+}
+
+@inproceedings{DBLP:conf/soda/FoxPZ19,
+  author    = {Kyle Fox and
+               Debmalya Panigrahi and
+               Fred Zhang},
+  title     = {Minimum Cut and Minimum {k-Cut} in Hypergraphs via Branching Contractions},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {881-896},
+}
+
+@inproceedings{DBLP:conf/soda/BibakCC19,
+  author    = {Ali Bibak and
+               Charles Carlson and
+               Karthekeyan Chandrasekaran},
+  title     = {Improving the smoothed complexity of {FLIP} for max cut problems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {897-916},
+}
+
+@inproceedings{DBLP:conf/soda/KlimmW19,
+  author    = {Max Klimm and
+               Philipp Warode},
+  title     = {Computing all Wardrop Equilibria parametrized by the Flow Demand},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {917-934},
+}
+
+@inproceedings{DBLP:conf/soda/SeringK19,
+  author    = {Leon Sering and
+               Laura Vargas Koch},
+  title     = {Nash Flows Over Time with Spillback},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {935-945},
+}
+
+@inproceedings{DBLP:conf/soda/CooperFP19,
+  author    = {Colin Cooper and
+               Alan M. Frieze and
+               Wesley Pegden},
+  title     = {On the rank of a random binary matrix},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {946-955},
+}
+
+@inproceedings{DBLP:conf/soda/KanadeMS19,
+  author    = {Varun Kanade and
+               Frederik Mallmann-Trenn and
+               Thomas Sauerwald},
+  title     = {On coalescence time in graphs: When is coalescing as fast as meeting?: Extended Abstract},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {956-965},
+}
+
+@inproceedings{DBLP:conf/soda/AmanatidisK19,
+  author    = {Georgios Amanatidis and
+               Pieter Kleer},
+  title     = {Rapid Mixing of the Switch Markov Chain for Strongly Stable Degree Sequences and 2-Class Joint Degree Matrices},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {966-985},
+}
+
+@inproceedings{DBLP:conf/soda/BogdanovSV19,
+  author    = {Andrej Bogdanov and
+               Manuel Sabin and
+               Prashant Nalini Vasudevan},
+  title     = {{XOR} Codes and Sparse Learning Parity with Noise},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {986-1004},
+}
+
+@inproceedings{DBLP:conf/soda/MosselX19,
+  author    = {Elchanan Mossel and
+               Jiaming Xu},
+  title     = {Seeded Graph Matching via Large Neighborhood Statistics},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1005-1014},
+}
+
+@inproceedings{DBLP:conf/soda/Kisfaludi-BakNL19,
+  author    = {Sándor Kisfaludi-Bak and
+               Jesper Nederlof and
+               Erik Jan van Leeuwen},
+  title     = {Nearly {ETH-tight} algorithms for Planar Steiner Tree with Terminals on Few Faces},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1015-1034},
+}
+
+@inproceedings{DBLP:conf/soda/Panolan0Z19,
+  author    = {Fahad Panolan and
+               Saket Saurabh and
+               Meirav Zehavi},
+  title     = {Contraction Decomposition in Unit Disk Graphs and Algorithmic Applications in Parameterized Complexity},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1035-1054},
+}
+
+@inproceedings{DBLP:conf/soda/BateniFH19,
+  author    = {MohammadHossein Bateni and
+               Alireza Farhadi and
+               MohammadTaghi Hajiaghayi},
+  title     = {Polynomial-time Approximation Scheme for Minimum k-cut in Planar and Minor-free Graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1055-1068},
+}
+
+@inproceedings{DBLP:conf/soda/Fox-EpsteinKS19,
+  author    = {Eli Fox-Epstein and
+               Philip N. Klein and
+               Aaron Schild},
+  title     = {Embedding Planar Graphs into {Low-Treewidth} Graphs with Applications to Efficient Approximation Schemes for Metric Problems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1069-1088},
+}
+
+@inproceedings{DBLP:conf/soda/Antoniadis0HS19,
+  author    = {Antonios Antoniadis and
+               Krzysztof Fleszar and
+               Ruben Hoeksma and
+               Kevin Schewior},
+  title     = {A {PTAS} for Euclidean {TSP} with Hyperplane Neighborhoods},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1089-1105},
+}
+
+@inproceedings{DBLP:conf/soda/CliffordKP19,
+  author    = {Raphaël Clifford and
+               Tomasz Kociumaka and
+               Ely Porat},
+  title     = {The streaming k-mismatch problem},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1106-1125},
+}
+
+@inproceedings{DBLP:conf/soda/BringmannWK19,
+  author    = {Karl Bringmann and
+               Philip Wellnitz and
+               Marvin Künnemann},
+  title     = {Few Matches or Almost Periodicity: Faster Pattern Matching with Mismatches in Compressed Texts},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1126-1145},
+}
+
+@inproceedings{DBLP:conf/soda/Cohen-AddadFS19,
+  author    = {Vincent Cohen-Addad and
+               Laurent Feuilloley and
+               Tatiana Starikovskaya},
+  title     = {Lower bounds for text indexing with mismatches and differences},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1146-1164},
+}
+
+@inproceedings{DBLP:conf/soda/Kuszmaul19,
+  author    = {William Kuszmaul},
+  title     = {Efficiently Approximating Edit Distance Between Pseudorandom Strings},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1165-1180},
+}
+
+@inproceedings{DBLP:conf/soda/HajiaghayiSSS19,
+  author    = {MohammadTaghi Hajiaghayi and
+               Masoud Seddighin and
+               Saeed Seddighin and
+               Xiaorui Sun},
+  title     = {Approximating {LCS} in Linear Time: Beating the √n Barrier},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1181-1200},
+}
+
+@inproceedings{DBLP:conf/soda/Rote19a,
+  author    = {Günter Rote},
+  title     = {The Maximum Number of Minimal Dominating Sets in a Tree},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1201-1214},
+}
+
+@inproceedings{DBLP:conf/soda/JiangP19,
+  author    = {Zilin Jiang and
+               Nikita Polyanskii},
+  title     = {How to guess an n-digit number},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1215-1220},
+}
+
+@inproceedings{DBLP:conf/soda/Yuster19,
+  author    = {Raphael Yuster},
+  title     = {Vector clique decompositions},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1221-1238},
+}
+
+@inproceedings{DBLP:conf/soda/SpirklCZ19,
+  author    = {Sophie Spirkl and
+               Maria Chudnovsky and
+               Mingxian Zhong},
+  title     = {Four-coloring P6-free graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1239-1256},
+}
+
+@inproceedings{DBLP:conf/soda/GrzesikKPP19,
+  author    = {Andrzej Grzesik and
+               Tereza Klimosova and
+               Marcin Pilipczuk and
+               Michal Pilipczuk},
+  title     = {Polynomial-time algorithm for Maximum Weight Independent Set on P6-free graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1257-1271},
+}
+
+@inproceedings{DBLP:conf/soda/BussK19,
+  author    = {Sam Buss and
+               Alexander Knop},
+  title     = {Strategies for Stable Merge Sorting},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1272-1290},
+}
+
+@inproceedings{DBLP:conf/soda/KaplanZZ19,
+  author    = {Haim Kaplan and
+               Or Zamir and
+               Uri Zwick},
+  title     = {A sort of an adversary},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1291-1310},
+}
+
+@inproceedings{DBLP:conf/soda/LevyT19,
+  author    = {Caleb C. Levy and
+               Robert E. Tarjan},
+  title     = {A New Path from Splay to Dynamic Optimality},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1311-1330},
+}
+
+@inproceedings{DBLP:conf/soda/JiangL19,
+  author    = {Shunhua Jiang and
+               Kasper Green Larsen},
+  title     = {A Faster External Memory Priority Queue with {DecreaseKeys}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1331-1343},
+}
+
+@inproceedings{DBLP:conf/soda/Kempa19,
+  author    = {Dominik Kempa},
+  title     = {Optimal Construction of Compressed Indexes for Highly Repetitive Texts},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1344-1357},
+}
+
+@inproceedings{DBLP:conf/soda/BhattiproluGGLT19,
+  author    = {Vijay Bhattiprolu and
+               Mrinalkanti Ghosh and
+               Venkatesan Guruswami and
+               Euiwoong Lee and
+               Madhur Tulsiani},
+  title     = {Approximability of p → q Matrix Norms: Generalized Krivine Rounding and Hypercontractive Hardness},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1358-1368},
+}
+
+@inproceedings{DBLP:conf/soda/NikolovST19,
+  author    = {Aleksandar Nikolov and
+               Mohit Singh and
+               Uthaipon Tao Tantipongpipat},
+  title     = {Proportional Volume Sampling and Approximation Algorithms for {A-Optimal} Design},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1369-1386},
+}
+
+@inproceedings{DBLP:conf/soda/AhmadinejadJSS19,
+  author    = {AmirMahdi Ahmadinejad and
+               Arun Jambulapati and
+               Amin Saberi and
+               Aaron Sidford},
+  title     = {{Perron-Frobenius} Theory in Nearly Linear Time: Positive Eigenvectors, M-matrices, Graph Kernels, and Other Applications},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1387-1404},
+}
+
+@inproceedings{DBLP:conf/soda/AdilKPS19,
+  author    = {Deeksha Adil and
+               Rasmus Kyng and
+               Richard Peng and
+               Sushant Sachdeva},
+  title     = {Iterative Refinement for ℓp-norm Regression},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1405-1424},
+}
+
+@inproceedings{DBLP:conf/soda/GilyenAW19,
+  author    = {András Gilyén and
+               Srinivasan Arunachalam and
+               Nathan Wiebe},
+  title     = {Optimizing quantum optimization algorithms via faster quantum gradient computation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1425-1444},
+}
+
+@inproceedings{DBLP:conf/soda/ChuzhoyT19,
+  author    = {Julia Chuzhoy and
+               Zihan Tan},
+  title     = {Towards Tight(er) Bounds for the Excluded Grid Theorem},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1445-1464},
+}
+
+@inproceedings{DBLP:conf/soda/HatzelKK19,
+  author    = {Meike Hatzel and
+               Ken-ichi Kawarabayashi and
+               Stephan Kreutzer},
+  title     = {Polynomial Planar Directed Grid Theorem},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1465-1484},
+}
+
+@inproceedings{DBLP:conf/soda/BatenburgHJR19,
+  author    = {Wouter Cames van Batenburg and
+               Tony Huynh and
+               Gwenaël Joret and
+               Jean-Florent Raymond},
+  title     = {A tight Erdős-Pósa function for planar minors},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1485-1500},
+}
+
+@inproceedings{DBLP:conf/soda/PilipczukS19,
+  author    = {Michal Pilipczuk and
+               Sebastian Siebertz},
+  title     = {Polynomial bounds for centered colorings on proper minor-closed graph classes},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1501-1520},
+}
+
+@inproceedings{DBLP:conf/soda/DujmovicFGMR19,
+  author    = {Vida Dujmovic and
+               Fabrizio Frati and
+               Daniel Gonçalves and
+               Pat Morin and
+               Günter Rote},
+  title     = {Every Collinear Set in a Planar Graph Is Free},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1521-1538},
+}
+
+@inproceedings{DBLP:conf/soda/Zenklusen19,
+  author    = {Rico Zenklusen},
+  title     = {A 1.5-Approximation for Path {TSP}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1539-1549},
+}
+
+@inproceedings{DBLP:conf/soda/NageleZ19,
+  author    = {Martin Nägele and
+               Rico Zenklusen},
+  title     = {A New Dynamic Programming Approach for Spanning Trees with Chain Constraints and Beyond},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1550-1569},
+}
+
+@inproceedings{DBLP:conf/soda/GargKL19,
+  author    = {Shashwat Garg and
+               Janardhan Kulkarni and
+               Shi Li},
+  title     = {Lift and Project Algorithms for Precedence Constrained Scheduling to Minimize Completion Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1570-1584},
+}
+
+@inproceedings{DBLP:conf/soda/FeigeKL19,
+  author    = {Uriel Feige and
+               Janardhan Kulkarni and
+               Shi Li},
+  title     = {A Polynomial Time Constant Approximation For Minimizing Total Weighted Flow-time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1585-1595},
+}
+
+@inproceedings{DBLP:conf/soda/ChekuriQ19a,
+  author    = {Chandra Chekuri and
+               Kent Quanrud},
+  title     = {On Approximating (Sparse) Covering Integer Programs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1596-1615},
+}
+
+@inproceedings{DBLP:conf/soda/AssadiBBMS19,
+  author    = {Sepehr Assadi and
+               MohammadHossein Bateni and
+               Aaron Bernstein and
+               Vahab S. Mirrokni and
+               Cliff Stein},
+  title     = {Coresets Meet EDCS: Algorithms for Matching and Vertex Cover on Massive Graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1616-1635},
+}
+
+@inproceedings{DBLP:conf/soda/GhaffariU19,
+  author    = {Mohsen Ghaffari and
+               Jara Uitto},
+  title     = {Sparsifying Distributed Algorithms with Ramifications in Massively Parallel Computation and Centralized Local Computation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1636-1653},
+}
+
+@inproceedings{DBLP:conf/soda/HajiaghayiSS19,
+  author    = {MohammadTaghi Hajiaghayi and
+               Saeed Seddighin and
+               Xiaorui Sun},
+  title     = {Massively Parallel Approximation Algorithms for Edit Distance and Longest Common Subsequence},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1654-1672},
+}
+
+@inproceedings{DBLP:conf/soda/ParterY19,
+  author    = {Merav Parter and
+               Eylon Yogev},
+  title     = {Low Congestion Cycle Covers and Their Applications},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1673-1692},
+}
+
+@inproceedings{DBLP:conf/soda/ParterY19a,
+  author    = {Merav Parter and
+               Eylon Yogev},
+  title     = {Distributed Algorithms Made Secure: A Graph Theoretic Approach},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1693-1710},
+}
+
+@inproceedings{DBLP:conf/soda/AgrawalM0Z19,
+  author    = {Akanksha Agrawal and
+               Pranabendu Misra and
+               Saket Saurabh and
+               Meirav Zehavi},
+  title     = {Interval Vertex Deletion Admits a Polynomial Kernel},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1711-1730},
+}
+
+@inproceedings{DBLP:conf/soda/GuptaLLM019,
+  author    = {Anupam Gupta and
+               Euiwoong Lee and
+               Jason Li and
+               Pasin Manurangsi and
+               Michal Wlodarczyk},
+  title     = {Losing Treewidth by Separating Subsets},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1731-1749},
+}
+
+@inproceedings{DBLP:conf/soda/GutinWZ19,
+  author    = {Gregory Z. Gutin and
+               Magnus Wahlström and
+               Meirav Zehavi},
+  title     = {On {r-Simple} {k-Path} and Related Problems Parameterized by k/r},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1750-1769},
+}
+
+@inproceedings{DBLP:conf/soda/Berger0MV19,
+  author    = {André Berger and
+               László Kozma and
+               Matthias Mnich and
+               Roland Vincze},
+  title     = {A time- and space-optimal algorithm for the many-visits {TSP}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1770-1782},
+}
+
+@inproceedings{DBLP:conf/soda/AmbainisBIKPV19,
+  author    = {Andris Ambainis and
+               Kaspars Balodis and
+               Janis Iraids and
+               Martins Kokainis and
+               Krisjanis Prusis and
+               Jevgenijs Vihrovs},
+  title     = {Quantum Speedups for {Exponential-Time} Dynamic Programming Algorithms},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1783-1793},
+}
+
+@inproceedings{DBLP:conf/soda/Wei19,
+  author    = {Alexander Wei},
+  title     = {Optimal Las Vegas Approximate Near Neighbors in ℓp},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1794-1813},
+}
+
+@inproceedings{DBLP:conf/soda/KhotN19,
+  author    = {Subhash Khot and
+               Assaf Naor},
+  title     = {The {Andoni-Krauthgamer-Razenshteyn} characterization of sketchable norms fails for sketchable metrics},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1814-1824},
+}
+
+@inproceedings{DBLP:conf/soda/WangW19,
+  author    = {Ruosong Wang and
+               David P. Woodruff},
+  title     = {Tight Bounds for ℓp Oblivious Subspace Embeddings},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1825-1843},
+}
+
+@inproceedings{DBLP:conf/soda/NelsonY19,
+  author    = {Jelani Nelson and
+               Huacheng Yu},
+  title     = {Optimal Lower Bounds for Distributed and Streaming Spanning Forest Computation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1844-1860},
+}
+
+@inproceedings{DBLP:conf/soda/SudanGGB19,
+  author    = {Madhu Sudan and
+               Badih Ghazi and
+               Noah Golowich and
+               Mitali Bafna},
+  title     = {{Communication-Rounds} Tradeoffs for Common Randomness and Secret Key Generation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1861-1871},
+}
+
+@inproceedings{DBLP:conf/soda/BhattacharyaK19,
+  author    = {Sayan Bhattacharya and
+               Janardhan Kulkarni},
+  title     = {Deterministically Maintaining a (2 + ∊)-Approximate Minimum Vertex Cover in O(1/∊2) Amortized Update Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1872-1885},
+}
+
+@inproceedings{DBLP:conf/soda/0001LSSS19,
+  author    = {Fabrizio Grandoni and
+               Stefano Leonardi and
+               Piotr Sankowski and
+               Chris Schwiegelshohn and
+               Shay Solomon},
+  title     = {(1 + ε)-Approximate Incremental Matching in Constant Deterministic Amortized Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1886-1898},
+}
+
+@inproceedings{DBLP:conf/soda/BernsteinFH19,
+  author    = {Aaron Bernstein and
+               Sebastian Forster and
+               Monika Henzinger},
+  title     = {A Deamortization Approach for Dynamic Spanner and Dynamic Maximal Matching},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1899-1918},
+}
+
+@inproceedings{DBLP:conf/soda/AssadiOSS19,
+  author    = {Sepehr Assadi and
+               Krzysztof Onak and
+               Baruch Schieber and
+               Shay Solomon},
+  title     = {Fully Dynamic Maximal Independent Set with Sublinear in n Update Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1919-1936},
+}
+
+@inproceedings{DBLP:conf/soda/DuanHZ19,
+  author    = {Ran Duan and
+               Haoqing He and
+               Tianyi Zhang},
+  title     = {Dynamic Edge Coloring with Improved Approximation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1937-1945},
+}
+
+@inproceedings{DBLP:conf/soda/CorreaSZ19,
+  author    = {José R. Correa and
+               Raimundo Saona and
+               Bruno Ziliotto},
+  title     = {Prophet Secretary Through Blind Strategies},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1946-1961},
+}
+
+@inproceedings{DBLP:conf/soda/0001MT19,
+  author    = {Shuchi Chawla and
+               J. Benjamin Miller and
+               Yifeng Teng},
+  title     = {Pricing for Online Resource Allocation: Intervals and Paths},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1962-1981},
+}
+
+@inproceedings{DBLP:conf/soda/Reiffenhauser19,
+  author    = {Rebecca Reiffenhäuser},
+  title     = {An Optimal Truthful Mechanism for the Online Weighted Bipartite Matching Problem},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1982-1993},
+}
+
+@inproceedings{DBLP:conf/soda/Arunachaleswaran19,
+  author    = {Eshwar Ram Arunachaleswaran and
+               Siddharth Barman and
+               Nidhi Rathi},
+  title     = {Fully {Polynomial-Time} Approximation Schemes for Fair Rent Division},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {1994-2013},
+}
+
+@inproceedings{DBLP:conf/soda/PlautR19,
+  author    = {Benjamin Plaut and
+               Tim Roughgarden},
+  title     = {Communication Complexity of Discrete Fair Division},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2014-2033},
+}
+
+@inproceedings{DBLP:conf/soda/BilardiS19,
+  author    = {Gianfranco Bilardi and
+               Lorenzo De Stefani},
+  title     = {The I/O complexity of {Toom-Cook} integer multiplication},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2034-2052},
+}
+
+@inproceedings{DBLP:conf/soda/CaoFRY19,
+  author    = {Nairen Cao and
+               Jeremy T. Fineman and
+               Katina Russell and
+               Eugene Yang},
+  title     = {I/{O-Efficient} Algorithms for Topological Sort and Related Problems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2053-2070},
+}
+
+@inproceedings{DBLP:conf/soda/Bodwin19,
+  author    = {Greg Bodwin},
+  title     = {On the Structure of Unique Shortest Paths in Graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2071-2089},
+}
+
+@inproceedings{DBLP:conf/soda/ChechikC19,
+  author    = {Shiri Chechik and
+               Sarel Cohen},
+  title     = {Near Optimal Algorithms For The Single Source Replacement Paths Problem},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2090-2109},
+}
+
+@inproceedings{DBLP:conf/soda/Charalampopoulos19,
+  author    = {Panagiotis Charalampopoulos and
+               Shay Mozes and
+               Benjamin Tebeka},
+  title     = {Exact Distance Oracles for Planar Graphs with Failing Vertices},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2110-2123},
+}
+
+@inproceedings{DBLP:conf/soda/DinurFH19,
+  author    = {Irit Dinur and
+               Yuval Filmus and
+               Prahladh Harsha},
+  title     = {Analyzing Boolean functions on the biased hypercube via higher-dimensional agreement tests: [Extended abstract]},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2124-2133},
+}
+
+@inproceedings{DBLP:conf/soda/DinurHKNT19,
+  author    = {Irit Dinur and
+               Prahladh Harsha and
+               Tali Kaufman and
+               Inbal Livni Navon and
+               Amnon Ta-Shma},
+  title     = {List Decoding with Double Samplers},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2134-2153},
+}
+
+@inproceedings{DBLP:conf/soda/GopiGY19,
+  author    = {Sivakanth Gopi and
+               Venkatesan Guruswami and
+               Sergey Yekhanin},
+  title     = {Maximally Recoverable LRCs: A field size lower bound and constructions for few heavy parities},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2154-2170},
+}
+
+@inproceedings{DBLP:conf/soda/CheeDKLW19,
+  author    = {Yeow Meng Chee and
+               Duc Tu Dao and
+               Han Mao Kiah and
+               San Ling and
+               Hengjia Wei},
+  title     = {Binary Robust Positioning Patterns with Low Redundancy and Efficient Locating Algorithms},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2171-2184},
+}
+
+@inproceedings{DBLP:conf/soda/ChengHLSW19,
+  author    = {Kuan Cheng and
+               Bernhard Haeupler and
+               Xin Li and
+               Amirbehshad Shahrasbi and
+               Ke Wu},
+  title     = {Synchronization Strings: Highly Efficient Deterministic Constructions over Small Alphabets},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2185-2204},
+}
+
+@inproceedings{DBLP:conf/soda/FockeGZ19,
+  author    = {Jacob Focke and
+               Leslie Ann Goldberg and
+               Stanislav Zivny},
+  title     = {The Complexity of Approximately Counting Retractions},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2205-2215},
+}
+
+@inproceedings{DBLP:conf/soda/ChenDMPP19,
+  author    = {Sitan Chen and
+               Michelle Delcourt and
+               Ankur Moitra and
+               Guillem Perarnau and
+               Luke Postle},
+  title     = {Improved Bounds for Randomly Sampling Colorings via Linear Programming},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2216-2234},
+}
+
+@inproceedings{DBLP:conf/soda/JenssenKP19,
+  author    = {Matthew Jenssen and
+               Peter Keevash and
+               Will Perkins},
+  title     = {Algorithms for #{BIS-hard} problems on expander graphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2235-2247},
+}
+
+@inproceedings{DBLP:conf/soda/CaiLL19,
+  author    = {Jin-Yi Cai and
+               Tianyu Liu and
+               Pinyan Lu},
+  title     = {Approximability of the Six-vertex Model},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2248-2261},
+}
+
+@inproceedings{DBLP:conf/soda/0001LLZ19,
+  author    = {Heng Guo and
+               Chao Liao and
+               Pinyan Lu and
+               Chihao Zhang},
+  title     = {Zeros of Holant problems: locations and algorithms},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2262-2278},
+}
+
+@inproceedings{DBLP:conf/soda/Li19,
+  author    = {Shi Li},
+  title     = {On Facility Location with General Lower Bounds},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2279-2290},
+}
+
+@inproceedings{DBLP:conf/soda/CharikarCN19,
+  author    = {Moses Charikar and
+               Vaggos Chatziafratis and
+               Rad Niazadeh},
+  title     = {Hierarchical Clustering better than {Average-Linkage}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2291-2304},
+}
+
+@inproceedings{DBLP:conf/soda/DeshpandeMOSS19,
+  author    = {Yash Deshpande and
+               Andrea Montanari and
+               Ryan O'Donnell and
+               Tselil Schramm and
+               Subhabrata Sen},
+  title     = {The threshold for {SDP-refutation} of random regular NAE-3{SAT}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2305-2321},
+}
+
+@inproceedings{DBLP:conf/soda/RaghavendraRSW19,
+  author    = {Prasad Raghavendra and
+               Nick Ryder and
+               Nikhil Srivastava and
+               Benjamin Weitz},
+  title     = {Exponential Lower Bounds on Spectrahedral Representations of Hyperbolicity Cones},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2322-2332},
+}
+
+@inproceedings{DBLP:conf/soda/CzerwinskiDFJLP19,
+  author    = {Wojciech Czerwinski and
+               Laure Daviaud and
+               Nathanaël Fijalkow and
+               Marcin Jurdzinski and
+               Ranko Lazic and
+               Pawel Parys},
+  title     = {Universal trees grow inside separating automata: Quasi-polynomial lower bounds for parity games},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2333-2349},
+}
+
+@inproceedings{DBLP:conf/soda/AdiprasitoBM19,
+  author    = {Karim A. Adiprasito and
+               Imre Bárány and
+               Nabil H. Mustafa},
+  title     = {Theorems of Carathéodory, Helly, and Tverberg without dimension},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2350-2360},
+}
+
+@inproceedings{DBLP:conf/soda/BoseCHS19,
+  author    = {Prosenjit Bose and
+               Jean-Lou De Carufel and
+               Darryl Hill and
+               Michiel H. M. Smid},
+  title     = {On the Spanning and Routing Ratio of {Theta-Four}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2361-2370},
+}
+
+@inproceedings{DBLP:conf/soda/BorradaileLW19,
+  author    = {Glencora Borradaile and
+               Hung Le and
+               Christian Wulff-Nilsen},
+  title     = {Greedy spanners are optimal in doubling metrics},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2371-2379},
+}
+
+@inproceedings{DBLP:conf/soda/NayyeriR19,
+  author    = {Amir Nayyeri and
+               Benjamin Raichel},
+  title     = {Viewing the Rings of a Tree: Minimum Distortion Embeddings into Trees},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2380-2399},
+}
+
+@inproceedings{DBLP:conf/soda/BustoEK19,
+  author    = {Daniel Busto and
+               William S. Evans and
+               David G. Kirkpatrick},
+  title     = {Minimizing Interference Potential Among Moving Entities},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2400-2418},
+}
+
+@inproceedings{DBLP:conf/soda/LinSX19,
+  author    = {Wei-Kai Lin and
+               Elaine Shi and
+               Tiancheng Xie},
+  title     = {Can We Overcome the n log n Barrier for Oblivious Sorting?},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2419-2438},
+}
+
+@inproceedings{DBLP:conf/soda/JacobLN19,
+  author    = {Riko Jacob and
+               Kasper Green Larsen and
+               Jesper Buus Nielsen},
+  title     = {Lower Bounds for Oblivious Data Structures},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2439-2447},
+}
+
+@inproceedings{DBLP:conf/soda/ChanCMS19,
+  author    = {T.-H. Hubert Chan and
+               Kai-Min Chung and
+               Bruce M. Maggs and
+               Elaine Shi},
+  title     = {Foundations of Differentially Oblivious Algorithms},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2448-2467},
+}
+
+@inproceedings{DBLP:conf/soda/ErlingssonFMRTT19,
+  author    = {Úlfar Erlingsson and
+               Vitaly Feldman and
+               Ilya Mironov and
+               Ananth Raghunathan and
+               Kunal Talwar and
+               Abhradeep Thakurta},
+  title     = {Amplification by Shuffling: From Local to Central Differential Privacy via Anonymity},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2468-2479},
+}
+
+@inproceedings{DBLP:conf/soda/BlasiokBNS19,
+  author    = {Jaroslaw Blasiok and
+               Mark Bun and
+               Aleksandar Nikolov and
+               Thomas Steinke},
+  title     = {Towards {Instance-Optimal} Private Query Release},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2480-2497},
+}
+
+@inproceedings{DBLP:conf/soda/AamandT19,
+  author    = {Anders Aamand and
+               Mikkel Thorup},
+  title     = {Non-empty Bins with Simple Tabulation Hashing},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2498-2512},
+}
+
+@inproceedings{DBLP:conf/soda/Chen19,
+  author    = {Xue Chen},
+  title     = {Derandomized Balanced Allocation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2513-2526},
+}
+
+@inproceedings{DBLP:conf/soda/BenderCCFJT19,
+  author    = {Michael A. Bender and
+               Jake Christensen and
+               Alex Conway and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Meng-Tsung Tsai},
+  title     = {Optimal Ball Recycling},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2527-2546},
+}
+
+@inproceedings{DBLP:conf/soda/HobergR19,
+  author    = {Rebecca Hoberg and
+               Thomas Rothvoss},
+  title     = {A {Fourier-Analytic} Approach for the Discrepancy of Random Set Systems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2547-2556},
+}
+
+@inproceedings{DBLP:conf/soda/BansalM19,
+  author    = {Nikhil Bansal and
+               Raghu Meka},
+  title     = {On the discrepancy of random low degree set systems},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2557-2564},
+}
+
+@inproceedings{DBLP:conf/soda/CarlsonKST19,
+  author    = {Charles Carlson and
+               Alexandra Kolla and
+               Nikhil Srivastava and
+               Luca Trevisan},
+  title     = {Optimal Lower Bounds for Sketching Graph Cuts},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2565-2569},
+}
+
+@inproceedings{DBLP:conf/soda/SomaY19,
+  author    = {Tasuku Soma and
+               Yuichi Yoshida},
+  title     = {Spectral Sparsification of Hypergraphs},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2570-2581},
+}
+
+@inproceedings{DBLP:conf/soda/Yoshida19,
+  author    = {Yuichi Yoshida},
+  title     = {Cheeger Inequalities for Submodular Transformations},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2582-2601},
+}
+
+@inproceedings{DBLP:conf/soda/LiuSY19,
+  author    = {Yang P. Liu and
+               Sushant Sachdeva and
+               Zejun Yu},
+  title     = {Short Cycles via {Low-Diameter} Decompositions},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2602-2615},
+}
+
+@inproceedings{DBLP:conf/soda/SaranurakW19,
+  author    = {Thatchaphol Saranurak and
+               Di Wang},
+  title     = {Expander Decomposition and Pruning: Faster, Stronger, and Simpler},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2616-2635},
+}
+
+@inproceedings{DBLP:conf/soda/AronovEZ19,
+  author    = {Boris Aronov and
+               Esther Ezra and
+               Joshua Zahl},
+  title     = {Constructive Polynomial Partitioning for Algebraic Curves in R3 with Applications},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2636-2648},
+}
+
+@inproceedings{DBLP:conf/soda/Dey19,
+  author    = {Tamal K. Dey},
+  title     = {Computing Height Persistence and Homology Generators in R3 Efficiently},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2649-2662},
+}
+
+@inproceedings{DBLP:conf/soda/BauerR19,
+  author    = {Ulrich Bauer and
+               Abhishek Rathod},
+  title     = {Hardness of Approximation for Morse Matching},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2663-2674},
+}
+
+@inproceedings{DBLP:conf/soda/ChoudharyKR19,
+  author    = {Aruni Choudhary and
+               Michael Kerber and
+               Sharath Raghvendra},
+  title     = {Improved Topological Approximations by Digitization},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2675-2688},
+}
+
+@inproceedings{DBLP:conf/soda/Balanza-Martinez19,
+  author    = {Jose Balanza-Martinez and
+               Austin Luchsinger and
+               David Caballero and
+               Rene Reyes and
+               Angel A. Cantu and
+               Robert T. Schweller and
+               Luis Angel Garcia and
+               Tim Wylie},
+  title     = {Full Tilt: Universal Constructors for General Shapes with Uniform External Forces},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2689-2708},
+}
+
+@inproceedings{DBLP:conf/soda/KapralovVZ19,
+  author    = {Michael Kapralov and
+               Ameya Velingker and
+               Amir Zandieh},
+  title     = {Dimension-independent Sparse Fourier Transform},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2709-2728},
+}
+
+@inproceedings{DBLP:conf/soda/KamathP19,
+  author    = {Akshay Kamath and
+               Eric Price},
+  title     = {Adaptive Sparse Recovery with Limited Adaptivity},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2729-2744},
+}
+
+@inproceedings{DBLP:conf/soda/DiakonikolasKS19,
+  author    = {Ilias Diakonikolas and
+               Weihao Kong and
+               Alistair Stewart},
+  title     = {Efficient Algorithms and Lower Bounds for Robust Linear Regression},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2745-2754},
+}
+
+@inproceedings{DBLP:conf/soda/0002D019,
+  author    = {Yu Cheng and
+               Ilias Diakonikolas and
+               Rong Ge},
+  title     = {{High-Dimensional} Robust Mean Estimation in {Nearly-Linear} Time},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2755-2771},
+}
+
+@inproceedings{DBLP:conf/soda/SongWZ19,
+  author    = {Zhao Song and
+               David P. Woodruff and
+               Peilin Zhong},
+  title     = {Relative Error Tensor Low Rank Approximation},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2772-2789},
+}
+
+@inproceedings{DBLP:conf/soda/FaenzaKPZ19,
+  author    = {Yuri Faenza and
+               Telikepalli Kavitha and
+               Vladlena Powers and
+               Xingyu Zhang},
+  title     = {Popular Matchings and Limits to Tractability},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2790-2809},
+}
+
+@inproceedings{DBLP:conf/soda/GuptaM0Z19,
+  author    = {Sushmita Gupta and
+               Pranabendu Misra and
+               Saket Saurabh and
+               Meirav Zehavi},
+  title     = {Popular Matching in Roommates Setting is {NP-hard}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2810-2822},
+}
+
+@inproceedings{DBLP:conf/soda/LamP19,
+  author    = {Chi-Kit Lam and
+               C. Gregory Plaxton},
+  title     = {A (1 + 1/e)-Approximation Algorithm for Maximum Stable Matching with {One-Sided} Ties and Incomplete Lists},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2823-2840},
+}
+
+@inproceedings{DBLP:conf/soda/GamlathKS19,
+  author    = {Buddhima Gamlath and
+               Sagar Kale and
+               Ola Svensson},
+  title     = {Beating Greedy for Stochastic Bipartite Matching},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2841-2854},
+}
+
+@inproceedings{DBLP:conf/soda/BehnezhadFHR19,
+  author    = {Soheil Behnezhad and
+               Alireza Farhadi and
+               MohammadTaghi Hajiaghayi and
+               Nima Reyhani},
+  title     = {Stochastic Matching with Few Queries: New Algorithms and Tools},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2855-2874},
+}
+
+@inproceedings{DBLP:conf/soda/0002PTTWZ19,
+  author    = {Zhiyi Huang and
+               Binghui Peng and
+               Zhihao Gavin Tang and
+               Runzhou Tao and
+               Xiaowei Wu and
+               Yuhao Zhang},
+  title     = {Tight Competitive Ratios of Classic Matching Algorithms in the Fully Online Model},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2875-2886},
+}
+
+@inproceedings{DBLP:conf/soda/BuchinOS19,
+  author    = {Kevin Buchin and
+               Tim Ophelders and
+               Bettina Speckmann},
+  title     = {{SETH} Says: Weak Fréchet Distance is Faster, but only if it is Continuous and in One Dimension},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2887-2901},
+}
+
+@inproceedings{DBLP:conf/soda/BringmannKN19,
+  author    = {Karl Bringmann and
+               Marvin Künnemann and
+               André Nusser},
+  title     = {Fréchet Distance Under Translation: Conditional Hardness and an Algorithm via Offline Dynamic Grid Reachability},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2902-2921},
+}
+
+@inproceedings{DBLP:conf/soda/BuchinDGHKLS19,
+  author    = {Kevin Buchin and
+               Anne Driemel and
+               Joachim Gudmundsson and
+               Michael Horton and
+               Irina Kostitsyna and
+               Maarten Löffler and
+               Martijn Struijs},
+  title     = {Approximating (k, ℓ)-center clustering for curves},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2922-2938},
+}
+
+@inproceedings{DBLP:conf/soda/GrosswendtRS19,
+  author    = {Anna Großwendt and
+               Heiko Röglin and
+               Melanie Schmidt},
+  title     = {Analysis of Ward's Method},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2939-2957},
+}
+
+@inproceedings{DBLP:conf/soda/FriggstadKS19,
+  author    = {Zachary Friggstad and
+               Kamyar Khodamoradi and
+               Mohammad R. Salavatipour},
+  title     = {Exact Algorithms and Lower Bounds for Stable Instances of Euclidean {k-MEANS}},
+  booktitle = soda,
+  year      = 2019,
+  pages     = {2958-2972},
+}
+
 @inproceedings{DBLP:conf/soda/X18,
   author    = {},
   title     = {Front Matter},
@@ -876,7 +4856,7 @@
 @inproceedings{DBLP:conf/soda/FilakovskyFWZ18,
   author    = {Marek Filakovský and
                Peter Franek and
-               Uli Wanger and
+               Uli Wagner and
                Stephan Zhechev},
   title     = {Computing Simplicial Representatives of Homotopy Group Elements},
   booktitle = soda,
@@ -1136,7 +5116,7 @@
 @inproceedings{DBLP:conf/soda/FischerMS18,
   author    = {Eldar Fischer and
                Frédéric Magniez and
-               Tatiana A. Starikovskaya},
+               Tatiana Starikovskaya},
   title     = {Improved bounds for testing Dyck languages},
   booktitle = soda,
   year      = 2018,
@@ -2747,7 +6727,7 @@
 @inproceedings{DBLP:conf/soda/FeldmanGV17,
   author    = {Vitaly Feldman and
                Cristobal Guzman and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Statistical Query Algorithms for Mean Vector Estimation and Stochastic Convex Optimization},
   booktitle = soda,
   year      = 2017,
@@ -3262,7 +7242,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/VempalaW17,
-  author    = {Santosh Srinivas Vempala and
+  author    = {Santosh S. Vempala and
                David P. Woodruff},
   title     = {Adaptive Matrix Vector Product},
   booktitle = soda,
@@ -5155,7 +9135,7 @@
                Allyx Fontaine and
                Ely Porat and
                Benjamin Sach and
-               Tatiana A. Starikovskaya},
+               Tatiana Starikovskaya},
   title     = {The k-mismatch problem revisited},
   booktitle = soda,
   year      = 2016,
@@ -5589,7 +9569,7 @@
   author    = {Maxim A. Babenko and
                Pawel Gawrychowski and
                Tomasz Kociumaka and
-               Tatiana A. Starikovskaya},
+               Tatiana Starikovskaya},
   title     = {Wavelet Trees Meet Suffix Trees},
   booktitle = soda,
   year      = 2015,
@@ -5691,7 +9671,7 @@
 
 @inproceedings{DBLP:conf/soda/ByrkaPRST15,
   author    = {Jaroslaw Byrka and
-               Thomas Pensyl and
+               Thomas W. Pensyl and
                Bartosz Rybicki and
                Aravind Srinivasan and
                Khoa Trinh},
@@ -6800,7 +10780,7 @@
 @inproceedings{DBLP:conf/soda/EgriHLR14,
   author    = {László Egri and
                Pavol Hell and
-               Benoit Larose and
+               Benoît Larose and
                Arash Rafiey},
   title     = {Space complexity of list H-colouring: a dichotomy},
   booktitle = soda,
@@ -7438,7 +11418,7 @@
 
 @inproceedings{DBLP:conf/soda/CousinsV14,
   author    = {Ben Cousins and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {A Cubic Algorithm for Computing Gaussian Volume},
   booktitle = soda,
   year      = 2014,
@@ -8577,7 +12557,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/DvorakK13,
-  author    = {Zdenek Dvorak and
+  author    = {Zdenek Dvorák and
                Ken-ichi Kawarabayashi},
   title     = {List-coloring embedded graphs},
   booktitle = soda,
@@ -10302,7 +14282,7 @@
 
 @inproceedings{DBLP:conf/soda/DadushV12,
   author    = {Daniel Dadush and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Deterministic construction of an approximate M-ellipsoid and its applications to derandomizing lattice algorithms},
   booktitle = soda,
   year      = 2012,
@@ -11015,7 +14995,7 @@
   author    = {Karthekeyan Chandrasekaran and
                Richard M. Karp and
                Erick Moreno-Centeno and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Algorithms for Implicit Hitting Set Problems},
   booktitle = soda,
   year      = 2011,
@@ -13130,7 +17110,7 @@
 @inproceedings{DBLP:conf/soda/ChandrasekaranDV10,
   author    = {Karthekeyan Chandrasekaran and
                Daniel Dadush and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Thin Partitions: Isoperimetric Inequalities and a Sampling Algorithm for Star Shaped Bodies},
   booktitle = soda,
   year      = 2010,
@@ -13280,7 +17260,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/DvorakKT09,
-  author    = {Zdenek Dvorak and
+  author    = {Zdenek Dvorák and
                Daniel Král and
                Robin Thomas},
   title     = {Coloring triangle-free graphs on surfaces},
@@ -13761,7 +17741,7 @@
 @inproceedings{DBLP:conf/soda/GoyalRV09,
   author    = {Navin Goyal and
                Luis Rademacher and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Expanders via random spanning trees},
   booktitle = soda,
   year      = 2009,
@@ -14368,7 +18348,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/DvorakKT09a,
-  author    = {Zdenek Dvorak and
+  author    = {Zdenek Dvorák and
                Ken-ichi Kawarabayashi and
                Robin Thomas},
   title     = {Three-coloring triangle-free planar graphs in linear time},
@@ -16200,7 +20180,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/GalvinR07,
-  author    = {David Galvin and
+  author    = {David J. Galvin and
                Dana Randall},
   title     = {Torpid mixing of local Markov chains on 3-colorings of the discrete torus},
   booktitle = soda,
@@ -16922,7 +20902,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/ApplegateCJKLW07,
-  author    = {David Applegate and
+  author    = {David L. Applegate and
                Gruia Calinescu and
                David S. Johnson and
                Howard J. Karloff and
@@ -17226,7 +21206,7 @@
                Ilan Newman and
                Yuval Rabani and
                Yuri Rabinovich and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Local versus global properties of metric spaces},
   booktitle = soda,
   year      = 2006,
@@ -18365,7 +22345,7 @@
 @inproceedings{DBLP:conf/soda/DeshpandeRVW06,
   author    = {Amit Deshpande and
                Luis Rademacher and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Grant Wang},
   title     = {Matrix approximation and projective clustering via volume sampling},
   booktitle = soda,
@@ -20278,7 +24258,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/GalvinT04,
-  author    = {David Galvin and
+  author    = {David J. Galvin and
                Prasad Tetali},
   title     = {Slow mixing of Glauber dynamics for the hard-core model on the hypercube},
   booktitle = soda,
@@ -20316,7 +24296,7 @@
 @inproceedings{DBLP:conf/soda/CzumajGSZ04,
   author    = {Artur Czumaj and
                Michelangelo Grigni and
-               Papa Sissokho and
+               Papa A. Sissokho and
                Hairong Zhao},
   title     = {Approximation schemes for minimum 2-edge-connected and biconnected subgraphs in planar graphs},
   booktitle = soda,
@@ -21273,7 +25253,7 @@
 
 @inproceedings{DBLP:conf/soda/FriezeP03,
   author    = {Alan M. Frieze and
-               Boris Pittel},
+               Boris G. Pittel},
   title     = {Perfect matchings in random graphs with prescribed minimal degree},
   booktitle = soda,
   year      = 2003,
@@ -23220,7 +27200,7 @@
 
 @inproceedings{DBLP:conf/soda/GrigniS02,
   author    = {Michelangelo Grigni and
-               Papa Sissokho},
+               Papa A. Sissokho},
   title     = {Light spanners and approximate {TSP} in weighted graphs with forbidden minors},
   booktitle = soda,
   year      = 2002,
@@ -24777,7 +28757,7 @@
 
 @inproceedings{DBLP:conf/soda/CarrVM00,
   author    = {Robert D. Carr and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Jacques Mandler},
   title     = {Towards a 4/3 approximation for the asymmetric traveling salesman problem},
   booktitle = soda,
@@ -25159,7 +29139,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/ApplegateBCC00,
-  author    = {David Applegate and
+  author    = {David L. Applegate and
                Robert E. Bixby and
                Vasek Chvátal and
                William J. Cook},
@@ -25345,7 +29325,7 @@
   author    = {Todd Gormley and
                Nick Reingold and
                Eric Torng and
-               Jeffery Westbrook},
+               Jeffery R. Westbrook},
   title     = {Generating adversaries for request-answer games},
   booktitle = soda,
   year      = 2000,
@@ -25354,7 +29334,7 @@
 
 @inproceedings{DBLP:conf/soda/BuchsbaumW00,
   author    = {Adam L. Buchsbaum and
-               Jeffery Westbrook},
+               Jeffery R. Westbrook},
   title     = {Maintaining hierarchical graph views},
   booktitle = soda,
   year      = 2000,
@@ -25695,7 +29675,7 @@
   author    = {Adam L. Buchsbaum and
                Michael H. Goldwasser and
                Suresh Venkatasubramanian and
-               Jeffery Westbrook},
+               Jeffery R. Westbrook},
   title     = {On external memory graph traversal},
   booktitle = soda,
   year      = 2000,
@@ -26136,7 +30116,7 @@
   author    = {Petros Drineas and
                Alan M. Frieze and
                Ravi Kannan and
-               Santosh Vempala and
+               Santosh S. Vempala and
                V. Vinay},
   title     = {Clustering in Large Graphs and Matrices},
   booktitle = soda,
@@ -26629,7 +30609,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/ShallitS99,
-  author    = {Jeffrey Shallit and
+  author    = {Jeffrey O. Shallit and
                David Swart},
   title     = {An Efficient Algorithm for Computing the ith letter of 4na},
   booktitle = soda,
@@ -27331,7 +31311,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/VempalaY99,
-  author    = {Santosh Vempala and
+  author    = {Santosh S. Vempala and
                Mihalis Yannakakis},
   title     = {A Convex Relaxation for the Asymmetric {TSP}},
   booktitle = soda,
@@ -28336,7 +32316,7 @@
 @inproceedings{DBLP:conf/soda/KannanTV97,
   author    = {Ravi Kannan and
                Prasad Tetali and
-               Santosh Vempala},
+               Santosh S. Vempala},
   title     = {Simple {Markov-Chain} Algorithms for Generating Bipartite Graphs and Tournaments},
   booktitle = soda,
   year      = 1997,
@@ -30427,7 +34407,7 @@
 
 @inproceedings{DBLP:conf/soda/PoutreW94,
   author    = {Johannes A. La Poutré and
-               Jeffery Westbrook},
+               Jeffery R. Westbrook},
   title     = {Dynamic {Two-Connectivity} with Backtracking},
   booktitle = soda,
   year      = 1994,
@@ -31072,7 +35052,7 @@
 
 @inproceedings{DBLP:conf/soda/GargVS93,
   author    = {Naveen Garg and
-               Santosh Vempala and
+               Santosh S. Vempala and
                Aman Singla},
   title     = {Improved Approximation Algorithms for Biconnected Subgraphs via Better Lower Bounding Techniques},
   booktitle = soda,
@@ -31488,7 +35468,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/Pittel92,
-  author    = {Boris Pittel},
+  author    = {Boris G. Pittel},
   title     = {On Likely Solutions of a Stable Matching Problem},
   booktitle = soda,
   year      = 1992,
@@ -32213,7 +36193,7 @@
 @inproceedings{DBLP:conf/soda/IraniRWS91,
   author    = {Sandy Irani and
                Nick Reingold and
-               Jeffery Westbrook and
+               Jeffery R. Westbrook and
                Daniel Dominic Sleator},
   title     = {Randomized Competitive Algorithms for the List Update Problem},
   booktitle = soda,
@@ -32463,7 +36443,7 @@
                Giuseppe F. Italiano and
                Roberto Tamassia and
                Robert Endre Tarjan and
-               Jeffery Westbrook and
+               Jeffery R. Westbrook and
                Moti Yung},
   title     = {Maintenance of a Minimum Spanning Forest in a Dynamic Planar Graph},
   booktitle = soda,
@@ -32661,7 +36641,7 @@
 @inproceedings{DBLP:conf/soda/BachDS90,
   author    = {Eric Bach and
                James R. Driscoll and
-               Jeffrey Shallit},
+               Jeffrey O. Shallit},
   title     = {Factor Refinement},
   booktitle = soda,
   year      = 1990,
@@ -32757,7 +36737,7 @@
                Howard J. Karloff and
                T. H. Payne and
                Sundar Vishwanathan},
-  title     = {title=New Results on Server Problems},
+  title     = {New Results on Server Problems},
   booktitle = soda,
   year      = 1990,
   pages     = {291-300},
@@ -32852,7 +36832,7 @@
 @inproceedings{DBLP:conf/soda/KnuthMP90,
   author    = {Donald E. Knuth and
                Rajeev Motwani and
-               Boris Pittel},
+               Boris G. Pittel},
   title     = {Stable Husbands},
   booktitle = soda,
   year      = 1990,

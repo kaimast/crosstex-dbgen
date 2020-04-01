@@ -1,11 +1,802 @@
 @include journals-cs
 
+@article{DBLP:journals/cacm/Hoffmann20,
+  author    = {Leah Hoffmann},
+  title     = {'Everything fails all the time'},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+}
+
+@article{DBLP:journals/cacm/Shasha20,
+  author    = {Dennis E. Shasha},
+  title     = {Feedback for foxes},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+}
+
+@article{DBLP:journals/cacm/Shasha20a,
+  author    = {Dennis E. Shasha},
+  title     = {Stopping tyranny},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+}
+
+@article{DBLP:journals/cacm/Chien20,
+  author    = {Andrew A. Chien},
+  title     = {Cracks in open collaboration in universities},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Pancake20,
+  author    = {Cherri M. Pancake},
+  title     = {Start small, then achieve big impact},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Vardi20a,
+  author    = {Moshe Y. Vardi},
+  title     = {Advancing computing as a science and profession: but to what end?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Staff20,
+  author    = {CACM Staff},
+  title     = {Conferences and carbon impact},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {6-7},
+}
+
+@article{DBLP:journals/cacm/Cerf20,
+  author    = {Vinton G. Cerf},
+  title     = {On durability},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Vardi20,
+  author    = {Moshe Y. Vardi},
+  title     = {Publish and perish},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/000120,
+  author    = {Bertrand Meyer},
+  title     = {In search of the shortest possible schedule},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/Hill20,
+  author    = {Robin K. Hill},
+  title     = {Coding for voting},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/Guzdial20a,
+  author    = {Mark Guzdial},
+  title     = {Sizing the U.S. student cohort for computer science},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/Greengard20a,
+  author    = {Samuel Greengard},
+  title     = {Can nanosheet transistors keep Moore's law alive?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/cacm/Klarreich20,
+  author    = {Erica Klarreich},
+  title     = {Multiplication hits the speed limit},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/cacm/Monroe20,
+  author    = {Don Monroe},
+  title     = {Algorithms to harvest the wind},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {13-14},
+}
+
+@article{DBLP:journals/cacm/Edwards20,
+  author    = {Chris Edwards},
+  title     = {Learning to trust quantum computers},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Kugler20,
+  author    = {Logan Kugler},
+  title     = {How the internet spans the globe},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {14-16},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick20a,
+  author    = {Keith Kirkpatrick},
+  title     = {Across the language barrier},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {15-17},
+}
+
+@article{DBLP:journals/cacm/Marks20,
+  author    = {Paul Marks},
+  title     = {Dark web's doppelgängers aim to dupe antifraud systems},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/cacm/Greengard20,
+  author    = {Samuel Greengard},
+  title     = {Will deepfakes do deep damage?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {17-19},
+}
+
+@article{DBLP:journals/cacm/LachneyY20,
+  author    = {Michael Lachney and
+               Aman Yadav},
+  title     = {Computing and community in formal education},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {18-21},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick20,
+  author    = {Keith Kirkpatrick},
+  title     = {Tracking shoppers},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/cacm/Joh20,
+  author    = {Elizabeth E. Joh},
+  title     = {Increasing automation in policing},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/cacm/DenningD20,
+  author    = {Peter J. Denning and
+               Dorothy E. Denning},
+  title     = {Dilemmas of artificial intelligence},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/cacm/IglesiasTB20,
+  author    = {Carlos Iglesias and
+               Dhanaraj Thakur and
+               Michael L. Best},
+  title     = {Are we losing momentum?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/cacm/Cusumano20,
+  author    = {Michael A. Cusumano},
+  title     = {'Platformizing' a bad business does not make it a good business},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {23-25},
+}
+
+@article{DBLP:journals/cacm/Reingold20,
+  author    = {Omer Reingold},
+  title     = {Through the lens of a passionate theoretician},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {25-27},
+}
+
+@article{DBLP:journals/cacm/Leveson20,
+  author    = {Nancy Leveson},
+  title     = {Are you sure your software will not kill anyone?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {25-28},
+}
+
+@article{DBLP:journals/cacm/HaighP20,
+  author    = {Thomas Haigh and
+               Mark Priestley},
+  title     = {von Neumann thought Turing's universal machine was 'simple and neat.': but that didn't tell him how to design a computer},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {26-32},
+}
+
+@article{DBLP:journals/cacm/OHaraH20,
+  author    = {Kieron O'Hara and
+               Wendy Hall},
+  title     = {Four internets},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {28-30},
+}
+
+@article{DBLP:journals/cacm/Neville-Neil20,
+  author    = {George V. Neville-Neil},
+  title     = {Numbers are for computers, strings are for humans},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {29-30},
+}
+
+@article{DBLP:journals/cacm/CanellasH20,
+  author    = {Marc C. Canellas and
+               Rachel A. Haga},
+  title     = {Unsafe at any level},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {31-34},
+}
+
+@article{DBLP:journals/cacm/HsuN20,
+  author    = {Yen-Chia Hsu and
+               Illah R. Nourbakhsh},
+  title     = {When human-computer interaction meets community citizen science},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {31-34},
+}
+
+@article{DBLP:journals/cacm/Himmelreich20,
+  author    = {Johannes Himmelreich},
+  title     = {Ethics of technology needs more political philosophy},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {33-35},
+}
+
+@article{DBLP:journals/cacm/Kussmaul20,
+  author    = {Clif Kussmaul},
+  title     = {Guiding students to develop essential skills},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {35-37},
+}
+
+@article{DBLP:journals/cacm/PierceHLP20,
+  author    = {Benjamin C. Pierce and
+               Michael Hicks and
+               Crista Lopes and
+               Jens Palsberg},
+  title     = {Conferences in an era of expensive carbon},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {35-37},
+}
+
+@article{DBLP:journals/cacm/DavisH20,
+  author    = {James W. Davis and
+               Jeff Hachtel},
+  title     = {A* search: what's in a name?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {36-37},
+}
+
+@article{DBLP:journals/cacm/Frazelle20,
+  author    = {Jessie Frazelle},
+  title     = {Opening up the baseboard management controller},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {38-40},
+}
+
+@article{DBLP:journals/cacm/Frazelle20a,
+  author    = {Jessie Frazelle},
+  title     = {Securing the boot process},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {38-42},
+}
+
+@article{DBLP:journals/cacm/Sha20,
+  author    = {Sanjay Sha},
+  title     = {The reliability of enterprise applications},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {38-45},
+}
+
+@article{DBLP:journals/cacm/Godbolt20,
+  author    = {Matt Godbolt},
+  title     = {Optimizations in C++ compilers},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {41-49},
+}
+
+@article{DBLP:journals/cacm/Cook20,
+  author    = {Richard I. Cook},
+  title     = {Above the line, below the line},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {43-46},
+}
+
+@article{DBLP:journals/cacm/RuotiKYCC20,
+  author    = {Scott Ruoti and
+               Ben Kaiser and
+               Arkady Yerukhimovich and
+               Jeremy Clark and
+               Robert K. Cunningham},
+  title     = {Blockchain technology: what is it good for?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {46-53},
+}
+
+@article{DBLP:journals/cacm/AwadDBSR20,
+  author    = {Edmond Awad and
+               Sohan Dsouza and
+               Jean-François Bonnefon and
+               Azim Shariff and
+               Iyad Rahwan},
+  title     = {Crowdsourcing moral machines},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {48-55},
+}
+
+@article{DBLP:journals/cacm/BianchiniFCBMCM20,
+  author    = {Ricardo Bianchini and
+               Marcus Fontoura and
+               Eli Cortez and
+               Anand Bonde and
+               Alexandre Muzio and
+               Ana-Maria Constantin and
+               Thomas Moscibroda and
+               Gabriel Magalhães and
+               Girish Bablani and
+               Mark Russinovich},
+  title     = {Toward {ML-centric} cloud platforms},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {50-59},
+}
+
+@article{DBLP:journals/cacm/Helland20,
+  author    = {Pat Helland},
+  title     = {Space time discontinuum},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {54-56},
+}
+
+@article{DBLP:journals/cacm/SmiteMFLC20,
+  author    = {Darja Smite and
+               Nils Brede Moe and
+               Marcin Floryan and
+               Georgiana Levinta and
+               Panagiota Chatzipetrou},
+  title     = {Spotify guilds},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {56-61},
+}
+
+@article{DBLP:journals/cacm/BagchiSWZ20,
+  author    = {Saurabh Bagchi and
+               Muhammad-Bilal Siddiqui and
+               Paul Wood and
+               Heng Zhang},
+  title     = {Dependability in edge computing},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {58-66},
+}
+
+@article{DBLP:journals/cacm/0002HK20,
+  author    = {Thomas Olsson and
+               Jukka Huhtamäki and
+               Hannu Kärkkäinen},
+  title     = {Directions for professional social matching systems},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {60-69},
+}
+
+@article{DBLP:journals/cacm/AustinBBDFHHMS20,
+  author    = {Jonny Austin and
+               Howard Baker and
+               Thomas Ball and
+               James Devine and
+               Joe Finney and
+               Peli de Halleux and
+               Steve Hodges and
+               Michal Moskal and
+               Gareth Stockdale},
+  title     = {The {BBC} micro: bit: from the U.K. to the world},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {62-69},
+}
+
+@article{DBLP:journals/cacm/DuLH20,
+  author    = {Mengnan Du and
+               Ninghao Liu and
+               Xia Hu},
+  title     = {Techniques for interpretable machine learning},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {68-77},
+}
+
+@article{DBLP:journals/cacm/Godefroid20,
+  author    = {Patrice Godefroid},
+  title     = {Fuzzing: hack, art, and science},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {70-76},
+}
+
+@article{DBLP:journals/cacm/FriedJFA20,
+  author    = {Ohad Fried and
+               Jennifer Jacobs and
+               Adam Finkelstein and
+               Maneesh Agrawala},
+  title     = {Editing self-image},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {70-79},
+}
+
+@article{DBLP:journals/cacm/RajsbaumR20,
+  author    = {Sergio Rajsbaum and
+               Michel Raynal},
+  title     = {Mastering concurrent computing through sequential thinking},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {78-87},
+}
+
+@article{DBLP:journals/cacm/Gruteser20,
+  author    = {Marco Gruteser},
+  title     = {Lighting the way to visual privacy: technical perspective},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {80},
+}
+
+@article{DBLP:journals/cacm/KienzleMCBBBBBC20,
+  author    = {Jörg Kienzle and
+               Gunter Mussbacher and
+               Benoît Combemale and
+               Lucy Bastin and
+               Nelly Bencomo and
+               Jean-Michel Bruel and
+               Christoph Becker and
+               Stefanie Betz and
+               Ruzanna Chitchyan and
+               Betty H. C. Cheng and
+               Sonja Klingert and
+               Richard F. Paige and
+               Birgit Penzenstadler and
+               Norbert Seyff and
+               Eugene Syriani and
+               Colin C. Venters},
+  title     = {Toward model-driven sustainability evaluation},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {80-91},
+}
+
+@article{DBLP:journals/cacm/ZhuZ020,
+  author    = {Shilin Zhu and
+               Chi Zhang and
+               Xinyu Zhang},
+  title     = {Automating visual privacy protection using a smart {LED}},
+  journal   = cacm,
+  volume    = {63},
+  number    = {2},
+  year      = 2020,
+  pages     = {81-89},
+}
+
+@article{DBLP:journals/cacm/Guzdial20,
+  author    = {Mark Guzdial},
+  title     = {Technical perspective: Is there a geek gene?},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {90},
+}
+
+@article{DBLP:journals/cacm/PatitsasBCE20,
+  author    = {Elizabeth Patitsas and
+               Jesse Berlin and
+               Michelle Craig and
+               Steve Easterbrook},
+  title     = {Evidence that computer science grades are not bimodal},
+  journal   = cacm,
+  volume    = {63},
+  number    = {1},
+  year      = 2020,
+  pages     = {91-98},
+}
+
+@article{DBLP:journals/cacm/Isaacs20,
+  author    = {Rebecca Isaacs},
+  title     = {Technical perspective: A perspective on pivot tracing},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {93},
+}
+
+@article{DBLP:journals/cacm/MaceRF20,
+  author    = {Jonathan Mace and
+               Ryan Roelke and
+               Rodrigo Fonseca},
+  title     = {Pivot tracing: dynamic causal monitoring for distributed systems},
+  journal   = cacm,
+  volume    = {63},
+  number    = {3},
+  year      = 2020,
+  pages     = {94-102},
+}
+
+@article{DBLP:journals/cacm/Cerf19a,
+  author    = {Vinton G. Cerf},
+  title     = {Libraries considered hazardous},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Cerf19c,
+  author    = {Vinton G. Cerf},
+  title     = {In debt to the {NSF}},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Cerf19d,
+  author    = {Vinton G. Cerf},
+  title     = {APIs, standards, and enabling infrastructure},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Cerf19j,
+  author    = {Vinton G. Cerf},
+  title     = {Hazards of the information superhighway},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {5},
+}
+
 @article{DBLP:journals/cacm/Chien19,
   author    = {Andrew A. Chien},
   title     = {Open collaboration in an age of distrust},
   journal   = cacm,
   volume    = {62},
   number    = {1},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Chien19a,
+  author    = {Andrew A. Chien},
+  title     = {Owning computing's environmental impact},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Chien19b,
+  author    = {Andrew A. Chien},
+  title     = {Halfway round!: growing the regional special sections},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Chien19c,
+  author    = {Andrew A. Chien},
+  title     = {Sustaining open collaboration in universities},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Pancake19,
+  author    = {Cherri M. Pancake},
+  title     = {{ACM} awards honor {CS} contributions},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Pancake19a,
+  author    = {Cherri M. Pancake},
+  title     = {Dispelling common myths about {ACM} awards and honors},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Pancake19b,
+  author    = {Cherri M. Pancake},
+  title     = {How {ACM} evolves in response to community needs},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Pancake19c,
+  author    = {Cherri M. Pancake},
+  title     = {Engaging future generations of {ACM} leaders},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
   year      = 2019,
   pages     = {5},
 }
@@ -20,6 +811,97 @@
   pages     = {6},
 }
 
+@article{DBLP:journals/cacm/Cerf19b,
+  author    = {Vinton G. Cerf},
+  title     = {Ownership vs. stewardship},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {6},
+}
+
+@article{DBLP:journals/cacm/Cerf19f,
+  author    = {Vinton G. Cerf},
+  title     = {Back to the future, part {II}},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {6},
+}
+
+@article{DBLP:journals/cacm/Cerf19h,
+  author    = {Vinton G. Cerf},
+  title     = {Polyglot!},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {6},
+}
+
+@article{DBLP:journals/cacm/HillG19,
+  author    = {Robin K. Hill and
+               Mark Guzdial},
+  title     = {Pondering variables and direct instruction},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {6},
+}
+
+@article{DBLP:journals/cacm/X19,
+  author    = {},
+  title     = {Between the lines in the China region special section},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {6-7},
+}
+
+@article{DBLP:journals/cacm/Cerf19e,
+  author    = {Vinton G. Cerf},
+  title     = {Back to the future},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf19g,
+  author    = {Vinton G. Cerf},
+  title     = {Undo, redo, and regrets},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf19i,
+  author    = {Vinton G. Cerf},
+  title     = {{AI} is not an excuse!},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf19k,
+  author    = {Vinton G. Cerf},
+  title     = {A hands-free ride},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {7},
+}
+
 @article{DBLP:journals/cacm/Vardi19,
   author    = {Moshe Y. Vardi},
   title     = {Are we having an ethical crisis in computing?},
@@ -28,6 +910,103 @@
   number    = {1},
   year      = 2019,
   pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Vardi19a,
+  author    = {Moshe Y. Vardi},
+  title     = {Lost in math?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Vardi19b,
+  author    = {Moshe Y. Vardi},
+  title     = {Quantum hype and quantum skepticism},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Vardi19c,
+  author    = {Moshe Y. Vardi},
+  title     = {To serve humanity},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Vardi19d,
+  author    = {Moshe Y. Vardi},
+  title     = {The long game of research},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Vardi19e,
+  author    = {Moshe Y. Vardi},
+  title     = {The winner-takes-all tech corporation},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/BrudererH19,
+  author    = {Herbert E. Bruderer and
+               Robin K. Hill},
+  title     = {Seeking digital humanities, {IT} tech support},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/GuzdialA19,
+  author    = {Mark Guzdial and
+               John Arquilla},
+  title     = {Is {CS} really for all, and defending democracy in cyberspace},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/HallLLPB19,
+  author    = {Mary W. Hall and
+               Richard E. Ladner and
+               Diane Levitt and
+               Manuel A. Pérez-Quiñones and
+               Saurabh Bagchi},
+  title     = {Smoothing the path to computing: pondering uses for big data},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/HillT19,
+  author    = {Robin K. Hill and
+               Edwin Torres},
+  title     = {Pinning down variables, and taking an agile approach},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {8-9},
 }
 
 @article{DBLP:journals/cacm/Robertson19,
@@ -40,6 +1019,114 @@
   pages     = {8-9},
 }
 
+@article{DBLP:journals/cacm/Staff19b,
+  author    = {CACM Staff},
+  title     = {You can publish it!: (you have to)},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/TownsendW19,
+  author    = {Gloria Childress Townsend and
+               Sheldon Waite},
+  title     = {Bringing more women, immigrants, to computer science},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/Edwards19a,
+  author    = {Chris Edwards},
+  title     = {Soft robots look to new environments},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {9},
+}
+
+@article{DBLP:journals/cacm/Staff19,
+  author    = {CACM Staff},
+  title     = {A case against mission-critical applications of machine learning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {9},
+}
+
+@article{DBLP:journals/cacm/Staff19a,
+  author    = {CACM Staff},
+  title     = {On being 'random enough'},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {9},
+}
+
+@article{DBLP:journals/cacm/Staff19c,
+  author    = {CACM Staff},
+  title     = {Online voting still security pipedream},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {9},
+}
+
+@article{DBLP:journals/cacm/Bugayenko19,
+  author    = {Yegor Bugayenko},
+  title     = {The benefits of indolence},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/BugayenkoG19,
+  author    = {Yegor Bugayenko and
+               Mark Guzdial},
+  title     = {Why programmers should curb their enthusiasm, and thinking about computational thinking},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/GuzdialH19,
+  author    = {Mark Guzdial and
+               Robin K. Hill},
+  title     = {Getting high school, college students interested in {CS}},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/MonnierCGDNL19,
+  author    = {Stefan Monnier and
+               Andrew A. Chien and
+               Robert L. Glass and
+               Charles H. Davis and
+               Thorkil Naur and
+               Thomas A. Limoncelli},
+  title     = {Don't ignore the cost of 'embedded energy'},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {10-11},
+}
+
 @article{DBLP:journals/cacm/Monroe19,
   author    = {Don Monroe},
   title     = {Quantum leap},
@@ -48,6 +1135,86 @@
   number    = {1},
   year      = 2019,
   pages     = {10-12},
+}
+
+@article{DBLP:journals/cacm/Savage19a,
+  author    = {Neil Savage},
+  title     = {Neural net worth},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/cacm/Greengard19,
+  author    = {Samuel Greengard},
+  title     = {A brave new world of genetic engineering},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/cacm/Klarreich19,
+  author    = {Erica Klarreich},
+  title     = {Good algorithms make good neighbors},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/cacm/Kugler19a,
+  author    = {Logan Kugler},
+  title     = {Building a better battery},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/cacm/Monroe19c,
+  author    = {Don Monroe},
+  title     = {Closing in on quantum error correction},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/cacm/Greengard19a,
+  author    = {Samuel Greengard},
+  title     = {The future of data storage},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {12},
+}
+
+@article{DBLP:journals/cacm/Carrier19,
+  author    = {Ryan Carrier},
+  title     = {Implementing guidelines for governance, oversight of AI, and automation},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {12-13},
+}
+
+@article{DBLP:journals/cacm/Guzdial19,
+  author    = {Mark Guzdial},
+  title     = {Cutting the wait for {CS} advice},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {12-13},
 }
 
 @article{DBLP:journals/cacm/Edwards19,
@@ -60,6 +1227,116 @@
   pages     = {13-14},
 }
 
+@article{DBLP:journals/cacm/Anthes19,
+  author    = {Gary Anthes},
+  title     = {Lifelong learning in artificial neural networks},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Edwards19c,
+  author    = {Chris Edwards},
+  title     = {Malevolent machine learning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Greengard19d,
+  author    = {Samuel Greengard},
+  title     = {An inability to reproduce},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Monroe19d,
+  author    = {Don Monroe},
+  title     = {Information is physics},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick19,
+  author    = {Keith Kirkpatrick},
+  title     = {Technologizing agriculture},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {14-16},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick19c,
+  author    = {Keith Kirkpatrick},
+  title     = {The edge of computational photography},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {14-16},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick19d,
+  author    = {Keith Kirkpatrick},
+  title     = {Protecting industrial control systems},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {14-16},
+}
+
+@article{DBLP:journals/cacm/Shein19a,
+  author    = {Esther Shein},
+  title     = {Exoskeletons today},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {14-16},
+}
+
+@article{DBLP:journals/cacm/Underwood19,
+  author    = {Sarah Underwood},
+  title     = {The fine line between coercion and care},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {15},
+}
+
+@article{DBLP:journals/cacm/Edwards19b,
+  author    = {Chris Edwards},
+  title     = {Questioning quantum},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {15-17},
+}
+
+@article{DBLP:journals/cacm/Greengard19c,
+  author    = {Samuel Greengard},
+  title     = {The algorithm that changed quantum machine learning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {15-17},
+}
+
 @article{DBLP:journals/cacm/Shein19,
   author    = {Esther Shein},
   title     = {Who owns 3D scans of historic sites?},
@@ -68,6 +1345,116 @@
   number    = {1},
   year      = 2019,
   pages     = {15-17},
+}
+
+@article{DBLP:journals/cacm/Anthes19a,
+  author    = {Gary Anthes},
+  title     = {Augmented reality gets real},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/cacm/Greengard19e,
+  author    = {Samuel Greengard},
+  title     = {When drones fly},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/cacm/Marks19,
+  author    = {Paul Marks},
+  title     = {Robots aim to boost astronaut efficiency},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/cacm/Monroe19a,
+  author    = {Don Monroe},
+  title     = {And then, there were three},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick19a,
+  author    = {Keith Kirkpatrick},
+  title     = {Electronics need rare earths},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {17-18},
+}
+
+@article{DBLP:journals/cacm/Shein19b,
+  author    = {Esther Shein},
+  title     = {The {CS} teacher shortage},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {17-18},
+}
+
+@article{DBLP:journals/cacm/Kugler19,
+  author    = {Logan Kugler},
+  title     = {Being recognized everywhere},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {17-19},
+}
+
+@article{DBLP:journals/cacm/Kugler19b,
+  author    = {Logan Kugler},
+  title     = {Protecting the 2020 census},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {17-19},
+}
+
+@article{DBLP:journals/cacm/Sako19,
+  author    = {Mari Sako},
+  title     = {Free trade in a digital world},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {18},
+}
+
+@article{DBLP:journals/cacm/Monroe19b,
+  author    = {Don Monroe},
+  title     = {I don't understand my car},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {18-19},
+}
+
+@article{DBLP:journals/cacm/Savage19,
+  author    = {Neil Savage},
+  title     = {Code talkers},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {18-19},
 }
 
 @article{DBLP:journals/cacm/Gal19,
@@ -80,6 +1467,106 @@
   pages     = {18-20},
 }
 
+@article{DBLP:journals/cacm/Kirkpatrick19b,
+  author    = {Keith Kirkpatrick},
+  title     = {Ethics in technology jobs},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {19-20},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick19e,
+  author    = {Keith Kirkpatrick},
+  title     = {Regulating information technology},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/cacm/Kugler19c,
+  author    = {Logan Kugler},
+  title     = {Real-world applications for drones},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/cacm/Underwood19a,
+  author    = {Sarah Underwood},
+  title     = {Can you locate your location data?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/cacm/Mone19,
+  author    = {Gregory Mone},
+  title     = {What makes a robot likable?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {20-21},
+}
+
+@article{DBLP:journals/cacm/Cusumano19a,
+  author    = {Michael A. Cusumano},
+  title     = {The cloud as an innovation platform for software development},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/cacm/Greengard19b,
+  author    = {Samuel Greengard},
+  title     = {Deep insecurities: the internet of things shifts technology risk},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/cacm/Landwher19,
+  author    = {Carl Landwher},
+  title     = {2018: a big year for privacy},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/cacm/Samuelson19a,
+  author    = {Pamela Samuelson},
+  title     = {{API} copyrights revisited},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/cacm/Samuelson19,
+  author    = {Pamela Samuelson},
+  title     = {Questioning a new intellectual property right for press publishers},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {20-23},
+}
+
 @article{DBLP:journals/cacm/Cusumano19,
   author    = {Michael A. Cusumano},
   title     = {CRISPR: an emerging platform for gene editing},
@@ -90,6 +1577,127 @@
   pages     = {21-23},
 }
 
+@article{DBLP:journals/cacm/Neville-Neil19a,
+  author    = {George V. Neville-Neil},
+  title     = {Know your algorithms},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {22},
+}
+
+@article{DBLP:journals/cacm/Douglas19,
+  author    = {David M. Douglas},
+  title     = {Should researchers use data from security breaches?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/cacm/Goldman19,
+  author    = {Eric Goldman},
+  title     = {Internet immunity and the freedom to code},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/cacm/Taylor19,
+  author    = {Linnet Taylor},
+  title     = {Global data justice},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/cacm/Weintrop19,
+  author    = {David Weintrop},
+  title     = {Block-based programming in computer science education},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {22-25},
+}
+
+@article{DBLP:journals/cacm/Neumann19,
+  author    = {Peter G. Neumann},
+  title     = {How might we increase system trustworthiness?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {23-25},
+}
+
+@article{DBLP:journals/cacm/Winter19,
+  author    = {Susan J. Winter},
+  title     = {Who benefits?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {23-25},
+}
+
+@article{DBLP:journals/cacm/FriezeQ19,
+  author    = {Carol Frieze and
+               Jeria L. Quesenberry},
+  title     = {How computer science at {CMU} is attracting and retaining women},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {23-26},
+}
+
+@article{DBLP:journals/cacm/Lewandowski19,
+  author    = {Dirk Lewandowski},
+  title     = {The web is missing an essential part of infrastructure: an open web index},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {24},
+}
+
+@article{DBLP:journals/cacm/Grimmelmann19,
+  author    = {James Grimmelmann},
+  title     = {Continuity and change in internet law},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {24-26},
+}
+
+@article{DBLP:journals/cacm/Samuelson19b,
+  author    = {Pamela Samuelson},
+  title     = {Europe's controversial digital copyright directive finalized},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {24-27},
+}
+
+@article{DBLP:journals/cacm/Turel19,
+  author    = {Ofir Turel},
+  title     = {Potential 'dark sides' of leisure technology use in youth},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {24-27},
+}
+
 @article{DBLP:journals/cacm/Haigh19,
   author    = {Thomas Haigh},
   title     = {Hey Google, what's a moonshot?: how Silicon Valley mocks Apollo},
@@ -98,6 +1706,257 @@
   number    = {1},
   year      = 2019,
   pages     = {24-30},
+}
+
+@article{DBLP:journals/cacm/Neville-Neil19d,
+  author    = {George V. Neville-Neil},
+  title     = {Koding academies},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {25},
+}
+
+@article{DBLP:journals/cacm/MarkettosWMSN19,
+  author    = {A. Theodore Markettos and
+               Robert N. M. Watson and
+               Simon W. Moore and
+               Peter Sewell and
+               Peter G. Neumann},
+  title     = {Through computer architecture, darkly},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {25-27},
+}
+
+@article{DBLP:journals/cacm/Orman19,
+  author    = {Hilarie Orman},
+  title     = {Online voting: we can do it! (we have to)},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {25-27},
+}
+
+@article{DBLP:journals/cacm/Neville-Neil19c,
+  author    = {George V. Neville-Neil},
+  title     = {What is a chief security officer good for?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {26-27},
+}
+
+@article{DBLP:journals/cacm/DenningL19,
+  author    = {Peter J. Denning and
+               Ted G. Lewis},
+  title     = {Uncertainty},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {26-28},
+}
+
+@article{DBLP:journals/cacm/NordforsGF19,
+  author    = {David Nordfors and
+               Chally Grundwag and
+               V. R. Ferose},
+  title     = {A new labor market for people with 'coolabilities'},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {26-28},
+}
+
+@article{DBLP:journals/cacm/Alstyne19,
+  author    = {Marshall W. Van Alstyne},
+  title     = {A response to fake news as a response to Citizens United},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {26-29},
+}
+
+@article{DBLP:journals/cacm/Neville-Neil19,
+  author    = {George V. Neville-Neil},
+  title     = {Writing a test plan},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {27},
+}
+
+@article{DBLP:journals/cacm/Feigenbaum19,
+  author    = {Joan Feigenbaum},
+  title     = {Encryption and surveillance},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {27-29},
+}
+
+@article{DBLP:journals/cacm/FatourouH19,
+  author    = {Panagiota Fatourou and
+               Chris Hankin},
+  title     = {Welcome to the Europe region special section},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {28},
+}
+
+@article{DBLP:journals/cacm/Denning19,
+  author    = {Peter J. Denning},
+  title     = {An interview with William Hugh Murray},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {28-30},
+}
+
+@article{DBLP:journals/cacm/DenningO19,
+  author    = {Peter J. Denning and
+               Andrew M. Odlyzko},
+  title     = {An interview with Andrew Odlyzko on cyber security},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {28-30},
+}
+
+@article{DBLP:journals/cacm/GuzdialKNS19,
+  author    = {Mark Guzdial and
+               Alan Kay and
+               Cathie Norris and
+               Elliot Soloway},
+  title     = {Computational thinking should just be good thinking},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {28-30},
+}
+
+@article{DBLP:journals/cacm/DenningB19,
+  author    = {Peter J. Denning and
+               David Brin},
+  title     = {An interview with David Brin on resiliency},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {28-31},
+}
+
+@article{DBLP:journals/cacm/Feitelson19,
+  author    = {Dror G. Feitelson},
+  title     = {Tony's law},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {28-31},
+}
+
+@article{DBLP:journals/cacm/WhiteFHBCSNE19,
+  author    = {Ryen W. White and
+               Adam Fourney and
+               Allen Herring and
+               Paul N. Bennett and
+               Nirupama Chandrasekaran and
+               Robert Sim and
+               Elnaz Nouri and
+               Mark J. Encarnación},
+  title     = {Multi-device digital assistance},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {28-31},
+}
+
+@article{DBLP:journals/cacm/BergerBBJMNSWX19,
+  author    = {Emery Berger and
+               Stephen M. Blackburn and
+               Carla E. Brodley and
+               H. V. Jagadish and
+               Kathryn S. McKinley and
+               Mario A. Nascimento and
+               Minjeong Shin and
+               Kuansan Wang and
+               Lexing Xie},
+  title     = {{GOTO} rankings considered helpful},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {29-30},
+}
+
+@article{DBLP:journals/cacm/Noveck19,
+  author    = {Beth Simone Noveck},
+  title     = {Public entrepreneurship and policy engineering},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {29-31},
+}
+
+@article{DBLP:journals/cacm/Neville-Neil19b,
+  author    = {George V. Neville-Neil},
+  title     = {{MUST} and {MUST} {NOT}},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {30-31},
+}
+
+@article{DBLP:journals/cacm/SchanzerKF19,
+  author    = {Emmanuel Schanzer and
+               Shriram Krishnamurthi and
+               Kathi Fisler},
+  title     = {What does it mean for a computing curriculum to succeed?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {30-32},
+}
+
+@article{DBLP:journals/cacm/Auerbach19,
+  author    = {David Auerbach},
+  title     = {Bitwise: a life in code},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {31-33},
+}
+
+@article{DBLP:journals/cacm/VakilH19,
+  author    = {Sepehr Vakil and
+               Jennifer Higgs},
+  title     = {It's about power},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {31-33},
 }
 
 @article{DBLP:journals/cacm/LoboS19,
@@ -111,6 +1970,143 @@
   pages     = {31-34},
 }
 
+@article{DBLP:journals/cacm/Varghese19,
+  author    = {George Varghese},
+  title     = {An interview with Leonard Kleinrock},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {31-36},
+}
+
+@article{DBLP:journals/cacm/Korrigane19,
+  author    = {Lisa Korrigane},
+  title     = {A demographic snapshot of the {IT} workforce in Europe},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {32},
+}
+
+@article{DBLP:journals/cacm/Helland19a,
+  author    = {Pat Helland},
+  title     = {Extract, shoehorn, and load},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {32-33},
+}
+
+@article{DBLP:journals/cacm/Aiello19,
+  author    = {Marco Aiello},
+  title     = {The success of the web: a triumph of the amateurs},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {32-34},
+}
+
+@article{DBLP:journals/cacm/PasquierEB19,
+  author    = {Thomas F. J.-M. Pasquier and
+               David M. Eyers and
+               Jean Bacon},
+  title     = {Personal data and the internet of things},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {32-34},
+}
+
+@article{DBLP:journals/cacm/Nardelli19,
+  author    = {Enrico Nardelli},
+  title     = {Do we really need computational thinking?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {32-35},
+}
+
+@article{DBLP:journals/cacm/Mirian19,
+  author    = {Ariana Mirian},
+  title     = {Hack for hire},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {32-37},
+}
+
+@article{DBLP:journals/cacm/BartoliMLT19,
+  author    = {Alberto Bartoli and
+               Eric Medvet and
+               Andrea De Lorenzo and
+               Fabiano Tarlao},
+  title     = {Enterprise wi-fi: we need devices that are secure by default},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {33-35},
+}
+
+@article{DBLP:journals/cacm/Pringle19,
+  author    = {David Pringle},
+  title     = {Enterprises lead {ICT} innovation in Europe},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {34},
+}
+
+@article{DBLP:journals/cacm/TissenbaumSA19,
+  author    = {Mike Tissenbaum and
+               Josh Sheldon and
+               Hal Abelson},
+  title     = {From computational thinking to computational action},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {34-36},
+}
+
+@article{DBLP:journals/cacm/Frazelle19a,
+  author    = {Jessie Frazelle},
+  title     = {Open source firmware},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {34-38},
+}
+
+@article{DBLP:journals/cacm/Limoncelli19a,
+  author    = {Thomas A. Limoncelli},
+  title     = {The top 10 things executives should know about software},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {34-40},
+}
+
+@article{DBLP:journals/cacm/Pringle19a,
+  author    = {David Pringle},
+  title     = {Europe's ambitious {ICT} agenda},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {35},
+}
+
 @article{DBLP:journals/cacm/Lee19,
   author    = {Edward A. Lee},
   title     = {Modeling in engineering and science},
@@ -119,6 +2115,95 @@
   number    = {1},
   year      = 2019,
   pages     = {35-36},
+}
+
+@article{DBLP:journals/cacm/Pringle19b,
+  author    = {David Pringle},
+  title     = {Europe's well-connected consumers},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {36},
+}
+
+@article{DBLP:journals/cacm/DegenbaevLP19,
+  author    = {Ulan Degenbaev and
+               Michael Lippautz and
+               Hannes Payer},
+  title     = {Garbage collection as a joint venture},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {36-41},
+}
+
+@article{DBLP:journals/cacm/BlumB19,
+  author    = {Raymond Blum and
+               Betsy Beyer},
+  title     = {Achieving digital permanence},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {36-42},
+}
+
+@article{DBLP:journals/cacm/Cox19,
+  author    = {Russ Cox},
+  title     = {Surviving software dependencies},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {36-43},
+}
+
+@article{DBLP:journals/cacm/NoyGJNPT19,
+  author    = {Natalya Fridman Noy and
+               Yuqing Gao and
+               Anshu Jain and
+               Anant Narayanan and
+               Alan Patterson and
+               Jamie Taylor},
+  title     = {Industry-scale knowledge graphs: lessons and challenges},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {36-43},
+}
+
+@article{DBLP:journals/cacm/X19a,
+  author    = {},
+  title     = {CodeFlow: improving the code review process at Microsoft},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {36-44},
+}
+
+@article{DBLP:journals/cacm/SilvaK19,
+  author    = {Selena Silva and
+               Martin Kenney},
+  title     = {Algorithms, platforms, and ethnic bias},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {37-39},
+}
+
+@article{DBLP:journals/cacm/Kalman19,
+  author    = {Laurence Kalman},
+  title     = {New European data privacy and cyber security laws: one year later},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {38},
 }
 
 @article{DBLP:journals/cacm/Lam19,
@@ -131,6 +2216,100 @@
   pages     = {38-42},
 }
 
+@article{DBLP:journals/cacm/Limoncelli19c,
+  author    = {Thomas A. Limoncelli},
+  title     = {{API} practices if you hate your customers},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {38-42},
+}
+
+@article{DBLP:journals/cacm/Waldo19,
+  author    = {Jim Waldo},
+  title     = {A hitchhiker's guide to the blockchain universe},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {38-42},
+}
+
+@article{DBLP:journals/cacm/Limoncelli19b,
+  author    = {Thomas A. Limoncelli},
+  title     = {Demo data as code},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {39-41},
+}
+
+@article{DBLP:journals/cacm/Gulliksen19,
+  author    = {Jan Gulliksen},
+  title     = {Incorporating Europe's values in future research},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {40},
+}
+
+@article{DBLP:journals/cacm/NarayananJD19,
+  author    = {P. J. Narayanan and
+               Pankaj Jalote and
+               Anand Deshpande},
+  title     = {Welcome to the India region special section},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {40-42},
+}
+
+@article{DBLP:journals/cacm/X19b,
+  author    = {},
+  title     = {Access controls and healthcare records: who owns the data?},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {41-46},
+}
+
+@article{DBLP:journals/cacm/BosschereDG19,
+  author    = {Koen De Bosschere and
+               Marc Duranton and
+               Madeleine Gray},
+  title     = {HiPEAC: a European network built to last},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {42},
+}
+
+@article{DBLP:journals/cacm/Matsudaira19b,
+  author    = {Kate Matsudaira},
+  title     = {How to create a great team culture (and why it matters)},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {42-44},
+}
+
+@article{DBLP:journals/cacm/Matsudaira19d,
+  author    = {Kate Matsudaira},
+  title     = {The evolution of management},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {42-47},
+}
+
 @article{DBLP:journals/cacm/Frazelle19,
   author    = {Jessie Frazelle},
   title     = {Research for practice: security for the modern age},
@@ -141,6 +2320,135 @@
   pages     = {43-45},
 }
 
+@article{DBLP:journals/cacm/Matsudaira19a,
+  author    = {Kate Matsudaira},
+  title     = {Design patterns for managing up},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {43-45},
+}
+
+@article{DBLP:journals/cacm/KleppmannBS19,
+  author    = {Martin Kleppmann and
+               Alastair R. Beresford and
+               Boerge Svingen},
+  title     = {Online event processing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {43-49},
+}
+
+@article{DBLP:journals/cacm/JorgeGQ19,
+  author    = {Joaquim A. Jorge and
+               Mashhuda Glencross and
+               Aaron Quigley},
+  title     = {{ACM} Europe Council's best paper awards},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {44},
+}
+
+@article{DBLP:journals/cacm/Varma19,
+  author    = {Manik Varma},
+  title     = {Extreme classification},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {44-45},
+}
+
+@article{DBLP:journals/cacm/Killalea19,
+  author    = {Tom Killalea},
+  title     = {Velocity in software engineering},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {44-47},
+}
+
+@article{DBLP:journals/cacm/WiedemannFWGK19,
+  author    = {Anna Wiedemann and
+               Nicole Forsgren and
+               Manuel Wiesche and
+               Heiko Gewald and
+               Helmut Krcmar},
+  title     = {Research for practice: the {DevOps} phenomenon},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {44-49},
+}
+
+@article{DBLP:journals/cacm/CastroIMS19,
+  author    = {Paul C. Castro and
+               Vatche Ishakian and
+               Vinod Muthusamy and
+               Aleksander Slominski},
+  title     = {The rise of serverless computing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {44-54},
+}
+
+@article{DBLP:journals/cacm/Matsudaira19,
+  author    = {Kate Matsudaira},
+  title     = {The importance of a great finish},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {45-47},
+}
+
+@article{DBLP:journals/cacm/LiptonS19,
+  author    = {Zachary C. Lipton and
+               Jacob Steinhardt},
+  title     = {Research for practice: troubling trends in machine-learning scholarship},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {45-53},
+}
+
+@article{DBLP:journals/cacm/McCannPGJTG19,
+  author    = {Julie A. McCann and
+               Gian Pietro Picco and
+               Alexander Gluhak and
+               Karl Henrik Johansson and
+               Martin Törngren and
+               Laila Gide},
+  title     = {Connected things connecting Europe},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {46},
+}
+
+@article{DBLP:journals/cacm/MustafaBR19,
+  author    = {Maryam Mustafa and
+               Amna Batool and
+               Agha Ali Raza},
+  title     = {Designing {ICT} interventions for women in Pakistan},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {46-47},
+}
+
 @article{DBLP:journals/cacm/Limoncelli19,
   author    = {Thomas A. Limoncelli},
   title     = {{SQL} is no excuse to avoid {DevOps}},
@@ -149,6 +2457,106 @@
   number    = {1},
   year      = 2019,
   pages     = {46-49},
+}
+
+@article{DBLP:journals/cacm/GarfinkelAM19,
+  author    = {Simson L. Garfinkel and
+               John M. Abowd and
+               Christian Martindale},
+  title     = {Understanding database reconstruction attacks on public data},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {46-53},
+}
+
+@article{DBLP:journals/cacm/HaritsaS19,
+  author    = {Jayant R. Haritsa and
+               S. Sudarshan},
+  title     = {Turbocharging database query processing and testing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {48-49},
+}
+
+@article{DBLP:journals/cacm/HastingsHLUW19,
+  author    = {Justine S. Hastings and
+               Mark Howison and
+               Ted Lawless and
+               John Ucles and
+               Preston White},
+  title     = {Unlocking data to improve public policy},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {48-53},
+}
+
+@article{DBLP:journals/cacm/KfirF19,
+  author    = {Shaul Kfir and
+               Camille Fournier},
+  title     = {DAML: the contract language of distributed ledgers},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {48-54},
+}
+
+@article{DBLP:journals/cacm/Beck19,
+  author    = {Micah Beck},
+  title     = {On the hourglass model},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {48-57},
+}
+
+@article{DBLP:journals/cacm/HennessyP19,
+  author    = {John L. Hennessy and
+               David A. Patterson},
+  title     = {A new golden age for computer architecture},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {48-60},
+}
+
+@article{DBLP:journals/cacm/Matsudaira19c,
+  author    = {Kate Matsudaira},
+  title     = {Overly attached},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {50-52},
+}
+
+@article{DBLP:journals/cacm/VermaD19,
+  author    = {Neeta Verma and
+               Savita Dawar},
+  title     = {Digital transformation in the Indian government},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {50-53},
+}
+
+@article{DBLP:journals/cacm/Kuzmanovic19,
+  author    = {Aleksandar Kuzmanovic},
+  title     = {Net neutrality: unexpected solution to blockchain scaling},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {50-55},
 }
 
 @article{DBLP:journals/cacm/SeidelBLLN19,
@@ -165,6 +2573,189 @@
   pages     = {50-57},
 }
 
+@article{DBLP:journals/cacm/FatourouPP19,
+  author    = {Panagiota Fatourou and
+               Yota Papageorgiou and
+               Vasiliki Petousi},
+  title     = {Women are needed in STEM: European policies and incentives},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {52},
+}
+
+@article{DBLP:journals/cacm/Shah19,
+  author    = {Vipul Shah},
+  title     = {CSpathshala: bringing computational thinking to schools},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {54-55},
+}
+
+@article{DBLP:journals/cacm/Pearl19,
+  author    = {Judea Pearl},
+  title     = {The seven tools of causal inference, with reflections on machine learning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {54-60},
+}
+
+@article{DBLP:journals/cacm/GroszGVBHSW19,
+  author    = {Barbara J. Grosz and
+               David Gray Grant and
+               Kate Vredenburgh and
+               Jeff Behrends and
+               Lily Hu and
+               Alison Simmons and
+               Jim Waldo},
+  title     = {Embedded EthiCS: integrating ethics across {CS} education},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {54-61},
+}
+
+@article{DBLP:journals/cacm/DoSS19,
+  author    = {Jaeyoung Do and
+               Sudipta Sengupta and
+               Steven Swanson},
+  title     = {Programmable solid-state storage in future cloud datacenters},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {54-62},
+}
+
+@article{DBLP:journals/cacm/Salzman19,
+  author    = {Oren Salzman},
+  title     = {Sampling-based robot motion planning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {54-63},
+}
+
+@article{DBLP:journals/cacm/SamaranayakeTSW19,
+  author    = {Ajit Samaranayake and
+               Sampath Tilakumara and
+               Thayaparan Sripavan and
+               Rasika Withanawasam},
+  title     = {Creative disruption in fintech from Sri Lanka},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {56-57},
+}
+
+@article{DBLP:journals/cacm/PaytonB19,
+  author    = {Fay Payton and
+               Eleni Berki},
+  title     = {Countering the negative image of women in computing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {56-63},
+}
+
+@article{DBLP:journals/cacm/GomesDBCDEFFFFF19,
+  author    = {Carla P. Gomes and
+               Thomas G. Dietterich and
+               Christopher Barrett and
+               Jon Conrad and
+               Bistra Dilkina and
+               Stefano Ermon and
+               Fei Fang and
+               Andrew Farnsworth and
+               Alan Fern and
+               Xiaoli Z. Fern and
+               Daniel Fink and
+               Douglas H. Fisher and
+               Alexander Flecker and
+               Daniel Freund and
+               Angela Fuller and
+               John M. Gregoire and
+               John E. Hopcroft and
+               Steve Kelling and
+               J. Zico Kolter and
+               Warren B. Powell and
+               Nicole D. Sintov and
+               John S. Selker and
+               Bart Selman and
+               Daniel Sheldon and
+               David B. Shmoys and
+               Milind Tambe and
+               Weng-Keen Wong and
+               Christopher Wood and
+               Xiaojian Wu and
+               Yexiang Xue and
+               Amulya Yadav and
+               Abdul-Aziz Yakubu and
+               Mary Lou Zeeman},
+  title     = {Computational sustainability: computing for a better world and a sustainable future},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {56-65},
+}
+
+@article{DBLP:journals/cacm/GouesPR19,
+  author    = {Claire Le Goues and
+               Michael Pradel and
+               Abhik Roychoudhury},
+  title     = {Automated program repair},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {56-65},
+}
+
+@article{DBLP:journals/cacm/CaspersenGMN19,
+  author    = {Michael E. Caspersen and
+               Judith Gal-Ezer and
+               Andrew D. McGettrick and
+               Enrico Nardelli},
+  title     = {Informatics as a fundamental discipline for the 21st century},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {58},
+}
+
+@article{DBLP:journals/cacm/JawaharP19,
+  author    = {C. V. Jawahar and
+               Venkata N. Padmanabhan},
+  title     = {Technology interventions for road safety and beyond},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {58-59},
+}
+
+@article{DBLP:journals/cacm/FrauenbergerP19,
+  author    = {Christopher Frauenberger and
+               Peter Purgathofer},
+  title     = {Ways of thinking in informatics},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {58-64},
+}
+
 @article{DBLP:journals/cacm/Orenga-RoglaC19,
   author    = {Sergio Orenga-Roglá and
                Ricardo Chalmeta},
@@ -174,6 +2765,139 @@
   number    = {1},
   year      = 2019,
   pages     = {58-65},
+}
+
+@article{DBLP:journals/cacm/SrikantTVA19,
+  author    = {Shashank Srikant and
+               Rohit Takhar and
+               Vishal Venugopal and
+               Varun Aggarwal},
+  title     = {Skill evaluation},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {60-61},
+}
+
+@article{DBLP:journals/cacm/GaoSLK19,
+  author    = {Chao Gao and
+               Zhen Su and
+               Jiming Liu and
+               Jürgen Kurths},
+  title     = {Even central users do not always drive information diffusion},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {61-67},
+}
+
+@article{DBLP:journals/cacm/ZhouS19,
+  author    = {Zhi Quan Zhou and
+               Liqun Sun},
+  title     = {Metamorphic testing of driverless cars},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {61-67},
+}
+
+@article{DBLP:journals/cacm/ShroffK19,
+  author    = {Gautam M. Shroff and
+               K. Ananth Krishnan},
+  title     = {Computing research at Tata Consultancy Services},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {62-63},
+}
+
+@article{DBLP:journals/cacm/DistefanoFLO19,
+  author    = {Dino Distefano and
+               Manuel Fähndrich and
+               Francesco Logozzo and
+               Peter W. O'Hearn},
+  title     = {Scaling static analyses at Facebook},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {62-70},
+}
+
+@article{DBLP:journals/cacm/Saydjari19,
+  author    = {O. Sami Saydjari},
+  title     = {Engineering trustworthy systems: a principled approach to cybersecurity},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {63-69},
+}
+
+@article{DBLP:journals/cacm/Inverardi19,
+  author    = {Paola Inverardi},
+  title     = {The European perspective on responsible computing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {64},
+}
+
+@article{DBLP:journals/cacm/JaloteN19,
+  author    = {Pankaj Jalote and
+               Pari Natarajan},
+  title     = {The growth and evolution of India's software industry},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {64-69},
+}
+
+@article{DBLP:journals/cacm/WangM19,
+  author    = {Yongge Wang and
+               Qutaibah M. Malluhi},
+  title     = {The limit of blockchains: infeasibility of a smart {Obama-Trump} contract},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {64-69},
+}
+
+@article{DBLP:journals/cacm/MankoffHCHHK19,
+  author    = {Jennifer Mankoff and
+               Megan Hofmann and
+               Xiang 'Anthony' Chen and
+               Scott E. Hudson and
+               Amy Hurst and
+               Jeeeun Kim},
+  title     = {Consumer-grade fabrication and its potential to revolutionize accessibility},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {64-75},
+}
+
+@article{DBLP:journals/cacm/TranSBYZD19,
+  author    = {Nguyen Khoi Tran and
+               Quan Z. Sheng and
+               Muhammad Ali Babar and
+               Lina Yao and
+               Wei Emma Zhang and
+               Schahram Dustdar},
+  title     = {Internet of things search engine},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {66-73},
 }
 
 @article{DBLP:journals/cacm/CopelandS19,
@@ -187,6 +2911,155 @@
   pages     = {66-74},
 }
 
+@article{DBLP:journals/cacm/TennenholtzK19,
+  author    = {Moshe Tennenholtz and
+               Oren Kurland},
+  title     = {Rethinking search engines and recommendation systems: a game theoretic perspective},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {66-75},
+}
+
+@article{DBLP:journals/cacm/Jackson19,
+  author    = {Daniel Jackson},
+  title     = {Alloy: a language and tool for exploring software designs},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {66-76},
+}
+
+@article{DBLP:journals/cacm/BelloSNDASMD19,
+  author    = {Juan Pablo Bello and
+               Cláudio T. Silva and
+               Oded Nov and
+               R. Luke DuBois and
+               Anish Arora and
+               Justin Salamon and
+               Charles Mydlarz and
+               Harish Doraiswamy},
+  title     = {SONYC: a system for monitoring, analyzing, and mitigating urban noise pollution},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {68-77},
+}
+
+@article{DBLP:journals/cacm/SiddharthanPMZH19,
+  author    = {Advaith Siddharthan and
+               Kapila Ponnamperuma and
+               Chris Mellish and
+               Cheng Zeng and
+               Daniel Heptinstall and
+               Annie Robinson and
+               Stuart Benn and
+               René van der Wal},
+  title     = {Blogging birds: telling informative stories about the lives of birds from telemetric data},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {68-77},
+}
+
+@article{DBLP:journals/cacm/Skordas19,
+  author    = {Thomas Skordas},
+  title     = {Toward a European exascale ecosystem: the {EuroHPC} joint undertaking},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {70},
+}
+
+@article{DBLP:journals/cacm/BhattacharyyaMR19,
+  author    = {Pushpak Bhattacharyya and
+               Hema A. Murthy and
+               Surangika Ranathunga and
+               Ranjiva Munasinghe},
+  title     = {Indic language computing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {70-75},
+}
+
+@article{DBLP:journals/cacm/WeldB19,
+  author    = {Daniel S. Weld and
+               Gagan Bansal},
+  title     = {The challenge of crafting intelligible intelligence},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {70-79},
+}
+
+@article{DBLP:journals/cacm/DowneyH19,
+  author    = {Rod Downey and
+               Denis R. Hirschfeldt},
+  title     = {Algorithmic randomness},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {70-80},
+}
+
+@article{DBLP:journals/cacm/BardramJTHV19,
+  author    = {Jakob E. Bardram and
+               Steven Jeuris and
+               Paolo Tell and
+               Steven Houben and
+               Stephen Voida},
+  title     = {Activity-centric computing systems},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {72-81},
+}
+
+@article{DBLP:journals/cacm/StaabHH19,
+  author    = {Steffen Staab and
+               Susan Halford and
+               Wendy Hall},
+  title     = {Web science in Europe: beyond boundaries},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {74},
+}
+
+@article{DBLP:journals/cacm/DomingosL19,
+  author    = {Pedro M. Domingos and
+               Daniel Lowd},
+  title     = {Unifying logical and statistical {AI} with Markov logic},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {74-83},
+}
+
+@article{DBLP:journals/cacm/RaghavanJV19,
+  author    = {Vivek Raghavan and
+               Sanjay Jain and
+               Pramod Varma},
+  title     = {India stack - digital infrastructure as public good},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {76-81},
+}
+
 @article{DBLP:journals/cacm/GilPBBBBCEGHHHK19,
   author    = {Yolanda Gil and
                Suzanne A. Pierce and
@@ -197,12 +3070,12 @@
                Michelle Cheatham and
                Imme Ebert-Uphoff and
                Carla Gomes and
-               Mary Hill and
+               Mary C. Hill and
                John Horel and
                Leslie Hsu and
                Jim Kinter and
                Craig A. Knoblock and
-               David Krum and
+               David M. Krum and
                Vipin Kumar and
                Pierre Lermusiaux and
                Yan Liu and
@@ -224,6 +3097,183 @@
   pages     = {76-84},
 }
 
+@article{DBLP:journals/cacm/HallenD19,
+  author    = {Mark A. Hallen and
+               Bruce Randall Donald},
+  title     = {Protein design by provable algorithms},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {76-84},
+}
+
+@article{DBLP:journals/cacm/Taylor19a,
+  author    = {Michael B. Taylor},
+  title     = {Technical perspective: Bootstrapping a future of open source, specialized hardware},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {78},
+}
+
+@article{DBLP:journals/cacm/FreemanMEMLM19,
+  author    = {Jason Freeman and
+               Brian Magerko and
+               Doug Edwards and
+               Tom McKlin and
+               Taneisha Lee and
+               Roxanne Moore},
+  title     = {EarSketch: engaging broad populations in computing through music},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {78-85},
+}
+
+@article{DBLP:journals/cacm/Herlihy19,
+  author    = {Maurice Herlihy},
+  title     = {Blockchains from a distributed computing perspective},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {78-85},
+}
+
+@article{DBLP:journals/cacm/ZaveR19,
+  author    = {Pamela Zave and
+               Jennifer Rexford},
+  title     = {The compositional architecture of the internet},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {78-87},
+}
+
+@article{DBLP:journals/cacm/BalkindMFNZLSFP19,
+  author    = {Jonathan Balkind and
+               Michael McKeown and
+               Yaosheng Fu and
+               Tri Minh Nguyen and
+               Yanqi Zhou and
+               Alexey Lavrov and
+               Mohammad Shahrad and
+               Adi Fuchs and
+               Samuel Payne and
+               Xiaohua Liang and
+               Matthew Matl and
+               David Wentzlaff},
+  title     = {OpenPiton: an open source hardware platform for your research},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {79-87},
+}
+
+@article{DBLP:journals/cacm/BanerjeeS19,
+  author    = {Subhashis Banerjee and
+               Subodh Sharma},
+  title     = {Privacy concerns with Aadhaar},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {80},
+}
+
+@article{DBLP:journals/cacm/Helland19,
+  author    = {Pat Helland},
+  title     = {Identity by any other name},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {80},
+}
+
+@article{DBLP:journals/cacm/Ives19,
+  author    = {Zachary G. Ives},
+  title     = {Technical perspective: Compressing matrices for large-scale machine learning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {82},
+}
+
+@article{DBLP:journals/cacm/Nikhil19,
+  author    = {Rishiyur S. Nikhil},
+  title     = {Technical perspective: Back to the edge},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {82},
+}
+
+@article{DBLP:journals/cacm/AssisiRR19,
+  author    = {Charles Assisi and
+               Avinash Raghava and
+               N. S. Ramnath},
+  title     = {The rise of the Indian start-up ecosystem},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {82-87},
+}
+
+@article{DBLP:journals/cacm/Ferrara19,
+  author    = {Emilio Ferrara},
+  title     = {The history of digital spam},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {82-91},
+}
+
+@article{DBLP:journals/cacm/ElgoharyBHRR19,
+  author    = {Ahmed Elgohary and
+               Matthias Boehm and
+               Peter J. Haas and
+               Frederick R. Reiss and
+               Berthold Reinwald},
+  title     = {Compressed linear algebra for declarative large-scale machine learning},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {83-91},
+}
+
+@article{DBLP:journals/cacm/NowatzkiGS19,
+  author    = {Tony Nowatzki and
+               Vinay Gangadhar and
+               Karthikeyan Sankaralingam},
+  title     = {Heterogeneous Von Neumann/dataflow microprocessors},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {83-91},
+}
+
+@article{DBLP:journals/cacm/Raiciu19,
+  author    = {Costin Raiciu},
+  title     = {Do you know why your web pages load faster?: technical perspective},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {85},
+}
+
 @article{DBLP:journals/cacm/CaseyKMMM19,
   author    = {William Casey and
                Ansgar Kellner and
@@ -238,6 +3288,122 @@
   pages     = {85-93},
 }
 
+@article{DBLP:journals/cacm/Gilad19,
+  author    = {Yossi Gilad},
+  title     = {Metadata-private communication for the 99%},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {86-93},
+}
+
+@article{DBLP:journals/cacm/KakhkiJCNM19,
+  author    = {Arash Molavi Kakhki and
+               Samuel Jero and
+               David R. Choffnes and
+               Cristina Nita-Rotaru and
+               Alan Mislove},
+  title     = {Taking a long look at QUIC: an approach for rigorous evaluation of rapidly evolving transport protocols},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {86-94},
+}
+
+@article{DBLP:journals/cacm/OHearn19,
+  author    = {Peter W. O'Hearn},
+  title     = {Separation logic},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {86-95},
+}
+
+@article{DBLP:journals/cacm/Appel19,
+  author    = {Andrew W. Appel},
+  title     = {Technical Perspective: The scalability of {CertiKOS}},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {88},
+}
+
+@article{DBLP:journals/cacm/SlossNR19,
+  author    = {Benjamin Treynor Sloss and
+               Shylaja Nukala and
+               Vivek Rau},
+  title     = {Metrics that matter},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {88},
+}
+
+@article{DBLP:journals/cacm/ChakrabortyV19,
+  author    = {Supratik Chakraborty and
+               Vasudeva Varma},
+  title     = {Highlights of software R&D in India},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {88-91},
+}
+
+@article{DBLP:journals/cacm/Roughgarden19,
+  author    = {Tim Roughgarden},
+  title     = {Beyond worst-case analysis},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {88-96},
+}
+
+@article{DBLP:journals/cacm/GuSCKKWSC19,
+  author    = {Ronghui Gu and
+               Zhong Shao and
+               Hao Chen and
+               Jieung Kim and
+               Jérémie Koenig and
+               Xiongnan (Newman) Wu and
+               Vilhelm Sjöberg and
+               David Costanzo},
+  title     = {Building certified concurrent {OS} kernels},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {89-99},
+}
+
+@article{DBLP:journals/cacm/MahajanMS19,
+  author    = {Meena Mahajan and
+               Madhavan Mukund and
+               Nitin Saxena},
+  title     = {Research in theoretical computer science},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {92-95},
+}
+
+@article{DBLP:journals/cacm/Cormode19,
+  author    = {Graham Cormode},
+  title     = {Technical perspective: The true cost of popularity},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {94},
+}
+
 @article{DBLP:journals/cacm/Li19,
   author    = {Hao Li},
   title     = {Technical perspective: Photorealistic facial digitization and manipulation},
@@ -246,6 +3412,79 @@
   number    = {1},
   year      = 2019,
   pages     = {95},
+}
+
+@article{DBLP:journals/cacm/Mor19,
+  author    = {Nitesh Mor},
+  title     = {Research for practice: edge computing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {95},
+}
+
+@article{DBLP:journals/cacm/LarsenNNT19,
+  author    = {Kasper Green Larsen and
+               Jelani Nelson and
+               Huy L. Nguyen and
+               Mikkel Thorup},
+  title     = {Heavy hitters via cluster-preserving clustering},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {95-100},
+}
+
+@article{DBLP:journals/cacm/Hoffmann19a,
+  author    = {Leah Hoffmann},
+  title     = {Reaching new heights with artificial neural networks},
+  journal   = cacm,
+  volume    = {62},
+  number    = {6},
+  year      = 2019,
+  pages     = {96},
+}
+
+@article{DBLP:journals/cacm/Hoffmann19c,
+  author    = {Leah Hoffmann},
+  title     = {{RISCy} beginnings},
+  journal   = cacm,
+  volume    = {62},
+  number    = {12},
+  year      = 2019,
+  pages     = {96},
+}
+
+@article{DBLP:journals/cacm/Lefebvre19,
+  author    = {Sylvain Lefebvre},
+  title     = {Technical perspective: From virtual worlds to digital fabrication},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {96},
+}
+
+@article{DBLP:journals/cacm/MacLeod19,
+  author    = {Ken MacLeod},
+  title     = {Like old times},
+  journal   = cacm,
+  volume    = {62},
+  number    = {5},
+  year      = 2019,
+  pages     = {96},
+}
+
+@article{DBLP:journals/cacm/Shasha19b,
+  author    = {Dennis E. Shasha},
+  title     = {Opioid games},
+  journal   = cacm,
+  volume    = {62},
+  number    = {7},
+  year      = 2019,
+  pages     = {96},
 }
 
 @article{DBLP:journals/cacm/ThiesZSTN19,
@@ -260,6 +3499,128 @@
   number    = {1},
   year      = 2019,
   pages     = {96-104},
+}
+
+@article{DBLP:journals/cacm/Wenisch19,
+  author    = {Thomas F. Wenisch},
+  title     = {How economic theories can help computers beat the heat: technical perspective},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {97},
+}
+
+@article{DBLP:journals/cacm/VidimceWRM19,
+  author    = {Kiril Vidimce and
+               Szu-Po Wang and
+               Jonathan Ragan-Kelley and
+               Wojciech Matusik},
+  title     = {OpenFab: a programmable pipeline for multimaterial fabrication},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {97-105},
+}
+
+@article{DBLP:journals/cacm/Rinard19,
+  author    = {Martin C. Rinard},
+  title     = {Technical perspective: Borrowing big code to automate programming activities},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {98},
+}
+
+@article{DBLP:journals/cacm/GangulyK19,
+  author    = {Niloy Ganguly and
+               Ponnurangam Kumaraguru},
+  title     = {The positive and negative effects of social media in India},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {98-99},
+}
+
+@article{DBLP:journals/cacm/FanZL19,
+  author    = {Songchun Fan and
+               Seyed Majid Zahedi and
+               Benjamin C. Lee},
+  title     = {Distributed strategies for computational sprints},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {98-106},
+}
+
+@article{DBLP:journals/cacm/RaychevVK19,
+  author    = {Veselin Raychev and
+               Martin T. Vechev and
+               Andreas Krause},
+  title     = {Predicting program properties from 'big code'},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {99-107},
+}
+
+@article{DBLP:journals/cacm/KhatriS19,
+  author    = {Vijay Khatri and
+               Binny M. Samuel},
+  title     = {Analytics for managerial work},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {100},
+}
+
+@article{DBLP:journals/cacm/VashisthaSR19,
+  author    = {Aditya Vashistha and
+               Umar Saif and
+               Agha Ali Raza},
+  title     = {The internet of the orals},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {100-103},
+}
+
+@article{DBLP:journals/cacm/Bainbridge19,
+  author    = {William Sims Bainbridge},
+  title     = {Fluid democracy},
+  journal   = cacm,
+  volume    = {62},
+  number    = {8},
+  year      = 2019,
+  pages     = {104},
+}
+
+@article{DBLP:journals/cacm/Shasha19c,
+  author    = {Dennis E. Shasha},
+  title     = {Dust wars},
+  journal   = cacm,
+  volume    = {62},
+  number    = {10},
+  year      = 2019,
+  pages     = {104},
+}
+
+@article{DBLP:journals/cacm/VaccaroW19,
+  author    = {Michelle Vaccaro and
+               Jim Waldo},
+  title     = {The effects of mixing machine learning and human judgment},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {104-110},
 }
 
 @article{DBLP:journals/cacm/Boneh19,
@@ -285,7 +3646,7 @@
                Luke Valenta and
                Benjamin VanderSloot and
                Eric Wustrow and
-               Santiago Zanella-Béguelin and
+               Santiago Zanella Béguelin and
                Paul Zimmermann},
   title     = {Imperfect forward secrecy: how {Diffie-Hellman} fails in practice},
   journal   = cacm,
@@ -293,6 +3654,113 @@
   number    = {1},
   year      = 2019,
   pages     = {106-114},
+}
+
+@article{DBLP:journals/cacm/Chaudhuri19,
+  author    = {Surajit Chaudhuri},
+  title     = {To do or not to do: extending {SQL} with integer linear programming?: technical perspective},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {107},
+}
+
+@article{DBLP:journals/cacm/Vishnoi19,
+  author    = {Nisheeth K. Vishnoi},
+  title     = {Technical perspective: Isolating a matching when your coins go missing},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {108},
+}
+
+@article{DBLP:journals/cacm/BrucatoAM19,
+  author    = {Matteo Brucato and
+               Azza Abouzied and
+               Alexandra Meliou},
+  title     = {Scalable computation of high-order optimization queries},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {108-116},
+}
+
+@article{DBLP:journals/cacm/FennerGT19,
+  author    = {Stephen A. Fenner and
+               Rohit Gurjar and
+               Thomas Thierauf},
+  title     = {A deterministic parallel algorithm for bipartite perfect matching},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {109-115},
+}
+
+@article{DBLP:journals/cacm/Aimone19,
+  author    = {James B. Aimone},
+  title     = {Neural algorithms and computing beyond Moore's law},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {110},
+}
+
+@article{DBLP:journals/cacm/Helland19b,
+  author    = {Pat Helland},
+  title     = {The trade-offs between write and read},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {111-113},
+}
+
+@article{DBLP:journals/cacm/Hoffmann19b,
+  author    = {Leah Hoffmann},
+  title     = {Inspired by the home of the future},
+  journal   = cacm,
+  volume    = {62},
+  number    = {9},
+  year      = 2019,
+  pages     = {112},
+}
+
+@article{DBLP:journals/cacm/AppuswamyGBA19,
+  author    = {Raja Appuswamy and
+               Goetz Graefe and
+               Renata Borovica-Gajic and
+               Anastasia Ailamaki},
+  title     = {The five-minute rule 30 years later and its impact on the storage hierarchy},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {114-120},
+}
+
+@article{DBLP:journals/cacm/Batchelor19,
+  author    = {David Allen Batchelor},
+  title     = {Hawking's nightmare},
+  journal   = cacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2019,
+  pages     = {120},
+}
+
+@article{DBLP:journals/cacm/Hoffmann19,
+  author    = {Leah Hoffmann},
+  title     = {Guiding computers, robots to see and think},
+  journal   = cacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2019,
+  pages     = {120},
 }
 
 @article{DBLP:journals/cacm/Shasha19,
@@ -303,6 +3771,94 @@
   number    = {1},
   year      = 2019,
   pages     = {120},
+}
+
+@article{DBLP:journals/cacm/WalldenK19,
+  author    = {Petros Wallden and
+               Elham Kashefi},
+  title     = {Cyber security in the quantum era},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {120},
+}
+
+@article{DBLP:journals/cacm/PeiBFP19,
+  author    = {Yan Pei and
+               Swarnendu Biswas and
+               Donald S. Fussell and
+               Keshav Pingali},
+  title     = {An elementary introduction to Kalman filtering},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {122-133},
+}
+
+@article{DBLP:journals/cacm/Brassard19,
+  author    = {Gilles Brassard},
+  title     = {Was Edgar Allan Poe wrong after all?: technical perspective},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {132},
+}
+
+@article{DBLP:journals/cacm/VaziraniV19,
+  author    = {Umesh V. Vazirani and
+               Thomas Vidick},
+  title     = {Fully device independent quantum key distribution},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {133},
+}
+
+@article{DBLP:journals/cacm/Andersen19,
+  author    = {David G. Andersen},
+  title     = {Technical perspective: A whitebox solution for blackbox-like behaviors},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {136},
+}
+
+@article{DBLP:journals/cacm/PeiCYJ19,
+  author    = {Kexin Pei and
+               Yinzhi Cao and
+               Junfeng Yang and
+               Suman Jana},
+  title     = {DeepXplore: automated whitebox testing of deep learning systems},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {137-145},
+}
+
+@article{DBLP:journals/cacm/Shasha19a,
+  author    = {Dennis E. Shasha},
+  title     = {Fighting for lava},
+  journal   = cacm,
+  volume    = {62},
+  number    = {4},
+  year      = 2019,
+  pages     = {144},
+}
+
+@article{DBLP:journals/cacm/X19c,
+  author    = {},
+  title     = {Cantando con la Corrente (singing with current)},
+  journal   = cacm,
+  volume    = {62},
+  number    = {11},
+  year      = 2019,
+  pages     = {160},
 }
 
 @article{DBLP:journals/cacm/Alstyne18,
@@ -1268,7 +4824,7 @@
 
 @article{DBLP:journals/cacm/TorresS18,
   author    = {Edwin Torres and
-               Walid Saba},
+               Walid S. Saba},
   title     = {Commenting on code, considering data's bottleneck},
   journal   = cacm,
   volume    = {61},
@@ -2306,7 +5862,7 @@
 }
 
 @article{DBLP:journals/cacm/Baeza-Yates18,
-  author    = {Ricardo A. Baeza-Yates},
+  author    = {Ricardo Baeza-Yates},
   title     = {Bias on the web},
   journal   = cacm,
   volume    = {61},
@@ -2717,7 +6273,7 @@
 }
 
 @article{DBLP:journals/cacm/McDuffC18,
-  author    = {Daniel McDuff and
+  author    = {Daniel J. McDuff and
                Mary Czerwinski},
   title     = {Designing emotionally sentient agents},
   journal   = cacm,
@@ -2909,7 +6465,7 @@
                Yoni Halpern and
                David M. Mimno and
                Ankur Moitra and
-               David Sontag and
+               David A. Sontag and
                Yichen Wu and
                Michael Zhu},
   title     = {Learning topic models - provably and efficiently},
@@ -3610,7 +7166,7 @@
 
 @article{DBLP:journals/cacm/GarfinkelMSS17,
   author    = {Simson L. Garfinkel and
-               Jeanna Matthews and
+               Jeanna N. Matthews and
                Stuart S. Shapiro and
                Jonathan M. Smith},
   title     = {Toward algorithmic transparency and accountability},
@@ -5701,8 +9257,8 @@
                Xuequn Wang and
                Andy Weeger and
                Mahesh S. Raisinghani and
-               Gerald Grant and
-               Otavio Sanchez and
+               Gerald G. Grant and
+               Otávio P. Sanchez and
                Siddhi Pittayachawan},
   title     = {Millennials' attitudes toward {IT} consumerization in the workplace},
   journal   = cacm,
@@ -8542,7 +12098,7 @@
   author    = {Brendan Burns and
                Brian Grant and
                David Oppenheimer and
-               Eric Brewer and
+               Eric A. Brewer and
                John Wilkes},
   title     = {Borg, Omega, and Kubernetes},
   journal   = cacm,
@@ -9068,7 +12624,7 @@
   author    = {Andreas Velten and
                Di Wu and
                Belén Masiá and
-               Adrian Jarabo and
+               Adrián Jarabo and
                Christopher Barsi and
                Chinmaya Joshi and
                Everett Lawson and
@@ -15962,7 +19518,7 @@
 
 @article{DBLP:journals/cacm/BourneN13,
   author    = {Stephen R. Bourne and
-               George Neville-Neil},
+               George V. Neville-Neil},
   title     = {Developing tools and resources for those in practice},
   journal   = cacm,
   volume    = {56},
@@ -21966,7 +25522,7 @@
 }
 
 @article{DBLP:journals/cacm/Vempala12,
-  author    = {Santosh Vempala},
+  author    = {Santosh S. Vempala},
   title     = {Modeling high-dimensional data: technical perspective},
   journal   = cacm,
   volume    = {55},
@@ -24348,7 +27904,7 @@
 }
 
 @article{DBLP:journals/cacm/GreenL11,
-  author    = {Robert C. Green II and
+  author    = {Robert Green and
                Henry Ledgard},
   title     = {Coding guidelines: finding the art in the science},
   journal   = cacm,
@@ -25394,7 +28950,7 @@
                Kirk Glerum and
                Steve Greenberg and
                Gabriel Aul and
-               Vince Orgovan and
+               Vince R. Orgovan and
                Greg Nichols and
                David Grant and
                Gretchen Loihle and
@@ -29640,7 +33196,7 @@
 @article{DBLP:journals/cacm/ChenowethMT10,
   author    = {Tim Chenoweth and
                Robert P. Minch and
-               Sharon Tabor},
+               Sharon W. Tabor},
   title     = {Wireless insecurity: examining user security behavior on public networks},
   journal   = cacm,
   volume    = {53},
@@ -31256,7 +34812,7 @@
 }
 
 @article{DBLP:journals/cacm/Neville-Neil09,
-  author    = {George Neville-Neil},
+  author    = {George V. Neville-Neil},
   title     = {Kode vicious - System changes and side effects},
   journal   = cacm,
   volume    = {52},
@@ -31623,7 +35179,7 @@
 }
 
 @article{DBLP:journals/cacm/Neville-Neil09a,
-  author    = {George Neville-Neil},
+  author    = {George V. Neville-Neil},
   title     = {Kode vicious - Obvious truths},
   journal   = cacm,
   volume    = {52},
@@ -33848,8 +37404,8 @@
 }
 
 @article{DBLP:journals/cacm/BelangerC09,
-  author    = {France Belanger and
-               Lemuria Carter},
+  author    = {France Bélanger and
+               Lemuria D. Carter},
   title     = {The impact of the digital divide on e-government use},
   journal   = cacm,
   volume    = {52},
@@ -34009,7 +37565,7 @@
                Giorgio Orsi and
                Elisa Quintarelli and
                Rosalba Rossato and
-               Fabio A. Schreiber and
+               Fabio Alberto Schreiber and
                Letizia Tanca},
   title     = {And what can context do for data?},
   journal   = cacm,
@@ -35257,7 +38813,7 @@
 }
 
 @article{DBLP:journals/cacm/Neville-Neil08,
-  author    = {George Neville-Neil},
+  author    = {George V. Neville-Neil},
   title     = {Kode vicious: Pride and prejudice (the Vasa)},
   journal   = cacm,
   volume    = {51},
@@ -35308,7 +38864,7 @@
 }
 
 @article{DBLP:journals/cacm/Neville-Neil08b,
-  author    = {George Neville-Neil},
+  author    = {George V. Neville-Neil},
   title     = {Kode vicious - Permanence and change},
   journal   = cacm,
   volume    = {51},
@@ -35519,7 +39075,7 @@
 }
 
 @article{DBLP:journals/cacm/Neville-Neil08a,
-  author    = {George Neville-Neil},
+  author    = {George V. Neville-Neil},
   title     = {Code spelunking redux},
   journal   = cacm,
   volume    = {51},
@@ -36546,7 +40102,7 @@
 
 @article{DBLP:journals/cacm/ChoCKS08,
   author    = {Kwangsu Cho and
-               Tingting Rachel Chung and
+               Tingting (Rachel) Chung and
                William R. King and
                Christian D. Schunn},
   title     = {Peer-based computer-supported knowledge refinement: an empirical investigation},
@@ -37057,7 +40613,7 @@
 
 @article{DBLP:journals/cacm/AdomaviciusBGK08,
   author    = {Gediminas Adomavicius and
-               Jesse Bockstedt and
+               Jesse C. Bockstedt and
                Alok Gupta and
                Robert J. Kauffman},
   title     = {Understanding evolution in technology ecosystems},
@@ -39442,7 +42998,7 @@
 }
 
 @article{DBLP:journals/cacm/HallP07,
-  author    = {Dianne Hall and
+  author    = {Dianne J. Hall and
                David B. Paradice},
   title     = {Investigating value-based decision bias and mediation: do you do as you think?},
   journal   = cacm,
@@ -39717,7 +43273,7 @@
 }
 
 @article{DBLP:journals/cacm/Raghupathi07,
-  author    = {W. Raghupathi},
+  author    = {Wullianallur Raghupathi},
   title     = {Corporate governance of IT: a framework for development},
   journal   = cacm,
   volume    = {50},
@@ -41278,7 +44834,7 @@
 @article{DBLP:journals/cacm/WhiteKDS06,
   author    = {Ryen W. White and
                Bill Kules and
-               Steven M. Drucker and
+               Steven Mark Drucker and
                Monica M. C. Schraefel},
   title     = {Introduction},
   journal   = cacm,
@@ -41549,7 +45105,7 @@
 
 @article{DBLP:journals/cacm/SchraefelWRS06,
   author    = {Monica M. C. Schraefel and
-               Max Wilson and
+               Max L. Wilson and
                Alistair Russell and
                Daniel A. Smith},
   title     = {mSpace: improving information access to multimedia domains with multimodal exploratory search},
@@ -42143,7 +45699,7 @@
 @article{DBLP:journals/cacm/ShneidermanBD06,
   author    = {Ben Shneiderman and
                Benjamin B. Bederson and
-               Steven M. Drucker},
+               Steven Mark Drucker},
   title     = {Find that photo!: interface strategies to annotate, browse, and share},
   journal   = cacm,
   volume    = {49},
@@ -42220,7 +45776,7 @@
 
 @article{DBLP:journals/cacm/CegielskiH06,
   author    = {Casey G. Cegielski and
-               Dianne Hall},
+               Dianne J. Hall},
   title     = {What makes a good programmer?},
   journal   = cacm,
   volume    = {49},
@@ -43106,7 +46662,7 @@
 }
 
 @article{DBLP:journals/cacm/BelangerFSKEPN06,
-  author    = {France Belanger and
+  author    = {France Bélanger and
                Weiguo Fan and
                L. Christian Schaupp and
                Anjala S. Krishen and
@@ -45735,7 +49291,7 @@
 
 @article{DBLP:journals/cacm/BackhouseHTB05,
   author    = {James Backhouse and
-               Carol W. Hsu and
+               Carol Hsu and
                Jimmy C. Tseng and
                John Baptista},
   title     = {A question of trust},
@@ -45974,7 +49530,7 @@
 }
 
 @article{DBLP:journals/cacm/PostonSH05,
-  author    = {Robin Poston and
+  author    = {Robin S. Poston and
                Thomas F. Stafford and
                Amy Hennington},
   title     = {Spyware: a view from the (online) street},
@@ -47392,7 +50948,7 @@
 }
 
 @article{DBLP:journals/cacm/Matloff04,
-  author    = {Norman Matloff},
+  author    = {Norman S. Matloff},
   title     = {Globalization and the American {IT} worker},
   journal   = cacm,
   volume    = {47},
@@ -47988,7 +51544,7 @@
 @article{DBLP:journals/cacm/MyersPK04,
   author    = {Brad A. Myers and
                John F. Pane and
-               Andy Ko},
+               A. J. Ko},
   title     = {Natural programming languages and environments},
   journal   = cacm,
   volume    = {47},
@@ -49321,7 +52877,7 @@
 
 @article{DBLP:journals/cacm/BiehlPM04,
   author    = {Markus Biehl and
-               Edmund Prater and
+               Edmund L. Prater and
                John R. McIntyre},
   title     = {Remote repair, diagnostics, and maintenance},
   journal   = cacm,
@@ -49656,7 +53212,7 @@
   author    = {Diane Crawford},
   title     = {Editorial prints},
   journal   = cacm,
-  volume    = {47},
+  volume    = {46},
   number    = {8},
   year      = 2003,
   pages     = {5-8},
@@ -50309,7 +53865,7 @@
 }
 
 @article{DBLP:journals/cacm/Jain03,
-  author    = {Ramesh Jain},
+  author    = {Ramesh C. Jain},
   title     = {Folk computing},
   journal   = cacm,
   volume    = {46},
@@ -50767,7 +54323,7 @@
 }
 
 @article{DBLP:journals/cacm/ByersK03,
-  author    = {Simon Byers and
+  author    = {Simon D. Byers and
                David P. Kormann},
   title     = {802.11b access point mapping},
   journal   = cacm,
@@ -50958,7 +54514,7 @@
 }
 
 @article{DBLP:journals/cacm/Jain03a,
-  author    = {Ramesh Jain},
+  author    = {Ramesh C. Jain},
   title     = {Experiential computing},
   journal   = cacm,
   volume    = {46},
@@ -52136,7 +55692,7 @@
 
 @article{DBLP:journals/cacm/BackhouseHM03,
   author    = {James Backhouse and
-               Carol W. Hsu and
+               Carol Hsu and
                Aidan McDonnell},
   title     = {Toward public-key infrastructure interoperability},
   journal   = cacm,
@@ -54394,7 +57950,7 @@
 
 @article{DBLP:journals/cacm/HolsappleJ02,
   author    = {Clyde W. Holsapple and
-               Kshiti D. Joshi},
+               K. D. Joshi},
   title     = {A collaborative approach to ontology design},
   journal   = cacm,
   volume    = {45},
@@ -54636,7 +58192,7 @@
 
 @article{DBLP:journals/cacm/PollefeysG02,
   author    = {Marc Pollefeys and
-               Luc J. Van Gool},
+               Luc Van Gool},
   title     = {From images to 3D models},
   journal   = cacm,
   volume    = {45},
@@ -54976,7 +58532,7 @@
 }
 
 @article{DBLP:journals/cacm/BelangerS02,
-  author    = {France Belanger and
+  author    = {France Bélanger and
                Craig Van Slyke},
   title     = {Abuse or learning?},
   journal   = cacm,
@@ -55419,7 +58975,7 @@
 @article{DBLP:journals/cacm/SlykeCB02,
   author    = {Craig Van Slyke and
                Christie L. Comunale and
-               France Belanger},
+               France Bélanger},
   title     = {Gender differences in perceptions of web-based shopping},
   journal   = cacm,
   volume    = {45},
@@ -55450,7 +59006,7 @@
 }
 
 @article{DBLP:journals/cacm/SchambachB02,
-  author    = {Thomas Schambach and
+  author    = {Thomas P. Schambach and
                J. Ellis Blanton},
   title     = {The professional development challenge for {IT} professionals},
   journal   = cacm,
@@ -57464,7 +61020,7 @@
 }
 
 @article{DBLP:journals/cacm/Jain01,
-  author    = {Ramesh Jain},
+  author    = {Ramesh C. Jain},
   title     = {Digital experience},
   journal   = cacm,
   volume    = {44},
@@ -59300,7 +62856,7 @@
                Manish Gupta and
                Pedro V. Artigas and
                Peng Wu and
-               George Almasi},
+               George Almási},
   title     = {The {NINJA} project},
   journal   = cacm,
   volume    = {44},
@@ -59802,7 +63358,7 @@
 @article{DBLP:journals/cacm/BlackburnSW00,
   author    = {Joseph D. Blackburn and
                Gary D. Scudder and
-               Luk Van Wassenhove},
+               Luk N. Van Wassenhove},
   title     = {Concurrent software development},
   journal   = cacm,
   volume    = {43},
@@ -62051,7 +65607,7 @@
 
 @article{DBLP:journals/cacm/BrownFSBBTYWBJ00,
   author    = {Garland Brown and
-               Marshall Fisher and
+               Marshall L. Fisher and
                Ned Stoll and
                Dave Beeksma and
                Mark Black and
@@ -62258,7 +65814,7 @@
 
 @article{DBLP:journals/cacm/HirschheimL00,
   author    = {Rudy Hirschheim and
-               Mary Lacity},
+               Mary C. Lacity},
   title     = {The Myths and Realities of Information Technology Insourcing},
   journal   = cacm,
   volume    = {43},
@@ -65210,7 +68766,7 @@
 
 @article{DBLP:journals/cacm/TruexBK99,
   author    = {Duane P. Truex and
-               Richard Baskerville and
+               Richard L. Baskerville and
                Heinz K. Klein},
   title     = {Growing Systems in Emergent Organizations},
   journal   = cacm,
@@ -67013,7 +70569,7 @@
 
 @article{DBLP:journals/cacm/DuttaWK98,
   author    = {Soumitra Dutta and
-               Luk Van Wassenhove and
+               Luk N. Van Wassenhove and
                Selvan Kulandaiswamy},
   title     = {Benchmarking European Software Management Practices},
   journal   = cacm,
@@ -68260,7 +71816,7 @@
 }
 
 @article{DBLP:journals/cacm/Jain97,
-  author    = {Ramesh Jain},
+  author    = {Ramesh C. Jain},
   title     = {Visual Information Management - Introduction},
   journal   = cacm,
   volume    = {40},
@@ -69081,7 +72637,7 @@
 
 @article{DBLP:journals/cacm/CooperstockFBS97,
   author    = {Jeremy R. Cooperstock and
-               Sidney Fels and
+               Sidney S. Fels and
                William Buxton and
                Kenneth C. Smith},
   title     = {Reactive Environments},
@@ -69317,7 +72873,7 @@
 @article{DBLP:journals/cacm/KonstanMMHGR97,
   author    = {Joseph A. Konstan and
                Bradley N. Miller and
-               David Maltz and
+               David A. Maltz and
                Jonathan L. Herlocker and
                Lee R. Gordon and
                John Riedl},
@@ -75055,7 +78611,7 @@
 
 @article{DBLP:journals/cacm/WatsonHR94,
   author    = {Richard T. Watson and
-               Teck Hua Ho and
+               Teck-Hua Ho and
                K. S. Raman},
   title     = {Culture: A Fourth Dimension of Group Support},
   journal   = cacm,
@@ -76391,7 +79947,7 @@
 
 @article{DBLP:journals/cacm/ClementB93,
   author    = {Andrew Clement and
-               Peter Van den Besselaar},
+               Peter van den Besselaar},
   title     = {A Retrospective Look at {PD} Projects},
   journal   = cacm,
   volume    = {36},
@@ -77549,7 +81105,7 @@
   author    = {Ronald E. Anderson and
                Deborah G. Johnson and
                Donald Gotterbarn and
-               Judith Perolle},
+               Judith A. Perrolle},
   title     = {Using the New {ACM} Code of Ethics in Decision Making},
   journal   = cacm,
   volume    = {36},
@@ -78627,7 +82183,7 @@
                Keith Waters and
                Michael Doyle and
                Jim Gettys and
-               Kirsten M. Harris and
+               Kristen M. Harris and
                Thoms M. Levergood and
                Ricky S. Palmer and
                Lawrence G. Palmer and
@@ -82235,6 +85791,16 @@
   pages     = {546-562},
 }
 
+@article{DBLP:journals/cacm/Samuelson89a,
+  author    = {Pamela Samuelson},
+  title     = {Why the look and feel of software user interfaces should not be protected by copyright law},
+  journal   = cacm,
+  volume    = {32},
+  number    = {5},
+  year      = 1989,
+  pages     = {563-572},
+}
+
 @article{DBLP:journals/cacm/Yen89,
   author    = {John Yen},
   title     = {GERTIS: A {Dempster-Shafer} Approach to Diagnosing Hierarchical Hypotheses},
@@ -83698,9 +87264,9 @@
 
 @article{DBLP:journals/cacm/ArcherCHL88,
   author    = {Norman P. Archer and
-               M. W. L. Chan and
-               S. J. Huang and
-               R. T. Liu},
+               M. W. Luke Chan and
+               Shu-Ji Huang and
+               Rui-Ting Liu},
   title     = {A {Chinese-English} Microcomputer System},
   journal   = cacm,
   volume    = {31},
@@ -83900,7 +87466,7 @@
 
 @article{DBLP:journals/cacm/RubinsteinSS88,
   author    = {David Rubinstein and
-               Jeffrey Shallit and
+               Jeffrey O. Shallit and
                Mario Szegedy},
   title     = {A Subset Coloring Algorithm and Its Applications to Computer Graphics},
   journal   = cacm,
@@ -84290,6 +87856,50 @@
   number    = {3},
   year      = 1987,
   pages     = {250-259},
+}
+
+@article{DBLP:journals/cacm/Bentley84,
+  author    = {Jon Louis Bentley},
+  title     = {Abstract Data Types},
+  journal   = cacm,
+  volume    = {30},
+  number    = {4},
+  year      = 1987,
+  pages     = {284-290},
+}
+
+@article{DBLP:journals/cacm/SpectorG84,
+  author    = {Alfred Z. Spector and
+               David K. Gifford},
+  title     = {Case Study: {IBM's} System/360-370 Architecture},
+  journal   = cacm,
+  volume    = {30},
+  number    = {4},
+  year      = 1987,
+  pages     = {291-307},
+}
+
+@article{DBLP:journals/cacm/Ein-DorF84,
+  author    = {Phillip Ein-Dor and
+               Jacob Feldmesser},
+  title     = {Attributes of the Performance of Central Processing Units: A Relative Performance Prediction Model},
+  journal   = cacm,
+  volume    = {30},
+  number    = {4},
+  year      = 1987,
+  pages     = {308-317},
+}
+
+@article{DBLP:journals/cacm/SanzDP84,
+  author    = {Jorge L. C. Sanz and
+               Its'hak Dinstein and
+               Dragutin Petkovic},
+  title     = {Computing {Multi-Colored} Polygonal Masks in Pipeline Architectures and Its Application to Automated Visual Inspection},
+  journal   = cacm,
+  volume    = {30},
+  number    = {4},
+  year      = 1987,
+  pages     = {318-329},
 }
 
 @article{DBLP:journals/cacm/Berztiss87,
@@ -86645,7 +90255,7 @@
 
 @article{DBLP:journals/cacm/ShearerW85,
   author    = {J. M. Shearer and
-               M. A. Wolfe},
+               Michael A. Wolfe},
   title     = {ALGLIB, A Simple {Symbol-Manipulation} Package},
   journal   = cacm,
   volume    = {28},
@@ -87260,16 +90870,6 @@
   pages     = {248-249},
 }
 
-@article{DBLP:journals/cacm/Bentley84,
-  author    = {Jon Louis Bentley},
-  title     = {Abstract Data Types},
-  journal   = cacm,
-  volume    = {30},
-  number    = {4},
-  year      = 1984,
-  pages     = {284-290},
-}
-
 @article{DBLP:journals/cacm/Bentley84c,
   author    = {Jon Louis Bentley},
   title     = {How to Sort},
@@ -87278,17 +90878,6 @@
   number    = {4},
   year      = 1984,
   pages     = {287-291},
-}
-
-@article{DBLP:journals/cacm/SpectorG84,
-  author    = {Alfred Z. Spector and
-               David K. Gifford},
-  title     = {Case Study: {IBM's} System/360-370 Architecture},
-  journal   = cacm,
-  volume    = {30},
-  number    = {4},
-  year      = 1984,
-  pages     = {291-307},
 }
 
 @article{DBLP:journals/cacm/Dallaire84,
@@ -87321,17 +90910,6 @@
   pages     = {304-311},
 }
 
-@article{DBLP:journals/cacm/Ein-DorF84,
-  author    = {Phillip Ein-Dor and
-               Jacob Feldmesser},
-  title     = {Attributes of the Performance of Central Processing Units: A Relative Performance Prediction Model},
-  journal   = cacm,
-  volume    = {30},
-  number    = {4},
-  year      = 1984,
-  pages     = {308-317},
-}
-
 @article{DBLP:journals/cacm/DenningPNW84,
   author    = {Peter J. Denning and
                Donn B. Parker and
@@ -87343,18 +90921,6 @@
   number    = {4},
   year      = 1984,
   pages     = {312-321},
-}
-
-@article{DBLP:journals/cacm/SanzDP84,
-  author    = {Jorge L. C. Sanz and
-               Its'hak Dinstein and
-               Dragutin Petkovic},
-  title     = {Computing {Multi-Colored} Polygonal Masks in Pipeline Architectures and Its Application to Automated Visual Inspection},
-  journal   = cacm,
-  volume    = {30},
-  number    = {4},
-  year      = 1984,
-  pages     = {318-329},
 }
 
 @article{DBLP:journals/cacm/Tucker84,
@@ -88423,7 +91989,7 @@
 
 @article{DBLP:journals/cacm/KukiC83,
   author    = {H. Kuki and
-               W. J. Cody},
+               William J. Cody},
   title     = {A Statistical Study of the Accuracy of Floating Point Number Systems},
   journal   = cacm,
   volume    = {26},
@@ -90317,7 +93883,7 @@
 }
 
 @article{DBLP:journals/cacm/LangerS82,
-  author    = {A. M. Langer and
+  author    = {Arthur M. Langer and
                Annie W. Shum},
   title     = {The Distribution of Granule Accesses Made by Database Transactions},
   journal   = cacm,
@@ -91510,7 +95076,7 @@
 
 @article{DBLP:journals/cacm/SethiC80,
   author    = {Ishwar K. Sethi and
-               B. Chatterjee},
+               Biswanath Chattkerjee},
   title     = {Conversion of Decision Tables to Efficient Sequential Testing Procedures},
   journal   = cacm,
   volume    = {23},
@@ -97551,7 +101117,7 @@
 
 @article{DBLP:journals/cacm/WunderlichS74,
   author    = {Marvin C. Wunderlich and
-               J. L. Selfridge},
+               John L. Selfridge},
   title     = {A Design for a Number Theory Package with an Optimized Trial Division Routine},
   journal   = cacm,
   volume    = {17},
@@ -98792,7 +102358,7 @@
 
 @article{DBLP:journals/cacm/KukiC73,
   author    = {H. Kuki and
-               W. J. Cody},
+               William J. Cody},
   title     = {A Statistical Study of the Accuracy of Floating Point Number Systems},
   journal   = cacm,
   volume    = {16},
@@ -99923,7 +103489,7 @@
 }
 
 @article{DBLP:journals/cacm/Patterson73,
-  author    = {T. N. L. Patterson},
+  author    = {Thomas N. L. Patterson},
   title     = {Algorithm for Automatic Numerical Integration Over a Finite Interval [D1] (Algorithm 468)},
   journal   = cacm,
   volume    = {16},
@@ -100911,7 +104477,7 @@
 }
 
 @article{DBLP:journals/cacm/Fraser72,
-  author    = {A. G. Fraser},
+  author    = {Alexander G. Fraser},
   title     = {On the Interface Between Computers and Data Communications Systems},
   journal   = cacm,
   volume    = {15},
@@ -102329,7 +105895,7 @@
 }
 
 @article{DBLP:journals/cacm/Fraser71,
-  author    = {A. G. Fraser},
+  author    = {Alexander G. Fraser},
   title     = {On the Meaning of Names in Programming Systems},
   journal   = cacm,
   volume    = {14},
@@ -102682,7 +106248,7 @@
 }
 
 @article{DBLP:journals/cacm/Lyness71,
-  author    = {J. N. Lyness},
+  author    = {James N. Lyness},
   title     = {{ENTCAF} and ENTCRE: Evaluation of Normalized Taylor Coefficients of an Analytic Function [C5] (Algorithm 413)},
   journal   = cacm,
   volume    = {14},
@@ -103479,7 +107045,7 @@
 }
 
 @article{DBLP:journals/cacm/Lyness70,
-  author    = {J. N. Lyness},
+  author    = {James N. Lyness},
   title     = {Algorithm 379: Squank (Simpson Quadrature used adaptivity - noise killed) [D1]},
   journal   = cacm,
   volume    = {13},
@@ -104275,7 +107841,7 @@
 }
 
 @article{DBLP:journals/cacm/CodyP70,
-  author    = {W. J. Cody and
+  author    = {William J. Cody and
                Kathleen A. Paciorek},
   title     = {Remark on algorithm 292: Regular Coulomb wave functions},
   journal   = cacm,
@@ -106310,7 +109876,7 @@
 }
 
 @article{DBLP:journals/cacm/Cobb69,
-  author    = {S. M. Cobb},
+  author    = {Stanley M. Cobb},
   title     = {Certification of algorithm 47 [S16]: associated Legendre functions of the first kind for real or imaginary arguments},
   journal   = cacm,
   volume    = {12},
@@ -108518,7 +112084,7 @@
 }
 
 @article{DBLP:journals/cacm/CodyR67,
-  author    = {W. J. Cody and
+  author    = {William J. Cody and
                Anthony Ralston},
   title     = {A note on computing approximations to the exponential function},
   journal   = cacm,
@@ -109300,7 +112866,7 @@
 @article{DBLP:journals/cacm/EvansHL67,
   author    = {J. W. Evans and
                Frank Harary and
-               M. S. Lynn},
+               M. Stuart Lynn},
   title     = {On the computer enumeration of finite topologies},
   journal   = cacm,
   volume    = {10},
@@ -109629,7 +113195,7 @@
 }
 
 @article{DBLP:journals/cacm/Wright67,
-  author    = {K. Wright},
+  author    = {Kenneth Wright},
   title     = {Letters to the editor: on Bellman's method for unstable linear systems},
   journal   = cacm,
   volume    = {10},
@@ -112681,7 +116247,7 @@
 }
 
 @article{DBLP:journals/cacm/Samet65,
-  author    = {P. A. Samet},
+  author    = {Paul A. Samet},
   title     = {Subroutine assembly},
   journal   = cacm,
   volume    = {8},
@@ -112874,7 +116440,7 @@
 }
 
 @article{DBLP:journals/cacm/Samet65a,
-  author    = {P. A. Samet},
+  author    = {Paul A. Samet},
   title     = {Certification of algorithm 234 [S23]: {Poisson-Charlier} polynomials},
   journal   = cacm,
   volume    = {8},
@@ -115385,7 +118951,7 @@
 }
 
 @article{DBLP:journals/cacm/Barron64,
-  author    = {D. W. Barron},
+  author    = {David W. Barron},
   title     = {More views on monitor systems},
   journal   = cacm,
   volume    = {7},
@@ -116190,7 +119756,7 @@
 }
 
 @article{DBLP:journals/cacm/SametT64,
-  author    = {P. A. Samet and
+  author    = {Paul A. Samet and
                P. J. Taylor},
   title     = {Comments on the {ALCOR} group represenatation of of {ALGOL} symbols},
   journal   = cacm,
@@ -117035,7 +120601,8 @@
 }
 
 @article{DBLP:journals/cacm/Halton64,
-  author    = {J. H. Halton},
+  author    = {J. H. Halton and
+               G. B. Smith},
   title     = {Algorithm 247: Radical-inverse quasi-random point sequence},
   journal   = cacm,
   volume    = {7},
@@ -124978,7 +128545,7 @@
 }
 
 @article{DBLP:journals/cacm/Fotheringham61,
-  author    = {John Fotheringham},
+  author    = {John A. Fotheringham},
   title     = {Dynamic storage allocation in the Atlas computer, including an automatic use of a backing store},
   journal   = cacm,
   volume    = {4},
