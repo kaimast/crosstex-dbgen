@@ -23,6 +23,21 @@ make xtx
 make install
 ```
 
+## Usage
+To use the installed database in your library just include the particular conference file. E.g., to cite the Paxos paper add the TOCS journal to your bibliography,
+
+```
+@include tocs
+```
+
+In the associated latex source code you can then cite the paper like so.
+
+```
+\cite{DBLP:journals/tocs/Lamport98}
+```
+
+That's it.
+
 ## Adding new content
 
 First, add the conference/journal/workshop to the bottom of dblpparse.py. Then run `make clean && make xtx`

@@ -1,10 +1,16 @@
+# DBLP files
 dblp.dtd
 dblp.xml
 dblp.xml.pp
 dblp.xml.gz
+
+# python cache files
 __pycache__
-latex.pyc
-locations.pyc
-overrides.pyc
-parentheticals.pyc
+*.pyc
+
 xtx/TIMESTAMP
+
+# VIM swap files
+*.swp
+*.swo
+*.swn
