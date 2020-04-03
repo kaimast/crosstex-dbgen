@@ -12,6 +12,12 @@ CONFERENCE_LOCATIONS = {
                     ,2017: ('Belgrade', 'apr')
                     ,2015: ('Bordeaux', 'apr')
                     }
+    ,'fc':          {2020: ('KotaKinabalu', 'feb')
+                    ,2019: ('FrigateBay', 'feb')
+                    ,2018: ('PortaBlancu', 'feb')
+                    ,2017: ('Sliema', 'feb')
+                    ,2016: ('ChristChurch', 'feb')
+                    }
     ,'hotos':       {2015: ('Kartause Ittingen', 'may')
                     ,2013: ('SantaAnaPueblo', 'may')
                     ,2011: ('Napa', 'may')
