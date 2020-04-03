@@ -3,9 +3,9 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
 
 CONFERENCE_LOCATIONS = {
      '':{}
-    ,'crypto':      {1989: ('Santa Barbara', 'aug')
-                    ,1987: ('Santa Barbara', 'aug')
-                    ,1981: ('Santa Barbara', 'aug')
+    ,'crypto':      {1989: ('SantaBarbara', 'aug')
+                    ,1987: ('SantaBarbara', 'aug')
+                    ,1981: ('SantaBarbara', 'aug')
                     }
     ,'eurosys':     {2019: ('Dresden', 'mar')
                     ,2018: ('Porto', 'apr')
