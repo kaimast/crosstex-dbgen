@@ -275,7 +275,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Calgary', {'city': 'Calgary', 'country': 'Canada'})
                  ,('CambridgeUK', {'city': 'Cambridge', 'country': 'UK'})
                  ,('Canberra', {'city': 'Canberra', 'country': 'Oz'})
-                 ,('Cancun', {'city': 'Canc{\\\'u}n', 'country': 'Mexico'})
+                 ,('Cancun', {'city': 'Cancún', 'country': 'Mexico'})
                  ,('Cannes', {'city': 'Cannes', 'country': 'France'})
                  ,('Cascais', {'city': 'Cascais', 'country': 'Portugal'})
                  ,('Chiba', {'city': 'Chiba', 'country': 'Japan'})
@@ -385,7 +385,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('WestBerlin', {'city': 'West Berlin', 'country': 'Germany'})
                  ,('Winnipeg', {'city': 'Winnipeg', 'country': 'Canada'})
                  ,('Yokohama', {'city': 'Yokohama', 'country': 'Japan'})
-                 ,('Zurich', {'city': 'Z{\\"}urich', 'country': 'Switzerland'})
+                 ,('Zurich', {'city': 'Zürich', 'country': 'Switzerland'})
                  ]
 
 # Ambiguous locations are resolved by looking for clarifying locations
@@ -398,7 +398,7 @@ LOCATION_AMBIGUITIES = {'Arlington': {'Texas': 'ArlingtonTX',
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf
 LOCATION_ALIASES = {'99Atlanta': 'Atlanta'
                    ,'alzburg': 'Salzburg'
-                   ,u'Canc\xfan': 'Cancun'
+                   ,'Cancún': 'Cancun'
                    ,'Elmau/Oberbayern': 'ElmauOberbayern'
                    ,'Lihue(Kauai)': 'Lihue'
                    ,'Lisboa': 'Lisbon'

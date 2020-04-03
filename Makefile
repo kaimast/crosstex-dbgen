@@ -16,7 +16,7 @@ xtx: xtx/TIMESTAMP
 pre-wipe:
 	rm -f xtx/*
 
-xtx/TIMESTAMP: dblp.xml dblp.dtd dblpparse.py latex.py pre-wipe xtx/locations.xtx  overrides.py  parentheticals.py
+xtx/TIMESTAMP: dblp.xml dblp.dtd dblpparse.py pre-wipe xtx/locations.xtx  overrides.py  parentheticals.py
 	python3 dblpparse.py
 
 xtx/locations.xtx: locations.py
