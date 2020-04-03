@@ -594,6 +594,7 @@ class DBLPProcessor:
 d = DBLPProcessor(infilename='dblp.xml', cachefilename='dblp.xml.pp', outdir='xtx')
 d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('cikm',        'CIKM', 'International Conference on Information and Knowledge Management')
+d.add_conference('crypto',      'CRYPTO', 'Annual International Cryptology Conference')
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
 d.add_conference('focs',        'FOCS', 'Symposium on Foundations of Computer Science')
 d.add_conference('fast',        'FAST', 'Conference on File and Storage Technologies')

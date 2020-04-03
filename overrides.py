@@ -3,12 +3,19 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
 
 CONFERENCE_LOCATIONS = {
      '':{}
+    ,'crypto':      {1989: ('Santa Barbara', 'aug')
+                    ,1987: ('Santa Barbara', 'aug')
+                    ,1981: ('Santa Barbara', 'aug')
+                    }
     ,'eurosys':     {2019: ('Dresden', 'mar')
                     ,2018: ('Porto', 'apr')
                     ,2017: ('Belgrade', 'apr')
                     ,2015: ('Bordeaux', 'apr')
                     }
-    ,'hotos':       {2009: ('MonteVerita', 'may')
+    ,'hotos':       {2015: ('Kartause Ittingen', 'may')
+                    ,2013: ('SantaAnaPueblo', 'may')
+                    ,2011: ('Napa', 'may')
+                    ,2009: ('MonteVerita', 'may')
                     ,2001: ('ElmauOberbayern', 'may')
                     }
     ,'icdcs':       {2002: ('Vienna', 'jul')
@@ -72,6 +79,24 @@ CONFERENCE_LOCATIONS = {
                     ,1983: ('SanJose', 'may')
                     }
     ,'oakland':     {2010: ('Berkeley', 'may')
+                    }
+    ,'osdi':        {2018: ('Carlsbad', 'oct')
+                    ,2014: ('Broomfield', 'oct')
+                    ,2012: ('Hollywood', 'oct')
+                    }
+    ,'vldb':        {2018: ('Rio', 'aug')
+                    ,2015: ('KohalaCoast', 'aug')
+                    ,2014: ('Hangzhou', 'sep')
+                    ,2010: ('Singapore', 'sep')
+                    ,2009: ('Lyon', 'aug')
+                    ,2007: ('Vienna', 'sep')
+                    ,2003: ('Berlin', 'sep')
+                    ,2001: ('Rome', 'sep')
+                    ,2000: ('Cairo', 'sep')
+                    ,1996: ('Mumbai', 'sep')
+                    ,1994: ('Santiago', 'sep')
+                    ,1979: ('Rio', 'oct')
+                    ,1978: ('WestBerlin', 'sep')
                     }
     }
 
