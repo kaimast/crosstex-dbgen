@@ -2,6 +2,12 @@
 @include locations
 @include conferences-cs-todo
 
+@conference{aft,
+  shortname = "AFT",
+  longname  = "Advances in Financial Technologies",
+  [year=2019] address=Zurich, month=oct,
+}
+
 @conference{cikm,
   shortname = "CIKM",
   longname  = "International Conference on Information and Knowledge Management",
