@@ -413,4 +413,6 @@ u'o, \u03ba',
 'xquery by example',
 ])
 
-TRANSLATE = {'ISDN, panel': 'ISDN'}
+TRANSLATE = {
+    'ISDN, panel': 'ISDN',
+}

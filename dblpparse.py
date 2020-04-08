@@ -52,7 +52,8 @@ class CitationContainer:
         title = citeattrs['title']
         stack = []
         openparen = title.find('(')
-        equation = None
+        equation= None
+
         if openparen >= 0:
             stack.append(openparen)
             ptr = openparen + 1
@@ -60,6 +61,7 @@ class CitationContainer:
                title[openparen - 1] not in string.whitespace and \
                equation is None:
                 equation = openparen
+
         while stack:
             openparen = title.find('(', ptr)
             openparen = openparen if openparen >= 0 else len(title)
@@ -77,23 +79,31 @@ class CitationContainer:
             elif openparen > closeparen:
                 substr = title[stack[-1] + 1:closeparen]
                 if substr.lower() in parentheticals.BLACKLIST:
+                    # remove paren from title
                     prefix = title[:stack[-1]].strip(' ')
                     suffix = title[closeparen + 1:].strip(' ')
                     title = prefix + ' ' + suffix
+
+                    # move to next paren
                     if equation == stack[-1]:
                         equation = None
                     stack.pop()
                     if stack:
                         ptr = stack[-1] + 1
+
                 elif substr.lower() in parentheticals.WHITELIST:
+                    # do nothing; move to next paren
                     ptr = closeparen + 1
                     if equation == stack[-1]:
                         equation = None
                     stack.pop()
+
                 elif substr in parentheticals.TRANSLATE:
+                    # replace the paren
                     replace = parentheticals.TRANSLATE[substr]
                     title = title[:stack[-1] + 1] + replace + title[closeparen:]
                     ptr = stack[-1] + len(replace) + 2
+
                     if equation == stack[-1]:
                         equation = None
                     stack.pop()
