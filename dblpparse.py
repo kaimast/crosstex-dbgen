@@ -676,6 +676,6 @@ d.add_journal('ibmsj',          'IBM Systems Journal')
 d.add_journal('login',          ';login:', )
 d.add_journal('mms',            'Multimedia Systems Journal', names=('Multimedia Syst.',))
 d.add_journal('scp',            'Science of Computer Programming', names=('Sci. Comput. Program.',))
-d.add_journal('pvldb',          'PVLDB', 'Proceedings of the VLDB Endowment')
+d.add_journal('pvldb',          'PVLDB', 'Proceedings of the VLDB Endowment', names=('The VLDB Journal', 'Proc. VLDB Endow.'))
 
 d.process()
