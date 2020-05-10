@@ -200,7 +200,8 @@ class Conference(CitationContainer):
             print('ERROR:  key "%s" has no attribute "year"' % citekey)
             return
         if 'pages' not in citeattrs:
-            print('INFO:  key "%s" has no attribute "pages"' % citekey)
+            #print('INFO:  key "%s" has no attribute "pages"' % citekey)
+            pass
         try:
             citeattrs['year'] = int(citeattrs['year'])
         except ValueError:
@@ -606,8 +607,9 @@ d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('ccs',         'CCS', 'Computer and Communications Security')
 d.add_conference('cikm',        'CIKM', 'International Conference on Information and Knowledge Management')
 d.add_conference('crypto',      'CRYPTO', 'Annual International Cryptology Conference')
+d.add_conference('eurosp',      'Euro S&P', 'European Symposium on Security and Privacy', names=('{IEEE} European Symposium on Security and Privacy', 'EuroS&P', 'EuroS&P Workshops'), prefixes=('conf/eurosp',))
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
-d.add_conference('fc',          'FC', 'Financial Cryptography and Data Security', prefixes=('conf/fc',), names=('Financial Cryptography',))
+d.add_conference('fc',          'FC', 'Financial Cryptography and Data Security', names=('Financial Cryptography',))
 d.add_conference('focs',        'FOCS', 'Symposium on Foundations of Computer Science')
 d.add_conference('fast',        'FAST', 'Conference on File and Storage Technologies')
 d.add_conference('hicss',       'HICSS', 'Hawaii International International Conference on Systems')

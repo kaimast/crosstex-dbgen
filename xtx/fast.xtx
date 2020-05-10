@@ -1,5 +1,303 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fast/WangZXX20,
+  author    = {Li Wang and
+               Yiming Zhang and
+               Jiawei Xu and
+               Guangtao Xue},
+  title     = {MAPX: Controlled Data Migration in the Expansion of Decentralized {Object-Based} Storage Systems},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/fast/ChenZ0ZQCLX20,
+  author    = {Jian Chen and
+               Minghao Zhao and
+               Zhenhua Li and
+               Ennan Zhai and
+               Feng Qian and
+               Hongyi Chen and
+               Yunhao Liu and
+               Tianyin Xu},
+  title     = {{Lock-Free} Collaboration Support for Cloud Storage Services with Operation Inference and Transformation},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {13-27},
+}
+
+@inproceedings{DBLP:conf/fast/CaoLCZLWOWWKLZZ20,
+  author    = {Wei Cao and
+               Yang Liu and
+               Zhushi Cheng and
+               Ning Zheng and
+               Wei Li and
+               Wenjie Wu and
+               Linqiang Ouyang and
+               Peng Wang and
+               Yijing Wang and
+               Ray Kuan and
+               Zhenjun Liu and
+               Feng Zhu and
+               Tong Zhang},
+  title     = {{POLARDB} Meets Computational Storage: Efficiently Support Analytical Workloads in {Cloud-Native} Relational Database},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {29-41},
+}
+
+@inproceedings{DBLP:conf/fast/CaoKZ20,
+  author    = {Zhen Cao and
+               Geoff Kuenning and
+               Erez Zadok},
+  title     = {Carver: Finding Important Parameters for Storage System Tuning},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {43-57},
+}
+
+@inproceedings{DBLP:conf/fast/HeWKAA20,
+  author    = {Jun He and
+               Kan Wu and
+               Sudarsun Kannan and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Read as Needed: Building WiSER, a {Flash-Optimized} Search Engine},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {59-73},
+}
+
+@inproceedings{DBLP:conf/fast/0001CJMGBFJJPY20,
+  author    = {Yang Zhan and
+               Alexander Conway and
+               Yizheng Jiao and
+               Nirjhar Mukherjee and
+               Ian Groombridge and
+               Michael A. Bender and
+               Martin Farach-Colton and
+               William Jannen and
+               Rob Johnson and
+               Donald E. Porter and
+               Jun Yuan},
+  title     = {How to Copy Files},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {75-89},
+}
+
+@inproceedings{DBLP:conf/fast/PatelBLWCRT20,
+  author    = {Tirthak Patel and
+               Suren Byna and
+               Glenn K. Lockwood and
+               Nicholas J. Wright and
+               Philip H. Carns and
+               Robert B. Ross and
+               Devesh Tiwari},
+  title     = {Uncovering Access, Reuse, and Sharing Characteristics of I/{O-Intensive} Files on {Large-Scale} Production {HPC} Systems},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {91-101},
+}
+
+@inproceedings{DBLP:conf/fast/Patel0T20,
+  author    = {Tirthak Patel and
+               Rohan Garg and
+               Devesh Tiwari},
+  title     = {GIFT: A Coupon Based {Throttle-and-Reward} Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {103-119},
+}
+
+@inproceedings{DBLP:conf/fast/0048KSJ20,
+  author    = {Jie Zhang and
+               Miryeong Kwon and
+               Michael M. Swift and
+               Myoungsoo Jung},
+  title     = {Scalable Parallel Flash Firmware for Many-core Architectures},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {121-136},
+}
+
+@inproceedings{DBLP:conf/fast/ManeasMES20,
+  author    = {Stathis Maneas and
+               Kaveh Mahdaviani and
+               Tim Emami and
+               Bianca Schroeder},
+  title     = {A Study of {SSD} Reliability in Large Scale Enterprise Storage Deployments},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {137-149},
+}
+
+@inproceedings{DBLP:conf/fast/LuLPYTS20,
+  author    = {Sidi Lu and
+               Bing Luo and
+               Tirthak Patel and
+               Yongtao Yao and
+               Devesh Tiwari and
+               Weisong Shi},
+  title     = {Making Disk Failure Predictions SMARTer!},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {151-167},
+}
+
+@inproceedings{DBLP:conf/fast/YangKHIS20,
+  author    = {Jian Yang and
+               Juno Kim and
+               Morteza Hoseinzadeh and
+               Joseph Izraelevitz and
+               Steven Swanson},
+  title     = {An Empirical Guide to the Behavior and Use of Scalable Persistent Memory},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {169-182},
+}
+
+@inproceedings{DBLP:conf/fast/KwonGLKHJ20,
+  author    = {Miryeong Kwon and
+               Donghyun Gouk and
+               Changrim Lee and
+               Byounggeun Kim and
+               Jooyoung Hwang and
+               Myoungsoo Jung},
+  title     = {DC-Store: Eliminating Noisy Neighbor Containers using Deterministic I/O Performance and Resource Isolation},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {183-191},
+}
+
+@inproceedings{DBLP:conf/fast/NachmanYS20,
+  author    = {Aviv Nachman and
+               Gala Yadgar and
+               Sarai Sheinvald},
+  title     = {GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {193-207},
+}
+
+@inproceedings{DBLP:conf/fast/CaoDVD20,
+  author    = {Zhichao Cao and
+               Siying Dong and
+               Sagar Vemuri and
+               David H. C. Du},
+  title     = {Characterizing, Modeling, and Benchmarking {RocksDB} {Key-Value} Workloads at Facebook},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {209-223},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangWCXYHZH0CH20,
+  author    = {Teng Zhang and
+               Jianying Wang and
+               Xuntao Cheng and
+               Hao Xu and
+               Nanlong Yu and
+               Gui Huang and
+               Tieying Zhang and
+               Dengcheng He and
+               Feifei Li and
+               Wei Cao and
+               Zhongdong Huang and
+               Jianling Sun},
+  title     = {{FPGA-Accelerated} Compactions for {LSM-based} {Key-Value} Store},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {225-237},
+}
+
+@inproceedings{DBLP:conf/fast/ChenCWZSL020,
+  author    = {Jiqiang Chen and
+               Liang Chen and
+               Sheng Wang and
+               Guoyun Zhu and
+               Yuanyuan Sun and
+               Huan Liu and
+               Feifei Li},
+  title     = {HotRing: A {Hotspot-Aware} {In-Memory} {Key-Value} Store},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {239-252},
+}
+
+@inproceedings{DBLP:conf/fast/WangLC0YDY20,
+  author    = {Shucheng Wang and
+               Ziyi Lu and
+               Qiang Cao and
+               Hong Jiang and
+               Jie Yao and
+               Yuanyuan Dong and
+               Puyuan Yang},
+  title     = {BCW: {Buffer-Controlled} Writes to {HDDs} for {SSD-HDD} Hybrid Storage Server},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {253-266},
+}
+
+@inproceedings{DBLP:conf/fast/WangZMARST0C20,
+  author    = {Ao Wang and
+               Jingyuan Zhang and
+               Xiaolong Ma and
+               Ali Anwar and
+               Lukas Rupprecht and
+               Dimitrios Skourtis and
+               Vasily Tarasov and
+               Feng Yan and
+               Yue Cheng},
+  title     = {InfiniCache: Exploiting Ephemeral Serverless Functions to Build a {Cost-Effective} Memory Cache},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {267-281},
+}
+
+@inproceedings{DBLP:conf/fast/KumarS20,
+  author    = {Abhishek Vijaya Kumar and
+               Muthian Sivathanu},
+  title     = {Quiver: An Informed Storage Cache for Deep Learning},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {283-296},
+}
+
+@inproceedings{DBLP:conf/fast/WangLWSBCXW20,
+  author    = {Zizhong Wang and
+               Tongliang Li and
+               Haixia Wang and
+               Airan Shao and
+               Yunren Bai and
+               Shangming Cai and
+               Zihan Xu and
+               Dongsheng Wang},
+  title     = {CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {297-308},
+}
+
+@inproceedings{DBLP:conf/fast/PitchumaniK20,
+  author    = {Rekha Pitchumani and
+               Yang-Suk Kee},
+  title     = {Hybrid Data Reliability for Emerging {Key-Value} Storage Devices},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {309-322},
+}
+
+@inproceedings{DBLP:conf/fast/GanesanAAA20,
+  author    = {Aishwarya Ganesan and
+               Ramnatthan Alagappan and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Strong and Efficient Consistency with {Consistency-Aware} Durability},
+  booktitle = fast,
+  year      = 2020,
+  pages     = {323-337},
+}
+
 @inproceedings{DBLP:conf/fast/KourtisIK19,
   author    = {Kornilios Kourtis and
                Nikolas Ioannou and

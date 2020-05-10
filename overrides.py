@@ -7,6 +7,8 @@ CONFERENCE_LOCATIONS = {
                     ,1987: ('SantaBarbara', 'aug')
                     ,1981: ('SantaBarbara', 'aug')
                     }
+    ,'eurosp':      {2016: ('Saarbrucken', 'mar')
+                    }
     ,'eurosys':     {2019: ('Dresden', 'mar')
                     ,2018: ('Porto', 'apr')
                     ,2017: ('Belgrade', 'apr')
@@ -46,7 +48,10 @@ CONFERENCE_LOCATIONS = {
     ,'ipps':        {1993: ('NewportBeach', 'apr')
                     ,1991: ('Anaheim', 'apr')
                     }
-    ,'sigcomm':     {1997: ('Cannes', 'sep')
+    ,'nsdi':        {2018: ('Renton', 'apr')
+                    }
+    ,'sigcomm':     {2018: ('Budapest', 'aug')
+                    ,1997: ('Cannes', 'sep')
                     ,1996: ('Stanford', 'aug')
                     ,1995: ('CambridgeMA', 'aug')
                     ,1994: ('London', 'aug')
@@ -57,6 +62,7 @@ CONFERENCE_LOCATIONS = {
                     ,1989: ('Austin', 'sep')
                     ,1988: ('Stanford', 'aug')
                     ,1985: ('BC', 'sep')
+                    ,1983: ('NorthFalmouth', 'oct')
                     }
     ,'sosp':        {2019: ('Huntsville', 'oct')
                     ,2013: ('Farmington', 'nov')
@@ -83,6 +89,18 @@ CONFERENCE_LOCATIONS = {
                     ,1987: ('SF', 'may')
                     ,1984: ('Boston', 'jun')
                     ,1983: ('SanJose', 'may')
+                    }
+    ,'podc':        {2018: ('London', 'jul')
+                    ,2015: ('Donostia', 'jul')
+                    }
+    ,'popl':        {2016: ('StPetersburg', 'jan')
+                    ,1997: ('Paris', 'jan')
+                    }
+    ,'pldi':        {2004: ('DC', 'jun')
+                    ,1986: ('PaloAlto', 'jun')
+                    ,1984: ('Montreal', 'jun')
+                    ,1982: ('Boston', 'jun')
+                    ,1979: ('Denver', 'jun')
                     }
     ,'oakland':     {2010: ('Berkeley', 'may')
                     }

@@ -1,5 +1,677 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosys/ChaudharyRSKV20,
+  author    = {Shubham Chaudhary and
+               Ramachandran Ramjee and
+               Muthian Sivathanu and
+               Nipun Kwatra and
+               Srinidhi Viswanatha},
+  title     = {Balancing efficiency and fairness in heterogeneous {GPU} clusters for deep learning},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LindeF0P20,
+  author    = {Albert van der Linde and
+               Pedro Fouto and
+               João Leitão and
+               Nuno M. Preguiça},
+  title     = {The intrinsic cost of causal consistency},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Gong00ZCQLL20,
+  author    = {Liangyi Gong and
+               Zhenhua Li and
+               Feng Qian and
+               Zifan Zhang and
+               Qi Alfred Chen and
+               Zhiyun Qian and
+               Hao Lin and
+               Yunhao Liu},
+  title     = {Experiences of landing machine learning onto market-scale mobile malware detection},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WaudbyEWM20,
+  author    = {Jack Waudby and
+               Paul D. Ezhilchelvan and
+               Jim Webber and
+               Isi Mitrani},
+  title     = {Preserving reciprocal consistency in distributed graph databases},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KakwaniN20,
+  author    = {Diptanshu Kakwani and
+               Rupesh Nasre},
+  title     = {Orion: time estimated causally consistent key-value store},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LepersGCLPAZSLM20,
+  author    = {Baptiste Lepers and
+               Redha Gouicem and
+               Damien Carver and
+               Jean-Pierre Lozi and
+               Nicolas Palix and
+               Maria-Virginia Aponte and
+               Willy Zwaenepoel and
+               Julien Sopena and
+               Julia Lawall and
+               Gilles Muller},
+  title     = {Provable multicore schedulers with Ipanema: application to work conservation},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Kleppmann20,
+  author    = {Martin Kleppmann},
+  title     = {Moving elements in list {CRDTs}},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/StylianopoulosW20,
+  author    = {Charalampos Stylianopoulos and
+               Ivan Walulya and
+               Magnus Almgren and
+               Olaf Landsiedel and
+               Marina Papatriantafilou},
+  title     = {Delegation sketch: a parallel design with support for fast and accurate concurrent operations},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CorreiaFR20,
+  author    = {Andreia Correia and
+               Pascal Felber and
+               Pedro Ramalhete},
+  title     = {Persistent memory and the rise of universal constructions},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/YuR20,
+  author    = {Weihai Yu and
+               Sigbjørn Rostad},
+  title     = {A low-cost set {CRDT} based on causal lengths},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GroschKWB20,
+  author    = {Pascal Grosch and
+               Roman Krafft and
+               Marcel Wölki and
+               Annette Bieniusa},
+  title     = {AutoCouch: a {JSON} {CRDT} framework},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Nordholz20,
+  author    = {Jan Nordholz},
+  title     = {Design of a symbolically executable embedded hypervisor},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GrishchenkoP20,
+  author    = {Victor Grishchenko and
+               Mikhail Patrakeev},
+  title     = {Chronofold: a data structure for versioned text},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/OrenbachBS20,
+  author    = {Meni Orenbach and
+               Andrew Baumann and
+               Mark Silberstein},
+  title     = {Autarky: closing controlled channels with self-paging enclaves},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HowardM20,
+  author    = {Heidi Howard and
+               Richard Mortier},
+  title     = {Paxos vs Raft: have we reached consensus on distributed consensus?},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KoganDI20,
+  author    = {Alex Kogan and
+               Dave Dice and
+               Shady Issa},
+  title     = {Scalable range locks for scalable address spaces and beyond},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NicolasO020,
+  author    = {Matthieu Nicolas and
+               Gérald Oster and
+               Olivier Perrin},
+  title     = {Efficient renaming in sequence {CRDTs}},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PatelYAAAS20,
+  author    = {Yuvraj Patel and
+               Leon Yang and
+               Leo Prasath Arulraj and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Michael M. Swift},
+  title     = {Avoiding scheduler subversion using scheduler-cooperative locks},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HardenbergK20,
+  author    = {Peter van Hardenberg and
+               Martin Kleppmann},
+  title     = {PushPin: towards production-quality peer-to-peer collaboration},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiWHL20,
+  author    = {Chi Li and
+               Shu Wang and
+               Henry Hoffmann and
+               Shan Lu},
+  title     = {Statically inferring performance properties of software configurations},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KuoWKM20,
+  author    = {Hsuan-Chi Kuo and
+               Dan Williams and
+               Ricardo Koller and
+               Sibin Mohan},
+  title     = {A Linux in unikernel clothing},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LindeS0P20,
+  author    = {Albert van der Linde and
+               Diogo Serra and
+               João Leitão and
+               Nuno M. Preguiça},
+  title     = {On combining fault tolerance and partial replication with causal consistency},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BauwensB20,
+  author    = {Jim Bauwens and
+               Elisa Gonzalez Boix},
+  title     = {Flec: a versatile programming framework for eventually consistent systems},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Sabet0G20,
+  author    = {Amir Hossein Nodehi Sabet and
+               Zhijia Zhao and
+               Rajiv Gupta},
+  title     = {Subway: minimizing data transfer during {out-of-GPU-memory} graph processing},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/EischerSD20,
+  author    = {Michael Eischer and
+               Benedikt Straßner and
+               Tobias Distler},
+  title     = {Low-latency geo-replicated state machines with guaranteed writes},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JamshidiMV20,
+  author    = {Kasra Jamshidi and
+               Rakesh Mahadasa and
+               Keval Vora},
+  title     = {Peregrine: a pattern-aware graph mining system},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AmaroBLOAPRS20,
+  author    = {Emmanuel Amaro and
+               Christopher Branner-Augmon and
+               Zhihong Luo and
+               Amy Ousterhout and
+               Marcos K. Aguilera and
+               Aurojit Panda and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Can far memory improve job throughput?},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WeidnerMM20,
+  author    = {Matthew Weidner and
+               Heather Miller and
+               Christopher Meiklejohn},
+  title     = {Composing and decomposing op-based {CRDTs} with semidirect products:},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SreekantiWCGHF20,
+  author    = {Vikram Sreekanti and
+               Chenggang Wu and
+               Saurav Chhatrapati and
+               Joseph E. Gonzalez and
+               Joseph M. Hellerstein and
+               Jose M. Faleiro},
+  title     = {A fault-tolerance shim for serverless computing},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RzadcaFSZBKNSWH20,
+  author    = {Krzysztof Rzadca and
+               Pawel Findeisen and
+               Jacek Swiderski and
+               Przemyslaw Zych and
+               Przemyslaw Broniek and
+               Jarek Kusmierek and
+               Pawel Nowak and
+               Beata Strack and
+               Piotr Witusowski and
+               Steven Hand and
+               John Wilkes},
+  title     = {Autopilot: workload autoscaling at Google},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SzekeresWLSKPZ20,
+  author    = {Adriana Szekeres and
+               Michael Whittaker and
+               Jialin Li and
+               Naveen Kr. Sharma and
+               Arvind Krishnamurthy and
+               Dan R. K. Ports and
+               Irene Zhang},
+  title     = {Meerkat: multicore-scalable replicated transactions following the zero-coordination principle},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhaoLQQ20,
+  author    = {Wenjia Zhao and
+               Kangjie Lu and
+               Yong Qi and
+               Saiyu Qi},
+  title     = {MPTEE: bringing flexible and efficient memory protection to Intel {SGX}},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhaoYZZQLB20,
+  author    = {Laiping Zhao and
+               Yanan Yang and
+               Kaixuan Zhang and
+               Xiaobo Zhou and
+               Tie Qiu and
+               Keqiu Li and
+               Yungang Bao},
+  title     = {Rhythm: component-distinguishable workload deployment in datacenters},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JinCLZJC20,
+  author    = {Tatiana Jin and
+               Zhenkun Cai and
+               Boyang Li and
+               Chengguang Zheng and
+               Guanxian Jiang and
+               James Cheng},
+  title     = {Improving resource utilization by timely fine-grained scheduling},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/OhCKPS20,
+  author    = {Hyungjun Oh and
+               Bongki Cho and
+               Changdae Kim and
+               Heejin Park and
+               Jiwon Seo},
+  title     = {AniFilter: parallel and failure-atomic cuckoo filter for non-volatile memories},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/0001YRLZ20,
+  author    = {Jingwei Li and
+               Zuoru Yang and
+               Yanjing Ren and
+               Patrick P. C. Lee and
+               Xiaosong Zhang},
+  title     = {Balancing storage efficiency and data confidentiality with tunable encrypted deduplication},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GouveiaNSLISM20,
+  author    = {Paulo Gouveia and
+               João Neves and
+               Carlos Segarra and
+               Luca Liechti and
+               Shady Issa and
+               Valerio Schiavoni and
+               Miguel Matos},
+  title     = {Kollaps: decentralized and dynamic topology emulation},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/EnesBRGPS20,
+  author    = {Vitor Enes and
+               Carlos Baquero and
+               Tuanir França Rezende and
+               Alexey Gotsman and
+               Matthieu Perrin and
+               Pierre Sutra},
+  title     = {State-machine replication for planet-scale systems},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KogiasB20,
+  author    = {Marios Kogias and
+               Edouard Bugnion},
+  title     = {HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RosenfeldZAFT20,
+  author    = {Eitan Rosenfeld and
+               Aviad Zuck and
+               Nadav Amit and
+               Michael Factor and
+               Dan Tsafrir},
+  title     = {RAIDP: replication with intra-disk parity},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GiladBBGHKMS20,
+  author    = {Eran Gilad and
+               Edward Bortnikov and
+               Anastasia Braginsky and
+               Yonatan Gottesman and
+               Eshcar Hillel and
+               Idit Keidar and
+               Nurit Moscovici and
+               Rana Shahout},
+  title     = {EvenDB: optimizing key-value storage for spatial locality},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SchmidPWEP20,
+  author    = {Robert Schmid and
+               Max Plauth and
+               Lukas Wenzel and
+               Felix Eberhardt and
+               Andreas Polze},
+  title     = {Accessible near-storage computing with {FPGAs}},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SidlerWCKA20,
+  author    = {David Sidler and
+               Zeke Wang and
+               Monica Chiosa and
+               Amit Kulkarni and
+               Gustavo Alonso},
+  title     = {StRoM: smart remote memory},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {29-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TirmaziBDHQHHW20,
+  author    = {Muhammad Tirmazi and
+               Adam Barker and
+               Nan Deng and
+               Md E. Haque and
+               Zhijing Gene Qin and
+               Steven Hand and
+               Mor Harchol-Balter and
+               John Wilkes},
+  title     = {Borg: the next generation},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {30-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeSCL20,
+  author    = {Tan N. Le and
+               Xiao Sun and
+               Mosharaf Chowdhury and
+               Zhenhua Liu},
+  title     = {AlloX: compute allocation in hybrid clusters},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {31-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CaddenUADKA20,
+  author    = {James Cadden and
+               Thomas Unger and
+               Yara Awad and
+               Han Dong and
+               Orran Krieger and
+               Jonathan Appavoo},
+  title     = {SEUSS: skip redundant paths to make serverless fast},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {32-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/XuSM20,
+  author    = {Shichang Xu and
+               Subhabrata Sen and
+               Z. Morley Mao},
+  title     = {CSI: inferring mobile {ABR} video adaptation behavior under {HTTPS} and {QUIC}},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {33-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiuHS20,
+  author    = {Yingtong Liu and
+               Hsin-Wei Hung and
+               Ardalan Amiri Sani},
+  title     = {Mousse: a system for selective symbolic execution of programs with untamed environments},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {34-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AmitTW20,
+  author    = {Nadav Amit and
+               Amy Tai and
+               Michael Wei},
+  title     = {Don't shoot down {TLB} shootdowns!},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {35-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AltinayNKRZDGNV20,
+  author    = {Anil Altinay and
+               Joseph Nash and
+               Taddeus Kroes and
+               Prabhu Rajasekaran and
+               Dixin Zhou and
+               Adrian Dabrowski and
+               David Gens and
+               Yeoul Na and
+               Stijn Volckaert and
+               Cristiano Giuffrida and
+               Herbert Bos and
+               Michael Franz},
+  title     = {BinRec: dynamic binary lifting and recompilation},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {36-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ParkMDY20,
+  author    = {Seongjae Park and
+               Paul E. McKenney and
+               Laurent Dufour and
+               Heon Y. Yeom},
+  title     = {An {HTM-based} update-side synchronization for {RCU} on {NUMA} systems},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {37-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeeKSAS20,
+  author    = {Dayeol Lee and
+               David Kohlbrenner and
+               Shweta Shinde and
+               Krste Asanovic and
+               Dawn Song},
+  title     = {Keystone: an open framework for architecting trusted execution environments},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {38-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DaveLPGS20,
+  author    = {Ankur Dave and
+               Chester Leung and
+               Raluca Ada Popa and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {Oblivious coopetitive analytics using hardware enclaves},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {39-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MazaheriBM0J20,
+  author    = {Arya Mazaheri and
+               Tim Beringer and
+               Matthew W. Moskewicz and
+               Felix Wolf and
+               Ali Jannesari},
+  title     = {Accelerating winograd convolutions using symbolic computation and meta-programming},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {40-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PiaoNL20,
+  author    = {Guangyuan Piao and
+               Patrick K. Nicholson and
+               Diego Lugones},
+  title     = {Env2Vec: accelerating {VNF} testing with deep learning},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {41-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SangRELRP20,
+  author    = {Bo Sang and
+               Pierre-Louis Roman and
+               Patrick Eugster and
+               Hui Lu and
+               Srivatsan Ravi and
+               Gustavo Petri},
+  title     = {PLASMA: programmable elasticity for stateful cloud computing applications},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {42-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RogoraCDHS20,
+  author    = {Daniele Rogora and
+               Antonio Carzaniga and
+               Amer Diwan and
+               Matthias Hauswirth and
+               Robert Soulé},
+  title     = {Analyzing system performance with probabilistic performance annotations},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {43-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Ferreira19,
+  author    = {Carla Ferreira},
+  title     = {Techniques for safe and highly available cloud applications},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {1-1},
+}
+
 @inproceedings{DBLP:conf/eurosys/GeYCH19,
   author    = {Qian Ge and
                Yuval Yarom and
@@ -24,6 +696,15 @@
   pages     = {1-6},
 }
 
+@inproceedings{DBLP:conf/eurosys/DeyerlD19,
+  author    = {Christian Deyerl and
+               Tobias Distler},
+  title     = {In Search of a Scalable Raft-based Replication Architecture},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {2-1},
+}
+
 @inproceedings{DBLP:conf/eurosys/KohBN19,
   author    = {John S. Koh and
                Steven M. Bellovin and
@@ -32,6 +713,16 @@
   booktitle = eurosys,
   year      = 2019,
   pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LimaMT19,
+  author    = {Diogo Lima and
+               Hugo Miranda and
+               François Taïani},
+  title     = {Support of Strong Consistency on Fog Applications},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {3-1},
 }
 
 @inproceedings{DBLP:conf/eurosys/VolgushevSGVLB19,
@@ -63,6 +754,16 @@
   pages     = {4-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/NairP019,
+  author    = {Sreeja S. Nair and
+               Gustavo Petri and
+               Marc Shapiro},
+  title     = {Invariant Safety for Distributed Applications},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {4-1},
+}
+
 @inproceedings{DBLP:conf/eurosys/GulianiS19,
   author    = {Akhil Guliani and
                Michael M. Swift},
@@ -72,10 +773,31 @@
   pages     = {5-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/LeijnseAB19,
+  author    = {Adriaan Leijnse and
+               Paulo Sérgio Almeida and
+               Carlos Baquero},
+  title     = {{Higher-Order} Patterns in Replicated Data Types},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {5-1},
+}
+
 @inproceedings{DBLP:conf/eurosys/HofN19,
   author    = {Alexander Van't Hof and
                Jason Nieh},
   title     = {AnDrone: Virtual Drone Computing in the Cloud},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KleppmannGMB19,
+  author    = {Martin Kleppmann and
+               Victor B. F. Gomes and
+               Dominic P. Mulligan and
+               Alastair R. Beresford},
+  title     = {Interleaving anomalies in collaborative text editors},
   booktitle = eurosys,
   year      = 2019,
   pages     = {6-1},
@@ -98,6 +820,17 @@
   pages     = {7-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/MealhaPG019,
+  author    = {David Mealha and
+               Nuno M. Preguiça and
+               Maria Cecilia Gomes and
+               João Leitão},
+  title     = {Data Replication on the Cloud/Edge},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {7-1},
+}
+
 @inproceedings{DBLP:conf/eurosys/JannesLJ19,
   author    = {Kristof Jannes and
                Bert Lagaisse and
@@ -114,6 +847,19 @@
                Gerald Q. Maguire Jr. and
                Dejan Kostic},
   title     = {Make the Most out of Last Level Cache in Intel Processors},
+  booktitle = eurosys,
+  year      = 2019,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PorreMTSMB19,
+  author    = {Kevin De Porre and
+               Florian Myter and
+               Christophe De Troyer and
+               Christophe Scholliers and
+               Wolfgang De Meuter and
+               Elisa Gonzalez Boix},
+  title     = {A Generic Replicated Data Type for Strong Eventual Consistency},
   booktitle = eurosys,
   year      = 2019,
   pages     = {8-1},

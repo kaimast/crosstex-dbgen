@@ -445,15 +445,88 @@
   pages     = {102428},
 }
 
+@article{DBLP:journals/scp/ChenX20,
+  author    = {Haiming Chen and
+               Zhiwu Xu},
+  title     = {Inclusion algorithms for one-unambiguous regular expressions and their applications},
+  journal   = scp,
+  volume    = {193},
+  year      = 2020,
+  pages     = {102436},
+}
+
 @article{DBLP:journals/scp/LiSS20,
   author    = {Yi Li and
                Weidi Sun and
                Meng Sun},
-  title     = {Mediator: A component-based modeling language for concurrent and distributed systems},
+  title     = {Mediator},
   journal   = scp,
   volume    = {192},
   year      = 2020,
   pages     = {102438},
+}
+
+@article{DBLP:journals/scp/TranHNA20,
+  author    = {Hoang-Viet Tran and
+               Pham Ngoc Hung and
+               Viet-Ha Nguyen and
+               Toshiaki Aoki},
+  title     = {A framework for assume-guarantee regression verification of evolving software},
+  journal   = scp,
+  volume    = {193},
+  year      = 2020,
+  pages     = {102439},
+}
+
+@article{DBLP:journals/scp/KokkeSW20,
+  author    = {Wen Kokke and
+               Jeremy G. Siek and
+               Philip Wadler},
+  title     = {Programming language foundations in Agda},
+  journal   = scp,
+  volume    = {194},
+  year      = 2020,
+  pages     = {102440},
+}
+
+@article{DBLP:journals/scp/Boreale20,
+  author    = {Michele Boreale},
+  title     = {Complete algorithms for algebraic strongest postconditions and weakest preconditions in polynomial odes},
+  journal   = scp,
+  volume    = {193},
+  year      = 2020,
+  pages     = {102441},
+}
+
+@article{DBLP:journals/scp/ZhangO20,
+  author    = {Weixin Zhang and
+               Bruno C. d. S. Oliveira},
+  title     = {Castor: Programming with extensible generative visitors},
+  journal   = scp,
+  volume    = {193},
+  year      = 2020,
+  pages     = {102449},
+}
+
+@article{DBLP:journals/scp/TornblomN20,
+  author    = {John Törnblom and
+               Simin Nadjm-Tehrani},
+  title     = {Formal verification of input-output mappings of tree ensembles},
+  journal   = scp,
+  volume    = {194},
+  year      = 2020,
+  pages     = {102450},
+}
+
+@article{DBLP:journals/scp/MarraPB20,
+  author    = {Matteo Marra and
+               Guillermo Polito and
+               Elisa Gonzalez Boix},
+  title     = {A debugging approach for live Big Data applications},
+  journal   = scp,
+  volume    = {194},
+  year      = 2020,
+  pages     = {102460},
 }
 
 @article{DBLP:journals/scp/AccattoliG19,
@@ -17329,7 +17402,7 @@
 @article{DBLP:journals/scp/GrossMS05,
   author    = {Hans-Gerhard Groß and
                M. Melideo and
-               A. Sillitti},
+               Alberto Sillitti},
   title     = {Self-certification and trust in component procurement},
   journal   = scp,
   volume    = {56},

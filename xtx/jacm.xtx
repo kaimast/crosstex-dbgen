@@ -1,5 +1,88 @@
 @include journals-cs
 
+@article{DBLP:journals/jacm/KarstadtS20,
+  author    = {Elaye Karstadt and
+               Oded Schwartz},
+  title     = {Matrix Multiplication, a Little Faster},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/jacm/GagieNP20,
+  author    = {Travis Gagie and
+               Gonzalo Navarro and
+               Nicola Prezza},
+  title     = {Fully Functional Suffix Trees and Optimal Text Searching in {BWT-Runs} Bounded Space},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/jacm/GorenM20,
+  author    = {Guy Goren and
+               Yoram Moses},
+  title     = {Silence},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/jacm/CiacciaMT20,
+  author    = {Paolo Ciaccia and
+               Davide Martinenghi and
+               Riccardo Torlone},
+  title     = {Foundations of Context-aware Preference Propagation},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/jacm/ChudnovskySSS20,
+  author    = {Maria Chudnovsky and
+               Alex Scott and
+               Paul D. Seymour and
+               Sophie Spirkl},
+  title     = {Detecting an Odd Hole},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/jacm/PlatzerT20,
+  author    = {André Platzer and
+               Yong Kiam Tan},
+  title     = {Differential Equation Invariance Axiomatization},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/jacm/EmekKLS20,
+  author    = {Yuval Emek and
+               Shay Kutten and
+               Ron Lavi and
+               Yangguang Shi},
+  title     = {Approximating Generalized Network Design under (Dis)economies of Scale with Applications to Energy Efficiency},
+  journal   = jacm,
+  volume    = {67},
+  number    = {1},
+  year      = 2020,
+  pages     = {7-1},
+}
+
 @article{DBLP:journals/jacm/BishopFMNRSSW19,
   author    = {Steve Bishop and
                Matthew Fairbairn and
@@ -23505,7 +23588,7 @@
 }
 
 @article{DBLP:journals/jacm/BenschopR71,
-  author    = {N. F. Benschop and
+  author    = {Nico F. Benschop and
                H. C. Ratz},
   title     = {A Mean Square Estimate of the Generated Roundoff Error in Constant Matrix Iterative Processes},
   journal   = jacm,

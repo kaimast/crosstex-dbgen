@@ -907,7 +907,7 @@
   author    = {Konstantin Makarychev and
                Yury Makarychev and
                Ilya P. Razenshteyn},
-  title     = {Performance of {Johnson-Lindenstrauss} transform for k-means and k},
+  title     = {Performance of {Johnson-Lindenstrauss} transform for k-means and k-medians clustering},
   booktitle = stoc,
   year      = 2019,
   pages     = {1027-1038},
@@ -3215,7 +3215,7 @@
 @inproceedings{DBLP:conf/stoc/NanongkaiS17,
   author    = {Danupon Nanongkai and
                Thatchaphol Saranurak},
-  title     = {Dynamic spanning forest with worst-case update time: adaptive, Las Vegas, and O(n},
+  title     = {Dynamic spanning forest with worst-case update time: adaptive, Las Vegas, and O(n1/2 - ε)-time},
   booktitle = stoc,
   year      = 2017,
   pages     = {1122-1129},
@@ -28135,7 +28135,7 @@
 @inproceedings{DBLP:conf/stoc/GonnetM81,
   author    = {Gaston H. Gonnet and
                J. Ian Munro},
-  title     = {A Linear Probing Sort and its Analysis (Preliminary Draft)},
+  title     = {A Linear Probing Sort and its Analysis},
   booktitle = stoc,
   year      = 1981,
   pages     = {90-95},
@@ -28937,7 +28937,7 @@
 @inproceedings{DBLP:conf/stoc/MunroS79,
   author    = {J. Ian Munro and
                Hendra Suwanda},
-  title     = {Implicit Data Structures (Preliminary Draft)},
+  title     = {Implicit Data Structures},
   booktitle = stoc,
   year      = 1979,
   pages     = {108-117},
@@ -31190,7 +31190,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Rajlich71,
-  author    = {Vaclav Rajlich},
+  author    = {Václav Rajlich},
   title     = {Absolutely Parallel Grammars and {Two-Way} Deterministic {Finite-State} Transducers},
   booktitle = stoc,
   year      = 1971,

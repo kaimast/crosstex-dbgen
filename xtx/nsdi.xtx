@@ -1,5 +1,818 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/MelletteDGMSP20,
+  author    = {William M. Mellette and
+               Rajdeep Das and
+               Yibo Guo and
+               Rob McGuinness and
+               Alex C. Snoeren and
+               George Porter},
+  title     = {Expanding across time to deliver bandwidth efficiency and low latency},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/nsdi/Cheng0J0R20,
+  author    = {Wenxue Cheng and
+               Kun Qian and
+               Wanchun Jiang and
+               Tong Zhang and
+               Fengyuan Ren},
+  title     = {Re-architecting Congestion Management in Lossless Ethernet},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {19-36},
+}
+
+@inproceedings{DBLP:conf/nsdi/JhaPBGLS0KK0I20,
+  author    = {Saurabh Jha and
+               Archit Patke and
+               Jim M. Brandt and
+               Ann C. Gentile and
+               Benjamin Lim and
+               Mike Showerman and
+               Greg Bauer and
+               Larry Kaplan and
+               Zbigniew Kalbarczyk and
+               William Kramer and
+               Ravi K. Iyer},
+  title     = {Measuring Congestion in {High-Performance} Datacenter Interconnects},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {37-57},
+}
+
+@inproceedings{DBLP:conf/nsdi/AlcozDV20,
+  author    = {Albert Gran Alcoz and
+               Alexander Dietmüller and
+               Laurent Vanbever},
+  title     = {SP-PIFO: Approximating {Push-In} {First-Out} Behaviors using {Strict-Priority} Queues},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {59-76},
+}
+
+@inproceedings{DBLP:conf/nsdi/MoonLJP20,
+  author    = {YoungGyoun Moon and
+               Seungeon Lee and
+               Muhammad Asim Jamshed and
+               KyoungSoo Park},
+  title     = {AccelTCP: Accelerating Network Applications with Stateful {TCP} Offloading},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {77-92},
+}
+
+@inproceedings{DBLP:conf/nsdi/ArashlooLGRWW20,
+  author    = {Mina Tahmasbi Arashloo and
+               Alexey Lavrov and
+               Manya Ghobadi and
+               Jennifer Rexford and
+               David Walker and
+               David Wentzlaff},
+  title     = {Enabling Programmable Transport Protocols in {High-Speed} {NICs}},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {93-109},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangIS20,
+  author    = {Jian Yang and
+               Joseph Izraelevitz and
+               Steven Swanson},
+  title     = {FileMR: Rethinking {RDMA} Networking for Scalable Persistent Memory},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {111-125},
+}
+
+@inproceedings{DBLP:conf/nsdi/HwangCTA20,
+  author    = {Jaehyun Hwang and
+               Qizhe Cai and
+               Ao Tang and
+               Rachit Agarwal},
+  title     = {{TCP} ≈ RDMA: {CPU-efficient} Remote Storage Access with i10},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {127-140},
+}
+
+@inproceedings{DBLP:conf/nsdi/KugaNMS20,
+  author    = {Yohei Kuga and
+               Ryo Nakamura and
+               Takeshi Matsuya and
+               Yuji Sekiya},
+  title     = {NetTLP: A Development Platform for {PCIe} devices in Software Interacting with Hardware},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {141-155},
+}
+
+@inproceedings{DBLP:conf/nsdi/UluyolHGCM20,
+  author    = {Muhammed Uluyol and
+               Anthony Huang and
+               Ayush Goel and
+               Mosharaf Chowdhury and
+               Harsha V. Madhyastha},
+  title     = {{Near-Optimal} Latency Versus Cost Tradeoffs in {Geo-Distributed} Storage},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {157-180},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuanMUJS20,
+  author    = {Yifei Yuan and
+               Soo-Jin Moon and
+               Sahil Uppal and
+               Limin Jia and
+               Vyas Sekar},
+  title     = {NetSMC: A Custom Symbolic Model Checker for Stateful Network Verification},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {181-200},
+}
+
+@inproceedings{DBLP:conf/nsdi/AbhashkumarGA20,
+  author    = {Anubhavnidhi Abhashkumar and
+               Aaron Gember-Jacobson and
+               Aditya Akella},
+  title     = {Tiramisu: Fast Multilayer Network Verification},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {201-219},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangZAK020,
+  author    = {Kaiyuan Zhang and
+               Danyang Zhuo and
+               Aditya Akella and
+               Arvind Krishnamurthy and
+               Xi Wang},
+  title     = {Automated Verification of Customizable Middlebox Properties with Gravel},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {221-239},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangLYKGL20,
+  author    = {Peng Zhang and
+               Xu Liu and
+               Hongkun Yang and
+               Ning Kang and
+               Zhengchang Gu and
+               Hao Li},
+  title     = {APKeep: Realtime Verification for Real Networks},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {241-255},
+}
+
+@inproceedings{DBLP:conf/nsdi/YousefiASHGA20,
+  author    = {Farnaz Yousefi and
+               Anubhavnidhi Abhashkumar and
+               Kausik Subramanian and
+               Kartik Hans and
+               Soudeh Ghorbani and
+               Aditya Akella},
+  title     = {Liveness Verification of Stateful Network Functions},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {257-272},
+}
+
+@inproceedings{DBLP:conf/nsdi/LaiYZMC20,
+  author    = {Fan Lai and
+               Jie You and
+               Xiangfeng Zhu and
+               Harsha V. Madhyastha and
+               Mosharaf Chowdhury},
+  title     = {Sol: Fast Distributed Computation Over Slow Networks},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {273-288},
+}
+
+@inproceedings{DBLP:conf/nsdi/MahajanBSVAP020,
+  author    = {Kshiteej Mahajan and
+               Arjun Balasubramanian and
+               Arjun Singhvi and
+               Shivaram Venkataraman and
+               Aditya Akella and
+               Amar Phanishayee and
+               Shuchi Chawla},
+  title     = {Themis: Fair and Efficient {GPU} Cluster Scheduling},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {289-304},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuKMBGKYJLKJ20,
+  author    = {Ming Liu and
+               Arvind Krishnamurthy and
+               Harsha V. Madhyastha and
+               Rishi Bhardwaj and
+               Karan Gupta and
+               Chinmay Kamat and
+               Huapeng Yuan and
+               Aditya Jaltade and
+               Roger Liao and
+               Pavan Konka and
+               Anoop Jawahar},
+  title     = {{Fine-Grained} Replicated State Machines for a Cluster Storage System},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {305-323},
+}
+
+@inproceedings{DBLP:conf/nsdi/0001CZLAR20,
+  author    = {Cong Ding and
+               David Chu and
+               Evan Zhao and
+               Xiang Li and
+               Lorenzo Alvisi and
+               Robbert van Renesse},
+  title     = {Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {325-338},
+}
+
+@inproceedings{DBLP:conf/nsdi/GadreNLRIK20,
+  author    = {Akshay Gadre and
+               Revathy Narayanan and
+               Anh Luong and
+               Anthony Rowe and
+               Bob Iannucci and
+               Swarun Kumar},
+  title     = {Frequency Configuration for {Low-Power} {Wide-Area} Networks in a Heartbeat},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {339-352},
+}
+
+@inproceedings{DBLP:conf/nsdi/GoyalA0AB20,
+  author    = {Prateesh Goyal and
+               Anup Agarwal and
+               Ravi Netravali and
+               Mohammad Alizadeh and
+               Hari Balakrishnan},
+  title     = {ABC: A Simple Explicit Congestion Controller for Wireless Networks},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {353-372},
+}
+
+@inproceedings{DBLP:conf/nsdi/CarverTZOLZ20,
+  author    = {Charles J. Carver and
+               Zhao Tian and
+               Hongyong Zhang and
+               Kofi M. Odame and
+               Alberto Quattrini Li and
+               Xia Zhou},
+  title     = {AmphiLight: Direct {Air-Water} Communication with Laser Light},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {373-388},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiCHDHSYLWLC20,
+  author    = {Ze Li and
+               Qian Cheng and
+               Ken Hsieh and
+               Yingnong Dang and
+               Peng Huang and
+               Pankaj Singh and
+               Xinsheng Yang and
+               Qingwei Lin and
+               Youjiang Wu and
+               Sebastien Levy and
+               Murali Chintalapati},
+  title     = {Gandalf: An Intelligent, {End-To-End} Analytics Service for Safe Deployment in {Large-Scale} Cloud Infrastructure},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {389-402},
+}
+
+@inproceedings{DBLP:conf/nsdi/MogulGPSTKZ20,
+  author    = {Jeffrey C. Mogul and
+               Drago Goricanec and
+               Martin Pool and
+               Anees Shaikh and
+               Douglas Turk and
+               Bikash Koley and
+               Xiaoxue Zhao},
+  title     = {Experiences with Modeling Network Topologies at Multiple Levels of Abstraction},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {403-418},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgacheBILNPP20,
+  author    = {Alexandru Agache and
+               Marc Brooker and
+               Alexandra Iordache and
+               Anthony Liguori and
+               Rolf Neugebauer and
+               Phil Piwonka and
+               Diana-Maria Popa},
+  title     = {Firecracker: Lightweight Virtualization for Serverless Applications},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {419-434},
+}
+
+@inproceedings{DBLP:conf/nsdi/MehtaB0BMAABK20,
+  author    = {Sonu Mehta and
+               Ranjita Bhagwan and
+               Rahul Kumar and
+               Chetan Bansal and
+               Chandra Shekhar Maddila and
+               B. Ashok and
+               Sumit Asthana and
+               Christian Bird and
+               Aditya Kumar},
+  title     = {Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {435-448},
+}
+
+@inproceedings{DBLP:conf/nsdi/VuppalapatiMATM20,
+  author    = {Midhul Vuppalapati and
+               Justin Miron and
+               Rachit Agarwal and
+               Dan Truong and
+               Ashish Motivala and
+               Thierry Cruanes},
+  title     = {Building An Elastic Query Engine on Disaggregated Storage},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {449-462},
+}
+
+@inproceedings{DBLP:conf/nsdi/BrookerCP20,
+  author    = {Marc Brooker and
+               Tao Chen and
+               Fan Ping},
+  title     = {Millions of Tiny Databases},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {463-478},
+}
+
+@inproceedings{DBLP:conf/nsdi/VermeulenRBFF20,
+  author    = {Kevin Vermeulen and
+               Justin P. Rohrer and
+               Robert Beverly and
+               Olivier Fourmaux and
+               Timur Friedman},
+  title     = {Diamond-Miner: Comprehensive Discovery of the Internet's Topology Diamonds},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {479-493},
+}
+
+@inproceedings{DBLP:conf/nsdi/YanAZFHZLW20,
+  author    = {Francis Y. Yan and
+               Hudson Ayers and
+               Chenzhi Zhu and
+               Sadjad Fouladi and
+               James Hong and
+               Keyi Zhang and
+               Philip Levis and
+               Keith Winstein},
+  title     = {Learning in situ: a randomized experiment in video streaming},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {495-511},
+}
+
+@inproceedings{DBLP:conf/nsdi/UtaCDJRMRI20,
+  author    = {Alexandru Uta and
+               Alexandru Custura and
+               Dmitry Duplyakin and
+               Ivo Jimenez and
+               Jan S. Rellermeyer and
+               Carlos Maltzahn and
+               Robert Ricci and
+               Alexandru Iosup},
+  title     = {Is Big Data Performance Reproducible in Modern Cloud Networks?},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {513-527},
+}
+
+@inproceedings{DBLP:conf/nsdi/SongBLL20,
+  author    = {Zhenyu Song and
+               Daniel S. Berger and
+               Kai Li and
+               Wyatt Lloyd},
+  title     = {Learning Relaxed Belady for Content Distribution Network Caching},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {529-544},
+}
+
+@inproceedings{DBLP:conf/nsdi/HauerHLAD20,
+  author    = {Tamas Hauer and
+               Philipp Hoffmann and
+               John Lunney and
+               Dan Ardelean and
+               Amer Diwan},
+  title     = {Meaningful Availability},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {545-557},
+}
+
+@inproceedings{DBLP:conf/nsdi/LouHS20,
+  author    = {Chang Lou and
+               Peng Huang and
+               Scott Smith},
+  title     = {Understanding, Detecting and Localizing Partial Failures in Large System Software},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {559-574},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaiCPBTSZ20,
+  author    = {Ennan Zhai and
+               Ang Chen and
+               Ruzica Piskac and
+               Mahesh Balakrishnan and
+               Bingchuan Tian and
+               Bo Song and
+               Haoliang Zhang},
+  title     = {Check before You Change: Preventing Correlated Failures in Service Updates},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {575-589},
+}
+
+@inproceedings{DBLP:conf/nsdi/0001CL20,
+  author    = {Matthew Burke and
+               Audrey Cheng and
+               Wyatt Lloyd},
+  title     = {Gryff: Unifying Consensus and Shared Registers},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {591-617},
+}
+
+@inproceedings{DBLP:conf/nsdi/HuZYMW20,
+  author    = {Jiyao Hu and
+               Zhenyu Zhou and
+               Xiaowei Yang and
+               Jacob Malone and
+               Jonathan W. Williams},
+  title     = {CableMon: Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {619-632},
+}
+
+@inproceedings{DBLP:conf/nsdi/LevaiNRR20,
+  author    = {Tamás Lévai and
+               Felicián Németh and
+               Barath Raghavan and
+               Gábor Rétvári},
+  title     = {Batchy: Batch-scheduling Data Flow Graphs with Service-level Objectives},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {633-649},
+}
+
+@inproceedings{DBLP:conf/nsdi/MukerjeeCWKSS20,
+  author    = {Matthew K. Mukerjee and
+               Christopher Canel and
+               Weiyang Wang and
+               Daehyeok Kim and
+               Srinivasan Seshan and
+               Alex C. Snoeren},
+  title     = {Adapting {TCP} for Reconfigurable Datacenter Networks},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {651-666},
+}
+
+@inproceedings{DBLP:conf/nsdi/BarbetteTYKMPC20,
+  author    = {Tom Barbette and
+               Chen Tang and
+               Haoran Yao and
+               Dejan Kostic and
+               Gerald Q. Maguire Jr. and
+               Panagiotis Papadimitratos and
+               Marco Chiesa},
+  title     = {A {High-Speed} {Load-Balancer} Design with Guaranteed {Per-Connection-Consistency}},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {667-683},
+}
+
+@inproceedings{DBLP:conf/nsdi/SharmaZLKKKS20,
+  author    = {Naveen Kr. Sharma and
+               Chenxingyu Zhao and
+               Ming Liu and
+               Pravein G. Kannan and
+               Changhoon Kim and
+               Arvind Krishnamurthy and
+               Anirudh Sivaraman},
+  title     = {Programmable Calendar Queues for High-speed Packet Scheduling},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {685-699},
+}
+
+@inproceedings{DBLP:conf/nsdi/HsuBCRW20,
+  author    = {Kuo-Feng Hsu and
+               Ryan Beckett and
+               Ang Chen and
+               Jennifer Rexford and
+               David Walker},
+  title     = {Contra: A Programmable System for Performance-aware Routing},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {701-721},
+}
+
+@inproceedings{DBLP:conf/nsdi/TakruriKAA20,
+  author    = {Hatem Takruri and
+               Ibrahim Kettaneh and
+               Ahmed Alquraan and
+               Samer Al-Kiswany},
+  title     = {FLAIR: Accelerating Reads with {Consistency-Aware} Network Routing},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {723-737},
+}
+
+@inproceedings{DBLP:conf/nsdi/Pouryousef0V20,
+  author    = {Shahrooz Pouryousef and
+               Lixin Gao and
+               Arun Venkataramani},
+  title     = {Towards Logically Centralized Interdomain Routing},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {739-757},
+}
+
+@inproceedings{DBLP:conf/nsdi/KwonLD20,
+  author    = {Albert Kwon and
+               David Lu and
+               Srinivas Devadas},
+  title     = {XRD: Scalable Messaging System with Cryptographic Privacy},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {759-776},
+}
+
+@inproceedings{DBLP:conf/nsdi/SivaramanVRNYMF20,
+  author    = {Vibhaalakshmi Sivaraman and
+               Shaileshh Bojja Venkatakrishnan and
+               Kathleen Ruan and
+               Parimarjan Negi and
+               Lei Yang and
+               Radhika Mittal and
+               Giulia C. Fanti and
+               Mohammad Alizadeh},
+  title     = {High Throughput Cryptocurrency Routing in Payment Channel Networks},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {777-796},
+}
+
+@inproceedings{DBLP:conf/nsdi/ArzaniCSWSOD20,
+  author    = {Behnaz Arzani and
+               Selim Ciraci and
+               Stefan Saroiu and
+               Alec Wolman and
+               Jack W. Stokes and
+               Geoff Outhred and
+               Lechao Diwu},
+  title     = {PrivateEye: Scalable and {Privacy-Preserving} Compromise Detection in the Cloud},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {797-815},
+}
+
+@inproceedings{DBLP:conf/nsdi/HuntJMSHRW20,
+  author    = {Tyler Hunt and
+               Zhipeng Jia and
+               Vance Miller and
+               Ariel Szekely and
+               Yige Hu and
+               Christopher J. Rossbach and
+               Emmett Witchel},
+  title     = {Telekine: Secure Computing with Cloud {GPUs}},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {817-833},
+}
+
+@inproceedings{DBLP:conf/nsdi/BurkhalterHVSR20,
+  author    = {Lukas Burkhalter and
+               Anwar Hithnawi and
+               Alexander Viand and
+               Hossein Shafagh and
+               Sylvia Ratnasamy},
+  title     = {TimeCrypt: Encrypted Data Stream Processing at Scale with Cryptographic Access Control},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {835-850},
+}
+
+@inproceedings{DBLP:conf/nsdi/HuKP20,
+  author    = {Yuncong Hu and
+               Sam Kumar and
+               Raluca Ada Popa},
+  title     = {Ghostor: Toward a Secure {Data-Sharing} System from Decentralized Trust},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {851-877},
+}
+
+@inproceedings{DBLP:conf/nsdi/MardaniS020,
+  author    = {Shaghayegh Mardani and
+               Mayank Singh and
+               Ravi Netravali},
+  title     = {Fawkes: Faster Mobile Page Loads via {App-Inspired} Static Templating},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {879-894},
+}
+
+@inproceedings{DBLP:conf/nsdi/0045C0YZ20,
+  author    = {Xin Liu and
+               Zicheng Chi and
+               Wei Wang and
+               Yao Yao and
+               Ting Zhu},
+  title     = {VMscatter: A Versatile {MIMO} Backscatter},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {895-909},
+}
+
+@inproceedings{DBLP:conf/nsdi/KumarAKC20,
+  author    = {Sam Kumar and
+               Michael P. Andersen and
+               Hyung-Sin Kim and
+               David E. Culler},
+  title     = {Performant {TCP} for {Low-Power} Wireless Networks},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {911-932},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoQLL020,
+  author    = {Shangqing Zhao and
+               Zhe Qu and
+               Zhengping Luo and
+               Zhuo Lu and
+               Yao Liu},
+  title     = {Comb Decoding towards {Collision-Free} {WiFi}},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {933-951},
+}
+
+@inproceedings{DBLP:conf/nsdi/PrabhuCKGC20,
+  author    = {Santhosh Prabhu and
+               Kuan-Yen Chou and
+               Ali Kheradmand and
+               Brighten Godfrey and
+               Matthew Caesar},
+  title     = {Plankton: Scalable network configuration verification through model checking},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {953-967},
+}
+
+@inproceedings{DBLP:conf/nsdi/BirknerDVV20,
+  author    = {Rüdiger Birkner and
+               Dana Drachsler-Cohen and
+               Laurent Vanbever and
+               Martin T. Vechev},
+  title     = {Config2Spec: Mining Network Specifications from Network Configurations},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {969-984},
+}
+
+@inproceedings{DBLP:conf/nsdi/BurnettCCEGJMPR20,
+  author    = {Sam Burnett and
+               Lily Chen and
+               Douglas A. Creager and
+               Misha Efimov and
+               Ilya Grigorik and
+               Ben Jones and
+               Harsha V. Madhyastha and
+               Pavlos Papageorge and
+               Brian Rogan and
+               Charles Stahl and
+               Julia Tuttle},
+  title     = {Network Error Logging: Client-side measurement of end-to-end web service reliability},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {985-998},
+}
+
+@inproceedings{DBLP:conf/nsdi/KTBJMTV20,
+  author    = {Siva Kesava Reddy K. and
+               Alan Tang and
+               Ryan Beckett and
+               Karthick Jayaraman and
+               Todd D. Millstein and
+               Yuval Tamir and
+               George Varghese},
+  title     = {Finding Network Misconfigurations by Automatic Template Inference},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {999-1013},
+}
+
+@inproceedings{DBLP:conf/nsdi/YaseenSL20,
+  author    = {Nofel Yaseen and
+               John Sonchack and
+               Vincent Liu},
+  title     = {tpprof: A Network Traffic Pattern Profiler},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1015-1030},
+}
+
+@inproceedings{DBLP:conf/nsdi/HessarNIG20,
+  author    = {Mehrdad Hessar and
+               Ali Najafi and
+               Vikram Iyer and
+               Shyamnath Gollakota},
+  title     = {TinySDR: {Low-Power} {SDR} Platform for {Over-the-Air} Programmable {IoT} Testbeds},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1031-1046},
+}
+
+@inproceedings{DBLP:conf/nsdi/ArunB20,
+  author    = {Venkat Arun and
+               Hari Balakrishnan},
+  title     = {RFocus: Beamforming Using Thousands of Passive Antennas},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1047-1061},
+}
+
+@inproceedings{DBLP:conf/nsdi/AhmadQEBG20,
+  author    = {Fawad Ahmad and
+               Hang Qiu and
+               Ray Eells and
+               Fan Bai and
+               Ramesh Govindan},
+  title     = {CarMap: Fast 3D Feature Map Updates for Automobiles},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1063-1081},
+}
+
+@inproceedings{DBLP:conf/nsdi/HaLKA20,
+  author    = {Unsoo Ha and
+               Junshan Leng and
+               Alaa Khaddaj and
+               Fadel Adib},
+  title     = {Food and Liquid Sensing in Practical Environments using {RFIDs}},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1083-1100},
+}
+
+@inproceedings{DBLP:conf/nsdi/Chen0WLJC20,
+  author    = {Xingyu Chen and
+               Jia Liu and
+               Xia Wang and
+               Haisong Liu and
+               Dong Jiang and
+               Lijun Chen},
+  title     = {Eingerprint: Robust Energy-related Fingerprinting for Passive {RFID} Tags},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1101-1113},
+}
+
+@inproceedings{DBLP:conf/nsdi/Ayyalasomayajula20,
+  author    = {Roshan Sai Ayyalasomayajula and
+               Aditya Arun and
+               Chenfeng Wu and
+               Shrivatsan Rajagopalan and
+               Shreya Ganesaraman and
+               Aravind Seetharaman and
+               Ish Kumar Jain and
+               Dinesh Bharadia},
+  title     = {LocAP: Autonomous Millimeter Accurate Mapping of {WiFi} Infrastructure},
+  booktitle = nsdi,
+  year      = 2020,
+  pages     = {1115-1129},
+}
+
 @inproceedings{DBLP:conf/nsdi/KaliaKA19,
   author    = {Anuj Kalia and
                Michael Kaminsky and
