@@ -20,7 +20,7 @@ CONFERENCE_LOCATIONS = {
                     ,2017: ('Sliema', 'feb')
                     ,2016: ('ChristChurch', 'feb')
                     }
-    ,'hotos':       {2015: ('Kartause Ittingen', 'may')
+    ,'hotos':       {2015: ('KartauseIttingen', 'may')
                     ,2013: ('SantaAnaPueblo', 'may')
                     ,2011: ('Napa', 'may')
                     ,2009: ('MonteVerita', 'may')
