@@ -632,6 +632,7 @@ d.add_conference('cidr',        'CIDR', 'Conference on Innovative Data Systems R
 d.add_conference('vldb',        'VLDB', 'International Conference on Very Large Data Bases')
 d.add_workshop('esigops',       'ESIGOPS Workshop', 'European SIGOPS Workshop', prefixes=('conf/sigopsE',), names=('ACM SIGOPS European Workshop',))
 d.add_workshop('grid',          'GRID Workshop', 'International Workshop on Grid Computing', names=('GRID',))
+d.add_workshop('hotstorage',    'HotStorage Workshop', 'Workshop on Hot Topics in Storage and File Systems', names=('HotStorage',))
 d.add_workshop('hotnets',       'HotNets Workshop', 'Workshop on Hot Topics in Networks', names=('HotNets',))
 d.add_workshop('hotos',         'HotOS Workshop', 'Workshop on Hot Topics in Operating Systems', names=('HotOS',))
 d.add_workshop('iptps',         'IPTPS Workshop', 'International Workshop on Peer-to-Peer Systems', names=('IPTPS',))

@@ -1,0 +1,1851 @@
+@include conferences-cs
+
+@inproceedings{DBLP:conf/hotstorage/AbdiMHTKD19,
+  author    = {Mania Abdi and
+               Amin Mosayyebzadeh and
+               Mohammad Hossein Hajkazemi and
+               Ata Turk and
+               Orran Krieger and
+               Peter Desnoyers},
+  title     = {Caching in the Multiverse},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AdamsKM19,
+  author    = {Ian F. Adams and
+               John Keys and
+               Michael P. Mesnier},
+  title     = {Respecting the block interface - computational storage using virtual objects},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AhnQKNZB19,
+  author    = {Jung-Sang Ahn and
+               Mohiuddin Abdul Qader and
+               Woon-Hak Kang and
+               Hieu Nguyen and
+               Guogen Zhang and
+               Sami Ben-Romdhane},
+  title     = {Jungle: Towards Dynamically Adjustable {Key-Value} Store by Combining {LSM-Tree} and {Copy-On-Write} B+-Tree},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BittmanALM19,
+  author    = {Daniel Bittman and
+               Peter Alvaro and
+               Darrell D. E. Long and
+               Ethan L. Miller},
+  title     = {A Tale of Two Abstractions: The Case for Object Space},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/CaoKMTZ19,
+  author    = {Zhen Cao and
+               Geoff Kuenning and
+               Klaus Mueller and
+               Anjul Tyagi and
+               Erez Zadok},
+  title     = {Graphs Are Not Enough: Using Interactive Visual Analytics in Storage Research},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/CharapkoAD19,
+  author    = {Aleksey Charapko and
+               Ailidani Ailijiang and
+               Murat Demirbas},
+  title     = {Linearizable Quorum Reads in Paxos},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChoiUKJ19,
+  author    = {Wonil Choi and
+               Bhuvan Urgaonkar and
+               Mahmut T. Kandemir and
+               Myoungsoo Jung},
+  title     = {Fair Resource Allocation in Consolidated Flash Systems},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ConwayKJBJJPF19,
+  author    = {Alex Conway and
+               Eric Knorr and
+               Yizheng Jiao and
+               Michael A. Bender and
+               William Jannen and
+               Rob Johnson and
+               Donald E. Porter and
+               Martin Farach-Colton},
+  title     = {Filesystem Aging: It's more Usage than Fullness},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KimKJK19,
+  author    = {Sang-Hoon Kim and
+               Jinhong Kim and
+               Kisik Jeong and
+               Jin-Soo Kim},
+  title     = {Transaction Support using Compound Commands in {Key-Value} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KollerW19,
+  author    = {Ricardo Koller and
+               Dan Williams},
+  title     = {An Ounce of Prevention is Worth a Pound of Cure: Ahead-of-time Preparation for Safe High-level Container Interfaces},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KuhringGI19,
+  author    = {Lucas Kuhring and
+               Eva García and
+               Zsolt István},
+  title     = {Specialize in Moderation - Building Application-aware Storage Services using {FPGAs} in the Datacenter},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiYCSLX19,
+  author    = {Qiao Li and
+               Min Ye and
+               Yufei Cui and
+               Liang Shi and
+               Xiaoqiang Li and
+               Chun Jason Xue},
+  title     = {Sentinel Cells Enabled Fast Read for {NAND} Flash},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiangLX19,
+  author    = {Yu Liang and
+               Qiao Li and
+               Chun Jason Xue},
+  title     = {Mismatched Memory Management of Android Smartphones},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LillaneyTPB19,
+  author    = {Kunal Lillaney and
+               Vasily Tarasov and
+               David Pease and
+               Randal C. Burns},
+  title     = {The Case for Dual-access File Systems over Object Storage},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiuAAK19,
+  author    = {Jing Liu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Sudarsun Kannan},
+  title     = {File Systems as Processes},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ParkLKY19,
+  author    = {Seongjae Park and
+               Yun-Jae Lee and
+               Moonsub Kim and
+               Heon Y. Yeom},
+  title     = {Automating {Context-Based} Access Pattern Hint Injection for System Performance and Swap Storage Durability},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/PengV19,
+  author    = {Yuhan Peng and
+               Peter Varman},
+  title     = {Fair-EDF: A Latency Fairness Framework for Shared Storage Systems},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShahBSWC19,
+  author    = {Aashaka Shah and
+               Vinay Banakar and
+               Supreeth Shastri and
+               Melissa Wasserman and
+               Vijay Chidambaram},
+  title     = {Analyzing the Impact of {GDPR} on Storage Systems},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WuAA19,
+  author    = {Kan Wu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Towards an Unwritten Contract of Intel Optane {SSD}},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WuLCZYWD19,
+  author    = {Fenggang Wu and
+               Bingzhe Li and
+               Zhichao Cao and
+               Baoquan Zhang and
+               Ming-Hong Yang and
+               Hao Wen and
+               David H. C. Du},
+  title     = {ZoneAlloy: Elastic Data and Space Management for Hybrid {SMR} Drives},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YangXZZSCCXLK19,
+  author    = {Pan Yang and
+               Ni Xue and
+               Yuqi Zhang and
+               Yangxu Zhou and
+               Li Sun and
+               Wenwen Chen and
+               Zhonggang Chen and
+               Wei Xia and
+               Junke Li and
+               Kihyoun Kwon},
+  title     = {Reducing Garbage Collection Overhead in {SSD} Based on Workload Prediction},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YoshimuraCH19,
+  author    = {Takeshi Yoshimura and
+               Tatsuhiro Chiba and
+               Hiroshi Horii},
+  title     = {EvFS: User-level, {Event-Driven} File System for {Non-Volatile} Memory},
+  booktitle = hotstorage,
+  year      = 2019,
+}
+
+@inproceedings{DBLP:conf/hotstorage/0001JX18,
+  author    = {Ying Wang and
+               Dejun Jiang and
+               Jin Xiong},
+  title     = {Caching or Not: Rethinking Virtual File System for {Non-Volatile} Main Memory},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AndersonBCCCDDD18,
+  author    = {Patrick Anderson and
+               Richard Black and
+               Ausra Cerkauskaite and
+               Andromachi Chatzieleftheriou and
+               James Clegg and
+               Chris Dainty and
+               Raluca Diaconu and
+               Rokas Drevinskas and
+               Austin Donnelly and
+               Alexander L. Gaunt and
+               Andreas Georgiou and
+               Ariel Gomez Diaz and
+               Peter G. Kazansky and
+               David Lara and
+               Sergey Legtchenko and
+               Sebastian Nowozin and
+               Aaron Ogus and
+               Douglas Phillips and
+               Antony I. T. Rowstron and
+               Masaaki Sakakura and
+               Ioan A. Stefanovici and
+               Benn Thomsen and
+               Lei Wang and
+               Hugh Williams and
+               Mengyang Yang},
+  title     = {Glass: A New Media for a New Era?},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KangOKDMLE18,
+  author    = {Donghyun Kang and
+               Gihwan Oh and
+               Dongki Kim and
+               In Hwan Doh and
+               Changwoo Min and
+               Sang-Won Lee and
+               Young Ik Eom},
+  title     = {When Address Remapping Techniques Meet Consistency Guarantee Mechanisms},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Kim18,
+  author    = {Bryan Suk Kim},
+  title     = {Utilitarian Performance Isolation in Shared {SSDs}},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KimHLHLK18,
+  author    = {Taejin Kim and
+               Sangwook Shane Hahn and
+               Sungjin Lee and
+               Joo Young Hwang and
+               Jongyoul Lee and
+               Jihong Kim},
+  title     = {PCStream: Automatic Stream Allocation Using Program Contexts},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KohLKJ18,
+  author    = {Sungjoon Koh and
+               Changrim Lee and
+               Miryeong Kwon and
+               Myoungsoo Jung},
+  title     = {Exploring System Challenges of {Ultra-Low} Latency Solid State Drives},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeeHYAA18,
+  author    = {Eunji Lee and
+               Youil Han and
+               Suli Yang and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {How to Teach an Old File System Dog New Object Store Tricks},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/NiZBM18,
+  author    = {Yuanjiang Ni and
+               Jishen Zhao and
+               Daniel Bittman and
+               Ethan L. Miller},
+  title     = {Reducing {NVM} Writes with Optimized Shadow Paging},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ParkKMSJ18,
+  author    = {Gyuyoung Park and
+               Miryeong Kwon and
+               Pratyush Mahapatra and
+               Michael M. Swift and
+               Myoungsoo Jung},
+  title     = {BIBIM: A Prototype {Multi-Partition} Aware Heterogeneous New Memory},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/PatelVAA18,
+  author    = {Yuvraj Patel and
+               Mohit Verma and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Revisiting Concurrency in {High-Performance} {NoSQL} Databases},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/RajuPKOKCA18,
+  author    = {Pandian Raju and
+               Soujanya Ponnapalli and
+               Evan Kaminsky and
+               Gilad Oved and
+               Zachary Keener and
+               Vijay Chidambaram and
+               Ittai Abraham},
+  title     = {mLSM: Making Authenticated Storage Faster in Ethereum},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SevillaNMLWALLP18,
+  author    = {Michael A. Sevilla and
+               Reza Nasirigerdeh and
+               Carlos Maltzahn and
+               Jeff LeFevre and
+               Noah Watkins and
+               Peter Alvaro and
+               Margaret Lawson and
+               Jay F. Lofstead and
+               Jim Pivarski},
+  title     = {Tintenfisch: File System Namespace Schemas and Generators},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SongN18,
+  author    = {Hyeonho Song and
+               Sam H. Noh},
+  title     = {Towards Transparent and Seamless {Storage-As-You-Go} with Persistent Memory},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SunLBG18,
+  author    = {Kuei Sun and
+               Matthew Lakier and
+               Angela Demke Brown and
+               Ashvin Goel},
+  title     = {Breaking Apart the {VFS} for Managing File Systems},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/VietriRMLLRZN18,
+  author    = {Giuseppe Vietri and
+               Liana V. Rodriguez and
+               Wendy A. Martinez and
+               Steven Lyons and
+               Jason Liu and
+               Raju Rangaswami and
+               Ming Zhao and
+               Giri Narasimhan},
+  title     = {Driving Cache Replacement with {ML-based} {LeCaR}},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WeissAA18,
+  author    = {Zev Weiss and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {DenseFS: a {Cache-Compact} Filesystem},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WuZCWLDWD18,
+  author    = {Fenggang Wu and
+               Baoquan Zhang and
+               Zhichao Cao and
+               Hao Wen and
+               Bingzhe Li and
+               Jim Diehl and
+               Guohua Wang and
+               David H. C. Du},
+  title     = {Data Management Design for Interlaced Magnetic Recording},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YaakobiYBG18,
+  author    = {Eitan Yaakobi and
+               Gala Yadgar and
+               Nachum Bundak and
+               Lior Gilon},
+  title     = {A Case for Biased Programming in Flash},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YeWHXX18,
+  author    = {Ting Ye and
+               Shenggang Wan and
+               Xubin He and
+               Weijun Xiao and
+               Changsheng Xie},
+  title     = {DREAM: Data Representation Aware of Damage to Extend the Lifetime of {MLC} {NAND} Flash Memory},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YongJLK18,
+  author    = {Hwanjin Yong and
+               Kisik Jeong and
+               Joonwon Lee and
+               Jin-Soo Kim},
+  title     = {vStream: Virtual Stream Management for Multi-streamed {SSDs}},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangLGLX18,
+  author    = {Yueming Zhang and
+               Yongkun Li and
+               Fan Guo and
+               Cheng Li and
+               Yinlong Xu},
+  title     = {ElasticBF: Fine-grained and Elastic Bloom Filter Towards Efficient Read for {LSM-tree-based} {KV} Stores},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Zuo018,
+  author    = {Pengfei Zuo and
+               Yu Hua},
+  title     = {SecPM: a Secure and Persistent Memory System for Non-volatile Memory},
+  booktitle = hotstorage,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChavdaACKGL17,
+  author    = {Chintan Chavda and
+               Ethan C. Ahn and
+               Yu-Sheng Chen and
+               Youngjae Kim and
+               Kalidas Ganesh and
+               Junghee Lee},
+  title     = {Vulnerability Analysis of {On-Chip} {Access-Control} Memory},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChoiKH17,
+  author    = {Jungsik Choi and
+               Jiwon Kim and
+               Hwansoo Han},
+  title     = {Efficient Memory Mapped File I/O for {In-Memory} File Systems},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChungKAL17,
+  author    = {Chanwoo Chung and
+               Jinhyung Koo and
+               Arvind and
+               Sungjin Lee},
+  title     = {Lightweight {KV-based} Distributed Store for Datacenters},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Fekry17,
+  author    = {Ayat Fekry},
+  title     = {Big Data Gets Bigger: What about Data Cleaning Analytics as a Storage Service?},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/GatlaZ17,
+  author    = {Om Rameshwar Gatla and
+               Mai Zheng},
+  title     = {Understanding the Fault Resilience of File System Checkers},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/GonzalezCSS17,
+  author    = {Santiago Gonzalez and
+               Vijay Chidambaram and
+               Jivko Sinapov and
+               Peter Stone},
+  title     = {CC-Log: Drastically Reducing Storage Requirements for Robots Using Classification and Compression},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Gupta-CledatRS17,
+  author    = {Vishakha Gupta-Cledat and
+               Luis Remis and
+               Christina R. Strong},
+  title     = {Addressing the Dark Side of Vision Research: Storage},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JeongCLLYHL17,
+  author    = {Wookhan Jeong and
+               Hyunsoo Cho and
+               Yongmyung Lee and
+               Jaegyu Lee and
+               SongHo Yoon and
+               Joo Young Hwang and
+               Dong-Gi Lee},
+  title     = {Improving Flash Storage Performance by Caching Address Mapping Table in Host Memory},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JoKKJL17,
+  author    = {Hyungil Jo and
+               Sung-Hun Kim and
+               Sangwook Kim and
+               Jinkyu Jeong and
+               Joonwon Lee},
+  title     = {Request-aware Cooperative I/O Scheduling for Scale-out Database Applications},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JoshiYC17,
+  author    = {Kanchan Joshi and
+               Kaushal Yadav and
+               Praval Choudhary},
+  title     = {Enabling {NVMe} {WRR} support in Linux Block Layer},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KathpalS17,
+  author    = {Atish Kathpal and
+               Priya Sehgal},
+  title     = {BARNS: Towards Building Backup and Recovery for {NoSQL} Databases},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KimKN17,
+  author    = {Byungseok Kim and
+               Jaeho Kim and
+               Sam H. Noh},
+  title     = {Managing Array of {SSDs} When the Storage Device Is No Longer the Performance Bottleneck},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Kowles17,
+  author    = {Andy Kowles},
+  title     = {Open Addressable Device Tiers},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LegtchenkoWRDBD17,
+  author    = {Sergey Legtchenko and
+               Hugh Williams and
+               Kaveh Razavi and
+               Austin Donnelly and
+               Richard Black and
+               Andrew Douglas and
+               Nathanael Cheriere and
+               Daniel Fryer and
+               Kai Mast and
+               Angela Demke Brown and
+               Ana Klimovic and
+               Andy Slowey and
+               Antony I. T. Rowstron},
+  title     = {Understanding {Rack-Scale} Disaggregated Storage},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LimLCS17,
+  author    = {Yoohyuk Lim and
+               Jaemin Lee and
+               Cassiano Campes and
+               Euiseong Seo},
+  title     = {{Parity-Stream} Separation and SLC/{MLC} Convertible Programming for Life Span and Performance Improvement of {SSD} {RAIDs}},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LuSCPKLPWA17,
+  author    = {Tao Lu and
+               Eric Suchyta and
+               Jong Youl Choi and
+               Norbert Podhorszki and
+               Scott Klasky and
+               Qing Liu and
+               David Pugmire and
+               Matthew Wolf and
+               Mark Ainsworth},
+  title     = {Canopus: Enabling {Extreme-Scale} Data Analytics on Big {HPC} Storage via Progressive Refactoring},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ManzanaresBG17,
+  author    = {Adam Manzanares and
+               Filip Blagojevic and
+               Cyril Guyot},
+  title     = {IOPriority: To The Device and Beyond},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MaratheSB017,
+  author    = {Virendra J. Marathe and
+               Margo Seltzer and
+               Steve Byan and
+               Tim Harris},
+  title     = {Persistent Memcached: Bringing Legacy Code to {Byte-Addressable} Persistent Memory},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MartinezC17,
+  author    = {Ashlie Martinez and
+               Vijay Chidambaram},
+  title     = {CrashMonkey: A Framework to Automatically Test {File-System} Crash Consistency},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MohanPHCR17,
+  author    = {Jayashree Mohan and
+               Dhathri Purohith and
+               Matthew Halpern and
+               Vijay Chidambaram and
+               Vijay Janapa Reddi},
+  title     = {Storage on Your {SmartPhone} Uses More Energy Than You Think},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/RamljakK17,
+  author    = {Dusan Ramljak and
+               Krishna Kant},
+  title     = {{Belief-Based} Storage Systems},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShafaeiD17,
+  author    = {Mansour Shafaei and
+               Peter Desnoyers},
+  title     = {Virtual Guard: A {Track-Based} Translation Layer for Shingled Disks},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WangAW17,
+  author    = {Wenxuan Wang and
+               Ian F. Adams and
+               Avani Wildani},
+  title     = {Snapshot Judgements: Obtaining Data Insights without Tracing},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WatkinsSJDAFM17,
+  author    = {Noah Watkins and
+               Michael A. Sevilla and
+               Ivo Jimenez and
+               Kathryn Dahlgren and
+               Peter Alvaro and
+               Shel Finkelstein and
+               Carlos Maltzahn},
+  title     = {DeclStore: Layering Is for the Faint of Heart},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Wildani17,
+  author    = {Avani Wildani},
+  title     = {Fighting for a Niche: An Evolutionary Model of Storage},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/XiaoLZX17,
+  author    = {He Xiao and
+               Zhenhua Li and
+               Ennan Zhai and
+               Tianyin Xu},
+  title     = {Practical Web-based Delta Synchronization for Cloud Storage Services},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YanZWSC17,
+  author    = {Eddie Q. Yan and
+               Kaiyuan Zhang and
+               Xi Wang and
+               Karin Strauss and
+               Luis Ceze},
+  title     = {Customizing Progressive {JPEG} for Efficient Image Storage},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZadokHKS17,
+  author    = {Erez Zadok and
+               Dean Hildebrand and
+               Geoff Kuenning and
+               Keith A. Smith},
+  title     = {{POSIX} is Dead! Long Live... errr... What Exactly?},
+  booktitle = hotstorage,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AhnLK16,
+  author    = {Sungyong Ahn and
+               Kwanghyun La and
+               Jihong Kim},
+  title     = {Improving I/O Resource Sharing of Linux Cgroup for {NVMe} {SSDs} on Multi-core Systems},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AnwarCHB16,
+  author    = {Ali Anwar and
+               Yue Cheng and
+               Hai Huang and
+               Ali Raza Butt},
+  title     = {ClusterOn: Building Highly Configurable and Reusable Clustered Data Services Using Simple Data Nodes},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BlackDHOR16,
+  author    = {Richard Black and
+               Austin Donnelly and
+               David Harper and
+               Aaron Ogus and
+               Antony I. T. Rowstron},
+  title     = {Feeding the Pelican: Using Archival Hard Drives for Cold Storage Racks},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/CarvalhoKLSSTZA16,
+  author    = {Neville Carvalho and
+               Hyojun Kim and
+               Maohua Lu and
+               Prasenjit Sarkar and
+               Rohit Shekhar and
+               Tarun Thakur and
+               Pin Zhou and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Finding Consistency in an Inconsistent World: Towards Deep Semantic Understanding of Scale-out Distributed Databases},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/DeslauriersMAGB16,
+  author    = {Francis Deslauriers and
+               Peter McCormick and
+               George Amvrosiadis and
+               Ashvin Goel and
+               Angela Demke Brown},
+  title     = {Quartet: Harmonizing Task Scheduling and Caching for Cluster Computing},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/IwataS16,
+  author    = {Satoshi Iwata and
+               Kensuke Shiozawa},
+  title     = {A Simulation Result of Replicating Data with Another Layout for Reducing Media Exchange of Cold Storage},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JannenBFJKP16,
+  author    = {William Jannen and
+               Michael A. Bender and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Bradley C. Kuszmaul and
+               Donald E. Porter},
+  title     = {Lazy Analytics: Let Other Queries Do the Work For You},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JeonCDK16,
+  author    = {Kyungho Jeon and
+               Sharath Chandrashekhara and
+               Karthik Dantu and
+               Steven Y. Ko},
+  title     = {Pixelsior: Photo Management as a Platform Service for Mobile Apps},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JiCSWLX16,
+  author    = {Cheng Ji and
+               Li-Pin Chang and
+               Liang Shi and
+               Chao Wu and
+               Qiao Li and
+               Chun Jason Xue},
+  title     = {An Empirical Study of {File-System} Fragmentation in Mobile Storage Systems},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KannanBRMV16,
+  author    = {Kalapriya Kannan and
+               Suparna Bhattacharya and
+               Kumar Raj and
+               Muthukumar Murugan and
+               Doug Voigt},
+  title     = {{SEeSAW} - Similarity Exploiting Storage for Accelerating Analytics Workflows},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KimLK16,
+  author    = {Hyeong-Jun Kim and
+               Young-Sik Lee and
+               Jin-Soo Kim},
+  title     = {NVMeDirect: A User-space I/O Framework for Application-specific Optimization on {NVMe} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LuoJC16,
+  author    = {Hao Luo and
+               Hong Jiang and
+               Myra B. Cohen},
+  title     = {Why Do We Always Blame The Storage Stack?},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ManzanaresWGMMB16,
+  author    = {Adam Manzanares and
+               Noah Watkins and
+               Cyril Guyot and
+               Damien Le Moal and
+               Carlos Maltzahn and
+               Zvonimir Bandic},
+  title     = {ZEA, A Data Management Approach for {SMR}},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MarmolGA16,
+  author    = {Leonardo Mármol and
+               Jorge Guerra and
+               Marcos K. Aguilera},
+  title     = {Non-volatile Memory through Customized Key-value Stores},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShafaeiDF16,
+  author    = {Mansour Shafaei and
+               Peter Desnoyers and
+               Jim Fitzpatrick},
+  title     = {Write Amplification Reduction in {Flash-Based} {SSDs} Through {Extent-Based} Temperature Identification},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShenCJS16,
+  author    = {Zhaoyan Shen and
+               Feng Chen and
+               Yichen Jia and
+               Zili Shao},
+  title     = {Optimizing Flash-based Key-value Cache Systems},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShilaneCJ16,
+  author    = {Philip Shilane and
+               Ravi Chitloor and
+               Uday Kiran Jonnala},
+  title     = {99 Deduplication Problems},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShinPY16,
+  author    = {Woong Shin and
+               Jaehyun Park and
+               Heon Y. Yeom},
+  title     = {Unblinding the {OS} to Optimize {User-Perceived} Flash {SSD} Latency},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SpillaneWLARK16,
+  author    = {Richard P. Spillane and
+               Wenguang Wang and
+               Luke Lu and
+               Maxime Austruy and
+               Rawlinson Rivera and
+               Christos T. Karamanolis},
+  title     = {Exo-clones: Better Container Runtime Image Management across the Clouds},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WeiRAWSMT16,
+  author    = {Michael Wei and
+               Christopher J. Rossbach and
+               Ittai Abraham and
+               Udi Wieder and
+               Steven Swanson and
+               Dahlia Malkhi and
+               Amy Tai},
+  title     = {Silver: A Scalable, Distributed, Multi-versioning, Always Growing (Ag) File System},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WuYFZGD16,
+  author    = {Fenggang Wu and
+               Ming-Chang Yang and
+               Ziqi Fan and
+               Baoquan Zhang and
+               Xiongzi Ge and
+               David H. C. Du},
+  title     = {Evaluating Host Aware {SMR} Drives},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/XuSC16,
+  author    = {Erci Xu and
+               Mohit Saxena and
+               Lawrence Chiu},
+  title     = {Neutrino: Revisiting Memory Caching for Iterative Data Analytics},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YadgarG16,
+  author    = {Gala Yadgar and
+               Moshe Gabel},
+  title     = {Avoiding the Streetlight Effect: I/O Workload Analysis with {SSDs} in Mind},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YanJTL16,
+  author    = {Zhichao Yan and
+               Hong Jiang and
+               Yujuan Tan and
+               Hao Luo},
+  title     = {Deduplicating Compressed Contents in Cloud Storage Environment},
+  booktitle = hotstorage,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BentSDFTGT15,
+  author    = {John Bent and
+               Brad Settlemyer and
+               Nathan DeBardeleben and
+               Sorin Faibish and
+               Dennis Ting and
+               Uday Gupta and
+               Percy Tzelnic},
+  title     = {On the {Non-Suitability} of {Non-Volatility}},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BlottLKV15,
+  author    = {Michaela Blott and
+               Ling Liu and
+               Kimon Karras and
+               Kees A. Vissers},
+  title     = {Scaling Out to a {Single-Node} 80Gbps Memcached Server with 40Terabytes of Memory},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Chandrashekhara15,
+  author    = {Sharath Chandrashekhara and
+               Kyle Marcus and
+               Rakesh G. M. Subramanya and
+               Hrishikesh S. Karve and
+               Karthik Dantu and
+               Steven Y. Ko},
+  title     = {Enabling Automated, Rich, and Versatile Data Management for Android Apps with {BlueMountain}},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChengIGB15,
+  author    = {Yue Cheng and
+               M. Safdar Iqbal and
+               Aayush Gupta and
+               Ali Raza Butt},
+  title     = {Pricing Games for Hybrid Object Stores in the Cloud: Provider vs. Tenant},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/CidonEAK15,
+  author    = {Asaf Cidon and
+               Assaf Eisenman and
+               Mohammad Alizadeh and
+               Sachin Katti},
+  title     = {Dynacache: Dynamic Cloud Caching},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/DewakarSSWSUVS15,
+  author    = {Suganthi Dewakar and
+               Sethuraman Subbiah and
+               Gokul Soundararajan and
+               Mike Wilson and
+               Mark W. Storer and
+               Kishore Kasi Udayashankar and
+               Kaladhar Voruganti and
+               Minglong Shao},
+  title     = {Storage Efficiency Opportunities and Analysis for Video Repositories},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/DouFC15,
+  author    = {Xianzheng Dou and
+               Jason Flinn and
+               Peter M. Chen},
+  title     = {Toward Eidetic Distributed File Systems},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/GreenbergBG15,
+  author    = {Hugh Greenberg and
+               John Bent and
+               Gary Grider},
+  title     = {MDHIM: A Parallel Key/Value Framework for {HPC}},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KadekodiPG15,
+  author    = {Saurabh Kadekodi and
+               Swapnil Pimpale and
+               Garth A. Gibson},
+  title     = {Caveat-Scriptor: Write Anywhere Shingled Disks},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LewisH15,
+  author    = {Russell Lewis and
+               John H. Hartman},
+  title     = {Accordion: {Multi-Scale} Recipes for Adaptive Detection of Duplication},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiL15,
+  author    = {Jun Li and
+               Baochun Li},
+  title     = {Beehive: Erasure Codes for Fixing Multiple Failures in Distributed Storage Systems},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LinDLLRSW15,
+  author    = {Xing Lin and
+               Fred Douglis and
+               Jim Li and
+               Xudong Li and
+               Robert Ricci and
+               Stephen Smaldone and
+               Grant Wallace},
+  title     = {Metadata Considered Harmful...to Deduplication},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ParkCW15,
+  author    = {Dongil Park and
+               Seungyong Cheon and
+               Youjip Won},
+  title     = {Suspend-aware Segment Cleaning in Log-structured File System},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SantanaLKRL15,
+  author    = {Ricardo Santana and
+               Steven Lyons and
+               Ricardo Koller and
+               Raju Rangaswami and
+               Jason Liu},
+  title     = {To {ARC} or Not to {ARC}},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/TarasovGSTZ15,
+  author    = {Vasily Tarasov and
+               Abhishek Gupta and
+               Kumar Sourav and
+               Sagar Trehan and
+               Erez Zadok},
+  title     = {Terra Incognita: On the Practicality of {User-Space} File Systems},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/XiaLJFHQZ15,
+  author    = {Wen Xia and
+               Chunguang Li and
+               Hong Jiang and
+               Dan Feng and
+               Yu Hua and
+               Leihua Qin and
+               Yucheng Zhang},
+  title     = {Edelta: A {Word-Enlarging} Based Fast Delta Compression Approach},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YadgarSYS15,
+  author    = {Gala Yadgar and
+               Roman Shor and
+               Eitan Yaakobi and
+               Assaf Schuster},
+  title     = {It's Not Where Your Data Is, It's How It Got There},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZadokACCCM15,
+  author    = {Erez Zadok and
+               Aashray Arora and
+               Zhen Cao and
+               Akhilesh Chaganti and
+               Arvind Chaudhary and
+               Sonam Mandal},
+  title     = {Parametric Optimization of Storage Systems},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangLZW015,
+  author    = {Xuebin Zhang and
+               Jiangpeng Li and
+               Kai Zhao and
+               Hao Wang and
+               Tong Zhang},
+  title     = {Leveraging Progressive Programmability of {SLC} Flash Pages to Realize Zero-overhead Delta Compression for Metadata Storage},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangMKCLAWLK15,
+  author    = {Ben Zhang and
+               Nitesh Mor and
+               John Kolb and
+               Douglas S. Chan and
+               Ken Lutz and
+               Eric Allman and
+               John Wawrzynek and
+               Edward A. Lee and
+               John Kubiatowicz},
+  title     = {The Cloud is Not Enough: Saving {IoT} from the Cloud},
+  booktitle = hotstorage,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AppuswamyLR14,
+  author    = {Raja Appuswamy and
+               Sergey Legtchenko and
+               Antony I. T. Rowstron},
+  title     = {Towards Paravirtualized Network File Systems},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/HeD14,
+  author    = {Weiping He and
+               David H. C. Du},
+  title     = {Novel Address Mappings for Shingled Write Disks},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KangHMC14,
+  author    = {Jeong-Uk Kang and
+               Jeeseok Hyun and
+               Hyunjoo Maeng and
+               Sangyeun Cho},
+  title     = {The Multi-streamed {Solid-State} Drive},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Kaushik14,
+  author    = {Rini T. Kaushik},
+  title     = {FlashQueryFile: {Flash-Optimized} Layout and Algorithms for Interactive Ad Hoc {SQL} on Big Data},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KrishnanPLSKNKN14,
+  author    = {M. Nikhil Krishnan and
+               N. Prakash and
+               V. Lalitha and
+               Birenjith Sasidharan and
+               P. Vijay Kumar and
+               Srinivasan Narayanamurthy and
+               Ranjit Kumar and
+               Siddhartha Nandi},
+  title     = {Evaluation of Codes with Inherent Double Replication for Hadoop},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeeQLKM14,
+  author    = {Young-Sik Lee and
+               Luis Cavazos Quero and
+               Youngjae Lee and
+               Jin-Soo Kim and
+               Seungryoul Maeng},
+  title     = {Accelerating External Sorting via On-the-fly Data Merge in Active {SSDs}},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiMZ14,
+  author    = {Zhichao Li and
+               Amanpreet Mukker and
+               Erez Zadok},
+  title     = {On the Importance of Evaluating Storage Systems' $Costs},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiSDSS14,
+  author    = {Cheng Li and
+               Philip Shilane and
+               Fred Douglis and
+               Darren Sawyer and
+               Hyong Shim},
+  title     = {Assert(!Defined(Sequential I/O))},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LuoTJ14,
+  author    = {Hao Luo and
+               Lei Tian and
+               Hong Jiang},
+  title     = {qNVRAM: quasi {Non-Volatile} {RAM} for Low Overhead Persistency Enforcement in Smartphones},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MarmolSTRDRG14,
+  author    = {Leonardo Mármol and
+               Swaminathan Sundararaman and
+               Nisha Talagala and
+               Raju Rangaswami and
+               Sushma Devendrappa and
+               Bharath Ramsundar and
+               Sriram Ganesan},
+  title     = {NVMKV: A Scalable and Lightweight Flash Aware {Key-Value} Store},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/PeterLZPAKZW14,
+  author    = {Simon Peter and
+               Jialin Li and
+               Irene Zhang and
+               Dan R. K. Ports and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy and
+               Mark Zbikowski and
+               Doug Woos},
+  title     = {Towards {High-Performance} {Application-Level} Storage Management},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangSJ14,
+  author    = {Jie Zhang and
+               Mustafa Shihab and
+               Myoungsoo Jung},
+  title     = {Power, Energy, and Thermal Considerations in {SSD-Based} I/O Acceleration},
+  booktitle = hotstorage,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AgrawalAU13,
+  author    = {Nitin Agrawal and
+               Akshat Aranya and
+               Cristian Ungureanu},
+  title     = {Mobile Data Sync in a Blink},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChenYC13,
+  author    = {Ming-Shing Chen and
+               Bo-Yin Yang and
+               Chen-Mou Cheng},
+  title     = {RAIDq: A Software-friendly, Multiple-parity {RAID}},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Desnoyers13,
+  author    = {Peter Desnoyers},
+  title     = {What Systems Researchers Need to Know about {NAND} Flash},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JeongHLK13,
+  author    = {Jaeyong Jeong and
+               Sangwook Shane Hahn and
+               Sungjin Lee and
+               Jihong Kim},
+  title     = {Improving {NAND} Endurance by Dynamic Program and Erase Scaling},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JungK13,
+  author    = {Myoungsoo Jung and
+               Mahmut T. Kandemir},
+  title     = {Challenges in Getting Flash Drives Closer to {CPU}},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiuPLK13,
+  author    = {Qing Liu and
+               Norbert Podhorszki and
+               Jeremy Logan and
+               Scott Klasky},
+  title     = {Runtime I/O {Re-Routing} + Throttling on {HPC} Storage},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LuAA13,
+  author    = {Lanyue Lu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Fault Isolation and Quick Recovery in Isolation File Systems},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ManousakisMB13,
+  author    = {Ioannis Manousakis and
+               Manolis Marazakis and
+               Angelos Bilas},
+  title     = {FDIO: A Feedback Driven Controller for Minimizing Energy in I/{O-Intensive} Applications},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MoonR13,
+  author    = {Sangwhan Moon and
+               A. L. Narasimha Reddy},
+  title     = {Don't Let {RAID} Raid the Lifetime of Your {SSD} Array},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/RashmiSGKBR13,
+  author    = {K. V. Rashmi and
+               Nihar B. Shah and
+               Dikang Gu and
+               Hairong Kuang and
+               Dhruba Borthakur and
+               Kannan Ramchandran},
+  title     = {A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShaferSRG13,
+  author    = {Ilari Shafer and
+               Raja R. Sambasivan and
+               Anthony Rowe and
+               Gregory R. Ganger},
+  title     = {Specialized Storage for Big Numeric Time Series},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShinYKCJY13,
+  author    = {Dongin Shin and
+               Youngjin Yu and
+               Hyeong Seog Kim and
+               Jae-Woo Choi and
+               Do Yung Jung and
+               Heon Young Yeom},
+  title     = {Dynamic Interval Polling and Pipelined Post I/O Processing for {Low-Latency} Storage Class Memory},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SmaldoneWH13,
+  author    = {Stephen Smaldone and
+               Grant Wallace and
+               Windsor Hsu},
+  title     = {Efficiently Storing Virtual Machine Backups},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/TarasovJHTKZ13,
+  author    = {Vasily Tarasov and
+               Deepak Jain and
+               Dean Hildebrand and
+               Renu Tewari and
+               Geoff Kuenning and
+               Erez Zadok},
+  title     = {Improving I/O Performance Using Virtual Disk Introspection},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangDAA13,
+  author    = {Yupu Zhang and
+               Chris Dragga and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {*-Box: Towards Reliability and Consistency in Dropbox-like File Synchronization Services},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangYNT13,
+  author    = {Wei Zhang and
+               Tao Yang and
+               Gautham Narayanasamy and
+               Hong Tang},
+  title     = {{Low-Cost} Data Deduplication for Virtual Machine Backup in Cloud Storage},
+  booktitle = hotstorage,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Elnably0GV12,
+  author    = {Ahmed Elnably and
+               Hui Wang and
+               Ajay Gulati and
+               Peter J. Varman},
+  title     = {Efficient {QoS} for {Multi-Tiered} Storage Systems},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/EsmetBFK12,
+  author    = {John Esmet and
+               Michael A. Bender and
+               Martin Farach-Colton and
+               Bradley C. Kuszmaul},
+  title     = {The {TokuFS} Streaming File System},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Goldszmidt12,
+  author    = {Moisés Goldszmidt},
+  title     = {Finding {Soon-to-Fail} Disks in a Haystack},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JungK12,
+  author    = {Myoungsoo Jung and
+               Mahmut T. Kandemir},
+  title     = {An Evaluation of Different Page Allocation Strategies on {High-Speed} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KathpalKB12,
+  author    = {Atish Kathpal and
+               Mandar Kulkarni and
+               Ajay Bakre},
+  title     = {Analyzing Compute vs. Storage Tradeoff for Video-aware Storage Efficiency},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LekakisBK12,
+  author    = {Vassilios Lekakis and
+               Yunus Basagalar and
+               Pete Keleher},
+  title     = {Don't Trust Your Roommate, or, Access Control and Replication Protocols in "Home" Environments},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MihailescuSA12,
+  author    = {Madalin Mihailescu and
+               Gokul Soundararajan and
+               Cristiana Amza},
+  title     = {MixApart: Decoupled Analytics for Shared Storage Systems},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/NowlanFG12,
+  author    = {Michael F. Nowlan and
+               Bryan Ford and
+               Ramakrishna Gummadi},
+  title     = {{Non-Linear} Compression: Gzip Me Not!},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/PipadaKGBSN12,
+  author    = {Pankaj Pipada and
+               Achintya Kundu and
+               Kanchi Gopinath and
+               Chiranjib Bhattacharyya and
+               Sai Susarla and
+               P. C. Nagesh},
+  title     = {LoadIQ: Learning to Identify Workload Phases from a Live Storage Trace},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShilaneWHH12,
+  author    = {Philip Shilane and
+               Grant Wallace and
+               Mark Huang and
+               Windsor Hsu},
+  title     = {Delta Compressed and Deduplicated Storage Using {Stream-Informed} Locality},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ShinBGMW12,
+  author    = {Ji-Yong Shin and
+               Mahesh Balakrishnan and
+               Lakshmi Ganesh and
+               Tudor Marian and
+               Hakim Weatherspoon},
+  title     = {Gecko: A {Contention-Oblivious} Design for Cloud Storage},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ThereskaGH12,
+  author    = {Eno Thereska and
+               Philip Gosset and
+               Richard H. R. Harper},
+  title     = {Multi-structured Redundancy},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YuSSSEY12,
+  author    = {Youngjin Yu and
+               Dongin Shin and
+               Woong Shin and
+               Nae Young Song and
+               Hyeonsang Eom and
+               Heon Young Yeom},
+  title     = {Exploiting Peak Device Throughput from Random Access Workload},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhengBS12,
+  author    = {Da Zheng and
+               Randal C. Burns and
+               Alexander S. Szalay},
+  title     = {A Parallel Page Cache: {IOPS} and Caching for Multicore Systems},
+  booktitle = hotstorage,
+  year      = 2012,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AkelCMGS11,
+  author    = {Ameen Akel and
+               Adrian M. Caulfield and
+               Todor I. Mollov and
+               Rajesh K. Gupta and
+               Steven Swanson},
+  title     = {Onyx: A Prototype Phase Change Memory Storage Array},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BairavasundaramSMVK11,
+  author    = {Lakshmi N. Bairavasundaram and
+               Gokul Soundararajan and
+               Vipul Mathur and
+               Kaladhar Voruganti and
+               Steven Kleiman},
+  title     = {Italian for Beginners: The Next Steps for {SLO-Based} Management},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BenderFJKMMSSZ11,
+  author    = {Michael A. Bender and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Bradley C. Kuszmaul and
+               Dzejla Medjedovic and
+               Pablo Montes and
+               Pradeep Shetty and
+               Richard P. Spillane and
+               Erez Zadok},
+  title     = {Don't Thrash: How to Cache Your Hash on Flash},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KatiyarW11,
+  author    = {Atul Katiyar and
+               Jon B. Weissman},
+  title     = {ViDeDup: An {Application-Aware} Framework for Video De-duplication},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KhanBPH11,
+  author    = {Osama Khan and
+               Randal C. Burns and
+               James S. Plank and
+               Cheng Huang},
+  title     = {In Search of I/{O-Optimal} Recovery from Disk Failures},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/TwiggBMMWW11,
+  author    = {Andrew Twigg and
+               Andrew Byde and
+               Grzegorz Milos and
+               Tim D. Moreton and
+               John Wilkes and
+               Tom Wilkie},
+  title     = {Stratified B-trees and Versioned Dictionaries},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/UsecheKV11,
+  author    = {Luis Useche and
+               Ricardo Koller and
+               Akshat Verma},
+  title     = {Truly Non-blocking Writes},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WiresSW11,
+  author    = {Jake Wires and
+               Mark Spear and
+               Andrew Warfield},
+  title     = {Exposing File System Mappings with {MapFS}},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WuD011,
+  author    = {Qi Wu and
+               Guiqiang Dong and
+               Tong Zhang},
+  title     = {Exploiting {Heat-Accelerated} Flash Memory {Wear-Out} Recovery to Enable {Self-Healing} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YooWCKCY11,
+  author    = {Balgeun Yoo and
+               Youjip Won and
+               Seokhei Cho and
+               Sooyong Kang and
+               Jongmoo Choi and
+               Sungroh Yoon},
+  title     = {{SSD} Characterization: From Energy Consumption's Perspective},
+  booktitle = hotstorage,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AppuswamyMT10,
+  author    = {Raja Appuswamy and
+               David C. van Moolenbroek and
+               Andrew S. Tanenbaum},
+  title     = {Block-level {RAID} Is Dead},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Arpaci-DusseauAP10,
+  author    = {Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Vijayan Prabhakaran},
+  title     = {Removing the Costs of Indirection in Flash-based {SSDs} with Nameless Writes},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/EfstathopoulosG10,
+  author    = {Petros Efstathopoulos and
+               Fanglu Guo},
+  title     = {Rethinking Deduplication Scalability},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/GokhaleANU10,
+  author    = {Salil Gokhale and
+               Nitin Agrawal and
+               Sean Noonan and
+               Cristian Ungureanu},
+  title     = {{KVZone} and the Search for a {Write-Optimized} {Key-Value} Store},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/GreenanPW10,
+  author    = {Kevin M. Greenan and
+               James S. Plank and
+               Jay J. Wylie},
+  title     = {Mean Time to Meaningless: MTTDL, Markov Models, and Storage System Reliability},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MeyerSWZHW10,
+  author    = {Dutch T. Meyer and
+               Mohammad Shamma and
+               Jake Wires and
+               Quan Zhang and
+               Norman C. Hutchinson and
+               Andrew Warfield},
+  title     = {Fast and Cautious Evolution of Cloud Storage},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MohanSGS10,
+  author    = {Vidyabhushan Mohan and
+               Taniya Siddiqua and
+               Sudhanva Gurumurthi and
+               Mircea R. Stan},
+  title     = {How I Learned to Stop Worrying and Love Flash Endurance},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Peek10,
+  author    = {Daniel Peek},
+  title     = {TrapperKeeper: The Case for Using Virtualization to Add Type Awareness to File Systems},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/PrabhakaranBDW10,
+  author    = {Vijayan Prabhakaran and
+               Mahesh Balakrishnan and
+               John D. Davis and
+               Ted Wobber},
+  title     = {Depletable Storage Systems},
+  booktitle = hotstorage,
+  year      = 2010,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SuzukiBHHKUTSY10,
+  author    = {Jun Suzuki and
+               Teruyuki Baba and
+               Yoichi Hidaka and
+               Junichi Higuchi and
+               Nobuharu Kami and
+               Satoshi Uchida and
+               Masahiko Takahashi and
+               Tomoyoshi Sugawara and
+               Takashi Yoshikawa},
+  title     = {Adaptive Memory System over Ethernet},
+  booktitle = hotstorage,
+  year      = 2010,
+}
