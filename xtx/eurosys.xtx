@@ -23,6 +23,17 @@
   pages     = {1-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/SemmlerRSF20,
+  author    = {Niklas Semmler and
+               Matthias Rost and
+               Georgios Smaragdakis and
+               Anja Feldmann},
+  title     = {Edge replication strategies for wide-area distributed processing},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {1-6},
+}
+
 @inproceedings{DBLP:conf/eurosys/Gong00ZCQLL20,
   author    = {Liangyi Gong and
                Zhenhua Li and
@@ -152,6 +163,15 @@
   pages     = {7-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/CookeF20,
+  author    = {Ryan A. Cooke and
+               Suhaib A. Fahmy},
+  title     = {Quantifying the latency benefits of near-edge and in-network {FPGA} acceleration},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {7-12},
+}
+
 @inproceedings{DBLP:conf/eurosys/HowardM20,
   author    = {Heidi Howard and
                Richard Mortier},
@@ -275,6 +295,15 @@
   pages     = {13-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/LarreaB20,
+  author    = {Jon Larrea and
+               Antonio Barbalace},
+  title     = {The serverkernel operating system},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {13-18},
+}
+
 @inproceedings{DBLP:conf/eurosys/AmaroBLOAPRS20,
   author    = {Emmanuel Amaro and
                Christopher Branner-Augmon and
@@ -370,6 +399,17 @@
   pages     = {19-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/DeyannisKVI20,
+  author    = {Dimitris Deyannis and
+               Dimitris Karnikis and
+               Giorgos Vasiliadis and
+               Sotiris Ioannidis},
+  title     = {An enclave assisted snapshot-based kernel integrity monitor},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {19-24},
+}
+
 @inproceedings{DBLP:conf/eurosys/JinCLZJC20,
   author    = {Tatiana Jin and
                Zhenkun Cai and
@@ -441,6 +481,21 @@
   booktitle = eurosys,
   year      = 2020,
   pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/FeraudoYSPMWBC20,
+  author    = {Angelo Feraudo and
+               Poonam Yadav and
+               Vadim Safronov and
+               Diana Andreea Popescu and
+               Richard Mortier and
+               Shiqiang Wang and
+               Paolo Bellavista and
+               Jon Crowcroft},
+  title     = {CoLearn: enabling federated learning in {MUD-compliant} {IoT} edge networks},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {25-30},
 }
 
 @inproceedings{DBLP:conf/eurosys/RosenfeldZAFT20,
@@ -520,6 +575,16 @@
   pages     = {31-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/BerloSO20,
+  author    = {Bram van Berlo and
+               Aaqib Saeed and
+               Tanir Ozcelebi},
+  title     = {Towards federated unsupervised representation learning},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {31-36},
+}
+
 @inproceedings{DBLP:conf/eurosys/CaddenUADKA20,
   author    = {James Cadden and
                Thomas Unger and
@@ -593,6 +658,18 @@
   pages     = {37-1},
 }
 
+@inproceedings{DBLP:conf/eurosys/DanishBBLM20,
+  author    = {Matthew Danish and
+               Justas Brazauskas and
+               Rob Bricheno and
+               Ian Lewis and
+               Richard Mortier},
+  title     = {DeepDish: multi-object tracking with an off-the-shelf Raspberry Pi},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {37-42},
+}
+
 @inproceedings{DBLP:conf/eurosys/LeeKSAS20,
   author    = {Dayeol Lee and
                David Kohlbrenner and
@@ -662,6 +739,58 @@
   booktitle = eurosys,
   year      = 2020,
   pages     = {43-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HappB20,
+  author    = {Daniel Happ and
+               Suzan Bayhan},
+  title     = {On the impact of clustering for {IoT} analytics and message broker placement across cloud and edge},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhaoHSEB20,
+  author    = {Yuchen Zhao and
+               Hamed Haddadi and
+               Severin Skillman and
+               Shirin Enshaeifar and
+               Payam M. Barnaghi},
+  title     = {Privacy-preserving activity and health monitoring on databox},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiangOS20,
+  author    = {Yilei Liang and
+               Dan O'Keeffe and
+               Nishanth Sastry},
+  title     = {PAIGE: towards a hybrid-edge design for privacy-preserving intelligent personal assistants},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/eurosys/Truex0CGW20,
+  author    = {Stacey Truex and
+               Ling Liu and
+               Ka Ho Chow and
+               Mehmet Emre Gursoy and
+               Wenqi Wei},
+  title     = {LDP-Fed: federated learning with local differential privacy},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/eurosys/KurajS20,
+  author    = {Ivan Kuraj and
+               Armando Solar-Lezama},
+  title     = {Aspect-oriented language for reactive distributed applications at the edge},
+  booktitle = eurosys,
+  year      = 2020,
+  pages     = {67-72},
 }
 
 @inproceedings{DBLP:conf/eurosys/Ferreira19,

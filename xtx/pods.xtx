@@ -1,5 +1,316 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pods/Grohe20,
+  author    = {Martin Grohe},
+  title     = {word2vec, node2vec, graph2vec, X2vec: Towards a Theory of Vector Embeddings of Structured Data},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/pods/GottlobBG20,
+  author    = {Georg Gottlob and
+               Jan Van den Bussche and
+               Dirk Van Gucht},
+  title     = {2020 {ACM} {PODS} Alberto O. Mendelzon {Test-of-Time} Award},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {17},
+}
+
+@inproceedings{DBLP:conf/pods/Suciu20,
+  author    = {Dan Suciu},
+  title     = {Probabilistic Databases for All},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {19-31},
+}
+
+@inproceedings{DBLP:conf/pods/ConsoleGLT20,
+  author    = {Marco Console and
+               Paolo Guagliardo and
+               Leonid Libkin and
+               Etienne Toussaint},
+  title     = {Coping with Incomplete Data: Recent Advances},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {33-47},
+}
+
+@inproceedings{DBLP:conf/pods/Ben-EliezerY20,
+  author    = {Omri Ben-Eliezer and
+               Eylon Yogev},
+  title     = {The Adversarial Robustness of Sampling},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {49-62},
+}
+
+@inproceedings{DBLP:conf/pods/Ben-EliezerJWY20,
+  author    = {Omri Ben-Eliezer and
+               Rajesh Jayaram and
+               David P. Woodruff and
+               Eylon Yogev},
+  title     = {A Framework for Adversarially Robust Streaming Algorithms},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {63-80},
+}
+
+@inproceedings{DBLP:conf/pods/CormodeV20,
+  author    = {Graham Cormode and
+               Pavel Veselý},
+  title     = {A Tight Lower Bound for {Comparison-Based} Quantile Summaries},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {81-93},
+}
+
+@inproceedings{DBLP:conf/pods/KhamisK0S20,
+  author    = {Mahmoud Abo Khamis and
+               Phokion G. Kolaitis and
+               Hung Q. Ngo and
+               Dan Suciu},
+  title     = {Bag Query Containment and Information Theory},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {95-112},
+}
+
+@inproceedings{DBLP:conf/pods/KoutrisW20,
+  author    = {Paraschos Koutris and
+               Jef Wijsen},
+  title     = {{First-Order} Rewritability in Consistent Query Answering with Respect to Multiple Keys},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {113-129},
+}
+
+@inproceedings{DBLP:conf/pods/BenediktKO020,
+  author    = {Michael Benedikt and
+               Stanislav Kikot and
+               Piotr Ostropolski-Nalewaja and
+               Miguel Romero},
+  title     = {On Monotonic Determinacy and Rewritability for Recursive Queries and Views},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {131-148},
+}
+
+@inproceedings{DBLP:conf/pods/Monet20,
+  author    = {Mikaël Monet},
+  title     = {Solving a Special Case of the Intensional vs Extensional Conjecture in Probabilistic Databases},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {149-163},
+}
+
+@inproceedings{DBLP:conf/pods/ArenasBM20,
+  author    = {Marcelo Arenas and
+               Pablo Barceló and
+               Mikaël Monet},
+  title     = {Counting Problems over Incomplete Databases},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {165-177},
+}
+
+@inproceedings{DBLP:conf/pods/ConsoleHL20,
+  author    = {Marco Console and
+               Matthias Hofer and
+               Leonid Libkin},
+  title     = {Queries with Arithmetic on Incomplete Databases},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {179-189},
+}
+
+@inproceedings{DBLP:conf/pods/0001P020,
+  author    = {Martin Aumüller and
+               Rasmus Pagh and
+               Francesco Silvestri},
+  title     = {Fair Near Neighbor Search: Independent Range Sampling in High Dimensions},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {191-204},
+}
+
+@inproceedings{DBLP:conf/pods/GoswamiJP20,
+  author    = {Mayank Goswami and
+               Riko Jacob and
+               Rasmus Pagh},
+  title     = {On the I/O Complexity of the {k-Nearest} Neighbors Problem},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {205-212},
+}
+
+@inproceedings{DBLP:conf/pods/AgarwalSS20,
+  author    = {Pankaj K. Agarwal and
+               Stavros Sintos and
+               Alex Steiger},
+  title     = {Efficient Indexes for Diverse Top-k Range Queries},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {213-227},
+}
+
+@inproceedings{DBLP:conf/pods/Darwiche20,
+  author    = {Adnan Darwiche},
+  title     = {Three Modern Roles for Logic in {AI}},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {229-243},
+}
+
+@inproceedings{DBLP:conf/pods/GogaczMP20,
+  author    = {Tomasz Gogacz and
+               Jerzy Marcinkowski and
+               Andreas Pieris},
+  title     = {{All-Instances} Restricted Chase Termination},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {245-258},
+}
+
+@inproceedings{DBLP:conf/pods/BarceloDFLP20,
+  author    = {Pablo Barceló and
+               Victor Dalmau and
+               Cristina Feier and
+               Carsten Lutz and
+               Andreas Pieris},
+  title     = {The Limits of Efficiency for Open- and {Closed-World} Query Evaluation Under Guarded {TGDs}},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {259-270},
+}
+
+@inproceedings{DBLP:conf/pods/FreireGIM20,
+  author    = {Cibele Freire and
+               Wolfgang Gatterbauer and
+               Neil Immerman and
+               Alexandra Meliou},
+  title     = {New Results for the Complexity of Resilience for Binary Conjunctive Queries with {Self-Joins}},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {271-284},
+}
+
+@inproceedings{DBLP:conf/pods/ReshefKL20,
+  author    = {Alon Reshef and
+               Benny Kimelfeld and
+               Ester Livshits},
+  title     = {The Impact of Negation on the Complexity of the Shapley Value in Conjunctive Queries},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {285-297},
+}
+
+@inproceedings{DBLP:conf/pods/SegoufinV20,
+  author    = {Luc Segoufin and
+               Victor Vianu},
+  title     = {Projection Views of Register Automata},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {299-313},
+}
+
+@inproceedings{DBLP:conf/pods/Ketsman0NV20,
+  author    = {Bas Ketsman and
+               Christoph Koch and
+               Frank Neven and
+               Brecht Vandevoort},
+  title     = {Deciding Robustness for Lower {SQL} Isolation Levels},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {315-330},
+}
+
+@inproceedings{DBLP:conf/pods/000120,
+  author    = {Arnaud Durand},
+  title     = {{Fine-Grained} Complexity Analysis of Queries: From Decision to Counting and Enumeration},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {331-346},
+}
+
+@inproceedings{DBLP:conf/pods/GroheKKL20,
+  author    = {Martin Grohe and
+               Benjamin Lucien Kaminski and
+               Joost-Pieter Katoen and
+               Peter Lindner},
+  title     = {Generative Datalog with Continuous Distributions},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {347-360},
+}
+
+@inproceedings{DBLP:conf/pods/Schmid20,
+  author    = {Markus L. Schmid},
+  title     = {Conjunctive Regular Path Queries with String Variables},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {361-374},
+}
+
+@inproceedings{DBLP:conf/pods/0002NOZ20,
+  author    = {Ahmet Kara and
+               Milos Nikolic and
+               Dan Olteanu and
+               Haozhe Zhang},
+  title     = {Trade-offs in Static and Dynamic Evaluation of Hierarchical Queries},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {375-392},
+}
+
+@inproceedings{DBLP:conf/pods/CarmeliZBKS20,
+  author    = {Nofar Carmeli and
+               Shai Zeevi and
+               Christoph Berkholz and
+               Benny Kimelfeld and
+               Nicole Schweikardt},
+  title     = {Answering (Unions of) Conjunctive Queries using Random Access and {Random-Order} Enumeration},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {393-409},
+}
+
+@inproceedings{DBLP:conf/pods/Hu020,
+  author    = {Xiao Hu and
+               Ke Yi},
+  title     = {Parallel Algorithms for Sparse Matrix Multiplication and {Join-Aggregate} Queries},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {411-425},
+}
+
+@inproceedings{DBLP:conf/pods/Torunczyk20,
+  author    = {Szymon Torunczyk},
+  title     = {Aggregate Queries on Sparse Databases},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {427-443},
+}
+
+@inproceedings{DBLP:conf/pods/0001V20,
+  author    = {Andrew McGregor and
+               Sofya Vorotnikova},
+  title     = {Triangle and Four Cycle Counting in the Data Stream Model},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {445-456},
+}
+
+@inproceedings{DBLP:conf/pods/BeraS20,
+  author    = {Suman K. Bera and
+               C. Seshadhri},
+  title     = {How the Degeneracy Helps for Triangle Counting in Graph Streams},
+  booktitle = pods,
+  year      = 2020,
+  pages     = {457-467},
+}
+
 @inproceedings{DBLP:conf/pods/Dwork19,
   author    = {Cynthia Dwork},
   title     = {Differential Privacy and the {US} Census},

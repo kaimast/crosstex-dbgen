@@ -33,6 +33,28 @@
   pages     = {i-vi},
 }
 
+@article{DBLP:journals/pvldb/BalazinskaZ20c,
+  author    = {Magdalena Balazinska and
+               Xiaofang Zhou},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {i-vi},
+}
+
+@article{DBLP:journals/pvldb/BalazinskaZ20d,
+  author    = {Magdalena Balazinska and
+               Xiaofang Zhou},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {i-vi},
+}
+
 @article{DBLP:journals/pvldb/GoldsteinABBCGL20,
   author    = {Jonathan Goldstein and
                Ahmed S. Abdelhamid and
@@ -575,6 +597,449 @@
   number    = {7},
   year      = 2020,
   pages     = {1134-1146},
+}
+
+@article{DBLP:journals/pvldb/LuHWL20,
+  author    = {Baotong Lu and
+               Xiangpeng Hao and
+               Tianzheng Wang and
+               Eric Lo},
+  title     = {Dash: Scalable Hashing on Persistent Memory},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1147-1161},
+}
+
+@article{DBLP:journals/pvldb/FerraginaV20,
+  author    = {Paolo Ferragina and
+               Giorgio Vinciguerra},
+  title     = {The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1162-1175},
+}
+
+@article{DBLP:journals/pvldb/MaYZWZJHLLQLCP20,
+  author    = {Minghua Ma and
+               Zheng Yin and
+               Shenglin Zhang and
+               Sheng Wang and
+               Christopher Zheng and
+               Xinhao Jiang and
+               Hanwen Hu and
+               Cheng Luo and
+               Yilin Li and
+               Nengjun Qiu and
+               Feifei Li and
+               Changcheng Chen and
+               Dan Pei},
+  title     = {Diagnosing Root Causes of Intermittent Slow Queries in {Large-Scale} Cloud Databases},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1176-1189},
+}
+
+@article{DBLP:journals/pvldb/ChenDGP20,
+  author    = {Xuhao Chen and
+               Roshan Dathathri and
+               Gurbinder Gill and
+               Keshav Pingali},
+  title     = {Pangolin: An Efficient and Flexible Graph Mining System on {CPU} and {GPU}},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1190-1205},
+}
+
+@article{DBLP:journals/pvldb/DreselerBRU20,
+  author    = {Markus Dreseler and
+               Martin Boissier and
+               Tilmann Rabl and
+               Matthias Uflacker},
+  title     = {Quantifying {TPC-H} Choke Points and Their Optimizations},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1206-1220},
+}
+
+@article{DBLP:journals/pvldb/LiWJLL20,
+  author    = {Yuanbing Li and
+               Xian Wu and
+               Yifei Jin and
+               Jian Li and
+               Guoliang Li},
+  title     = {Efficient Algorithms for {Crowd-Aided} Categorization},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1221-1233},
+}
+
+@article{DBLP:journals/pvldb/WangQDYHX20,
+  author    = {Shaowei Wang and
+               Yuqiu Qian and
+               Jiachun Du and
+               Wei Yang and
+               Liusheng Huang and
+               Hongli Xu},
+  title     = {Set-valued Data Publication with Local Privacy: Tight Error Bounds and Efficient Mechanisms},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1234-1247},
+}
+
+@article{DBLP:journals/pvldb/FegarasN20,
+  author    = {Leonidas Fegaras and
+               Md Hasanuzzaman Noor},
+  title     = {Translation of {Array-Based} Loops to Distributed {Data-Parallel} Programs},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1248-1260},
+}
+
+@article{DBLP:journals/pvldb/FanLTXZ20,
+  author    = {Wenfei Fan and
+               Muyang Liu and
+               Chao Tian and
+               Ruiqi Xu and
+               Jingren Zhou},
+  title     = {Incrementalization of Graph Partitioning Algorithms},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1261-1274},
+}
+
+@article{DBLP:journals/pvldb/KoLSLYY20,
+  author    = {Shao-Heng Ko and
+               Hsu-Chao Lai and
+               Hong-Han Shuai and
+               Wang-Chien Lee and
+               Philip S. Yu and
+               De-Nian Yang},
+  title     = {Optimizing Item and Subgroup Configurations for {Social-Aware} {VR} Shopping},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1275-1289},
+}
+
+@article{DBLP:journals/pvldb/SavvidesKE20,
+  author    = {Savvas Savvides and
+               Darshika Khandelwal and
+               Patrick Eugster},
+  title     = {Efficient {Confidentiality-Preserving} Data Analytics over Symmetrically Encrypted Datasets},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1290-1303},
+}
+
+@article{DBLP:journals/pvldb/GillDHPP20,
+  author    = {Gurbinder Gill and
+               Roshan Dathathri and
+               Loc Hoang and
+               Ramesh Peri and
+               Keshav Pingali},
+  title     = {Single Machine Graph Analytics on Massive Datasets Using Intel Optane {DC} Persistent Memory},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {8},
+  year      = 2020,
+  pages     = {1304-1318},
+}
+
+@article{DBLP:journals/pvldb/ZakharyAA20,
+  author    = {Victor Zakhary and
+               Divy Agrawal and
+               Amr El Abbadi},
+  title     = {Atomic Commitment Across Blockchains},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1319-1331},
+}
+
+@article{DBLP:journals/pvldb/MathewM20,
+  author    = {Ajit Mathew and
+               Changwoo Min},
+  title     = {HydraList: A Scalable {In-Memory} Index Using Asynchronous Updates and Partial Replication},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1332-1345},
+}
+
+@article{DBLP:journals/pvldb/SchvimerDH20,
+  author    = {Judah Schvimer and
+               A. Jesse Jiryu Davis and
+               Max Hirschhorn},
+  title     = {{eXtreme} Modelling in Practice},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1346-1358},
+}
+
+@article{DBLP:journals/pvldb/LyuQLZQZ20,
+  author    = {Bingqing Lyu and
+               Lu Qin and
+               Xuemin Lin and
+               Ying Zhang and
+               Zhengping Qian and
+               Jingren Zhou},
+  title     = {Maximum Biclique Search at Billion Scale},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1359-1372},
+}
+
+@article{DBLP:journals/pvldb/ChepurkoMZFKK20,
+  author    = {Nadiia Chepurko and
+               Ryan Marcus and
+               Emanuel Zgraggen and
+               Raul Castro Fernandez and
+               Tim Kraska and
+               David Karger},
+  title     = {ARDA: Automatic Relational Data Augmentation for Machine Learning},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1373-1387},
+}
+
+@article{DBLP:journals/pvldb/AlkowaileetAC20,
+  author    = {Wail Y. Alkowaileet and
+               Sattam Alsubaiee and
+               Michael J. Carey},
+  title     = {An {LSM-based} Tuple Compaction Framework for Apache {AsterixDB}},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1388-1400},
+}
+
+@article{DBLP:journals/pvldb/ShragaGR20,
+  author    = {Roee Shraga and
+               Avigdor Gal and
+               Haggai Roitman},
+  title     = {ADnEV: {Cross-Domain} Schema Matching using Deep Similarity Matrix Adjustment and Evaluation},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1401-1415},
+}
+
+@article{DBLP:journals/pvldb/ZhouSLF20,
+  author    = {Xuanhe Zhou and
+               Ji Sun and
+               Guoliang Li and
+               Jianhua Feng},
+  title     = {Query Performance Prediction for Concurrent Queries using Graph Embedding},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1416-1428},
+}
+
+@article{DBLP:journals/pvldb/AlquraanKMA20,
+  author    = {Ahmed Alquraan and
+               Alex Kogan and
+               Virendra J. Marathe and
+               Samer Al-Kiswany},
+  title     = {Scalable, {NearZero} Loss Disaster Recovery for Distributed Data Stores},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1429-1442},
+}
+
+@article{DBLP:journals/pvldb/LuWWK20,
+  author    = {Kejing Lu and
+               Hongya Wang and
+               Wei Wang and
+               Mineichi Kudo},
+  title     = {VHP: Approximate Nearest Neighbor Search via Virtual Hypersphere Partitioning},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1443-1455},
+}
+
+@article{DBLP:journals/pvldb/KimMPLHH20,
+  author    = {Hyunjoon Kim and
+               Seunghwan Min and
+               Kunsoo Park and
+               Xuemin Lin and
+               Seok-Hee Hong and
+               Wook-Shin Han},
+  title     = {IDAR: Fast Supergraph Search Using {DAG} Integration},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1456-1468},
+}
+
+@article{DBLP:journals/pvldb/SeleznovaOAS20,
+  author    = {Mariia Seleznova and
+               Behrooz Omidvar-Tehrani and
+               Sihem Amer-Yahia and
+               Eric Simon},
+  title     = {Guided Exploration of User Groups},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1469-1482},
+}
+
+@article{DBLP:journals/pvldb/GongWOX20,
+  author    = {Long Gong and
+               Huayi Wang and
+               Mitsunori Ogihara and
+               Jun Xu},
+  title     = {iDEC: Indexable Distance Estimating Codes for Approximate Nearest Neighbor Search},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1483-1497},
+}
+
+@article{DBLP:journals/pvldb/BianGWY20,
+  author    = {Song Bian and
+               Qintian Guo and
+               Sibo Wang and
+               Jeffrey Xu Yu},
+  title     = {Efficient Algorithms for Budgeted Influence Maximization on Massive Social Networks},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1498-1510},
+}
+
+@article{DBLP:journals/pvldb/PrateekKGR20,
+  author    = {Arneish Prateek and
+               Arijit Khan and
+               Akshit Goyal and
+               Sayan Ranu},
+  title     = {Mining Top-k Pairs of Correlated Subgraphs in a Large Network},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1511-1524},
+}
+
+@article{DBLP:journals/pvldb/BuchnikF20,
+  author    = {Yehonatan Buchnik and
+               Roy Friedman},
+  title     = {FireLedger: A High Throughput Blockchain Consensus Protocol},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1525-1539},
+}
+
+@article{DBLP:journals/pvldb/WangLC20,
+  author    = {Kefei Wang and
+               Jian Liu and
+               Feng Chen},
+  title     = {Put an Elephant into a Fridge: Optimizing Cache Efficiency for In-memory Key-value Stores},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1540-1554},
+}
+
+@article{DBLP:journals/pvldb/PedersenYJ20,
+  author    = {Simon Aagaard Pedersen and
+               Bin Yang and
+               Christian S. Jensen},
+  title     = {Anytime Stochastic Routing with Hybrid Learning},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1555-1567},
+}
+
+@article{DBLP:journals/pvldb/ZhangCCACLL20,
+  author    = {Qizhen Zhang and
+               Yifan Cai and
+               Xinyi Chen and
+               Sebastian Angel and
+               Ang Chen and
+               Vincent Liu and
+               Boon Thau Loo},
+  title     = {Understanding the Effect of Data Center Resource Disaggregation on Production {DBMSs}},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1568-1581},
+}
+
+@article{DBLP:journals/pvldb/TziavelisAGRY20,
+  author    = {Nikolaos Tziavelis and
+               Deepak Ajwani and
+               Wolfgang Gatterbauer and
+               Mirek Riedewald and
+               Xiaofeng Yang},
+  title     = {Optimal Algorithms for Ranked Enumeration of Answers to Full Conjunctive Queries},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1582-1597},
+}
+
+@article{DBLP:journals/pvldb/DhulipalaMKGBGS20,
+  author    = {Laxman Dhulipala and
+               Charles McGuffey and
+               Hongbo Kang and
+               Yan Gu and
+               Guy E. Blelloch and
+               Phillip B. Gibbons and
+               Julian Shun},
+  title     = {Sage: Parallel {Semi-Asymmetric} Graph Algorithms for {NVRAMs}},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {9},
+  year      = 2020,
+  pages     = {1598-1613},
 }
 
 @article{DBLP:journals/pvldb/0002O19,
@@ -1202,7 +1667,7 @@
 
 @article{DBLP:journals/pvldb/ZhangO19,
   author    = {Xiaofei Zhang and
-               Tamer Özsu},
+               M. Tamer Özsu},
   title     = {Correlation Constraint Shortest Path over Large {Multi-Relation} Graphs},
   journal   = pvldb,
   volume    = {12},
@@ -5942,7 +6407,7 @@
   author    = {Avinesh P. V. S. and
                Carsten Binnig and
                Benjamin Hättasch and
-               Christian Meyer and
+               Christian M. Meyer and
                Orkan Özyurt},
   title     = {Sherlock: A System for Interactive Summarization of Large Text Collections},
   journal   = pvldb,

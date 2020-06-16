@@ -58,6 +58,77 @@
   pages     = {5-1},
 }
 
+@article{DBLP:journals/toplas/AmtoftB20,
+  author    = {Torben Amtoft and
+               Anindya Banerjee},
+  title     = {A Theory of Slicing for Imperative Probabilistic Programs},
+  journal   = toplas,
+  volume    = {42},
+  number    = {2},
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/toplas/ZhaoSS20,
+  author    = {David Zhao and
+               Pavle Subotic and
+               Bernhard Scholz},
+  title     = {Debugging Large-scale Datalog: A Scalable Provenance Evaluation Strategy},
+  journal   = toplas,
+  volume    = {42},
+  number    = {2},
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/toplas/GharatKM20,
+  author    = {Pritam M. Gharat and
+               Uday P. Khedker and
+               Alan Mycroft},
+  title     = {Generalized Points-to Graphs: A Precise and Scalable Abstraction for Points-to Analysis},
+  journal   = toplas,
+  volume    = {42},
+  number    = {2},
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/toplas/NarayananS20,
+  author    = {Praveen Narayanan and
+               Chung-chieh Shan},
+  title     = {Symbolic Disintegration with a Variety of Base Measures},
+  journal   = toplas,
+  volume    = {42},
+  number    = {2},
+  year      = 2020,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/LiTMS20,
+  author    = {Yue Li and
+               Tian Tan and
+               Anders Møller and
+               Yannis Smaragdakis},
+  title     = {A Principled Approach to Selective Context Sensitivity for Pointer Analysis},
+  journal   = toplas,
+  volume    = {42},
+  number    = {2},
+  year      = 2020,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/ToroGT20,
+  author    = {Matías Toro and
+               Ronald Garcia and
+               Éric Tanter},
+  title     = {Corrigendum to "Type-driven Gradual Security with References, " by Toro et al., {ACM} Transactions on Programming Languages and Systems (TOPLAS) Volume 40, Issue 4, Article No. 16},
+  journal   = toplas,
+  volume    = {42},
+  number    = {2},
+  year      = 2020,
+  pages     = {11-1},
+}
+
 @article{DBLP:journals/toplas/CogumbreiroHMY19,
   author    = {Tiago Cogumbreiro and
                Raymond Hu and
@@ -5196,7 +5267,7 @@
 }
 
 @article{DBLP:journals/toplas/FokkinkKW00,
-  author    = {Wan Fokkink and
+  author    = {Wan J. Fokkink and
                Jasper Kamperman and
                Pum Walters},
   title     = {Lazy rewriting on eager machinery},
@@ -6054,7 +6125,7 @@
 }
 
 @article{DBLP:journals/toplas/FokkinkKW98,
-  author    = {Wan Fokkink and
+  author    = {Wan J. Fokkink and
                Jasper Kamperman and
                Pum Walters},
   title     = {Within {ARM's} Reach: Compilation of {Left-Linear} Rewrite Systems via Minimal Rewrite Systems},

@@ -1,5 +1,3026 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigmod/GhadakchiXT20,
+  author    = {Vahid Ghadakchi and
+               Mian Xie and
+               Arash Termehchy},
+  title     = {Bandit join: preliminary results},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/GhitPRXB20,
+  author    = {Bogdan Ghit and
+               Nicolás Poggi and
+               Josh Rosen and
+               Reynold Xin and
+               Peter A. Boncz},
+  title     = {SparkFuzz: searching correctness regressions in modern query engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Ragab0ES20,
+  author    = {Mohamed Ragab and
+               Riccardo Tommasini and
+               Sadiq Eyvazov and
+               Sherif Sakr},
+  title     = {Towards making sense of {Spark-SQL} performance for processing vast distributed {RDF} datasets},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Stoica20,
+  author    = {Ion Stoica},
+  title     = {Systems and ML: When the Sum is Greater than Its Parts},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sun20,
+  author    = {Yizhou Sun},
+  title     = {Graph Neural Networks for Graph Search},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanSKA20,
+  author    = {Zhiwei Fan and
+               Rathijit Sen and
+               Paraschos Koutris and
+               Aws Albarghouthi},
+  title     = {Automated tuning of query degree of parallelism via machine learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Hose20,
+  author    = {Katja Hose},
+  title     = {The Web of Data is partially unavailable, so what?: Extended Abstract},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/JankeSL20,
+  author    = {Daniel Janke and
+               Steffen Staab and
+               Martin Leinberger},
+  title     = {Data placement strategies that speed-up distributed graph query processing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Kersten020,
+  author    = {Timo Kersten and
+               Thomas Neumann},
+  title     = {On another level: how to debug compiling query engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/AnandMMS20,
+  author    = {Vaastav Anand and
+               Puneet Mehrotra and
+               Daniel W. Margo and
+               Margo I. Seltzer},
+  title     = {Smooth Kronecker: Solving the Combing Problem in Kronecker Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/GuoD20,
+  author    = {Runsheng Benson Guo and
+               Khuzaima Daudjee},
+  title     = {Research challenges in deep reinforcement learning-based join query optimization},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/IngoD20,
+  author    = {Henrik Ingo and
+               David Daly},
+  title     = {Automated system performance testing at {MongoDB}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/NaackeC20,
+  author    = {Hubert Naacke and
+               Olivier Curé},
+  title     = {Triag, a framework based on triangles of {RDF} triples},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/WeiRA20,
+  author    = {Dong Wei and
+               Senjuti Basu Roy and
+               Sihem Amer-Yahia},
+  title     = {Recommending Deployment Strategies for Collaborative Tasks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-17},
+}
+
+@inproceedings{DBLP:conf/sigmod/Adamoud20,
+  author    = {Alessandro Adamou and
+               Mathieu d'Aquin},
+  title     = {Relaxing global-as-view in mediated data integration from linked data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/FuchsBG20,
+  author    = {Per Fuchs and
+               Peter A. Boncz and
+               Bogdan Ghit},
+  title     = {EdgeFrame: {Worst-Case} Optimal Joins for {Graph-Pattern} Matching in Spark},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/IvanovGCKG20,
+  author    = {Todor Ivanov and
+               Ahmad Ghazal and
+               Alain Crolotte and
+               Pekka Kostamaa and
+               Yoseph Ghazal},
+  title     = {CoreBigBench: Benchmarking big data core operations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/WoltmannHHL20,
+  author    = {Lucas Woltmann and
+               Claudio Hartmann and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {Best of both worlds: combining traditional and machine learning models for cardinality estimation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002STL20,
+  author    = {Michael Günther and
+               Paul Sikorski and
+               Maik Thiele and
+               Wolfgang Lehner},
+  title     = {FacetE: exploiting web tables for domain-specific word embedding evaluation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/KipfMRSKK020,
+  author    = {Andreas Kipf and
+               Ryan Marcus and
+               Alexander van Renen and
+               Mihail Stoian and
+               Alfons Kemper and
+               Tim Kraska and
+               Thomas Neumann},
+  title     = {RadixSpline: a single-pass learned index},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/MandaSM20,
+  author    = {Prashanti Manda and
+               Saed SayedAhmed and
+               Somya D. Mohanty},
+  title     = {Automated ontology-based annotation of scientific literature using deep learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/TerekhovKAG20,
+  author    = {Arseniy Terekhov and
+               Artyom Khoroshev and
+               Rustam Azimov and
+               Semyon Grigorev},
+  title     = {{Context-Free} Path Querying with {Single-Path} Semantics by Matrix Multiplication},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002O020,
+  author    = {Xiaofei Zhang and
+               M. Tamer Özsu and
+               Lei Chen},
+  title     = {ELite: Cost-effective Approximation of Exploration-based Graph Analysis},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/AbdelhamidA20,
+  author    = {Ahmed S. Abdelhamid and
+               Walid G. Aref},
+  title     = {PartLy: learning data partitioning for distributed data stream processing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenWC20,
+  author    = {Xinyue Chen and
+               Chenglong Wang and
+               Alvin Cheung},
+  title     = {Testing query execution engines with mutations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZouaqM20,
+  author    = {Amal Zouaq and
+               Felix Martel},
+  title     = {What is the schema of your knowledge graph?: leveraging knowledge graph embeddings and clustering for expressive taxonomy learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/BottcherHP20,
+  author    = {Stefan Böttcher and
+               Rita Hartel and
+               Sven Peeters},
+  title     = {QSGG: query simulation in grammar-compressed graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/BuchnikC20,
+  author    = {Eliav Buchnik and
+               Edith Cohen},
+  title     = {Graph Learning with {Loss-Guided} Training},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/RehrmannKLBS20,
+  author    = {Robin Rehrmann and
+               Martin Keppner and
+               Wolfgang Lehner and
+               Carsten Binnig and
+               Arne Schwarz},
+  title     = {Workload merging potential in {SAP} Hybris},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/ErekhinskayaSPB20,
+  author    = {Tatiana N. Erekhinskaya and
+               Dmitriy Strebkov and
+               Sujal Patel and
+               Mithun Balakrishna and
+               Marta Tatu and
+               Dan I. Moldovan},
+  title     = {Ten ways of leveraging ontologies for natural language processing and its enterprise applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/WaudbySPS20,
+  author    = {Jack Waudby and
+               Benjamin A. Steer and
+               Arnau Prat-Pérez and
+               Gábor Szárnyas},
+  title     = {Supporting Dynamic Graphs and Temporal Entity Deletions in the {LDBC} Social Network Benchmark's Data Generator},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/EdgarPSBB20,
+  author    = {Vatricia Edgar and
+               Cecilia La Place and
+               Julia Schmidt and
+               Ajay Bansal and
+               Srividya Kona Bansal},
+  title     = {SustainOnt: an ontology for defining an index of neighborhood sustainability across domains},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/RezaRSP20a,
+  author    = {Tahsin Reza and
+               Matei Ripeanu and
+               Geoffrey Sanders and
+               Roger Pearce},
+  title     = {Towards Interactive Pattern Search in Massive Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/SchwabLM20,
+  author    = {Peter K. Schwab and
+               Maximilian S. Langohr and
+               Klaus Meyer-Wegener},
+  title     = {A Framework for {DSL-Based} Query Classification Using Relational and {Graph-Based} Data Models},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/DhulipalaSTBS20,
+  author    = {Laxman Dhulipala and
+               Jessica Shi and
+               Tom Tseng and
+               Guy E. Blelloch and
+               Julian Shun},
+  title     = {The Graph Based Benchmark Suite (GBBS)},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChaiC00LM20,
+  author    = {Chengliang Chai and
+               Lei Cao and
+               Guoliang Li and
+               Jian Li and
+               Yuyu Luo and
+               Samuel Madden},
+  title     = {Human-in-the-loop Outlier Detection},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {19-33},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChanCY20,
+  author    = {Tsz Nam Chan and
+               Reynold Cheng and
+               Man Lung Yiu},
+  title     = {QUAD: {Quadratic-Bound-based} Kernel Density Visualization},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {35-50},
+}
+
+@inproceedings{DBLP:conf/sigmod/SiddiquiLWKP20,
+  author    = {Tarique Siddiqui and
+               Paul Luh and
+               Zesheng Wang and
+               Karrie Karahalios and
+               Aditya G. Parameswaran},
+  title     = {ShapeSearch: A Flexible and Efficient System for Shape-based Exploration of Trendlines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {51-65},
+}
+
+@inproceedings{DBLP:conf/sigmod/DongBKCL020,
+  author    = {Liming Dong and
+               Qiushi Bai and
+               Taewoo Kim and
+               Taiji Chen and
+               Weidong Liu and
+               Chen Li},
+  title     = {Marviq: {Quality-Aware} Geospatial Visualization of {Range-Selection} Queries Using Materialization},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {67-82},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuSH20,
+  author    = {Chenggang Wu and
+               Vikram Sreekanti and
+               Joseph M. Hellerstein},
+  title     = {Transactional Causal Consistency for Serverless Computing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {83-97},
+}
+
+@inproceedings{DBLP:conf/sigmod/SiddiquiJQPL20,
+  author    = {Tarique Siddiqui and
+               Alekh Jindal and
+               Shi Qiao and
+               Hiren Patel and
+               Wangchao Le},
+  title     = {Cost Models for Big Data Query Processing: Learning, Retrofitting, and Our Findings},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {99-113},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002MA20,
+  author    = {Ingo Müller and
+               Renato Marroquin and
+               Gustavo Alonso},
+  title     = {Lambada: Interactive Data Analytics on Cold Data Using Serverless Cloud Infrastructure},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {115-130},
+}
+
+@inproceedings{DBLP:conf/sigmod/PerronFDM20,
+  author    = {Matthew Perron and
+               Raul Castro Fernandez and
+               David J. DeWitt and
+               Samuel Madden},
+  title     = {Starling: A Scalable Query Engine on Cloud Functions},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {131-141},
+}
+
+@inproceedings{DBLP:conf/sigmod/HilprechtBR20,
+  author    = {Benjamin Hilprecht and
+               Carsten Binnig and
+               Uwe Röhm},
+  title     = {Learning a Partitioning Advisor for Cloud Databases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {143-157},
+}
+
+@inproceedings{DBLP:conf/sigmod/Jasny0KRB20,
+  author    = {Matthias Jasny and
+               Tobias Ziegler and
+               Tim Kraska and
+               Uwe Röhm and
+               Carsten Binnig},
+  title     = {DB4{ML} - An {In-Memory} Database Kernel with Machine Learning Support},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {159-173},
+}
+
+@inproceedings{DBLP:conf/sigmod/MaDDS20,
+  author    = {Lin Ma and
+               Bailu Ding and
+               Sudipto Das and
+               Adith Swaminathan},
+  title     = {Active Learning for {ML} Enhanced Database Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {175-191},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangCWGLMLKA20,
+  author    = {Zongheng Yang and
+               Badrish Chandramouli and
+               Chi Wang and
+               Johannes Gehrke and
+               Yinan Li and
+               Umar Farooq Minhas and
+               Per-Åke Larson and
+               Donald Kossmann and
+               Rajeev Acharya},
+  title     = {Qd-tree: Learning Data Layouts for Big Data Analytics},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {193-208},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZolaktafMP20,
+  author    = {Zainab Zolaktaf and
+               Mostafa Milani and
+               Rachel Pottinger},
+  title     = {Facilitating {SQL} Query Composition and Analysis},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {209-224},
+}
+
+@inproceedings{DBLP:conf/sigmod/SikdarJ20,
+  author    = {Sourav Sikdar and
+               Chris Jermaine},
+  title     = {MONSOON: {Multi-Step} Optimization and Execution of Queries with Partially Obscured Predicates},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {225-240},
+}
+
+@inproceedings{DBLP:conf/sigmod/SalimiPKGRS20,
+  author    = {Babak Salimi and
+               Harsh Parikh and
+               Moe Kayali and
+               Lise Getoor and
+               Sudeepa Roy and
+               Dan Suciu},
+  title     = {Causal Relational Learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {241-256},
+}
+
+@inproceedings{DBLP:conf/sigmod/OrrBS20,
+  author    = {Laurel J. Orr and
+               Magdalena Balazinska and
+               Dan Suciu},
+  title     = {Sample Debiasing in the Themis Open World Database System},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {257-268},
+}
+
+@inproceedings{DBLP:conf/sigmod/BrucatoYAHM20,
+  author    = {Matteo Brucato and
+               Nishant Yadav and
+               Azza Abouzied and
+               Peter J. Haas and
+               Alexandra Meliou},
+  title     = {Stochastic Package Queries in Probabilistic Databases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {269-283},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002SKEF20,
+  author    = {Xi Liang and
+               Zechao Shang and
+               Sanjay Krishnan and
+               Aaron J. Elmore and
+               Michael J. Franklin},
+  title     = {Fast and Reliable Missing Data Contingency Analysis with {Predicate-Constraints}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {285-295},
+}
+
+@inproceedings{DBLP:conf/sigmod/KenigMPSS20,
+  author    = {Batya Kenig and
+               Pranay Mundra and
+               Guna Prasaad and
+               Babak Salimi and
+               Dan Suciu},
+  title     = {Mining Approximate Acyclic Schemes from Relations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {297-312},
+}
+
+@inproceedings{DBLP:conf/sigmod/LuoLYBCWLYZ20,
+  author    = {Xusheng Luo and
+               Luxin Liu and
+               Yonghua Yang and
+               Le Bo and
+               Yuanpeng Cao and
+               Jinghang Wu and
+               Qiang Li and
+               Keping Yang and
+               Kenny Q. Zhu},
+  title     = {AliCoCo: Alibaba E-commerce Cognitive Concept Net},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {313-327},
+}
+
+@inproceedings{DBLP:conf/sigmod/BuragohainRBCCC20,
+  author    = {Chiranjeeb Buragohain and
+               Knut Magne Risvik and
+               Paul Brett and
+               Miguel Castro and
+               Wonhee Cho and
+               Joshua Cowhig and
+               Nikolas Gloy and
+               Karthik Kalyanaraman and
+               Richendra Khanna and
+               John Pao and
+               Matthew Renzelmann and
+               Alex Shamis and
+               Timothy Tan and
+               Shuheng Zheng},
+  title     = {A1: A Distributed {In-Memory} Graph Database},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {329-344},
+}
+
+@inproceedings{DBLP:conf/sigmod/TianXZPTSKAP20,
+  author    = {Yuanyuan Tian and
+               En Liang Xu and
+               Wei Zhao and
+               Mir Hamid Pirahesh and
+               Suijun Tong and
+               Wen Sun and
+               Thomas Kolanko and
+               Md. Shahidul Haque Apu and
+               Huijuan Peng},
+  title     = {{IBM} Db2 Graph: Supporting Synergistic and Retrofittable Graph Queries Inside {IBM} Db2},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {345-359},
+}
+
+@inproceedings{DBLP:conf/sigmod/QuamarLMOKME20,
+  author    = {Abdul Quamar and
+               Chuan Lei and
+               Dorian Miller and
+               Fatma Ozcan and
+               Jeffrey Kreulen and
+               Robert J. Moore and
+               Vasilis Efthymiou},
+  title     = {An {Ontology-Based} Conversation System for Knowledge Bases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {361-376},
+}
+
+@inproceedings{DBLP:conf/sigmod/DeutschXWL20,
+  author    = {Alin Deutsch and
+               Yu Xu and
+               Mingxi Wu and
+               Victor E. Lee},
+  title     = {Aggregation Support for Modern Graph Analytics in {TigerGraph}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {377-392},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuGNLWWX20,
+  author    = {Bang Liu and
+               Weidong Guo and
+               Di Niu and
+               Jinwen Luo and
+               Chaoyue Wang and
+               Zhen Wen and
+               Yu Xu},
+  title     = {GIANT: Scalable Creation of a Web-scale Ontology},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {393-409},
+}
+
+@inproceedings{DBLP:conf/sigmod/BalazinskaCAFKS20,
+  author    = {Magda Balazinska and
+               Surajit Chaudhuri and
+               Anastasia Ailamaki and
+               Juliana Freire and
+               Sailesh Krishnamurthy and
+               Michael Stonebraker},
+  title     = {The Next 5 Years: What Opportunities Should the Database Community Seize to Maximize its Impact?},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {411-414},
+}
+
+@inproceedings{DBLP:conf/sigmod/BourhisDM20,
+  author    = {Pierre Bourhis and
+               Daniel Deutch and
+               Yuval Moskovitch},
+  title     = {{Equivalence-Invariant} Algebraic Provenance for Hyperplane Update Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {415-429},
+}
+
+@inproceedings{DBLP:conf/sigmod/FarihaNM20,
+  author    = {Anna Fariha and
+               Suman Nath and
+               Alexandra Meliou},
+  title     = {{Causality-Guided} Adaptive Interventional Debugging},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {431-446},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuTD20,
+  author    = {Yinjun Wu and
+               Val Tannen and
+               Susan B. Davidson},
+  title     = {PrIU: A {Provenance-Based} Approach for Incrementally Updating Regression Models},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {447-462},
+}
+
+@inproceedings{DBLP:conf/sigmod/LourencoFS20,
+  author    = {Raoni Lourenço and
+               Juliana Freire and
+               Dennis E. Shasha},
+  title     = {BugDoc: Algorithms to Debug Computational Processes},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {463-478},
+}
+
+@inproceedings{DBLP:conf/sigmod/Tao0MR20,
+  author    = {Yuchao Tao and
+               Xi He and
+               Ashwin Machanavajjhala and
+               Sudeepa Roy},
+  title     = {Computing Local Sensitivities of Counting Queries with Joins},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {479-494},
+}
+
+@inproceedings{DBLP:conf/sigmod/KimCKYKJ20,
+  author    = {Jong-Bin Kim and
+               Hyunsoo Cho and
+               Kihwang Kim and
+               Jaeseon Yu and
+               Sooyong Kang and
+               Hyungsoo Jung},
+  title     = {Long-lived Transactions Made Less Harmful},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {495-510},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZamanianSBK20,
+  author    = {Erfan Zamanian and
+               Julian Shun and
+               Carsten Binnig and
+               Tim Kraska},
+  title     = {Chiller: Contention-centric Transaction Execution and Data Partitioning for Modern Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {511-526},
+}
+
+@inproceedings{DBLP:conf/sigmod/PrasaadCS20,
+  author    = {Guna Prasaad and
+               Alvin Cheung and
+               Dan Suciu},
+  title     = {Handling Highly Contended {OLTP} Workloads Using Fast Dynamic Partitioning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {527-542},
+}
+
+@inproceedings{DBLP:conf/sigmod/RuanLTZCO20,
+  author    = {Pingcheng Ruan and
+               Dumitrel Loghin and
+               Quang-Trung Ta and
+               Meihui Zhang and
+               Gang Chen and
+               Beng Chin Ooi},
+  title     = {A Transactional Perspective on Execute-order-validate Blockchains},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {543-557},
+}
+
+@inproceedings{DBLP:conf/sigmod/GuptaP020,
+  author    = {Surabhi Gupta and
+               Sanket Purandare and
+               Karthik Ramachandra},
+  title     = {Aggify: Lifting the Curse of Cursor Loops using Custom Aggregates},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {559-573},
+}
+
+@inproceedings{DBLP:conf/sigmod/0012FWY20,
+  author    = {Yang Cao and
+               Wenfei Fan and
+               Yanghao Wang and
+               Ke Yi},
+  title     = {Querying Shared Data with Security Heterogeneity},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {575-585},
+}
+
+@inproceedings{DBLP:conf/sigmod/Hackenjos0K20,
+  author    = {Timon Hackenjos and
+               Florian Hahn and
+               Florian Kerschbaum},
+  title     = {SAGMA: Secure Aggregation Grouped by Multiple Attributes},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {587-601},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChowdhuryW0MJ20,
+  author    = {Amrita Roy Chowdhury and
+               Chenghong Wang and
+               Xi He and
+               Ashwin Machanavajjhala and
+               Somesh Jha},
+  title     = {Crypt?: {Crypto-Assisted} Differential Privacy on Untrusted Servers},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {603-619},
+}
+
+@inproceedings{DBLP:conf/sigmod/Li0LLS20,
+  author    = {Zitao Li and
+               Tianhao Wang and
+               Milan Lopuhaä-Zwakenberg and
+               Ninghui Li and
+               Boris Skoric},
+  title     = {Estimating Numerical Distributions under Local Differential Privacy},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {621-635},
+}
+
+@inproceedings{DBLP:conf/sigmod/PengDL0S20,
+  author    = {Yanqing Peng and
+               Min Du and
+               Feifei Li and
+               Raymond Cheng and
+               Dawn Song},
+  title     = {FalconDB: Blockchain-based Collaborative Database},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {637-652},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangWY0W20,
+  author    = {Hanzhi Wang and
+               Zhewei Wei and
+               Ye Yuan and
+               Xiaoyong Du and
+               Ji-Rong Wen},
+  title     = {Exact {Single-Source} {SimRank} Computation on Large Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {653-663},
+}
+
+@inproceedings{DBLP:conf/sigmod/Yu0KLLCY20,
+  author    = {Ziqiang Yu and
+               Xiaohui Yu and
+               Nick Koudas and
+               Yang Liu and
+               Yifan Li and
+               Yueting Chen and
+               Dingyu Yang},
+  title     = {Distributed Processing of k Shortest Path Queries over Dynamic Road Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {665-679},
+}
+
+@inproceedings{DBLP:conf/sigmod/JachietGGL20,
+  author    = {Louis Jachiet and
+               Pierre Genevès and
+               Nils Gesbert and
+               Nabil Layaïda},
+  title     = {On the Optimization of Recursive Relational Queries: Application to Graph Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {681-697},
+}
+
+@inproceedings{DBLP:conf/sigmod/YingC020,
+  author    = {Tangwei Ying and
+               Hanhua Chen and
+               Hai Jin},
+  title     = {Pensieve: {Skewness-Aware} Version Switching for Efficient Graph Processing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {699-713},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanFLLTZ20,
+  author    = {Grace Fan and
+               Wenfei Fan and
+               Yuanhao Li and
+               Ping Lu and
+               Chao Tian and
+               Jingren Zhou},
+  title     = {Extending Graph Patterns with Conditions},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {715-729},
+}
+
+@inproceedings{DBLP:conf/sigmod/LibertyKXRCNDSA20,
+  author    = {Edo Liberty and
+               Zohar S. Karnin and
+               Bing Xiang and
+               Laurence Rouesnel and
+               Baris Coskun and
+               Ramesh Nallapati and
+               Julio Delgado and
+               Amir Sadoughi and
+               Yury Astashonok and
+               Piali Das and
+               Can Balioglu and
+               Saswata Chakravarty and
+               Madhav Jha and
+               Philip Gautier and
+               David Arpin and
+               Tim Januschowski and
+               Valentin Flunkert and
+               Yuyang Wang and
+               Jan Gasthaus and
+               Lorenzo Stella and
+               Syama Sundar Rangapuram and
+               David Salinas and
+               Sebastian Schelter and
+               Alex Smola},
+  title     = {Elastic Machine Learning Algorithms in Amazon {SageMaker}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {731-737},
+}
+
+@inproceedings{DBLP:conf/sigmod/CaoG0WLXFWLZ20,
+  author    = {Wei Cao and
+               Yusong Gao and
+               Feifei Li and
+               Sheng Wang and
+               Bingchen Lin and
+               Ke Xu and
+               Xiaojie Feng and
+               Yucong Wang and
+               Zhenjun Liu and
+               Gejin Zhang},
+  title     = {Timon: A Timestamped Event Database for Efficient Telemetry Data Processing and Analytics},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {739-753},
+}
+
+@inproceedings{DBLP:conf/sigmod/FardLLDB20,
+  author    = {Arash Fard and
+               Anh Le and
+               George Larionov and
+               Waqas Dhillon and
+               Chuck Bear},
+  title     = {Vertica-ML: Distributed Machine Learning in Vertica Database},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {755-768},
+}
+
+@inproceedings{DBLP:conf/sigmod/HigginsonDAPE20,
+  author    = {Antony S. Higginson and
+               Mihaela Dediu and
+               Octavian Arsene and
+               Norman W. Paton and
+               Suzanne M. Embury},
+  title     = {Database Workload Capacity Planning using Time Series Analysis and Machine Learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {769-783},
+}
+
+@inproceedings{DBLP:conf/sigmod/SmithSKV20,
+  author    = {Micah J. Smith and
+               Carles Sala and
+               James Max Kanter and
+               Kalyan Veeramachaneni},
+  title     = {The Machine Learning Bazaar: Harnessing the {ML} Ecosystem for Effective System Development},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {785-800},
+}
+
+@inproceedings{DBLP:conf/sigmod/Noy20,
+  author    = {Natasha F. Noy},
+  title     = {When the Web is your Data Lake: Creating a Search Engine for Datasets on the Web},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {801},
+}
+
+@inproceedings{DBLP:conf/sigmod/Syed20,
+  author    = {Awez Syed},
+  title     = {The Challenge of Building Effective, Enterprise-scale Data Lakes},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {803},
+}
+
+@inproceedings{DBLP:conf/sigmod/GiannakopoulouK20,
+  author    = {Stella Giannakopoulou and
+               Manos Karpathiotakis and
+               Anastasia Ailamaki},
+  title     = {Cleaning Denial Constraint Violations through Relaxation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {805-815},
+}
+
+@inproceedings{DBLP:conf/sigmod/GiladDR20,
+  author    = {Amir Gilad and
+               Daniel Deutch and
+               Sudeepa Roy},
+  title     = {On Multiple Semantics for Declarative Database Repairs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {817-831},
+}
+
+@inproceedings{DBLP:conf/sigmod/WeiHL20,
+  author    = {Ziheng Wei and
+               Sven Hartmann and
+               Sebastian Link},
+  title     = {Discovery Algorithms for Embedded Functional Dependencies},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {833-843},
+}
+
+@inproceedings{DBLP:conf/sigmod/YanSZWC20,
+  author    = {Jing Nathan Yan and
+               Oliver Schulte and
+               Mohan Zhang and
+               Jiannan Wang and
+               Reynold Cheng},
+  title     = {SCODED: Statistical Constraint Oriented Data Error Detection},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {845-860},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangGR20,
+  author    = {Yunjia Zhang and
+               Zhihan Guo and
+               Theodoros Rekatsinas},
+  title     = {A Statistical Perspective on Discovering Functional Dependencies in Noisy Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {861-876},
+}
+
+@inproceedings{DBLP:conf/sigmod/HaubenschildS0L20,
+  author    = {Michael Haubenschild and
+               Caetano Sauer and
+               Thomas Neumann and
+               Viktor Leis},
+  title     = {Rethinking Logging, Checkpoints, and Recovery for {High-Performance} Storage Engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {877-892},
+}
+
+@inproceedings{DBLP:conf/sigmod/SarkarPSA20,
+  author    = {Subhadeep Sarkar and
+               Tarikul Islam Papon and
+               Dimitris Staratzis and
+               Manos Athanassoulis},
+  title     = {Lethe: A Tunable {Delete-Aware} {LSM} Engine},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {893-908},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiZGHHJHW20,
+  author    = {Linwei Li and
+               Kai Zhang and
+               Jiading Guo and
+               Wen He and
+               Zhenying He and
+               Yinan Jing and
+               Weili Han and
+               X. Sean Wang},
+  title     = {BinDex: A {Two-Layered} Index for Fast and Robust Scans},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {909-923},
+}
+
+@inproceedings{DBLP:conf/sigmod/YueXZCOWX20,
+  author    = {Cong Yue and
+               Zhongle Xie and
+               Meihui Zhang and
+               Gang Chen and
+               Beng Chin Ooi and
+               Sheng Wang and
+               Xiaokui Xiao},
+  title     = {Analysis of Indexing Structures for Immutable Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {925-935},
+}
+
+@inproceedings{DBLP:conf/sigmod/LangBLB0K20,
+  author    = {Harald Lang and
+               Alexander Beischl and
+               Viktor Leis and
+               Peter A. Boncz and
+               Thomas Neumann and
+               Alfons Kemper},
+  title     = {{Tree-Encoded} Bitmaps},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {937-967},
+}
+
+@inproceedings{DBLP:conf/sigmod/DingMYWDLZCGKLK20,
+  author    = {Jialin Ding and
+               Umar Farooq Minhas and
+               Jia Yu and
+               Chi Wang and
+               Jaeyoung Do and
+               Yinan Li and
+               Hantian Zhang and
+               Badrish Chandramouli and
+               Johannes Gehrke and
+               Donald Kossmann and
+               David B. Lomet and
+               Tim Kraska},
+  title     = {ALEX: An Updatable Adaptive Learned Index},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {969-984},
+}
+
+@inproceedings{DBLP:conf/sigmod/NathanDAK20,
+  author    = {Vikram Nathan and
+               Jialin Ding and
+               Mohammad Alizadeh and
+               Tim Kraska},
+  title     = {Learning {Multi-Dimensional} Indexes},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {985-1000},
+}
+
+@inproceedings{DBLP:conf/sigmod/KristoVCMK20,
+  author    = {Ani Kristo and
+               Kapil Vaidya and
+               Ugur Çetintemel and
+               Sanchit Misra and
+               Tim Kraska},
+  title     = {The Case for a Learned Sorting Algorithm},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1001-1016},
+}
+
+@inproceedings{DBLP:conf/sigmod/ParkZM20,
+  author    = {Yongjoo Park and
+               Shucheng Zhong and
+               Barzan Mozafari},
+  title     = {QuickSel: Quick Selectivity Learning with Mixture Models},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1017-1033},
+}
+
+@inproceedings{DBLP:conf/sigmod/HasanTAK020,
+  author    = {Shohedul Hasan and
+               Saravanan Thirumuruganathan and
+               Jees Augustine and
+               Nick Koudas and
+               Gautam Das},
+  title     = {Deep Learning Models for Selectivity Estimation of {Multi-Attribute} Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1035-1050},
+}
+
+@inproceedings{DBLP:conf/sigmod/MaFCL0020,
+  author    = {Chenhao Ma and
+               Yixiang Fang and
+               Reynold Cheng and
+               Laks V. S. Lakshmanan and
+               Wenjie Zhang and
+               Xuemin Lin},
+  title     = {Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1051-1066},
+}
+
+@inproceedings{DBLP:conf/sigmod/GuoL0HXT20,
+  author    = {Wentian Guo and
+               Yuchen Li and
+               Mo Sha and
+               Bingsheng He and
+               Xiaokui Xiao and
+               Kian-Lee Tan},
+  title     = {{GPU-Accelerated} Subgraph Enumeration on Partitioned Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1067-1082},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sun020,
+  author    = {Shixuan Sun and
+               Qiong Luo},
+  title     = {{In-Memory} Subgraph Matching: An In-depth Study},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1083-1098},
+}
+
+@inproceedings{DBLP:conf/sigmod/ParkKBKHH20,
+  author    = {Yeonsu Park and
+               Seongyun Ko and
+               Sourav S. Bhowmick and
+               Kyoungmin Kim and
+               Kijae Hong and
+               Wook-Shin Han},
+  title     = {G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1099-1114},
+}
+
+@inproceedings{DBLP:conf/sigmod/RezaRSP20,
+  author    = {Tahsin Reza and
+               Matei Ripeanu and
+               Geoffrey Sanders and
+               Roger Pearce},
+  title     = {Approximate Pattern Matching in Massive Graphs with Precision and Recall Guarantees},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1115-1131},
+}
+
+@inproceedings{DBLP:conf/sigmod/Meduri0SS20,
+  author    = {Venkata Vamsikrishna Meduri and
+               Lucian Popa and
+               Prithviraj Sen and
+               Mohamed Sarwat},
+  title     = {A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1133-1147},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuCSCT20,
+  author    = {Renzhi Wu and
+               Sanya Chaba and
+               Saurabh Sawlani and
+               Xu Chu and
+               Saravanan Thirumuruganathan},
+  title     = {ZeroER: Entity Resolution using Zero Labeled Examples},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1149-1164},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenCHL020,
+  author    = {Zhaoqiang Chen and
+               Qun Chen and
+               Boyi Hou and
+               Zhanhuai Li and
+               Guoliang Li},
+  title     = {Towards Interpretable and Learnable Risk Analysis for Entity Resolution},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1165-1180},
+}
+
+@inproceedings{DBLP:conf/sigmod/BasikFG20,
+  author    = {Fuat Basik and
+               Hakan Ferhatosmanoglu and
+               Bugra Gedik},
+  title     = {SLIM: Scalable Linkage of Mobility Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1181-1196},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangXQ0SWO20,
+  author    = {Yaoshu Wang and
+               Chuan Xiao and
+               Jianbin Qin and
+               Xin Cao and
+               Yifang Sun and
+               Wei Wang and
+               Makoto Onizuka},
+  title     = {Monotonic Cardinality Estimation of Similarity Selection: A Deep Learning Approach},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1197-1212},
+}
+
+@inproceedings{DBLP:conf/sigmod/DeepHK20,
+  author    = {Shaleen Deep and
+               Xiao Hu and
+               Paraschos Koutris},
+  title     = {Fast Join Project Query Evaluation using Matrix Multiplication},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1213-1223},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangY20,
+  author    = {Qichen Wang and
+               Ke Yi},
+  title     = {Maintaining Acyclic {Foreign-Key} Joins under Updates},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1225-1239},
+}
+
+@inproceedings{DBLP:conf/sigmod/TangSEKF20,
+  author    = {Dixin Tang and
+               Zechao Shang and
+               Aaron J. Elmore and
+               Sanjay Krishnan and
+               Michael J. Franklin},
+  title     = {Thrifty Query Execution via Incrementability},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1241-1256},
+}
+
+@inproceedings{DBLP:conf/sigmod/HeASC20,
+  author    = {Wenjia He and
+               Michael R. Anderson and
+               Maxwell Strome and
+               Michael J. Cafarella},
+  title     = {A Method for Optimizing Opaque Filter Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1257-1272},
+}
+
+@inproceedings{DBLP:conf/sigmod/DutaG20,
+  author    = {Christian Duta and
+               Torsten Grust},
+  title     = {{Functional-Style} {SQL} {UDFs} With a Capital 'F'},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1273-1287},
+}
+
+@inproceedings{DBLP:conf/sigmod/SchelterRB20,
+  author    = {Sebastian Schelter and
+               Tammo Rukat and
+               Felix Bießmann},
+  title     = {Learning to Validate the Predictions of Black Box Classifiers on Unseen Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1289-1299},
+}
+
+@inproceedings{DBLP:conf/sigmod/PicadoDTL20,
+  author    = {Jose Picado and
+               John Davis and
+               Arash Termehchy and
+               Ga Young Lee},
+  title     = {Learning Over Dirty Data Without Cleaning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1301-1316},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuF0W20,
+  author    = {Weiyuan Wu and
+               Lampros Flokas and
+               Eugene Wu and
+               Jiannan Wang},
+  title     = {Complaint-driven Training Data Debugging for Query 2.0},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1317-1334},
+}
+
+@inproceedings{DBLP:conf/sigmod/CappuzzoPT20,
+  author    = {Riccardo Cappuzzo and
+               Paolo Papotti and
+               Saravanan Thirumuruganathan},
+  title     = {Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1335-1349},
+}
+
+@inproceedings{DBLP:conf/sigmod/GershteinMMN20,
+  author    = {Shay Gershtein and
+               Tova Milo and
+               Gefen Morami and
+               Slava Novgorodov},
+  title     = {Minimization of Classifier Construction Cost for Search Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1351-1365},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiQQ0C020,
+  author    = {Wentao Li and
+               Miao Qiao and
+               Lu Qin and
+               Ying Zhang and
+               Lijun Chang and
+               Xuemin Lin},
+  title     = {Scaling Up Distance Labeling on Graphs with {Core-Periphery} Properties},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1367-1381},
+}
+
+@inproceedings{DBLP:conf/sigmod/PLG20,
+  author    = {Krishna Kumar P. and
+               Paul Langton and
+               Wolfgang Gatterbauer},
+  title     = {Factorized Graph Representations for {Semi-Supervised} Learning from Sparse Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1383-1398},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangMSJCR020,
+  author    = {Wentao Zhang and
+               Xupeng Miao and
+               Yingxia Shao and
+               Jiawei Jiang and
+               Lei Chen and
+               Olivier Ruas and
+               Bin Cui},
+  title     = {Reliable Data Distillation on Graph Convolutional Network},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1399-1414},
+}
+
+@inproceedings{DBLP:conf/sigmod/PacaciBO20,
+  author    = {Anil Pacaci and
+               Angela Bonifati and
+               M. Tamer Özsu},
+  title     = {Regular Path Query Evaluation on Streaming Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1415-1430},
+}
+
+@inproceedings{DBLP:conf/sigmod/Pandey0BBFJKP20,
+  author    = {Prashant Pandey and
+               Shikha Singh and
+               Michael A. Bender and
+               Jonathan W. Berry and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Thomas M. Kroeger and
+               Cynthia A. Phillips},
+  title     = {Timely Reporting of Heavy Hitters using External Memory},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1431-1446},
+}
+
+@inproceedings{DBLP:conf/sigmod/SolimanASDAMAMG20,
+  author    = {Mohamed A. Soliman and
+               Lyublena Antova and
+               Marc Sugiyama and
+               Michael Duller and
+               Amirhossein Aleyasen and
+               Gourab Mitra and
+               Ehab Abdelhamid and
+               Mark Morcos and
+               Michele Gage and
+               Dmitri Korablev and
+               Florian M. Waas},
+  title     = {A Framework for Emulating Database Operations in Cloud Data Warehouses},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1447-1461},
+}
+
+@inproceedings{DBLP:conf/sigmod/DepoutovitchCCL20,
+  author    = {Alex Depoutovitch and
+               Chong Chen and
+               Jin Chen and
+               Paul Larson and
+               Shu Lin and
+               Jack Ng and
+               Wenlin Cui and
+               Qiang Liu and
+               Wei Huang and
+               Yong Xiao and
+               Yongjun He},
+  title     = {Taurus Database: How to be Fast, Available, and Frugal in the Cloud},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1463-1478},
+}
+
+@inproceedings{DBLP:conf/sigmod/DemarneGVC20,
+  author    = {Mathieu B. Demarne and
+               Jim Gramling and
+               Tomer Verona and
+               Miso Cilimdzic},
+  title     = {Reliability Analytics for Cloud Based Distributed Databases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1479-1492},
+}
+
+@inproceedings{DBLP:conf/sigmod/TaftSMVLGNWBPBR20,
+  author    = {Rebecca Taft and
+               Irfan Sharif and
+               Andrei Matei and
+               Nathan VanBenschoten and
+               Jordan Lewis and
+               Tobias Grieger and
+               Kai Niemi and
+               Andy Woods and
+               Anne Birzin and
+               Raphael Poss and
+               Paul Bardea and
+               Amruta Ranade and
+               Ben Darnell and
+               Bram Gruneir and
+               Justin Jaffray and
+               Lucy Zhang and
+               Peter Mattis},
+  title     = {CockroachDB: The Resilient {Geo-Distributed} {SQL} Database},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1493-1509},
+}
+
+@inproceedings{DBLP:conf/sigmod/AntonopoulosASE20,
+  author    = {Panagiotis Antonopoulos and
+               Arvind Arasu and
+               Kunal D. Singh and
+               Ken Eguro and
+               Nitish Gupta and
+               Rajat Jain and
+               Raghav Kaushik and
+               Hanuma Kodavalla and
+               Donald Kossmann and
+               Nikolas Ogg and
+               Ravi Ramamurthy and
+               Jakub Szymaszek and
+               Jeffrey Trimmer and
+               Kapil Vaswani and
+               Ramarathnam Venkatesan and
+               Mike Zwilling},
+  title     = {Azure {SQL} Database Always Encrypted},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1511-1525},
+}
+
+@inproceedings{DBLP:conf/sigmod/ElMS20,
+  author    = {Ori Bar El and
+               Tova Milo and
+               Amit Somech},
+  title     = {Automatically Generating Data Exploration Sessions Using Deep Reinforcement Learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1527-1537},
+}
+
+@inproceedings{DBLP:conf/sigmod/YanH20,
+  author    = {Cong Yan and
+               Yeye He},
+  title     = {Auto-Suggest: {Learning-to-Recommend} Data Preparation Steps Using Data Science Notebooks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1539-1554},
+}
+
+@inproceedings{DBLP:conf/sigmod/EichmannZBK20,
+  author    = {Philipp Eichmann and
+               Emanuel Zgraggen and
+               Carsten Binnig and
+               Tim Kraska},
+  title     = {IDEBench: A Benchmark for Interactive Data Exploration},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1555-1569},
+}
+
+@inproceedings{DBLP:conf/sigmod/BattleEACSZBFM20,
+  author    = {Leilani Battle and
+               Philipp Eichmann and
+               Marco Angelini and
+               Tiziana Catarci and
+               Giuseppe Santucci and
+               Yukun Zheng and
+               Carsten Binnig and
+               Jean-Daniel Fekete and
+               Dominik Moritz},
+  title     = {Database Benchmarking for Supporting {Real-Time} Interactive Querying of Large Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1571-1587},
+}
+
+@inproceedings{DBLP:conf/sigmod/RahmanMBZKP20,
+  author    = {Sajjadur Rahman and
+               Kelly Mack and
+               Mangesh Bendre and
+               Ruilin Zhang and
+               Karrie Karahalios and
+               Aditya G. Parameswaran},
+  title     = {Benchmarking Spreadsheet Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1589-1599},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangLAKKP20,
+  author    = {Huanchen Zhang and
+               Xiaoxuan Liu and
+               David G. Andersen and
+               Michael Kaminsky and
+               Kimberly Keeton and
+               Andrew Pavlo},
+  title     = {{Order-Preserving} Key Compression for {In-Memory} Search Trees},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1601-1615},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShanbhagMY20,
+  author    = {Anil Shanbhag and
+               Samuel Madden and
+               Xiangyao Yu},
+  title     = {A Study of the Fundamental Performance Characteristics of {GPUs} and {CPUs} for Database Analytics},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1617-1632},
+}
+
+@inproceedings{DBLP:conf/sigmod/LutzBZRM20,
+  author    = {Clemens Lutz and
+               Sebastian Breß and
+               Steffen Zeuch and
+               Tilmann Rabl and
+               Volker Markl},
+  title     = {Pump Up the Volume: Processing Large Data on {GPUs} with Fast Interconnects},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1633-1649},
+}
+
+@inproceedings{DBLP:conf/sigmod/BangOMPB20,
+  author    = {Tiemo Bang and
+               Ismail Oukid and
+               Norman May and
+               Ilia Petrov and
+               Carsten Binnig},
+  title     = {Robust Performance of Main Memory Data Structures by Configuration},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1651-1666},
+}
+
+@inproceedings{DBLP:conf/sigmod/KunjirB20,
+  author    = {Mayuresh Kunjir and
+               Shivnath Babu},
+  title     = {Black or White? How to Develop an {AutoTuner} for Memory-based Analytics},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1667-1683},
+}
+
+@inproceedings{DBLP:conf/sigmod/NakandalaK20,
+  author    = {Supun Nakandala and
+               Arun Kumar},
+  title     = {Vista: Optimized System for Declarative Feature Transfer from Deep {CNNs} at Scale},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1685-1700},
+}
+
+@inproceedings{DBLP:conf/sigmod/DerakhshanMARM20,
+  author    = {Behrouz Derakhshan and
+               Alireza Rezaei Mahdiraji and
+               Ziawasch Abedjan and
+               Tilmann Rabl and
+               Volker Markl},
+  title     = {Optimizing Machine Learning Workloads in Collaborative Environments},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1701-1716},
+}
+
+@inproceedings{DBLP:conf/sigmod/DasCWGCC20,
+  author    = {Nilaksh Das and
+               Sanya Chaba and
+               Renzhi Wu and
+               Sakshi Gandhi and
+               Duen Horng Chau and
+               Xu Chu},
+  title     = {GOGGLES: Automatic Image Labeling with Affinity Coding},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1717-1732},
+}
+
+@inproceedings{DBLP:conf/sigmod/IlkhechiCGMFSC20,
+  author    = {Amir Ilkhechi and
+               Andrew Crotty and
+               Alex Galakatos and
+               Yicong Mao and
+               Grace Fan and
+               Xiran Shi and
+               Ugur Çetintemel},
+  title     = {DeepSqueeze: Deep Semantic Compression for Tabular Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1733-1746},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhengCC0NO20,
+  author    = {Kaiping Zheng and
+               Shaofeng Cai and
+               Horng Ruey Chua and
+               Wei Wang and
+               Kee Yuan Ngiam and
+               Beng Chin Ooi},
+  title     = {TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1747-1763},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanJLLLXYYZ20,
+  author    = {Wenfei Fan and
+               Ruochun Jin and
+               Muyang Liu and
+               Ping Lu and
+               Xiaojian Luo and
+               Ruiqi Xu and
+               Qiang Yin and
+               Wenyuan Yu and
+               Jingren Zhou},
+  title     = {Application Driven Graph Partitioning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1765-1779},
+}
+
+@inproceedings{DBLP:conf/sigmod/OuyangWQC0020,
+  author    = {Dian Ouyang and
+               Dong Wen and
+               Lu Qin and
+               Lijun Chang and
+               Ying Zhang and
+               Xuemin Lin},
+  title     = {Progressive {Top-K} Nearest Neighbors Search in Large Road Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1781-1795},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShaoHM0020,
+  author    = {Yingxia Shao and
+               Shiyue Huang and
+               Xupeng Miao and
+               Bin Cui and
+               Lei Chen},
+  title     = {{Memory-Aware} Framework for Efficient {Second-Order} Random Walk on Large Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1797-1812},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001Y20,
+  author    = {Yikai Zhang and
+               Jeffrey Xu Yu},
+  title     = {Hub Labeling for Shortest Path Counting},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1813-1828},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiLB20,
+  author    = {Hui Li and
+               Sourav S. Bhowmick},
+  title     = {CHASSIS: Conformity Meets Online Information Diffusion},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1829-1840},
+}
+
+@inproceedings{DBLP:conf/sigmod/WeiWL20,
+  author    = {Victor Junqiu Wei and
+               Raymond Chi-Wing Wong and
+               Cheng Long},
+  title     = {{Architecture-Intact} Oracle for Fastest Path and Time Queries on Dynamic Spatial Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1841-1856},
+}
+
+@inproceedings{DBLP:conf/sigmod/GogolouTEBP20,
+  author    = {Anna Gogolou and
+               Theophanis Tsandilas and
+               Karima Echihabi and
+               Anastasia Bezerianos and
+               Themis Palpanas},
+  title     = {Data Series Progressive Similarity Search with Probabilistic Quality Guarantees},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1857-1873},
+}
+
+@inproceedings{DBLP:conf/sigmod/DoraiswamyF20,
+  author    = {Harish Doraiswamy and
+               Juliana Freire},
+  title     = {A {GPU-friendly} Geometric Data Model and Algebra for Spatial Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1875-1885},
+}
+
+@inproceedings{DBLP:conf/sigmod/PaparrizosLEF20,
+  author    = {John Paparrizos and
+               Chunwei Liu and
+               Aaron J. Elmore and
+               Michael J. Franklin},
+  title     = {Debunking Four {Long-Standing} Misconceptions of {Time-Series} Distance Measures},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1887-1905},
+}
+
+@inproceedings{DBLP:conf/sigmod/BastaniHBGABCKM20,
+  author    = {Favyen Bastani and
+               Songtao He and
+               Arjun Balasingam and
+               Karthik Gopalakrishnan and
+               Mohammad Alizadeh and
+               Hari Balakrishnan and
+               Michael J. Cafarella and
+               Tim Kraska and
+               Sam Madden},
+  title     = {MIRIS: Fast Object Track Queries in Video},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1907-1921},
+}
+
+@inproceedings{DBLP:conf/sigmod/Faleiro20,
+  author    = {Jose M. Faleiro},
+  title     = {{ACM} {SIGMOD} Jim Gray Dissertation Award W Talk},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1923},
+}
+
+@inproceedings{DBLP:conf/sigmod/Huang20,
+  author    = {Silu Huang},
+  title     = {Effective Data Versioning for Collaborative Data Analytics},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1925-1938},
+}
+
+@inproceedings{DBLP:conf/sigmod/NargesianPZBM20,
+  author    = {Fatemeh Nargesian and
+               Ken Q. Pu and
+               Erkang Zhu and
+               Bahar Ghadiri Bashardoost and
+               Renée J. Miller},
+  title     = {Organizing Data Lakes for Navigation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1939-1950},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangI20,
+  author    = {Yi Zhang and
+               Zachary G. Ives},
+  title     = {Finding Related Tables in Data Lakes for Interactive Data Science},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1951-1966},
+}
+
+@inproceedings{DBLP:conf/sigmod/RazaG20,
+  author    = {Mohammad Raza and
+               Sumit Gulwani},
+  title     = {Web Data Extraction using Hybrid Program Synthesis: A Combination of Top-down and Bottom-up Inference},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1967-1978},
+}
+
+@inproceedings{DBLP:conf/sigmod/JianWLZC20,
+  author    = {Xun Jian and
+               Yue Wang and
+               Xiayu Lei and
+               Libin Zheng and
+               Lei Chen},
+  title     = {{SPARQL} Rewriting: Towards Desired Results},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1979-1993},
+}
+
+@inproceedings{DBLP:conf/sigmod/AkramiSZHL20,
+  author    = {Farahnaz Akrami and
+               Mohammed Samiul Saeef and
+               Qingheng Zhang and
+               Wei Hu and
+               Chengkai Li},
+  title     = {Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1995-2010},
+}
+
+@inproceedings{DBLP:conf/sigmod/DingCN20,
+  author    = {Bailu Ding and
+               Surajit Chaudhuri and
+               Vivek R. Narasayya},
+  title     = {Bitvector-aware Query Optimization for Decision Support Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2011-2026},
+}
+
+@inproceedings{DBLP:conf/sigmod/Zhao0L20,
+  author    = {Zhuoyue Zhao and
+               Feifei Li and
+               Yuxi Liu},
+  title     = {Efficient Join Synopsis Maintenance for Data Warehouse},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2027-2042},
+}
+
+@inproceedings{DBLP:conf/sigmod/RazaCAA20,
+  author    = {Aunn Raza and
+               Periklis Chrysogelos and
+               Angelos-Christos G. Anadiotis and
+               Anastasia Ailamaki},
+  title     = {Adaptive {HTAP} through Elastic Resource Scheduling},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2043-2054},
+}
+
+@inproceedings{DBLP:conf/sigmod/NamH020,
+  author    = {Yoon-Min Nam and
+               Donghyoung Han and
+               Min-Soo Kim},
+  title     = {SPRINTER: A Fast n-ary Join Query Processing Method for Complex {OLAP} Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2055-2070},
+}
+
+@inproceedings{DBLP:conf/sigmod/LuoCKDQI20,
+  author    = {Siqiang Luo and
+               Subarna Chatterjee and
+               Rafael Ketsetsidis and
+               Niv Dayan and
+               Wilson Qin and
+               Stratos Idreos},
+  title     = {Rosetta: A Robust {Space-Time} Optimized Range Filter for {Key-Value} Stores},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2071-2086},
+}
+
+@inproceedings{DBLP:conf/sigmod/TsikoudisS20,
+  author    = {Nikos Tsikoudis and
+               Liuba Shrira},
+  title     = {RID: Deduplicating Snapshot Computations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2087-2101},
+}
+
+@inproceedings{DBLP:conf/sigmod/TahboubR20,
+  author    = {Ruby Y. Tahboub and
+               Tiark Rompf},
+  title     = {Architecting a Query Compiler for Spatial Workloads},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2103-2118},
+}
+
+@inproceedings{DBLP:conf/sigmod/Li0ZY020,
+  author    = {Pengfei Li and
+               Hua Lu and
+               Qian Zheng and
+               Long Yang and
+               Gang Pan},
+  title     = {LISA: A Learned Index Structure for Spatial Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2119-2133},
+}
+
+@inproceedings{DBLP:conf/sigmod/Yuan0BF20,
+  author    = {Haitao Yuan and
+               Guoliang Li and
+               Zhifeng Bao and
+               Ling Feng},
+  title     = {Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2135-2149},
+}
+
+@inproceedings{DBLP:conf/sigmod/Ohsaka20,
+  author    = {Naoto Ohsaka},
+  title     = {The Solution Distribution of Influence Maximization: A High-level Experimental Study on Three Algorithmic Approaches},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2151-2166},
+}
+
+@inproceedings{DBLP:conf/sigmod/Guo0WC20,
+  author    = {Qintian Guo and
+               Sibo Wang and
+               Zhewei Wei and
+               Ming Chen},
+  title     = {Influence Maximization Revisited: Efficient Reverse Reachable Set Generation with Bound Tightened},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2167-2181},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuZ0XG20,
+  author    = {Qing Liu and
+               Minjun Zhao and
+               Xin Huang and
+               Jianliang Xu and
+               Yunjun Gao},
+  title     = {Truss-based Community Search over Large Directed Graphs},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2183-2197},
+}
+
+@inproceedings{DBLP:conf/sigmod/KimGFCKC20,
+  author    = {Junghoon Kim and
+               Tao Guo and
+               Kaiyu Feng and
+               Gao Cong and
+               Arijit Khan and
+               Farhana Murtaza Choudhury},
+  title     = {Densely Connected User Community and Location Cluster Search in {Location-Based} Social Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2199-2209},
+}
+
+@inproceedings{DBLP:conf/sigmod/LinghuZ00Z20,
+  author    = {Qingyuan Linghu and
+               Fan Zhang and
+               Xuemin Lin and
+               Wenjie Zhang and
+               Ying Zhang},
+  title     = {Global Reinforcement of Social Networks: The Anchored Coreness Problem},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2211-2226},
+}
+
+@inproceedings{DBLP:conf/sigmod/YanWGLZLZSZZJ20,
+  author    = {Ying Yan and
+               Changzheng Wei and
+               Xuepeng Guo and
+               Xuming Lu and
+               Xiaofu Zheng and
+               Qi Liu and
+               Chenhui Zhou and
+               Xuyang Song and
+               Boran Zhao and
+               Hui Zhang and
+               Guofei Jiang},
+  title     = {Confidentiality Support over Financial Grade Consortium Blockchain},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2227-2240},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangLFW20,
+  author    = {Wen Yang and
+               Tao Li and
+               Gai Fang and
+               Hong Wei},
+  title     = {PASE: {PostgreSQL} {Ultra-High-Dimensional} Approximate Nearest Neighbor Search Extension},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2241-2253},
+}
+
+@inproceedings{DBLP:conf/sigmod/MaschiOACH20,
+  author    = {Fabio Maschi and
+               Muhsen Owaida and
+               Gustavo Alonso and
+               Matteo Casalino and
+               Anthony Hock-Koon},
+  title     = {Making Search Engines Faster by Lowering the Cost of Querying Business Rules Through {FPGAs}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2255-2270},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangFAM20,
+  author    = {Ke Wang and
+               Avrilia Floratou and
+               Ashvin Agrawal and
+               Daniel Musgrave},
+  title     = {Spur: Mitigating Slow Instances in {Large-Scale} Streaming Pipelines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2271-2285},
+}
+
+@inproceedings{DBLP:conf/sigmod/YanMHS20,
+  author    = {Yan Yan and
+               Stephen Meyles and
+               Aria Haghighi and
+               Dan Suciu},
+  title     = {Entity Matching in the Wild: A Consistent and Versatile Framework to Unify Data in Industrial Applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2287-2301},
+}
+
+@inproceedings{DBLP:conf/sigmod/LeventidisZDGJR20,
+  author    = {Aristotelis Leventidis and
+               Jiahui Zhang and
+               Cody Dunne and
+               Wolfgang Gatterbauer and
+               H. V. Jagadish and
+               Mirek Riedewald},
+  title     = {QueryVis: Logic-based Diagrams help Users Understand Complicated {SQL} Queries Faster},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2303-2318},
+}
+
+@inproceedings{DBLP:conf/sigmod/BaikJCJ20,
+  author    = {Christopher Baik and
+               Zhongjun Jin and
+               Michael J. Cafarella and
+               H. V. Jagadish},
+  title     = {Duoquest: A {Dual-Specification} System for Expressive {SQL} Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2319-2329},
+}
+
+@inproceedings{DBLP:conf/sigmod/DintyalaNA20,
+  author    = {Prashanth Dintyala and
+               Arpit Narechania and
+               Joy Arulraj},
+  title     = {SQLCheck: Automated Detection and Diagnosis of {SQL} {Anti-Patterns}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2331-2345},
+}
+
+@inproceedings{DBLP:conf/sigmod/WeirUGCIRBGHEcB20,
+  author    = {Nathaniel Weir and
+               Prasetya Utama and
+               Alex Galakatos and
+               Andrew Crotty and
+               Amir Ilkhechi and
+               Shekar Ramaswamy and
+               Rohin Bhushan and
+               Nadja Geisler and
+               Benjamin Hättasch and
+               Steffen Eger and
+               Ugur Çetintemel and
+               Carsten Binnig},
+  title     = {DBPal: A Fully Pluggable NL2{SQL} Training Pipeline},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2347-2361},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShahL0S20,
+  author    = {Vraj Shah and
+               Side Li and
+               Arun Kumar and
+               Lawrence Saul},
+  title     = {SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2363-2374},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiGR20,
+  author    = {Rundong Li and
+               Wolfgang Gatterbauer and
+               Mirek Riedewald},
+  title     = {{Near-Optimal} Distributed {Band-Joins} through Recursive Partitioning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2375-2390},
+}
+
+@inproceedings{DBLP:conf/sigmod/GlasbergenLAD20,
+  author    = {Brad Glasbergen and
+               Kyle Langendoen and
+               Michael Abebe and
+               Khuzaima Daudjee},
+  title     = {ChronoCache: Predictive and Adaptive {Mid-Tier} Query Result Caching},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2391-2406},
+}
+
+@inproceedings{DBLP:conf/sigmod/TirmaziBGY20,
+  author    = {Muhammad Tirmazi and
+               Ran Ben Basat and
+               Jiaqi Gao and
+               Minlan Yu},
+  title     = {Cheetah: Accelerating Database Queries with Switch Pruning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2407-2422},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChronisDGP20,
+  author    = {Yannis Chronis and
+               Thanh Do and
+               Goetz Graefe and
+               Keith Peters},
+  title     = {External Merge Sort for {Top-K} Queries: Eager input filtering guided by histograms},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2423-2437},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangZWGL0020,
+  author    = {Qiange Wang and
+               Yanfeng Zhang and
+               Hao Wang and
+               Liang Geng and
+               Rubao Lee and
+               Xiaodong Zhang and
+               Ge Yu},
+  title     = {Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2439-2454},
+}
+
+@inproceedings{DBLP:conf/sigmod/AbdelhamidMDA20,
+  author    = {Ahmed S. Abdelhamid and
+               Ahmed R. Mahmood and
+               Anas Daghistani and
+               Walid G. Aref},
+  title     = {Prompt: Dynamic {Data-Partitioning} for Distributed Micro-batch Stream Processing Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2455-2469},
+}
+
+@inproceedings{DBLP:conf/sigmod/MonteZRM20,
+  author    = {Bonaventura Del Monte and
+               Steffen Zeuch and
+               Tilmann Rabl and
+               Volker Markl},
+  title     = {Rhino: Efficient Management of Very Large Distributed State for Stream Processing Engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2471-2486},
+}
+
+@inproceedings{DBLP:conf/sigmod/GrulichBZTBCRM20,
+  author    = {Philipp M. Grulich and
+               Sebastian Breß and
+               Steffen Zeuch and
+               Jonas Traub and
+               Janis von Bleichert and
+               Zongxiong Chen and
+               Tilmann Rabl and
+               Volker Markl},
+  title     = {Grizzly: Efficient Stream Processing Through Adaptive Query Compilation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2487-2503},
+}
+
+@inproceedings{DBLP:conf/sigmod/TheodorakisKPP20,
+  author    = {Georgios Theodorakis and
+               Alexandros Koliousis and
+               Peter R. Pietzuch and
+               Holger Pirk},
+  title     = {LightSaber: Efficient Window Aggregation on Multi-core Processors},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2505-2521},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShahvaraniJ20,
+  author    = {Amirhesam Shahvarani and
+               Hans-Arno Jacobsen},
+  title     = {Parallel Index-based Stream Join on a Multicore {CPU}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2523-2537},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiZAH20,
+  author    = {Conglong Li and
+               Minjia Zhang and
+               David G. Andersen and
+               Yuxiong He},
+  title     = {Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2539-2554},
+}
+
+@inproceedings{DBLP:conf/sigmod/Wang0S20,
+  author    = {Yiqiu Wang and
+               Yan Gu and
+               Julian Shun},
+  title     = {{Theoretically-Efficient} and Practical Parallel {DBSCAN}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2555-2571},
+}
+
+@inproceedings{DBLP:conf/sigmod/DolmatovaAB20,
+  author    = {Oksana Dolmatova and
+               Nikolaus Augsten and
+               Michael H. Böhlen},
+  title     = {A Relational Matrix Algebra and its Implementation in a Column Store},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2573-2587},
+}
+
+@inproceedings{DBLP:conf/sigmod/LeiHKT20,
+  author    = {Yifan Lei and
+               Qiang Huang and
+               Mohan S. Kankanhalli and
+               Anthony K. H. Tung},
+  title     = {{Locality-Sensitive} Hashing Scheme based on Longest Circular {Co-Substring}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2589-2599},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangCYMR20,
+  author    = {Huayi Zhang and
+               Lei Cao and
+               Yizhou Yan and
+               Samuel Madden and
+               Elke A. Rundensteiner},
+  title     = {Continuously Adaptive Similarity Search},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2601-2616},
+}
+
+@inproceedings{DBLP:conf/sigmod/MiloS20,
+  author    = {Tova Milo and
+               Amit Somech},
+  title     = {Automating Exploratory Data Analysis via Machine Learning: An Overview},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2617-2622},
+}
+
+@inproceedings{DBLP:conf/sigmod/DrutsaFUMZB20,
+  author    = {Alexey Drutsa and
+               Valentina Fedorova and
+               Dmitry Ustalov and
+               Olga Megorskaya and
+               Evfrosiniya Zerminova and
+               Daria Baidakova},
+  title     = {Crowdsourcing Practice for Efficient Data Labeling: Aggregation, Incremental Relabeling, and Pricing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2623-2627},
+}
+
+@inproceedings{DBLP:conf/sigmod/OzcanQSLE20,
+  author    = {Fatma Ozcan and
+               Abdul Quamar and
+               Jaydeep Sen and
+               Chuan Lei and
+               Vasilis Efthymiou},
+  title     = {State of the Art and Open Challenges in Natural Language Interfaces to Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2629-2636},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShahL20,
+  author    = {Nihar B. Shah and
+               Zachary Lipton},
+  title     = {{SIGMOD} 2020 Tutorial on Fairness and Bias in Peer Review and Other Sociotechnical Intelligent Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2637-2640},
+}
+
+@inproceedings{DBLP:conf/sigmod/KhandelwalKR20,
+  author    = {Anurag Khandelwal and
+               Arun Kejariwal and
+               Karthikeyan Ramasamy},
+  title     = {Le Taureau: Deconstructing the Serverless Landscape & A Look Forward},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2641-2650},
+}
+
+@inproceedings{DBLP:conf/sigmod/CarboneFKK20,
+  author    = {Paris Carbone and
+               Marios Fragkoulis and
+               Vasiliki Kalavri and
+               Asterios Katsifodimos},
+  title     = {Beyond Analytics: The Evolution of Stream Processing Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2651-2658},
+}
+
+@inproceedings{DBLP:conf/sigmod/TziavelisGR20,
+  author    = {Nikolaos Tziavelis and
+               Wolfgang Gatterbauer and
+               Mirek Riedewald},
+  title     = {Optimal Join Algorithms Meet Top-k},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2659-2665},
+}
+
+@inproceedings{DBLP:conf/sigmod/IdreosC20,
+  author    = {Stratos Idreos and
+               Mark Callaghan},
+  title     = {{Key-Value} Storage Engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2667-2672},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangX0WZ20,
+  author    = {Jin Wang and
+               Guorui Xiao and
+               Jiaqi Gu and
+               Jiacheng Wu and
+               Carlo Zaniolo},
+  title     = {RASQL: A Powerful Language and its System for Big Data Applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2673-2676},
+}
+
+@inproceedings{DBLP:conf/sigmod/HirnG20,
+  author    = {Denis Hirn and
+               Torsten Grust},
+  title     = {PL/{SQL} Without the {PL}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2677-2680},
+}
+
+@inproceedings{DBLP:conf/sigmod/BelmpasGK20,
+  author    = {Theofilos Belmpas and
+               Orest Gkini and
+               Georgia Koutrika},
+  title     = {Analysis of Database Search Systems with {THOR}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2681-2684},
+}
+
+@inproceedings{DBLP:conf/sigmod/SongCBCZ20,
+  author    = {Yinglong Song and
+               Huey-Eng Chua and
+               Sourav S. Bhowmick and
+               Byron Choi and
+               Shuigeng Zhou},
+  title     = {BOOMER: A Tool for Blending Visual {P-Homomorphic} Queries on Large Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2685-2688},
+}
+
+@inproceedings{DBLP:conf/sigmod/BhowmickHCYCZ20,
+  author    = {Sourav S. Bhowmick and
+               Kai Huang and
+               Huey-Eng Chua and
+               Zifeng Yuan and
+               Byron Choi and
+               Shuigeng Zhou},
+  title     = {AURORA: Data-driven Construction of Visual Graph Query Interfaces for Graph Databases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2689-2692},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangXZX20,
+  author    = {Haixin Wang and
+               Cheng Xu and
+               Ce Zhang and
+               Jianliang Xu},
+  title     = {vChain: A Blockchain System Ensuring Query Integrity},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2693-2696},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuZJW0T020,
+  author    = {Wentao Hu and
+               Dongxiang Zhang and
+               Dawei Jiang and
+               Sai Wu and
+               Ke Chen and
+               Kian-Lee Tan and
+               Gang Chen},
+  title     = {AUDITOR: A System Designed for Automatic Discovery of Complex Integrity Constraints in Relational Databases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2697-2700},
+}
+
+@inproceedings{DBLP:conf/sigmod/BonifatiMT20,
+  author    = {Angela Bonifati and
+               Wim Martens and
+               Thomas Timm},
+  title     = {SHARQL: Shape Analysis of Recursive {SPARQL} Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2701-2704},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenWDHLLC20,
+  author    = {Hongzhi Chen and
+               Bowen Wu and
+               Shiyuan Deng and
+               Chenghuan Huang and
+               Changji Li and
+               Yichao Li and
+               James Cheng},
+  title     = {High Performance Distributed {OLAP} on Property Graphs with Grasper},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2705-2708},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001JJLLL20,
+  author    = {Kisung Park and
+               Taeyoung Jeong and
+               Chanho Jeong and
+               Jaeha Lee and
+               Dong-Hun Lee and
+               Young-Koo Lee},
+  title     = {ProcAnalyzer: Effective Code Analyzer for Tuning Imperative Programs in {SAP} {HANA}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2709-2712},
+}
+
+@inproceedings{DBLP:conf/sigmod/TanBCX20,
+  author    = {Sean Tan and
+               Sourav S. Bhowmick and
+               Huey-Eng Chua and
+               Xiaokui Xiao},
+  title     = {LATTE: Visual Construction of Smart Contracts},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2713-2716},
+}
+
+@inproceedings{DBLP:conf/sigmod/ToliopoulosBGP20,
+  author    = {Theodoros Toliopoulos and
+               Christos Bellas and
+               Anastasios Gounaris and
+               Apostolos Papadopoulos},
+  title     = {PROUD: {PaRallel} {OUtlier} Detection for Streams},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2717-2720},
+}
+
+@inproceedings{DBLP:conf/sigmod/JinXSAJ20,
+  author    = {Zhongjun Jin and
+               Mengjing Xu and
+               Chenkai Sun and
+               Abolfazl Asudeh and
+               H. V. Jagadish},
+  title     = {MithraCoverage: A System for Investigating Population Bias for Intersectional Fairness},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2721-2724},
+}
+
+@inproceedings{DBLP:conf/sigmod/GershteinMMN20a,
+  author    = {Shay Gershtein and
+               Tova Milo and
+               Gefen Morami and
+               Slava Novgorodov},
+  title     = {MC3: A System for Minimization of Classifier Construction Cost},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2725-2728},
+}
+
+@inproceedings{DBLP:conf/sigmod/GlasbergenAD0Z20,
+  author    = {Brad Glasbergen and
+               Michael Abebe and
+               Khuzaima Daudjee and
+               Daniel Vogel and
+               Jian Zhao},
+  title     = {Sentinel: Understanding Data Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2729-2732},
+}
+
+@inproceedings{DBLP:conf/sigmod/LourencoFS20a,
+  author    = {Raoni Lourenço and
+               Juliana Freire and
+               Dennis E. Shasha},
+  title     = {BugDoc: A System for Debugging Computational Pipelines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2733-2736},
+}
+
+@inproceedings{DBLP:conf/sigmod/Chen0K20,
+  author    = {Yueting Chen and
+               Xiaohui Yu and
+               Nick Koudas},
+  title     = {TQVS: Temporal Queries over Video Streams in Action},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2737-2740},
+}
+
+@inproceedings{DBLP:conf/sigmod/Fariha0RG20,
+  author    = {Anna Fariha and
+               Ashish Tiwari and
+               Arjun Radhakrishna and
+               Sumit Gulwani},
+  title     = {ExTuNe: Explaining Tuple Non-conformance},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2741-2744},
+}
+
+@inproceedings{DBLP:conf/sigmod/QinCL0020,
+  author    = {Xuedi Qin and
+               Chengliang Chai and
+               Yuyu Luo and
+               Nan Tang and
+               Guoliang Li},
+  title     = {Interactively Discovering and Ranking Desired Tuples without Writing {SQL} Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2745-2748},
+}
+
+@inproceedings{DBLP:conf/sigmod/ManninoA20,
+  author    = {Miro Mannino and
+               Azza Abouzied},
+  title     = {Synner: Generating Realistic Synthetic Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2749-2752},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShragaSAG20,
+  author    = {Roee Shraga and
+               Coral Scharf and
+               Rakefet Ackerman and
+               Avigdor Gal},
+  title     = {InCognitoMatch: Cognitive-aware Matching via Crowdsourcing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2753-2756},
+}
+
+@inproceedings{DBLP:conf/sigmod/MuslehO0D20,
+  author    = {Mashaal Musleh and
+               Mourad Ouzzani and
+               Nan Tang and
+               AnHai Doan},
+  title     = {CoClean: Collaborative Data Cleaning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2757-2760},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenCA20,
+  author    = {Zhida Chen and
+               Gao Cong and
+               Walid G. Aref},
+  title     = {STAR: A Distributed Stream Warehouse System for Spatial Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2761-2764},
+}
+
+@inproceedings{DBLP:conf/sigmod/DeutchFGS20,
+  author    = {Daniel Deutch and
+               Nave Frost and
+               Amir Gilad and
+               Oren Sheffer},
+  title     = {T-REx: Table Repair Explanations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2765-2768},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChaoKX20,
+  author    = {Daren Chao and
+               Nick Koudas and
+               Ioannis Xarchakos},
+  title     = {SVQ++: Querying for Object Interactions in Video Streams},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2769-2772},
+}
+
+@inproceedings{DBLP:conf/sigmod/NikolicZ0O20,
+  author    = {Milos Nikolic and
+               Haozhe Zhang and
+               Ahmet Kara and
+               Dan Olteanu},
+  title     = {F-IVM: Learning over {Fast-Evolving} Relational Data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2773-2776},
+}
+
+@inproceedings{DBLP:conf/sigmod/FangGPCMJ20,
+  author    = {Ziquan Fang and
+               Yunjun Gao and
+               Lu Pan and
+               Lu Chen and
+               Xiaoye Miao and
+               Christian S. Jensen},
+  title     = {CoMing: A Real-time {Co-Movement} Mining System for Streaming Trajectories},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2777-2780},
+}
+
+@inproceedings{DBLP:conf/sigmod/BoricGKPT20,
+  author    = {Nemanja Boric and
+               Hinnerk Gildhoff and
+               Menelaos Karavelas and
+               Ippokratis Pandis and
+               Ioanna Tsalouchidou},
+  title     = {Unified Spatial Analytics from Heterogeneous Sources with Amazon Redshift},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2781-2784},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangAER20,
+  author    = {Liang Zhang and
+               Noura Alghamdi and
+               Mohamed Y. Eltabakh and
+               Elke A. Rundensteiner},
+  title     = {Big Data Series Analytics Using {TARDIS} and its Exploitation in Geospatial Applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2785-2788},
+}
+
+@inproceedings{DBLP:conf/sigmod/MarcusZK20,
+  author    = {Ryan Marcus and
+               Emily Zhang and
+               Tim Kraska},
+  title     = {CDFShop: Exploring and Optimizing Learned Index Structures},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2789-2792},
+}
+
+@inproceedings{DBLP:conf/sigmod/CavenessCPP0Z20,
+  author    = {Emily Caveness and
+               Paul Suganthan G. C. and
+               Zhuo Peng and
+               Neoklis Polyzotis and
+               Sudip Roy and
+               Martin Zinkevich},
+  title     = {{TensorFlow} Data Validation: Data Analysis and Validation in Continuous {ML} Pipelines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2793-2796},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangZHCCWLFQHGL20,
+  author    = {Zuozhi Wang and
+               Kai Zeng and
+               Botong Huang and
+               Wei Chen and
+               Xiaozong Cui and
+               Bo Wang and
+               Ji Liu and
+               Liya Fan and
+               Dachuan Qu and
+               Zhenyu Hou and
+               Tao Guan and
+               Chen Li and
+               Jingren Zhou},
+  title     = {Grosbeak: A Data Warehouse Supporting {Resource-Aware} Incremental Computing},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2797-2800},
+}
+
+@inproceedings{DBLP:conf/sigmod/JoT20,
+  author    = {Saehan Jo and
+               Immanuel Trummer},
+  title     = {Demonstration of BitGourmet: Data Analysis via Deterministic Approximation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2801-2804},
+}
+
+@inproceedings{DBLP:conf/sigmod/PastorB20,
+  author    = {Eliana Pastor and
+               Elena Baralis},
+  title     = {Bring Your Own Data to {X-PLAIN}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2805-2808},
+}
+
+@inproceedings{DBLP:conf/sigmod/RamjitK0020,
+  author    = {Lana Ramjit and
+               Zhaoning Kong and
+               Ravi Netravali and
+               Eugene Wu},
+  title     = {Physical Visualization Design},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2809-2812},
+}
+
+@inproceedings{DBLP:conf/sigmod/SamuelYC20,
+  author    = {Mingwei Samuel and
+               Cong Yan and
+               Alvin Cheung},
+  title     = {Demonstration of Chestnut: An In-memory Data Layout Designer for Database Applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2813-2816},
+}
+
+@inproceedings{DBLP:conf/sigmod/Luo20,
+  author    = {Chen Luo},
+  title     = {Breaking Down Memory Walls in {LSM-based} Storage Systems},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2817-2819},
+}
+
+@inproceedings{DBLP:conf/sigmod/Susanina20,
+  author    = {Yuliya Susanina},
+  title     = {{Context-Free} Path Querying via Matrix Equations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2821-2823},
+}
+
+@inproceedings{DBLP:conf/sigmod/Chen20,
+  author    = {Xiaoshuang Chen},
+  title     = {Simulation-based Approximate Graph Pattern Matching},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2825-2827},
+}
+
+@inproceedings{DBLP:conf/sigmod/Echihabi20,
+  author    = {Karima Echihabi},
+  title     = {{High-Dimensional} Vector Similarity Search: From Time Series to Deep Network Embeddings},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2829-2832},
+}
+
+@inproceedings{DBLP:conf/sigmod/Makait20,
+  author    = {Hendrik Makait},
+  title     = {Rethinking Message Brokers on {RDMA} and {NVM}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2833-2835},
+}
+
+@inproceedings{DBLP:conf/sigmod/Chen20a,
+  author    = {Yiru Chen},
+  title     = {Monte Carlo Tree Search for Generating Interactive Data Analysis Interfaces},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2837-2839},
+}
+
+@inproceedings{DBLP:conf/sigmod/Mohammed20,
+  author    = {Haneen Mohammed},
+  title     = {Continuous Prefetch for Interactive Data Applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2841-2843},
+}
+
+@inproceedings{DBLP:conf/sigmod/Jahangiri20,
+  author    = {Shiva Jahangiri},
+  title     = {Re-evaluating the Performance Trade-offs for {Hash-Based} {Multi-Join} Queries},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2845-2847},
+}
+
+@inproceedings{DBLP:conf/sigmod/Zhang20,
+  author    = {Xiaozhong Zhang},
+  title     = {Interactive View Recommendation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2849-2851},
+}
+
+@inproceedings{DBLP:conf/sigmod/JagadeesanT20,
+  author    = {Meena Jagadeesan and
+               Garrett Tanzer},
+  title     = {From {Worst-Case} to {Average-Case} Analysis: Accurate Latency Predictions for {Key-Value} Storage Engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2853-2855},
+}
+
+@inproceedings{DBLP:conf/sigmod/HaoL20,
+  author    = {Kongzhang Hao and
+               Longbin Lai},
+  title     = {Towards the Scheduling of Vertex-constrained Multi Subgraph Matching Query},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2857-2859},
+}
+
+@inproceedings{DBLP:conf/sigmod/Ma20,
+  author    = {William Ma},
+  title     = {Serverless Query Processing on a Budget},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2861-2863},
+}
+
+@inproceedings{DBLP:conf/sigmod/Slavitch20,
+  author    = {Noah Slavitch},
+  title     = {{Workload-Aware} Column Imprints},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2865-2867},
+}
+
+@inproceedings{DBLP:conf/sigmod/Adam20,
+  author    = {Justus Adam},
+  title     = {Towards Scalable {UDTFs} in Noria},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2869-2871},
+}
+
+@inproceedings{DBLP:conf/sigmod/Shi20,
+  author    = {Jia Shi},
+  title     = {Column Partition and Permutation for Run Length Encoding in Columnar Databases},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2873-2874},
+}
+
+@inproceedings{DBLP:conf/sigmod/Li20,
+  author    = {Wanxin Li},
+  title     = {Supporting Database Constraints in Synthetic Data Generation based on Generative Adversarial Networks},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2875-2877},
+}
+
+@inproceedings{DBLP:conf/sigmod/Spiegel20,
+  author    = {Jacob Spiegel},
+  title     = {An Evaluation of Methods of Compressing Doubles},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2879-2881},
+}
+
+@inproceedings{DBLP:conf/sigmod/Band20,
+  author    = {Neil Band},
+  title     = {MemFlow: {Memory-Aware} Distributed Deep Learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2883-2885},
+}
+
+@inproceedings{DBLP:conf/sigmod/Waghray20,
+  author    = {Kunal Waghray},
+  title     = {{JSON} Schema Matching: Empirical Observations},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2887-2889},
+}
+
 @inproceedings{DBLP:conf/sigmod/AttanasioCGB19,
   author    = {Giuseppe Attanasio and
                Luca Cagliero and
