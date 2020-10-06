@@ -633,7 +633,7 @@ d.add_conference('atc',         'ATC', 'USENIX Annual Technical Conference', nam
 d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('ccs',         'CCS', 'Computer and Communications Security')
 d.add_conference('crypto',      'CRYPTO', 'Annual International Cryptology Conference')
-d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques')
+d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques', names=('EUROCRYPT',))
 d.add_conference('eurosp',      'Euro S&P', 'European Symposium on Security and Privacy', names=('{IEEE} European Symposium on Security and Privacy', 'EuroS&P', 'EuroS&P Workshops'), prefixes=('conf/eurosp',))
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
 d.add_conference('fc',          'FC', 'Financial Cryptography and Data Security', names=('Financial Cryptography',))
