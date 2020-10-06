@@ -1,5 +1,2093 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/uss/0001DKBCPH20,
+  author    = {Benjamin Green and
+               Richard Derbyshire and
+               William Knowles and
+               James Boorman and
+               Pierre Ciholas and
+               Daniel Prince and
+               David Hutchison},
+  title     = {{ICS} Testbed Tetris: Practical Building Blocks Towards a Cyber Security Resource},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/AfanadorI20,
+  author    = {Kayla Afanador and
+               Cynthia Irvine},
+  title     = {Representativeness in the Benchmark for Vulnerability Analysis Tools (B-VAT)},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/AlharbiFA20,
+  author    = {Fatemah Alharbi and
+               Michalis Faloutsos and
+               Nael B. Abu-Ghazaleh},
+  title     = {Opening Digital Borders Cautiously yet Decisively: Digital Filtering in Saudi Arabia},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/BerkovichKW20,
+  author    = {Shay Berkovich and
+               Jeffrey Kam and
+               Glenn Wurster},
+  title     = {UBCIS: Ultimate Benchmark for Container Image Scanning},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/BerndAF20,
+  author    = {Julia Bernd and
+               Ruba Abu-Salma and
+               Alisa Frik},
+  title     = {Bystanders' Privacy: The Perspectives of Nannies on Smart Home Surveillance},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/BirtelR20,
+  author    = {Benedikt Birtel and
+               Christian Rossow},
+  title     = {Slitheen++: Stealth {TLS-based} Decoy Routing},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/BockFRSL20,
+  author    = {Kevin Bock and
+               Yair Fax and
+               Kyle Reese and
+               Jasraj Singh and
+               Dave Levin},
+  title     = {Detecting and Evading Censorship-in-Depth: A Case Study of Iran's Protocol Whitelister},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/BushartR20,
+  author    = {Jonas Bushart and
+               Christian Rossow},
+  title     = {Padding Ain't Enough: Assessing the Privacy Guarantees of Encrypted {DNS}},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/Capkun20,
+  author    = {Srdjan Capkun},
+  title     = {Digital Contact Tracing},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/ChoiCYMK20,
+  author    = {Seungoh Choi and
+               Jongwon Choi and
+               Jeong-Han Yun and
+               Byung-Gil Min and
+               HyoungChun Kim},
+  title     = {Expansion of {ICS} Testbed for Security Validation based on {MITRE} ATT&{CK} Techniques},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/Cohn-GordonDNCR20,
+  author    = {Katriel Cohn-Gordon and
+               Georgios Damaskinos and
+               Divino Neto and
+               Joshi Cordova and
+               Benoît Reitz and
+               Benjamin Strahs and
+               Daniel Obenshain and
+               Paul Pearce and
+               Ioannis Papagiannis and
+               Available Media},
+  title     = {DELF: Safeguarding deletion correctness in Online Social Networks},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/Fifield20,
+  author    = {David Fifield},
+  title     = {Turbo Tunnel, a good way to design censorship circumvention protocols},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/FrolovW20,
+  author    = {Sergey Frolov and
+               Eric Wustrow},
+  title     = {HTTPT: A {Probe-Resistant} Proxy},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/GovilWR20,
+  author    = {Yashodhar Govil and
+               Liang Wang and
+               Jennifer Rexford},
+  title     = {MIMIQ: Masking {IPs} with Migration in {QUIC}},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/HounselHKBFM20,
+  author    = {Austin Hounsel and
+               Jordan Holland and
+               Ben Kaiser and
+               Kevin Borgolte and
+               Nick Feamster and
+               Jonathan Mayer},
+  title     = {Identifying Disinformation Websites Using Infrastructure Features},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/HouseholderCNWS20,
+  author    = {Allen D. Householder and
+               Jeff Chrabaszcz and
+               Trent Novelly and
+               David Warren and
+               Jonathan M. Spring},
+  title     = {Historical Analysis of Exploit Availability Timelines},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/HuangCL20,
+  author    = {Qing Huang and
+               Deliang Chang and
+               Zhou Li},
+  title     = {A Comprehensive Study of {DNS-over-HTTPS} Downgrade Attack},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/HussainJLSB20,
+  author    = {Alefiya Hussain and
+               Prateek Jaipuria and
+               Geoff Lawler and
+               Stephen Schwab and
+               Terry Benzel},
+  title     = {Toward Orchestration of Complex Networking Experiments},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/MashimaKLHC20,
+  author    = {Daisuke Mashima and
+               Derek Kok and
+               Wei Lin and
+               Muhammad Hazwan and
+               Alvin Cheng},
+  title     = {On Design and Enhancement of Smart Grid Honeypot System for Practical Collection of Threat Intelligence},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/PanumHHP20,
+  author    = {Thomas Kobber Panum and
+               Kaspar Hageman and
+               René Rydhof Hansen and
+               Jens Myrup Pedersen},
+  title     = {Towards Adversarial Phishing Detection},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/Rubin20,
+  author    = {Avi Rubin},
+  title     = {The 2020 Election: Remote Voting, Disinformation, and Audit},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/ShiMSL20,
+  author    = {Lumin Shi and
+               Samuel Mergendahl and
+               Devkishen Sisodia and
+               Jun Li},
+  title     = {Bridging Missing Gaps in Evaluating {DDoS} Research},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/ShinLYK20,
+  author    = {Hyeok-Ki Shin and
+               Woomyo Lee and
+               Jeong-Han Yun and
+               HyoungChun Kim},
+  title     = {{HAI} 1.0: {HIL-based} Augmented {ICS} Security Dataset},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/SuciuMSS20,
+  author    = {Darius Suciu and
+               Stephen E. McLaughlin and
+               Laurent Simon and
+               Radu Sion},
+  title     = {Horizontal Privilege Escalation in Trusted Applications},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/TakahashiSTY20,
+  author    = {Yusuke Takahashi and
+               Shigeyoshi Shima and
+               Rui Tanabe and
+               Katsunari Yoshioka},
+  title     = {APTGen: An Approach towards Generating Practical Dataset Labelled with Targeted Attack Sequences},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/anonymousNHGH20,
+  author    = {anonymous and
+               Arian Akhavan Niaki and
+               Nguyen Phong Hoang and
+               Phillipa Gill and
+               Amir Houmansadr},
+  title     = {Triplet Censors: Demystifying Great Firewall's {DNS} Censorship Behavior},
+  booktitle = usenixsec,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/uss/CremersKM20,
+  author    = {Cas Cremers and
+               Benjamin Kiesl and
+               Niklas Medinger},
+  title     = {A Formal Analysis of {IEEE} 802.11's WPA2: Countering the Kracks Caused by Cracking the Counters},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/uss/RugeCGH20,
+  author    = {Jan Ruge and
+               Jiska Classen and
+               Francesco Gringoli and
+               Matthias Hollick},
+  title     = {Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {19-36},
+}
+
+@inproceedings{DBLP:conf/uss/00250DJLF20,
+  author    = {Yue Zhang and
+               Jian Weng and
+               Rajib Dey and
+               Yier Jin and
+               Zhiqiang Lin and
+               Xinwen Fu},
+  title     = {Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {37-54},
+}
+
+@inproceedings{DBLP:conf/uss/YuLMZL20,
+  author    = {Lingjing Yu and
+               Bo Luo and
+               Jun Ma and
+               Zhaoyu Zhou and
+               Qingyun Liu},
+  title     = {You Are What You Broadcast: Identification of Mobile and {IoT} Devices from (Public) {WiFi}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {55-72},
+}
+
+@inproceedings{DBLP:conf/uss/RupprechtKHP20,
+  author    = {David Rupprecht and
+               Katharina Kohls and
+               Thorsten Holz and
+               Christina Pöpper},
+  title     = {Call Me Maybe: Eavesdropping Encrypted {LTE} Calls With {ReVoLTE}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {73-88},
+}
+
+@inproceedings{DBLP:conf/uss/RedmilesWJKKMSM20,
+  author    = {Elissa M. Redmiles and
+               Noel Warford and
+               Amritha Jayanti and
+               Aravind Koneru and
+               Sean Kross and
+               Miraida Morales and
+               Rock Stevens and
+               Michelle L. Mazurek},
+  title     = {A Comprehensive Quality Evaluation of Security and Privacy Advice on the Web},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {89-108},
+}
+
+@inproceedings{DBLP:conf/uss/VotipkaFPHM020,
+  author    = {Daniel Votipka and
+               Kelsey R. Fulton and
+               James Parker and
+               Matthew Hou and
+               Michelle L. Mazurek and
+               Michael Hicks},
+  title     = {Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {109-126},
+}
+
+@inproceedings{DBLP:conf/uss/ReynoldsSBJMBE20,
+  author    = {Joshua Reynolds and
+               Nikita Samarin and
+               Joseph D. Barnes and
+               Taylor Judd and
+               Joshua Mason and
+               Michael Bailey and
+               Serge Egelman},
+  title     = {Empirical Measurement of Systemic 2{FA} Usability},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {127-143},
+}
+
+@inproceedings{DBLP:conf/uss/WeiSVRGHFWMU20,
+  author    = {Miranda Wei and
+               Madison Stamos and
+               Sophie Veys and
+               Nathan Reitinger and
+               Justin Goodman and
+               Margot Herman and
+               Dorota Filipczuk and
+               Ben Weinshel and
+               Michelle L. Mazurek and
+               Blase Ur},
+  title     = {What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {145-162},
+}
+
+@inproceedings{DBLP:conf/uss/FrikHA20,
+  author    = {Alisa Frik and
+               Amelia Haviland and
+               Alessandro Acquisti},
+  title     = {The Impact of {Ad-Blockers} on Product Search and Purchase Behavior: A Lab Experiment},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {163-179},
+}
+
+@inproceedings{DBLP:conf/uss/PoeplauF20,
+  author    = {Sebastian Poeplau and
+               Aurélien Francillon},
+  title     = {Symbolic execution with SymCC: Don't interpret, compile!},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {181-198},
+}
+
+@inproceedings{DBLP:conf/uss/BrownSE20,
+  author    = {Fraser Brown and
+               Deian Stefan and
+               Dawson R. Engler},
+  title     = {Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {199-216},
+}
+
+@inproceedings{DBLP:conf/uss/0002KP20,
+  author    = {Daniel Lehmann and
+               Johannes Kinder and
+               Michael Pradel},
+  title     = {Everything Old is New Again: Binary Security of {WebAssembly}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {217-234},
+}
+
+@inproceedings{DBLP:conf/uss/BlazytkoSAAFWH20,
+  author    = {Tim Blazytko and
+               Moritz Schlögel and
+               Cornelius Aschermann and
+               Ali Abbasi and
+               Joel Frank and
+               Simon Wörner and
+               Thorsten Holz},
+  title     = {AURORA: Statistical Crash Analysis for Automated Root Cause Explanation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {235-252},
+}
+
+@inproceedings{DBLP:conf/uss/XiongSHMWO20,
+  author    = {Yan Xiong and
+               Cheng Su and
+               Wenchao Huang and
+               Fuyou Miao and
+               Wansen Wang and
+               Hengyi Ouyang},
+  title     = {SmartVerif: Push the Limit of Automation Capability of Verifying Security Protocols by Dynamic Strategies},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {253-270},
+}
+
+@inproceedings{DBLP:conf/uss/HernandezTYWB20,
+  author    = {Grant Hernandez and
+               Dave (Jing) Tian and
+               Anurag Swarnim Yadav and
+               Byron J. Williams and
+               Kevin R. B. Butler},
+  title     = {BigMAC: {Fine-Grained} Policy Analysis of Android Firmware},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {271-287},
+}
+
+@inproceedings{DBLP:conf/uss/WeirHF20,
+  author    = {Charles Weir and
+               Ben Hermann and
+               Sascha Fahl},
+  title     = {From Needs to Actions to Secure Apps? The Effect of Requirements and Developer Practices on App Security},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {289-305},
+}
+
+@inproceedings{DBLP:conf/uss/LiuZGZRZ20,
+  author    = {Baozheng Liu and
+               Chao Zhang and
+               Guang Gong and
+               Yishun Zeng and
+               Haifeng Ruan and
+               Jianwei Zhuge},
+  title     = {FANS: Fuzzing Android Native System Services via Automated Interface Analysis},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {307-323},
+}
+
+@inproceedings{DBLP:conf/uss/ChenHKM20,
+  author    = {Jiayi Chen and
+               Urs Hengartner and
+               Hassan Khan and
+               Mohammad Mannan},
+  title     = {Chaperone: Real-time Locking and Loss Prevention for Smartphones},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {325-342},
+}
+
+@inproceedings{DBLP:conf/uss/PossematoF20,
+  author    = {Andrea Possemato and
+               Yanick Fratantonio},
+  title     = {Towards {HTTPS} Everywhere on Android: We Are Not There Yet},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {343-360},
+}
+
+@inproceedings{DBLP:conf/uss/OestZWNBZTDA20,
+  author    = {Adam Oest and
+               Penghui Zhang and
+               Brad Wardman and
+               Eric Nunes and
+               Jakub Burgis and
+               Ali Zand and
+               Kurt Thomas and
+               Adam Doupé and
+               Gail-Joon Ahn},
+  title     = {Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {361-377},
+}
+
+@inproceedings{DBLP:conf/uss/OestSZWTSD20,
+  author    = {Adam Oest and
+               Yeganeh Safaei and
+               Penghui Zhang and
+               Brad Wardman and
+               Kevin Tyers and
+               Yan Shoshitaishvili and
+               Adam Doupé},
+  title     = {PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {379-396},
+}
+
+@inproceedings{DBLP:conf/uss/PrasadBMR20,
+  author    = {Sathvik Prasad and
+               Elijah Bouma-Sims and
+               Athishay Kiran Mylappan and
+               Bradley Reaves},
+  title     = {Who's Calling? Characterizing Robocalls through Audio and Metadata Analysis},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {397-414},
+}
+
+@inproceedings{DBLP:conf/uss/TuncayQG20,
+  author    = {Güliz Seray Tuncay and
+               Jingyu Qian and
+               Carl A. Gunter},
+  title     = {See No Evil: Phishing for Permissions with False Transparency},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {415-432},
+}
+
+@inproceedings{DBLP:conf/uss/BouwmanGEDKE20,
+  author    = {Xander Bouwman and
+               Harm Griffioen and
+               Jelle Egbers and
+               Christian Doerr and
+               Bram Klievink and
+               Michel van Eeten},
+  title     = {A different cup of TI? The added value of commercial threat intelligence},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {433-450},
+}
+
+@inproceedings{DBLP:conf/uss/DessoukyFS20,
+  author    = {Ghada Dessouky and
+               Tommaso Frassetto and
+               Ahmad-Reza Sadeghi},
+  title     = {HybCache: Hybrid {Side-Channel-Resilient} Caches for Trusted Execution Environments},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {451-468},
+}
+
+@inproceedings{DBLP:conf/uss/MoghimiBHPS20,
+  author    = {Daniel Moghimi and
+               Jo Van Bulck and
+               Nadia Heninger and
+               Frank Piessens and
+               Berk Sunar},
+  title     = {CopyCat: Controlled {Instruction-Level} Attacks on Enclaves},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {469-486},
+}
+
+@inproceedings{DBLP:conf/uss/LeeJFTP20,
+  author    = {Dayeol Lee and
+               Dongha Jung and
+               Ian T. Fang and
+               Chia-che Tsai and
+               Raluca Ada Popa},
+  title     = {An {Off-Chip} Attack on Hardware Enclaves via the Memory Bus},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {487-504},
+}
+
+@inproceedings{DBLP:conf/uss/TsaiSJMPP20,
+  author    = {Chia-che Tsai and
+               Jeongseok Son and
+               Bhushan Jain and
+               John McAvey and
+               Raluca Ada Popa and
+               Donald E. Porter},
+  title     = {Civet: An Efficient Java Partitioning Framework for Hardware Enclaves},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {505-522},
+}
+
+@inproceedings{DBLP:conf/uss/ShindeWYHRS20,
+  author    = {Shweta Shinde and
+               Shengyi Wang and
+               Pinghai Yuan and
+               Aquinas Hobor and
+               Abhik Roychoudhury and
+               Prateek Saxena},
+  title     = {BesFS: A {POSIX} Filesystem for Enclaves with a Mechanized Safety Proof},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {523-540},
+}
+
+@inproceedings{DBLP:conf/uss/LegnerKW0P20,
+  author    = {Markus Legner and
+               Tobias Klenze and
+               Marc Wyss and
+               Christoph Sprenger and
+               Adrian Perrig},
+  title     = {EPIC: Every Packet Is Checked in the Data Plane of a {Path-Aware} Internet},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {541-558},
+}
+
+@inproceedings{DBLP:conf/uss/NiakanlahijiWAW20,
+  author    = {Amirreza Niakanlahiji and
+               Jinpeng Wei and
+               Md Rabbi Alam and
+               Qingyang Wang and
+               Bei-Tseng Chu},
+  title     = {ShadowMove: A Stealthy Lateral Movement Strategy},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {559-576},
+}
+
+@inproceedings{DBLP:conf/uss/ZhengLPYZLMHDQ20,
+  author    = {Xiaofeng Zheng and
+               Chaoyi Lu and
+               Jian Peng and
+               Qiushi Yang and
+               Dongjie Zhou and
+               Baojun Liu and
+               Keyu Man and
+               Shuang Hao and
+               Haixin Duan and
+               Zhiyun Qian},
+  title     = {Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting {DNS} Forwarding Devices},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {577-593},
+}
+
+@inproceedings{DBLP:conf/uss/Kang00TCL20,
+  author    = {Qiao Kang and
+               Lei Xue and
+               Adam Morrison and
+               Yuxin Tang and
+               Ang Chen and
+               Xiapu Luo},
+  title     = {Programmable {In-Network} Security for Context-aware {BYOD} Policies},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {595-612},
+}
+
+@inproceedings{DBLP:conf/uss/LeeGR0C20,
+  author    = {Hyeonmin Lee and
+               Aniketh Gireesh and
+               Roland van Rijswijk-Deij and
+               Taekyoung Kwon and
+               Taejoong Chung},
+  title     = {A Longitudinal and Comprehensive Study of the {DANE} Ecosystem in Email},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {613-630},
+}
+
+@inproceedings{DBLP:conf/uss/AfekBS20,
+  author    = {Yehuda Afek and
+               Anat Bremler-Barr and
+               Lior Shafir},
+  title     = {NXNSAttack: Recursive {DNS} Inefficiencies and Vulnerabilities},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {631-648},
+}
+
+@inproceedings{DBLP:conf/uss/Li20,
+  author    = {Frank Li},
+  title     = {Shim Shimmeny: Evaluating the Security and Privacy Contributions of Link Shimming in the Modern Web},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {649-664},
+}
+
+@inproceedings{DBLP:conf/uss/MirheidariAOCK020,
+  author    = {Seyed Ali Mirheidari and
+               Sajjad Arshad and
+               Kaan Onarlioglu and
+               Bruno Crispo and
+               Engin Kirda and
+               William Robertson},
+  title     = {Cached and Confused: Web Cache Deception in the Wild},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {665-682},
+}
+
+@inproceedings{DBLP:conf/uss/CalzavaraRR0S20,
+  author    = {Stefano Calzavara and
+               Sebastian Roth and
+               Alvise Rabitti and
+               Michael Backes and
+               Ben Stock},
+  title     = {A Tale of Two Headers: A Formal Analysis of Inconsistent {Click-Jacking} Protection on the Web},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {683-697},
+}
+
+@inproceedings{DBLP:conf/uss/NarayanDGFRLSS20,
+  author    = {Shravan Narayan and
+               Craig Disselkoen and
+               Tal Garfinkel and
+               Nathan Froyd and
+               Eric Rahm and
+               Sorin Lerner and
+               Hovav Shacham and
+               Deian Stefan},
+  title     = {Retrofitting Fine Grain Isolation in the Firefox Renderer},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {699-716},
+}
+
+@inproceedings{DBLP:conf/uss/GongW20,
+  author    = {Jiajun Gong and
+               Tao Wang},
+  title     = {Zero-delay Lightweight Defenses against Website Fingerprinting},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {717-734},
+}
+
+@inproceedings{DBLP:conf/uss/HerwigGL20,
+  author    = {Stephen Herwig and
+               Christina Garman and
+               Dave Levin},
+  title     = {Achieving Keyless {CDNs} with Conclaves},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {735-751},
+}
+
+@inproceedings{DBLP:conf/uss/SchwarzR20,
+  author    = {Fabian Schwarz and
+               Christian Rossow},
+  title     = {SENG, the {SGX-Enforcing} Network Gateway: Authorizing Communication from Shielded Clients},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {753-770},
+}
+
+@inproceedings{DBLP:conf/uss/NunesERT20,
+  author    = {Ivan De Oliveira Nunes and
+               Karim Eldefrawy and
+               Norrathep Rattanavipanon and
+               Gene Tsudik},
+  title     = {APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {771-788},
+}
+
+@inproceedings{DBLP:conf/uss/HarrisonVPSG20,
+  author    = {Lee Harrison and
+               Hayawardh Vijayakumar and
+               Rohan Padhye and
+               Koushik Sen and
+               Michael Grace},
+  title     = {PARTEMU: Enabling Dynamic Analysis of {Real-World} {TrustZone} Software Using Emulation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {789-806},
+}
+
+@inproceedings{DBLP:conf/uss/DelshadtehraniC20,
+  author    = {Leila Delshadtehrani and
+               Sadullah Canakci and
+               Boyou Zhou and
+               Schuyler Eldridge and
+               Ajay Joshi and
+               Manuel Egele},
+  title     = {PHMon: A Programmable Hardware Monitor and Its Security Use Cases},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {807-824},
+}
+
+@inproceedings{DBLP:conf/uss/CloostersRD20,
+  author    = {Tobias Cloosters and
+               Michael Rodler and
+               Lucas Davi},
+  title     = {TeeRex: Discovery and Exploitation of Memory Corruption Vulnerabilities in {SGX} Enclaves},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {841-858},
+}
+
+@inproceedings{DBLP:conf/uss/LuoMS20,
+  author    = {Mulong Luo and
+               Andrew C. Myers and
+               G. Edward Suh},
+  title     = {Stealthy Tracking of Autonomous Vehicles with Cache Side Channels},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {859-876},
+}
+
+@inproceedings{DBLP:conf/uss/SunCCM20,
+  author    = {Jiachen Sun and
+               Yulong Cao and
+               Qi Alfred Chen and
+               Z. Morley Mao},
+  title     = {Towards Robust {LiDAR-based} Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {877-894},
+}
+
+@inproceedings{DBLP:conf/uss/QuinonezGSBCL20,
+  author    = {Raul Quinonez and
+               Jairo Giraldo and
+               Luis E. Salazar and
+               Erick Bauman and
+               Alvaro A. Cárdenas and
+               Zhiqiang Lin},
+  title     = {SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {895-912},
+}
+
+@inproceedings{DBLP:conf/uss/KimKOFT0DTX20,
+  author    = {Taegyu Kim and
+               Chung Hwan Kim and
+               Altay Ozen and
+               Fan Fei and
+               Zhan Tu and
+               Xiangyu Zhang and
+               Xinyan Deng and
+               Dave (Jing) Tian and
+               Dongyan Xu},
+  title     = {From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with {MAYDAY}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {913-930},
+}
+
+@inproceedings{DBLP:conf/uss/0001WCC20,
+  author    = {Junjie Shen and
+               Jun Yeon Won and
+               Zeyuan Chen and
+               Qi Alfred Chen},
+  title     = {Drift with Devil: Security of {Multi-Sensor} Fusion based Localization in {High-Level} Autonomous Driving under {GPS} Spoofing},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {931-948},
+}
+
+@inproceedings{DBLP:conf/uss/WenCL20,
+  author    = {Haohuang Wen and
+               Qi Alfred Chen and
+               Zhiqiang Lin},
+  title     = {Plug-N-Pwned: Comprehensive Vulnerability Analysis of {OBD-II} Dongles as A New {Over-the-Air} Attack Surface in Automotive {IoT}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {949-965},
+}
+
+@inproceedings{DBLP:conf/uss/Gu0C0020,
+  author    = {Xiaolan Gu and
+               Ming Li and
+               Yueqiang Cheng and
+               Li Xiong and
+               Yang Cao},
+  title     = {PCKV: Locally Differentially Private Correlated {Key-Value} Data Collection with Optimized Utility},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {967-984},
+}
+
+@inproceedings{DBLP:conf/uss/AndowMWERSE20,
+  author    = {Benjamin Andow and
+               Samin Yaseer Mahmud and
+               Justin Whitaker and
+               William Enck and
+               Bradley Reaves and
+               Kapil Singh and
+               Serge Egelman},
+  title     = {Actions Speak Louder than Words: {Entity-Sensitive} Privacy Policy and Data Flow Analysis with {PoliCheck}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {985-1002},
+}
+
+@inproceedings{DBLP:conf/uss/KomloMG20,
+  author    = {Chelsea Komlo and
+               Nick Mathewson and
+               Ian Goldberg},
+  title     = {Walking Onions: Scaling Anonymity Networks while Protecting Users},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1003-1020},
+}
+
+@inproceedings{DBLP:conf/uss/0006LBR20,
+  author    = {Hailong Zhang and
+               Sufian Latif and
+               Raef Bassily and
+               Atanas Rountev},
+  title     = {{Differentially-Private} {Control-Flow} Node Coverage for Software Usage Analysis},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1021-1038},
+}
+
+@inproceedings{DBLP:conf/uss/PoddarASVP20,
+  author    = {Rishabh Poddar and
+               Ganesh Ananthanarayanan and
+               Srinath Setty and
+               Stavros Volos and
+               Raluca Ada Popa},
+  title     = {Visor: {Privacy-Preserving} Video Analytics as a Cloud Service},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1039-1056},
+}
+
+@inproceedings{DBLP:conf/uss/Flores-MontoyaS20,
+  author    = {Antonio Flores-Montoya and
+               Eric M. Schulte},
+  title     = {Datalog Disassembly},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1075-1092},
+}
+
+@inproceedings{DBLP:conf/uss/ChenZLQ20,
+  author    = {Weiteng Chen and
+               Xiaochen Zou and
+               Guoren Li and
+               Zhiyun Qian},
+  title     = {KOOBE: Towards Facilitating Exploit Generation of Kernel {Out-Of-Bounds} Write Vulnerabilities},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1093-1110},
+}
+
+@inproceedings{DBLP:conf/uss/YunKK20,
+  author    = {Insu Yun and
+               Dhaval Kapil and
+               Taesoo Kim},
+  title     = {Automatic Techniques to Systematically Discover New Heap Exploitation Primitives},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1111-1128},
+}
+
+@inproceedings{DBLP:conf/uss/NoscoZCMFBP20,
+  author    = {Timothy Nosco and
+               Jared Ziegler and
+               Zechariah Clark and
+               Davy Marrero and
+               Todd Finkler and
+               Andrew Barbarello and
+               W. Michael Petullo},
+  title     = {The Industrial Age of Hacking},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1129-1146},
+}
+
+@inproceedings{DBLP:conf/uss/Dai0JZCXZT0Y20,
+  author    = {Jiarun Dai and
+               Yuan Zhang and
+               Zheyue Jiang and
+               Yingtian Zhou and
+               Junyan Chen and
+               Xinyu Xing and
+               Xiaohan Zhang and
+               Xin Tan and
+               Min Yang and
+               Zhemin Yang},
+  title     = {BScout: Direct Whole Patch Presence Test for Java Executables},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1147-1164},
+}
+
+@inproceedings{DBLP:conf/uss/Xiao0YXYLL0HZS20,
+  author    = {Yang Xiao and
+               Bihuan Chen and
+               Chendong Yu and
+               Zhengzi Xu and
+               Zimu Yuan and
+               Feng Li and
+               Binghong Liu and
+               Yang Liu and
+               Wei Huo and
+               Wei Zou and
+               Wenchang Shi},
+  title     = {MVP: Detecting Vulnerabilities using {Patch-Enhanced} Vulnerability Signatures},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1165-1182},
+}
+
+@inproceedings{DBLP:conf/uss/JiaXZ0Z20,
+  author    = {Bin Yuan and
+               Yan Jia and
+               Luyi Xing and
+               Dongfang Zhao and
+               XiaoFeng Wang and
+               Deqing Zou and
+               Hai Jin and
+               Yuqing Zhang},
+  title     = {Shattered Chain of Trust: Understanding Security Risks in {Cross-Cloud} {IoT} Access Delegation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1183-1200},
+}
+
+@inproceedings{DBLP:conf/uss/ClementsGSGFKVB20,
+  author    = {Abraham A. Clements and
+               Eric Gustafson and
+               Tobias Scharnowski and
+               Paul Grosen and
+               David Fritz and
+               Christopher Kruegel and
+               Giovanni Vigna and
+               Saurabh Bagchi and
+               Mathias Payer},
+  title     = {HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1201-1218},
+}
+
+@inproceedings{DBLP:conf/uss/ZhouDSMCW20,
+  author    = {Jie Zhou and
+               Yufei Du and
+               Zhuojia Shen and
+               Lele Ma and
+               John Criswell and
+               Robert J. Walls},
+  title     = {Silhouette: Efficient Protected Shadow Stacks for Embedded Systems},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1219-1236},
+}
+
+@inproceedings{DBLP:conf/uss/FengML20,
+  author    = {Bo Feng and
+               Alejandro Mera and
+               Long Lu},
+  title     = {P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1237-1254},
+}
+
+@inproceedings{DBLP:conf/uss/DhanuskodiLH20,
+  author    = {Siva Nishok Dhanuskodi and
+               Xiang Li and
+               Daniel E. Holcomb},
+  title     = {COUNTERFOIL: Verifying Provenance of Integrated Circuits using Intrinsic Package Fingerprints and Inexpensive Cameras},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1255-1272},
+}
+
+@inproceedings{DBLP:conf/uss/BaruaF20,
+  author    = {Anomadarshi Barua and
+               Mohammad Abdullah Al Faruque},
+  title     = {Hall Spoofing: A {Non-Invasive} {DoS} Attack on {Grid-Tied} Solar Inverter},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1273-1290},
+}
+
+@inproceedings{DBLP:conf/uss/0001B0F020,
+  author    = {Ahmed Salem and
+               Apratim Bhattacharya and
+               Michael Backes and
+               Mario Fritz and
+               Yang Zhang},
+  title     = {Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1291-1308},
+}
+
+@inproceedings{DBLP:conf/uss/ChandrasekaranC20,
+  author    = {Varun Chandrasekaran and
+               Kamalika Chaudhuri and
+               Irene Giacomelli and
+               Somesh Jha and
+               Songbai Yan},
+  title     = {Exploring Connections Between Active Learning and Model Extraction},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1309-1326},
+}
+
+@inproceedings{DBLP:conf/uss/SuyaC0020,
+  author    = {Fnu Suya and
+               Jianfeng Chi and
+               David Evans and
+               Yuan Tian},
+  title     = {Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1327-1344},
+}
+
+@inproceedings{DBLP:conf/uss/JagielskiCBKP20,
+  author    = {Matthew Jagielski and
+               Nicholas Carlini and
+               David Berthelot and
+               Alex Kurakin and
+               Nicolas Papernot},
+  title     = {High Accuracy and High Fidelity Extraction of Neural Networks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1345-1362},
+}
+
+@inproceedings{DBLP:conf/uss/QuiringKAJR20,
+  author    = {Erwin Quiring and
+               David Klein and
+               Daniel Arp and
+               Martin Johns and
+               Konrad Rieck},
+  title     = {Adversarial Preprocessing: Understanding and Preventing {Image-Scaling} Attacks in Machine Learning},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1363-1380},
+}
+
+@inproceedings{DBLP:conf/uss/LiDJZLY020,
+  author    = {Jinfeng Li and
+               Tianyu Du and
+               Shouling Ji and
+               Rong Zhang and
+               Quan Lu and
+               Min Yang and
+               Ting Wang},
+  title     = {TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1381-1398},
+}
+
+@inproceedings{DBLP:conf/uss/HasanR20,
+  author    = {Md. Mehedi Hasan and
+               Biswajit Ray},
+  title     = {Data Recovery from "Scrubbed" {NAND} Flash Storage: Need for Analog Sanitization},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1399-1408},
+}
+
+@inproceedings{DBLP:conf/uss/ConnorMSS20,
+  author    = {R. Joseph Connor and
+               Tyler McDaniel and
+               Jared M. Smith and
+               Max Schuchard},
+  title     = {{PKU} Pitfalls: Attacks on {PKU-based} Memory Isolation Systems},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1409-1426},
+}
+
+@inproceedings{DBLP:conf/uss/MoghimiLS020,
+  author    = {Daniel Moghimi and
+               Moritz Lipp and
+               Berk Sunar and
+               Michael Schwarz},
+  title     = {Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1427-1444},
+}
+
+@inproceedings{DBLP:conf/uss/KenjarFGFS20,
+  author    = {Zijo Kenjar and
+               Tommaso Frassetto and
+               David Gens and
+               Michael Franz and
+               Ahmad-Reza Sadeghi},
+  title     = {V0LTpwn: Attacking x86 Processor Integrity from Software},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1445-1461},
+}
+
+@inproceedings{DBLP:conf/uss/YaoRF20,
+  author    = {Fan Yao and
+               Adnan Siraj Rakin and
+               Deliang Fan},
+  title     = {DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1463-1480},
+}
+
+@inproceedings{DBLP:conf/uss/OleksenkoTSF20,
+  author    = {Oleksii Oleksenko and
+               Bohdan Trach and
+               Mark Silberstein and
+               Christof Fetzer},
+  title     = {SpecFuzz: Bringing Spectre-type vulnerabilities to the surface},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1481-1498},
+}
+
+@inproceedings{DBLP:conf/uss/KumarKLP20,
+  author    = {Renuka Kumar and
+               Sreesh Kishore and
+               Hao Lu and
+               Atul Prakash},
+  title     = {Security Analysis of Unified Payments Interface and Payment Apps in India},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1499-1516},
+}
+
+@inproceedings{DBLP:conf/uss/MahmudAAER20,
+  author    = {Samin Yaseer Mahmud and
+               Akhil Acharya and
+               Benjamin Andow and
+               William Enck and
+               Bradley Reaves},
+  title     = {Cardpliance: {PCI} {DSS} Compliance of Android Applications},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1517-1533},
+}
+
+@inproceedings{DBLP:conf/uss/SpecterKW20,
+  author    = {Michael A. Specter and
+               James Koppel and
+               Daniel J. Weitzner},
+  title     = {The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1535-1553},
+}
+
+@inproceedings{DBLP:conf/uss/LueksQT20,
+  author    = {Wouter Lueks and
+               Iñigo Querejeta-Azurmendi and
+               Carmela Troncoso},
+  title     = {VoteAgain: A scalable coercion-resistant voting system},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1553-1570},
+}
+
+@inproceedings{DBLP:conf/uss/DinVPLYMLLK20,
+  author    = {Zain ul Abi Din and
+               Hari Venugopalan and
+               Jaime Park and
+               Andy Li and
+               Weisu Yin and
+               Haohui Mai and
+               Yong Jae Lee and
+               Steven Liu and
+               Samuel T. King},
+  title     = {Boxer: Preventing fraud by scanning credit cards},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1571-1588},
+}
+
+@inproceedings{DBLP:conf/uss/ShanWZLZZ20,
+  author    = {Shawn Shan and
+               Emily Wenger and
+               Jiayun Zhang and
+               Huiying Li and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {Fawkes: Protecting Privacy against Unauthorized Deep Learning Models},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1589-1604},
+}
+
+@inproceedings{DBLP:conf/uss/FangCJG20,
+  author    = {Minghong Fang and
+               Xiaoyu Cao and
+               Jinyuan Jia and
+               Neil Zhenqiang Gong},
+  title     = {Local Model Poisoning Attacks to {Byzantine-Robust} Federated Learning},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1605-1622},
+}
+
+@inproceedings{DBLP:conf/uss/LeinoF20,
+  author    = {Klas Leino and
+               Matt Fredrikson},
+  title     = {Stolen Memories: Leveraging Model Memorization for Calibrated {White-Box} Membership Inference},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1605-1622},
+}
+
+@inproceedings{DBLP:conf/uss/PanZWXJY20,
+  author    = {Xudong Pan and
+               Mi Zhang and
+               Duocai Wu and
+               Qifan Xiao and
+               Shouling Ji and
+               Zhemin Yang},
+  title     = {Justinian's GAAvernor: Robust Distributed Learning with Gradient Aggregation Agent},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1641-1658},
+}
+
+@inproceedings{DBLP:conf/uss/ZhangWSJL020,
+  author    = {Xinyang Zhang and
+               Ningfei Wang and
+               Hua Shen and
+               Shouling Ji and
+               Xiapu Luo and
+               Ting Wang},
+  title     = {Interpretable Deep Learning under Fire},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1659-1676},
+}
+
+@inproceedings{DBLP:conf/uss/SchrammelWSS0MG20,
+  author    = {David Schrammel and
+               Samuel Weiser and
+               Stefan Steinegger and
+               Martin Schwarzl and
+               Michael Schwarz and
+               Stefan Mangard and
+               Daniel Gruss},
+  title     = {Donky: Domain Keys - Efficient {In-Process} Isolation for {RISC-V} and x86},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1677-1694},
+}
+
+@inproceedings{DBLP:conf/uss/MiLCZG20,
+  author    = {Zeyu Mi and
+               Dingji Li and
+               Haibo Chen and
+               Binyu Zang and
+               Haibing Guan},
+  title     = {(Mostly) Exitless {VM} Protection from Untrusted Hypervisor through Disaggregated Nested Virtualization},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1695-1712},
+}
+
+@inproceedings{DBLP:conf/uss/ChristensenATCS20,
+  author    = {Jake Christensen and
+               Ionut Mugurel Anghel and
+               Rob Taglang and
+               Mihai Chiroiu and
+               Radu Sion},
+  title     = {DECAF: Automatic, Adaptive De-bloating and Hardening of {COTS} Firmware},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1713-1730},
+}
+
+@inproceedings{DBLP:conf/uss/Bernstein020,
+  author    = {Daniel J. Bernstein and
+               Tanja Lange},
+  title     = {McTiny: Fast {High-Confidence} {Post-Quantum} Key Erasure for Tiny Network Servers},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1731-1748},
+}
+
+@inproceedings{DBLP:conf/uss/GhavamniaPMP20,
+  author    = {Seyedhamed Ghavamnia and
+               Tapti Palit and
+               Shachee Mishra and
+               Michalis Polychronakis},
+  title     = {Temporal System Call Specialization for Attack Surface Reduction},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1749-1766},
+}
+
+@inproceedings{DBLP:conf/uss/WeiserSBS20,
+  author    = {Samuel Weiser and
+               David Schrammel and
+               Lukas Bodner and
+               Raphael Spreitzer},
+  title     = {Big Numbers - Big Troubles: Systematically Analyzing Nonce Leakage in (EC){DSA} Implementations},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1767-1784},
+}
+
+@inproceedings{DBLP:conf/uss/Parsovs20,
+  author    = {Arnis Parsovs},
+  title     = {Estonian Electronic Identity Card: Security Flaws in Key Management},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1785-1802},
+}
+
+@inproceedings{DBLP:conf/uss/Ender0P20,
+  author    = {Maik Ender and
+               Amir Moradi and
+               Christof Paar},
+  title     = {The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series {FPGAs}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1803-1819},
+}
+
+@inproceedings{DBLP:conf/uss/BeckZ020,
+  author    = {Gabrielle Beck and
+               Maximilian Zinkus and
+               Matthew Green},
+  title     = {Automating the Development of Chosen Ciphertext Attacks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1821-1837},
+}
+
+@inproceedings{DBLP:conf/uss/LeurentP20,
+  author    = {Gaëtan Leurent and
+               Thomas Peyrin},
+  title     = {SHA-1 is a Shambles: First {Chosen-Prefix} Collision on SHA-1 and Application to the {PGP} Web of Trust},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1839-1856},
+}
+
+@inproceedings{DBLP:conf/uss/GirolHSJCB20,
+  author    = {Guillaume Girol and
+               Lucca Hirschi and
+               Ralf Sasse and
+               Dennis Jackson and
+               Cas Cremers and
+               David A. Basin},
+  title     = {A Spectral Analysis of Noise: A Comprehensive, Automated, Formal Analysis of {Diffie-Hellman} Protocols},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1857-1874},
+}
+
+@inproceedings{DBLP:conf/uss/VotipkaRMFM20,
+  author    = {Daniel Votipka and
+               Seth M. Rabin and
+               Kristopher K. Micinski and
+               Jeffrey S. Foster and
+               Michelle L. Mazurek},
+  title     = {An Observational Investigation of Reverse Engineers' Processes},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1875-1892},
+}
+
+@inproceedings{DBLP:conf/uss/TsengBMDGMDR20,
+  author    = {Emily Tseng and
+               Rosanna Bellini and
+               Nora McDonald and
+               Matan Danos and
+               Rachel Greenstadt and
+               Damon McCoy and
+               Nicola Dell and
+               Thomas Ristenpart},
+  title     = {The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1893-1909},
+}
+
+@inproceedings{DBLP:conf/uss/EdalatnejadLMLL20,
+  author    = {Kasra Edalatnejad and
+               Wouter Lueks and
+               Julien Pierre Martin and
+               Soline Ledésert and
+               Anne L'Hôte and
+               Bruno Thomas and
+               Laurent Girod and
+               Carmela Troncoso},
+  title     = {DatashareNetwork: A Decentralized {Privacy-Preserving} Search Engine for Investigative Journalists},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1911-1927},
+}
+
+@inproceedings{DBLP:conf/uss/AkterDAKS20,
+  author    = {Taslima Akter and
+               Bryan Dosono and
+               Tousif Ahmed and
+               Apu Kapadia and
+               Bryan C. Semaan},
+  title     = {"I am uncomfortable sharing what I can't see": Privacy Concerns of the Visually Impaired with Camera Based Assistive Applications},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1929-1948},
+}
+
+@inproceedings{DBLP:conf/uss/ReichelPIMCC20,
+  author    = {Jake Reichel and
+               Fleming Peck and
+               Mikako Inaba and
+               Bisrat Moges and
+               Brahmnoor Singh Chawla and
+               Marshini Chetty},
+  title     = {'I have too much respect for my elders': Understanding South African Mobile Users' Perceptions of Privacy and Current Behaviors on Facebook and {WhatsApp}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1949-1966},
+}
+
+@inproceedings{DBLP:conf/uss/BriongosMM020,
+  author    = {Samira Briongos and
+               Pedro Malagón and
+               José Manuel Moya and
+               Thomas Eisenbarth},
+  title     = {RELOAD+REFRESH: Abusing Cache Replacement Policies to Perform Stealthy Cache Attacks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1967-1984},
+}
+
+@inproceedings{DBLP:conf/uss/GoethemPJV20,
+  author    = {Tom van Goethem and
+               Christina Pöpper and
+               Wouter Joosen and
+               Mathy Vanhoef},
+  title     = {Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {1985-2002},
+}
+
+@inproceedings{DBLP:conf/uss/YanFT20,
+  author    = {Mengjia Yan and
+               Christopher W. Fletcher and
+               Josep Torrellas},
+  title     = {Cache Telepathy: Leveraging Shared Resource Attacks to Learn {DNN} Architectures},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2003-2020},
+}
+
+@inproceedings{DBLP:conf/uss/GarciaHTGAB20,
+  author    = {Cesar Pereida García and
+               Sohaib ul Hassan and
+               Nicola Tuveri and
+               Iaroslav Gridin and
+               Alejandro Cabrera Aldaya and
+               Billy Bob Brumley},
+  title     = {Certified Side Channels},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2021-2038},
+}
+
+@inproceedings{DBLP:conf/uss/XingKC20,
+  author    = {Jiarong Xing and
+               Qiao Kang and
+               Ang Chen},
+  title     = {NetWarden: Mitigating Network Covert Channels while Preserving Performance},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2039-2056},
+}
+
+@inproceedings{DBLP:conf/uss/MoghimiS0H20,
+  author    = {Daniel Moghimi and
+               Berk Sunar and
+               Thomas Eisenbarth and
+               Nadia Heninger},
+  title     = {TPM-FAIL: {TPM} meets Timing and Lattice Attacks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2057-2073},
+}
+
+@inproceedings{DBLP:conf/uss/OzdemirWWB20,
+  author    = {Alex Ozdemir and
+               Riad S. Wahby and
+               Barry Whitehat and
+               Dan Boneh},
+  title     = {Scaling Verifiable Computation Using Efficient Set Accumulators},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2075-2092},
+}
+
+@inproceedings{DBLP:conf/uss/Drijvers0NW20,
+  author    = {Manu Drijvers and
+               Sergey Gorbunov and
+               Gregory Neven and
+               Hoeteck Wee},
+  title     = {Pixel: Multi-signatures for Consensus},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2093-2110},
+}
+
+@inproceedings{DBLP:conf/uss/0030CDPRR20,
+  author    = {Hao Chen and
+               Ilaria Chillotti and
+               Yihe Dong and
+               Oxana Poburinnaya and
+               Ilya P. Razenshteyn and
+               M. Sadegh Riazi},
+  title     = {SANNS: Scaling Up Secure Approximate {k-Nearest} Neighbors Search},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2111-2128},
+}
+
+@inproceedings{DBLP:conf/uss/KosbaPPS20,
+  author    = {Ahmed E. Kosba and
+               Dimitrios Papadopoulos and
+               Charalampos Papamanthou and
+               Dawn Song},
+  title     = {MIRAGE: Succinct Arguments for Randomized Algorithms with Applications to Universal {zk-SNARKs}},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2129-2146},
+}
+
+@inproceedings{DBLP:conf/uss/BohlerK20,
+  author    = {Jonas Böhler and
+               Florian Kerschbaum},
+  title     = {Secure Multi-party Computation of Differentially Private Median},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2147-2164},
+}
+
+@inproceedings{DBLP:conf/uss/OeschR20,
+  author    = {Sean Oesch and
+               Scott Ruoti},
+  title     = {That Was Then, This Is Now: A Security Evaluation of Password Generation, Storage, and Autofill in {Browser-Based} Password Managers},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2165-2182},
+}
+
+@inproceedings{DBLP:conf/uss/ChenPJ20,
+  author    = {Jianjun Chen and
+               Vern Paxson and
+               Jian Jiang},
+  title     = {Composition Kills: A Case Study of Email Sender Authentication},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2183-2199},
+}
+
+@inproceedings{DBLP:conf/uss/WangR20,
+  author    = {Ke Coby Wang and
+               Michael K. Reiter},
+  title     = {Detecting Stuffing of a User's Credentials at Her Own Accounts},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2201-2218},
+}
+
+@inproceedings{DBLP:conf/uss/Wu000D20,
+  author    = {Cong Wu and
+               Kun He and
+               Jing Chen and
+               Ziming Zhao and
+               Ruiying Du},
+  title     = {Liveness is Not Enough: Enhancing Fingerprint Authentication with Behavioral Biometrics to Defeat Puppet Attacks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2219-2236},
+}
+
+@inproceedings{DBLP:conf/uss/AzimpourkiviTC20,
+  author    = {Mozhgan Azimpourkivi and
+               Umut Topkara and
+               Bogdan Carbunar},
+  title     = {Human Distinguishable Visual Key Fingerprints},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2237-2254},
+}
+
+@inproceedings{DBLP:conf/uss/ZongLWDL020,
+  author    = {Peiyuan Zong and
+               Tao Lv and
+               Dawei Wang and
+               Zizhuang Deng and
+               Ruigang Liang and
+               Kai Chen},
+  title     = {FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2255-2269},
+}
+
+@inproceedings{DBLP:conf/uss/IspoglouAMP20,
+  author    = {Kyriakos K. Ispoglou and
+               Daniel Austin and
+               Vishwath Mohan and
+               Mathias Payer},
+  title     = {FuzzGen: Automatic Fuzzer Generation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2271-2287},
+}
+
+@inproceedings{DBLP:conf/uss/OsterlundRBG20,
+  author    = {Sebastian Österlund and
+               Kaveh Razavi and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {ParmeSan: Sanitizer-guided Greybox Fuzzing},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2289-2306},
+}
+
+@inproceedings{DBLP:conf/uss/YueWTWYLZ20,
+  author    = {Tai Yue and
+               Pengfei Wang and
+               Yong Tang and
+               Enze Wang and
+               Bo Yu and
+               Kai Lu and
+               Xu Zhou},
+  title     = {EcoFuzz: Adaptive {Energy-Saving} Greybox Fuzzing as a Variant of the Adversarial {Multi-Armed} Bandit},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2307-2324},
+}
+
+@inproceedings{DBLP:conf/uss/ChenGXSZLWL20,
+  author    = {Hongxu Chen and
+               Shengjian Guo and
+               Yinxing Xue and
+               Yulei Sui and
+               Cen Zhang and
+               Yuekang Li and
+               Haijun Wang and
+               Yang Liu},
+  title     = {MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2325-2342},
+}
+
+@inproceedings{DBLP:conf/uss/Chen0SJ20,
+  author    = {Yizheng Chen and
+               Shiqi Wang and
+               Dongdong She and
+               Suman Jana},
+  title     = {On Training Robust {PDF} Malware Classifiers},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2343-2360},
+}
+
+@inproceedings{DBLP:conf/uss/ZhuSYQZS020,
+  author    = {Shuofei Zhu and
+               Jianjun Shi and
+               Limin Yang and
+               Boqin Qin and
+               Ziyi Zhang and
+               Linhai Song and
+               Gang Wang},
+  title     = {Measuring and Modeling the Label Dynamics of Online {Anti-Malware} Engines},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2361-2378},
+}
+
+@inproceedings{DBLP:conf/uss/Elsabagh0SZZL20,
+  author    = {Mohamed Elsabagh and
+               Ryan Johnson and
+               Angelos Stavrou and
+               Chaoshun Zuo and
+               Qingchuan Zhao and
+               Zhiqiang Lin},
+  title     = {FIRMSCOPE: Automatic Uncovering of {Privilege-Escalation} Vulnerabilities in {Pre-Installed} Apps in Android Firmware},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2379-2396},
+}
+
+@inproceedings{DBLP:conf/uss/XuZZXB0L20,
+  author    = {Zhengzi Xu and
+               Yulong Zhang and
+               Longri Zheng and
+               Liangzhao Xia and
+               Chenfu Bao and
+               Zhi Wang and
+               Yang Liu},
+  title     = {Automatic Hot Patch Generation for Android Kernels},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2397-2414},
+}
+
+@inproceedings{DBLP:conf/uss/TangTX0CIWZ20,
+  author    = {Zhushou Tang and
+               Ke Tang and
+               Minhui Xue and
+               Yuan Tian and
+               Sen Chen and
+               Muhammad Ikram and
+               Tielei Wang and
+               Haojin Zhu},
+  title     = {iOS, Your OS, Everybody's OS: Vetting and Analyzing Network Services of {iOS} Applications},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2415-2432},
+}
+
+@inproceedings{DBLP:conf/uss/DemertzisPPS20,
+  author    = {Ioannis Demertzis and
+               Dimitrios Papadopoulos and
+               Charalampos Papamanthou and
+               Saurabh Shintre},
+  title     = {SEAL: Attack Mitigation for Encrypted Databases via Adjustable Leakage},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2433-2450},
+}
+
+@inproceedings{DBLP:conf/uss/GrubbsKLBL0R20,
+  author    = {Paul Grubbs and
+               Anurag Khandelwal and
+               Marie-Sarah Lacharité and
+               Lloyd Brown and
+               Lucy Li and
+               Rachit Agarwal and
+               Thomas Ristenpart},
+  title     = {Pancake: Frequency Smoothing for Encrypted Data Stores},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2451-2468},
+}
+
+@inproceedings{DBLP:conf/uss/ShafaghBRH20,
+  author    = {Hossein Shafagh and
+               Lukas Burkhalter and
+               Sylvia Ratnasamy and
+               Anwar Hithnawi},
+  title     = {Droplet: Decentralized Authorization and Access Control for Encrypted Data Streams},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2469-2486},
+}
+
+@inproceedings{DBLP:conf/uss/MazloomLRG20,
+  author    = {Sahar Mazloom and
+               Phi Hung Le and
+               Samuel Ranellucci and
+               S. Dov Gordon},
+  title     = {Secure parallel computation on national scale volumes of data},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2487-2504},
+}
+
+@inproceedings{DBLP:conf/uss/MishraLSZP20,
+  author    = {Pratyush Mishra and
+               Ryan Lehmkuhl and
+               Akshayaram Srinivasan and
+               Wenting Zheng and
+               Raluca Ada Popa},
+  title     = {Delphi: A Cryptographic Inference Service for Neural Networks},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2505-2522},
+}
+
+@inproceedings{DBLP:conf/uss/Fiterau-Brostean20,
+  author    = {Paul Fiterau-Brostean and
+               Bengt Jonsson and
+               Robert Merget and
+               Joeri de Ruiter and
+               Konstantinos Sagonas and
+               Juraj Somorovsky},
+  title     = {Analysis of {DTLS} Implementations Using Protocol State Fuzzing},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2523-2540},
+}
+
+@inproceedings{DBLP:conf/uss/SongHKKSF20,
+  author    = {Dokyung Song and
+               Felicitas Hetzelt and
+               Jonghwan Kim and
+               Brent ByungHoon Kang and
+               Jean-Pierre Seifert and
+               Michael Franz},
+  title     = {Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2541-2557},
+}
+
+@inproceedings{DBLP:conf/uss/PengP20,
+  author    = {Hui Peng and
+               Mathias Payer},
+  title     = {USBFuzz: A Framework for Fuzzing {USB} Drivers by Device Emulation},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2559-2575},
+}
+
+@inproceedings{DBLP:conf/uss/Gan0CZQWC20,
+  author    = {Shuitao Gan and
+               Chao Zhang and
+               Peng Chen and
+               Bodong Zhao and
+               Xiaojun Qin and
+               Dong Wu and
+               Zuoning Chen},
+  title     = {GREYONE: Data Flow Sensitive Fuzzing},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2577-2594},
+}
+
+@inproceedings{DBLP:conf/uss/JiangBL020,
+  author    = {Zu-Ming Jiang and
+               Jia-Ju Bai and
+               Kangjie Lu and
+               Shi-Min Hu},
+  title     = {Fuzzing Error Handling Code using {Context-Sensitive} Software Fault Injection},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2595-2612},
+}
+
+@inproceedings{DBLP:conf/uss/LeeHCS20,
+  author    = {Suyoung Lee and
+               HyungSeok Han and
+               Sang Kil Cha and
+               Sooel Son},
+  title     = {Montage: A Neural Network Language {Model-Guided} {JavaScript} Engine Fuzzer},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2613-2630},
+}
+
+@inproceedings{DBLP:conf/uss/SugawaraCRGF20,
+  author    = {Takeshi Sugawara and
+               Benjamin Cyr and
+               Sara Rampazzi and
+               Daniel Genkin and
+               Kevin Fu},
+  title     = {Light Commands: {Laser-Based} Audio Injection Attacks on {Voice-Controllable} Systems},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2631-2648},
+}
+
+@inproceedings{DBLP:conf/uss/GuoLL020,
+  author    = {Zhixiu Guo and
+               Zijin Lin and
+               Pan Li and
+               Kai Chen},
+  title     = {SkillExplorer: Understanding the Behavior of Skills in Large Scale},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2649-2666},
+}
+
+@inproceedings{DBLP:conf/uss/ChenYZ0Z0020,
+  author    = {Yuxuan Chen and
+               Xuejing Yuan and
+               Jiangshan Zhang and
+               Yue Zhao and
+               Shengzhi Zhang and
+               Kai Chen and
+               XiaoFeng Wang},
+  title     = {Devil's Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2667-2684},
+}
+
+@inproceedings{DBLP:conf/uss/AhmedKHKOK20,
+  author    = {Muhammad Ejaz Ahmed and
+               Il-Youp Kwak and
+               Jun Ho Huh and
+               Iljoo Kim and
+               Taekkyung Oh and
+               Hyoungshick Kim},
+  title     = {Void: A fast and light voice liveness detection system},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2685-2702},
+}
+
+@inproceedings{DBLP:conf/uss/Ahmed0FR20,
+  author    = {Shimaa Ahmed and
+               Amrita Roy Chowdhury and
+               Kassem Fawaz and
+               Parmesh Ramanathan},
+  title     = {Preech: A System for {Privacy-Preserving} Speech Transcription},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2703-2720},
+}
+
+@inproceedings{DBLP:conf/uss/KalodnerMLGPCN20,
+  author    = {Harry A. Kalodner and
+               Malte Möser and
+               Kevin Lee and
+               Steven Goldfeder and
+               Martin Plattner and
+               Alishah Chator and
+               Arvind Narayanan},
+  title     = {BlockSci: Design and applications of a blockchain analysis platform},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2721-2738},
+}
+
+@inproceedings{DBLP:conf/uss/TramerBP20,
+  author    = {Florian Tramèr and
+               Dan Boneh and
+               Kenny Paterson},
+  title     = {Remote {Side-Channel} Attacks on Anonymous Transactions},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2739-2756},
+}
+
+@inproceedings{DBLP:conf/uss/FrankAH20,
+  author    = {Joel Frank and
+               Cornelius Aschermann and
+               Thorsten Holz},
+  title     = {ETHBMC: A Bounded Model Checker for Smart Contracts},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2757-2774},
+}
+
+@inproceedings{DBLP:conf/uss/ZhangZZL20,
+  author    = {Mengya Zhang and
+               Xiaokuan Zhang and
+               Yinqian Zhang and
+               Zhiqiang Lin},
+  title     = {TXSPECTOR: Uncovering Attacks in Ethereum from Transactions},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2775-2792},
+}
+
+@inproceedings{DBLP:conf/uss/ZhouYXCY020,
+  author    = {Shunfan Zhou and
+               Zhemin Yang and
+               Jie Xiang and
+               Yinzhi Cao and
+               Min Yang and
+               Yuan Zhang},
+  title     = {An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem},
+  booktitle = usenixsec,
+  year      = 2020,
+  pages     = {2793-2810},
+}
+
 @inproceedings{DBLP:conf/uss/Alves-Foss19,
   author    = {Jim Alves-Foss},
   title     = {Percentages, Probabilities and Professions of Performance},
@@ -348,7 +2436,7 @@
 }
 
 @inproceedings{DBLP:conf/uss/ApthorpeVF19,
-  author    = {Noah Apthorpe and
+  author    = {Noah J. Apthorpe and
                Sarah Varghese and
                Nick Feamster},
   title     = {Evaluating the Contextual Integrity of Privacy Regulation: Parents' {IoT} Toy Privacy Norms Versus {COPPA}},
@@ -2991,7 +5079,7 @@
 }
 
 @inproceedings{DBLP:conf/uss/ZengLSWLDWY18,
-  author    = {Kexiong (Curtis) Zeng and
+  author    = {Kexiong Curtis Zeng and
                Shinan Liu and
                Yuanchao Shu and
                Dong Wang and
@@ -6307,7 +8395,7 @@
   author    = {Matthew Fredrikson and
                Eric Lantz and
                Somesh Jha and
-               Simon Lin and
+               Simon M. Lin and
                David Page and
                Thomas Ristenpart},
   title     = {Privacy in Pharmacogenetics: An {End-to-End} Case Study of Personalized Warfarin Dosing},
@@ -10834,7 +12922,7 @@
   author    = {Michael Brown and
                Donny Cheung and
                Darrel Hankerson and
-               Julio López Hernandez and
+               Julio César López-Hernández and
                Michael Kirkup and
                Alfred Menezes},
   title     = {{PGP} in Constrained Wireless Devices},
@@ -11088,7 +13176,7 @@
                Stephen Smalley and
                Peter Loscocco and
                Mike Hibler and
-               Dave Andersen and
+               Dave G. Andersen and
                Jay Lepreau},
   title     = {The Flask Security Architecture: System Support for Diverse Security Policies},
   booktitle = usenixsec,

@@ -118,7 +118,7 @@
                Yadong Xu and
                David Eckhoff and
                Wentong Cai and
-               Alois Knoll},
+               Alois C. Knoll},
   title     = {Fidelity and Performance of State Fast-forwarding in Microscopic Traffic Simulations},
   journal   = tomacs,
   volume    = {30},
@@ -164,6 +164,75 @@
   number    = {2},
   year      = 2020,
   pages     = {13-1},
+}
+
+@article{DBLP:journals/tomacs/BocciarelliDGP20,
+  author    = {Paolo Bocciarelli and
+               Andrea D'Ambrogio and
+               Andrea Giglio and
+               Emiliano Paglia},
+  title     = {Modeling Resources to Simulate Business Process Reliability},
+  journal   = tomacs,
+  volume    = {30},
+  number    = {3},
+  year      = 2020,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tomacs/KalayappanCS20,
+  author    = {Rajshekar Kalayappan and
+               Avantika Chhabra and
+               Smruti R. Sarangi},
+  title     = {ChunkedTejas: A Chunking-based Approach to Parallelizing a {Trace-Driven} Architectural Simulator},
+  journal   = tomacs,
+  volume    = {30},
+  number    = {3},
+  year      = 2020,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tomacs/Nutaro20,
+  author    = {James J. Nutaro},
+  title     = {Toward a Theory of Superdense Time in Simulation Models},
+  journal   = tomacs,
+  volume    = {30},
+  number    = {3},
+  year      = 2020,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tomacs/DassiosLQ20,
+  author    = {Angelos Dassios and
+               Jia Wei Lim and
+               Yan Qu},
+  title     = {Exact Simulation of a Truncated Lévy Subordinator},
+  journal   = tomacs,
+  volume    = {30},
+  number    = {3},
+  year      = 2020,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tomacs/BurakK20,
+  author    = {Maciej Rafal Burak and
+               Przemyslaw Korytkowski},
+  title     = {Inhomogeneous {CTMC} {Birth-and-Death} Models Solved by Uniformization with {Steady-State} Detection},
+  journal   = tomacs,
+  volume    = {30},
+  number    = {3},
+  year      = 2020,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tomacs/LiZ20,
+  author    = {Dongrui Li and
+               Jinghui Zhong},
+  title     = {Dimensionally Aware {Multi-Objective} Genetic Programming for Automatic Crowd Behavior Modeling},
+  journal   = tomacs,
+  volume    = {30},
+  number    = {3},
+  year      = 2020,
+  pages     = {19-1},
 }
 
 @article{DBLP:journals/tomacs/KellerH19,
@@ -4569,7 +4638,7 @@
 @article{DBLP:journals/tomacs/BeekBR03,
   author    = {D. A. van Beek and
                Victor Bos and
-               J. E. Rooda},
+               Jacobus E. Rooda},
   title     = {Declaration of unknowns in {DAE-based} hybrid system specification},
   journal   = tomacs,
   volume    = {13},

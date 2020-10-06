@@ -1,5 +1,110 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/000120,
+  author    = {Thomas Bodner},
+  title     = {Elastic Query Processing on Function as a Service Platforms},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Auge20,
+  author    = {Tanja Auge},
+  title     = {Extended Provenance Management for Data Science Applications},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Boniol20,
+  author    = {Paul Boniol},
+  title     = {Unsupervised Subsequence Anomaly Detection in Large Sequences},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Claire20,
+  author    = {Vincent Le Claire},
+  title     = {Efficient and Scalable Aggregate Computation on Temporal Graphs},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Galhotra20,
+  author    = {Sainyam Galhotra},
+  title     = {Reliable Clustering with Applications to Data Integration},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Gobert20,
+  author    = {Maxime Gobert},
+  title     = {Schema Evolution in Hybrid Databases Systems},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Gupta20,
+  author    = {Suyash Gupta},
+  title     = {Resilient and Scalable Architecture for Permissioned Blockchain Fabrics},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Li20,
+  author    = {Ziyu Li},
+  title     = {Complex Event Processing on Real-time Video Streams},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Maliszewski20,
+  author    = {Kajetan Jeremi Maliszewski},
+  title     = {Secure Data Processing at Scale},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Papadias20,
+  author    = {Serafeim Papadias},
+  title     = {Tunable Streaming Graph Embeddings at Scale},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Parameswaran20,
+  author    = {Aditya Parameswaran},
+  title     = {Democratizing Data Science and Lessons Learned Along the Way},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Shraga20,
+  author    = {Roee Shraga},
+  title     = {(Artificial) Mind over Matter: Humans In and Humans Out in Matching},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Tome20,
+  author    = {Diego G. Tomé},
+  title     = {Redesigning Query Engines for White-box Compression},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Zhang20,
+  author    = {Ji Zhang},
+  title     = {AlphaJoin: Join Order Selection à la {AlphaGo}},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/Ziehn20,
+  author    = {Ariane Ziehn},
+  title     = {Complex Event Processing for the Internet of Things},
+  booktitle = vldb,
+  year      = 2020,
+}
+
 @inproceedings{DBLP:conf/vldb/Akili19,
   author    = {Samira Akili},
   title     = {From Distributed Sources to Distributed Sinks: Towards Truly Decentralized Event Stream Processing},
@@ -159,7 +264,7 @@
 @inproceedings{DBLP:conf/vldb/PasquierES19,
   author    = {Thomas F. J.-M. Pasquier and
                David M. Eyers and
-               Margo Seltzer},
+               Margo I. Seltzer},
   title     = {From Here to Provtopia},
   booktitle = vldb,
   year      = 2019,
@@ -456,7 +561,7 @@
   author    = {Filipe Lautert and
                Tatiane Lautert and
                Nádia P. Kozievitch and
-               Luiz Gomes Jr.},
+               Luiz Celso Gomes Jr.},
   title     = {Is the Location of Public Health Units in Curitiba Meeting the Citizen's Needs?},
   booktitle = vldb,
   year      = 2018,
@@ -992,7 +1097,7 @@
 
 @inproceedings{DBLP:conf/vldb/SilvaS18,
   author    = {Leonardo de Assis da Silva and
-               Thiago H. Silva},
+               Thiago Henrique Silva},
   title     = {Extraction and Exploration of Business Categories Signatures},
   booktitle = vldb,
   year      = 2018,
@@ -1276,7 +1381,7 @@
 @inproceedings{DBLP:conf/vldb/FangLHH17,
   author    = {Jian Fang and
                Jinho Lee and
-               Peter Hofstee and
+               H. Peter Hofstee and
                Jan Hidders},
   title     = {Analyzing {In-Memory} Hash Join: Granularity Matters},
   booktitle = vldb,
@@ -2002,7 +2107,7 @@
   author    = {Alysson Bessani and
                Jörgen Brandt and
                Marc Bux and
-               Vinicius V. Cogo and
+               Vinicius Vielmo Cogo and
                Lora Dimitrova and
                Jim Dowling and
                Ali Gholami and
@@ -4641,7 +4746,7 @@
 
 @inproceedings{DBLP:conf/vldb/JorwekarFRS07,
   author    = {Sudhir Jorwekar and
-               Alan Fekete and
+               Alan D. Fekete and
                Krithi Ramamritham and
                S. Sudarshan},
   title     = {Automating the Detection of Snapshot Isolation Anomalies},
@@ -7621,7 +7726,7 @@
   author    = {Paul Greenfield and
                Dean Kuo and
                Surya Nepal and
-               Alan Fekete},
+               Alan D. Fekete},
   title     = {Consistency for Web Services Applications},
   booktitle = vldb,
   year      = 2005,
@@ -15972,7 +16077,7 @@
 
 @inproceedings{DBLP:conf/vldb/Jamil97,
   author    = {Hasan M. Jamil},
-  title     = {Implementing Abstract Objects with Inheritance in Datalog},
+  title     = {Implementing Abstract Objects with Inheritance in Datalogneg},
   booktitle = vldb,
   year      = 1997,
   pages     = {56-65},
@@ -17623,6 +17728,7 @@
 
 @inproceedings{DBLP:conf/vldb/HvasshovdTBH95,
   author    = {Svein-Olaf Hvasshovd and
+               Ø and
                Øystein Torbjørnsen and
                Svein Erik Bratsberg and
                Per Holager},
@@ -21690,7 +21796,7 @@
 
 @inproceedings{DBLP:conf/vldb/AspnesFLMW88,
   author    = {James Aspnes and
-               Alan Fekete and
+               Alan D. Fekete and
                Nancy A. Lynch and
                Michael Merritt and
                William E. Weihl},

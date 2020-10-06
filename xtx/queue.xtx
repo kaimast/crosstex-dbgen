@@ -1,5 +1,134 @@
 @include journals-cs
 
+@article{DBLP:journals/queue/Frazelle20,
+  author    = {Jessie Frazelle},
+  title     = {Chipping Away at Moore's Law},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {5-15},
+}
+
+@article{DBLP:journals/queue/Frazelle20a,
+  author    = {Jessie Frazelle},
+  title     = {Power to the People},
+  journal   = queue,
+  volume    = {18},
+  number    = {2},
+  year      = 2020,
+  pages     = {5-18},
+}
+
+@article{DBLP:journals/queue/Helland20,
+  author    = {Pat Helland},
+  title     = {The Best Place to Build a Subway},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {16-24},
+}
+
+@article{DBLP:journals/queue/Neville-Neil20a,
+  author    = {George V. Neville-Neil},
+  title     = {Broken Hearts and Coffee Mugs},
+  journal   = queue,
+  volume    = {18},
+  number    = {2},
+  year      = 2020,
+  pages     = {19-24},
+}
+
+@article{DBLP:journals/queue/Limoncelli20,
+  author    = {Thomas A. Limoncelli},
+  title     = {Communicate Using the Numbers 1, 2, 3, and More},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {25-32},
+}
+
+@article{DBLP:journals/queue/Kelly20,
+  author    = {Terence Kelly},
+  title     = {Is Persistent Memory Persistent?},
+  journal   = queue,
+  volume    = {18},
+  number    = {2},
+  year      = 2020,
+  pages     = {25-46},
+}
+
+@article{DBLP:journals/queue/Neville-Neil20,
+  author    = {George V. Neville-Neil},
+  title     = {Kode Vicious Plays in Traffic},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {33-36},
+}
+
+@article{DBLP:journals/queue/Colyer20,
+  author    = {Adrian M. Colyer},
+  title     = {How Do Committees Invent? and Ironies of Automation},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {37-38},
+}
+
+@article{DBLP:journals/queue/ClarkDM20,
+  author    = {Jeremy Clark and
+               Didem Demirag and
+               Seyedehmahsa Moosavi},
+  title     = {Demystifying Stablecoins},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {39-60},
+}
+
+@article{DBLP:journals/queue/ChanC20,
+  author    = {Charisma Chan and
+               Beth Cooper},
+  title     = {Debugging Incidents in Google's Distributed Systems},
+  journal   = queue,
+  volume    = {18},
+  number    = {2},
+  year      = 2020,
+  pages     = {47-66},
+}
+
+@article{DBLP:journals/queue/OCallahanHOC20,
+  author    = {Robert O'Callahan and
+               Kyle Huey and
+               Devon H. O'Dell and
+               Terry Coatta},
+  title     = {To Catch a Failure: The {Record-and-Replay} Approach to Debugging},
+  journal   = queue,
+  volume    = {18},
+  number    = {1},
+  year      = 2020,
+  pages     = {61-79},
+}
+
+@article{DBLP:journals/queue/NarayananMCK20,
+  author    = {Arvind Narayanan and
+               Arunesh Mathur and
+               Marshini Chetty and
+               Mihir Kshirsagar},
+  title     = {Dark Patterns: Past, Present, and Future},
+  journal   = queue,
+  volume    = {18},
+  number    = {2},
+  year      = 2020,
+  pages     = {67-92},
+}
+
 @article{DBLP:journals/queue/Frazelle19a,
   author    = {Jessie Frazelle},
   title     = {Opening up the Baseboard Management Controller},
@@ -136,7 +265,7 @@
 }
 
 @article{DBLP:journals/queue/Colyer19e,
-  author    = {Adrian Colyer},
+  author    = {Adrian M. Colyer},
   title     = {The Way We Think About Data},
   journal   = queue,
   volume    = {17},
@@ -2284,7 +2413,7 @@
                Nikilesh Balakrishnan and
                Thomas Bytheway and
                Ripduman Sohan and
-               Margo Seltzer and
+               Margo I. Seltzer and
                Andy Hopper},
   title     = {A Primer on Provenance},
   journal   = queue,

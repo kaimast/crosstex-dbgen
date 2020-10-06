@@ -1,5 +1,664 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/DhokedM20,
+  author    = {Sahil Dhoked and
+               Neeraj Mittal},
+  title     = {An Adaptive Approach to Recoverable Mutual Exclusion},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/podc/Ben-BaruchHR20,
+  author    = {Ohad Ben-Baruch and
+               Danny Hendler and
+               Matan Rusanovsky},
+  title     = {Upper and Lower Bounds on the Space Complexity of Detectable Objects},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/podc/PerrinMB20,
+  author    = {Matthieu Perrin and
+               Achour Mostéfaoui and
+               Grégoire Bonin},
+  title     = {Extending the Wait-free Hierarchy to {Multi-Threaded} Systems},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/podc/BaigHMT20,
+  author    = {Mirza Ahad Baig and
+               Danny Hendler and
+               Alessia Milani and
+               Corentin Travers},
+  title     = {{Long-Lived} Snapshots with Polylogarithmic Amortized Step Complexity},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/podc/GodardIRT20,
+  author    = {Emmanuel Godard and
+               Damien Imbs and
+               Michel Raynal and
+               Gadi Taubenfeld},
+  title     = {From Bezout's Identity to {Space-Optimal} Election in Anonymous Memory Systems},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaKSW20,
+  author    = {Hagit Attiya and
+               Sweta Kumari and
+               Archit Somani and
+               Jennifer L. Welch},
+  title     = {Brief Announcement: Collect in the Presence of Continuous Churn with Application to Snapshots and Lattice Agreement},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {51-53},
+}
+
+@inproceedings{DBLP:conf/podc/AlistarhAEGZ20,
+  author    = {Dan Alistarh and
+               James Aspnes and
+               Faith Ellen and
+               Rati Gelashvili and
+               Leqi Zhu},
+  title     = {Brief Announcement: Why {Extension-Based} Proofs Fail},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {54-56},
+}
+
+@inproceedings{DBLP:conf/podc/Dolan20,
+  author    = {Stephen Dolan},
+  title     = {Brief Announcement: The Only Undoable {CRDTs} are Counters},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {57-58},
+}
+
+@inproceedings{DBLP:conf/podc/DoryP20,
+  author    = {Michal Dory and
+               Merav Parter},
+  title     = {Exponentially Faster Shortest Paths in the Congested Clique},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {59-68},
+}
+
+@inproceedings{DBLP:conf/podc/0002O20,
+  author    = {Sebastian Brandt and
+               Dennis Olivetti},
+  title     = {Truly Tight-in-Δ Bounds for Bipartite Maximal Matching and Variants},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {69-78},
+}
+
+@inproceedings{DBLP:conf/podc/AssadiKO20,
+  author    = {Sepehr Assadi and
+               Gillat Kol and
+               Rotem Oshman},
+  title     = {Lower Bounds for Distributed Sketching of Maximal Matchings and Maximal Independent Sets},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {79-88},
+}
+
+@inproceedings{DBLP:conf/podc/RosenbaumS20,
+  author    = {Will Rosenbaum and
+               Jukka Suomela},
+  title     = {Seeing Far vs. Seeing Wide: Volume Complexity of Local Graph Problems},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {89-98},
+}
+
+@inproceedings{DBLP:conf/podc/ChatterjeeGP20,
+  author    = {Soumyottam Chatterjee and
+               Robert Gmyr and
+               Gopal Pandurangan},
+  title     = {Sleeping is Efficient: {MIS} in O(1)-rounds Node-averaged Awake Complexity},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {99-108},
+}
+
+@inproceedings{DBLP:conf/podc/KuhnS20,
+  author    = {Fabian Kuhn and
+               Philipp Schneider},
+  title     = {Computing Shortest Paths and Diameter in the Hybrid Network Model},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {109-118},
+}
+
+@inproceedings{DBLP:conf/podc/Ghaffari020,
+  author    = {Mohsen Ghaffari and
+               Krzysztof Nowicki},
+  title     = {Massively Parallel Algorithms for Minimum Cut},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {119-128},
+}
+
+@inproceedings{DBLP:conf/podc/LuL0W20,
+  author    = {Yuan Lu and
+               Zhenliang Lu and
+               Qiang Tang and
+               Guiling Wang},
+  title     = {Dumbo-MVBA: Optimal {Multi-Valued} Validated Asynchronous Byzantine Agreement, Revisited},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {129-138},
+}
+
+@inproceedings{DBLP:conf/podc/AbrahamDS20,
+  author    = {Ittai Abraham and
+               Danny Dolev and
+               Gilad Stern},
+  title     = {Revisiting Asynchronous Fault Tolerant Computation with Optimal Resilience},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {139-148},
+}
+
+@inproceedings{DBLP:conf/podc/SakavalasTV20,
+  author    = {Dimitris Sakavalas and
+               Lewis Tseng and
+               Nitin H. Vaidya},
+  title     = {Asynchronous Byzantine Approximate Consensus in Directed Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {149-158},
+}
+
+@inproceedings{DBLP:conf/podc/MadsenD20,
+  author    = {Mads Frederik Madsen and
+               Søren Debois},
+  title     = {On the Subject of Non-Equivocation: Defining {Non-Equivocation} in Synchronous Agreement Systems},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {159-168},
+}
+
+@inproceedings{DBLP:conf/podc/Choudhury20,
+  author    = {Ashish Choudhury},
+  title     = {Brief Announcement: Almost-surely Terminating Asynchronous Byzantine Agreement Protocols with a Constant Expected Running Time},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {169-171},
+}
+
+@inproceedings{DBLP:conf/podc/GoldweberZK20,
+  author    = {Eli Goldweber and
+               Nuda Zhang and
+               Manos Kapritsos},
+  title     = {Brief Announcement: On the Significance of Consecutive Ballots in Paxos},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {172-174},
+}
+
+@inproceedings{DBLP:conf/podc/CohenKS20,
+  author    = {Shir Cohen and
+               Idit Keidar and
+               Alexander Spiegelman},
+  title     = {Brief Announcement: Not a COINcidence: {Sub-Quadratic} Asynchronous Byzantine Agreement {WHP}},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {175-177},
+}
+
+@inproceedings{DBLP:conf/podc/KhanchandaniW20,
+  author    = {Pankaj Khanchandani and
+               Roger Wattenhofer},
+  title     = {Brief Announcement: Byzantine Agreement with Unknown Participants and Failures},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {178-180},
+}
+
+@inproceedings{DBLP:conf/podc/ChanW20,
+  author    = {David Yu Cheng Chan and
+               Philipp Woelfel},
+  title     = {Recoverable Mutual Exclusion with Constant Amortized {RMR} Complexity from Standard Primitives},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {181-190},
+}
+
+@inproceedings{DBLP:conf/podc/NunKKP20,
+  author    = {Stav Ben Nun and
+               Tsvi Kopelowitz and
+               Matan Kraus and
+               Ely Porat},
+  title     = {An O(log3/2 n) Parallel Time Population Protocol for Majority with O(log n) States},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {191-199},
+}
+
+@inproceedings{DBLP:conf/podc/Huang0W20,
+  author    = {Kaile Huang and
+               Yu Huang and
+               Hengfeng Wei},
+  title     = {Fine-grained Analysis on Fast Implementations of Distributed Multi-writer Atomic Registers},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {200-209},
+}
+
+@inproceedings{DBLP:conf/podc/ChenC20,
+  author    = {Hsueh-Ping Chen and
+               Ho-Lin Chen},
+  title     = {{Self-Stabilizing} Leader Election in Regular Graphs},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {210-217},
+}
+
+@inproceedings{DBLP:conf/podc/BerenbrinkGK20,
+  author    = {Petra Berenbrink and
+               George Giakkoupis and
+               Peter Kling},
+  title     = {Brief Announcement: Optimal Time and Space Leader Election in Population Protocols},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {218-220},
+}
+
+@inproceedings{DBLP:conf/podc/RinbergK20,
+  author    = {Arik Rinberg and
+               Idit Keidar},
+  title     = {Brief Announcement: Intermediate Value Linearizability: A Quantitative Correctness Criterion},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {221-223},
+}
+
+@inproceedings{DBLP:conf/podc/RodriguezS20,
+  author    = {Matthew Rodriguez and
+               Michael Spear},
+  title     = {Brief Announcement: On Implementing Software Transactional Memory in the C++ Memory Model},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {224-226},
+}
+
+@inproceedings{DBLP:conf/podc/AltisenDDJP20,
+  author    = {Karine Altisen and
+               Stéphane Devismes and
+               Anaïs Durand and
+               Colette Johnen and
+               Franck Petit},
+  title     = {Brief Announcement: Self-stabilizing Systems in Spite of High Dynamics},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {227-229},
+}
+
+@inproceedings{DBLP:conf/podc/Michael20,
+  author    = {Maged M. Michael},
+  title     = {Brief Announcement: Hazard Pointer Protection of Structures with Immutable Links},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {230-232},
+}
+
+@inproceedings{DBLP:conf/podc/HalldorssonKM20,
+  author    = {Magnús M. Halldórsson and
+               Fabian Kuhn and
+               Yannic Maus},
+  title     = {Distance-2 Coloring in the {CONGEST} Model},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {233-242},
+}
+
+@inproceedings{DBLP:conf/podc/BambergerKM20,
+  author    = {Philipp Bamberger and
+               Fabian Kuhn and
+               Yannic Maus},
+  title     = {Efficient Deterministic Distributed Coloring with Small Bandwidth},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {243-252},
+}
+
+@inproceedings{DBLP:conf/podc/BouchardDP20,
+  author    = {Sébastien Bouchard and
+               Yoann Dieudonné and
+               Andrzej Pelc},
+  title     = {Want to Gather? No Need to Chatter!},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {253-262},
+}
+
+@inproceedings{DBLP:conf/podc/PourmiriM20,
+  author    = {Ali Pourmiri and
+               Bernard Mans},
+  title     = {Tight Analysis of Asynchronous Rumor Spreading in Dynamic Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {263-272},
+}
+
+@inproceedings{DBLP:conf/podc/ChangDHP20,
+  author    = {Yi-Jun Chang and
+               Varsha Dani and
+               Thomas P. Hayes and
+               Seth Pettie},
+  title     = {The Energy Complexity of {BFS} in Radio Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {273-282},
+}
+
+@inproceedings{DBLP:conf/podc/KawarabayashiKS20,
+  author    = {Ken-ichi Kawarabayashi and
+               Seri Khoury and
+               Aaron Schild and
+               Gregory Schwartzman},
+  title     = {Brief Announcement: Improved Distributed Approximations for {Maximum-Weight} Independent Set},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {283-285},
+}
+
+@inproceedings{DBLP:conf/podc/ChenZ20,
+  author    = {Haimin Chen and
+               Chaodong Zheng},
+  title     = {Brief Announcement: Resource Competitive Broadcast against Adaptive Adversary in Multi-channel Radio Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {286-288},
+}
+
+@inproceedings{DBLP:conf/podc/BalliuKO20,
+  author    = {Alkida Balliu and
+               Fabian Kuhn and
+               Dennis Olivetti},
+  title     = {Distributed Edge Coloring in Time {Quasi-Polylogarithmic} in Delta},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {289-298},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0OS20,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Dennis Olivetti and
+               Jukka Suomela},
+  title     = {How much does randomness help with locally checkable problems?},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {299-308},
+}
+
+@inproceedings{DBLP:conf/podc/CzumajDP20,
+  author    = {Artur Czumaj and
+               Peter Davies and
+               Merav Parter},
+  title     = {Simple, Deterministic, {Constant-Round} Coloring in the Congested Clique},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {309-318},
+}
+
+@inproceedings{DBLP:conf/podc/FeuilloleyFMRRT20,
+  author    = {Laurent Feuilloley and
+               Pierre Fraigniaud and
+               Pedro Montealegre and
+               Ivan Rapaport and
+               Éric Rémila and
+               Ioan Todinca},
+  title     = {Compact Distributed Certification of Planar Graphs},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {319-328},
+}
+
+@inproceedings{DBLP:conf/podc/0002GR20,
+  author    = {Sebastian Brandt and
+               Christoph Grunau and
+               Václav Rozhon},
+  title     = {Generalizing the Sharp Threshold Phenomenon for the Distributed Complexity of the Lovász Local Lemma},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {329-338},
+}
+
+@inproceedings{DBLP:conf/podc/GuptaJM20,
+  author    = {Manoj Gupta and
+               Rahul Jain and
+               Nitiksha Modi},
+  title     = {Multiple Source Replacement Path Problem},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {339-348},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0EHMOS20,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Yuval Efron and
+               Juho Hirvonen and
+               Yannic Maus and
+               Dennis Olivetti and
+               Jukka Suomela},
+  title     = {Brief Announcement: Classification of Distributed Binary Labeling Problems},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {349-351},
+}
+
+@inproceedings{DBLP:conf/podc/Olivetti20,
+  author    = {Dennis Olivetti},
+  title     = {Brief Announcement: Round eliminator: a tool for automatic speedup simulation},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {352-354},
+}
+
+@inproceedings{DBLP:conf/podc/El-MhamdiGGHR20,
+  author    = {El-Mahdi El-Mhamdi and
+               Rachid Guerraoui and
+               Arsany Guirguis and
+               Lê Nguyên Hoang and
+               Sébastien Rouault},
+  title     = {Genuinely Distributed Byzantine Machine Learning},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {355-364},
+}
+
+@inproceedings{DBLP:conf/podc/GuptaV20,
+  author    = {Nirupam Gupta and
+               Nitin H. Vaidya},
+  title     = {{Fault-Tolerance} in Distributed Optimization: The Case of Redundancy},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {365-374},
+}
+
+@inproceedings{DBLP:conf/podc/MosesZ20,
+  author    = {Yoram Moses and
+               Nitzan Zamir},
+  title     = {Probably Approximately Knowing},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {375-384},
+}
+
+@inproceedings{DBLP:conf/podc/BankhamerEKK20,
+  author    = {Gregor Bankhamer and
+               Robert Elsässer and
+               Dominik Kaaser and
+               Matjaz Krnc},
+  title     = {Positive Aging Admits Fast Asynchronous Plurality Consensus},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {385-394},
+}
+
+@inproceedings{DBLP:conf/podc/ShimiC20,
+  author    = {Adam Shimi and
+               Armando Castañeda},
+  title     = {K-set agreement bounds in round-based models through combinatorial topology},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {395-404},
+}
+
+@inproceedings{DBLP:conf/podc/GorenM20,
+  author    = {Guy Goren and
+               Yoram Moses},
+  title     = {Brief Announcement: On Using Null Messages in a Byzantine Setting},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {405-407},
+}
+
+@inproceedings{DBLP:conf/podc/DufoulonBB20,
+  author    = {Fabien Dufoulon and
+               Janna Burman and
+               Joffroy Beauquier},
+  title     = {Can Uncoordinated Beeps tell Stories?},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {408-417},
+}
+
+@inproceedings{DBLP:conf/podc/EfremenkoKS20,
+  author    = {Klim Efremenko and
+               Gillat Kol and
+               Raghuvansh R. Saxena},
+  title     = {Noisy Beeps},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {418-427},
+}
+
+@inproceedings{DBLP:conf/podc/MaoDVKS20,
+  author    = {Yifan Mao and
+               Soubhik Deb and
+               Shaileshh Bojja Venkatakrishnan and
+               Sreeram Kannan and
+               Kannan Srinivasan},
+  title     = {Perigee: Efficient {Peer-to-Peer} Network Design for Blockchains},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {428-437},
+}
+
+@inproceedings{DBLP:conf/podc/GilbertP0T20,
+  author    = {Seth Gilbert and
+               Gopal Pandurangan and
+               Peter Robinson and
+               Amitabh Trehan},
+  title     = {DConstructor: Efficient and Robust Network Construction with Polylogarithmic Overhead},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {438-447},
+}
+
+@inproceedings{DBLP:conf/podc/MichailSS20,
+  author    = {Othon Michail and
+               George Skretas and
+               Paul G. Spirakis},
+  title     = {Distributed Computation and Reconfiguration in Actively Dynamic Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {448-457},
+}
+
+@inproceedings{DBLP:conf/podc/AshkenaziGL20,
+  author    = {Yagel Ashkenazi and
+               Ran Gelles and
+               Amir Leshem},
+  title     = {Brief Announcement: Noisy Beeping Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {458-460},
+}
+
+@inproceedings{DBLP:conf/podc/PacutP020,
+  author    = {Maciej Pacut and
+               Mahmoud Parham and
+               Stefan Schmid},
+  title     = {Brief Announcement: Deterministic Lower Bound for Dynamic Balanced Graph Partitioning},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {461-463},
+}
+
+@inproceedings{DBLP:conf/podc/ChechikM20,
+  author    = {Shiri Chechik and
+               Doron Mukhtar},
+  title     = {{Single-Source} Shortest Paths in the {CONGEST} Model with Improved Bound},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {464-473},
+}
+
+@inproceedings{DBLP:conf/podc/Censor-HillelGL20,
+  author    = {Keren Censor-Hillel and
+               François Le Gall and
+               Dean Leitersdorf},
+  title     = {On Distributed Listing of Cliques},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {474-482},
+}
+
+@inproceedings{DBLP:conf/podc/ElkinFN20,
+  author    = {Michael Elkin and
+               Arnold Filtser and
+               Ofer Neiman},
+  title     = {Distributed Construction of Light Networks},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {483-492},
+}
+
+@inproceedings{DBLP:conf/podc/DinitzR20,
+  author    = {Michael Dinitz and
+               Caleb Robelle},
+  title     = {Efficient and Simple Algorithms for {Fault-Tolerant} Spanners},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {493-500},
+}
+
+@inproceedings{DBLP:conf/podc/Bar-YehudaCMPP20,
+  author    = {Reuven Bar-Yehuda and
+               Keren Censor-Hillel and
+               Yannic Maus and
+               Shreyas Pai and
+               Sriram V. Pemmaraju},
+  title     = {Distributed Approximation on Power Graphs},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {501-510},
+}
+
+@inproceedings{DBLP:conf/podc/EfronGK20,
+  author    = {Yuval Efron and
+               Ofer Grossman and
+               Seri Khoury},
+  title     = {Beyond Alice and Bob: Improved Inapproximability for Maximum Independent Set in {CONGEST}},
+  booktitle = podc,
+  year      = 2020,
+  pages     = {511-520},
+}
+
 @inproceedings{DBLP:conf/podc/AlvisiDEKKS19,
   author    = {Lorenzo Alvisi and
                Shlomi Dolev and
@@ -588,7 +1247,7 @@
   author    = {Marcos K. Aguilera and
                Naama Ben-David and
                Rachid Guerraoui and
-               Virendra Marathe and
+               Virendra J. Marathe and
                Igor Zablotchi},
   title     = {The Impact of {RDMA} on Agreement},
   booktitle = podc,
@@ -3530,7 +4189,7 @@
 
 @inproceedings{DBLP:conf/podc/TufekciO15,
   author    = {Volkan Tüfekçi and
-               Can Özturan},
+               Can C. Özturan},
   title     = {Partitioning Graph Databases by Using Access Patterns},
   booktitle = podc,
   year      = 2015,
@@ -8973,7 +9632,7 @@
 @inproceedings{DBLP:conf/podc/FatourouK07,
   author    = {Panagiota Fatourou and
                Nikolaos D. Kallimanis},
-  title     = {Time-optimal, space-efficient single-scanner snapshots &amp; multi-scanner snapshots using {CAS}},
+  title     = {Time-optimal, space-efficient single-scanner snapshots & multi-scanner snapshots using {CAS}},
   booktitle = podc,
   year      = 2007,
   pages     = {33-42},
@@ -13788,7 +14447,7 @@
 
 @inproceedings{DBLP:conf/podc/PriscoFLS98,
   author    = {Roberto De Prisco and
-               Alan Fekete and
+               Alan D. Fekete and
                Nancy A. Lynch and
                Alexander A. Shvartsman},
   title     = {A Dynamic {View-Oriented} Group Communication Service},
@@ -14089,7 +14748,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/FeketeLS97,
-  author    = {Alan Fekete and
+  author    = {Alan D. Fekete and
                Nancy A. Lynch and
                Alexander A. Shvartsman},
   title     = {Specifying and Using a Partitionable Group Communication Service},
@@ -15020,7 +15679,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/FeketeGLLS96,
-  author    = {Alan Fekete and
+  author    = {Alan D. Fekete and
                David Gupta and
                Victor Luchangco and
                Nancy A. Lynch and
@@ -17519,7 +18178,7 @@
 @inproceedings{DBLP:conf/podc/LynchMF88,
   author    = {Nancy A. Lynch and
                Yishay Mansour and
-               Alan Fekete},
+               Alan D. Fekete},
   title     = {Data Link Layer: Two Impossibility Results},
   booktitle = podc,
   year      = 1988,

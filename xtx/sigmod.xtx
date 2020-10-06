@@ -1,5 +1,28 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigmod/DrevesHPPRG20,
+  author    = {Mike Dreves and
+               Gene Huang and
+               Zhuo Peng and
+               Neoklis Polyzotis and
+               Evan Rosen and
+               Paul Suganthan C. G.},
+  title     = {From Data to Models and Back},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/FiorCG20,
+  author    = {Jacopo Fior and
+               Luca Cagliero and
+               Paolo Garza},
+  title     = {Price series cross-correlation analysis to enhance the diversification of itemset-based stock portfolios},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
 @inproceedings{DBLP:conf/sigmod/GhadakchiXT20,
   author    = {Vahid Ghadakchi and
                Mian Xie and
@@ -17,6 +40,15 @@
                Reynold Xin and
                Peter A. Boncz},
   title     = {SparkFuzz: searching correctness regressions in modern query engines},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/PatroumpasS20,
+  author    = {Kostas Patroumpas and
+               Dimitrios Skoutas},
+  title     = {Similarity search over enriched geospatial data},
   booktitle = sigmod,
   year      = 2020,
   pages     = {1-1},
@@ -47,6 +79,53 @@
   booktitle = sigmod,
   year      = 2020,
   pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/AttanasioCB20,
+  author    = {Giuseppe Attanasio and
+               Luca Cagliero and
+               Elena Baralis},
+  title     = {Leveraging the explainability of associative classifiers to support quantitative stock trading},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/DasIBRGKDRPSWZS20,
+  author    = {Piali Das and
+               Nikita Ivkin and
+               Tanya Bansal and
+               Laurence Rouesnel and
+               Philip Gautier and
+               Zohar S. Karnin and
+               Leo Dirac and
+               Lakshmi Ramakrishnan and
+               Andre Perunicic and
+               Iaroslav Shcherbatyi and
+               Wilton Wu and
+               Aida Zolic and
+               Huibin Shen and
+               Amr Ahmed and
+               Fela Winkelmolen and
+               Miroslav Miladinovic and
+               Cédric Archembeau and
+               Alex Tang and
+               Bhaskar Dutt and
+               Patricia Grao and
+               Kumar Venkateswar},
+  title     = {Amazon {SageMaker} Autopilot: a white box {AutoML} solution at scale},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanG20,
+  author    = {Liyue Fan and
+               Sriram Yechan Gunja},
+  title     = {Geopriv4j: an open source repository for practical location privacy},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {2-1},
 }
 
 @inproceedings{DBLP:conf/sigmod/FanSKA20,
@@ -98,6 +177,25 @@
   pages     = {3-1},
 }
 
+@inproceedings{DBLP:conf/sigmod/CurinoGKKLLOPST20,
+  author    = {Carlo Curino and
+               Neha Godwal and
+               Brian Kroth and
+               Sergiy Kuryata and
+               Greg Lapinski and
+               Siqi Liu and
+               Slava Oks and
+               Olga Poppe and
+               Adam Smiechowski and
+               Ed Thayer and
+               Markus Weimer and
+               Yiwen Zhu},
+  title     = {MLOS: An Infrastructure for Automated Software Performance Engineering},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
 @inproceedings{DBLP:conf/sigmod/GuoD20,
   author    = {Runsheng Benson Guo and
                Khuzaima Daudjee},
@@ -116,10 +214,30 @@
   pages     = {3-1},
 }
 
+@inproceedings{DBLP:conf/sigmod/Lembo0PS20,
+  author    = {Domenico Lembo and
+               Yunyao Li and
+               Lucian Popa and
+               Federico Maria Scafoglieri},
+  title     = {Ontology mediated information extraction in financial domain with Mastro {System-T}},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
 @inproceedings{DBLP:conf/sigmod/NaackeC20,
   author    = {Hubert Naacke and
                Olivier Curé},
   title     = {Triag, a framework based on triangles of {RDF} triples},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangE20,
+  author    = {Yaming Zhang and
+               Ahmed Eldawy},
+  title     = {Evaluating computational geometry libraries for big spatial data exploration},
   booktitle = sigmod,
   year      = 2020,
   pages     = {3-1},
@@ -139,6 +257,26 @@
   author    = {Alessandro Adamou and
                Mathieu d'Aquin},
   title     = {Relaxing global-as-view in mediated data integration from linked data},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/AlexisKG20,
+  author    = {Konstantinos Alexis and
+               Vassilis Kaffes and
+               Giorgos Giannopoulos},
+  title     = {Boosting toponym interlinking by paying attention to both machine and deep learning},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Bohlke-Schneider20,
+  author    = {Michael Bohlke-Schneider and
+               Shubham Kapoor and
+               Tim Januschowski},
+  title     = {Resilient Neural Forecasting Systems},
   booktitle = sigmod,
   year      = 2020,
   pages     = {4-1},
@@ -183,6 +321,31 @@
                Maik Thiele and
                Wolfgang Lehner},
   title     = {FacetE: exploiting web tables for domain-specific word embedding evaluation},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenCDD0HKMMNOP20,
+  author    = {Andrew Chen and
+               Andy Chow and
+               Aaron Davidson and
+               Arjun DCunha and
+               Ali Ghodsi and
+               Sue Ann Hong and
+               Andy Konwinski and
+               Clemens Mewald and
+               Siddharth Murching and
+               Tomas Nykodym and
+               Paul Ogilvie and
+               Mani Parkhe and
+               Avesh Singh and
+               Fen Xie and
+               Matei Zaharia and
+               Richard Zang and
+               Juntai Zheng and
+               Corey Zumar},
+  title     = {Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle},
   booktitle = sigmod,
   year      = 2020,
   pages     = {5-1},
@@ -242,6 +405,18 @@
   pages     = {6-1},
 }
 
+@inproceedings{DBLP:conf/sigmod/BertossiLSSV20,
+  author    = {Leopoldo E. Bertossi and
+               Jordan Li and
+               Maximilian Schleich and
+               Dan Suciu and
+               Zografoula Vagena},
+  title     = {Causality-based Explanation of Classification Outcomes},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {6-1},
+}
+
 @inproceedings{DBLP:conf/sigmod/ChenWC20,
   author    = {Xinyue Chen and
                Chenglong Wang and
@@ -259,6 +434,20 @@
   booktitle = sigmod,
   year      = 2020,
   pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/BoeWDMDMW20,
+  author    = {Benjamin De Boe and
+               Tom Woodfin and
+               Thomas Dyar and
+               Dave McCaldon and
+               Aleks Djakovic and
+               Alex MacLeod and
+               Don Woodlock},
+  title     = {IntegratedML: Every {SQL} Developer is a Data Scientist},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {7-1},
 }
 
 @inproceedings{DBLP:conf/sigmod/BottcherHP20,
@@ -300,6 +489,18 @@
                Marta Tatu and
                Dan I. Moldovan},
   title     = {Ten ways of leveraging ontologies for natural language processing and its enterprise applications},
+  booktitle = sigmod,
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/SinghalCKMN20,
+  author    = {Rekha Singhal and
+               Dheeraj Chahal and
+               Shruti Kunde and
+               Mayank Mishra and
+               Manoj K. Nambiar},
+  title     = {A Vision on Accelerating Enterprise {IT} System 2.0},
   booktitle = sigmod,
   year      = 2020,
   pages     = {8-1},
@@ -1794,6 +1995,7 @@
 
 @inproceedings{DBLP:conf/sigmod/LiLB20,
   author    = {Hui Li and
+               Hui Li and
                Sourav S. Bhowmick},
   title     = {CHASSIS: Conformity Meets Online Information Diffusion},
   booktitle = sigmod,
@@ -2958,7 +3160,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Ma20,
-  author    = {William Ma},
+  author    = {William W. Ma},
   title     = {Serverless Query Processing on a Budget},
   booktitle = sigmod,
   year      = 2020,
@@ -5378,7 +5580,7 @@
   author    = {Lukas Rupprecht and
                James C. Davis and
                Constantine Arnold and
-               Alexander Lubbock and
+               Alexander L. R. Lubbock and
                Darren Tyson and
                Deepavali Bhagwat},
   title     = {Ursprung: Provenance for {Large-Scale} Analytics Environments},
@@ -5955,7 +6157,7 @@
                Qiuye Jin and
                Shrainik Jain and
                Stratis D. Viglas and
-               Allison Lee},
+               Allison W. Lee},
   title     = {Snowtrail: Testing with Production Queries on a Cloud Database},
   booktitle = sigmod,
   year      = 2018,
@@ -10912,7 +11114,7 @@
 
 @inproceedings{DBLP:conf/sigmod/KarsaiFKM16,
   author    = {Linus Karsai and
-               Alan Fekete and
+               Alan D. Fekete and
                Judy Kay and
                Paolo Missier},
   title     = {Clustering provenance facilitating provenance exploration through data abstraction},
@@ -11411,7 +11613,7 @@
 @inproceedings{DBLP:conf/sigmod/LiuHMLC16,
   author    = {Zhen Hua Liu and
                Beda Christoph Hammerschmidt and
-               Doug McMahon and
+               Douglas Mcmahon and
                Ying Liu and
                Hui Joe Chang},
   title     = {Closing the functional and Performance Gap between {SQL} and {NoSQL}},
@@ -14803,7 +15005,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BailisFFGHS15,
   author    = {Peter Bailis and
-               Alan Fekete and
+               Alan D. Fekete and
                Michael J. Franklin and
                Ali Ghodsi and
                Joseph M. Hellerstein and
@@ -15581,7 +15783,7 @@
   author    = {Gene Pang and
                Tim Kraska and
                Michael J. Franklin and
-               Alan Fekete},
+               Alan D. Fekete},
   title     = {PLANET: making progress with commit processing in unpredictable environments},
   booktitle = sigmod,
   year      = 2014,
@@ -15783,7 +15985,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BailisFHGS14,
   author    = {Peter Bailis and
-               Alan Fekete and
+               Alan D. Fekete and
                Joseph M. Hellerstein and
                Ali Ghodsi and
                Ion Stoica},
@@ -16591,7 +16793,7 @@
 
 @inproceedings{DBLP:conf/sigmod/LiJ14,
   author    = {Fei Li and
-               Hosagrahar Visvesvaraya Jagadish},
+               H. V. Jagadish},
   title     = {NaLIR: an interactive natural language interface for querying relational databases},
   booktitle = sigmod,
   year      = 2014,
@@ -17019,7 +17221,7 @@
 @inproceedings{DBLP:conf/sigmod/LiPJ14,
   author    = {Fei Li and
                Tianyin Pan and
-               Hosagrahar Visvesvaraya Jagadish},
+               H. V. Jagadish},
   title     = {Schema-free {SQL}},
   booktitle = sigmod,
   year      = 2014,
@@ -17174,7 +17376,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GaoJLO14,
   author    = {Jinyang Gao and
-               Hosagrahar Visvesvaraya Jagadish and
+               H. V. Jagadish and
                Wei Lu and
                Beng Chin Ooi},
   title     = {DSH: data sensitive hashing for high-dimensional k-nnsearch},
@@ -17296,7 +17498,7 @@
 @inproceedings{DBLP:conf/sigmod/LiuHM14,
   author    = {Zhen Hua Liu and
                Beda Christoph Hammerschmidt and
-               Doug McMahon},
+               Douglas Mcmahon},
   title     = {{JSON} data management: supporting schema-less development in {RDBMS}},
   booktitle = sigmod,
   year      = 2014,
@@ -17923,7 +18125,7 @@
 @inproceedings{DBLP:conf/sigmod/JungHFHY13,
   author    = {Hyungsoo Jung and
                Hyuck Han and
-               Alan David Fekete and
+               Alan D. Fekete and
                Gernot Heiser and
                Heon Young Yeom},
   title     = {A scalable lock manager for multicores},
@@ -25935,7 +26137,7 @@
 @inproceedings{DBLP:conf/sigmod/CahillRF08,
   author    = {Michael J. Cahill and
                Uwe Röhm and
-               Alan David Fekete},
+               Alan D. Fekete},
   title     = {Serializable isolation for snapshot databases},
   booktitle = sigmod,
   year      = 2008,
@@ -28751,7 +28953,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BernsteinFGRT06,
   author    = {Philip A. Bernstein and
-               Alan Fekete and
+               Alan D. Fekete and
                Hongfei Guo and
                Raghu Ramakrishnan and
                Pradeep Tamma},
@@ -34173,7 +34375,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ShouCTRH01,
   author    = {Lidan Shou and
-               Jason Chionh and
+               Chern-Hooi Chionh and
                Kian-Lee Tan and
                Yixin Ruan and
                Zhiyong Huang},

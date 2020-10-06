@@ -1,4 +1,6 @@
-TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction in l{$\\alpha$}; ({$0 < \\alpha \le 2$}) using stable random projections'
+TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction in l{$\\alpha$}; ({$0 < \\alpha \le 2$}) using stable random projections',
+         'journals/cacm/Glass99c': 'Buzzwordism and the Epic \$150 Million Software Debacle',
+         'conf/crypto/AttemaC20' : 'Compressed $\varSigma $-Protocol Theory and Practical Application to Plug \& Play Secure Algorithmics'
         }
 
 CONFERENCE_LOCATIONS = {

@@ -1,5 +1,901 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/crypto/CoronG20,
+  author    = {Jean-Sébastien Coron and
+               Agnese Gini},
+  title     = {A {Polynomial-Time} Algorithm for Solving the Hidden Subset Sum Problem},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {3-31},
+}
+
+@inproceedings{DBLP:conf/crypto/JaegerT20,
+  author    = {Joseph Jaeger and
+               Nirvan Tyagi},
+  title     = {Handling Adaptive Compromise for Practical Encryption Schemes},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/crypto/MiaoP0SY20,
+  author    = {Peihan Miao and
+               Sarvar Patel and
+               Mariana Raykova and
+               Karn Seth and
+               Moti Yung},
+  title     = {{Two-Sided} Malicious Security for Private {Intersection-Sum} with Cardinality},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {3-33},
+}
+
+@inproceedings{DBLP:conf/crypto/MicheliGP20,
+  author    = {Gabrielle De Micheli and
+               Pierrick Gaudry and
+               Cécile Pierrot},
+  title     = {Asymptotic Complexities of Discrete Logarithm Algorithms in {Pairing-Relevant} Finite Fields},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {32-61},
+}
+
+@inproceedings{DBLP:conf/crypto/0001M20,
+  author    = {Daniel Jost and
+               Ueli Maurer},
+  title     = {Overcoming Impossibility Results in Composable Security Using {Interval-Wise} Guarantees},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {33-62},
+}
+
+@inproceedings{DBLP:conf/crypto/ChaseM20,
+  author    = {Melissa Chase and
+               Peihan Miao},
+  title     = {Private Set Intersection in the Internet Setting from Lightweight Oblivious {PRF}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {34-63},
+}
+
+@inproceedings{DBLP:conf/crypto/BoudotGGHTZ20,
+  author    = {Fabrice Boudot and
+               Pierrick Gaudry and
+               Aurore Guillevic and
+               Nadia Heninger and
+               Emmanuel Thomé and
+               Paul Zimmermann},
+  title     = {Comparing the Difficulty of Factorization and Discrete Logarithm: A 240-Digit Experiment},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {62-91},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry020,
+  author    = {Mark Zhandry and
+               Cong Zhang},
+  title     = {Indifferentiability for Public Key Cryptosystems},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {63-93},
+}
+
+@inproceedings{DBLP:conf/crypto/ChenCDKLRS20,
+  author    = {Megan Chen and
+               Ran Cohen and
+               Jack Doerner and
+               Yashvanth Kondi and
+               Eysa Lee and
+               Schuyler Rosefield and
+               Abhi Shelat},
+  title     = {Multiparty Generation of an {RSA} Modulus},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {64-93},
+}
+
+@inproceedings{DBLP:conf/crypto/CastryckSV20,
+  author    = {Wouter Castryck and
+               Jana Sotáková and
+               Frederik Vercauteren},
+  title     = {Breaking the Decisional {Diffie-Hellman} Problem for Class Group Actions Using Genus Theory},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {92-120},
+}
+
+@inproceedings{DBLP:conf/crypto/PattonS20,
+  author    = {Christopher Patton and
+               Thomas Shrimpton},
+  title     = {Quantifying the Security Cost of Migrating Protocols to Practice},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {94-124},
+}
+
+@inproceedings{DBLP:conf/crypto/BallCLMT20,
+  author    = {Marshall Ball and
+               Eshan Chattopadhyay and
+               Jyun-Jie Liao and
+               Tal Malkin and
+               Li-Yang Tan},
+  title     = {Non-malleability Against Polynomial Tampering},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {97-126},
+}
+
+@inproceedings{DBLP:conf/crypto/BauerFL20,
+  author    = {Balthazar Bauer and
+               Georg Fuchsbauer and
+               Julian Loss},
+  title     = {A Classification of Computational Assumptions in the Algebraic Group Model},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {121-151},
+}
+
+@inproceedings{DBLP:conf/crypto/BrianFO0020,
+  author    = {Gianluca Brian and
+               Antonio Faonio and
+               Maciej Obremski and
+               Mark Simkin and
+               Daniele Venturi},
+  title     = {Non-malleable Secret Sharing Against Bounded {Joint-Tampering} Attacks in the Plain Model},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {127-155},
+}
+
+@inproceedings{DBLP:conf/crypto/GhoshalJT20,
+  author    = {Ashrujit Ghoshal and
+               Joseph Jaeger and
+               Stefano Tessaro},
+  title     = {The {Memory-Tightness} of Authenticated Encryption},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {127-156},
+}
+
+@inproceedings{DBLP:conf/crypto/KirchnerEF20,
+  author    = {Paul Kirchner and
+               Thomas Espitau and
+               Pierre-Alain Fouque},
+  title     = {Fast Reduction of Algebraic Lattices over Cyclotomic Fields},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {155-185},
+}
+
+@inproceedings{DBLP:conf/crypto/ManurangsiSV20,
+  author    = {Pasin Manurangsi and
+               Akshayaram Srinivasan and
+               Prashant Nalini Vasudevan},
+  title     = {Nearly Optimal Robust Secret Sharing Against Rushing Adversaries},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {156-185},
+}
+
+@inproceedings{DBLP:conf/crypto/AkshimaCDW20,
+  author    = {Akshima and
+               David Cash and
+               Andrew Drucker and
+               Hoeteck Wee},
+  title     = {{Time-Space} Tradeoffs and Short Collisions in Merkle-Damgård Hash Functions},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {157-186},
+}
+
+@inproceedings{DBLP:conf/crypto/AlbrechtBFKSW20,
+  author    = {Martin R. Albrecht and
+               Shi Bai and
+               Pierre-Alain Fouque and
+               Paul Kirchner and
+               Damien Stehlé and
+               Weiqiang Wen},
+  title     = {Faster {Enumeration-Based} Lattice Reduction: Root Hermite Factor k1/(2k) Time kk/8+o(k)},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {186-212},
+}
+
+@inproceedings{DBLP:conf/crypto/GunsingM20,
+  author    = {Aldo Gunsing and
+               Bart Mennink},
+  title     = {The {Summation-Truncation} Hybrid: Reusing Discarded Bits for Free},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {187-217},
+}
+
+@inproceedings{DBLP:conf/crypto/CarliniJM20,
+  author    = {Nicholas Carlini and
+               Matthew Jagielski and
+               Ilya Mironov},
+  title     = {Cryptanalytic Extraction of Neural Network Models},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {189-218},
+}
+
+@inproceedings{DBLP:conf/crypto/MukherjeeS20,
+  author    = {Tamalika Mukherjee and
+               Noah Stephens-Davidowitz},
+  title     = {Lattice Reduction for Modules, or How to Reduce {ModuleSVP} to {ModuleSVP}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {213-242},
+}
+
+@inproceedings{DBLP:conf/crypto/HoangS20,
+  author    = {Viet Tung Hoang and
+               Yaobin Shen},
+  title     = {Security Analysis of {NIST} {CTR-DRBG}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {218-247},
+}
+
+@inproceedings{DBLP:conf/crypto/Liu0M20,
+  author    = {Fukang Liu and
+               Takanori Isobe and
+               Willi Meier},
+  title     = {Automatic Verification of Differential Characteristics: Application to Reduced Gimli},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {219-248},
+}
+
+@inproceedings{DBLP:conf/crypto/BoerDPW20,
+  author    = {Koen de Boer and
+               Léo Ducas and
+               Alice Pellet-Mary and
+               Benjamin Wesolowski},
+  title     = {Random Self-reducibility of {Ideal-SVP} via Arakelov Random Walks},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {243-273},
+}
+
+@inproceedings{DBLP:conf/crypto/AlwenCDT20,
+  author    = {Joël Alwen and
+               Sandro Coretti and
+               Yevgeniy Dodis and
+               Yiannis Tselekounis},
+  title     = {Security Analysis and Improvements for the {IETF} {MLS} Standard for Group Messaging},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {248-277},
+}
+
+@inproceedings{DBLP:conf/crypto/Peyrin020,
+  author    = {Thomas Peyrin and
+               Haoyang Wang},
+  title     = {The {MALICIOUS} Framework: Embedding Backdoors into Tweakable Block Ciphers},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {249-278},
+}
+
+@inproceedings{DBLP:conf/crypto/AggarwalLNS20,
+  author    = {Divesh Aggarwal and
+               Jianwei Li and
+               Phong Q. Nguyen and
+               Noah Stephens-Davidowitz},
+  title     = {Slide Reduction, Revisited - Filling the Gaps in {SVP} Approximation},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {274-295},
+}
+
+@inproceedings{DBLP:conf/crypto/AbdallaBBJKX20,
+  author    = {Michel Abdalla and
+               Manuel Barbosa and
+               Tatiana Bradley and
+               Stanislaw Jarecki and
+               Jonathan Katz and
+               Jiayu Xu},
+  title     = {Universally Composable Relaxed Password Authenticated Key Exchange},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {278-307},
+}
+
+@inproceedings{DBLP:conf/crypto/DingDSVZ20,
+  author    = {Jintai Ding and
+               Joshua Deaton and
+               Kurt Schmidt and
+               Vishakha and
+               Zheng Zhang},
+  title     = {Cryptanalysis of the Lifted Unbalanced Oil Vinegar Signature Scheme},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {279-298},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuW20,
+  author    = {Feng-Hao Liu and
+               Zhedong Wang},
+  title     = {Rounding in the Rings},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {296-326},
+}
+
+@inproceedings{DBLP:conf/crypto/BeyneCDELLNPSTW20,
+  author    = {Tim Beyne and
+               Anne Canteaut and
+               Itai Dinur and
+               Maria Eichlseder and
+               Gregor Leander and
+               Gaëtan Leurent and
+               María Naya-Plasencia and
+               Léo Perrin and
+               Yu Sasaki and
+               Yosuke Todo and
+               Friedrich Wiemer},
+  title     = {Out of Oddity - New Cryptanalytic Techniques Against Symmetric Primitives Optimized for Integrity Proof Systems},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {299-328},
+}
+
+@inproceedings{DBLP:conf/crypto/KreuterLO020,
+  author    = {Ben Kreuter and
+               Tancrède Lepoint and
+               Michele Orrù and
+               Mariana Raykova},
+  title     = {Anonymous Tokens with Private Metadata Bit},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {308-336},
+}
+
+@inproceedings{DBLP:conf/crypto/BeierleLT20,
+  author    = {Christof Beierle and
+               Gregor Leander and
+               Yosuke Todo},
+  title     = {Improved {Differential-Linear} Attacks with Applications to {ARX} Ciphers},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {329-358},
+}
+
+@inproceedings{DBLP:conf/crypto/Dachman-SoledDG20,
+  author    = {Dana Dachman-Soled and
+               Léo Ducas and
+               Huijing Gong and
+               Mélissa Rossi},
+  title     = {{LWE} with Side Information: Attacks and Concrete Security Estimation},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {329-358},
+}
+
+@inproceedings{DBLP:conf/crypto/BelaidCPRT20,
+  author    = {Sonia Belaïd and
+               Jean-Sébastien Coron and
+               Emmanuel Prouff and
+               Matthieu Rivain and
+               Abdul Rahman Taleb},
+  title     = {Random Probing Security: Verification, Composition, Expansion and New Constructions},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {339-368},
+}
+
+@inproceedings{DBLP:conf/crypto/00010N20,
+  author    = {Qian Guo and
+               Thomas Johansson and
+               Alexander Nilsson},
+  title     = {A {Key-Recovery} Timing Attack on Post-quantum Primitives Using the {Fujisaki-Okamoto} Transformation and Its Application on {FrodoKEM}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {359-386},
+}
+
+@inproceedings{DBLP:conf/crypto/DerbezHLNPS20,
+  author    = {Patrick Derbez and
+               Paul Huynh and
+               Virginie Lallemand and
+               María Naya-Plasencia and
+               Léo Perrin and
+               André Schrottenloher},
+  title     = {Cryptanalysis Results on Spook - Bringing {Full-Round} Shadow-512 to the Light},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {359-388},
+}
+
+@inproceedings{DBLP:conf/crypto/BelliziaBCGGMPP20,
+  author    = {Davide Bellizia and
+               Olivier Bronchain and
+               Gaëtan Cassiers and
+               Vincent Grosso and
+               Chun Guo and
+               Charles Momin and
+               Olivier Pereira and
+               Thomas Peters and
+               François-Xavier Standaert},
+  title     = {{Mode-Level} vs. {Implementation-Level} Physical Security in Symmetric Cryptography - A Practical Guide Through the {Leakage-Resistance} Jungle},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {369-400},
+}
+
+@inproceedings{DBLP:conf/crypto/BoyleCGIKS20,
+  author    = {Elette Boyle and
+               Geoffroy Couteau and
+               Niv Gilboa and
+               Yuval Ishai and
+               Lisa Kohl and
+               Peter Scholl},
+  title     = {Efficient Pseudorandom Correlation Generators from {Ring-LPN}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {387-416},
+}
+
+@inproceedings{DBLP:conf/crypto/AponPRS20,
+  author    = {Daniel Apon and
+               Ray A. Perlner and
+               Angela Robinson and
+               Paolo Santini},
+  title     = {Cryptanalysis of {LEDAcrypt}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {389-418},
+}
+
+@inproceedings{DBLP:conf/crypto/LiMQW20,
+  author    = {Xin Li and
+               Fermi Ma and
+               Willy Quach and
+               Daniel Wichs},
+  title     = {{Leakage-Resilient} Key Exchange and {Two-Seed} Extractors},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {401-429},
+}
+
+@inproceedings{DBLP:conf/crypto/BrakerskiS20,
+  author    = {Zvika Brakerski and
+               Omri Shmueli},
+  title     = {Scalable Pseudorandom Quantum States},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {417-440},
+}
+
+@inproceedings{DBLP:conf/crypto/BeierleBSGPUV020,
+  author    = {Christof Beierle and
+               Alex Biryukov and
+               Luan Cardoso dos Santos and
+               Johann Großschädl and
+               Léo Perrin and
+               Aleksei Udovenko and
+               Vesselin Velichkov and
+               Qingju Wang},
+  title     = {Alzette: A 64-Bit {ARX-box} - (Feat. {CRAX} and TRAX)},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {419-448},
+}
+
+@inproceedings{DBLP:conf/crypto/PatelPY20,
+  author    = {Sarvar Patel and
+               Giuseppe Persiano and
+               Kevin Yeo},
+  title     = {Lower Bounds for Encrypted {Multi-Maps} and Searchable Encryption in the Leakage Cell Probe Model},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {433-463},
+}
+
+@inproceedings{DBLP:conf/crypto/BootleL0S20,
+  author    = {Jonathan Bootle and
+               Vadim Lyubashevsky and
+               Ngoc Khanh Nguyen and
+               Gregor Seiler},
+  title     = {A {Non-PCP} Approach to Succinct {Quantum-Safe} {Zero-Knowledge}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {441-469},
+}
+
+@inproceedings{DBLP:conf/crypto/Kelkar0GJ20,
+  author    = {Mahimna Kelkar and
+               Fan Zhang and
+               Steven Goldfeder and
+               Ari Juels},
+  title     = {{Order-Fairness} for Byzantine Consensus},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {451-480},
+}
+
+@inproceedings{DBLP:conf/crypto/BoydDGJ20,
+  author    = {Colin Boyd and
+               Gareth T. Davies and
+               Kristian Gjøsteen and
+               Yao Jiang},
+  title     = {Fast and Secure Updatable Encryption},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {464-493},
+}
+
+@inproceedings{DBLP:conf/crypto/AttemaLS20,
+  author    = {Thomas Attema and
+               Vadim Lyubashevsky and
+               Gregor Seiler},
+  title     = {Practical Product Proofs for Lattice Commitments},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {470-499},
+}
+
+@inproceedings{DBLP:conf/crypto/Rotem020,
+  author    = {Lior Rotem and
+               Gil Segev},
+  title     = {Generically {Speeding-Up} Repeated Squaring Is Equivalent to Factoring: Sharp Thresholds for All {Generic-Ring} Delay Functions},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {481-509},
+}
+
+@inproceedings{DBLP:conf/crypto/MoranW20,
+  author    = {Tal Moran and
+               Daniel Wichs},
+  title     = {Incompressible Encodings},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {494-523},
+}
+
+@inproceedings{DBLP:conf/crypto/HauckKL020,
+  author    = {Eduard Hauck and
+               Eike Kiltz and
+               Julian Loss and
+               Ngoc Khanh Nguyen},
+  title     = {{Lattice-Based} Blind Signatures, Revisited},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {500-529},
+}
+
+@inproceedings{DBLP:conf/crypto/AttemaC20,
+  author    = {Thomas Attema and
+               Ronald Cramer},
+  title     = {Compressed $arSigma $-Protocol Theory and Practical Application to Plug \& Play Secure Algorithmics},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {513-543},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalVW20,
+  author    = {Rishab Goyal and
+               Satyanarayana Vusirikala and
+               Brent Waters},
+  title     = {New Constructions of Hinting PRGs, {OWFs} with Encryption, and More},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {527-558},
+}
+
+@inproceedings{DBLP:conf/crypto/Kiyoshima20,
+  author    = {Susumu Kiyoshima},
+  title     = {{Round-Optimal} {Black-Box} {Commit-and-Prove} with Succinct Communication},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {533-561},
+}
+
+@inproceedings{DBLP:conf/crypto/BermanHT20,
+  author    = {Itay Berman and
+               Iftach Haitner and
+               Eliad Tsfadia},
+  title     = {A Tight Parallel Repetition Theorem for Partially Simulatable Interactive Arguments via Smooth {KL-Divergence}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {544-573},
+}
+
+@inproceedings{DBLP:conf/crypto/DavidsonKN0Y20,
+  author    = {Alex Davidson and
+               Shuichi Katsumata and
+               Ryo Nishimaki and
+               Shota Yamada and
+               Takashi Yamakawa},
+  title     = {Adaptively Secure Constrained Pseudorandom Functions in the Standard Model},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {559-589},
+}
+
+@inproceedings{DBLP:conf/crypto/BaumOSS20,
+  author    = {Carsten Baum and
+               Emmanuela Orsini and
+               Peter Scholl and
+               Eduardo Soria-Vazquez},
+  title     = {Efficient {Constant-Round} {MPC} with Identifiable Abort and Public Verifiability},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {562-592},
+}
+
+@inproceedings{DBLP:conf/crypto/0001SY20,
+  author    = {Liran Katzir and
+               Clara Shikhelman and
+               Eylon Yogev},
+  title     = {Interactive Proofs for Social Graphs},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {574-601},
+}
+
+@inproceedings{DBLP:conf/crypto/YangAYX20,
+  author    = {Rupeng Yang and
+               Man Ho Au and
+               Zuoxia Yu and
+               Qiuliang Xu},
+  title     = {Collusion Resistant Watermarkable {PRFs} from Standard Assumptions},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {590-620},
+}
+
+@inproceedings{DBLP:conf/crypto/MajiW20,
+  author    = {Hemanta K. Maji and
+               Mingyuan Wang},
+  title     = {{Black-Box} Use of {One-Way} Functions is Useless for Optimal Fair {Coin-Tossing}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {593-617},
+}
+
+@inproceedings{DBLP:conf/crypto/DonFM20,
+  author    = {Jelle Don and
+               Serge Fehr and
+               Christian Majenz},
+  title     = {The {Measure-and-Reprogram} Technique 2.0: Multi-round {Fiat-Shamir} and More},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {602-631},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalSZ20,
+  author    = {Vipul Goyal and
+               Yifan Song and
+               Chenzhi Zhu},
+  title     = {Guaranteed Output Delivery Comes Free in Honest Majority {MPC}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {618-646},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalV20,
+  author    = {Rishab Goyal and
+               Satyanarayana Vusirikala},
+  title     = {Verifiable {Registration-Based} Encryption},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {621-651},
+}
+
+@inproceedings{DBLP:conf/crypto/LombardiV20,
+  author    = {Alex Lombardi and
+               Vinod Vaikuntanathan},
+  title     = {{Fiat-Shamir} for Repeated Squaring with Applications to {PPAD-Hardness} and {VDFs}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {632-651},
+}
+
+@inproceedings{DBLP:conf/crypto/DamgardO020,
+  author    = {Ivan Damgård and
+               Claudio Orlandi and
+               Mark Simkin},
+  title     = {{Black-Box} Transformations from Passive to Covert Security with Public Verifiability},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {647-676},
+}
+
+@inproceedings{DBLP:conf/crypto/KalaiP020,
+  author    = {Yael Tauman Kalai and
+               Omer Paneth and
+               Lisa Yang},
+  title     = {Delegation with Updatable Unambiguous Proofs and {PPAD-Hardness}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {652-673},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry20,
+  author    = {Mark Zhandry},
+  title     = {New Techniques for Traitor Tracing: Size N1/3 and More from Pairings},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {652-682},
+}
+
+@inproceedings{DBLP:conf/crypto/BallDK20,
+  author    = {Marshall Ball and
+               Dana Dachman-Soled and
+               Mukul Kulkarni},
+  title     = {New Techniques for Zero-Knowledge: Leveraging Inefficient Provers to Reduce Assumptions, Interaction, and Trust},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {674-703},
+}
+
+@inproceedings{DBLP:conf/crypto/AlonOP20,
+  author    = {Bar Alon and
+               Eran Omri and
+               Anat Paskin-Cherniavsky},
+  title     = {{MPC} with Friends and Foes},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {677-706},
+}
+
+@inproceedings{DBLP:conf/crypto/AbdallaGW20,
+  author    = {Michel Abdalla and
+               Junqing Gong and
+               Hoeteck Wee},
+  title     = {Functional Encryption for {Attribute-Weighted} Sums from {k-Lin}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {685-716},
+}
+
+@inproceedings{DBLP:conf/crypto/Setty20,
+  author    = {Srinath Setty},
+  title     = {Spartan: Efficient and {General-Purpose} {zkSNARKs} Without Trusted Setup},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {704-737},
+}
+
+@inproceedings{DBLP:conf/crypto/BlumZL20,
+  author    = {Erica Blum and
+               Chen-Da Liu Zhang and
+               Julian Loss},
+  title     = {Always Have a Backup Plan: Fully Secure Synchronous {MPC} with Asynchronous Fallback},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {707-731},
+}
+
+@inproceedings{DBLP:conf/crypto/JainKMS20,
+  author    = {Aayush Jain and
+               Alexis Korb and
+               Nathan Manohar and
+               Amit Sahai},
+  title     = {Amplifying the Security of Functional Encryption, Unconditionally},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {717-746},
+}
+
+@inproceedings{DBLP:conf/crypto/ChakrabortyDN20,
+  author    = {Suvradip Chakraborty and
+               Stefan Dziembowski and
+               Jesper Buus Nielsen},
+  title     = {Reverse Firewalls for Actively Secure {MPCs}},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {732-762},
+}
+
+@inproceedings{DBLP:conf/crypto/BrakerskiKM20,
+  author    = {Zvika Brakerski and
+               Venkata Koppula and
+               Tamer Mour},
+  title     = {{NIZK} from {LPN} and Trapdoor Hash via Correlation Intractability for Approximable Relations},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {738-767},
+}
+
+@inproceedings{DBLP:conf/crypto/ChotardDGPP20,
+  author    = {Jérémy Chotard and
+               Edouard Dufour-Sans and
+               Romain Gay and
+               Duong Hieu Phan and
+               David Pointcheval},
+  title     = {Dynamic Decentralized Functional Encryption},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {747-775},
+}
+
+@inproceedings{DBLP:conf/crypto/HeathK20,
+  author    = {David Heath and
+               Vladimir Kolesnikov},
+  title     = {Stacked Garbling - Garbled Circuit Proportional to Longest Execution Path},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {763-792},
+}
+
+@inproceedings{DBLP:conf/crypto/CouteauH20,
+  author    = {Geoffroy Couteau and
+               Dominik Hartmann},
+  title     = {Shorter Non-interactive {Zero-Knowledge} Arguments and {ZAPs} for Algebraic Languages},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {768-798},
+}
+
+@inproceedings{DBLP:conf/crypto/BartaIOW20,
+  author    = {Ohad Barta and
+               Yuval Ishai and
+               Rafail Ostrovsky and
+               David J. Wu},
+  title     = {On Succinct Arguments and Witness Encryption from Groups},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {776-806},
+}
+
+@inproceedings{DBLP:conf/crypto/GuoKWW020,
+  author    = {Chun Guo and
+               Jonathan Katz and
+               Xiao Wang and
+               Chenkai Weng and
+               Yu Yu},
+  title     = {Better Concrete Security for {Half-Gates} Garbling (in the Multi-instance Setting)},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {793-822},
+}
+
+@inproceedings{DBLP:conf/crypto/ColadangeloVZ20,
+  author    = {Andrea Coladangelo and
+               Thomas Vidick and
+               Tina Zhang},
+  title     = {Non-interactive {Zero-Knowledge} Arguments for QMA, with Preprocessing},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {799-828},
+}
+
+@inproceedings{DBLP:conf/crypto/CanettiPP20,
+  author    = {Ran Canetti and
+               Sunoo Park and
+               Oxana Poburinnaya},
+  title     = {Fully Deniable Interactive Encryption},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {807-835},
+}
+
+@inproceedings{DBLP:conf/crypto/0001GKRS20,
+  author    = {Daniel Escudero and
+               Satrajit Ghosh and
+               Marcel Keller and
+               Rahul Rachuri and
+               Peter Scholl},
+  title     = {Improved Primitives for {MPC} over Mixed {Arithmetic-Binary} Circuits},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {823-852},
+}
+
+@inproceedings{DBLP:conf/crypto/HohenbergerKW20,
+  author    = {Susan Hohenberger and
+               Venkata Koppula and
+               Brent Waters},
+  title     = {Chosen Ciphertext Security from Injective Trapdoor Functions},
+  booktitle = crypto,
+  year      = 2020,
+  pages     = {836-866},
+}
+
 @inproceedings{DBLP:conf/crypto/GhoshS19,
   author    = {Satrajit Ghosh and
                Mark Simkin},
@@ -8160,7 +9056,7 @@
 }
 
 @inproceedings{DBLP:conf/crypto/Courtois04,
-  author    = {Nicolas Courtois},
+  author    = {Nicolas T. Courtois},
   title     = {Feistel Schemes and Bi-linear Cryptanalysis},
   booktitle = crypto,
   year      = 2004,
@@ -8553,7 +9449,7 @@
 }
 
 @inproceedings{DBLP:conf/crypto/Courtois03,
-  author    = {Nicolas Courtois},
+  author    = {Nicolas T. Courtois},
   title     = {Fast Algebraic Attacks on Stream Ciphers with Linear Feedback},
   booktitle = crypto,
   year      = 2003,

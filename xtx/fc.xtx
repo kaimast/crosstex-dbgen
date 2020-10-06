@@ -1,5 +1,820 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fc/WooCJHKW20,
+  author    = {Jihye Woo and
+               Ji-Won Choi and
+               Soyoon Jeon and
+               Joon Kuy Han and
+               Hyoungshick Kim and
+               Simon S. Woo},
+  title     = {Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {3-17},
+}
+
+@inproceedings{DBLP:conf/fc/FranzoniAD20,
+  author    = {Federico Franzoni and
+               Ivan Abellan and
+               Vanesa Daza},
+  title     = {Leveraging Bitcoin Testnet for Bidirectional Botnet Command and Control Systems},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {3-19},
+}
+
+@inproceedings{DBLP:conf/fc/DasAGBC20,
+  author    = {Sanchari Das and
+               Jacob Abbott and
+               Shakthidhar Gopavaram and
+               Jim Blythe and
+               L. Jean Camp},
+  title     = {{User-Centered} Risk Communication for Safer Browsing},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {18-35},
+}
+
+@inproceedings{DBLP:conf/fc/WangYPB0D020,
+  author    = {Qin Wang and
+               Jiangshan Yu and
+               Zhiniang Peng and
+               Van Cuong Bui and
+               Shiping Chen and
+               Yong Ding and
+               Yang Xiang},
+  title     = {Security Analysis on {dBFT} Protocol of {NEO}},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {20-31},
+}
+
+@inproceedings{DBLP:conf/fc/GaudryG20,
+  author    = {Pierrick Gaudry and
+               Alexander Golovnev},
+  title     = {Breaking the Encryption Scheme of the Moscow Internet Voting System},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {32-49},
+}
+
+@inproceedings{DBLP:conf/fc/ReuterBWAL20,
+  author    = {Adrian Reuter and
+               Karima Boudaoud and
+               Marco Winckler and
+               Ahmed Abdelmaksoud and
+               Wadie Lemrazzeq},
+  title     = {Secure Email - A Usability Study},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {36-46},
+}
+
+@inproceedings{DBLP:conf/fc/NasserMBTGW20,
+  author    = {George Nasser and
+               Ben W. Morrison and
+               Piers Bayl-Smith and
+               Ronnie Taib and
+               Michael Gayed and
+               Mark W. Wiggins},
+  title     = {The Effects of Cue Utilization and Cognitive Load in the Detection of Phishing Emails},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {47-55},
+}
+
+@inproceedings{DBLP:conf/fc/WisiolP20,
+  author    = {Nils Wisiol and
+               Niklas Pirnay},
+  title     = {Short Paper: {XOR} Arbiter {PUFs} Have Systematic Response Bias},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {50-57},
+}
+
+@inproceedings{DBLP:conf/fc/Bayl-SmithSW20,
+  author    = {Piers Bayl-Smith and
+               Daniel Sturman and
+               Mark W. Wiggins},
+  title     = {Cue Utilization, Phishing Feature and Phishing Email Detection},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {56-70},
+}
+
+@inproceedings{DBLP:conf/fc/NegyRS20,
+  author    = {Kevin Alarcón Negy and
+               Peter R. Rizun and
+               Emin Gün Sirer},
+  title     = {Selfish Mining {Re-Examined}},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {61-78},
+}
+
+@inproceedings{DBLP:conf/fc/Coopamootoo20,
+  author    = {Kovila P. L. Coopamootoo},
+  title     = {{Dis-Empowerment} Online: An Investigation of {Privacy-Sharing} Perceptions and Method Preferences},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {71-83},
+}
+
+@inproceedings{DBLP:conf/fc/BirmpasKLC20,
+  author    = {Georgios Birmpas and
+               Elias Koutsoupias and
+               Philip Lazos and
+               Francisco J. Marmolejo Cossío},
+  title     = {Fairness and Efficiency in {DAG-Based} Cryptocurrencies},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {79-96},
+}
+
+@inproceedings{DBLP:conf/fc/KulykRAMGV20,
+  author    = {Oksana Kulyk and
+               Benjamin Reinheimer and
+               Lukas Aldag and
+               Peter Mayer and
+               Nina Gerber and
+               Melanie Volkamer},
+  title     = {Security and Privacy Awareness in Smart Environments - A {Cross-Country} Investigation},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {84-101},
+}
+
+@inproceedings{DBLP:conf/fc/StutzGHI20,
+  author    = {Rainer Stütz and
+               Peter Gazi and
+               Bernhard Haslhofer and
+               Jacob Illum},
+  title     = {Stake Shift in Major Cryptocurrencies: An Empirical Study},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {97-113},
+}
+
+@inproceedings{DBLP:conf/fc/HadanP20,
+  author    = {Hilda Hadan and
+               Sameer Patil},
+  title     = {Understanding Perceptions of Smart Devices},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {102-121},
+}
+
+@inproceedings{DBLP:conf/fc/YuSLAKV20,
+  author    = {Mingchao Yu and
+               Saeid Sahraei and
+               Songze Li and
+               Salman Avestimehr and
+               Sreeram Kannan and
+               Pramod Viswanath},
+  title     = {Coded Merkle Tree: Solving Data Availability Attacks in Blockchains},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {114-134},
+}
+
+@inproceedings{DBLP:conf/fc/TolsdorfD20,
+  author    = {Jan Tolsdorf and
+               Florian Dehling},
+  title     = {In Our Employer We Trust: Mental Models of Office Workers' Privacy Perceptions},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {122-136},
+}
+
+@inproceedings{DBLP:conf/fc/OyebisiN20,
+  author    = {David Oyebisi and
+               Kennedy Njenga},
+  title     = {Behaviour of Outsourced Employees as Sources of Information System Security Threats},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {137-148},
+}
+
+@inproceedings{DBLP:conf/fc/CaoYCNEH20,
+  author    = {Shengjiao Cao and
+               Yuan Yuan and
+               Angelo De Caro and
+               Karthik Nandakumar and
+               Kaoutar Elkhiyaoui and
+               Yanyan Hu},
+  title     = {Decentralized {Privacy-Preserving} Netting Protocol on Blockchain for Payment Systems},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {137-155},
+}
+
+@inproceedings{DBLP:conf/fc/BergKKT20,
+  author    = {Bruce Berg and
+               Tyler Kaczmarek and
+               Alfred Kobsa and
+               Gene Tsudik},
+  title     = {Exploring Effects of Auditory Stimuli on {CAPTCHA} Performance},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {149-165},
+}
+
+@inproceedings{DBLP:conf/fc/HeilmanLG20,
+  author    = {Ethan Heilman and
+               Sebastien Lipmann and
+               Sharon Goldberg},
+  title     = {The Arwen Trading Protocols},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {156-173},
+}
+
+@inproceedings{DBLP:conf/fc/ChuS020,
+  author    = {Xian Chu and
+               Huiping Sun and
+               Zhong Chen},
+  title     = {PassPage: Graphical Password Authentication Scheme Based on Web Browsing Records},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {166-176},
+}
+
+@inproceedings{DBLP:conf/fc/MoinSS20,
+  author    = {Amani Moin and
+               Kevin Sekniqi and
+               Emin Gün Sirer},
+  title     = {SoK: A Classification Framework for Stablecoin Designs},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {174-197},
+}
+
+@inproceedings{DBLP:conf/fc/Coopamootoo20a,
+  author    = {Kovila P. L. Coopamootoo},
+  title     = {Empathy as a Response to Frustration in Password Choice},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {177-191},
+}
+
+@inproceedings{DBLP:conf/fc/TupsamudreSVL20,
+  author    = {Harshal Tupsamudre and
+               Monika Sahu and
+               Kumar Vidhani and
+               Sachin Lodha},
+  title     = {Fixing the Fixes: Assessing the Solutions of {SAST} Tools for Securing Password Storage},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {192-206},
+}
+
+@inproceedings{DBLP:conf/fc/GudgeonMRMG20,
+  author    = {Lewis Gudgeon and
+               Pedro Moreno-Sanchez and
+               Stefanie Roos and
+               Patrick McCorry and
+               Arthur Gervais},
+  title     = {SoK: {Layer-Two} Blockchain Protocols},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {201-226},
+}
+
+@inproceedings{DBLP:conf/fc/Taylor-JacksonM20,
+  author    = {Jacqui Taylor-Jackson and
+               John McAlaney and
+               Jeffrey L. Foster and
+               Abubakar Bello and
+               Alana Maurushat and
+               John Dale},
+  title     = {Incorporating Psychology into Cyber Security Education: A Pedagogical Approach},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {207-217},
+}
+
+@inproceedings{DBLP:conf/fc/Matsuo20,
+  author    = {Shin'ichiro Matsuo},
+  title     = {Effectiveness of Multi-stakeholder Discussions for Decentralized Finance: A Conference Report of {CoDeFi} 2020},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {221-229},
+}
+
+@inproceedings{DBLP:conf/fc/AlmashaqbehBC20,
+  author    = {Ghada Almashaqbeh and
+               Allison Bishop and
+               Justin Cappos},
+  title     = {MicroCash: Practical Concurrent Processing of Micropayments},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {227-244},
+}
+
+@inproceedings{DBLP:conf/fc/Suzuki20,
+  author    = {Shigeya Suzuki},
+  title     = {Multistakeholder Governance for the Internet},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {230-241},
+}
+
+@inproceedings{DBLP:conf/fc/Takanashi20,
+  author    = {Yuta Takanashi},
+  title     = {Future of Finance - From G20 to Practical Implementation of Multi-stakeholder Governance on Blockchain Based Finance},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {242-253},
+}
+
+@inproceedings{DBLP:conf/fc/Perez-SolaPHNG20,
+  author    = {Cristina Pérez-Solà and
+               Alejandro Ranchal Pedrosa and
+               Jordi Herrera-Joancomartí and
+               Guillermo Navarro-Arribas and
+               Joaquín García-Alfaro},
+  title     = {LockDown: Balance Availability Attack Against Lightning Network Channels},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {245-263},
+}
+
+@inproceedings{DBLP:conf/fc/SugaSSN20,
+  author    = {Yuji Suga and
+               Masaki Shimaoka and
+               Masashi Sato and
+               Hirotaka Nakajima},
+  title     = {Securing Cryptocurrency Exchange: Building up Standard from Huge Failures},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {254-270},
+}
+
+@inproceedings{DBLP:conf/fc/AvarikiotiH0W20,
+  author    = {Zeta Avarikioti and
+               Lioba Heimbach and
+               Yuyi Wang and
+               Roger Wattenhofer},
+  title     = {Ride the Lightning: The Game Theory of Payment Channels},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {264-283},
+}
+
+@inproceedings{DBLP:conf/fc/BlanchardS20,
+  author    = {Enka Blanchard and
+               Ted Selker},
+  title     = {Origami Voting: A Non-cryptographic Approach to Transparent Ballot Verification},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {273-290},
+}
+
+@inproceedings{DBLP:conf/fc/ErsoyRE20,
+  author    = {Oguzhan Ersoy and
+               Stefanie Roos and
+               Zekeriya Erkin},
+  title     = {How to Profit from Payments Channels},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {284-303},
+}
+
+@inproceedings{DBLP:conf/fc/KulykVMR20,
+  author    = {Oksana Kulyk and
+               Melanie Volkamer and
+               Monika Müller and
+               Karen Renaud},
+  title     = {Towards Improving the Efficacy of {Code-Based} Verification in Internet Voting},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {291-309},
+}
+
+@inproceedings{DBLP:conf/fc/BagariaNT20,
+  author    = {Vivek Kumar Bagaria and
+               Joachim Neu and
+               David Tse},
+  title     = {Boomerang: Redundancy Improves Latency and Throughput in {Payment-Channel} Networks},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {304-324},
+}
+
+@inproceedings{DBLP:conf/fc/ZollingerRR20,
+  author    = {Marie-Laure Zollinger and
+               Peter B. Rønne and
+               Peter Y. A. Ryan},
+  title     = {Short Paper: Mechanized Proofs of Verifiability and Privacy in a {Paper-Based} {E-Voting} Scheme},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {310-318},
+}
+
+@inproceedings{DBLP:conf/fc/Stark20,
+  author    = {Philip B. Stark},
+  title     = {Sets of {Half-Average} Nulls Generate {Risk-Limiting} Audits: {SHANGRLA}},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {319-336},
+}
+
+@inproceedings{DBLP:conf/fc/Moreno-SanchezB20,
+  author    = {Pedro Moreno-Sanchez and
+               Arthur Blue and
+               Duc Viet Le and
+               Sarang Noether and
+               Brandon Goodell and
+               Aniket Kate},
+  title     = {DLSAG: Non-interactive Refund Transactions for Interoperable Payment Channels in Monero},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {325-345},
+}
+
+@inproceedings{DBLP:conf/fc/MorinMMVZ20,
+  author    = {Sarah Morin and
+               Grant McClearn and
+               Neal McBurnett and
+               Poorvi L. Vora and
+               Filip Zagórski},
+  title     = {A Note on {Risk-Limiting} Bayesian Polling Audits for {Two-Candidate} Elections},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {337-344},
+}
+
+@inproceedings{DBLP:conf/fc/BoydHR20,
+  author    = {Colin Boyd and
+               Thomas Haines and
+               Peter B. Rønne},
+  title     = {Vote Selling Resistant Voting},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {345-359},
+}
+
+@inproceedings{DBLP:conf/fc/AvarikiotiLW20,
+  author    = {Zeta Avarikioti and
+               Orfeas Stefanos Thyfronitis Litos and
+               Roger Wattenhofer},
+  title     = {Cerberus Channels: Incentivizing Watchtowers for Bitcoin},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {346-366},
+}
+
+@inproceedings{DBLP:conf/fc/HainesPR20,
+  author    = {Thomas Haines and
+               Olivier Pereira and
+               Peter B. Rønne},
+  title     = {Short Paper: An Update on Marked Mix-Nets: An Attack, a Fix and {PQ} Possibilities},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {360-368},
+}
+
+@inproceedings{DBLP:conf/fc/HaenniL20,
+  author    = {Rolf Haenni and
+               Philipp Locher},
+  title     = {Performance of Shuffling: Taking It to the Limits},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {369-385},
+}
+
+@inproceedings{DBLP:conf/fc/OhataN20,
+  author    = {Satsuya Ohata and
+               Koji Nuida},
+  title     = {{Communication-Efficient} (Client-Aided) Secure {Two-Party} Protocols and Its Application},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {369-385},
+}
+
+@inproceedings{DBLP:conf/fc/TuenoK0BQ20,
+  author    = {Anselme Tueno and
+               Florian Kerschbaum and
+               Stefan Katzenbeisser and
+               Yordan Boev and
+               Mubashir Qureshi},
+  title     = {Secure Computation of the {kth-Ranked} Element in a Star Network},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {386-403},
+}
+
+@inproceedings{DBLP:conf/fc/AngeloS20,
+  author    = {Monika Di Angelo and
+               Gernot Salzer},
+  title     = {Characterizing Types of Smart Contracts in the Ethereum Landscape},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {389-404},
+}
+
+@inproceedings{DBLP:conf/fc/BaumDD20,
+  author    = {Carsten Baum and
+               Bernardo David and
+               Rafael Dowsley},
+  title     = {Insured MPC: Efficient Secure Computation with Financial Penalties},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {404-420},
+}
+
+@inproceedings{DBLP:conf/fc/AymanRAL20,
+  author    = {Afiya Ayman and
+               Shanto Roy and
+               Amin Alipour and
+               Aron Laszka},
+  title     = {Smart Contract Development from the Perspective of Developers: Topics and Issues Discussed on Social Media},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {405-422},
+}
+
+@inproceedings{DBLP:conf/fc/ChepurnoyS20,
+  author    = {Alexander Chepurnoy and
+               Amitabh Saxena},
+  title     = {Bypassing {Non-Outsourceable} {Proof-of-Work} Schemes Using Collateralized Smart Contracts},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {423-435},
+}
+
+@inproceedings{DBLP:conf/fc/BunzAZB20,
+  author    = {Benedikt Bünz and
+               Shashank Agrawal and
+               Mahdi Zamani and
+               Dan Boneh},
+  title     = {Zether: Towards Privacy in a Smart Contract World},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {423-443},
+}
+
+@inproceedings{DBLP:conf/fc/SeifelnasrGY20,
+  author    = {Mohamed Seifelnasr and
+               Hisham S. Galal and
+               Amr M. Youssef},
+  title     = {Scalable {Open-Vote} Network on Ethereum},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {436-450},
+}
+
+@inproceedings{DBLP:conf/fc/WahbyBJP20,
+  author    = {Riad S. Wahby and
+               Dan Boneh and
+               Christopher Jeffrey and
+               Joseph Poon},
+  title     = {An Airdrop that Preserves Recipient Privacy},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {444-463},
+}
+
+@inproceedings{DBLP:conf/fc/SuBSUM20,
+  author    = {Jianan Su and
+               Michael Bartholic and
+               Andrew Stange and
+               Ryosuke Ushida and
+               Shin'ichiro Matsuo},
+  title     = {How to Dynamically Incentivize Sufficient Level of {IoT} Security},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {451-465},
+}
+
+@inproceedings{DBLP:conf/fc/YuenSLAEZG20,
+  author    = {Tsz Hon Yuen and
+               Shifeng Sun and
+               Joseph K. Liu and
+               Man Ho Au and
+               Muhammed F. Esgin and
+               Qingzhao Zhang and
+               Dawu Gu},
+  title     = {{RingCT} 3.0 for Blockchain Confidential Transaction: Shorter Size and Stronger Security},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {464-483},
+}
+
+@inproceedings{DBLP:conf/fc/MitaniO20,
+  author    = {Tatsuo Mitani and
+               Akira Otsuka},
+  title     = {Confidential and Auditable Payments},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {466-480},
+}
+
+@inproceedings{DBLP:conf/fc/TripathyM20,
+  author    = {Somanath Tripathy and
+               Susil Kumar Mohanty},
+  title     = {MAPPCN: Multi-hop Anonymous and {Privacy-Preserving} Payment Channel Network},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {481-495},
+}
+
+@inproceedings{DBLP:conf/fc/AlkadriB020,
+  author    = {Nabil Alkeilani Alkadri and
+               Rachid El Bansarkhani and
+               Johannes Buchmann},
+  title     = {BLAZE: Practical {Lattice-Based} Blind Signatures for {Privacy-Preserving} Applications},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {484-502},
+}
+
+@inproceedings{DBLP:conf/fc/SeijasNST20,
+  author    = {Pablo Lamela Seijas and
+               Alexander Nemish and
+               David Smith and
+               Simon J. Thompson},
+  title     = {Marlowe: Implementing and Analysing Financial Contracts on Blockchain},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {496-511},
+}
+
+@inproceedings{DBLP:conf/fc/Kiayias0Z20,
+  author    = {Aggelos Kiayias and
+               Andrew Miller and
+               Dionysis Zindros},
+  title     = {Non-interactive Proofs of {Proof-of-Work}},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {505-522},
+}
+
+@inproceedings{DBLP:conf/fc/OkanamiNN20,
+  author    = {Naoya Okanami and
+               Ryuya Nakamura and
+               Takashi Nishide},
+  title     = {Load Balancing for Sharded Blockchains},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {512-524},
+}
+
+@inproceedings{DBLP:conf/fc/KarantiasKZ20,
+  author    = {Kostis Karantias and
+               Aggelos Kiayias and
+               Dionysis Zindros},
+  title     = {{Proof-of-Burn}},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {523-540},
+}
+
+@inproceedings{DBLP:conf/fc/Chakravarty0MMJ20,
+  author    = {Manuel M. T. Chakravarty and
+               James Chapman and
+               Kenneth MacKenzie and
+               Orestis Melkonian and
+               Michael Peyton Jones and
+               Philip Wadler},
+  title     = {The Extended {UTXO} Model},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {525-539},
+}
+
+@inproceedings{DBLP:conf/fc/DeshpandeH20,
+  author    = {Apoorvaa Deshpande and
+               Maurice Herlihy},
+  title     = {{Privacy-Preserving} {Cross-Chain} Atomic Swaps},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {540-549},
+}
+
+@inproceedings{DBLP:conf/fc/LanderrecheSS20,
+  author    = {Esteban Landerreche and
+               Marc Stevens and
+               Christian Schaffner},
+  title     = {Non-interactive Cryptographic Timestamping Based on Verifiable Delay Functions},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {541-558},
+}
+
+@inproceedings{DBLP:conf/fc/VenkateswarluAS20,
+  author    = {Kumaramangalam Muni Venkateswarlu and
+               Sepideh Avizheh and
+               Reihaneh Safavi-Naini},
+  title     = {A Blockchain Based Approach to Resource Sharing in Smart Neighbourhoods},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {550-567},
+}
+
+@inproceedings{DBLP:conf/fc/ArpsC20,
+  author    = {James E. Arps and
+               Nicolas Christin},
+  title     = {Open Market or Ghost Town? The Curious Case of {OpenBazaar}},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {561-577},
+}
+
+@inproceedings{DBLP:conf/fc/Spoto20,
+  author    = {Fausto Spoto},
+  title     = {Enforcing Determinism of Java Smart Contracts},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {568-583},
+}
+
+@inproceedings{DBLP:conf/fc/CaoYDLV20,
+  author    = {Tong Cao and
+               Jiangshan Yu and
+               Jérémie Decouchant and
+               Xiapu Luo and
+               Paulo Veríssimo},
+  title     = {Exploring the Monero {Peer-to-Peer} Network},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {578-594},
+}
+
+@inproceedings{DBLP:conf/fc/BernardoCPT20,
+  author    = {Bruno Bernardo and
+               Raphaël Cauderlier and
+               Basile Pesin and
+               Julien Tesson},
+  title     = {Albert, An Intermediate {Smart-Contract} Language for the Tezos Blockchain},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {584-598},
+}
+
+@inproceedings{DBLP:conf/fc/VoskobojnikovOH20,
+  author    = {Artemij Voskobojnikov and
+               Borke Obada-Obieh and
+               Yue Huang and
+               Konstantin Beznosov},
+  title     = {Surviving the Cryptojungle: Perception and Management of Risk Among North American Cryptocurrency (Non)Users},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {595-614},
+}
+
+@inproceedings{DBLP:conf/fc/HengleinLM20,
+  author    = {Fritz Henglein and
+               Christian Kjær Larsen and
+               Agata Murawska},
+  title     = {A Formally Verified Static Analysis Framework for Compositional Contracts},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {599-619},
+}
+
+@inproceedings{DBLP:conf/fc/Victor20,
+  author    = {Friedhelm Victor},
+  title     = {Address Clustering Heuristics for Ethereum},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {617-633},
+}
+
+@inproceedings{DBLP:conf/fc/GroceFGC20,
+  author    = {Alex Groce and
+               Josselin Feist and
+               Gustavo Grieco and
+               Michael Colburn},
+  title     = {What are the Actual Flaws in Important Smart Contracts (And How Can We Find Them)?},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {634-653},
+}
+
+@inproceedings{DBLP:conf/fc/HeWWGJ20,
+  author    = {Ningyu He and
+               Lei Wu and
+               Haoyu Wang and
+               Yao Guo and
+               Xuxian Jiang},
+  title     = {Characterizing Code Clones in the Ethereum Smart Contract Ecosystem},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {654-675},
+}
+
+@inproceedings{DBLP:conf/fc/KrogsbollBSD20,
+  author    = {Magnus Krogsbøll and
+               Liv Hartoft Borre and
+               Tijs Slaats and
+               Søren Debois},
+  title     = {Smart Contracts for Government Processes: Case Study and Prototype Implementation},
+  booktitle = fc,
+  year      = 2020,
+  pages     = {676-684},
+}
+
 @inproceedings{DBLP:conf/fc/BucklandM19,
   author    = {Chris Buckland and
                Patrick McCorry},
@@ -6886,7 +7701,7 @@
   author    = {Richard Clayton and
                Drew Dean and
                Markus Jakobsson and
-               Steven Myers and
+               Steven A. Myers and
                Stuart G. Stubblebine and
                Michael Szydlo},
   title     = {A Chat at the Old Phishin' Hole},
@@ -6904,7 +7719,7 @@
 }
 
 @inproceedings{DBLP:conf/fc/Myers05,
-  author    = {Steven Myers},
+  author    = {Steven A. Myers},
   title     = {Helping the Phish Detect the Lure},
   booktitle = fc,
   year      = 2005,

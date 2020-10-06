@@ -156,18 +156,44 @@ class CitationContainer:
     def _to_upper_quoted(self, s):
         s = s.group()
         ns = s.strip(' \t\n')
-        if ns.upper not in ('A',):
+        if ns.upper == 'A':
+            return s
+        else:
+            # Does this string start with a whitespace?
             if s.startswith(ns):
                 return '{' + ns + '}'
             else:
                 return ' {' + ns + '}'
-        else:
-            return s
 
     _caps_re = re.compile(r"(\s|\A)*[a-zA-Z][-a-z_]*[A-Z][-a-zA-Z_]*(?:'s)?(?=(\s|\Z))")
 
     def _caps_stuff(self, s):
-        return self._caps_re.sub(self._to_upper_quoted, s)
+        # Some extra logic to skip equations
+
+        beg = 0
+        while beg >= 0:
+            pos = s.find('$', beg)
+
+            if pos < 0:
+                break
+
+            npos = s.find('$', pos+1)
+            if npos < 0:
+                print('WARN: Found start of an equation but no end in the following title. Might be a dollar amount: "%s"' %s)
+                break
+
+            match = s[pos:npos+1]
+            print('INFO: Skipping equation "%s"' % match)
+
+            repl = self._caps_re.sub(self._to_upper_quoted, match)
+            s = s[:pos] + repl + s[npos+1:]
+
+            beg = npos+1
+
+        if beg < len(s):
+            s = s[:beg] + self._caps_re.sub(self._to_upper_quoted, s[beg:])
+
+        return s
 
 
 class Conference(CitationContainer):
@@ -607,6 +633,7 @@ d.add_conference('atc',         'ATC', 'USENIX Annual Technical Conference', nam
 d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('ccs',         'CCS', 'Computer and Communications Security')
 d.add_conference('crypto',      'CRYPTO', 'Annual International Cryptology Conference')
+d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques')
 d.add_conference('eurosp',      'Euro S&P', 'European Symposium on Security and Privacy', names=('{IEEE} European Symposium on Security and Privacy', 'EuroS&P', 'EuroS&P Workshops'), prefixes=('conf/eurosp',))
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
 d.add_conference('fc',          'FC', 'Financial Cryptography and Data Security', names=('Financial Cryptography',))

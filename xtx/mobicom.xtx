@@ -1,5 +1,316 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/mobicom/GutemaHP20,
+  author    = {Tilahun Zerihun Gutema and
+               Harald Haas and
+               Wasiu O. Popoola},
+  title     = {{OFDM} based visible light communication with probabilistic shaping},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {1-5},
+}
+
+@inproceedings{DBLP:conf/mobicom/CirilloMPPVZ20,
+  author    = {Albenzio Cirillo and
+               Antonio Mauro and
+               Diego Pennino and
+               Maurizio Pizzonia and
+               Andrea Vitaletti and
+               Marco Zecchini},
+  title     = {Decentralized robinson list},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/mobicom/FuriniMMP20,
+  author    = {Marco Furini and
+               Silvia Mirri and
+               Manuela Montangero and
+               Catia Prandi},
+  title     = {Can {IoT} Wearable Devices Feed Frugal Innovation?},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/mobicom/MirGGG20,
+  author    = {Muhammad Sarmad Mir and
+               Borja Genovés Guzmán and
+               Ander Galisteo and
+               Domenico Giustiniano},
+  title     = {Non-linearity of {LEDs} for {VLC} {IoT} applications},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {6-11},
+}
+
+@inproceedings{DBLP:conf/mobicom/0001K20,
+  author    = {Suhyeon Lee and
+               Seungjoo Kim},
+  title     = {Proof-of-stake at stake: predatory, destructive attack on {PoS} cryptocurrencies},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {7-11},
+}
+
+@inproceedings{DBLP:conf/mobicom/CeccariniDP20,
+  author    = {Chiara Ceccarini and
+               Giovanni Delnevo and
+               Catia Prandi},
+  title     = {FruGar: Exploiting Deep Learning and Crowdsourcing for Frugal Gardening},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {7-11},
+}
+
+@inproceedings{DBLP:conf/mobicom/FornariMPP20,
+  author    = {Giacomo Fornari and
+               Riccardo Minato and
+               Giulio Pilotto and
+               Claudio E. Palazzi},
+  title     = {Applying Frugal Innovation to Humidity and Temperature Monitoring},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {12-17},
+}
+
+@inproceedings{DBLP:conf/mobicom/Saghaye-PolkooN20,
+  author    = {Sajad Saghaye-Polkoo and
+               Pooya Nabavi and
+               Murat Yuksel and
+               Kyle Renshaw},
+  title     = {{Multi-LED} multi-datastream dome bulb for dense visible light communication networks},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {12-17},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZichichiFD20,
+  author    = {Mirko Zichichi and
+               Stefano Ferretti and
+               Gabriele D'Angelo},
+  title     = {Are distributed ledger technologies ready for intelligent transportation systems?},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {12-17},
+}
+
+@inproceedings{DBLP:conf/mobicom/KovalchukRO20,
+  author    = {Lyudmila Kovalchuk and
+               Mariia Rodinko and
+               Roman Oliynykov},
+  title     = {Upper bound probability of double spend attack on {SPECTRE}},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {18-22},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChhaglaniAGA20,
+  author    = {Bhawana Chhaglani and
+               Abhay Sheel Anand and
+               Nakul Garg and
+               Ashwin Ashok},
+  title     = {Evaluating {LED-camera} communication for drones},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {18-23},
+}
+
+@inproceedings{DBLP:conf/mobicom/LongoRC20,
+  author    = {Edoardo Longo and
+               Alessandro E. C. Redondi and
+               Matteo Cesana},
+  title     = {Design and Implementation of a {Privacy-Aware} Smart Mirror System},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {18-23},
+}
+
+@inproceedings{DBLP:conf/mobicom/MaselliPR20,
+  author    = {Gaia Maselli and
+               Mauro Piva and
+               Francesco Restuccia},
+  title     = {HyBloSE: hybrid blockchain for secure-by-design smart environments},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {23-28},
+}
+
+@inproceedings{DBLP:conf/mobicom/Cen20,
+  author    = {Nan Cen},
+  title     = {FLight: toward programmable visible-light-band wireless {UAV} networking},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {24-29},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZennaroPRTPC20,
+  author    = {Marco Zennaro and
+               Ermanno Pietrosemoli and
+               Marco Rainone and
+               Daniele Trinchero and
+               Mattia Poletti and
+               Giovanni Colucci},
+  title     = {{TROPPO} LoRa: {TROPospheric} Personal Observatory using {LoRa} signals},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {24-29},
+}
+
+@inproceedings{DBLP:conf/mobicom/MallahF20,
+  author    = {Ranwa Al Mallah and
+               Bilal Farooq},
+  title     = {Actor-based risk analysis for blockchains in smart mobility},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {29-34},
+}
+
+@inproceedings{DBLP:conf/mobicom/MajleseinTMGR20,
+  author    = {Behnaz Majlesein and
+               Julio Francisco Rufo Torres and
+               Daniel Moreno and
+               Victor Guerra and
+               José Rabadán},
+  title     = {Underwater optical camera communications based on a multispectral camera and spectral variations of the {LED} emission},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {30-35},
+}
+
+@inproceedings{DBLP:conf/mobicom/NakamuraMZCCC20,
+  author    = {Kiyoshy Nakamura and
+               Pietro Manzoni and
+               Marco Zennaro and
+               Juan-Carlos Cano and
+               Carlos T. Calafate and
+               José M. Cecilia},
+  title     = {FUDGE: a frugal edge node for advanced {IoT} solutions in contexts with limited resources},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {30-35},
+}
+
+@inproceedings{DBLP:conf/mobicom/BuHNP20,
+  author    = {Gewu Bu and
+               Riane Haouara and
+               Thanh Son Lam Nguyen and
+               Maria Potop-Butucaru},
+  title     = {Cross hyperledger fabric transactions},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {35-40},
+}
+
+@inproceedings{DBLP:conf/mobicom/BroadheadP20,
+  author    = {James Scott Broadhead and
+               Przemyslaw Pawelczak},
+  title     = {Why intermittent computing could unlock low-power visible light communication: position paper},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {36-41},
+}
+
+@inproceedings{DBLP:conf/mobicom/SeidZLP20,
+  author    = {Salahadin Seid and
+               Marco Zennaro and
+               Mulugeta Libse and
+               Ermanno Pietrosemoli},
+  title     = {Mobile Crowdsensing Based Road Surface Monitoring Using Smartphone Vibration Sensor and Lorawan},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {36-41},
+}
+
+@inproceedings{DBLP:conf/mobicom/SerenaFD20,
+  author    = {Luca Serena and
+               Stefano Ferretti and
+               Gabriele D'Angelo},
+  title     = {DiLeNA: distributed ledger network analyzer},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {41-46},
+}
+
+@inproceedings{DBLP:conf/mobicom/WangZ20,
+  author    = {Qing Wang and
+               Marco Zuniga},
+  title     = {Passive visible light networks: taxonomy and opportunities},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {42-47},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChangW20,
+  author    = {Sang-Yoon Chang and
+               Simeon Wuthier},
+  title     = {Dynamic power control for rational cryptocurrency mining},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {47-52},
+}
+
+@inproceedings{DBLP:conf/mobicom/SinghR20,
+  author    = {Jagdeep Singh and
+               Usman Raza},
+  title     = {Passive visible light positioning systems: an overview},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {48-53},
+}
+
+@inproceedings{DBLP:conf/mobicom/DistefanoPZ20,
+  author    = {Biagio Distefano and
+               Nadia Pocher and
+               Mirko Zichichi},
+  title     = {MOATcoin: exploring challenges and legal implications of smart contracts through a gamelike {DApp} experiment},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {53-58},
+}
+
+@inproceedings{DBLP:conf/mobicom/XuSBS20,
+  author    = {Jiaqi Xu and
+               Wei Sun and
+               Arjun Bakshi and
+               Kannan Srinivasan},
+  title     = {Embracing collisions: enabling parallel channel estimation with {COTS} passive backscatter tags},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {54-59},
+}
+
+@inproceedings{DBLP:conf/mobicom/LysMP20,
+  author    = {Léonard Lys and
+               Arthur Micoulet and
+               Maria Potop-Butucaru},
+  title     = {Atomic cross chain swaps via relays and adapters},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {59-64},
+}
+
+@inproceedings{DBLP:conf/mobicom/SerenaDF20,
+  author    = {Luca Serena and
+               Gabriele D'Angelo and
+               Stefano Ferretti},
+  title     = {Implications of dissemination strategies on the security of distributed ledgers},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {65-70},
+}
+
+@inproceedings{DBLP:conf/mobicom/MontePP20,
+  author    = {Gianmaria Del Monte and
+               Diego Pennino and
+               Maurizio Pizzonia},
+  title     = {Scaling blockchains without giving up decentralization and security: a solution to the blockchain scalability trilemma},
+  booktitle = mobicom,
+  year      = 2020,
+  pages     = {71-76},
+}
+
 @inproceedings{DBLP:conf/mobicom/SunPC17,
   author    = {Weiping Sun and
                Jeongyeup Paek and

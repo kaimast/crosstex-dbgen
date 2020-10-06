@@ -1,5 +1,362 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotstorage/AhnLLKML020,
+  author    = {Jinwoo Ahn and
+               Seungjin Lee and
+               Jinhoon Lee and
+               Yungwoo Ko and
+               Donghyun Min and
+               Junghee Lee and
+               Youngjae Kim},
+  title     = {Position: SGX-SSD: A Policy-based Versioning {SSD} with Intel {SGX}},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/AwamotoFH20,
+  author    = {Shinichi Awamoto and
+               Erich Focht and
+               Michio Honda},
+  title     = {Designing a Storage Software Stack for Accelerators},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/BhandariWSTBRA20,
+  author    = {Pranav Bhandari and
+               Avani Wildani and
+               Dimitris Skourtis and
+               Vasily Tarasov and
+               Deepavali Bhagwat and
+               Lukas Rupprecht and
+               Ali Anwar},
+  title     = {Position: Can Microservices Drive a Renaissance in {Workload-Aware} Storage Management?},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Chatzieleftheriou20,
+  author    = {Andromachi Chatzieleftheriou and
+               Ioan A. Stefanovici and
+               Dushyanth Narayanan and
+               Benn Thomsen and
+               Antony I. T. Rowstron},
+  title     = {Could cloud storage be disrupted in the next decade?},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChoiLOCJO20,
+  author    = {Gunhee Choi and
+               Kwanghee Lee and
+               Myunghoon Oh and
+               Jongmoo Choi and
+               Jhuyeong Jhin and
+               Yongseok Oh},
+  title     = {A New {LSM-style} Garbage Collection Scheme for {ZNS} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/DuffyKK20,
+  author    = {Carl Duffy and
+               Sang-Hoon Kim and
+               Jin-Soo Kim},
+  title     = {Position: The {Key-Value} {SSD} as a {First-Class} Citizen in the Operating System},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/EstroBWZ20,
+  author    = {Tyler Estro and
+               Pranav Bhandari and
+               Avani Wildani and
+               Erez Zadok},
+  title     = {Desperately Seeking ... Optimal {Multi-Tier} Cache Configurations},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/EytanHOFK20,
+  author    = {Ohad Eytan and
+               Danny Harnik and
+               Effi Ofer and
+               Roy Friedman and
+               Ronen I. Kat},
+  title     = {It's Time to Revisit {LRU} vs. {FIFO}},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/HanJX20,
+  author    = {Shukai Han and
+               Dejun Jiang and
+               Jin Xiong},
+  title     = {SplitKV: Splitting {IO} Paths for Different Sized {Key-Value} Items with Advanced Storage Devices},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/HarrisA20,
+  author    = {Bryan Harris and
+               Nihat Altiparmak},
+  title     = {{Ultra-Low} Latency SSDs' Impact on Overall Energy Efficiency},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JafferMS20,
+  author    = {Shehbaz Jaffer and
+               Kaveh Mahdaviani and
+               Bianca Schroeder},
+  title     = {Rethinking {WOM} Codes to Enhance the Lifetime in New {SSD} Generations},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JangGSJ20,
+  author    = {Junhyeok Jang and
+               Donghyun Gouk and
+               Jinwoo Shin and
+               Myoungsoo Jung},
+  title     = {{Platform-Agnostic} Lightweight Deep Learning for Garbage Collection Scheduling in {SSDs}},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JeongLPP0NCP20,
+  author    = {Min-Gyo Jeong and
+               Chang-Gyu Lee and
+               DongGyu Park and
+               Sungyong Park and
+               Youngjae Kim and
+               Jungki Noh and
+               Woosuk Chung and
+               Kyoung Park},
+  title     = {Position: GPUKV: Towards a {GPU-Driven} Computing on {Key-Value} {SSD}},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KG20,
+  author    = {Arpith K and
+               K. Gopinath},
+  title     = {Need for a Deeper {Cross-Layer} Optimization for Dense {NAND} {SSD} to Improve Read Performance of Big Data Applications: A Case for Melded Pages},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KalavriL20,
+  author    = {Vasiliki Kalavri and
+               John Liagouris},
+  title     = {In support of workload-aware streaming state management},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KanellisAV20,
+  author    = {Konstantinos Kanellis and
+               Ramnatthan Alagappan and
+               Shivaram Venkataraman},
+  title     = {Too Many Knobs to Tune? Towards Faster Database Tuning by Pre-selecting Important Knobs},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KhalidRDK20,
+  author    = {Baber Khalid and
+               Nolan Rudolph and
+               Ramakrishnan Durairajan and
+               Sudarsun Kannan},
+  title     = {MicroMon: A Monitoring Framework for Tackling Distributed Heterogeneity},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/KolokasisPPBZ20,
+  author    = {Iacovos G. Kolokasis and
+               Anastasios Papagiannis and
+               Polyvios Pratikakis and
+               Angelos Bilas and
+               Foivos S. Zakkak},
+  title     = {Say Goodbye to Off-heap Caches! On-heap Caches Using {Memory-Mapped} I/O},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeePJ20,
+  author    = {Sangwon Lee and
+               Gyuyoung Park and
+               Myoungsoo Jung},
+  title     = {TensorPRAM: Designing a Scalable Heterogeneous Deep Learning Accelerator with Byte-addressable {PRAMs}},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiLCX20,
+  author    = {Hongbo Li and
+               Yubo Liu and
+               Zhiguang Chen and
+               Nong Xiao},
+  title     = {GramFS: The Graph Model-based Namespace Management of Large-scale Distributed File Systems},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiSOD20,
+  author    = {Bingzhe Li and
+               Nae Young Song and
+               Li Ou and
+               David H. C. Du},
+  title     = {Can We Store the Whole World's Data in {DNA} Storage?},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiangLCAPKX20,
+  author    = {Yu Liang and
+               Jinheng Li and
+               Xianzhang Chen and
+               Rachata Ausavarungnirun and
+               Riwei Pan and
+               Tei-Wei Kuo and
+               Chun Jason Xue},
+  title     = {Differentiating Cache Files for Fine-grain Management to Improve Mobile Performance and Lifetime},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Maheshwari20,
+  author    = {Umesh Maheshwari},
+  title     = {StripeFinder: Erasure Coding of Small Objects Over {Key-Value} Storage Devices (An Uphill Battle)},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/MerensteinTABRS20,
+  author    = {Alex Merenstein and
+               Vasily Tarasov and
+               Ali Anwar and
+               Deepavali Bhagwat and
+               Lukas Rupprecht and
+               Dimitris Skourtis and
+               Erez Zadok},
+  title     = {The Case for Benchmarking Control Operations in Cloud Native Storage},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/NiderMZF20,
+  author    = {Joel Nider and
+               Craig Mustard and
+               Andrada Zoltan and
+               Alexandra Fedorova},
+  title     = {Processing in Storage Class Memory},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/RenZK20,
+  author    = {Yujie Ren and
+               Jian Zhang and
+               Sudarsun Kannan},
+  title     = {CompoundFS: Compounding I/O Operations in Firmware File Systems},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/Santry20,
+  author    = {Douglas Santry},
+  title     = {Neural Trees: Using Neural Networks as an Alternative to Binary Comparison in Classical Search Trees},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SunWHS20,
+  author    = {Jinghan Sun and
+               Chen Wang and
+               Jian Huang and
+               Marc Snir},
+  title     = {Understanding and Finding {Crash-Consistency} Bugs in Parallel File Systems},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/VGUA20,
+  author    = {Subisha V and
+               Varun Gohil and
+               Nisarg Ujjainkar and
+               Manu Awasthi},
+  title     = {Prefetching in Hybrid Main Memory Systems},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/XuLLXX20,
+  author    = {Liangliang Xu and
+               Min Lyu and
+               Qiliang Li and
+               Lingjiang Xie and
+               Yinlong Xu},
+  title     = {SelectiveEC: Selective Reconstruction in Erasure-coded Storage Systems},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YooS20,
+  author    = {Sangjin Yoo and
+               Dongkun Shin},
+  title     = {Reinforcement {Learning-Based} {SLC} Cache Technique for Enhancing {SSD} Write Performance},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YuYNCX20,
+  author    = {Jinghuan Yu and
+               Heejin Yoon and
+               Sam H. Noh and
+               Young-ri Choi and
+               Chun Jason Xue},
+  title     = {Position: Synergetic effects of Software and Hardware Parameters on the {LSM} system},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangGHZ20,
+  author    = {Duo Zhang and
+               Om Rameshwar Gatla and
+               Runzhou Han and
+               Mai Zheng},
+  title     = {Position: On Failure Diagnosis of the Storage Stack},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhengCLWLPSZ020,
+  author    = {Ning Zheng and
+               Xubin Chen and
+               Jiangpeng Li and
+               Qi Wu and
+               Yang Liu and
+               Yong Peng and
+               Fei Sun and
+               Hao Zhong and
+               Tong Zhang},
+  title     = {Re-think Data Management Software Design Upon the Arrival of Storage Hardware with Built-in Transparent Compression},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhongJMA20,
+  author    = {Ke Zhong and
+               Zhihao Jiang and
+               Ke Ma and
+               Sebastian Angel},
+  title     = {A file system for safely interacting with untrusted {USB} flash drives},
+  booktitle = hotstorage,
+  year      = 2020,
+}
+
 @inproceedings{DBLP:conf/hotstorage/AbdiMHTKD19,
   author    = {Mania Abdi and
                Amin Mosayyebzadeh and
@@ -157,7 +514,7 @@
 
 @inproceedings{DBLP:conf/hotstorage/ParkLKY19,
   author    = {Seongjae Park and
-               Yun-Jae Lee and
+               Yunjae Lee and
                Moonsub Kim and
                Heon Y. Yeom},
   title     = {Automating {Context-Based} Access Pattern Hint Injection for System Performance and Swap Storage Durability},
@@ -665,7 +1022,7 @@
 
 @inproceedings{DBLP:conf/hotstorage/MaratheSB017,
   author    = {Virendra J. Marathe and
-               Margo Seltzer and
+               Margo I. Seltzer and
                Steve Byan and
                Tim Harris},
   title     = {Persistent Memcached: Bringing Legacy Code to {Byte-Addressable} Persistent Memory},
@@ -1350,7 +1707,7 @@
 
 @inproceedings{DBLP:conf/hotstorage/ZhangSJ14,
   author    = {Jie Zhang and
-               Mustafa Shihab and
+               Mustafa M. Shihab and
                Myoungsoo Jung},
   title     = {Power, Energy, and Thermal Considerations in {SSD-Based} I/O Acceleration},
   booktitle = hotstorage,

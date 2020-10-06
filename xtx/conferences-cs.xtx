@@ -48,6 +48,7 @@
 @conference{crypto,
   shortname = "CRYPTO",
   longname  = "Annual International Cryptology Conference",
+  [year=2020] address=SantaBarbara, month=aug,
   [year=2019] address=SantaBarbara, month=aug,
   [year=2018] address=SantaBarbara, month=aug,
   [year=2017] address=SantaBarbara, month=aug,
@@ -87,6 +88,11 @@
   [year=1983] address=SantaBarbara, month=aug,
   [year=1982] address=SantaBarbara, month=aug,
   [year=1981] address=SantaBarbara, month=aug,
+}
+
+@conference{eurocrypt,
+  shortname = "Eurocrypt",
+  longname  = "Annual International Conference on the Theory and Applications of Cryptographic Techniques",
 }
 
 @conference{eurosp,
@@ -177,6 +183,7 @@
 @conference{infocom,
   shortname = "INFOCOM",
   longname  = "IEEE International Conference on Computer Communications",
+  [year=2020] address=Toronto, month=jul,
   [year=2019] address=Paris, month=apr,
   [year=2018] address=Honolulu, month=apr,
   [year=2017] address=Atlanta, month=may,
@@ -227,6 +234,7 @@
 @conference{mobicom,
   shortname = "MOBICOM",
   longname  = "International Conference on Mobile Computing and Networking",
+  [year=2020] address=London, month=sep,
   [year=2017] address=Snowbird, month=oct,
   [year=2012] address=Istanbul, month=aug,
   [year=2011] address=LasVegas, month=sep,
@@ -624,6 +632,7 @@
 @conference{oakland,
   shortname = "IEEE S&P",
   longname  = "IEEE Symposium on Security and Privacy",
+  [year=2020] address=SF, month=may,
   [year=2019] address=SF, month=may,
   [year=2018] address=SF, month=may,
   [year=2017] address=SanJose, month=may,

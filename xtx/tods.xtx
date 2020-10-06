@@ -68,6 +68,79 @@
   pages     = {4-1},
 }
 
+@article{DBLP:journals/tods/ZhangLLAKKP20,
+  author    = {Huanchen Zhang and
+               Hyeontaek Lim and
+               Viktor Leis and
+               David G. Andersen and
+               Michael Kaminsky and
+               Kimberly Keeton and
+               Andrew Pavlo},
+  title     = {Succinct Range Filters},
+  journal   = tods,
+  volume    = {45},
+  number    = {2},
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/FanLYXYLZJ20,
+  author    = {Wenfei Fan and
+               Ping Lu and
+               Wenyuan Yu and
+               Jingbo Xu and
+               Qiang Yin and
+               Xiaojian Luo and
+               Jingren Zhou and
+               Ruochun Jin},
+  title     = {Adaptive Asynchronous Parallelization of Graph Algorithms},
+  journal   = tods,
+  volume    = {45},
+  number    = {2},
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/KhamisNNOS20,
+  author    = {Mahmoud Abo Khamis and
+               Hung Q. Ngo and
+               XuanLong Nguyen and
+               Dan Olteanu and
+               Maximilian Schleich},
+  title     = {Learning Models over Relational Data Using Sparse Tensors and Functional Dependencies},
+  journal   = tods,
+  volume    = {45},
+  number    = {2},
+  year      = 2020,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/KolaitisPSS20,
+  author    = {Phokion G. Kolaitis and
+               Reinhard Pichler and
+               Emanuel Sallinger and
+               Vadim Savenkov},
+  title     = {On the Language of Nested Tuple Generating Dependencies},
+  journal   = tods,
+  volume    = {45},
+  number    = {2},
+  year      = 2020,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/FanLLT20,
+  author    = {Wenfei Fan and
+               Xueli Liu and
+               Ping Lu and
+               Chao Tian},
+  title     = {Catching Numeric Inconsistencies in Graphs},
+  journal   = tods,
+  volume    = {45},
+  number    = {2},
+  year      = 2020,
+  pages     = {9-1},
+}
+
 @article{DBLP:journals/tods/KipfPBBNK19,
   author    = {Andreas Kipf and
                Varun Pandey and
@@ -1041,7 +1114,7 @@
 
 @article{DBLP:journals/tods/BailisFGHS16,
   author    = {Peter Bailis and
-               Alan Fekete and
+               Alan D. Fekete and
                Ali Ghodsi and
                Joseph M. Hellerstein and
                Ion Stoica},
@@ -1886,7 +1959,7 @@
 @article{DBLP:journals/tods/JungHFHY14,
   author    = {Hyungsoo Jung and
                Hyuck Han and
-               Alan Fekete and
+               Alan D. Fekete and
                Gernot Heiser and
                Heon Young Yeom},
   title     = {A Scalable Lock Manager for Multicores},
@@ -3634,7 +3707,7 @@
 @article{DBLP:journals/tods/CahillRF09,
   author    = {Michael J. Cahill and
                Uwe Röhm and
-               Alan David Fekete},
+               Alan D. Fekete},
   title     = {Serializable isolation for snapshot databases},
   journal   = tods,
   volume    = {34},
@@ -5034,7 +5107,7 @@
 }
 
 @article{DBLP:journals/tods/FeketeLOOS05,
-  author    = {Alan Fekete and
+  author    = {Alan D. Fekete and
                Dimitrios Liarokapis and
                Elizabeth J. O'Neil and
                Patrick E. O'Neil and
@@ -10929,7 +11002,7 @@
 @article{DBLP:journals/tods/BunemanC79,
   author    = {Peter Buneman and
                Eric K. Clemons},
-  title     = {Efficient Monitoring Relational Databases},
+  title     = {Efficiently Monitoring Relational Databases},
   journal   = tods,
   volume    = {4},
   number    = {3},

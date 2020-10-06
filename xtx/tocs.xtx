@@ -1,5 +1,79 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/BaiLH20,
+  author    = {Jia-Ju Bai and
+               Julia Lawall and
+               Shi-Min Hu},
+  title     = {Effective Detection of Sleep-in-atomic-context Bugs in the Linux Kernel},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2020,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tocs/MalkhiT20,
+  author    = {Dahlia Malkhi and
+               Dan Tsafrir},
+  title     = {Introduction to the Special Issue on the Award Papers of {USENIX} {ATC} 2019},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2020,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tocs/BalmauDZGCD20,
+  author    = {Oana Balmau and
+               Florin Dinu and
+               Willy Zwaenepoel and
+               Karan Gupta and
+               Ravishankar Chandhiramoorthi and
+               Diego Didona},
+  title     = {SILK+ Preventing Latency Spikes in {Log-Structured} Merge {Key-Value} Stores Running Heterogeneous Workloads},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2020,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tocs/Leesatapornwongsa20,
+  author    = {Tanakorn Leesatapornwongsa and
+               Aritra Sengupta and
+               Masoud Saeida Ardekani and
+               Gustavo Petri and
+               Cesar A. Stuardo},
+  title     = {Transactuations: Where Transactions Meet the Physical World},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2020,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tocs/SpinkWF20,
+  author    = {Tom Spink and
+               Harry Wagstaff and
+               Björn Franke},
+  title     = {A Retargetable System-level {DBT} Hypervisor},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2020,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tocs/Jha20,
+  author    = {Sagar Jha},
+  title     = {Corrigendum to "Derecho: Fast State Machine Replication for Cloud Services, " by Jha et al., {ACM} Transactions on Computer Systems (TOCS) Volume 36, Issue 2, Article No. 4},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2020,
+  pages     = {15-1},
+}
+
 @article{DBLP:journals/tocs/GuerraouiGLQT19,
   author    = {Rachid Guerraoui and
                Hugo Guiroux and
@@ -2746,7 +2820,7 @@
 }
 
 @article{DBLP:journals/tocs/FeketeLS01,
-  author    = {Alan Fekete and
+  author    = {Alan D. Fekete and
                Nancy A. Lynch and
                Alexander A. Shvartsman},
   title     = {Specifying and using a partitionable group communication service},
