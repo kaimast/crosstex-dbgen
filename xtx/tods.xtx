@@ -141,6 +141,135 @@
   pages     = {9-1},
 }
 
+@article{DBLP:journals/tods/Jermaine20,
+  author    = {Chris Jermaine},
+  title     = {Editorial},
+  journal   = tods,
+  volume    = {45},
+  number    = {3},
+  year      = 2020,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/KaraNNOZ20,
+  author    = {Ahmet Kara and
+               Hung Q. Ngo and
+               Milos Nikolic and
+               Dan Olteanu and
+               Haozhe Zhang},
+  title     = {Maintaining Triangle Queries under Updates},
+  journal   = tods,
+  volume    = {45},
+  number    = {3},
+  year      = 2020,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/ShaikhhaEMEK20,
+  author    = {Amir Shaikhha and
+               Mohammed Elseidy and
+               Stephan Mihaila and
+               Daniel Espino and
+               Christoph Koch},
+  title     = {Synthesis of Incremental Linear Algebra Programs},
+  journal   = tods,
+  volume    = {45},
+  number    = {3},
+  year      = 2020,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/SchirmerPKN20,
+  author    = {Philipp Schirmer and
+               Thorsten Papenbrock and
+               Ioannis K. Koumarelas and
+               Felix Naumann},
+  title     = {Efficient Discovery of Matching Dependencies},
+  journal   = tods,
+  volume    = {45},
+  number    = {3},
+  year      = 2020,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/QiTCZ20,
+  author    = {Jianzhong Qi and
+               Yufei Tao and
+               Yanchuan Chang and
+               Rui Zhang},
+  title     = {Packing R-trees with Space-filling Curves: Theoretical Optimality, Empirical Efficiency, and Bulk-loading Parallelizability},
+  journal   = tods,
+  volume    = {45},
+  number    = {3},
+  year      = 2020,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/FanHLL20,
+  author    = {Wenfei Fan and
+               Chunming Hu and
+               Xueli Liu and
+               Ping Lu},
+  title     = {Discovering Graph Functional Dependencies},
+  journal   = tods,
+  volume    = {45},
+  number    = {3},
+  year      = 2020,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/NakandalaNKP20,
+  author    = {Supun Nakandala and
+               Kabir Nagrecha and
+               Arun Kumar and
+               Yannis Papakonstantinou},
+  title     = {Incremental and Approximate Computations for Accelerating Deep {CNN} Inference},
+  journal   = tods,
+  volume    = {45},
+  number    = {4},
+  year      = 2020,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/KhamisCMNNOS20,
+  author    = {Mahmoud Abo Khamis and
+               Ryan R. Curtin and
+               Benjamin Moseley and
+               Hung Q. Ngo and
+               XuanLong Nguyen and
+               Dan Olteanu and
+               Maximilian Schleich},
+  title     = {Functional Aggregate Queries with Additive Inequalities},
+  journal   = tods,
+  volume    = {45},
+  number    = {4},
+  year      = 2020,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/CiacciaM20,
+  author    = {Paolo Ciaccia and
+               Davide Martinenghi},
+  title     = {Flexible Skylines: Dominance for Arbitrary Sets of Monotone Functions},
+  journal   = tods,
+  volume    = {45},
+  number    = {4},
+  year      = 2020,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/ZimanyiSL20,
+  author    = {Esteban Zimányi and
+               Mahmoud Attia Sakr and
+               Arthur Lesuisse},
+  title     = {MobilityDB: A Mobility Database Based on {PostgreSQL} and {PostGIS}},
+  journal   = tods,
+  volume    = {45},
+  number    = {4},
+  year      = 2020,
+  pages     = {19-1},
+}
+
 @article{DBLP:journals/tods/KipfPBBNK19,
   author    = {Andreas Kipf and
                Varun Pandey and
@@ -2926,7 +3055,7 @@
 }
 
 @article{DBLP:journals/tods/LeeY11,
-  author    = {Tony T. Lee and
+  author    = {Tony Tong Lee and
                Tong Ye},
   title     = {A relational approach to functional decomposition of logic circuits},
   journal   = tods,
@@ -8469,7 +8598,7 @@
 @article{DBLP:journals/tods/GottlobPZ88,
   author    = {Georg Gottlob and
                Paolo Paolini and
-               Roberto Zicari},
+               Roberto V. Zicari},
   title     = {Properties and Update Semantics of Consistent Views},
   journal   = tods,
   volume    = {13},

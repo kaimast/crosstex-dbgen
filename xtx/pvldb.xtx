@@ -77,6 +77,17 @@
   pages     = {i-vi},
 }
 
+@article{DBLP:journals/pvldb/Zhou20,
+  author    = {Magdalena Balazinska and
+               Xiaofang Zhou},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {i-viii},
+}
+
 @article{DBLP:journals/pvldb/GoldsteinABBCGL20,
   author    = {Jonathan Goldstein and
                Ahmed S. Abdelhamid and
@@ -1365,7 +1376,7 @@
 @article{DBLP:journals/pvldb/FernandezSF20,
   author    = {Raul Castro Fernandez and
                Pranav Subramaniam and
-               Michael Franklin},
+               Michael J. Franklin},
   title     = {Data Market Platforms: Trading Data Assets to Solve Data Problems},
   journal   = pvldb,
   volume    = {13},
@@ -2450,7 +2461,7 @@
 
 @article{DBLP:journals/pvldb/BastaniMM20,
   author    = {Favyen Bastani and
-               Oscar Moll and
+               Oscar R. Moll and
                Samuel Madden},
   title     = {Vaas: Video Analytics At Scale},
   journal   = pvldb,
@@ -2803,7 +2814,7 @@
 @article{DBLP:journals/pvldb/VinconWB0PKHTR20,
   author    = {Tobias Vinçon and
                Lukas Weber and
-               Arthur Bernhard and
+               Arthur Bernhardt and
                Andreas Koch and
                Ilia Petrov and
                Christian Knödler and
@@ -2926,7 +2937,7 @@
   author    = {Wolfram Wingerath and
                Felix Gessert and
                Norbert Ritter},
-  title     = {InvaliDB: Scalable {Push-Based} {Real-Time} Queries on Top of {Pull-Based} Databases (Extended)},
+  title     = {InvaliDB: Scalable {Push-Based} {Real-Time} Queries on Top of {Pull-Based} Databases},
   journal   = pvldb,
   volume    = {13},
   number    = {12},
@@ -3608,6 +3619,101 @@
   number    = {12},
   year      = 2020,
   pages     = {3516},
+}
+
+@article{DBLP:journals/pvldb/ZengTSC20,
+  author    = {Yuxiang Zeng and
+               Yongxin Tong and
+               Yuguang Song and
+               Lei Chen},
+  title     = {The Simpler The Better: An Indexing Approach for {Shared-Route} Planning Queries},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3517-3530},
+}
+
+@article{DBLP:journals/pvldb/TanabeHKT20,
+  author    = {Takayuki Tanabe and
+               Takashi Hoshino and
+               Hideyuki Kawashima and
+               Osamu Tatebe},
+  title     = {An Analysis of Concurrency Control Protocols for {In-Memory} Database with {CCBench}},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3531-3544},
+}
+
+@article{DBLP:journals/pvldb/WangXDZHHLJ20,
+  author    = {Tianhao Wang and
+               Min Xu and
+               Bolin Ding and
+               Jingren Zhou and
+               Cheng Hong and
+               Zhicong Huang and
+               Ninghui Li and
+               Somesh Jha},
+  title     = {Improving Utility and Security of the Shuffler-based Differential Privacy},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3545-3558},
+}
+
+@article{DBLP:journals/pvldb/KipfCHBA20,
+  author    = {Andreas Kipf and
+               Damian Chromejko and
+               Alexander Hall and
+               Peter A. Boncz and
+               David G. Andersen},
+  title     = {Cuckoo Index: A Lightweight Secondary Index Structure},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3559-3572},
+}
+
+@article{DBLP:journals/pvldb/AbebeGD20,
+  author    = {Michael Abebe and
+               Brad Glasbergen and
+               Khuzaima Daudjee},
+  title     = {MorphoSys: Automatic Physical Design Metamorphosis for Distributed Database Systems},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3573-3587},
+}
+
+@article{DBLP:journals/pvldb/BehnezhadDELMS20,
+  author    = {Soheil Behnezhad and
+               Laxman Dhulipala and
+               Hossein Esfandiari and
+               Jakub Lacki and
+               Vahab S. Mirrokni and
+               Warren Schudy},
+  title     = {Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3588-3602},
+}
+
+@article{DBLP:journals/pvldb/WangD20,
+  author    = {Runhui Wang and
+               Dong Deng},
+  title     = {DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search},
+  journal   = pvldb,
+  volume    = {13},
+  number    = {13},
+  year      = 2020,
+  pages     = {3603-3616},
 }
 
 @article{DBLP:journals/pvldb/0002O19,
@@ -7897,7 +8003,7 @@
                Arsal Malik and
                Ahmad Musleh and
                Mohammad Hammoud and
-               Mucahid Kutlu and
+               Mücahid Kutlu and
                Mostafa Shehata and
                Tamer Elsayed},
   title     = {LA3: A Scalable Link- and {Locality-Aware} Linear {Algebra-Based} Graph Analytics System},
@@ -9600,7 +9706,7 @@
 }
 
 @article{DBLP:journals/pvldb/SousaOMV18,
-  author    = {Vítor Silva Sousa and
+  author    = {Vítor Silva and
                Daniel de Oliveira and
                Marta Mattoso and
                Patrick Valduriez},
@@ -12486,7 +12592,7 @@
 }
 
 @article{DBLP:journals/pvldb/MollZPMSG17,
-  author    = {Oscar Moll and
+  author    = {Oscar R. Moll and
                Aaron Zalewski and
                Sudeep Pillai and
                Samuel Madden and
@@ -15146,7 +15252,7 @@
 
 @article{DBLP:journals/pvldb/PirkMZM16,
   author    = {Holger Pirk and
-               Oscar Moll and
+               Oscar R. Moll and
                Matei Zaharia and
                Sam Madden},
   title     = {Voodoo - A Vector Algebra for Portable Database Performance on Modern Hardware},
@@ -19465,7 +19571,7 @@
                Jiawei Han and
                Lidan Shou and
                Jiajun Lu and
-               Thomas F. La Porta},
+               Thomas La Porta},
   title     = {Splitter: Mining {Fine-Grained} Sequential Patterns in Semantic Trajectories},
   journal   = pvldb,
   volume    = {7},
@@ -19999,7 +20105,7 @@
 @article{DBLP:journals/pvldb/SuchanekP14,
   author    = {Fabian M. Suchanek and
                Nicoleta Preda},
-  title     = {Semantic Culturomics (vision paper)},
+  title     = {Semantic Culturomics},
   journal   = pvldb,
   volume    = {7},
   number    = {12},
@@ -22381,7 +22487,7 @@
 @article{DBLP:journals/pvldb/TranDSL13,
   author    = {Thanh T. L. Tran and
                Yanlei Diao and
-               Charles A. Sutton and
+               Charles Sutton and
                Anna Liu},
   title     = {Supporting {User-Defined} Functions on Uncertain Data},
   journal   = pvldb,
@@ -27212,7 +27318,7 @@
 
 @article{DBLP:journals/pvldb/Dogac12,
   author    = {Asuman Dogac},
-  title     = {Interoperability in {eHealth} Systems (Invited Tutorial)},
+  title     = {Interoperability in {eHealth} Systems},
   journal   = pvldb,
   volume    = {5},
   number    = {12},
@@ -27846,7 +27952,7 @@
 
 @article{DBLP:journals/pvldb/CaoSDS11,
   author    = {Zhao Cao and
-               Charles A. Sutton and
+               Charles Sutton and
                Yanlei Diao and
                Prashant J. Shenoy},
   title     = {Distributed inference and query processing for {RFID} tracking and monitoring},
@@ -30932,7 +31038,7 @@
 @article{DBLP:journals/pvldb/Martinez-PalauDL10,
   author    = {Xavier Martinez-Palau and
                David Dominguez-Sal and
-               Josep-Lluís Larriba-Pey},
+               Josep Lluís Larriba-Pey},
   title     = {Two-way Replacement Selection},
   journal   = pvldb,
   volume    = {3},

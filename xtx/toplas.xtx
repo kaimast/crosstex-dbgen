@@ -1,5 +1,51 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/LiuWR21,
+  author    = {Peizun Liu and
+               Thomas Wahl and
+               Thomas W. Reps},
+  title     = {Interprocedural {Context-Unbounded} Program Analysis Using Observation Sequences},
+  journal   = toplas,
+  volume    = {42},
+  number    = {4},
+  year      = 2021,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/SwalensKM21,
+  author    = {Janwillem Swalens and
+               Joeri De Koster and
+               Wolfgang De Meuter},
+  title     = {Chocola: Composable Concurrency Language},
+  journal   = toplas,
+  volume    = {42},
+  number    = {4},
+  year      = 2021,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/toplas/ShenR21,
+  author    = {Jiasi Shen and
+               Martin C. Rinard},
+  title     = {Active Learning for Inference and Regeneration of Applications that Access Databases},
+  journal   = toplas,
+  volume    = {42},
+  number    = {4},
+  year      = 2021,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/toplas/MasudL21,
+  author    = {Abu Naser Masud and
+               Björn Lisper},
+  title     = {Semantic Correctness of Dependence-based Slicing for Interprocedural, Possibly Nonterminating Programs},
+  journal   = toplas,
+  volume    = {42},
+  number    = {4},
+  year      = 2021,
+  pages     = {19-1},
+}
+
 @article{DBLP:journals/toplas/Ahmed20,
   author    = {Amal Ahmed},
   title     = {Introduction to the Special Issue on {ESOP} 2018},
@@ -127,6 +173,61 @@
   number    = {2},
   year      = 2020,
   pages     = {11-1},
+}
+
+@article{DBLP:journals/toplas/JangdaB20,
+  author    = {Abhinav Jangda and
+               Uday Bondhugula},
+  title     = {An Effective Fusion and Tile Size Model for {PolyMage}},
+  journal   = toplas,
+  volume    = {42},
+  number    = {3},
+  year      = 2020,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/toplas/FrohnNBG20,
+  author    = {Florian Frohn and
+               Matthias Naaf and
+               Marc Brockschmidt and
+               Jürgen Giesl},
+  title     = {Inferring Lower Runtime Bounds for Integer Programs},
+  journal   = toplas,
+  volume    = {42},
+  number    = {3},
+  year      = 2020,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/CoblenzOEKBBMSA20,
+  author    = {Michael J. Coblenz and
+               Reed Oei and
+               Tyler Etzel and
+               Paulette Koronkevich and
+               Miles Baker and
+               Yannick Bloem and
+               Brad A. Myers and
+               Joshua Sunshine and
+               Jonathan Aldrich},
+  title     = {Obsidian: Typestate and Assets for Safer Blockchain Programming},
+  journal   = toplas,
+  volume    = {42},
+  number    = {3},
+  year      = 2020,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/toplas/MeloRGP20,
+  author    = {Leandro T. C. Melo and
+               Rodrigo Geraldo Ribeiro and
+               Breno Campos Ferreira Guimarães and
+               Fernando Magno Quintão Pereira},
+  title     = {Type Inference for C: Applications to the Static Analysis of Incomplete Programs},
+  journal   = toplas,
+  volume    = {42},
+  number    = {3},
+  year      = 2020,
+  pages     = {15-1},
 }
 
 @article{DBLP:journals/toplas/CogumbreiroHMY19,

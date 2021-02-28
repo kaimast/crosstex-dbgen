@@ -294,6 +294,162 @@
   pages     = {25-1},
 }
 
+@article{DBLP:journals/jacm/DuditeHLSSV20,
+  author    = {Miroslav Dudíte and
+               Nika Haghtalab and
+               Haipeng Luo and
+               Robert E. Schapire and
+               Vasilis Syrgkanis and
+               Jennifer Wortman Vaughan},
+  title     = {Oracle-efficient Online Learning and Auction Design},
+  journal   = jacm,
+  volume    = {67},
+  number    = {5},
+  year      = 2020,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/jacm/BlellochGSS20,
+  author    = {Guy E. Blelloch and
+               Yan Gu and
+               Julian Shun and
+               Yihan Sun},
+  title     = {Parallelism in Randomized Incremental Algorithms},
+  journal   = jacm,
+  volume    = {67},
+  number    = {5},
+  year      = 2020,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/jacm/Canetti20,
+  author    = {Ran Canetti},
+  title     = {Universally Composable Security},
+  journal   = jacm,
+  volume    = {67},
+  number    = {5},
+  year      = 2020,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/jacm/Tardos20a,
+  author    = {Éva Tardos},
+  title     = {Invited Articles Foreword},
+  journal   = jacm,
+  volume    = {67},
+  number    = {5},
+  year      = 2020,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/jacm/Zhuk20,
+  author    = {Dmitriy Zhuk},
+  title     = {A Proof of the {CSP} Dichotomy Conjecture},
+  journal   = jacm,
+  volume    = {67},
+  number    = {5},
+  year      = 2020,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/jacm/AtseriasM20,
+  author    = {Albert Atserias and
+               Moritz Müller},
+  title     = {Automating Resolution is {NP-Hard}},
+  journal   = jacm,
+  volume    = {67},
+  number    = {5},
+  year      = 2020,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/jacm/AshtianiBHLMP20,
+  author    = {Hassan Ashtiani and
+               Shai Ben-David and
+               Nicholas J. A. Harvey and
+               Christopher Liaw and
+               Abbas Mehrabian and
+               Yaniv Plan},
+  title     = {Near-optimal Sample Complexity Bounds for Robust Learning of Gaussian Mixtures via Compression Schemes},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/jacm/EsparzaKS20,
+  author    = {Javier Esparza and
+               Jan Kretínský and
+               Salomon Sickert},
+  title     = {A Unified Translation of Linear Temporal Logic to ω-Automata},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/jacm/BarceloFGP20,
+  author    = {Pablo Barceló and
+               Diego Figueira and
+               Georg Gottlob and
+               Andreas Pieris},
+  title     = {Semantic Optimization of Conjunctive Queries},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/jacm/Tardos20b,
+  author    = {Éva Tardos},
+  title     = {Invited Articles Foreword},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {35-1},
+}
+
+@article{DBLP:journals/jacm/ChakrabortyDGKS20,
+  author    = {Diptarka Chakraborty and
+               Debarati Das and
+               Elazar Goldenberg and
+               Michal Koucký and
+               Michael E. Saks},
+  title     = {Approximating Edit Distance Within Constant Factor in Truly Sub-quadratic Time},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {36-1},
+}
+
+@article{DBLP:journals/jacm/SvenssonTV20,
+  author    = {Ola Svensson and
+               Jakub Tarnawski and
+               László A. Végh},
+  title     = {A Constant-factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {37-1},
+}
+
+@article{DBLP:journals/jacm/GoemansR20,
+  author    = {Michel X. Goemans and
+               Thomas Rothvoss},
+  title     = {Polynomiality for Bin Packing with a Constant Number of Item Types},
+  journal   = jacm,
+  volume    = {67},
+  number    = {6},
+  year      = 2020,
+  pages     = {38-1},
+}
+
 @article{DBLP:journals/jacm/BishopFMNRSSW19,
   author    = {Steve Bishop and
                Matthew Fairbairn and
@@ -19144,7 +19300,7 @@
 }
 
 @article{DBLP:journals/jacm/MilneM79,
-  author    = {George Milne and
+  author    = {George J. Milne and
                Robin Milner},
   title     = {Concurrent Processes and Their Syntax},
   journal   = jacm,
@@ -21766,7 +21922,7 @@
 }
 
 @article{DBLP:journals/jacm/Svoboda75,
-  author    = {Antonin Svoboda},
+  author    = {Antonín Svoboda},
   title     = {The Concept of Term Exclusiveness and Its Effect on the Theory of Boolean Functions},
   journal   = jacm,
   volume    = {22},
@@ -22138,7 +22294,7 @@
 
 @article{DBLP:journals/jacm/BermanC74,
   author    = {G. Berman and
-               A. W. Collin},
+               A. W. Colijn},
   title     = {A Modified List Technique Allowing Binary Search},
   journal   = jacm,
   volume    = {21},
@@ -23360,7 +23516,7 @@
 }
 
 @article{DBLP:journals/jacm/EdmondsK72,
-  author    = {Jack Edmonds and
+  author    = {Jack R. Edmonds and
                Richard M. Karp},
   title     = {Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems},
   journal   = jacm,

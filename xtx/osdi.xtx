@@ -1,5 +1,950 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/BoosLIZ20,
+  author    = {Kevin Boos and
+               Namitha Liyanage and
+               Ramla Ijaz and
+               Lin Zhong},
+  title     = {Theseus: an Experiment in Operating System Structure and State Management},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1-19},
+}
+
+@inproceedings{DBLP:conf/osdi/NarayananHDALZB20,
+  author    = {Vikram Narayanan and
+               Tianjiao Huang and
+               David Detweiler and
+               Dan Appel and
+               Zhaofeng Li and
+               Gerd Zellweger and
+               Anton Burtsev},
+  title     = {RedLeaf: Isolation and Communication in a Safe Operating System},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {21-39},
+}
+
+@inproceedings{DBLP:conf/osdi/NelsonGTW20,
+  author    = {Luke Nelson and
+               Jacob Van Geffen and
+               Emina Torlak and
+               Xi Wang},
+  title     = {Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {41-61},
+}
+
+@inproceedings{DBLP:conf/osdi/TanZMW20,
+  author    = {Cheng Tan and
+               Changgeng Zhao and
+               Shuai Mu and
+               Michael Walfish},
+  title     = {Cobra: Making Transactional {Key-Value} Stores Verifiably Serializable},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {63-80},
+}
+
+@inproceedings{DBLP:conf/osdi/ChangHLTWCKC20,
+  author    = {Yun-Sheng Chang and
+               Yao Hsiao and
+               Tzu-Chi Lin and
+               Che-Wei Tsao and
+               Chun-Feng Wu and
+               Yuan-Hao Chang and
+               Hsiang-Shang Ko and
+               Yu-Fang Chen},
+  title     = {Determinizing Crash Behavior with a Verified {Snapshot-Consistent} Flash Translation Layer},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {81-97},
+}
+
+@inproceedings{DBLP:conf/osdi/HanceLHHJP20,
+  author    = {Travis Hance and
+               Andrea Lattuada and
+               Chris Hawblitzel and
+               Jon Howell and
+               Rob Johnson and
+               Bryan Parno},
+  title     = {Storage Systems are Distributed Systems (So Verify Them That Way!)},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {99-115},
+}
+
+@inproceedings{DBLP:conf/osdi/WeiCC20,
+  author    = {Xingda Wei and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Fast {RDMA-based} Ordered {Key-Value} Store using Remote Learned Cache},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {117-135},
+}
+
+@inproceedings{DBLP:conf/osdi/RenMK20,
+  author    = {Yujie Ren and
+               Changwoo Min and
+               Sudarsun Kannan},
+  title     = {CrossFS: A Cross-layered {Direct-Access} File System},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {137-154},
+}
+
+@inproceedings{DBLP:conf/osdi/DaiXGAKAA20,
+  author    = {Yifan Dai and
+               Yien Xu and
+               Aishwarya Ganesan and
+               Ramnatthan Alagappan and
+               Brian Kroth and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {From {WiscKey} to Bourbon: A Learned Index for {Log-Structured} Merge Trees},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {155-171},
+}
+
+@inproceedings{DBLP:conf/osdi/HaoTLHHG20,
+  author    = {Mingzhe Hao and
+               Levent Toksoz and
+               Nanqinqin Li and
+               Edward Edberg Halim and
+               Henry Hoffmann and
+               Haryadi S. Gunawi},
+  title     = {LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {173-190},
+}
+
+@inproceedings{DBLP:conf/osdi/YangYR20,
+  author    = {Juncheng Yang and
+               Yao Yue and
+               K. V. Rashmi},
+  title     = {A large scale analysis of hundreds of in-memory cache clusters at Twitter},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {191-208},
+}
+
+@inproceedings{DBLP:conf/osdi/SarthiRLMJLGK20,
+  author    = {Partho Sarthi and
+               Kaushik Rajan and
+               Akash Lal and
+               Abhishek Modi and
+               Prakhar Jain and
+               Mo Liu and
+               Ashit Gosalia and
+               Saurabh Kalikar},
+  title     = {Generalized {Sub-Query} Fusion for Eliminating Redundant I/O from {Big-Data} Queries},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {209-224},
+}
+
+@inproceedings{DBLP:conf/osdi/PirelliC20,
+  author    = {Solal Pirelli and
+               George Candea},
+  title     = {A Simpler and Faster {NIC} Driver Model for Network Functions},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {225-241},
+}
+
+@inproceedings{DBLP:conf/osdi/LinPSSA20,
+  author    = {Jiaxin Lin and
+               Kiran Patel and
+               Brent E. Stephens and
+               Anirudh Sivaraman and
+               Aditya Akella},
+  title     = {PANIC: A {High-Performance} Programmable {NIC} for Multi-tenant Networks},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {243-259},
+}
+
+@inproceedings{DBLP:conf/osdi/WangMLLRNBNKX20,
+  author    = {Chenxi Wang and
+               Haoran Ma and
+               Shi Liu and
+               Yuanqi Li and
+               Zhenyuan Ruan and
+               Khanh Nguyen and
+               Michael D. Bond and
+               Ravi Netravali and
+               Miryung Kim and
+               Guoqing Harry Xu},
+  title     = {Semeru: A {Memory-Disaggregated} Managed Runtime},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {261-280},
+}
+
+@inproceedings{DBLP:conf/osdi/FriedROB20,
+  author    = {Joshua Fried and
+               Zhenyuan Ruan and
+               Amy Ousterhout and
+               Adam Belay},
+  title     = {Caladan: Mitigating Interference at Microsecond Timescales},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {281-297},
+}
+
+@inproceedings{DBLP:conf/osdi/ChoSFPAB20,
+  author    = {Inho Cho and
+               Ahmed Saeed and
+               Joshua Fried and
+               Seo Jin Park and
+               Mohammad Alizadeh and
+               Adam Belay},
+  title     = {Overload Control for µs-scale {RPCs} with Breakwater},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {299-314},
+}
+
+@inproceedings{DBLP:conf/osdi/RuanSAB20,
+  author    = {Zhenyuan Ruan and
+               Malte Schwarzkopf and
+               Marcos K. Aguilera and
+               Adam Belay},
+  title     = {AIFM: High-Performance, {Application-Integrated} Far Memory},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {315-332},
+}
+
+@inproceedings{DBLP:conf/osdi/LuSL20,
+  author    = {Haonan Lu and
+               Siddhartha Sen and
+               Wyatt Lloyd},
+  title     = {{Performance-Optimal} {Read-Only} Transactions},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {333-349},
+}
+
+@inproceedings{DBLP:conf/osdi/AlfataftaAAA20,
+  author    = {Mohammed Alfatafta and
+               Basil Alkhatib and
+               Ahmed Alquraan and
+               Samer Al-Kiswany},
+  title     = {Toward a Generic Fault Tolerance Technique for Partial Network Partitioning},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {351-368},
+}
+
+@inproceedings{DBLP:conf/osdi/KadekodiMSYRG20,
+  author    = {Saurabh Kadekodi and
+               Francisco Maturana and
+               Suhas Jayaram Subramanya and
+               Juncheng Yang and
+               K. V. Rashmi and
+               Gregory R. Ganger},
+  title     = {PACEMAKER: Avoiding {HeART} attacks in storage clusters with disk-adaptive redundancy},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {369-385},
+}
+
+@inproceedings{DBLP:conf/osdi/LiNMJP20,
+  author    = {Jialin Li and
+               Jacob Nelson and
+               Ellis Michael and
+               Xin Jin and
+               Dan R. K. Ports},
+  title     = {Pegasus: Tolerating Skewed Workloads in Distributed Storage with {In-Network} Coherence Directories},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {387-406},
+}
+
+@inproceedings{DBLP:conf/osdi/ShiPDHPCHB20,
+  author    = {Xiao Shi and
+               Scott Pruett and
+               Kevin Doherty and
+               Jinyu Han and
+               Dmitri Petrov and
+               Jim Carrig and
+               John Hugg and
+               Nathan Bronson},
+  title     = {FlightTracker: Consistency across {Read-Optimized} Online Stores at Facebook},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {407-423},
+}
+
+@inproceedings{DBLP:conf/osdi/LepersBGZ20,
+  author    = {Baptiste Lepers and
+               Oana Balmau and
+               Karan Gupta and
+               Willy Zwaenepoel},
+  title     = {Kvell+: Snapshot Isolation without Snapshots},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {425-441},
+}
+
+@inproceedings{DBLP:conf/osdi/GujaratiKAHKVM20,
+  author    = {Arpan Gujarati and
+               Reza Karimi and
+               Safya Alzayat and
+               Wei Hao and
+               Antoine Kaufmann and
+               Ymir Vigfusson and
+               Jonathan Mace},
+  title     = {Serving {DNNs} like Clockwork: Performance Predictability from the Bottom Up},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {443-462},
+}
+
+@inproceedings{DBLP:conf/osdi/JiangZLYCG20,
+  author    = {Yimin Jiang and
+               Yibo Zhu and
+               Chang Lan and
+               Bairen Yi and
+               Yong Cui and
+               Chuanxiong Guo},
+  title     = {A Unified Architecture for Accelerating Distributed {DNN} Training in Heterogeneous GPU/{CPU} Clusters},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {463-479},
+}
+
+@inproceedings{DBLP:conf/osdi/NarayananSKPZ20,
+  author    = {Deepak Narayanan and
+               Keshav Santhanam and
+               Fiodar Kazhamiaka and
+               Amar Phanishayee and
+               Matei Zaharia},
+  title     = {{Heterogeneity-Aware} Cluster Scheduling Policies for Deep Learning Workloads},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {481-498},
+}
+
+@inproceedings{DBLP:conf/osdi/BaiZZJ20,
+  author    = {Zhihao Bai and
+               Zhen Zhang and
+               Yibo Zhu and
+               Xin Jin},
+  title     = {PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {499-514},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaoHYZYZYLWXW20,
+  author    = {Hanyu Zhao and
+               Zhenhua Han and
+               Zhi Yang and
+               Quanlu Zhang and
+               Fan Yang and
+               Lidong Zhou and
+               Mao Yang and
+               Francis C. M. Lau and
+               Yuqi Wang and
+               Yifan Xiong and
+               Bin Wang},
+  title     = {HiveD: Sharing a {GPU} Cluster for Deep Learning with Guarantees},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {515-532},
+}
+
+@inproceedings{DBLP:conf/osdi/XiaoRLZHLFLJ20,
+  author    = {Wencong Xiao and
+               Shiru Ren and
+               Yong Li and
+               Yang Zhang and
+               Pengyang Hou and
+               Zhi Li and
+               Yihui Feng and
+               Wei Lin and
+               Yangqing Jia},
+  title     = {AntMan: Dynamic Scaling on {GPU} Clusters for Deep Learning},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {533-548},
+}
+
+@inproceedings{DBLP:conf/osdi/LiaoLXS20,
+  author    = {Xiaojian Liao and
+               Youyou Lu and
+               Erci Xu and
+               Jiwu Shu},
+  title     = {Write Dependency Disentanglement with {HORAE}},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {549-565},
+}
+
+@inproceedings{DBLP:conf/osdi/SatijaMSGSCGL20,
+  author    = {Sambhav Satija and
+               Apurv Mehra and
+               Sudheesh Singanamalla and
+               Karan Grover and
+               Muthian Sivathanu and
+               Nishanth Chandran and
+               Divya Gupta and
+               Satya Lokam},
+  title     = {Blockene: A High-throughput Blockchain Over Mobile Devices},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {567-582},
+}
+
+@inproceedings{DBLP:conf/osdi/NgoSL20,
+  author    = {Khiem Ngo and
+               Siddhartha Sen and
+               Wyatt Lloyd},
+  title     = {Tolerating Slowdowns in Replicated State Machines using Copilots},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {583-598},
+}
+
+@inproceedings{DBLP:conf/osdi/AguileraBGMXZ20,
+  author    = {Marcos K. Aguilera and
+               Naama Ben-David and
+               Rachid Guerraoui and
+               Virendra J. Marathe and
+               Athanasios Xygkis and
+               Igor Zablotchi},
+  title     = {Microsecond Consensus for Microsecond Applications},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {599-616},
+}
+
+@inproceedings{DBLP:conf/osdi/BalakrishnanFSD20,
+  author    = {Mahesh Balakrishnan and
+               Jason Flinn and
+               Chen Shen and
+               Mihir Dharamshi and
+               Ahmed Jafri and
+               Xiao Shi and
+               Santosh Ghosh and
+               Hazem Hassan and
+               Aaryaman Sagar and
+               Rhed Shi and
+               Jingming Liu and
+               Filip Gruszczynski and
+               Xianan Zhang and
+               Huy Hoang and
+               Ahmed Yossef and
+               Francois Richard and
+               Yee Jiun Song},
+  title     = {Virtual Consensus in Delos},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {617-632},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangSCZA20,
+  author    = {Yunhao Zhang and
+               Srinath T. V. Setty and
+               Qi Chen and
+               Lidong Zhou and
+               Lorenzo Alvisi},
+  title     = {Byzantine Ordered Consensus without Byzantine Oligarchy},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {633-649},
+}
+
+@inproceedings{DBLP:conf/osdi/RommelDFKBMSL20,
+  author    = {Florian Rommel and
+               Christian Dietrich and
+               Daniel Friesel and
+               Marcel Köppen and
+               Christoph Borchert and
+               Michael Müller and
+               Olaf Spinczyk and
+               Daniel Lohmann},
+  title     = {From Global to Local Quiescence: {Wait-Free} Code Patching of {Multi-Threaded} Processes},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {651-666},
+}
+
+@inproceedings{DBLP:conf/osdi/RiggerS20,
+  author    = {Manuel Rigger and
+               Zhendong Su},
+  title     = {Testing Database Engines via Pivoted Query Synthesis},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {667-682},
+}
+
+@inproceedings{DBLP:conf/osdi/RuffyWS20,
+  author    = {Fabian Ruffy and
+               Tao Wang and
+               Anirudh Sivaraman},
+  title     = {Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {683-699},
+}
+
+@inproceedings{DBLP:conf/osdi/YaseenABCL20,
+  author    = {Nofel Yaseen and
+               Behnaz Arzani and
+               Ryan Beckett and
+               Selim Ciraci and
+               Vincent Liu},
+  title     = {Aragog: Scalable Runtime Verification of Shardable Networked Systems},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {701-718},
+}
+
+@inproceedings{DBLP:conf/osdi/HuHH20,
+  author    = {Yigong Hu and
+               Gongqi Huang and
+               Peng Huang},
+  title     = {Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {719-734},
+}
+
+@inproceedings{DBLP:conf/osdi/AmbatiGFGWDCPME20,
+  author    = {Pradeep Ambati and
+               Iñigo Goiri and
+               Felipe Vieira Frujeri and
+               Alper Gun and
+               Ke Wang and
+               Brian Dolan and
+               Brian Corell and
+               Sekhar Pasupuleti and
+               Thomas Moscibroda and
+               Sameh Elnikety and
+               Marcus Fontoura and
+               Ricardo Bianchini},
+  title     = {Providing {SLOs} for {Resource-Harvesting} {VMs} in Cloud Platforms},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {735-751},
+}
+
+@inproceedings{DBLP:conf/osdi/SunCCALX20,
+  author    = {Xudong Sun and
+               Runxiang Cheng and
+               Jianyan Chen and
+               Elaine Ang and
+               Owolabi Legunsen and
+               Tianyin Xu},
+  title     = {Testing Configuration Changes in Context to Prevent Production Failures},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {735-751},
+}
+
+@inproceedings{DBLP:conf/osdi/BergBMGGLUCBHG20,
+  author    = {Benjamin Berg and
+               Daniel S. Berger and
+               Sara McAllister and
+               Isaac Grosof and
+               Sathya Gunasekar and
+               Jimmy Lu and
+               Michael Uhlar and
+               Jim Carrig and
+               Nathan Beckmann and
+               Mor Harchol-Balter and
+               Gregory R. Ganger},
+  title     = {The {CacheLib} Caching Engine: Design and Experiences at Scale},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {753-768},
+}
+
+@inproceedings{DBLP:conf/osdi/TangYVKMKACGCCG20,
+  author    = {Chunqiang Tang and
+               Kenny Yu and
+               Kaushik Veeraraghavan and
+               Jonathan Kaldor and
+               Scott Michelson and
+               Thawan Kooburat and
+               Aravind Anbudurai and
+               Matthew Clark and
+               Kabir Gogia and
+               Long Cheng and
+               Ben Christensen and
+               Alex Gartrell and
+               Maxim Khutornenko and
+               Sachin Kulkarni and
+               Marcin Pawlowski and
+               Tuomas Pelkonen and
+               Andre Rodrigues and
+               Rounak Tibrewal and
+               Vaishnavi Venkatesan and
+               Peter Zhang},
+  title     = {Twine: A Unified Cluster Management System for Shared Infrastructure},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {787-803},
+}
+
+@inproceedings{DBLP:conf/osdi/QiuBJKI20,
+  author    = {Haoran Qiu and
+               Subho S. Banerjee and
+               Saurabh Jha and
+               Zbigniew T. Kalbarczyk and
+               Ravishankar K. Iyer},
+  title     = {FIRM: An Intelligent Fine-grained Resource Management Framework for {SLO-Oriented} Microservices},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {805-825},
+}
+
+@inproceedings{DBLP:conf/osdi/SureshLKJNRGOJG20,
+  author    = {Lalith Suresh and
+               João Loff and
+               Faria Kalim and
+               Sangeetha Abdu Jyothi and
+               Nina Narodytska and
+               Leonid Ryzhyk and
+               Sahan Gamage and
+               Brian Oki and
+               Pranshu Jain and
+               Michael Gasch},
+  title     = {Building Scalable and Flexible Cluster Managers Using Declarative Programming},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {827-844},
+}
+
+@inproceedings{DBLP:conf/osdi/HadaryMMPGDDJCR20,
+  author    = {Ori Hadary and
+               Luke Marshall and
+               Ishai Menache and
+               Abhisek Pan and
+               Esaias E. Greeff and
+               David Dion and
+               Star Dorminey and
+               Shailesh Joshi and
+               Yang Chen and
+               Mark Russinovich and
+               Thomas Moscibroda},
+  title     = {Protean: {VM} Allocation Service at Scale},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {845-861},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhengJSWYHWYZSG20,
+  author    = {Lianmin Zheng and
+               Chengfan Jia and
+               Minmin Sun and
+               Zhao Wu and
+               Cody Hao Yu and
+               Ameer Haj-Ali and
+               Yida Wang and
+               Jun Yang and
+               Danyang Zhuo and
+               Koushik Sen and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {Ansor: Generating {High-Performance} Tensor Programs for Deep Learning},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {863-879},
+}
+
+@inproceedings{DBLP:conf/osdi/MaXYXMCHYZZ20,
+  author    = {Lingxiao Ma and
+               Zhiqiang Xie and
+               Zhi Yang and
+               Jilong Xue and
+               Youshan Miao and
+               Wei Cui and
+               Wenxiang Hu and
+               Fan Yang and
+               Lintao Zhang and
+               Lidong Zhou},
+  title     = {Rammer: Enabling Holistic Deep Learning Compiler Optimizations with {rTasks}},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {881-897},
+}
+
+@inproceedings{DBLP:conf/osdi/NakandalaSYKCWI20,
+  author    = {Supun Nakandala and
+               Karla Saur and
+               Gyeong-In Yu and
+               Konstantinos Karanasos and
+               Carlo Curino and
+               Markus Weimer and
+               Matteo Interlandi},
+  title     = {A Tensor Compiler for Unified Machine Learning Prediction Serving},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {899-917},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangHYZLYZ20,
+  author    = {Quanlu Zhang and
+               Zhenhua Han and
+               Fan Yang and
+               Yuge Zhang and
+               Zhe Liu and
+               Mao Yang and
+               Lidong Zhou},
+  title     = {Retiarii: A Deep Learning {Exploratory-Training} Framework},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {919-936},
+}
+
+@inproceedings{DBLP:conf/osdi/MaiLWFBP20,
+  author    = {Luo Mai and
+               Guo Li and
+               Marcel Wagenländer and
+               Konstantinos Fertakis and
+               Andrei-Octavian Brabete and
+               Peter R. Pietzuch},
+  title     = {KungFu: Making Training in Distributed Machine Learning Adaptive},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {937-954},
+}
+
+@inproceedings{DBLP:conf/osdi/KwonBKK20,
+  author    = {Dongup Kwon and
+               Junehyuk Boo and
+               Dongryeong Kim and
+               Jangwoo Kim},
+  title     = {FVM: {FPGA-assisted} Virtual Device Emulation for Fast, Scalable, and Flexible Storage Virtualization},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {955-971},
+}
+
+@inproceedings{DBLP:conf/osdi/BrunellaBBPSBCP20,
+  author    = {Marco Spaziani Brunella and
+               Giacomo Belocchi and
+               Marco Bonola and
+               Salvatore Pontarelli and
+               Giuseppe Siracusano and
+               Giuseppe Bianchi and
+               Aniello Cammarano and
+               Alessandro Palumbo and
+               Luca Petrucci and
+               Roberto Bifulco},
+  title     = {hXDP: Efficient Software Packet Processing on {FPGA} {NICs}},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {973-990},
+}
+
+@inproceedings{DBLP:conf/osdi/KorolijaRA20,
+  author    = {Dario Korolija and
+               Timothy Roscoe and
+               Gustavo Alonso},
+  title     = {Do {OS} abstractions make sense on FPGAs?},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {991-1010},
+}
+
+@inproceedings{DBLP:conf/osdi/AndersonCKKKPRS20,
+  author    = {Thomas E. Anderson and
+               Marco Canini and
+               Jongyul Kim and
+               Dejan Kostic and
+               Youngjin Kwon and
+               Simon Peter and
+               Waleed Reda and
+               Henry N. Schuh and
+               Emmett Witchel},
+  title     = {Assise: Performance and Availability via Client-local {NVM} in a Distributed File System},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1011-1027},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangSZ20,
+  author    = {Wen Zhang and
+               Scott Shenker and
+               Irene Zhang},
+  title     = {Persistent State Machines for Recoverable In-memory Storage Systems with {NVRam}},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1029-1046},
+}
+
+@inproceedings{DBLP:conf/osdi/NealRSQKPK20,
+  author    = {Ian Neal and
+               Ben Reeves and
+               Ben Stoler and
+               Andrew Quinn and
+               Youngjin Kwon and
+               Simon Peter and
+               Baris Kasikci},
+  title     = {AGAMOTTO: How Persistent is your Persistent Memory Application?},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1047-1064},
+}
+
+@inproceedings{DBLP:conf/osdi/RothZHP20,
+  author    = {Edo Roth and
+               Hengchu Zhang and
+               Andreas Haeberlen and
+               Benjamin C. Pierce},
+  title     = {Orchard: Differentially Private Analytics at Scale},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1065-1081},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaoSAHSS20,
+  author    = {Zhipeng Zhao and
+               Hugo Sadok and
+               Nirav Atre and
+               James C. Hoe and
+               Vyas Sekar and
+               Justine Sherry},
+  title     = {Achieving 100Gbps Intrusion Prevention on a Single Server},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1083-1100},
+}
+
+@inproceedings{DBLP:conf/osdi/DautermanFLPS20,
+  author    = {Emma Dauterman and
+               Eric Feng and
+               Ellen Luo and
+               Raluca Ada Popa and
+               Ion Stoica},
+  title     = {DORY: An Encrypted Search System with Distributed Trust},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1101-1119},
+}
+
+@inproceedings{DBLP:conf/osdi/DautermanCM20,
+  author    = {Emma Dauterman and
+               Henry Corrigan-Gibbs and
+               David Mazières},
+  title     = {SafetyPin: Encrypted Backups with {Human-Memorable} Secrets},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1121-1138},
+}
+
+@inproceedings{DBLP:conf/osdi/BehrensCSBKZ20,
+  author    = {Jonathan Behrens and
+               Anton Cao and
+               Cel Skeggs and
+               Adam Belay and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Efficiently Mitigating Transient Execution Attacks using the Unmapped Speculation Contract},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1139-1154},
+}
+
+@inproceedings{DBLP:conf/osdi/LevyYWDHMZRGLLS20,
+  author    = {Sebastien Levy and
+               Randolph Yao and
+               Youjiang Wu and
+               Yingnong Dang and
+               Peng Huang and
+               Zheng Mu and
+               Pu Zhao and
+               Tarun Ramani and
+               Naga Govindaraju and
+               Xukun Li and
+               Qingwei Lin and
+               Gil Lapid Shafriri and
+               Murali Chintalapati},
+  title     = {Predictive and Adaptive Failure Mitigation to Avert Production Cloud {VM} Interruptions},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1155-1170},
+}
+
+@inproceedings{DBLP:conf/osdi/LiKHWHPSYDCV20,
+  author    = {Yuliang Li and
+               Gautam Kumar and
+               Hema Hariharan and
+               Hassan M. G. Wassel and
+               Peter Hochschild and
+               Dave Platt and
+               Simon L. Sabato and
+               Minlan Yu and
+               Nandita Dukkipati and
+               Prashant Chandra and
+               Amin Vahdat},
+  title     = {Sundial: Fault-tolerant Clock Synchronization for Datacenters},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1171-1186},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangCCAL20,
+  author    = {Haoran Zhang and
+               Adney Cardoza and
+               Peter Baile Chen and
+               Sebastian Angel and
+               Vincent Liu},
+  title     = {Fault-tolerant and transactional stateful serverless workflows},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1187-1204},
+}
+
+@inproceedings{DBLP:conf/osdi/ChungKKCG20,
+  author    = {Andrew Chung and
+               Subru Krishnan and
+               Konstantinos Karanasos and
+               Carlo Curino and
+               Gregory R. Ganger},
+  title     = {Unearthing inter-job dependencies for better cluster scheduling},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1205-1223},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhuKCLKSJ20,
+  author    = {Hang Zhu and
+               Kostis Kaffes and
+               Zixu Chen and
+               Zhenming Liu and
+               Christos Kozyrakis and
+               Ion Stoica and
+               Xin Jin},
+  title     = {RackSched: A {Microsecond-Scale} Scheduler for {Rack-Scale} Computers},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1225-1240},
+}
+
+@inproceedings{DBLP:conf/osdi/LiWZKKLR20,
+  author    = {Shaohong Li and
+               Xi Wang and
+               Xiao Zhang and
+               Vasileios Kontorinis and
+               Sreekumar Kodakara and
+               David Lo and
+               Parthasarathy Ranganathan},
+  title     = {Thunderbolt: Throughput-Optimized, {Quality-of-Service-Aware} Power Capping at Scale},
+  booktitle = osdi,
+  year      = 2020,
+  pages     = {1241-1255},
+}
+
 @inproceedings{DBLP:conf/osdi/X18,
   author    = {},
   title     = {Differential Energy Profiling: Energy Optimization via Diffing Similar Apps},

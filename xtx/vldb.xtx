@@ -7,9 +7,37 @@
   year      = 2020,
 }
 
+@inproceedings{DBLP:conf/vldb/0001H20,
+  author    = {Ali Hadian and
+               Thomas Heinis},
+  title     = {MADEX: Learning-augmented Algorithmic Index Structures},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/0001KH20,
+  author    = {Ali Hadian and
+               Ankit Kumar and
+               Thomas Heinis},
+  title     = {Hands-off Model Integration in Spatial Index Structures},
+  booktitle = vldb,
+  year      = 2020,
+}
+
 @inproceedings{DBLP:conf/vldb/Auge20,
   author    = {Tanja Auge},
   title     = {Extended Provenance Management for Data Science Applications},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/BlacherGLKM20,
+  author    = {Mark Blacher and
+               Joachim Giesen and
+               Sören Laue and
+               Julien Klaus and
+               Matthias Mitterreiter},
+  title     = {Fast Entity Resolution With Mock Labels and Sorted Integer Sets},
   booktitle = vldb,
   year      = 2020,
 }
@@ -24,6 +52,34 @@
 @inproceedings{DBLP:conf/vldb/Claire20,
   author    = {Vincent Le Claire},
   title     = {Efficient and Scalable Aggregate Computation on Temporal Graphs},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/DengLLT20,
+  author    = {Nan Deng and
+               Wendi Luan and
+               Haotian Liu and
+               Bo Tang},
+  title     = {CheetahER: A Fast Entity Resolution System for Heterogeneous Camera Data},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/DurandDKSAKDHSI20,
+  author    = {Gabriel Campero Durand and
+               Anshu Daur and
+               Vinayak Kumar and
+               Shivalika Suman and
+               Altaf Mohammed Aftab and
+               Sajad Karim and
+               Prafulla Diwesh and
+               Chinmaya Hegde and
+               Disha Setlur and
+               Syed Md Ismail and
+               David Broneske and
+               Gunter Saake},
+  title     = {Spread the Good Around! Information Propagation in Schema Matching and Entity Resolution for Heterogeneous Data},
   booktitle = vldb,
   year      = 2020,
 }
@@ -49,6 +105,24 @@
   year      = 2020,
 }
 
+@inproceedings{DBLP:conf/vldb/HattaschT0B20,
+  author    = {Benjamin Hättasch and
+               Michael Truong-Ngoc and
+               Andreas Schmidt and
+               Carsten Binnig},
+  title     = {It's {AI} Match: A {Two-Step} Approach for Schema Matching Using Embeddings},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/LeybovichS20,
+  author    = {Michael Leybovich and
+               Oded Shmueli},
+  title     = {{ML} Based Provenance in Databases},
+  booktitle = vldb,
+  year      = 2020,
+}
+
 @inproceedings{DBLP:conf/vldb/Li20,
   author    = {Ziyu Li},
   title     = {Complex Event Processing on Real-time Video Streams},
@@ -59,6 +133,18 @@
 @inproceedings{DBLP:conf/vldb/Maliszewski20,
   author    = {Kajetan Jeremi Maliszewski},
   title     = {Secure Data Processing at Scale},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/PandeyRKDSK20,
+  author    = {Varun Pandey and
+               Alexander van Renen and
+               Andreas Kipf and
+               Jialin Ding and
+               Ibrahim Sabek and
+               Alfons Kemper},
+  title     = {The Case for Learned Spatial Indexes},
   booktitle = vldb,
   year      = 2020,
 }
@@ -77,6 +163,26 @@
   year      = 2020,
 }
 
+@inproceedings{DBLP:conf/vldb/PeetersBG20,
+  author    = {Ralph Peeters and
+               Christian Bizer and
+               Goran Glavas},
+  title     = {Intermediate Training of {BERT} for Product Matching},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/RebjockFJCC20,
+  author    = {Quentin Rebjock and
+               Valentin Flunkert and
+               Tim Januschowski and
+               Laurent Callot and
+               Joel Castellon},
+  title     = {A Simple and Effective Predictive Resource Scaling Heuristic for Large-scale Cloud Applications},
+  booktitle = vldb,
+  year      = 2020,
+}
+
 @inproceedings{DBLP:conf/vldb/Shraga20,
   author    = {Roee Shraga},
   title     = {(Artificial) Mind over Matter: Humans In and Humans Out in Matching},
@@ -91,9 +197,37 @@
   year      = 2020,
 }
 
+@inproceedings{DBLP:conf/vldb/WangYH20,
+  author    = {Jiawei Wang and
+               Haizhou Ye and
+               Jianhui Huang},
+  title     = {An Extensible Block {Scheme-Based} Method for Entity Matching},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/ZecchiniSB20,
+  author    = {Luca Zecchini and
+               Giovanni Simonini and
+               Sonia Bergamaschi},
+  title     = {Entity Resolution on Camera Records Without Machine Learning},
+  booktitle = vldb,
+  year      = 2020,
+}
+
 @inproceedings{DBLP:conf/vldb/Zhang20,
   author    = {Ji Zhang},
   title     = {AlphaJoin: Join Order Selection à la {AlphaGo}},
+  booktitle = vldb,
+  year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/ZhangMKP20,
+  author    = {Chi Zhang and
+               Ryan C. Marcus and
+               Anat Kleiman and
+               Olga Papaemmanouil},
+  title     = {Buffer Pool Aware Query Scheduling via Deep Reinforcement Learning},
   booktitle = vldb,
   year      = 2020,
 }
@@ -103,6 +237,165 @@
   title     = {Complex Event Processing for the Internet of Things},
   booktitle = vldb,
   year      = 2020,
+}
+
+@inproceedings{DBLP:conf/vldb/LiuC0C20,
+  author    = {Chengfei Liu and
+               Lu Chen and
+               Rui Zhou and
+               Afzal Azeem Chowdhary},
+  title     = {Attribute Diversified Community Search},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {3-17},
+}
+
+@inproceedings{DBLP:conf/vldb/Qu0GWZZ20,
+  author    = {Wenwen Qu and
+               Da Yan and
+               Guimu Guo and
+               Xiaoling Wang and
+               Lei Zou and
+               Yang Zhou},
+  title     = {Parallel Mining of Frequent Subtree Patterns},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {18-32},
+}
+
+@inproceedings{DBLP:conf/vldb/YuIHZF20,
+  author    = {Weiren Yu and
+               Sima Iranmanesh and
+               Aparajita Haldar and
+               Maoyin Zhang and
+               Hakan Ferhatosmanoglu},
+  title     = {An Axiomatic Role Similarity Measure Based on Graph Topology},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {33-48},
+}
+
+@inproceedings{DBLP:conf/vldb/KrauseHL20,
+  author    = {Alexander Krause and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {Scalable {In-Memory} Graph Pattern Matching on Symmetric Multiprocessor Systems},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {49-62},
+}
+
+@inproceedings{DBLP:conf/vldb/GuoZ020,
+  author    = {Aibo Guo and
+               Qianzhen Zhang and
+               Xiang Zhao},
+  title     = {A {Graph-Based} Approach Towards Risk Alerting for COVID-19 Spread},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {63-69},
+}
+
+@inproceedings{DBLP:conf/vldb/ImranGM20,
+  author    = {Muhammad Imran and
+               Gábor E. Gévay and
+               Volker Markl},
+  title     = {Distributed Graph Analytics with Datalog Queries in Flink},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {70-83},
+}
+
+@inproceedings{DBLP:conf/vldb/Hellings20,
+  author    = {Jelle Hellings},
+  title     = {Explaining Results of Path Queries on Graphs - {Single-Path} Results for {Context-Free} Path Queries},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {84-98},
+}
+
+@inproceedings{DBLP:conf/vldb/MiaoQHDIO20,
+  author    = {Yukai Miao and
+               Jianbin Qin and
+               Sheng Hu and
+               Yuyang Dong and
+               Yoshiharu Ishikawa and
+               Makoto Onizuka},
+  title     = {NGNC: A Flexible and Efficient Framework for {Error-Tolerant} Query Autocompletion},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {101-115},
+}
+
+@inproceedings{DBLP:conf/vldb/ZhangTH20,
+  author    = {Xing Zhang and
+               Van-Dang Tran and
+               Zhenjiang Hu},
+  title     = {A Cheap Implementation of Resugaring in {BIRDS} Based on Bidirectional Transformation},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {116-130},
+}
+
+@inproceedings{DBLP:conf/vldb/Ishihara20,
+  author    = {Yasunori Ishihara},
+  title     = {Toward Appropriate Data Publishing in Relational Data Exchange Framework},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {131-137},
+}
+
+@inproceedings{DBLP:conf/vldb/TanakaTH20,
+  author    = {Jumpei Tanaka and
+               Van-Dang Tran and
+               Zhenjiang Hu},
+  title     = {Toward Programmable Strategy for Co-existence of Relational Schemes},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {138-151},
+}
+
+@inproceedings{DBLP:conf/vldb/AsanoHIOTY20,
+  author    = {Yasuhito Asano and
+               Zhenjiang Hu and
+               Yasunori Ishihara and
+               Makoto Onizuka and
+               Masato Takeichi and
+               Masatoshi Yoshikawa},
+  title     = {Data Integration Models and Architectures for Service Alliances},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {152-164},
+}
+
+@inproceedings{DBLP:conf/vldb/OnizukaIT20,
+  author    = {Makoto Onizuka and
+               Yasunori Ishihara and
+               Masato Takeichi},
+  title     = {Towards Smart Data Sharing by Updatable Views},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {165-171},
+}
+
+@inproceedings{DBLP:conf/vldb/WangZ020,
+  author    = {Zijie Wang and
+               Lixi Zhou and
+               Jia Zou},
+  title     = {Integration of {Fast-Evolving} Data Sources Using a Deep Learning Approach},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {172-186},
+}
+
+@inproceedings{DBLP:conf/vldb/MiyakeW0O20,
+  author    = {Kota Miyake and
+               Yusuke Wakuta and
+               Yuya Sasaki and
+               Makoto Onizuka},
+  title     = {Towards Guaranteeing Global Consistency for {Peer-Based} Data Integration Architecture},
+  booktitle = vldb,
+  year      = 2020,
+  pages     = {187-193},
 }
 
 @inproceedings{DBLP:conf/vldb/Akili19,
@@ -341,7 +634,7 @@
                Zachary Collins and
                Aaron Sipser and
                Michael Stonebraker and
-               James Macdonald},
+               James MacDonald},
   title     = {{WIP} - SKOD: A Framework for Situational Knowledge on Demand},
   booktitle = vldb,
   year      = 2019,
@@ -716,7 +1009,7 @@
                Marta Mattoso and
                Reza Akbarinia and
                Heraldo Borges and
-               Jose J. Camata and
+               José J. Camata and
                Alvaro L. G. A. Coutinho and
                Daniel Gaspar and
                Noel Moreno Lemus and
@@ -724,7 +1017,7 @@
                Hermano Lustosa and
                Florent Masseglia and
                Fabrício Nogueira da Silva and
-               Vítor Silva Sousa and
+               Vítor Silva and
                Renan Souza and
                Kary A. C. S. Ocaña and
                Eduardo S. Ogasawara and
@@ -3575,7 +3868,7 @@
 
 @inproceedings{DBLP:conf/vldb/X07h,
   author    = {},
-  title     = {Table of Contents (pdf)},
+  title     = {Table of Contents},
   booktitle = vldb,
   year      = 2007,
 }
@@ -5633,7 +5926,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/BastMSTW06,
-  author    = {H. Bast and
+  author    = {Hannah Bast and
                Debapriyo Majumdar and
                Ralf Schenkel and
                Martin Theobald and
@@ -15795,7 +16088,7 @@
   author    = {Peter Fankhauser and
                Georges Gardarin and
                M. Lopez and
-               J. Muñoz and
+               José Manuel Muñoz and
                Anthony Tomasic},
   title     = {Experiences in Federated Databases: From {IRO-DB} to {MIRO-Web}},
   booktitle = vldb,
@@ -17485,7 +17778,7 @@
 @inproceedings{DBLP:conf/vldb/FerrandinaMZFM95,
   author    = {Fabrizio Ferrandina and
                Thorsten Meyer and
-               Roberto Zicari and
+               Roberto V. Zicari and
                Guy Ferran and
                Joëlle Madec},
   title     = {Schema and Database Evolution in the O2 Object Database System},
@@ -17728,7 +18021,6 @@
 
 @inproceedings{DBLP:conf/vldb/HvasshovdTBH95,
   author    = {Svein-Olaf Hvasshovd and
-               Ø and
                Øystein Torbjørnsen and
                Svein Erik Bratsberg and
                Per Holager},
@@ -18242,7 +18534,7 @@
 @inproceedings{DBLP:conf/vldb/FerrandinaMZ94,
   author    = {Fabrizio Ferrandina and
                Thorsten Meyer and
-               Roberto Zicari},
+               Roberto V. Zicari},
   title     = {Implementing Lazy Database Updates for an Object Database System},
   booktitle = vldb,
   year      = 1994,
@@ -21493,7 +21785,7 @@
 
 @inproceedings{DBLP:conf/vldb/GottlobZ88,
   author    = {Georg Gottlob and
-               Roberto Zicari},
+               Roberto V. Zicari},
   title     = {Closed World Databases Opened Through Null Values},
   booktitle = vldb,
   year      = 1988,
@@ -26855,7 +27147,7 @@
 
 @inproceedings{DBLP:conf/vldb/Chen75,
   author    = {Peter P. Chen},
-  title     = {The {Enity-Relationship} Model: Toward a Unified View of Data},
+  title     = {The {Entity-Relationship} Model: Toward a Unified View of Data},
   booktitle = vldb,
   year      = 1975,
   pages     = {173},

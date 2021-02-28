@@ -1,5 +1,341 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotnets/WirtgenCBVB20,
+  author    = {Thomas Wirtgen and
+               Quentin De Coninck and
+               Randy Bush and
+               Laurent Vanbever and
+               Olivier Bonaventure},
+  title     = {xBGP: When You Can't Wait for the {IETF} and Vendors},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/hotnets/BeckettM20,
+  author    = {Ryan Beckett and
+               Ratul Mahajan},
+  title     = {A General Framework for Compositional Network Modeling},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {8-15},
+}
+
+@inproceedings{DBLP:conf/hotnets/QiuKLC20,
+  author    = {Yiming Qiu and
+               Qiao Kang and
+               Ming Liu and
+               Ang Chen},
+  title     = {Clara: Performance Clarity for {SmartNIC} Offloading},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {16-22},
+}
+
+@inproceedings{DBLP:conf/hotnets/AshokDNPSG20,
+  author    = {Sachin Ashok and
+               Sai Surya Duvvuri and
+               Nagarajan Natarajan and
+               Venkata N. Padmanabhan and
+               Sundararajan Sellamanickam and
+               Johannes Gehrke},
+  title     = {iBox: Internet in a Box},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {23-29},
+}
+
+@inproceedings{DBLP:conf/hotnets/BrownAKKRSS20,
+  author    = {Lloyd Brown and
+               Ganesh Ananthanarayanan and
+               Ethan Katz-Bassett and
+               Arvind Krishnamurthy and
+               Sylvia Ratnasamy and
+               Michael Schapira and
+               Scott Shenker},
+  title     = {On the Future of Congestion Control for the Public Internet},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {30-37},
+}
+
+@inproceedings{DBLP:conf/hotnets/AmaroLOKPRS20,
+  author    = {Emmanuel Amaro and
+               Zhihong Luo and
+               Amy Ousterhout and
+               Arvind Krishnamurthy and
+               Aurojit Panda and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Remote Memory Calls},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {38-44},
+}
+
+@inproceedings{DBLP:conf/hotnets/RochetAB20,
+  author    = {Florentin Rochet and
+               Emery Assogba and
+               Olivier Bonaventure},
+  title     = {TCPLS: Closely Integrating {TCP} and {TLS}},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {45-52},
+}
+
+@inproceedings{DBLP:conf/hotnets/NarayanPABKS20,
+  author    = {Akshay Narayan and
+               Aurojit Panda and
+               Mohammad Alizadeh and
+               Hari Balakrishnan and
+               Arvind Krishnamurthy and
+               Scott Shenker},
+  title     = {Bertha: Tunneling through the Network {API}},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {53-59},
+}
+
+@inproceedings{DBLP:conf/hotnets/0001SSW20,
+  author    = {Chen Qian and
+               Shouqian Shi and
+               Xiaofeng Shi and
+               Minmei Wang},
+  title     = {Don't Work on Individual Data Plane Algorithms. Put Them Together!},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {60-66},
+}
+
+@inproceedings{DBLP:conf/hotnets/HarshJG20,
+  author    = {Vipul Harsh and
+               Sangeetha Abdu Jyothi and
+               Philip Brighten Godfrey},
+  title     = {Spineless Data Centers},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {67-73},
+}
+
+@inproceedings{DBLP:conf/hotnets/WeissKG20,
+  author    = {Jonathan Weiss and
+               Albert Kwon and
+               Yossi Gilad},
+  title     = {Proving Server Faults: {RPCs} for Distributed Systems in Byzantine Networks},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {74-80},
+}
+
+@inproceedings{DBLP:conf/hotnets/ZhangHGSLYZ20,
+  author    = {Peng Zhang and
+               Yuhao Huang and
+               Aaron Gember-Jacobson and
+               Wenbo Shi and
+               Xu Liu and
+               Hongkun Yang and
+               Zhiqiang Zuo},
+  title     = {Incremental Network Configuration Verification},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {81-87},
+}
+
+@inproceedings{DBLP:conf/hotnets/RotmanST20,
+  author    = {Noga H. Rotman and
+               Michael Schapira and
+               Aviv Tamar},
+  title     = {Online Safety Assurance for {Learning-Augmented} Systems},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {88-95},
+}
+
+@inproceedings{DBLP:conf/hotnets/LiuKCG20,
+  author    = {Bingzhe Liu and
+               Ali Kheradmand and
+               Matthew Caesar and
+               Philip Brighten Godfrey},
+  title     = {Towards Verified {Self-Driving} Infrastructure},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {96-102},
+}
+
+@inproceedings{DBLP:conf/hotnets/DackowWNKB20,
+  author    = {Kevin Dackow and
+               Andrew Wagner and
+               Tim Nelson and
+               Shriram Krishnamurthi and
+               Theophilus A. Benson},
+  title     = {{Solver-Aided} {Multi-Party} Configuration},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {103-109},
+}
+
+@inproceedings{DBLP:conf/hotnets/KimVJ20,
+  author    = {Minsung Kim and
+               Davide Venturelli and
+               Kyle Jamieson},
+  title     = {Towards Hybrid {Classical-Quantum} Computation Structures in {Wirelessly-Networked} Systems},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {110-116},
+}
+
+@inproceedings{DBLP:conf/hotnets/SinghGK20,
+  author    = {Vaibhav Singh and
+               Akshay Gadre and
+               Swarun Kumar},
+  title     = {Full Duplex Radios: Are we there yet?},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {117-124},
+}
+
+@inproceedings{DBLP:conf/hotnets/Ghaffarivardavagh20,
+  author    = {Reza Ghaffarivardavagh and
+               Sayed Saad Afzal and
+               Osvy Rodriguez and
+               Fadel Adib},
+  title     = {Underwater Backscatter Localization: Toward a {Battery-Free} Underwater {GPS}},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {125-131},
+}
+
+@inproceedings{DBLP:conf/hotnets/0002A20,
+  author    = {Ali Abedi and
+               Omid Abari},
+  title     = {{WiFi} Says "Hi!" Back to Strangers!},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {132-138},
+}
+
+@inproceedings{DBLP:conf/hotnets/MazaheriCA20,
+  author    = {Mohammad Hossein Mazaheri and
+               Alex Chen and
+               Omid Abari},
+  title     = {Millimeter Wave Backscatter: Toward Batteryless Wireless Networking at Gigabit Speeds},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {139-145},
+}
+
+@inproceedings{DBLP:conf/hotnets/WintermeyerADV20,
+  author    = {Patrick Wintermeyer and
+               Maria Apostolaki and
+               Alexander Dietmüller and
+               Laurent Vanbever},
+  title     = {P2GO: P4 {Profile-Guided} Optimizations},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {146-152},
+}
+
+@inproceedings{DBLP:conf/hotnets/GebaraLYYCG20,
+  author    = {Nadeen Gebara and
+               Alberto Lerner and
+               Mingran Yang and
+               Minlan Yu and
+               Paolo Costa and
+               Manya Ghobadi},
+  title     = {Challenging the Stateless Quo of Programmable Switches},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {153-159},
+}
+
+@inproceedings{DBLP:conf/hotnets/ZenoPNS20,
+  author    = {Lior Zeno and
+               Dan R. K. Ports and
+               Jacob Nelson and
+               Mark Silberstein},
+  title     = {SwiShmem: Distributed Shared State Abstractions for Programmable Switches},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {160-167},
+}
+
+@inproceedings{DBLP:conf/hotnets/HoganFARWH20,
+  author    = {Mary Hogan and
+               Shir Landau Feibish and
+               Mina Tahmasbi Arashloo and
+               Jennifer Rexford and
+               David Walker and
+               Rob Harrison},
+  title     = {Elastic Switch Programming with P4All},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {168-174},
+}
+
+@inproceedings{DBLP:conf/hotnets/DasS20,
+  author    = {Rajdeep Das and
+               Alex C. Snoeren},
+  title     = {Enabling Active Networking on {RMT} Hardware},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {175-181},
+}
+
+@inproceedings{DBLP:conf/hotnets/MohanCZBWK20,
+  author    = {Nitinder Mohan and
+               Lorenzo Corneo and
+               Aleksandr Zavodovski and
+               Suzan Bayhan and
+               Walter Wong and
+               Jussi Kangasharju},
+  title     = {Pruning Edge Research with Latency Shears},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {182-189},
+}
+
+@inproceedings{DBLP:conf/hotnets/VasishtC20,
+  author    = {Deepak Vasisht and
+               Ranveer Chandra},
+  title     = {A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {190-196},
+}
+
+@inproceedings{DBLP:conf/hotnets/BhattacherjeeKL20,
+  author    = {Debopam Bhattacherjee and
+               Simon Kassing and
+               Melissa Licciardello and
+               Ankit Singla},
+  title     = {In-orbit Computing: An Outlandish thought Experiment?},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {197-204},
+}
+
+@inproceedings{DBLP:conf/hotnets/HauriBGS20,
+  author    = {Yannick Hauri and
+               Debopam Bhattacherjee and
+               Manuel Grossmann and
+               Ankit Singla},
+  title     = {"Internet from Space" without Inter-satellite Links},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {205-211},
+}
+
+@inproceedings{DBLP:conf/hotnets/HsuCBG20,
+  author    = {Ke-Jou Hsu and
+               James Choncholas and
+               Ketan Bhardwaj and
+               Ada Gavrilovska},
+  title     = {{DNS} Does Not Suffice for {MEC-CDN}},
+  booktitle = hotnets,
+  year      = 2020,
+  pages     = {212-218},
+}
+
 @inproceedings{DBLP:conf/hotnets/Allman19,
   author    = {Mark Allman},
   title     = {On Eliminating Root Nameservers from the {DNS}},
@@ -279,7 +615,7 @@
 }
 
 @inproceedings{DBLP:conf/hotnets/StephensAS18,
-  author    = {Brent Stephens and
+  author    = {Brent E. Stephens and
                Aditya Akella and
                Michael M. Swift},
   title     = {Your Programmable {NIC} Should be a Programmable Switch},
@@ -2002,7 +2338,7 @@
 }
 
 @inproceedings{DBLP:conf/hotnets/StephensCR13,
-  author    = {Brent Stephens and
+  author    = {Brent E. Stephens and
                Alan L. Cox and
                Scott Rixner},
   title     = {Plinko: building provably resilient forwarding tables},

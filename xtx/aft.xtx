@@ -1,5 +1,200 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/aft/ChanS20,
+  author    = {Benjamin Y. Chan and
+               Elaine Shi},
+  title     = {Streamlet: Textbook Streamlined Blockchains},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/aft/BonehEHG20,
+  author    = {Dan Boneh and
+               Saba Eskandarian and
+               Lucjan Hanzlik and
+               Nicola Greco},
+  title     = {Single Secret Leader Election},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {12-24},
+}
+
+@inproceedings{DBLP:conf/aft/Kursawe20,
+  author    = {Klaus Kursawe},
+  title     = {Wendy, the Good Little Fairness Widget: Achieving Order Fairness for Blockchains},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/aft/TochnerZ20,
+  author    = {Saar Tochner and
+               Aviv Zohar},
+  title     = {How to Pick Your Friends A Game Theoretic Approach to P2P Overlay Construction},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {37-45},
+}
+
+@inproceedings{DBLP:conf/aft/NeuderMRP20,
+  author    = {Michael Neuder and
+               Daniel J. Moroz and
+               Rithvik Rao and
+               David C. Parkes},
+  title     = {Defending Against Malicious Reorgs in Tezos {Proof-of-Stake}},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {46-58},
+}
+
+@inproceedings{DBLP:conf/aft/Klages-MundtHGL20,
+  author    = {Ariah Klages-Mundt and
+               Dominik Harz and
+               Lewis Gudgeon and
+               Jun-You Liu and
+               Andreea Minca},
+  title     = {Stablecoins 2.0: Economic Foundations and Risk-based Models},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {59-79},
+}
+
+@inproceedings{DBLP:conf/aft/AngerisC20,
+  author    = {Guillermo Angeris and
+               Tarun Chitra},
+  title     = {Improved Price Oracles: Constant Function Market Makers},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {80-91},
+}
+
+@inproceedings{DBLP:conf/aft/GudgeonW0K20,
+  author    = {Lewis Gudgeon and
+               Sam Werner and
+               Daniel Pérez and
+               William J. Knottenbelt},
+  title     = {{DeFi} Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {92-112},
+}
+
+@inproceedings{DBLP:conf/aft/ZurET20,
+  author    = {Roi Bar Zur and
+               Ittay Eyal and
+               Aviv Tamar},
+  title     = {Efficient {MDP} Analysis for {Selfish-Mining} in Blockchains},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {113-131},
+}
+
+@inproceedings{DBLP:conf/aft/DaveasKKZ20,
+  author    = {Stelios Daveas and
+               Kostis Karantias and
+               Aggelos Kiayias and
+               Dionysis Zindros},
+  title     = {A {Gas-Efficient} Superlight Bitcoin Client in Solidity},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {132-144},
+}
+
+@inproceedings{DBLP:conf/aft/HomoliakBHHBS20,
+  author    = {Ivan Homoliak and
+               Dominik Breitenbacher and
+               Ondrej Hujnak and
+               Pieter H. Hartel and
+               Alexander Binder and
+               Pawel Szalachowski},
+  title     = {SmartOTPs: An {Air-Gapped} 2-Factor Authentication for {Smart-Contract} Wallets},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {145-162},
+}
+
+@inproceedings{DBLP:conf/aft/BaudetDS20,
+  author    = {Mathieu Baudet and
+               George Danezis and
+               Alberto Sonnino},
+  title     = {FastPay: {High-Performance} Byzantine Fault Tolerant Settlement},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {163-177},
+}
+
+@inproceedings{DBLP:conf/aft/WangW20,
+  author    = {Ye Wang and
+               Roger Wattenhofer},
+  title     = {Asynchronous Byzantine Agreement in Incomplete Networks},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {178-188},
+}
+
+@inproceedings{DBLP:conf/aft/AzouviDN20,
+  author    = {Sarah Azouvi and
+               George Danezis and
+               Valeria Nikolaenko},
+  title     = {Winkle: Foiling {Long-Range} Attacks in {Proof-of-Stake} Systems},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {189-201},
+}
+
+@inproceedings{DBLP:conf/aft/HarrisZ20,
+  author    = {Jona Harris and
+               Aviv Zohar},
+  title     = {Flood & Loot: A Systemic Attack on The Lightning Network},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {202-213},
+}
+
+@inproceedings{DBLP:conf/aft/RohrerT20,
+  author    = {Elias Rohrer and
+               Florian Tschorsch},
+  title     = {Counting Down Thunder: Timing Attacks on Privacy in Payment Channel Networks},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {214-227},
+}
+
+@inproceedings{DBLP:conf/aft/TochnerZ020,
+  author    = {Saar Tochner and
+               Aviv Zohar and
+               Stefan Schmid},
+  title     = {Route Hijacking and {DoS} in {Off-Chain} Networks},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {228-240},
+}
+
+@inproceedings{DBLP:conf/aft/AdkinsAKM20,
+  author    = {Daniel Adkins and
+               Archita Agarwal and
+               Seny Kamara and
+               Tarik Moataz},
+  title     = {Encrypted Blockchain Databases},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {241-254},
+}
+
+@inproceedings{DBLP:conf/aft/AndroulakiCCDET20,
+  author    = {Elli Androulaki and
+               Jan Camenisch and
+               Angelo De Caro and
+               Maria Dubovitskaya and
+               Kaoutar Elkhiyaoui and
+               Björn Tackmann},
+  title     = {Privacy-preserving auditable token payments in a permissioned blockchain system},
+  booktitle = aft,
+  year      = 2020,
+  pages     = {255-267},
+}
+
 @inproceedings{DBLP:conf/aft/ZhangDBMJ19,
   author    = {Fan Zhang and
                Philip Daian and

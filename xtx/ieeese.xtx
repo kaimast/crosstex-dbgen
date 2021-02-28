@@ -1,5 +1,309 @@
 @include journals-cs
 
+@article{DBLP:journals/tse/El-FakihB21,
+  author    = {Khaled El-Fakih and
+               Gregor V. Bochmann},
+  title     = {Symbolic Refinement of Extended State Machines with Applications to the Automatic Derivation of {Sub-Components} and Controllers},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {1-16},
+}
+
+@article{DBLP:journals/tse/SobrinhoLM21,
+  author    = {Elder Vicente de Paulo Sobrinho and
+               Andrea De Lucia and
+               Marcelo de Almeida Maia},
+  title     = {A Systematic Literature Review on Bad Smells-5 W's: Which, When, What, Who, Where},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {17-66},
+}
+
+@article{DBLP:journals/tse/DamTPNGG21,
+  author    = {Hoa Khanh Dam and
+               Truyen Tran and
+               Trang Pham and
+               Shien Wee Ng and
+               John Grundy and
+               Aditya Ghose},
+  title     = {Automatic Feature Learning for Predicting Vulnerable Software Components},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {67-85},
+}
+
+@article{DBLP:journals/tse/PradhanWAYL21,
+  author    = {Dipesh Pradhan and
+               Shuai Wang and
+               Shaukat Ali and
+               Tao Yue and
+               Marius Liaaen},
+  title     = {CBGA-ES+: A {Cluster-Based} Genetic Algorithm with {Non-Dominated} Elitist Selection for Supporting {Multi-Objective} Test Optimization},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {86-107},
+}
+
+@article{DBLP:journals/tse/PalombaTFOZS21,
+  author    = {Fabio Palomba and
+               Damian Andrew Tamburri and
+               Francesca Arcelli Fontana and
+               Rocco Oliveto and
+               Andy Zaidman and
+               Alexander Serebrenik},
+  title     = {Beyond Technical Aspects: How Do Community Smells Influence the Intensity of Code Smells?},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {108-129},
+}
+
+@article{DBLP:journals/tse/PanachDMEVPJ21,
+  author    = {José Ignacio Panach and
+               Oscar Dieste and
+               Beatriz Marín and
+               Sergio España and
+               Sira Vegas and
+               Oscar Pastor and
+               Natalia Juristo},
+  title     = {Evaluating {Model-Driven} Development Claims with Respect to Quality: A Family of Experiments},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {130-145},
+}
+
+@article{DBLP:journals/tse/PassosQMBACP21,
+  author    = {Leonardo Teixeira Passos and
+               Rodrigo Queiroz and
+               Mukelabai Mukelabai and
+               Thorsten Berger and
+               Sven Apel and
+               Krzysztof Czarnecki and
+               Jesús Alejandro Padilla},
+  title     = {A Study of Feature Scattering in the Linux Kernel},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {146-164},
+}
+
+@article{DBLP:journals/tse/LiuKBYT21,
+  author    = {Kui Liu and
+               Dongsun Kim and
+               Tegawendé F. Bissyandé and
+               Shin Yoo and
+               Yves Le Traon},
+  title     = {Mining Fix Patterns for {FindBugs} Violations},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {165-188},
+}
+
+@article{DBLP:journals/tse/WangSQJ21,
+  author    = {Jingyi Wang and
+               Jun Sun and
+               Shengchao Qin and
+               Cyrille Jégourel},
+  title     = {Automatically 'Verifying' {Discrete-Time} Complex Systems through Learning, Abstraction and Refinement},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {189-203},
+}
+
+@article{DBLP:journals/tse/AghajaniBLL21,
+  author    = {Emad Aghajani and
+               Gabriele Bavota and
+               Mario Linares-Vásquez and
+               Michele Lanza},
+  title     = {Automated Documentation of Android Apps},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {1},
+  year      = 2021,
+  pages     = {204-220},
+}
+
+@article{DBLP:journals/tse/YuLCZZCL21,
+  author    = {Le Yu and
+               Xiapu Luo and
+               Jiachi Chen and
+               Hao Zhou and
+               Tao Zhang and
+               Henry Chang and
+               Hareton K. N. Leung},
+  title     = {PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {221-242},
+}
+
+@article{DBLP:journals/tse/ZhouPXSJLD21,
+  author    = {Xiang Zhou and
+               Xin Peng and
+               Tao Xie and
+               Jun Sun and
+               Chao Ji and
+               Wenhai Li and
+               Dan Ding},
+  title     = {Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {243-260},
+}
+
+@article{DBLP:journals/tse/ChenWHXZZX21,
+  author    = {Junjie Chen and
+               Guancheng Wang and
+               Dan Hao and
+               Yingfei Xiong and
+               Hongyu Zhang and
+               Lu Zhang and
+               Bing Xie},
+  title     = {Coverage Prediction for Accelerating Compiler Testing},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {261-278},
+}
+
+@article{DBLP:journals/tse/GhassabaniWGH21,
+  author    = {Elaheh Ghassabani and
+               Michael W. Whalen and
+               Andrew Gacek and
+               Mats Per Erik Heimdahl},
+  title     = {Inductive Validity Cores},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {279-299},
+}
+
+@article{DBLP:journals/tse/Al-SubaihinSBCH21,
+  author    = {Afnan A. Al-Subaihin and
+               Federica Sarro and
+               Sue Black and
+               Licia Capra and
+               Mark Harman},
+  title     = {App Store Effects on Software Engineering Practices},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {300-319},
+}
+
+@article{DBLP:journals/tse/JiarpakdeeTH21,
+  author    = {Jirayus Jiarpakdee and
+               Chakkrit Tantithamthavorn and
+               Ahmed E. Hassan},
+  title     = {The Impact of Correlated Metrics on the Interpretation of Defect Models},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {320-331},
+}
+
+@article{DBLP:journals/tse/ZouLXEZ21,
+  author    = {Daming Zou and
+               Jingjing Liang and
+               Yingfei Xiong and
+               Michael D. Ernst and
+               Lu Zhang},
+  title     = {An Empirical Study of Fault Localization Families and Their Combinations},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {332-347},
+}
+
+@article{DBLP:journals/tse/QuZCJHCZL21,
+  author    = {Yu Qu and
+               Qinghua Zheng and
+               Jianlei Chi and
+               Yangxu Jin and
+               Ancheng He and
+               Di Cui and
+               Hengshan Zhang and
+               Ting Liu},
+  title     = {Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {348-366},
+}
+
+@article{DBLP:journals/tse/NoeiZZ21,
+  author    = {Ehsan Noei and
+               Feng Zhang and
+               Ying Zou},
+  title     = {Too Many User-Reviews! What Should App Developers Look at First?},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {367-378},
+}
+
+@article{DBLP:journals/tse/PerezL21,
+  author    = {Danilo Dominguez Perez and
+               Wei Le},
+  title     = {Specifying Callback Control Flow of Mobile Apps Using Finite Automata},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {379-392},
+}
+
+@article{DBLP:journals/tse/NayebiRZ21,
+  author    = {Maleknaz Nayebi and
+               Guenther Ruhe and
+               Thomas Zimmermann},
+  title     = {Mining {Treatment-Outcome} Constructs from Sequential Software Engineering Data},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {393-411},
+}
+
+@article{DBLP:journals/tse/PerezAD21,
+  author    = {Alexandre Perez and
+               Rui Abreu and
+               Arie van Deursen},
+  title     = {A Theoretical and Empirical Analysis of Program Spectra Diagnosability},
+  journal   = ieeese,
+  volume    = {47},
+  number    = {2},
+  year      = 2021,
+  pages     = {412-431},
+}
+
 @article{DBLP:journals/tse/FucciSRJ20,
   author    = {Davide Fucci and
                Giuseppe Scanniello and
@@ -343,7 +647,7 @@
   author    = {Xintao Niu and
                Changhai Nie and
                Hareton Leung and
-               Jeff Yu Lei and
+               Yu Lei and
                Xiaoyin Wang and
                Jiaxi Xu and
                Yan Wang},
@@ -357,7 +661,7 @@
 
 @article{DBLP:journals/tse/GhandehariLKKXK20,
   author    = {Laleh Shikh Gholamhossein Ghandehari and
-               Jeff Yu Lei and
+               Yu Lei and
                Raghu Kacker and
                D. Richard Kuhn and
                Tao Xie and
@@ -524,6 +828,320 @@
   number    = {8},
   year      = 2020,
   pages     = {892-915},
+}
+
+@article{DBLP:journals/tse/ZhangYZHLL20,
+  author    = {Xiaodong Zhang and
+               Zijiang Yang and
+               Qinghua Zheng and
+               Yu Hao and
+               Pei Liu and
+               Ting Liu},
+  title     = {Tell You a Definite Answer: Whether Your Data is Tainted During Thread Scheduling},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {916-931},
+}
+
+@article{DBLP:journals/tse/AlizadehKMOOC20,
+  author    = {Vahid Alizadeh and
+               Marouane Kessentini and
+               Mohamed Wiem Mkaouer and
+               Mel Ocinneide and
+               Ali Ouni and
+               Yuanfang Cai},
+  title     = {An Interactive and Dynamic {Search-Based} Approach to Software Refactoring Recommendations},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {932-961},
+}
+
+@article{DBLP:journals/tse/BarcombKRSF20,
+  author    = {Ann Barcomb and
+               Andreas Kaufmann and
+               Dirk Riehle and
+               Klaas-Jan Stol and
+               Brian Fitzgerald},
+  title     = {Uncovering the Periphery: A Qualitative Survey of Episodic Volunteering in Free/Libre and Open Source Software Communities},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {962-980},
+}
+
+@article{DBLP:journals/tse/LiWWWWLXHZ20,
+  author    = {Menghao Li and
+               Pei Wang and
+               Wei Wang and
+               Shuai Wang and
+               Dinghao Wu and
+               Jian Liu and
+               Rui Xue and
+               Wei Huo and
+               Wei Zou},
+  title     = {{Large-Scale} {Third-Party} Library Detection in Android Markets},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {981-1003},
+}
+
+@article{DBLP:journals/tse/ZhouWYCPG20,
+  author    = {Yu Zhou and
+               Changzhi Wang and
+               Xin Yan and
+               Taolue Chen and
+               Sebastiano Panichella and
+               Harald C. Gall},
+  title     = {Automatic Detection and Repair Recommendation of Directive Defects in Java {API} Documentation},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {1004-1023},
+}
+
+@article{DBLP:journals/tse/WangCH20,
+  author    = {Shaowei Wang and
+               Tse-Hsun Chen and
+               Ahmed E. Hassan},
+  title     = {How Do Users Revise Answers on Technical Q&A Websites? A Case Study on Stack Overflow},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {1024-1038},
+}
+
+@article{DBLP:journals/tse/JiangLZZ20,
+  author    = {Yanjie Jiang and
+               Hui Liu and
+               Jiaqi Zhu and
+               Lu Zhang},
+  title     = {Corrections to "Automatic and Accurate Expansion of Abbreviations in Parameters"},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {9},
+  year      = 2020,
+  pages     = {1039},
+}
+
+@article{DBLP:journals/tse/YuanB20,
+  author    = {Yuan Yuan and
+               Wolfgang Banzhaf},
+  title     = {ARJA: Automated Repair of Java Programs via {Multi-Objective} Genetic Programming},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {10},
+  year      = 2020,
+  pages     = {1040-1067},
+}
+
+@article{DBLP:journals/tse/CorleyDK20,
+  author    = {Christopher S. Corley and
+               Kostadin Damevski and
+               Nicholas A. Kraft},
+  title     = {{Changeset-Based} Topic Modeling of Software Repositories},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {10},
+  year      = 2020,
+  pages     = {1068-1080},
+}
+
+@article{DBLP:journals/tse/LiJKC20,
+  author    = {Xiaochen Li and
+               He Jiang and
+               Yasutaka Kamei and
+               Xin Chen},
+  title     = {Bridging Semantic Gaps between Natural Languages and {APIs} with Word Embedding},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {10},
+  year      = 2020,
+  pages     = {1081-1097},
+}
+
+@article{DBLP:journals/tse/HuangXLM20,
+  author    = {Qiao Huang and
+               Xin Xia and
+               David Lo and
+               Gail C. Murphy},
+  title     = {Automating Intention Mining},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {10},
+  year      = 2020,
+  pages     = {1098-1119},
+}
+
+@article{DBLP:journals/tse/ZhouSCT20,
+  author    = {Zhi Quan Zhou and
+               Liqun Sun and
+               Tsong Yueh Chen and
+               Dave Towey},
+  title     = {Metamorphic Relations for Enhancing System Understanding and Use},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {10},
+  year      = 2020,
+  pages     = {1120-1154},
+}
+
+@article{DBLP:journals/tse/WenWC20,
+  author    = {Ming Wen and
+               Rongxin Wu and
+               Shing-Chi Cheung},
+  title     = {How Well Do Change Sequences Predict Defects? Sequence Learning from Software Changes},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {11},
+  year      = 2020,
+  pages     = {1155-1175},
+}
+
+@article{DBLP:journals/tse/WeiLCHLL20,
+  author    = {Lili Wei and
+               Yepang Liu and
+               Shing-Chi Cheung and
+               Huaxun Huang and
+               Xuan Lu and
+               Xuanzhe Liu},
+  title     = {Understanding and Detecting {Fragmentation-Induced} Compatibility Issues for Android Apps},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {11},
+  year      = 2020,
+  pages     = {1176-1199},
+}
+
+@article{DBLP:journals/tse/Tantithamthavorn20,
+  author    = {Chakkrit Tantithamthavorn and
+               Ahmed E. Hassan and
+               Kenichi Matsumoto},
+  title     = {The Impact of Class Rebalancing Techniques on the Performance and Interpretation of Defect Prediction Models},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {11},
+  year      = 2020,
+  pages     = {1200-1219},
+}
+
+@article{DBLP:journals/tse/NahabedianBDHKT20,
+  author    = {Leandro Nahabedian and
+               Víctor A. Braberman and
+               Nicolás D'Ippolito and
+               Shinichi Honiden and
+               Jeff Kramer and
+               Kenji Tei and
+               Sebastián Uchitel},
+  title     = {Dynamic Update of Discrete Event Controllers},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {11},
+  year      = 2020,
+  pages     = {1220-1240},
+}
+
+@article{DBLP:journals/tse/WanXHLYY20,
+  author    = {Zhiyuan Wan and
+               Xin Xia and
+               Ahmed E. Hassan and
+               David Lo and
+               Jianwei Yin and
+               Xiaohu Yang},
+  title     = {Perceptions, Expectations, and Challenges in Defect Prediction},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {11},
+  year      = 2020,
+  pages     = {1241-1266},
+}
+
+@article{DBLP:journals/tse/WangLNT20,
+  author    = {Song Wang and
+               Taiyue Liu and
+               Jaechang Nam and
+               Lin Tan},
+  title     = {Deep Semantic Feature Learning for Software Defect Prediction},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {12},
+  year      = 2020,
+  pages     = {1267-1293},
+}
+
+@article{DBLP:journals/tse/SoltaniPD20,
+  author    = {Mozhan Soltani and
+               Annibale Panichella and
+               Arie van Deursen},
+  title     = {{Search-Based} Crash Reproduction and Its Impact on Debugging},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {12},
+  year      = 2020,
+  pages     = {1294-1317},
+}
+
+@article{DBLP:journals/tse/MohananiSTRR20,
+  author    = {Rahul Mohanani and
+               Iflaah Salman and
+               Burak Turhan and
+               Pilar Rodríguez and
+               Paul Ralph},
+  title     = {Cognitive Biases in Software Engineering: A Systematic Mapping Study},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {12},
+  year      = 2020,
+  pages     = {1318-1339},
+}
+
+@article{DBLP:journals/tse/RodriguezMT20,
+  author    = {Pilar Rodríguez and
+               Emilia Mendes and
+               Burak Turhan},
+  title     = {Key Stakeholders' Value Propositions for Feature Selection in {Software-Intensive} Products: An Industrial Case Study},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {12},
+  year      = 2020,
+  pages     = {1340-1363},
+}
+
+@article{DBLP:journals/tse/KarimTSS20,
+  author    = {Rezwana Karim and
+               Frank Tip and
+               Alena Sochurková and
+               Koushik Sen},
+  title     = {{Platform-Independent} Dynamic Taint Analysis for {JavaScript}},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {12},
+  year      = 2020,
+  pages     = {1364-1379},
+}
+
+@article{DBLP:journals/tse/IannucciAMHLKH20,
+  author    = {Stefano Iannucci and
+               Sherif Abdelwahed and
+               Andrea Montemaggio and
+               Melissa Hannis and
+               Leslie Leonard and
+               Jason S. King and
+               John Hamilton},
+  title     = {A {Model-Integrated} Approach to Designing {Self-Protecting} Systems},
+  journal   = ieeese,
+  volume    = {46},
+  number    = {12},
+  year      = 2020,
+  pages     = {1380-1392},
 }
 
 @article{DBLP:journals/tse/Medvidovic19,
@@ -1725,7 +2343,7 @@
                Christian Bird and
                Premkumar T. Devanbu and
                Mark Marron and
-               Charles A. Sutton},
+               Charles Sutton},
   title     = {Mining Semantic Loop Idioms},
   journal   = ieeese,
   volume    = {44},
@@ -2854,7 +3472,7 @@
                Razvan Ranca and
                Miltiadis Allamanis and
                Mirella Lapata and
-               Charles A. Sutton},
+               Charles Sutton},
   title     = {Autofolding for Source Code Summarization},
   journal   = ieeese,
   volume    = {43},
@@ -3070,7 +3688,7 @@
                Brian Fitzgerald and
                Miryung Kim and
                Sunghun Kim and
-               A. J. Ko and
+               Amy J. Ko and
                Emilia Mendes and
                Raffaela Mirandola and
                Ana Moreira and
@@ -4481,7 +5099,7 @@
 }
 
 @article{DBLP:journals/tse/ClarkeOLY15,
-  author    = {Paul Clarke and
+  author    = {Paul M. Clarke and
                Rory V. O'Connor and
                Brian Leavy and
                Murat Yilmaz},
@@ -4534,7 +5152,7 @@
 
 @article{DBLP:journals/tse/GouesHSBDFW15,
   author    = {Claire Le Goues and
-               Neal Holtschulte and
+               Neal J. Holtschulte and
                Edward K. Smith and
                Yuriy Brun and
                Premkumar T. Devanbu and
@@ -11754,7 +12372,7 @@
 }
 
 @article{DBLP:journals/tse/KoMCA06,
-  author    = {A. J. Ko and
+  author    = {Amy J. Ko and
                Brad A. Myers and
                Michael J. Coblenz and
                Htet Htet Aung},
@@ -31519,7 +32137,7 @@
 }
 
 @article{DBLP:journals/tse/LiC87,
-  author    = {H. F. Li and
+  author    = {Hon Fung Li and
                W. K. Cheung},
   title     = {An Empirical Study of Software Metrics},
   journal   = ieeese,
@@ -36663,7 +37281,7 @@
 }
 
 @article{DBLP:journals/tse/Hawryszkiewycz83,
-  author    = {Igor Hawryszkiewycz},
+  author    = {Igor T. Hawryszkiewycz},
   title     = {A Semantic Design Method},
   journal   = ieeese,
   volume    = {9},
@@ -41043,7 +41661,7 @@
 }
 
 @article{DBLP:journals/tse/HamiltonZ76,
-  author    = {Margaret Hamilton and
+  author    = {Margaret H. Hamilton and
                Saydean Zeldin},
   title     = {Higher Order Software - A Methodology for Defining Software},
   journal   = ieeese,

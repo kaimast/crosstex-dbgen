@@ -1,5 +1,664 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/imc/FeldmannGLPPDWW20,
+  author    = {Anja Feldmann and
+               Oliver Gasser and
+               Franziska Lichtblau and
+               Enric Pujol and
+               Ingmar Poese and
+               Christoph Dietzel and
+               Daniel Wagner and
+               Matthias Wichtlhuber and
+               Juan Tapiador and
+               Narseo Vallina-Rodriguez and
+               Oliver Hohlfeld and
+               Georgios Smaragdakis},
+  title     = {The Lockdown Effect: Implications of the COVID-19 Pandemic on Internet Traffic},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/imc/LutuPBFK20,
+  author    = {Andra Lutu and
+               Diego Perino and
+               Marcelo Bagnulo and
+               Enrique Frías-Martínez and
+               Javad Khangosstar},
+  title     = {A Characterization of the COVID-19 Pandemic Impact on a Mobile Network Operator Traffic},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {19-33},
+}
+
+@inproceedings{DBLP:conf/imc/BottgerIV20,
+  author    = {Timm Böttger and
+               Ghida Ibrahim and
+               Ben Vallis},
+  title     = {How the Internet reacted to Covid-19: A perspective from Facebook's Edge Network},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {34-41},
+}
+
+@inproceedings{DBLP:conf/imc/MouraCHWH20,
+  author    = {Giovane C. M. Moura and
+               Sebastian Castro and
+               Wes Hardaker and
+               Maarten Wullink and
+               Cristian Hesselman},
+  title     = {Clouding up the Internet: how centralized is {DNS} traffic becoming?},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {42-49},
+}
+
+@inproceedings{DBLP:conf/imc/RandallLAPVSS20,
+  author    = {Audrey Randall and
+               Enze Liu and
+               Gautam Akiwate and
+               Ramakrishna Padmanabhan and
+               Geoffrey M. Voelker and
+               Stefan Savage and
+               Aaron Schulman},
+  title     = {Trufflehunter: Cache Snooping Rare Domains at Large Public {DNS} Resolvers},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {50-64},
+}
+
+@inproceedings{DBLP:conf/imc/DeccioHBAR20,
+  author    = {Casey Deccio and
+               Alden Hilton and
+               Michael Briggs and
+               Trevin Avery and
+               Robert Richardson},
+  title     = {Behind Closed Doors: A Network Tale of Spoofing, Intrusion, and False {DNS} Security},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {65-77},
+}
+
+@inproceedings{DBLP:conf/imc/MaroofiKD20,
+  author    = {Sourena Maroofi and
+               Maciej Korczynski and
+               Andrzej Duda},
+  title     = {Are You Human?: Resilience of Phishing Detection to Evasion Techniques Based on Human Verification},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {78-86},
+}
+
+@inproceedings{DBLP:conf/imc/SaidiMKHDCSF20,
+  author    = {Said Jawad Saidi and
+               Anna Maria Mandalari and
+               Roman Kolcun and
+               Hamed Haddadi and
+               Daniel J. Dubois and
+               David R. Choffnes and
+               Georgios Smaragdakis and
+               Anja Feldmann},
+  title     = {A Haystack Full of Needles: Scalable Detection of {IoT} Devices in the Wild},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {87-100},
+}
+
+@inproceedings{DBLP:conf/imc/DahlmannsLFPWH20,
+  author    = {Markus Dahlmanns and
+               Johannes Lohmöller and
+               Ina Berenice Fink and
+               Jan Pennekamp and
+               Klaus Wehrle and
+               Martin Henze},
+  title     = {Easing the Conscience with {OPC} UA: An {Internet-Wide} Study on Insecure Deployments},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {101-110},
+}
+
+@inproceedings{DBLP:conf/imc/AliceBCBH20,
+  author    = {Alice and
+               Bob and
+               Carol and
+               Jan Beznazwy and
+               Amir Houmansadr},
+  title     = {How China Detects and Blocks Shadowsocks},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {111-124},
+}
+
+@inproceedings{DBLP:conf/imc/RamanEWHE20,
+  author    = {Ram Sundara Raman and
+               Leonid Evdokimov and
+               Eric Wustrow and
+               J. Alex Halderman and
+               Roya Ensafi},
+  title     = {Investigating Large Scale {HTTPS} Interception in Kazakhstan},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {125-132},
+}
+
+@inproceedings{DBLP:conf/imc/RyeBB20,
+  author    = {Erik C. Rye and
+               Jeremy Blackburn and
+               Robert Beverly},
+  title     = {Reading {In-Between} the Lines: An Analysis of Dissenter},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {133-146},
+}
+
+@inproceedings{DBLP:conf/imc/LutuJFBP20,
+  author    = {Andra Lutu and
+               Byungjin Jun and
+               Alessandro Finamore and
+               Fabián E. Bustamante and
+               Diego Perino},
+  title     = {Where Things Roam: Uncovering Cellular IoT/M2M Connectivity},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {147-161},
+}
+
+@inproceedings{DBLP:conf/imc/AndersonBB20,
+  author    = {Scott Anderson and
+               Carol Barford and
+               Paul Barford},
+  title     = {Five Alarms: Assessing the Vulnerability of {US} Cellular Communication Infrastructure to Wildfires},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {162-175},
+}
+
+@inproceedings{DBLP:conf/imc/NarayananRMHLFD20,
+  author    = {Arvind Narayanan and
+               Eman Ramadan and
+               Rishabh Mehta and
+               Xinyue Hu and
+               Qingxu Liu and
+               Rostand A. K. Fezeu and
+               Udhaya Kumar Dayalan and
+               Saurabh Verma and
+               Peiqi Ji and
+               Tao Li and
+               Feng Qian and
+               Zhi-Li Zhang},
+  title     = {Lumos5G: Mapping and Predicting Commercial {mmWave} 5G Throughput},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {176-193},
+}
+
+@inproceedings{DBLP:conf/imc/LiuBMCB20,
+  author    = {Shucheng Liu and
+               Zachary S. Bischof and
+               Ishaan Madan and
+               Peter K. Chan and
+               Fabián E. Bustamante},
+  title     = {Out of Sight, Not Out of Mind: A {User-View} on the Criticality of the Submarine Cable Network},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {194-200},
+}
+
+@inproceedings{DBLP:conf/imc/MaiQSMC20,
+  author    = {Kelvin Mai and
+               Xi Qin and
+               Neil Ortiz Silva and
+               Jason Molina and
+               Alvaro A. Cárdenas},
+  title     = {Uncharted Networks: A First Measurement Study of the Bulk Power System},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {201-213},
+}
+
+@inproceedings{DBLP:conf/imc/KassingBASS20,
+  author    = {Simon Kassing and
+               Debopam Bhattacherjee and
+               André Baptista Águas and
+               Jens Eirik Saethre and
+               Ankit Singla},
+  title     = {Exploring the "Internet from space" with Hypatia},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {214-229},
+}
+
+@inproceedings{DBLP:conf/imc/ArnoldHJCCGK20,
+  author    = {Todd Arnold and
+               Jia He and
+               Weifan Jiang and
+               Matt Calder and
+               Ítalo Cunha and
+               Vasileios Giotsas and
+               Ethan Katz-Bassett},
+  title     = {Cloud Provider Connectivity in the Flat Internet},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {230-246},
+}
+
+@inproceedings{DBLP:conf/imc/GiotsasKFCCMK20,
+  author    = {Vasileios Giotsas and
+               Thomas Koch and
+               Elverton C. Fazzion and
+               Ítalo Cunha and
+               Matt Calder and
+               Harsha V. Madhyastha and
+               Ethan Katz-Bassett},
+  title     = {Reduce, Reuse, Recycle: Repurposing Existing Measurements to Identify Stale Traceroutes},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {247-265},
+}
+
+@inproceedings{DBLP:conf/imc/JinSYYWW20,
+  author    = {Zitong Jin and
+               Xingang Shi and
+               Yan Yang and
+               Xia Yin and
+               Zhiliang Wang and
+               Jianping Wu},
+  title     = {TopoScope: Recover {AS} Relationships From Fragmentary Observations},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {266-280},
+}
+
+@inproceedings{DBLP:conf/imc/AkiwateJSFVSC20,
+  author    = {Gautam Akiwate and
+               Mattijs Jonker and
+               Raffaele Sommese and
+               Ian D. Foster and
+               Geoffrey M. Voelker and
+               Stefan Savage and
+               kc claffy},
+  title     = {Unresolved Issues: Prevalence, Persistence, and Perils of Lame Delegations},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {281-294},
+}
+
+@inproceedings{DBLP:conf/imc/MullerTCJR20,
+  author    = {Moritz Müller and
+               Willem Toorop and
+               Taejoong Chung and
+               Jelte Jansen and
+               Roland van Rijswijk-Deij},
+  title     = {The Reality of Algorithm Agility: Studying the {DNSSEC} Algorithm {Life-Cycle}},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/imc/Allman20,
+  author    = {Mark Allman},
+  title     = {Putting {DNS} in Context},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {309-316},
+}
+
+@inproceedings{DBLP:conf/imc/HilsWB20,
+  author    = {Maximilian Hils and
+               Daniel W. Woods and
+               Rainer Böhme},
+  title     = {Measuring the Emergence of Consent Management on the Web},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {317-332},
+}
+
+@inproceedings{DBLP:conf/imc/VenkatadriM20,
+  author    = {Giridhari Venkatadri and
+               Alan Mislove},
+  title     = {On the Potential for Discrimination via Composition},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {333-344},
+}
+
+@inproceedings{DBLP:conf/imc/HoseiniMJB0FZ20,
+  author    = {Mohamad Hoseini and
+               Philipe F. Melo and
+               Manoel Junior and
+               Fabrício Benevenuto and
+               Balakrishnan Chandrasekaran and
+               Anja Feldmann and
+               Savvas Zannettou},
+  title     = {Demystifying the Messaging Platforms' Ecosystem Through the Lens of Twitter},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {345-359},
+}
+
+@inproceedings{DBLP:conf/imc/RamanathanHMYA20,
+  author    = {Sivaramakrishnan Ramanathan and
+               Anushah Hossain and
+               Jelena Mirkovic and
+               Minlan Yu and
+               Sadia Afroz},
+  title     = {Quantifying the Impact of Blocklisting in the Age of Address Reuse},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {360-369},
+}
+
+@inproceedings{DBLP:conf/imc/LiC20,
+  author    = {Song Li and
+               Yinzhi Cao},
+  title     = {Who Touched My Browser Fingerprint?: A Large-scale Measurement Study and Classification of Fingerprint Dynamics},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {370-385},
+}
+
+@inproceedings{DBLP:conf/imc/LuckieMFHC20,
+  author    = {Matthew Luckie and
+               Alexander Marder and
+               Marianne Fletcher and
+               Bradley Huffaker and
+               kc claffy},
+  title     = {Learning to Extract and Use {ASNs} in Hostnames},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {386-392},
+}
+
+@inproceedings{DBLP:conf/imc/MajorTM20,
+  author    = {David Major and
+               Ross Teixeira and
+               Jonathan Mayer},
+  title     = {No {WAN's} Land: Mapping U.S. Broadband Coverage with Millions of Address Queries to {ISPs}},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {393-419},
+}
+
+@inproceedings{DBLP:conf/imc/FontugneSC20,
+  author    = {Romain Fontugne and
+               Anant Shah and
+               Kenjiro Cho},
+  title     = {Persistent Last-mile Congestion: Not so Uncommon},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {420-427},
+}
+
+@inproceedings{DBLP:conf/imc/LiF20,
+  author    = {Frank Li and
+               David Freeman},
+  title     = {Towards A {User-Level} Understanding of IPv6 Behavior},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {428-442},
+}
+
+@inproceedings{DBLP:conf/imc/HuangRA20,
+  author    = {Yuchen Huang and
+               Michael Rabinovich and
+               Rami Al-Dalky},
+  title     = {FlashRoute: Efficient Traceroute on a Massive Scale},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {443-455},
+}
+
+@inproceedings{DBLP:conf/imc/SommeseBAJRDCS20,
+  author    = {Raffaele Sommese and
+               Leandro Marcio Bertholdo and
+               Gautam Akiwate and
+               Mattijs Jonker and
+               Roland van Rijswijk-Deij and
+               Alberto Dainotti and
+               kc claffy and
+               Anna Sperotto},
+  title     = {MAnycast2: Using Anycast to Measure Anycast},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {456-463},
+}
+
+@inproceedings{DBLP:conf/imc/0001JWFS20,
+  author    = {Zinan Lin and
+               Alankar Jain and
+               Chen Wang and
+               Giulia C. Fanti and
+               Vyas Sekar},
+  title     = {Using {GANs} for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {464-483},
+}
+
+@inproceedings{DBLP:conf/imc/KristoffBKMPSW20,
+  author    = {John Kristoff and
+               Randy Bush and
+               Chris Kanich and
+               George Michaelson and
+               Amreesh Phokeer and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {On Measuring {RPKI} Relying Parties},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {484-491},
+}
+
+@inproceedings{DBLP:conf/imc/GrayMBPRSW20,
+  author    = {Caitlin Gray and
+               Clemens Mosig and
+               Randy Bush and
+               Cristel Pelsser and
+               Matthew Roughan and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {{BGP} Beacons, Network Tomography, and Bayesian Computation to Locate Route Flap Damping},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {492-505},
+}
+
+@inproceedings{DBLP:conf/imc/MarcosPLDFB20,
+  author    = {Pedro de B. Marcos and
+               Lars Prehn and
+               Lucas Leal and
+               Alberto Dainotti and
+               Anja Feldmann and
+               Marinho P. Barcellos},
+  title     = {{AS-Path} Prepending: there is no rose without a thorn},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {506-520},
+}
+
+@inproceedings{DBLP:conf/imc/BhattacherjeeAL20,
+  author    = {Debopam Bhattacherjee and
+               Waqar Aqeel and
+               Gregory Laughlin and
+               Bruce M. Maggs and
+               Ankit Singla},
+  title     = {A Bird's Eye View of the World's Fastest Networks},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {521-527},
+}
+
+@inproceedings{DBLP:conf/imc/Pan0DCLZTX20,
+  author    = {Heng Pan and
+               Zhenyu Li and
+               Jianbo Dong and
+               Zheng Cao and
+               Tao Lan and
+               Di Zhang and
+               Gareth Tyson and
+               Gaogang Xie},
+  title     = {Dissecting the Communication Latency in Distributed Deep Sparse Learning},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {528-534},
+}
+
+@inproceedings{DBLP:conf/imc/PerezXL20,
+  author    = {Daniel Pérez and
+               Jiahua Xu and
+               Benjamin Livshits},
+  title     = {Revisiting Transactional Statistics of High-scalability Blockchains},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {535-550},
+}
+
+@inproceedings{DBLP:conf/imc/VuHPCCSH20,
+  author    = {Anh V. Vu and
+               Jack Hughes and
+               Ildiko Pete and
+               Ben Collier and
+               Yi Ting Chua and
+               Ilia Shumailov and
+               Alice Hutchings},
+  title     = {Turning Up the Dial: the Evolution of a Cybercrime Market Through Set-up, Stable, and Covid-19 Eras},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {551-566},
+}
+
+@inproceedings{DBLP:conf/imc/SimoiuZTB20,
+  author    = {Camelia Simoiu and
+               Ali Zand and
+               Kurt Thomas and
+               Elie Bursztein},
+  title     = {Who is targeted by email-based phishing and malware?: Measuring factors that differentiate risk},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {567-576},
+}
+
+@inproceedings{DBLP:conf/imc/SinganamallaJAK20,
+  author    = {Sudheesh Singanamalla and
+               Esther Han Beol Jang and
+               Richard J. Anderson and
+               Tadayoshi Kohno and
+               Kurtis Heimerl},
+  title     = {Accept the Risk and Continue: Measuring the Long Tail of Government https Adoption},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {577-597},
+}
+
+@inproceedings{DBLP:conf/imc/VallinaPFPGBHTV20,
+  author    = {Pelayo Vallina and
+               Victor Le Pochat and
+               Álvaro Feal and
+               Marius Paraschiv and
+               Julien Gamba and
+               Tim Burke and
+               Oliver Hohlfeld and
+               Juan Tapiador and
+               Narseo Vallina-Rodriguez},
+  title     = {Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {598-618},
+}
+
+@inproceedings{DBLP:conf/imc/MaticISL20,
+  author    = {Srdjan Matic and
+               Costas Iordanou and
+               Georgios Smaragdakis and
+               Nikolaos Laoutaris},
+  title     = {Identifying Sensitive {URLs} {atWeb-Scale}},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {619-633},
+}
+
+@inproceedings{DBLP:conf/imc/KashafSA20,
+  author    = {Aqsa Kashaf and
+               Vyas Sekar and
+               Yuvraj Agarwal},
+  title     = {Analyzing Third Party Service Dependencies in Modern Web Services: Have We Learned from the {Mirai-Dyn} Incident?},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {634-647},
+}
+
+@inproceedings{DBLP:conf/imc/SarkerJK20,
+  author    = {Shaown Sarker and
+               Jordan Jueckstock and
+               Alexandros Kapravelos},
+  title     = {Hiding in Plain Site: Detecting {JavaScript} Obfuscation through Concealed Browser {API} Usage},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {648-661},
+}
+
+@inproceedings{DBLP:conf/imc/WanIAYHRD20,
+  author    = {Gerry Wan and
+               Liz Izhikevich and
+               David Adrian and
+               Katsunari Yoshioka and
+               Ralph Holz and
+               Christian Rossow and
+               Zakir Durumeric},
+  title     = {On the Origin of Scanning: The Impact of Location on {Internet-Wide} Scans},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {662-679},
+}
+
+@inproceedings{DBLP:conf/imc/Aqeel0FM20,
+  author    = {Waqar Aqeel and
+               Balakrishnan Chandrasekaran and
+               Anja Feldmann and
+               Bruce M. Maggs},
+  title     = {On Landing and Internal Web Pages: The Strange Case of Jekyll and Hyde in Web Performance Measurement},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {680-695},
+}
+
+@inproceedings{DBLP:conf/imc/FarooqiFLMSV20,
+  author    = {Shehroze Farooqi and
+               Álvaro Feal and
+               Tobias Lauinger and
+               Damon McCoy and
+               Zubair Shafiq and
+               Narseo Vallina-Rodriguez},
+  title     = {Understanding Incentivized Mobile App Installs on Google Play Store},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {696-709},
+}
+
+@inproceedings{DBLP:conf/imc/RulaRSB20,
+  author    = {John P. Rula and
+               Philipp Richter and
+               Georgios Smaragdakis and
+               Arthur W. Berger},
+  title     = {Who's left behind?: Measuring Adoption of Application Updates at Scale},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {710-723},
+}
+
+@inproceedings{DBLP:conf/imc/SubramaniYSVLP20,
+  author    = {Karthika Subramani and
+               Xingzi Yuan and
+               Omid Setayeshfar and
+               Phani Vadrevu and
+               Kyu Hyung Lee and
+               Roberto Perdisci},
+  title     = {When Push Comes to Ads: Measuring the Rise of (Malicious) Push Advertising},
+  booktitle = imc,
+  year      = 2020,
+  pages     = {724-737},
+}
+
 @inproceedings{DBLP:conf/imc/MullerTWHCTR19,
   author    = {Moritz Müller and
                Matthew Thomas and
@@ -6066,7 +6725,7 @@
 @inproceedings{DBLP:conf/imc/CoatesPR07,
   author    = {Mark Coates and
                Yvan Pointurier and
-               Michael Rabbat},
+               Michael G. Rabbat},
   title     = {Compressed network monitoring for ip and all-optical networks},
   booktitle = imc,
   year      = 2007,
@@ -7557,7 +8216,7 @@
 
 @inproceedings{DBLP:conf/imc/CoatesRN03,
   author    = {Mark Coates and
-               Michael Rabbat and
+               Michael G. Rabbat and
                Robert D. Nowak},
   title     = {Merging logical topologies using end-to-end measurements},
   booktitle = imc,

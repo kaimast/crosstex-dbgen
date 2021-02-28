@@ -1,5 +1,424 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cloud/CarverZWAWC20,
+  author    = {Benjamin Carver and
+               Jingyuan Zhang and
+               Ao Wang and
+               Ali Anwar and
+               Panruo Wu and
+               Yue Cheng},
+  title     = {Wukong: a scalable and locality-enhanced framework for serverless parallel computing},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/cloud/ThomasAVP20,
+  author    = {Shelby Thomas and
+               Lixiang Ao and
+               Geoffrey M. Voelker and
+               George Porter},
+  title     = {Particle: ephemeral endpoints for serverless networking},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {16-29},
+}
+
+@inproceedings{DBLP:conf/cloud/YuLDXZLYQ020,
+  author    = {Tianyi Yu and
+               Qingyuan Liu and
+               Dong Du and
+               Yubin Xia and
+               Binyu Zang and
+               Ziqian Lu and
+               Pingchao Yang and
+               Chenggang Qin and
+               Haibo Chen},
+  title     = {Characterizing serverless platforms with serverlessbench},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {30-44},
+}
+
+@inproceedings{DBLP:conf/cloud/DukicBSA20,
+  author    = {Vojislav Dukic and
+               Rodrigo Bruno and
+               Ankit Singla and
+               Gustavo Alonso},
+  title     = {Photons: lambdas on a diet},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {45-59},
+}
+
+@inproceedings{DBLP:conf/cloud/ShiFLZ0JHLL20,
+  author    = {Xuanhua Shi and
+               Zezhao Feng and
+               Kaixi Li and
+               Yongluan Zhou and
+               Hai Jin and
+               Yan Jiang and
+               Bingsheng He and
+               Zhijun Ling and
+               Xin Li},
+  title     = {ByteSeries: an in-memory time series database for large-scale monitoring systems},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {60-73},
+}
+
+@inproceedings{DBLP:conf/cloud/KappesA20,
+  author    = {Giorgos Kappes and
+               Stergios V. Anastasiadis},
+  title     = {A user-level toolkit for storage I/O isolation on multitenant hosts},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {74-89},
+}
+
+@inproceedings{DBLP:conf/cloud/SunLS020,
+  author    = {Yu Sun and
+               Jiaxin Lei and
+               Seunghee Shin and
+               Hui Lu},
+  title     = {Baoverlay: a block-accessible overlay file system for fast and efficient container storage},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {90-104},
+}
+
+@inproceedings{DBLP:conf/cloud/KaliaAK20,
+  author    = {Anuj Kalia and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {Challenges and solutions for fast remote persistent memory access},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {105-119},
+}
+
+@inproceedings{DBLP:conf/cloud/ChakraborttiL20,
+  author    = {Chandranil Chakrabortti and
+               Heiner Litz},
+  title     = {Improving the accuracy, adaptability, and interpretability of {SSD} failure prediction models},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {120-133},
+}
+
+@inproceedings{DBLP:conf/cloud/KaffesSL0K20,
+  author    = {Kostis Kaffes and
+               Dragos Sbirlea and
+               Yiyan Lin and
+               David Lo and
+               Christos Kozyrakis},
+  title     = {Leveraging application classes to save power in highly-utilized data centers},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {134-149},
+}
+
+@inproceedings{DBLP:conf/cloud/AsyabiBSZ20,
+  author    = {Esmail Asyabi and
+               Azer Bestavros and
+               Erfan Sharafzadeh and
+               Timothy Zhu},
+  title     = {Peafowl: in-application {CPU} scheduling to reduce power consumption of in-memory key-value stores},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {150-164},
+}
+
+@inproceedings{DBLP:conf/cloud/KimWGKA20,
+  author    = {Thomas Kim and
+               Daniel Lin-Kit Wong and
+               Gregory R. Ganger and
+               Michael Kaminsky and
+               David G. Andersen},
+  title     = {High availability in cheap distributed key value storage},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {165-178},
+}
+
+@inproceedings{DBLP:conf/cloud/Shi0XLLZ020,
+  author    = {Shouqian Shi and
+               Ye Yu and
+               Minghao Xie and
+               Xin Li and
+               Xiaozhou Li and
+               Ying Zhang and
+               Chen Qian},
+  title     = {Concury: a fast and light-weight software cloud load balancer},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {179-192},
+}
+
+@inproceedings{DBLP:conf/cloud/KogiasIB20,
+  author    = {Marios Kogias and
+               Rishabh Iyer and
+               Edouard Bugnion},
+  title     = {Bypassing the load balancer without regrets},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {193-207},
+}
+
+@inproceedings{DBLP:conf/cloud/0007CR20,
+  author    = {Muhammad Bilal and
+               Marco Canini and
+               Rodrigo Rodrigues},
+  title     = {Finding the right cloud configuration for analytics clusters},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {208-222},
+}
+
+@inproceedings{DBLP:conf/cloud/LiWCLX20,
+  author    = {Peilun Li and
+               Guosai Wang and
+               Xiaoqi Chen and
+               Fan Long and
+               Wei Xu},
+  title     = {Gosig: a scalable and high-performance byzantine consensus for consortium blockchains},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {223-237},
+}
+
+@inproceedings{DBLP:conf/cloud/HanLLWZL20,
+  author    = {Yilin Han and
+               Chenxing Li and
+               Peilun Li and
+               Ming Wu and
+               Dong Zhou and
+               Fan Long},
+  title     = {Shrec: bandwidth-efficient transaction relay in high-throughput blockchain systems},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {238-252},
+}
+
+@inproceedings{DBLP:conf/cloud/HarcholMFMPS20,
+  author    = {Yotam Harchol and
+               Aisha Mushtaq and
+               Vivian Fang and
+               James Murphy McCauley and
+               Aurojit Panda and
+               Scott Shenker},
+  title     = {Making edge-computing resilient},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {253-266},
+}
+
+@inproceedings{DBLP:conf/cloud/AlvarezHAS20,
+  author    = {Catalina Álvarez and
+               Zhenhao He and
+               Gustavo Alonso and
+               Ankit Singla},
+  title     = {Specializing the network for scatter-gather workloads},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {267-280},
+}
+
+@inproceedings{DBLP:conf/cloud/ShankarKVPRSRJV20,
+  author    = {Vaishaal Shankar and
+               Karl Krauth and
+               Kailas Vodrahalli and
+               Qifan Pu and
+               Benjamin Recht and
+               Ion Stoica and
+               Jonathan Ragan-Kelley and
+               Eric Jonas and
+               Shivaram Venkataraman},
+  title     = {Serverless linear algebra},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {281-295},
+}
+
+@inproceedings{DBLP:conf/cloud/SinghviKAB20,
+  author    = {Arjun Singhvi and
+               Junaid Khalid and
+               Aditya Akella and
+               Sujata Banerjee},
+  title     = {SNF: serverless network functions},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {296-310},
+}
+
+@inproceedings{DBLP:conf/cloud/TariqPNRL20,
+  author    = {Ali Tariq and
+               Austin Pahl and
+               Sharat Nimmagadda and
+               Eric Rozner and
+               Siddharth Lanka},
+  title     = {Sequoia: enabling quality-of-service in serverless computing},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {311-327},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangFPS20,
+  author    = {Wen Zhang and
+               Vivian Fang and
+               Aurojit Panda and
+               Scott Shenker},
+  title     = {Kappa: a programming framework for serverless computing},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {328-343},
+}
+
+@inproceedings{DBLP:conf/cloud/HeDGJ20,
+  author    = {Jingzhu He and
+               Ting Dai and
+               Xiaohui Gu and
+               Guoliang Jin},
+  title     = {HangFix: automatically fixing software hang bugs for production cloud systems},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {344-357},
+}
+
+@inproceedings{DBLP:conf/cloud/DaiKKZ20,
+  author    = {Ting Dai and
+               Alexei A. Karve and
+               Grzegorz Koper and
+               Sai Zeng},
+  title     = {Automatically detecting risky scripts in infrastructure code},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {358-371},
+}
+
+@inproceedings{DBLP:conf/cloud/TeohGK20,
+  author    = {Jason Teoh and
+               Muhammad Ali Gulzar and
+               Miryung Kim},
+  title     = {Influence-based provenance for dataflow applications with taint propagation},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {372-386},
+}
+
+@inproceedings{DBLP:conf/cloud/TrachFOOBF20,
+  author    = {Bohdan Trach and
+               Rasha Faqeh and
+               Oleksii Oleksenko and
+               Wojciech Ozga and
+               Pramod Bhatotia and
+               Christof Fetzer},
+  title     = {T-Lease: a trusted lease primitive for distributed systems},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {387-400},
+}
+
+@inproceedings{DBLP:conf/cloud/LinLMLX20,
+  author    = {Zhiqi Lin and
+               Cheng Li and
+               Youshan Miao and
+               Yunxin Liu and
+               Yinlong Xu},
+  title     = {PaGraph: Scaling {GNN} training on large graphs via computation-aware caching},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {401-415},
+}
+
+@inproceedings{DBLP:conf/cloud/JeonCSJKMXG20,
+  author    = {Beomyeol Jeon and
+               Linda Cai and
+               Pallavi Srivastava and
+               Jintao Jiang and
+               Xiaolan Ke and
+               Yitao Meng and
+               Cong Xie and
+               Indranil Gupta},
+  title     = {Baechi: fast device placement of machine learning graphs},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {416-430},
+}
+
+@inproceedings{DBLP:conf/cloud/0015W0L020,
+  author    = {Chen Chen and
+               Qizhen Weng and
+               Wei Wang and
+               Baochun Li and
+               Bo Li},
+  title     = {Semi-dynamic load balancing: efficient distributed learning in non-dedicated environments},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {431-446},
+}
+
+@inproceedings{DBLP:conf/cloud/ViswanathanBA20,
+  author    = {Raajay Viswanathan and
+               Arjun Balasubramanian and
+               Aditya Akella},
+  title     = {Network-accelerated distributed machine learning for multi-tenant settings},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {447-461},
+}
+
+@inproceedings{DBLP:conf/cloud/KimKR0CTL20,
+  author    = {Kyungtae Kim and
+               Chung Hwan Kim and
+               Junghwan John Rhee and
+               Xiao Yu and
+               Haifeng Chen and
+               Dave (Jing) Tian and
+               Byoungyoung Lee},
+  title     = {Vessels: efficient and scalable deep learning prediction on trusted processors},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {462-476},
+}
+
+@inproceedings{DBLP:conf/cloud/CrankshawSMZS0T20,
+  author    = {Daniel Crankshaw and
+               Gur-Eyal Sela and
+               Xiangxi Mo and
+               Corey Zumar and
+               Ion Stoica and
+               Joseph Gonzalez and
+               Alexey Tumanov},
+  title     = {InferLine: latency-aware provisioning and scaling for prediction serving pipelines},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {477-491},
+}
+
+@inproceedings{DBLP:conf/cloud/DhakalKR20,
+  author    = {Aditya Dhakal and
+               Sameer G. Kulkarni and
+               K. K. Ramakrishnan},
+  title     = {GSLICE: controlled spatial sharing of {GPUs} for a scalable inference platform},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {492-506},
+}
+
+@inproceedings{DBLP:conf/cloud/ChenPBWZG20,
+  author    = {Yangrui Chen and
+               Yanghua Peng and
+               Yixin Bao and
+               Chuan Wu and
+               Yibo Zhu and
+               Chuanxiong Guo},
+  title     = {Elastic parameter server load distribution in deep learning clusters},
+  booktitle = socc,
+  year      = 2020,
+  pages     = {507-521},
+}
+
 @inproceedings{DBLP:conf/cloud/Zhang00S19,
   author    = {Tian Zhang and
                Dong Xie and
@@ -837,7 +1256,7 @@
 
 @inproceedings{DBLP:conf/cloud/LeSSAS18,
   author    = {Yanfang Le and
-               Brent Stephens and
+               Brent E. Stephens and
                Arjun Singhvi and
                Aditya Akella and
                Michael M. Swift},

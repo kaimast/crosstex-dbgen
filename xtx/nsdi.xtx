@@ -55,7 +55,7 @@
 
 @inproceedings{DBLP:conf/nsdi/MoonLJP20,
   author    = {YoungGyoun Moon and
-               Seungeon Lee and
+               SeungEon Lee and
                Muhammad Asim Jamshed and
                KyoungSoo Park},
   title     = {AccelTCP: Accelerating Network Applications with Stateful {TCP} Offloading},
@@ -816,7 +816,7 @@
 @inproceedings{DBLP:conf/nsdi/KaliaKA19,
   author    = {Anuj Kalia and
                Michael Kaminsky and
-               David Andersen},
+               David G. Andersen},
   title     = {Datacenter {RPCs} can be General and Fast},
   booktitle = nsdi,
   year      = 2019,
@@ -838,7 +838,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/StephensAS19,
-  author    = {Brent Stephens and
+  author    = {Brent E. Stephens and
                Aditya Akella and
                Michael M. Swift},
   title     = {Loom: Flexible and Efficient {NIC} Packet Scheduling},
