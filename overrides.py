@@ -5,6 +5,13 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
 
 CONFERENCE_LOCATIONS = {
      '':{}
+     ,'atc':        {2021: ('Virtual', 'jul')
+                    ,2020: ('Virtual', 'jul')
+                    ,2019: ('Renton', 'jul')
+                    }
+    ,'asplos':      {2021: ('Virtual', 'apr')
+                    ,2017: ('Xian', 'apr')
+                    }
     ,'ccs':         {2021: ('Virtual', 'nov')
                     ,2020: ('Virtual', 'nov')
                     }
@@ -60,7 +67,10 @@ CONFERENCE_LOCATIONS = {
     ,'nsdi':        {2021: ('Virtual', 'apr')
                     ,2018: ('Renton', 'apr')
                     }
-    ,'sigcomm':     {2018: ('Budapest', 'aug')
+    ,'sigcomm':     {2021: ('Virtual', 'aug')
+                    ,2020: ('Virtual', 'aug')
+                    ,2018: ('Budapest', 'aug')
+                    ,2016: ('Florianopolis', 'aug')
                     ,1997: ('Cannes', 'sep')
                     ,1996: ('Stanford', 'aug')
                     ,1995: ('CambridgeMA', 'aug')
@@ -101,7 +111,9 @@ CONFERENCE_LOCATIONS = {
                     ,1984: ('Boston', 'jun')
                     ,1983: ('SanJose', 'may')
                     }
-    ,'podc':        {2018: ('London', 'jul')
+    ,'podc':        {2021: ('Virtua', 'aug')
+                    ,2020: ('Virtual', 'aug')
+                    ,2018: ('London', 'jul')
                     ,2015: ('Donostia', 'jul')
                     }
     ,'popl':        {2016: ('StPetersburg', 'jan')

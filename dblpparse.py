@@ -629,6 +629,7 @@ class DBLPProcessor:
 
 
 d = DBLPProcessor(infilename='dblp.xml', cachefilename='dblp.xml.pp', outdir='xtx')
+d.add_conference('asplos',      'ASPLOS', 'International Conference on Architectural Support for Programming Languages and Operating Systems')
 d.add_conference('atc',         'ATC', 'USENIX Annual Technical Conference', names=('{USENIX} ATC', 'USENIX ATC',), prefixes=('conf/usenix',))
 d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('ccs',         'CCS', 'Computer and Communications Security')
@@ -657,12 +658,12 @@ d.add_conference('oakland',     'IEEE S&P', 'IEEE Symposium on Security and Priv
 d.add_conference('wwca',        'WWCA', 'Worldwide Computing and its Applications')
 d.add_conference('cidr',        'CIDR', 'Conference on Innovative Data Systems Research')
 d.add_conference('vldb',        'VLDB', 'International Conference on Very Large Data Bases')
-d.add_workshop('esigops',       'ESIGOPS Workshop', 'European SIGOPS Workshop', prefixes=('conf/sigopsE',), names=('ACM SIGOPS European Workshop',))
+#d.add_workshop('esigops',       'ESIGOPS Workshop', 'European SIGOPS Workshop', prefixes=('conf/sigopsE',), names=('ACM SIGOPS European Workshop',))
 d.add_workshop('grid',          'GRID Workshop', 'International Workshop on Grid Computing', names=('GRID',))
 d.add_workshop('hotstorage',    'HotStorage Workshop', 'Workshop on Hot Topics in Storage and File Systems', names=('HotStorage',))
-d.add_workshop('hotnets',       'HotNets Workshop', 'Workshop on Hot Topics in Networks', names=('HotNets',))
+#d.add_workshop('hotnets',       'HotNets Workshop', 'Workshop on Hot Topics in Networks', names=('HotNets',))
 d.add_workshop('hotos',         'HotOS Workshop', 'Workshop on Hot Topics in Operating Systems', names=('HotOS',))
-d.add_workshop('iptps',         'IPTPS Workshop', 'International Workshop on Peer-to-Peer Systems', names=('IPTPS',))
+#d.add_workshop('iptps',         'IPTPS Workshop', 'International Workshop on Peer-to-Peer Systems', names=('IPTPS',))
 # ACM publications
 d.add_journal('acmcs',          'ACM Computing Surveys', prefixes=('journals/csur',), names=('ACM Comput. Surv.',))
 d.add_journal('cacm',           'CACM', 'Communications of the ACM', names=('Commun. ACM',))

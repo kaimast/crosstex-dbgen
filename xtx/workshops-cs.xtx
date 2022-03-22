@@ -1,21 +1,6 @@
 @include conferences-cs
 @include workshops-cs-todo
 
-@workshop{esigops,
-  shortname = "ESIGOPS Workshop",
-  longname  = "European SIGOPS Workshop",
-  [year=2004] address=Leuven, month=sep,
-  [year=2002] address=SaintEmilion, month=jul,
-  [year=2000] address=Kolding, month=sep,
-  [year=1998] address=Sintra, month=sep,
-  [year=1996] address=Connemara, month=sep,
-  [year=1992] address=MontSaintMichel, month=sep,
-  [year=1990] address=Bologna, month=sep,
-  [year=1988] address=CambridgeUK, month=sep,
-  [year=1986] address=Amsterdam, month=sep,
-  [year=1985] address=Ruschlikon, month=jan,
-}
-
 @workshop{grid,
   shortname = "GRID Workshop",
   longname  = "International Workshop on Grid Computing",
@@ -51,25 +36,6 @@
   [year=2010] address=Boston, month=jun,
 }
 
-@workshop{hotnets,
-  shortname = "HotNets Workshop",
-  longname  = "Workshop on Hot Topics in Networks",
-  [year=2019] address=Princeton, month=nov,
-  [year=2018] address=Redmond, month=nov,
-  [year=2017] address=PaloAlto, month=nov,
-  [year=2016] address=Atlanta, month=nov,
-  [year=2015] address=Philadelphia, month=nov,
-  [year=2014] address=LosAngeles, month=oct,
-  [year=2013] address=CollegePark, month=nov,
-  [year=2012] address=Redmond, month=oct,
-  [year=2011] address=CambridgeMA, month=nov,
-  [year=2010] address=Monterey, month=oct,
-  [year=2009] address=NYC, month=oct,
-  [year=2008] address=Calgary, month=oct,
-  [year=2007] address=Atlanta, month=nov,
-  [year=2006] address=Irvine, month=nov,
-}
-
 @workshop{hotos,
   shortname = "HotOS Workshop",
   longname  = "Workshop on Hot Topics in Operating Systems",
@@ -88,17 +54,4 @@
   [year=1997] address=CapeCod, month=may,
   [year=1995] address=OrcasIsland, month=may,
   [year=1993] address=Napa, month=oct,
-}
-
-@workshop{iptps,
-  shortname = "IPTPS Workshop",
-  longname  = "International Workshop on Peer-to-Peer Systems",
-  [year=2010] address=SanJose, month=apr,
-  [year=2009] address=Boston, month=apr,
-  [year=2008] address=Tampa, month=feb,
-  [year=2007] address=Bellevue, month=feb,
-  [year=2006] address=SantaBarbara, month=feb,
-  [year=2005] address=Ithaca, month=feb,
-  [year=2003] address=Berkeley, month=feb,
-  [year=2002] address=CambridgeMA, month=mar,
 }

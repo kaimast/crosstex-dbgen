@@ -2770,16 +2770,6 @@
   pages     = {1-15},
 }
 
-@inproceedings{DBLP:conf/vldb/HanLX14,
-  author    = {Rui Han and
-               Xiaoyi Lu and
-               Jiangtao Xu},
-  title     = {On Big Data Benchmarking},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {3-18},
-}
-
 @inproceedings{DBLP:conf/vldb/BonifatiCLS14,
   author    = {Angela Bonifati and
                Radu Ciucanu and
@@ -2833,18 +2823,6 @@
   booktitle = vldb,
   year      = 2014,
   pages     = {19},
-}
-
-@inproceedings{DBLP:conf/vldb/ShankarLWIP14,
-  author    = {Dipti Shankar and
-               Xiaoyi Lu and
-               Md. Wasi-ur-Rahman and
-               Nusrat S. Islam and
-               Dhabaleswar K. Panda},
-  title     = {A Micro-benchmark Suite for Evaluating Hadoop {MapReduce} on {High-Performance} Networks},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {19-33},
 }
 
 @inproceedings{DBLP:conf/vldb/NeamtuASHBGMPRW14,
@@ -2910,17 +2888,6 @@
   pages     = {34-45},
 }
 
-@inproceedings{DBLP:conf/vldb/KangJZZ14,
-  author    = {Qiangqiang Kang and
-               Cheqing Jin and
-               Zhao Zhang and
-               Aoying Zhou},
-  title     = {MemTest: A Novel Benchmark for In-memory Database},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {34-46},
-}
-
 @inproceedings{DBLP:conf/vldb/FaustSP14,
   author    = {Martin Faust and
                David Schwalb and
@@ -2943,20 +2910,6 @@
   booktitle = vldb,
   year      = 2014,
   pages     = {45-56},
-}
-
-@inproceedings{DBLP:conf/vldb/WangPEJGOG14,
-  author    = {Shicai Wang and
-               Ioannis Pandis and
-               Ibrahim Emam and
-               David Johnson and
-               Florian Guitton and
-               Axel Oehmichen and
-               Yike Guo},
-  title     = {DSIMBench: A Benchmark for Microarray Data Using R},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {47-56},
 }
 
 @inproceedings{DBLP:conf/vldb/BittorfKRZ14,
@@ -2994,17 +2947,6 @@
   pages     = {57-63},
 }
 
-@inproceedings{DBLP:conf/vldb/AkdoganTKS14,
-  author    = {Afsin Akdogan and
-               Hien To and
-               Seon Ho Kim and
-               Cyrus Shahabi},
-  title     = {A Benchmark to Evaluate Mobile Video Upload to Cloud Infrastructures},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {57-70},
-}
-
 @inproceedings{DBLP:conf/vldb/HoppnerWR14,
   author    = {Bernhard Höppner and
                Ahmadshah Waizy and
@@ -3013,17 +2955,6 @@
   booktitle = vldb,
   year      = 2014,
   pages     = {64-73},
-}
-
-@inproceedings{DBLP:conf/vldb/WangLZZ14,
-  author    = {Huajin Wang and
-               Jianhui Li and
-               Haiming Zhang and
-               Yuanchun Zhou},
-  title     = {Benchmarking Replication and Consistency Strategies in Cloud Serving Databases: {HBase} and Cassandra},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {71-82},
 }
 
 @inproceedings{DBLP:conf/vldb/KissingerKSHML14,
@@ -3039,17 +2970,6 @@
   pages     = {74-85},
 }
 
-@inproceedings{DBLP:conf/vldb/PanYXH14,
-  author    = {Fengfeng Pan and
-               Yinliang Yue and
-               Jin Xiong and
-               Daxiang Hao},
-  title     = {I/O Characterization of Big Data Workloads in Data Centers},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {85-97},
-}
-
 @inproceedings{DBLP:conf/vldb/BroneskeBS14a,
   author    = {David Broneske and
                Sebastian Breß and
@@ -3058,28 +2978,6 @@
   booktitle = vldb,
   year      = 2014,
   pages     = {97-111},
-}
-
-@inproceedings{DBLP:conf/vldb/WangHFK14,
-  author    = {Xiajun Wang and
-               Song Huang and
-               Song Fu and
-               Krishna Kavi},
-  title     = {Characterizing Workload of Web Applications on Virtualized Servers},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {98-108},
-}
-
-@inproceedings{DBLP:conf/vldb/LiangFLX14,
-  author    = {Fan Liang and
-               Chen Feng and
-               Xiaoyi Lu and
-               Zhiwei Xu},
-  title     = {Performance Benefits of DataMPI: A Case Study with {BigDataBench}},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {111-123},
 }
 
 @inproceedings{DBLP:conf/vldb/SchwalbFWGP14a,
@@ -3092,17 +2990,6 @@
   booktitle = vldb,
   year      = 2014,
   pages     = {112-125},
-}
-
-@inproceedings{DBLP:conf/vldb/ChenQHS14,
-  author    = {Pengfei Chen and
-               Yong Qi and
-               Di Hou and
-               Huachong Sun},
-  title     = {InvarNet-X: A Comprehensive Invariant Based Approach for Performance Diagnosis in Big Data Platform},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {124-140},
 }
 
 @inproceedings{DBLP:conf/vldb/BinnaPMS14a,
@@ -3124,76 +3011,6 @@
   booktitle = vldb,
   year      = 2014,
   pages     = {139-150},
-}
-
-@inproceedings{DBLP:conf/vldb/KcF14,
-  author    = {Kamal Kc and
-               Vincent W. Freeh},
-  title     = {Tuning Hadoop Map Slot Value Using {CPU} Metric},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {141-153},
-}
-
-@inproceedings{DBLP:conf/vldb/ChenQBCDDGLLZ14,
-  author    = {Yueguo Chen and
-               Xiongpai Qin and
-               Haoqiong Bian and
-               Jun Chen and
-               Zhaoan Dong and
-               Xiaoyong Du and
-               Yanjie Gao and
-               Dehai Liu and
-               Jiaheng Lu and
-               Huijie Zhang},
-  title     = {A Study of {SQL-on-Hadoop} Systems},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {154-166},
-}
-
-@inproceedings{DBLP:conf/vldb/LiangWFZZ14,
-  author    = {Yi Liang and
-               Yufeng Wang and
-               Minglu Fan and
-               Chen Zhang and
-               Yuqing Zhu},
-  title     = {Predoop: Preempting Reduce Task for Job Execution Accelerations},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {167-180},
-}
-
-@inproceedings{DBLP:conf/vldb/SuzukiVAFS14,
-  author    = {Jun Suzuki and
-               Shivaram Venkataraman and
-               Sameer Agarwal and
-               Michael J. Franklin and
-               Ion Stoica},
-  title     = {Record Placement Based on Data Skew Using Solid State Drives},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {181-193},
-}
-
-@inproceedings{DBLP:conf/vldb/DevresseF14,
-  author    = {Adrien Devresse and
-               Fabrizio Furano},
-  title     = {Efficient {HTTP} Based I/O on Very Large Datasets for High Performance Computing with the Libdavix Library},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {194-205},
-}
-
-@inproceedings{DBLP:conf/vldb/WeiJXC14,
-  author    = {Wei Wei and
-               Dejun Jiang and
-               Jin Xiong and
-               Mingyu Chen},
-  title     = {Exploring Opportunities for Non-volatile Memories in Big Data Applications},
-  booktitle = vldb,
-  year      = 2014,
-  pages     = {209-220},
 }
 
 @inproceedings{DBLP:conf/vldb/Ailamaki13,

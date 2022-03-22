@@ -39,6 +39,7 @@
 @country{NewZealand,          name="New Zealand"}
 @country{PuertoRico,          name="Puerto Rico"}
 @country{Netherlands,         name="The Netherlands"}
+@country{Anywhere,            name="Anywhere"}
 
 % US States
 @default country=USA
@@ -298,6 +299,7 @@
 @location{Elmau,               city="Elmau", country=Germany}
 @location{ElmauOberbayern,     city="Elmau/Oberbayern", country=Germany}
 @location{Florence,            city="Florence", country=Italy}
+@location{Florianopolis,       city="Florianópolis", country=Brazil}
 @location{Funchal,             city="Funchal", country=Portugal}
 @location{Geneva,              city="Geneva", country=Switzerland}
 @location{Genova,              city="Genova", country=Italy}
@@ -391,10 +393,12 @@
 @location{Venice,              city="Venice", country=Italy}
 @location{Victoria,            city="Victoria", country=Canada}
 @location{Vienna,              city="Vienna", country=Austria}
+@location{Virtual,             city="Virtual", country=Anywhere}
 @location{VillaGallia,         city="Villa Gallia", state="Como", country=Italy}
 @location{Warsaw,              city="Warsaw", country=Poland}
 @location{Waterloo,            city="Waterloo", country=Canada}
 @location{WestBerlin,          city="West Berlin", country=Germany}
 @location{Winnipeg,            city="Winnipeg", country=Canada}
+@location{Xian,                city="Xi'an", country=China}
 @location{Yokohama,            city="Yokohama", country=Japan}
 @location{Zurich,              city="Zürich", country=Switzerland}
