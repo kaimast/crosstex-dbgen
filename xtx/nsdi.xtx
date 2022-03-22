@@ -1,5 +1,773 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/Shao0LYZZ21,
+  author    = {Hua Shao and
+               Xiaoliang Wang and
+               Yuanwei Lu and
+               Yanbo Yu and
+               Shengli Zheng and
+               Youjian Zhao},
+  title     = {Accessing Cloud with Disaggregated {Software-Defined} Router},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/nsdi/TsengA0BT21,
+  author    = {Shih-Hao Tseng and
+               Saksham Agarwal and
+               Rachit Agarwal and
+               Hitesh Ballani and
+               Ao Tang},
+  title     = {CodedBulk: {Inter-Datacenter} Bulk Transfers using Network Coding},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuWBS021,
+  author    = {Zhuolong Yu and
+               Jingfeng Wu and
+               Vladimir Braverman and
+               Ion Stoica and
+               Xin Jin},
+  title     = {Twenty Years After: Hierarchical {Core-Stateless} Fair Queueing},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {29-45},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuGAPRS21,
+  author    = {Shiyu Liu and
+               Ahmad Ghalayini and
+               Mohammad Alizadeh and
+               Balaji Prabhakar and
+               Mendel Rosenblum and
+               Anirudh Sivaraman},
+  title     = {Breaking the {Transience-Equilibrium} Nexus: A New Approach to Datacenter Packet Transport},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {47-63},
+}
+
+@inproceedings{DBLP:conf/nsdi/AbhashkumarSAKS21,
+  author    = {Anubhavnidhi Abhashkumar and
+               Kausik Subramanian and
+               Alexey Andreyev and
+               Hyojeong Kim and
+               Nanda Kishore Salem and
+               Jingyi Yang and
+               Petr Lapukhov and
+               Aditya Akella and
+               Hongyi Zeng},
+  title     = {Running {BGP} in Data Centers at Scale},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {65-81},
+}
+
+@inproceedings{DBLP:conf/nsdi/FergusonGHKMMOP21,
+  author    = {Andrew D. Ferguson and
+               Steve D. Gribble and
+               Chi-Yao Hong and
+               Charles Edwin Killian and
+               Waqar Mohsin and
+               Henrik Mühe and
+               Joon Ong and
+               Leon Poutievski and
+               Arjun Singh and
+               Lorenzo Vicisano and
+               Richard Alimi and
+               Shawn Shuoshuo Chen and
+               Mike Conley and
+               Subhasree Mandal and
+               Karthik Nagaraj and
+               Kondapa Naidu Bollineni and
+               Amr Sabaa and
+               Shidong Zhang and
+               Min Zhu and
+               Amin Vahdat},
+  title     = {Orion: Google's {Software-Defined} Networking Control Plane},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {83-98},
+}
+
+@inproceedings{DBLP:conf/nsdi/BirknerBTVV21,
+  author    = {Rüdiger Birkner and
+               Tobias Brodmann and
+               Petar Tsankov and
+               Laurent Vanbever and
+               Martin T. Vechev},
+  title     = {Metha: Network Verifiers Need To Be Correct Too!},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {99-113},
+}
+
+@inproceedings{DBLP:conf/nsdi/HanceHMP21,
+  author    = {Travis Hance and
+               Marijn Heule and
+               Ruben Martins and
+               Bryan Parno},
+  title     = {Finding Invariants of Distributed Systems: It's a Small (Enough) World After All},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {115-131},
+}
+
+@inproceedings{DBLP:conf/nsdi/CampbellHSCLRHP21,
+  author    = {Eric Hayden Campbell and
+               William T. Hallahan and
+               Priya Srikumar and
+               Carmelo Cascone and
+               Jed Liu and
+               Vignesh Ramamurthy and
+               Hossein Hojjat and
+               Ruzica Piskac and
+               Robert Soulé and
+               Nate Foster},
+  title     = {Avenir: Managing Data Plane Diversity with Control Plane Synthesis},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {133-153},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuSKPSS21,
+  author    = {Guyue Liu and
+               Hugo Sadok and
+               Anne Kohlbrenner and
+               Bryan Parno and
+               Vyas Sekar and
+               Justine Sherry},
+  title     = {Don't Yank My Chain: Auditable {NF} Service Chaining},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {155-173},
+}
+
+@inproceedings{DBLP:conf/nsdi/AbuzaidKAMZB21,
+  author    = {Firas Abuzaid and
+               Srikanth Kandula and
+               Behnaz Arzani and
+               Ishai Menache and
+               Matei Zaharia and
+               Peter Bailis},
+  title     = {Contracting Wide-area Network Topologies to Solve Flow Problems Quickly},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {175-200},
+}
+
+@inproceedings{DBLP:conf/nsdi/SinghACB21,
+  author    = {Rachee Singh and
+               Sharad Agarwal and
+               Matt Calder and
+               Paramvir Bahl},
+  title     = {Cost-effective Cloud Edge Traffic Engineering with Cascara},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {201-216},
+}
+
+@inproceedings{DBLP:conf/nsdi/XiaZZYLABNGG21,
+  author    = {Yiting Xia and
+               Ying Zhang and
+               Zhizhen Zhong and
+               Guanqing Yan and
+               Chiunlin Lim and
+               Satyajeet Singh Ahuja and
+               Soshant Bali and
+               Alexander Nikolaidis and
+               Kimia Ghobadi and
+               Manya Ghobadi},
+  title     = {A Social Network Under Social Distancing: {Risk-Driven} Backbone Management During COVID-19 and Beyond},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {217-231},
+}
+
+@inproceedings{DBLP:conf/nsdi/LandaSBA21,
+  author    = {Raul Landa and
+               Lorenzo Saino and
+               Lennert Buytenhek and
+               João Taveira Araújo},
+  title     = {Staying Alive: Connection Path Reselection at the Edge},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {233-251},
+}
+
+@inproceedings{DBLP:conf/nsdi/KannanBJC21,
+  author    = {Pravein Govindan Kannan and
+               Nishant Budhdev and
+               Raj Joshi and
+               Mun Choon Chan},
+  title     = {Debugging Transient Faults in Data Centers using Synchronized Network-wide Packet Histories},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {253-268},
+}
+
+@inproceedings{DBLP:conf/nsdi/KansalRN21,
+  author    = {Nikhil Kansal and
+               Murali Ramanujam and
+               Ravi Netravali},
+  title     = {Alohamora: Reviving HTTP/2 Push and Preload by Adapting Policies On the Fly},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {269-287},
+}
+
+@inproceedings{DBLP:conf/nsdi/KoMLN21,
+  author    = {Ronny Ko and
+               James Mickens and
+               Blake Loring and
+               Ravi Netravali},
+  title     = {Oblique: Accelerating Page Loads Using Symbolic Execution},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {289-302},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangO0J21,
+  author    = {Xu Zhang and
+               Yiyang Ou and
+               Siddhartha Sen and
+               Junchen Jiang},
+  title     = {SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {303-320},
+}
+
+@inproceedings{DBLP:conf/nsdi/QianMLFLYLZCZ21,
+  author    = {Zhengping Qian and
+               Chenqiang Min and
+               Longbin Lai and
+               Yong Fang and
+               Gaofeng Li and
+               Youyang Yao and
+               Bingqing Lyu and
+               Xiaoli Zhou and
+               Zhimin Chen and
+               Jingren Zhou},
+  title     = {GAIA: A System for Interactive Analysis on Distributed Graphs Using a {High-Level} Language},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {321-335},
+}
+
+@inproceedings{DBLP:conf/nsdi/IyerPPGS21,
+  author    = {Anand Padmanabha Iyer and
+               Qifan Pu and
+               Kishan Patel and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {TEGRA: Efficient {Ad-Hoc} Analytics on Evolving Graphs},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {337-355},
+}
+
+@inproceedings{DBLP:conf/nsdi/Wei00WGZ21,
+  author    = {Xingda Wei and
+               Rong Chen and
+               Haibo Chen and
+               Zhaoguo Wang and
+               Zhenhan Gong and
+               Binyu Zang},
+  title     = {Unifying Timestamp with Transaction Ordering for {MVCC} with Decentralized Scalar Timestamp},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {357-372},
+}
+
+@inproceedings{DBLP:conf/nsdi/PrimoracAB21,
+  author    = {Mia Primorac and
+               Katerina J. Argyraki and
+               Edouard Bugnion},
+  title     = {When to Hedge in Interactive Services},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {373-387},
+}
+
+@inproceedings{DBLP:conf/nsdi/XuVGMP21,
+  author    = {Le Xu and
+               Shivaram Venkataraman and
+               Indranil Gupta and
+               Luo Mai and
+               Rahul Potharaju},
+  title     = {Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {389-405},
+}
+
+@inproceedings{DBLP:conf/nsdi/GrandlSVA21,
+  author    = {Robert Grandl and
+               Arjun Singhvi and
+               Raajay Viswanathan and
+               Aditya Akella},
+  title     = {Whiz: {Data-Driven} Analytics Execution},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {407-423},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenHJCFG21,
+  author    = {Lili Chen and
+               Wenjun Hu and
+               Kyle Jamieson and
+               Xiaojiang Chen and
+               Dingyi Fang and
+               Jeremy Gummeson},
+  title     = {Pushing the Physical Limits of {IoT} Devices with Programmable Metasurfaces},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {425-438},
+}
+
+@inproceedings{DBLP:conf/nsdi/GeissdoerferZ21,
+  author    = {Kai Geissdoerfer and
+               Marco Zimmerling},
+  title     = {Bootstrapping Battery-free Wireless Networks: Efficient Neighbor Discovery and Synchronization in the Face of Intermittency},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {439-455},
+}
+
+@inproceedings{DBLP:conf/nsdi/0004L0ZHCWL21,
+  author    = {Kun Qian and
+               Yumeng Lu and
+               Zheng Yang and
+               Kai Zhang and
+               Kehong Huang and
+               Xinjun Cai and
+               Chenshu Wu and
+               Yunhao Liu},
+  title     = {AIRCODE: Hidden {Screen-Camera} Communication on an Invisible and Inaudible Dual Channel},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {457-470},
+}
+
+@inproceedings{DBLP:conf/nsdi/TanZLXL21,
+  author    = {Zhaowei Tan and
+               Jinghao Zhao and
+               Yuanjie Li and
+               Yifei Xu and
+               Songwu Lu},
+  title     = {{Device-Based} {LTE} Latency Reduction at the Application Layer},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {471-486},
+}
+
+@inproceedings{DBLP:conf/nsdi/GhigoffSLBM21,
+  author    = {Yoann Ghigoff and
+               Julien Sopena and
+               Kahina Lazri and
+               Antoine Blin and
+               Gilles Muller},
+  title     = {BMC: Accelerating Memcached using Safe In-kernel Caching and Pre-stack Processing},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {487-501},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangYV21,
+  author    = {Juncheng Yang and
+               Yao Yue and
+               Rashmi Vinayak},
+  title     = {Segcache: a memory-efficient and scalable in-memory key-value cache for small objects},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {503-518},
+}
+
+@inproceedings{DBLP:conf/nsdi/GaoLTXZPLWLYFZL21,
+  author    = {Yixiao Gao and
+               Qiang Li and
+               Lingbo Tang and
+               Yongqing Xi and
+               Pengcheng Zhang and
+               Wenwen Peng and
+               Bo Li and
+               Yaohui Wu and
+               Shaozong Liu and
+               Lei Yan and
+               Fei Feng and
+               Yan Zhuang and
+               Fan Liu and
+               Pan Liu and
+               Xingkui Liu and
+               Zhongjie Wu and
+               Junping Wu and
+               Zheng Cao and
+               Chen Tian and
+               Jinbo Wu and
+               Jiaji Zhu and
+               Haiyong Wang and
+               Dennis Cai and
+               Jiesheng Wu},
+  title     = {When Cloud Storage Meets {RDMA}},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {519-533},
+}
+
+@inproceedings{DBLP:conf/nsdi/HayakawaHSE21,
+  author    = {Yutaro Hayakawa and
+               Michio Honda and
+               Douglas Santry and
+               Lars Eggert},
+  title     = {Prism: Proxies without the Pain},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {535-549},
+}
+
+@inproceedings{DBLP:conf/nsdi/0011WS0S0H21,
+  author    = {Hao Li and
+               Changhao Wu and
+               Guangda Sun and
+               Peng Zhang and
+               Danfeng Shan and
+               Tian Pan and
+               Chengchen Hu},
+  title     = {Programming Network Stack for Middleboxes with Rubik},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {551-570},
+}
+
+@inproceedings{DBLP:conf/nsdi/SultanaSGPHSBDL21,
+  author    = {Nik Sultana and
+               John Sonchack and
+               Hans Giesen and
+               Isaac Pedisich and
+               Zhaoyang Han and
+               Nishanth Shyamkumar and
+               Shivani Burad and
+               André DeHon and
+               Boon Thau Loo},
+  title     = {Flightplan: Dataplane Disaggregation and Placement for P4 Programs},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {571-592},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiPO21,
+  author    = {Yilong Li and
+               Seo Jin Park and
+               John K. Ousterhout},
+  title     = {{MilliSort} and MilliQuery: {Large-Scale} {Data-Intensive} Computing in Milliseconds},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {593-611},
+}
+
+@inproceedings{DBLP:conf/nsdi/TollmanPO21,
+  author    = {Sarah Tollman and
+               Seo Jin Park and
+               John K. Ousterhout},
+  title     = {{EPaxos} Revisited},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {613-632},
+}
+
+@inproceedings{DBLP:conf/nsdi/YouW0C21,
+  author    = {Jie You and
+               Jingfeng Wu and
+               Xin Jin and
+               Mosharaf Chowdhury},
+  title     = {Ship Compute or Ship Data? Why Not Both?},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {633-651},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangTKCS21,
+  author    = {Hong Zhang and
+               Yupeng Tang and
+               Anurag Khandelwal and
+               Jingrong Chen and
+               Ion Stoica},
+  title     = {Caerus: {NIMBLE} Task Scheduling for Serverless Analytics},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {653-669},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangLOHLCS21,
+  author    = {Stephanie Wang and
+               Eric Liang and
+               Edward Oakes and
+               Benjamin Hindman and
+               Frank Sifei Luan and
+               Audrey Cheng and
+               Ion Stoica},
+  title     = {Ownership: A Distributed Futures System for {Fine-Grained} Tasks},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {671-686},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhouM21,
+  author    = {Siyuan Zhou and
+               Shuai Mu},
+  title     = {{Fault-Tolerant} Replication with {Pull-Based} Consensus in {MongoDB}},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {687-703},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuoHH21,
+  author    = {Peizhen Guo and
+               Bo Hu and
+               Wenjun Hu},
+  title     = {Mistify: Automating {DNN} Model Porting for {On-Device} Inference at the Edge},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {705-719},
+}
+
+@inproceedings{DBLP:conf/nsdi/HwangKKSP21,
+  author    = {Changho Hwang and
+               Taehyun Kim and
+               Sunghyun Kim and
+               Jinwoo Shin and
+               KyoungSoo Park},
+  title     = {Elastic Resource Sharing for Distributed Deep Learning},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {721-739},
+}
+
+@inproceedings{DBLP:conf/nsdi/LaoLMCWAS21,
+  author    = {ChonLam Lao and
+               Yanfang Le and
+               Kshiteej Mahajan and
+               Yixi Chen and
+               Wenfei Wu and
+               Aditya Akella and
+               Michael M. Swift},
+  title     = {ATP: In-network Aggregation for Multi-tenant Learning},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {741-761},
+}
+
+@inproceedings{DBLP:conf/nsdi/FuGMR21,
+  author    = {Silvery Fu and
+               Saurabh Gupta and
+               Radhika Mittal and
+               Sylvia Ratnasamy},
+  title     = {On the Use of {ML} for Blackbox System Performance Prediction},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {763-784},
+}
+
+@inproceedings{DBLP:conf/nsdi/SapioC0NKKKMPR21,
+  author    = {Amedeo Sapio and
+               Marco Canini and
+               Chen-Yu Ho and
+               Jacob Nelson and
+               Panos Kalnis and
+               Changhoon Kim and
+               Arvind Krishnamurthy and
+               Masoud Moshref and
+               Dan R. K. Ports and
+               Peter Richtárik},
+  title     = {Scaling Distributed Machine Learning with {In-Network} Aggregation},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {785-808},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuanZLSZGH21,
+  author    = {Junfeng Guan and
+               Jitian Zhang and
+               Ruochen Lu and
+               Hyungjoo Seo and
+               Jin Zhou and
+               Songbin Gong and
+               Haitham Hassanieh},
+  title     = {Efficient Wideband Spectrum Sensing Using {MEMS} Acoustic Resonators},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {809-825},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuptaGDZSMB21,
+  author    = {Agrim Gupta and
+               Cédric Girerd and
+               Manideep Dunna and
+               Qiming Zhang and
+               Raghav Subbaraman and
+               Tania K. Morimoto and
+               Dinesh Bharadia},
+  title     = {WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {827-844},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangSQ21,
+  author    = {Mei Wang and
+               Wei Sun and
+               Lili Qiu},
+  title     = {MAVL: Multiresolution Analysis of Voice Localization},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {845-858},
+}
+
+@inproceedings{DBLP:conf/nsdi/DingLYLZ021,
+  author    = {Yi Ding and
+               Ling Liu and
+               Yu Yang and
+               Yunhuai Liu and
+               Desheng Zhang and
+               Tian He},
+  title     = {From Conception to Retirement: a Lifetime Story of a 3-{Year-Old} Wireless Beacon System in the Wild},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {859-872},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShenH21,
+  author    = {Cheng Shen and
+               Jun Huang},
+  title     = {EarFisher: Detecting Wireless Eavesdroppers by Stimulating and Sensing Memory {EMR}},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {873-886},
+}
+
+@inproceedings{DBLP:conf/nsdi/Shi0P21,
+  author    = {Junyang Shi and
+               Mo Sha and
+               Xi Peng},
+  title     = {Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {887-901},
+}
+
+@inproceedings{DBLP:conf/nsdi/MadaniJLWH21,
+  author    = {Sohrab Madani and
+               Suraj Jog and
+               Jesús Omar Lacruz and
+               Joerg Widmer and
+               Haitham Hassanieh},
+  title     = {Practical Null Steering in Millimeter Wave Networks},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {903-921},
+}
+
+@inproceedings{DBLP:conf/nsdi/DunnaM0ZMB21,
+  author    = {Manideep Dunna and
+               Miao Meng and
+               Po-Han Wang and
+               Chi Zhang and
+               Patrick P. Mercier and
+               Dinesh Bharadia},
+  title     = {SyncScatter: Enabling {WiFi} like synchronization and range for {WiFi} backscatter Communication},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {923-937},
+}
+
+@inproceedings{DBLP:conf/nsdi/0045C00HZ21,
+  author    = {Xin Liu and
+               Zicheng Chi and
+               Wei Wang and
+               Yao Yao and
+               Pei Hao and
+               Ting Zhu},
+  title     = {Verification and Redesign of {OFDM} Backscatter},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {939-953},
+}
+
+@inproceedings{DBLP:conf/nsdi/KatanbafWT21,
+  author    = {Mohamad Katanbaf and
+               Anthony Weinand and
+               Vamsi Talla},
+  title     = {Simplifying Backscatter Deployment: {Full-Duplex} {LoRa} Backscatter},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {955-972},
+}
+
+@inproceedings{DBLP:conf/nsdi/JogLFFATH21,
+  author    = {Suraj Jog and
+               Zikun Liu and
+               Antonio Franques and
+               Vimuth Fernando and
+               Sergi Abadal and
+               Josep Torrellas and
+               Haitham Hassanieh},
+  title     = {One Protocol to Rule Them All: Wireless {Network-on-Chip} using Deep Reinforcement Learning},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {973-989},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoYLYCLZWWWZ21,
+  author    = {Yikai Zhao and
+               Kaicheng Yang and
+               Zirui Liu and
+               Tong Yang and
+               Li Chen and
+               Shiyi Liu and
+               Naiqian Zheng and
+               Ruixin Wang and
+               Hanbo Wu and
+               Yi Wang and
+               Nicholas Zhang},
+  title     = {LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {991-1010},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangW0LQGMX21,
+  author    = {Xinlei Yang and
+               Xianlong Wang and
+               Zhenhua Li and
+               Yunhao Liu and
+               Feng Qian and
+               Liangyi Gong and
+               Rui Miao and
+               Tianyin Xu},
+  title     = {Fast and Light Bandwidth Testing for Internet Users},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {1011-1026},
+}
+
+@inproceedings{DBLP:conf/nsdi/0001SCBZXZ21,
+  author    = {Qun Huang and
+               Siyuan Sheng and
+               Xiang Chen and
+               Yungang Bao and
+               Rui Zhang and
+               Yanwei Xu and
+               Gong Zhang},
+  title     = {Toward {Nearly-Zero-Error} Sketching via Compressive Sensing},
+  booktitle = nsdi,
+  year      = 2021,
+  pages     = {1027-1044},
+}
+
 @inproceedings{DBLP:conf/nsdi/MelletteDGMSP20,
   author    = {William M. Mellette and
                Rajdeep Das and
@@ -380,7 +1148,7 @@
                Sadjad Fouladi and
                James Hong and
                Keyi Zhang and
-               Philip Levis and
+               Philip Alexander Levis and
                Keith Winstein},
   title     = {Learning in situ: a randomized experiment in video streaming},
   booktitle = nsdi,
@@ -1017,7 +1785,7 @@
                Asaf Valadarsky and
                Hitesh Ballani and
                Paolo Costa and
-               Ki-Suh Lee and
+               Ki Suh Lee and
                Han Wang and
                Rachit Agarwal and
                Hakim Weatherspoon},
@@ -3738,7 +4506,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/LeeWW14,
-  author    = {Ki-Suh Lee and
+  author    = {Ki Suh Lee and
                Han Wang and
                Hakim Weatherspoon},
   title     = {{PHY} Covert Channels: Can you see the Idles?},
@@ -4239,7 +5007,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/LeeWW13,
-  author    = {Ki-Suh Lee and
+  author    = {Ki Suh Lee and
                Han Wang and
                Hakim Weatherspoon},
   title     = {SoNIC: Precise Realtime Software Access and Control of Wired Networks},
@@ -4710,8 +5478,13 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/SinglaSC12,
-  author    = {Ankit Singla and
+  author    = {Kai Chen and
+               Ankit Singla and
                Atul Singh and
+               Kishore Ramachandran and
+               Lei Xu and
+               Yueping Zhang and
+               Xitao Wen and
                Yan Chen},
   title     = {OSA: An Optical Switching Architecture for Data Center Networks with Unprecedented Flexibility},
   booktitle = nsdi,
@@ -5114,7 +5887,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/UyedaFBSV10,
-  author    = {Frank Uyeda and
+  author    = {Frank C. Uyeda and
                Luca Foschini and
                Fred Baker and
                Subhash Suri and
@@ -6978,7 +7751,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/LevisGC05,
-  author    = {Philip Levis and
+  author    = {Philip Alexander Levis and
                David Gay and
                David E. Culler},
   title     = {Active Sensor Networks},
@@ -7079,7 +7852,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/LevisMGPSWBC04,
-  author    = {Philip Levis and
+  author    = {Philip Alexander Levis and
                Samuel Madden and
                David Gay and
                Joseph Polastre and
@@ -7094,7 +7867,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/LevisPCS04,
-  author    = {Philip Levis and
+  author    = {Philip Alexander Levis and
                Neil Patel and
                David E. Culler and
                Scott Shenker},

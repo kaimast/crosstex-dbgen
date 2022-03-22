@@ -1,5 +1,655 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/imc/Wang0LCWC21,
+  author    = {Zhaohua Wang and
+               Zhenyu Li and
+               Guangming Liu and
+               Yunfei Chen and
+               Qinghua Wu and
+               Gang Cheng},
+  title     = {Examination of {WAN} traffic characteristics in a large-scale data center network},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/imc/ThakkarSP21,
+  author    = {Parth Thakkar and
+               Rohan Saxena and
+               Venkata N. Padmanabhan},
+  title     = {AutoSens: inferring latency sensitivity of user activity through natural experiments},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {15-21},
+}
+
+@inproceedings{DBLP:conf/imc/JagtapYWSP21,
+  author    = {Dhananjay Jagtap and
+               Alex Yen and
+               Huanlei Wu and
+               Aaron Schulman and
+               Pat Pannuto},
+  title     = {Federated infrastructure: usage, patterns, and insights from "the people's network"},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {22-36},
+}
+
+@inproceedings{DBLP:conf/imc/XuFMZLQWLYL21,
+  author    = {Mengwei Xu and
+               Zhe Fu and
+               Xiao Ma and
+               Li Zhang and
+               Yanan Li and
+               Feng Qian and
+               Shangguang Wang and
+               Ke Li and
+               Jingyu Yang and
+               Xuanzhe Liu},
+  title     = {From cloud to edge: a first look at public edge platforms},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {37-53},
+}
+
+@inproceedings{DBLP:conf/imc/MokZYKKC21,
+  author    = {Ricky K. P. Mok and
+               Hongyu Zou and
+               Rui Yang and
+               Tom Koch and
+               Ethan Katz-Bassett and
+               Kimberly C. Claffy},
+  title     = {Measuring the network performance of Google cloud platform},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {54-61},
+}
+
+@inproceedings{DBLP:conf/imc/DangMCZOK21,
+  author    = {The Khang Dang and
+               Nitinder Mohan and
+               Lorenzo Corneo and
+               Aleksandr Zavodovski and
+               Jörg Ott and
+               Jussi Kangasharju},
+  title     = {Cloudy with a chance of short RTTs: analyzing cloud connectivity in the internet},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {62-79},
+}
+
+@inproceedings{DBLP:conf/imc/SpangHKHMJ21,
+  author    = {Bruce Spang and
+               Veronica Hannan and
+               Shravya Kunamalla and
+               Te-Yuan Huang and
+               Nick McKeown and
+               Ramesh Johari},
+  title     = {Unbiased experiments in congested networks},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {80-95},
+}
+
+@inproceedings{DBLP:conf/imc/PhilipWASS21,
+  author    = {Adithya Abraham Philip and
+               Ranysha Ware and
+               Rukshani Athapathu and
+               Justine Sherry and
+               Vyas Sekar},
+  title     = {Revisiting {TCP} congestion control throughput models & fairness properties at scale},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {96-103},
+}
+
+@inproceedings{DBLP:conf/imc/ChenW0JL21,
+  author    = {Peiqing Chen and
+               Yuhan Wu and
+               Tong Yang and
+               Junchen Jiang and
+               Zaoxing Liu},
+  title     = {Precise error estimation for sketch-based flow measurement},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {113-121},
+}
+
+@inproceedings{DBLP:conf/imc/LiuAJMSV21,
+  author    = {Enze Liu and
+               Gautam Akiwate and
+               Mattijs Jonker and
+               Ariana Mirian and
+               Stefan Savage and
+               Geoffrey M. Voelker},
+  title     = {Who's got your mail?: characterizing mail service provider usage},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {122-136},
+}
+
+@inproceedings{DBLP:conf/imc/McQuistinKKPTPH21,
+  author    = {Stephen McQuistin and
+               Mladen Karan and
+               Prashant Khare and
+               Colin Perkins and
+               Gareth Tyson and
+               Matthew Purver and
+               Patrick Healey and
+               Waleed Iqbal and
+               Junaid Qadir and
+               Ignacio Castro},
+  title     = {Characterising the {IETF} through the lens of {RFC} deployment},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {137-149},
+}
+
+@inproceedings{DBLP:conf/imc/AlbakourGBS21,
+  author    = {Taha Albakour and
+               Oliver Gasser and
+               Robert Beverly and
+               Georgios Smaragdakis},
+  title     = {Third time's not a charm: exploiting SNMPv3 for router fingerprinting},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {150-164},
+}
+
+@inproceedings{DBLP:conf/imc/ParachaDVC21,
+  author    = {Muhammad Talha Paracha and
+               Daniel J. Dubois and
+               Narseo Vallina-Rodriguez and
+               David R. Choffnes},
+  title     = {IoTLS: understanding {TLS} usage in consumer {IoT} devices},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {165-178},
+}
+
+@inproceedings{DBLP:conf/imc/MaAMDB21,
+  author    = {Zane Ma and
+               James Austgen and
+               Joshua Mason and
+               Zakir Durumeric and
+               Michael Bailey},
+  title     = {Tracing your roots: exploring the {TLS} trust anchor ecosystem},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {179-194},
+}
+
+@inproceedings{DBLP:conf/imc/SrinivasaPV21,
+  author    = {Shreyas Srinivasa and
+               Jens Myrup Pedersen and
+               Emmanouil Vasilomanolakis},
+  title     = {Open for hire: attack trends and misconfiguration pitfalls of {IoT} devices},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {195-215},
+}
+
+@inproceedings{DBLP:conf/imc/ChangVHM21,
+  author    = {Hyunseok Chang and
+               Matteo Varvello and
+               Fang Hao and
+               Sarit Mukherjee},
+  title     = {Can you see me now?: a measurement study of Zoom, Webex, and Meet},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {216-228},
+}
+
+@inproceedings{DBLP:conf/imc/MacMillanMSF21,
+  author    = {Kyle MacMillan and
+               Tarun Mangla and
+               James Saxon and
+               Nick Feamster},
+  title     = {Measuring the performance and network utilization of popular video conferencing applications},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {229-244},
+}
+
+@inproceedings{DBLP:conf/imc/ManousisSML0S21,
+  author    = {Antonis Manousis and
+               Harshil Shah and
+               Henry Milner and
+               Yan Li and
+               Hui Zhang and
+               Vyas Sekar},
+  title     = {The shape of view: an alert system for video viewership anomalies},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {245-260},
+}
+
+@inproceedings{DBLP:conf/imc/ZirngiblBSJAC21,
+  author    = {Johannes Zirngibl and
+               Philippe Buschmann and
+               Patrick Sattler and
+               Benedikt Jaeger and
+               Juliane Aulbach and
+               Georg Carle},
+  title     = {It's over 9000: analyzing early {QUIC} deployments with the standardization on the horizon},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {261-275},
+}
+
+@inproceedings{DBLP:conf/imc/ElmenhorstSAB21,
+  author    = {Kathrin Elmenhorst and
+               Bertram Schütz and
+               Nils Aschenbruck and
+               Simone Basso},
+  title     = {Web censorship measurements of HTTP/3 over {QUIC}},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {276-282},
+}
+
+@inproceedings{DBLP:conf/imc/NawrockiHSW21,
+  author    = {Marcin Nawrocki and
+               Raphael Hiesgen and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {QUICsand: quantifying {QUIC} reconnaissance scans and {DoS} flooding events},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {283-291},
+}
+
+@inproceedings{DBLP:conf/imc/SanderBWR21,
+  author    = {Constantin Sander and
+               Leo Blöcher and
+               Klaus Wehrle and
+               Jan Rüth},
+  title     = {Sharding and HTTP/2 connection reuse revisited: why are there still redundant connections?},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {292-301},
+}
+
+@inproceedings{DBLP:conf/imc/LiTCWL21,
+  author    = {Kai Li and
+               Yuzhe Tang and
+               Jiaqi Chen and
+               Yibo Wang and
+               Xianghong Liu},
+  title     = {TopoShot: uncovering Ethereum's network topology leveraging replacement transactions},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {302-319},
+}
+
+@inproceedings{DBLP:conf/imc/MessiasA0GLM21,
+  author    = {Johnnatan Messias and
+               Mohamed Alzayat and
+               Balakrishnan Chandrasekaran and
+               Krishna P. Gummadi and
+               Patrick Loiseau and
+               Alan Mislove},
+  title     = {Selfish & opaque transaction ordering in the Bitcoin blockchain: the case for chain neutrality},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {320-335},
+}
+
+@inproceedings{DBLP:conf/imc/QinZGJG21,
+  author    = {Kaihua Qin and
+               Liyi Zhou and
+               Pablo Gamito and
+               Philipp Jovanovic and
+               Arthur Gervais},
+  title     = {An empirical study of {DeFi} liquidations: incentives, risks, and instabilities},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {336-350},
+}
+
+@inproceedings{DBLP:conf/imc/ChhabraM0BW21,
+  author    = {Rishabh Chhabra and
+               Paul Murley and
+               Deepak Kumar and
+               Michael Bailey and
+               Gang Wang},
+  title     = {Measuring {DNS-over-HTTPS} performance around the world},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {351-365},
+}
+
+@inproceedings{DBLP:conf/imc/SabnisS21,
+  author    = {Anirudh Sabnis and
+               Ramesh K. Sitaraman},
+  title     = {TRAGEN: a synthetic trace generator for realistic cache simulations},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {366-379},
+}
+
+@inproceedings{DBLP:conf/imc/GossenJKKR21,
+  author    = {Daniel Goßen and
+               Hugo Jonker and
+               Stefan Karsch and
+               Benjamin Krumnow and
+               David Roefs},
+  title     = {HLISA: towards a more reliable measurement tool},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {380-389},
+}
+
+@inproceedings{DBLP:conf/imc/RandallLPAVSS21,
+  author    = {Audrey Randall and
+               Enze Liu and
+               Ramakrishna Padmanabhan and
+               Gautam Akiwate and
+               Geoffrey M. Voelker and
+               Stefan Savage and
+               Aaron Schulman},
+  title     = {Home is where the hijacking is: understanding {DNS} interception by residential routers},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {390-397},
+}
+
+@inproceedings{DBLP:conf/imc/MouraCHH21,
+  author    = {Giovane C. M. Moura and
+               Sebastian Castro and
+               John S. Heidemann and
+               Wes Hardaker},
+  title     = {TsuNAME: exploiting misconfiguration and vulnerability to {DDoS} {DNS}},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {398-418},
+}
+
+@inproceedings{DBLP:conf/imc/NawrockiJSW21,
+  author    = {Marcin Nawrocki and
+               Mattijs Jonker and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {The far side of {DNS} amplification: tracing the {DDoS} attack ecosystem from the internet core},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {419-434},
+}
+
+@inproceedings{DBLP:conf/imc/XueRSEVJWBE21,
+  author    = {Diwen Xue and
+               Reethika Ramesh and
+               Valdik S. S and
+               Leonid Evdokimov and
+               Andrey Viktorov and
+               Arham Jain and
+               Eric Wustrow and
+               Simone Basso and
+               Roya Ensafi},
+  title     = {Throttling Twitter: an emerging censorship technique in Russia},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {435-443},
+}
+
+@inproceedings{DBLP:conf/imc/EdelsonNGGML21,
+  author    = {Laura Edelson and
+               Minh-Kha Nguyen and
+               Ian Goldstein and
+               Oana Goga and
+               Damon McCoy and
+               Tobias Lauinger},
+  title     = {Understanding engagement with U.S. (mis)information news sources on Facebook},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {444-463},
+}
+
+@inproceedings{DBLP:conf/imc/CabanasCCL021,
+  author    = {José González Cabañas and
+               Ángel Cuevas and
+               Rubén Cuevas and
+               Juan López-Fernández and
+               David García},
+  title     = {Unique on Facebook: formulation and evidence of (nano)targeting individual users with {non-PII} data},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {464-479},
+}
+
+@inproceedings{DBLP:conf/imc/UkaniMS21,
+  author    = {Alisha Ukani and
+               Ariana Mirian and
+               Alex C. Snoeren},
+  title     = {Locked-in during lock-down: undergraduate life on the internet in a pandemic},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {480-486},
+}
+
+@inproceedings{DBLP:conf/imc/AsifJBR21,
+  author    = {Sana Asif and
+               Byungjin Jun and
+               Fabián E. Bustamante and
+               John P. Rula},
+  title     = {Networked systems as witnesses: association between content demand, human mobility and an infection spread},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {487-506},
+}
+
+@inproceedings{DBLP:conf/imc/ZengWGKR21,
+  author    = {Eric Zeng and
+               Miranda Wei and
+               Theo Gregersen and
+               Tadayoshi Kohno and
+               Franziska Roesner},
+  title     = {Polls, clickbait, and commemorative $2 bills: problematic political advertising on news and media websites around the 2020 U.S. elections},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {507-525},
+}
+
+@inproceedings{DBLP:conf/imc/PoteatL21,
+  author    = {Tara Poteat and
+               Frank Li},
+  title     = {Who you gonna call?: an empirical evaluation of website security.txt deployment},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {526-532},
+}
+
+@inproceedings{DBLP:conf/imc/YanTZZ021,
+  author    = {Yutian Yan and
+               Tengfei Tu and
+               Lijian Zhao and
+               Yuchen Zhou and
+               Weihang Wang},
+  title     = {Understanding the performance of webassembly applications},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {533-549},
+}
+
+@inproceedings{DBLP:conf/imc/KuchhalL21,
+  author    = {Dhruv Kuchhal and
+               Frank Li},
+  title     = {Knock and talk: investigating local network communications on websites},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {550-568},
+}
+
+@inproceedings{DBLP:conf/imc/AmjadSGSZ21,
+  author    = {Abdul Haddi Amjad and
+               Danial Saleem and
+               Muhammad Ali Gulzar and
+               Zubair Shafiq and
+               Fareed Zaffar},
+  title     = {TrackerSift: untangling mixed tracking and functional web resources},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {569-576},
+}
+
+@inproceedings{DBLP:conf/imc/KrencBS21,
+  author    = {Thomas Krenc and
+               Robert Beverly and
+               Georgios Smaragdakis},
+  title     = {{AS-level} {BGP} community usage classification},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {577-592},
+}
+
+@inproceedings{DBLP:conf/imc/NemmiSMTMD21,
+  author    = {Eugenio Nerio Nemmi and
+               Francesco Sassi and
+               Massimo La Morgia and
+               Cecilia Testart and
+               Alessandro Mei and
+               Alberto Dainotti},
+  title     = {The parallel lives of autonomous systems: {ASN} allocations vs. {BGP}},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {593-611},
+}
+
+@inproceedings{DBLP:conf/imc/PrehnF21,
+  author    = {Lars Prehn and
+               Anja Feldmann},
+  title     = {How biased is our validation (data) for {AS} relationships?},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {612-620},
+}
+
+@inproceedings{DBLP:conf/imc/AliapouliosTRBG21,
+  author    = {Maxwell Aliapoulios and
+               Kejsi Take and
+               Prashanth Ramakrishna and
+               Daniel Borkan and
+               Beth Goldberg and
+               Jeffrey Sorensen and
+               Anna Turner and
+               Rachel Greenstadt and
+               Tobias Lauinger and
+               Damon McCoy},
+  title     = {A large-scale characterization of online incitements to harassment across platforms},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {621-638},
+}
+
+@inproceedings{DBLP:conf/imc/HernandezRCA21,
+  author    = {Nestor Hernandez and
+               Ruben Recabarren and
+               Bogdan Carbunar and
+               Syed Ishtiaque Ahmed},
+  title     = {RacketStore: measurements of {ASO} deception in Google play via mobile and app usage},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {639-657},
+}
+
+@inproceedings{DBLP:conf/imc/AlmeidaLMDLL21,
+  author    = {Mário Almeida and
+               Stefanos Laskaridis and
+               Abhinav Mehrotra and
+               Lukasz Dudziak and
+               Ilias Leontiadis and
+               Nicholas D. Lane},
+  title     = {Smart at what cost?: characterising mobile deep neural networks in the wild},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {658-672},
+}
+
+@inproceedings{DBLP:conf/imc/AkiwateSVC21,
+  author    = {Gautam Akiwate and
+               Stefan Savage and
+               Geoffrey M. Voelker and
+               Kimberly C. Claffy},
+  title     = {Risky BIZness: risks derived from registrar name management},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {673-686},
+}
+
+@inproceedings{DBLP:conf/imc/CarisimoGSD21,
+  author    = {Esteban Carisimo and
+               Alexander Gamero-Garrido and
+               Alex C. Snoeren and
+               Alberto Dainotti},
+  title     = {Identifying {ASes} of state-owned internet operators},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {687-702},
+}
+
+@inproceedings{DBLP:conf/imc/ZivIRID21,
+  author    = {Maya Ziv and
+               Liz Izhikevich and
+               Kimberly Ruth and
+               Katherine Izhikevich and
+               Zakir Durumeric},
+  title     = {ASdb: a system for classifying owners of autonomous systems},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {703-719},
+}
+
+@inproceedings{DBLP:conf/imc/ZhangMMHLCS21,
+  author    = {Zesen Zhang and
+               Alexander Marder and
+               Ricky K. P. Mok and
+               Bradley Huffaker and
+               Matthew Luckie and
+               Kimberly C. Claffy and
+               Aaron Schulman},
+  title     = {Inferring regional access network topologies: methods and applications},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {720-738},
+}
+
+@inproceedings{DBLP:conf/imc/RyeBC21,
+  author    = {Erik C. Rye and
+               Robert Beverly and
+               Kimberly C. Claffy},
+  title     = {Follow the scent: defeating IPv6 prefix rotation privacy},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {739-752},
+}
+
+@inproceedings{DBLP:conf/imc/JiangLKZKC21,
+  author    = {Weifan Jiang and
+               Tao Luo and
+               Thomas Koch and
+               Yunfan Zhang and
+               Ethan Katz-Bassett and
+               Matt Calder},
+  title     = {Towards identifying networks with internet clients using public data},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {753-762},
+}
+
+@inproceedings{DBLP:conf/imc/ArnoldHJCCGK21,
+  author    = {Todd Arnold and
+               Jia He and
+               Weifan Jiang and
+               Matt Calder and
+               Ítalo Cunha and
+               Vasileios Giotsas and
+               Ethan Katz-Bassett},
+  title     = {Corrigendum: cloud provider connectivity in the flat internet},
+  booktitle = imc,
+  year      = 2021,
+  pages     = {763-764},
+}
+
 @inproceedings{DBLP:conf/imc/FeldmannGLPPDWW20,
   author    = {Anja Feldmann and
                Oliver Gasser and
@@ -68,7 +718,7 @@
 }
 
 @inproceedings{DBLP:conf/imc/DeccioHBAR20,
-  author    = {Casey Deccio and
+  author    = {Casey T. Deccio and
                Alden Hilton and
                Michael Briggs and
                Trevin Avery and
@@ -372,7 +1022,7 @@
 @inproceedings{DBLP:conf/imc/MajorTM20,
   author    = {David Major and
                Ross Teixeira and
-               Jonathan Mayer},
+               Jonathan R. Mayer},
   title     = {No {WAN's} Land: Mapping U.S. Broadband Coverage with Millions of Address Queries to {ISPs}},
   booktitle = imc,
   year      = 2020,
@@ -504,7 +1154,7 @@
 }
 
 @inproceedings{DBLP:conf/imc/PerezXL20,
-  author    = {Daniel Pérez and
+  author    = {Daniel Perez and
                Jiahua Xu and
                Benjamin Livshits},
   title     = {Revisiting Transactional Statistics of High-scalability Blockchains},
@@ -3587,7 +4237,7 @@
 
 @inproceedings{DBLP:conf/imc/WangLLLTW14,
   author    = {Han Wang and
-               Ki-Suh Lee and
+               Ki Suh Lee and
                Erluo Li and
                Chiunlin Lim and
                Ao Tang and
@@ -5495,7 +6145,7 @@
   author    = {Amogh Dhamdhere and
                Lee Breslau and
                Nick G. Duffield and
-               Cheng Ee and
+               Cheng Tien Ee and
                Alexandre Gerber and
                Carsten Lund and
                Subhabrata Sen},
@@ -6439,7 +7089,7 @@
 }
 
 @inproceedings{DBLP:conf/imc/RinconRW08,
-  author    = {David Rincón and
+  author    = {David Rincón Rivera and
                Matthew Roughan and
                Walter Willinger},
   title     = {Towards a meaningful {MRA} of traffic matrices},

@@ -1,5 +1,167 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotstorage/LiYKX21,
+  author    = {Qiao Li and
+               Min Ye and
+               Tei-Wei Kuo and
+               Chun Jason Xue},
+  title     = {How the common retention acceleration method of 3D {NAND} flash memory goes wrong?},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/hotstorage/Min021,
+  author    = {Donghyun Min and
+               Youngjae Kim},
+  title     = {Isolating namespace and performance in key-value {SSDs} for multi-tenant environments},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {8-13},
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangXZ21,
+  author    = {Yuqi Zhang and
+               Ni Xue and
+               Yangxu Zhou},
+  title     = {Automatic I/O stream management based on file characteristics},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {14-20},
+}
+
+@inproceedings{DBLP:conf/hotstorage/Maheshwari21,
+  author    = {Umesh Maheshwari},
+  title     = {From blocks to rocks: a natural extension of zoned namespaces},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {21-27},
+}
+
+@inproceedings{DBLP:conf/hotstorage/AdamsAM21,
+  author    = {Ian F. Adams and
+               Neha Agrawal and
+               Michael P. Mesnier},
+  title     = {Enabling near-data processing in distributed object storage systems},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {28-34},
+}
+
+@inproceedings{DBLP:conf/hotstorage/VaillantV0N21,
+  author    = {Romain Vaillant and
+               Dimitrios Vasilas and
+               Marc Shapiro and
+               Thuy Linh Nguyen},
+  title     = {{CRDTs} for truly concurrent file systems},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {35-41},
+}
+
+@inproceedings{DBLP:conf/hotstorage/MatteCA21,
+  author    = {Venkata Swaroop Matte and
+               Aleksey Charapko and
+               Abutalib Aghayev},
+  title     = {Scalable but wasteful: current state of replication in the cloud},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {42-49},
+}
+
+@inproceedings{DBLP:conf/hotstorage/RodriguezGPRL21,
+  author    = {Liana V. Rodriguez and
+               Alexis González and
+               Pratik Poudel and
+               Raju Rangaswami and
+               Jason Liu},
+  title     = {Unifying the data center caching layer: feasible? profitable?},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {50-57},
+}
+
+@inproceedings{DBLP:conf/hotstorage/SellaAHQ021,
+  author    = {Omer S. Sella and
+               Amir Apelbaum and
+               Thomas Heinis and
+               Jasmine Quah and
+               Andrew W. Moore},
+  title     = {{DNA} archival storage, a bottom up approach},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {58-63},
+}
+
+@inproceedings{DBLP:conf/hotstorage/JungCH21,
+  author    = {Jaewon Jung and
+               Jungsik Choi and
+               Hwansoo Han},
+  title     = {Libpubl: exploiting persistent user buffers as logs for write atomicity},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {64-70},
+}
+
+@inproceedings{DBLP:conf/hotstorage/DeshpandeLS21,
+  author    = {Umesh Deshpande and
+               Nick Linck and
+               Sangeetha Seshadri},
+  title     = {Self-service data protection for stateful containers},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {71-76},
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangPPTZ21,
+  author    = {Tao Zhang and
+               Boris Pismenny and
+               Donald E. Porter and
+               Dan Tsafrir and
+               Aviad Zuck},
+  title     = {Rowhammering Storage Devices},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {77-85},
+}
+
+@inproceedings{DBLP:conf/hotstorage/Zhang0HZ21,
+  author    = {Di Zhang and
+               Dong Dai and
+               Runzhou Han and
+               Mai Zheng},
+  title     = {SentiLog: Anomaly Detecting on Parallel File Systems via Log-based Sentiment Analysis},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {86-93},
+}
+
+@inproceedings{DBLP:conf/hotstorage/AkgunASVZ21,
+  author    = {Ibrahim Umit Akgun and
+               Ali Selman Aydin and
+               Aadil Shaikh and
+               Lukas Velikov and
+               Erez Zadok},
+  title     = {A Machine Learning Framework to Improve Storage System Performance},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {94-102},
+}
+
+@inproceedings{DBLP:conf/hotstorage/SuLGHSZK21,
+  author    = {Wei Su and
+               Yifei Liu and
+               Gomathi Ganesan and
+               Gerard J. Holzmann and
+               Scott A. Smolka and
+               Erez Zadok and
+               Geoff Kuenning},
+  title     = {{Model-Checking} Support for File System Development},
+  booktitle = hotstorage,
+  year      = 2021,
+  pages     = {103-110},
+}
+
 @inproceedings{DBLP:conf/hotstorage/AhnLLKML020,
   author    = {Jinwoo Ahn and
                Seungjin Lee and
@@ -524,7 +686,7 @@
 
 @inproceedings{DBLP:conf/hotstorage/PengV19,
   author    = {Yuhan Peng and
-               Peter Varman},
+               Peter J. Varman},
   title     = {Fair-EDF: A Latency Fairness Framework for Shared Storage Systems},
   booktitle = hotstorage,
   year      = 2019,

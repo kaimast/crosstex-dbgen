@@ -5,6 +5,9 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
 
 CONFERENCE_LOCATIONS = {
      '':{}
+    ,'ccs':         {2021: ('Virtual', 'nov')
+                    ,2020: ('Virtual', 'nov')
+                    }
     ,'crypto':      {1989: ('SantaBarbara', 'aug')
                     ,1987: ('SantaBarbara', 'aug')
                     ,1981: ('SantaBarbara', 'aug')
@@ -28,6 +31,10 @@ CONFERENCE_LOCATIONS = {
                     ,2009: ('MonteVerita', 'may')
                     ,2001: ('ElmauOberbayern', 'may')
                     }
+    ,'hotstorage':  {2021: ('Virtual', 'jul')
+                    ,2020: ('Virtual', 'jul')
+                    ,2019: ('Renton', 'jul')
+                    }
     ,'icdcs':       {2002: ('Vienna', 'jul')
                     ,2001: ('Phoenix', 'apr')
                     ,2000: ('Taipei', 'apr')
@@ -50,7 +57,8 @@ CONFERENCE_LOCATIONS = {
     ,'ipps':        {1993: ('NewportBeach', 'apr')
                     ,1991: ('Anaheim', 'apr')
                     }
-    ,'nsdi':        {2018: ('Renton', 'apr')
+    ,'nsdi':        {2021: ('Virtual', 'apr')
+                    ,2018: ('Renton', 'apr')
                     }
     ,'sigcomm':     {2018: ('Budapest', 'aug')
                     ,1997: ('Cannes', 'sep')
@@ -66,7 +74,8 @@ CONFERENCE_LOCATIONS = {
                     ,1985: ('BC', 'sep')
                     ,1983: ('NorthFalmouth', 'oct')
                     }
-    ,'sosp':        {2019: ('Huntsville', 'oct')
+    ,'sosp':        {2021: ('Koblenz', 'nov')
+                    ,2019: ('Huntsville', 'oct')
                     ,2013: ('Farmington', 'nov')
                     ,2001: ('Banff', 'oct')
                     ,1999: ('KiawahIsland', 'dec')
@@ -106,7 +115,9 @@ CONFERENCE_LOCATIONS = {
                     }
     ,'oakland':     {2010: ('Berkeley', 'may')
                     }
-    ,'osdi':        {2018: ('Carlsbad', 'oct')
+    ,'osdi':        {2021: ('SantaClara', 'jul')
+                    ,2020: ('Banff', 'nov')
+                    ,2018: ('Carlsbad', 'oct')
                     ,2014: ('Broomfield', 'oct')
                     ,2012: ('Hollywood', 'oct')
                     }

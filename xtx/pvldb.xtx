@@ -1,5 +1,4693 @@
 @include journals-cs
 
+@article{DBLP:journals/pvldb/Aboulnaga21,
+  author    = {Ashraf Aboulnaga},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/Chen21,
+  author    = {Yi Chen},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/DongN21,
+  author    = {Xin Luna Dong and
+               Felix Naumann},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/Geerts21,
+  author    = {Floris Geerts},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/Gemulla21,
+  author    = {Rainer Gemulla},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/IdreosI21,
+  author    = {Stratos Idreos and
+               Zack Ives},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/KumarHT21,
+  author    = {Arun Kumar and
+               Alon Y. Halevy and
+               Nesime Tatbul},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/Manegold21,
+  author    = {Stefan Manegold},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/MuhleisenP21,
+  author    = {Hannes Mühleisen and
+               Thorsten Papenbrock},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+}
+
+@article{DBLP:journals/pvldb/OzcanFL21,
+  author    = {Fatma Ozcan and
+               Juliana Freire and
+               Xuemin Lin},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {i-vi},
+}
+
+@article{DBLP:journals/pvldb/FreireL21,
+  author    = {Juliana Freire and
+               Xuemin Lin},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {i-vii},
+}
+
+@article{DBLP:journals/pvldb/FreireL21a,
+  author    = {Juliana Freire and
+               Xuemin Lin},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {i-vii},
+}
+
+@article{DBLP:journals/pvldb/ZhaoSZPXJ21,
+  author    = {Kang Zhao and
+               Liuyihan Song and
+               Yingya Zhang and
+               Pan Pan and
+               Yinghui Xu and
+               Rong Jin},
+  title     = {{ANN} Softmax: Acceleration of Extreme Classification Training},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {1-10},
+}
+
+@article{DBLP:journals/pvldb/YuAKPZCWI21,
+  author    = {Gyeong-In Yu and
+               Saeed Amizadeh and
+               Sehoon Kim and
+               Artidoro Pagnoni and
+               Ce Zhang and
+               Byung-Gon Chun and
+               Markus Weimer and
+               Matteo Interlandi},
+  title     = {WindTunnel: Towards Differentiable {ML} Pipelines Beyond a Single Modele},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {11-20},
+}
+
+@article{DBLP:journals/pvldb/SkiadopoulosLKK21,
+  author    = {Athinagoras Skiadopoulos and
+               Qian Li and
+               Peter Kraft and
+               Kostis Kaffes and
+               Daniel Hong and
+               Shana Mathew and
+               David Bestor and
+               Michael J. Cafarella and
+               Vijay Gadepally and
+               Goetz Graefe and
+               Jeremy Kepner and
+               Christos Kozyrakis and
+               Tim Kraska and
+               Michael Stonebraker and
+               Lalith Suresh and
+               Matei Zaharia},
+  title     = {DBOS: A {DBMS-oriented} Operating System},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {21-30},
+}
+
+@article{DBLP:journals/pvldb/JainSS21,
+  author    = {Arjit Jain and
+               Sunita Sarawagi and
+               Prithviraj Sen},
+  title     = {Deep Indexed Active Learning for Matching Heterogeneous Entity Representations},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {31-45},
+}
+
+@article{DBLP:journals/pvldb/ZhouLCF21,
+  author    = {Xuanhe Zhou and
+               Guoliang Li and
+               Chengliang Chai and
+               Jianhua Feng},
+  title     = {A Learned Query Rewrite System using Monte Carlo Tree Search},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {46-58},
+}
+
+@article{DBLP:journals/pvldb/LinYMJM21,
+  author    = {Yin Lin and
+               Brit Youngmann and
+               Yuval Moskovitch and
+               H. V. Jagadish and
+               Tova Milo},
+  title     = {On Detecting Cherry-picked Generalizations},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {59-71},
+}
+
+@article{DBLP:journals/pvldb/WangCLL21,
+  author    = {Jiayi Wang and
+               Chengliang Chai and
+               Jiabin Liu and
+               Guoliang Li},
+  title     = {FACE: A Normalizing Flow based Cardinality Estimator},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {72-84},
+}
+
+@article{DBLP:journals/pvldb/SunZSLT21,
+  author    = {Ji Sun and
+               Jintao Zhang and
+               Zhaoyan Sun and
+               Guoliang Li and
+               Nan Tang},
+  title     = {Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {85-97},
+}
+
+@article{DBLP:journals/pvldb/HeDCB21,
+  author    = {Dong He and
+               Maureen Daum and
+               Walter Cai and
+               Magdalena Balazinska},
+  title     = {DeepEverest: Accelerating Declarative {Top-K} Queries for Deep Neural Network Interpretation},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {98-111},
+}
+
+@article{DBLP:journals/pvldb/ChatterjeeJQI21,
+  author    = {Subarna Chatterjee and
+               Meena Jagadeesan and
+               Wilson Qin and
+               Stratos Idreos},
+  title     = {Cosine: A {Cloud-Cost} Optimized {Self-Designing} {Key-Value} Storage Engine},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {112-126},
+}
+
+@article{DBLP:journals/pvldb/AdnanMMN21,
+  author    = {Muhammad Adnan and
+               Yassaman Ebrahimzadeh Maboud and
+               Divya Mahajan and
+               Prashant J. Nair},
+  title     = {Accelerating Recommendation System Training by Leveraging Popular Choices},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {1},
+  year      = 2021,
+  pages     = {127-140},
+}
+
+@article{DBLP:journals/pvldb/YangPZ21,
+  author    = {Jianye Yang and
+               Yun Peng and
+               Wenjie Zhang},
+  title     = {(p, q)-biclique Counting and Enumeration for Large Sparse Bipartite Graphs},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {141-153},
+}
+
+@article{DBLP:journals/pvldb/GraurMPFWA21,
+  author    = {Dan Graur and
+               Ingo Müller and
+               Mason Proffitt and
+               Ghislain Fourny and
+               Gordon T. Watts and
+               Gustavo Alonso},
+  title     = {Evaluating Query Languages and Systems for {High-Energy} Physics Data},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {154-168},
+}
+
+@article{DBLP:journals/pvldb/HaoYZ21,
+  author    = {Kongzhang Hao and
+               Long Yuan and
+               Wenjie Zhang},
+  title     = {Distributed {Hop-Constrained} s-t Simple Path Enumeration at Billion Scale},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {169-182},
+}
+
+@article{DBLP:journals/pvldb/FangSWC21,
+  author    = {Jingzhi Fang and
+               Yanyan Shen and
+               Yue Wang and
+               Lei Chen},
+  title     = {ETO: Accelerating Optimization of {DNN} Operators by {High-Performance} Tensor Program Reuse},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {183-195},
+}
+
+@article{DBLP:journals/pvldb/GrulichZM21,
+  author    = {Philipp Marian Grulich and
+               Steffen Zeuch and
+               Volker Markl},
+  title     = {Babelfish: Efficient Execution of Polyglot Queries},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {196-210},
+}
+
+@article{DBLP:journals/pvldb/ZhouWC21,
+  author    = {Alexander Zhou and
+               Yue Wang and
+               Lei Chen},
+  title     = {Butterfly Counting on Uncertain Bipartite Networks},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {211-223},
+}
+
+@article{DBLP:journals/pvldb/CuiZCXDHZ21,
+  author    = {Yue Cui and
+               Kai Zheng and
+               Dingshan Cui and
+               Jiandong Xie and
+               Liwei Deng and
+               Feiteng Huang and
+               Xiaofang Zhou},
+  title     = {METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {224-236},
+}
+
+@article{DBLP:journals/pvldb/GeLCZG21,
+  author    = {Congcong Ge and
+               Xiaoze Liu and
+               Lu Chen and
+               Baihua Zheng and
+               Yunjun Gao},
+  title     = {LargeEA: Aligning Entities for Large-scale Knowledge Graphs},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {237-245},
+}
+
+@article{DBLP:journals/pvldb/LuKXI21,
+  author    = {Kejing Lu and
+               Mineichi Kudo and
+               Chuan Xiao and
+               Yoshiharu Ishikawa},
+  title     = {HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {246-258},
+}
+
+@article{DBLP:journals/pvldb/ArmanL21,
+  author    = {Arif Arman and
+               Dmitri Loguinov},
+  title     = {Origami: A {High-Performance} Mergesort Framework},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {259-271},
+}
+
+@article{DBLP:journals/pvldb/WuDCWDGZ21,
+  author    = {Renzhi Wu and
+               Bolin Ding and
+               Xu Chu and
+               Zhewei Wei and
+               Xiening Dai and
+               Tao Guan and
+               Jingren Zhou},
+  title     = {Learning to be a Statistician: Learned Estimator for Number of Distinct Values},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {272-284},
+}
+
+@article{DBLP:journals/pvldb/YuWGDS21,
+  author    = {Shangdi Yu and
+               Yiqiu Wang and
+               Yan Gu and
+               Laxman Dhulipala and
+               Julian Shun},
+  title     = {ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using {Nearest-Neighbor} Chain},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {285-298},
+}
+
+@article{DBLP:journals/pvldb/ChauhanJRBB21,
+  author    = {Komal Chauhan and
+               Kartik Jain and
+               Sayan Ranu and
+               Srikanta Bedathur and
+               Amitabha Bagchi},
+  title     = {Answering Regular Path Queries through Exemplars},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {299-311},
+}
+
+@article{DBLP:journals/pvldb/MiaoZSNYTC21,
+  author    = {Xupeng Miao and
+               Hailin Zhang and
+               Yining Shi and
+               Xiaonan Nie and
+               Zhi Yang and
+               Yangyu Tao and
+               Bin Cui},
+  title     = {HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {312-320},
+}
+
+@article{DBLP:journals/pvldb/LiHJZ21,
+  author    = {Pengfei Li and
+               Yu Hua and
+               Jingnan Jia and
+               Pengfei Zuo},
+  title     = {FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {321-334},
+}
+
+@article{DBLP:journals/pvldb/BaiZ21,
+  author    = {Jiyang Bai and
+               Peixiang Zhao},
+  title     = {TaGSim: Type-aware Graph Similarity Learning and Computation},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {335-347},
+}
+
+@article{DBLP:journals/pvldb/ZhuTTC21,
+  author    = {Yuqing Zhu and
+               Jing Tang and
+               Xueyan Tang and
+               Lei Chen},
+  title     = {Analysis of Influence Contribution in Social Advertising},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {348-360},
+}
+
+@article{DBLP:journals/pvldb/TheodorakisKPP21,
+  author    = {Georgios Theodorakis and
+               Fotios Kounelis and
+               Peter R. Pietzuch and
+               Holger Pirk},
+  title     = {Scabbard: {Single-Node} {Fault-Tolerant} Stream Processing},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {361-374},
+}
+
+@article{DBLP:journals/pvldb/KonstantinidisH21,
+  author    = {George Konstantinidis and
+               Jet Holt and
+               Adriane Chapman},
+  title     = {Enabling Personal Consent in Databases},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {2},
+  year      = 2021,
+  pages     = {375-387},
+}
+
+@article{DBLP:journals/pvldb/LiuWFWW21,
+  author    = {Yejia Liu and
+               Weiyuan Wu and
+               Lampros Flokas and
+               Jiannan Wang and
+               Eugene Wu},
+  title     = {Enabling {SQL-based} Training Data Debugging for Federated Learning},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {388-400},
+}
+
+@article{DBLP:journals/pvldb/VaidyaDNC21,
+  author    = {Kapil Vaidya and
+               Anshuman Dutt and
+               Vivek R. Narasayya and
+               Surajit Chaudhuri},
+  title     = {Leveraging Query Logs and Machine Learning for Parametric Query Optimization},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {401-413},
+}
+
+@article{DBLP:journals/pvldb/LuKKC21,
+  author    = {Yao Lu and
+               Srikanth Kandula and
+               Arnd Christian König and
+               Surajit Chaudhuri},
+  title     = {Pre-training Summarization Models of Structured Datasets for Cardinality Estimation},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {414-426},
+}
+
+@article{DBLP:journals/pvldb/RaoZHZMCSZZ21,
+  author    = {Susie Xi Rao and
+               Shuai Zhang and
+               Zhichao Han and
+               Zitao Zhang and
+               Wei Min and
+               Zhiyao Chen and
+               Yinan Shan and
+               Yang Zhao and
+               Ce Zhang},
+  title     = {xFraud: Explainable Fraud Transaction Detection},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {427-436},
+}
+
+@article{DBLP:journals/pvldb/YuanMWZW21,
+  author    = {Ye Yuan and
+               Delong Ma and
+               Zhenyu Wen and
+               Zhiwei Zhang and
+               Guoren Wang},
+  title     = {Subgraph Matching over Graph Federation},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {437-450},
+}
+
+@article{DBLP:journals/pvldb/NiuGLLGKLP21,
+  author    = {Xing Niu and
+               Boris Glavic and
+               Ziyu Liu and
+               Pengyuan Li and
+               Dieter Gawlick and
+               Vasudha Krishnaswamy and
+               Zhen Hua Liu and
+               Danica Porobic},
+  title     = {Provenance-based Data Skipping},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {451-464},
+}
+
+@article{DBLP:journals/pvldb/JinSWDK21,
+  author    = {Di Jin and
+               Bunyamin Sisman and
+               Hao Wei and
+               Xin Luna Dong and
+               Danai Koutra},
+  title     = {Deep Transfer Learning for Multi-source Entity Linkage via Domain Adaptation},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {465-477},
+}
+
+@article{DBLP:journals/pvldb/XingLACMAWA21,
+  author    = {Lu Xing and
+               Eric Lee and
+               Tong An and
+               Bo-Cheng Chu and
+               Ahmed Mahmood and
+               Ahmed M. Aly and
+               Jianguo Wang and
+               Walid G. Aref},
+  title     = {An Experimental Evaluation and Investigation of Waves of Misery in R-trees},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {478-490},
+}
+
+@article{DBLP:journals/pvldb/LiuMMR21,
+  author    = {Yongyi Liu and
+               Ahmed Mahmood and
+               Amr Magdy and
+               Sergio J. Rey},
+  title     = {{PRUC} : {P-Regions} with {User-Defined} Constraint},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {491-503},
+}
+
+@article{DBLP:journals/pvldb/ChenLCLBLGZ21,
+  author    = {Yile Chen and
+               Xiucheng Li and
+               Gao Cong and
+               Cheng Long and
+               Zhifeng Bao and
+               Shang Liu and
+               Wanli Gu and
+               Fuzheng Zhang},
+  title     = {{Points-of-Interest} Relationship Inference with Spatial-enriched Graph Neural Networks},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {504-512},
+}
+
+@article{DBLP:journals/pvldb/ChanIUCX21,
+  author    = {Tsz Nam Chan and
+               Pak Lon Ip and
+               Leong Hou U and
+               Byron Choi and
+               Jianliang Xu},
+  title     = {SAFE: A {Share-and-Aggregate} Bandwidth Exploration Framework for Kernel Density Visualization},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {513-526},
+}
+
+@article{DBLP:journals/pvldb/DittrichNS21,
+  author    = {Jens Dittrich and
+               Joris Nix and
+               Christian Schön},
+  title     = {The next 50 Years in Database Indexing or: The Case for Automatically Generated Index Structures},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {527-540},
+}
+
+@article{DBLP:journals/pvldb/ChapnikKS21,
+  author    = {Koral Chapnik and
+               Ilya Kolchinsky and
+               Assaf Schuster},
+  title     = {DARLING: {Data-Aware} Load Shedding in Complex Event Processing Systems},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {541-554},
+}
+
+@article{DBLP:journals/pvldb/ZhuoZLZWCS21,
+  author    = {Danyang Zhuo and
+               Kaiyuan Zhang and
+               Zhuohan Li and
+               Siyuan Zhuang and
+               Stephanie Wang and
+               Ang Chen and
+               Ion Stoica},
+  title     = {Rearchitecting {In-Memory} Object Stores for Low Latency},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {555-568},
+}
+
+@article{DBLP:journals/pvldb/MaW21,
+  author    = {Pingchuan Ma and
+               Shuai Wang},
+  title     = {MT-Teql: Evaluating and Augmenting Neural {NLIDB} on Real-world Linguistic and Schema Variations},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {569-582},
+}
+
+@article{DBLP:journals/pvldb/ShiDS21,
+  author    = {Jessica Shi and
+               Laxman Dhulipala and
+               Julian Shun},
+  title     = {Theoretically and Practically Efficient Parallel Nucleus Decomposition},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {583-596},
+}
+
+@article{DBLP:journals/pvldb/LuDLMW21,
+  author    = {Baotong Lu and
+               Jialin Ding and
+               Eric Lo and
+               Umar Farooq Minhas and
+               Tianzheng Wang},
+  title     = {APEX: A {High-Performance} Learned Index on Persistent Memory},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {597-610},
+}
+
+@article{DBLP:journals/pvldb/CamposKGHZYJ21,
+  author    = {David Campos and
+               Tung Kieu and
+               Chenjuan Guo and
+               Feiteng Huang and
+               Kai Zheng and
+               Bin Yang and
+               Christian S. Jensen},
+  title     = {Unsupervised Time Series Outlier Detection with {Diversity-Driven} Convolutional Ensembles},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {611-623},
+}
+
+@article{DBLP:journals/pvldb/MiaoWCGWY21,
+  author    = {Xiaoye Miao and
+               Yangyang Wu and
+               Lu Chen and
+               Yunjun Gao and
+               Jun Wang and
+               Jianwei Yin},
+  title     = {Efficient and Effective Data Imputation with Influence Functions},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {624-632},
+}
+
+@article{DBLP:journals/pvldb/KochsiekG21,
+  author    = {Adrian Kochsiek and
+               Rainer Gemulla},
+  title     = {Parallel Training of Knowledge Graph Embedding Models: A Comparison of Techniques},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {633-645},
+}
+
+@article{DBLP:journals/pvldb/VitaglianoJN21,
+  author    = {Gerardo Vitagliano and
+               Lan Jiang and
+               Felix Naumann},
+  title     = {Detecting Layout Templates in Complex Multiregion Files},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {646-658},
+}
+
+@article{DBLP:journals/pvldb/MaliszewskiQTM21,
+  author    = {Kajetan Jeremi Maliszewski and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Jonas Traub and
+               Volker Markl},
+  title     = {What Is the Price for Joining Securely? Benchmarking {Equi-Joins} in Trusted Execution Environments},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {659-672},
+}
+
+@article{DBLP:journals/pvldb/HoHP21,
+  author    = {Van Long Ho and
+               Nguyen Ho and
+               Torben Bach Pedersen},
+  title     = {Efficient Temporal Pattern Mining in Big Time Series Using Mutual Information},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {673-685},
+}
+
+@article{DBLP:journals/pvldb/ZhangYLQZ21,
+  author    = {Junhua Zhang and
+               Long Yuan and
+               Wentao Li and
+               Lu Qin and
+               Ying Zhang},
+  title     = {Efficient {Label-Constrained} Shortest Path Queries on Road Networks: A Tree Decomposition Approach},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {686-698},
+}
+
+@article{DBLP:journals/pvldb/SuriIRR21,
+  author    = {Sahaana Suri and
+               Ihab F. Ilyas and
+               Christopher Ré and
+               Theodoros Rekatsinas},
+  title     = {Ember: {No-Code} Context Enrichment via {Similarity-Based} Keyless Joins},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {699-712},
+}
+
+@article{DBLP:journals/pvldb/VuEHT21,
+  author    = {Tin Vu and
+               Ahmed Eldawy and
+               Vagelis Hristidis and
+               Vassilis J. Tsotras},
+  title     = {Incremental Partitioning for Efficient Spatial Data Analytics},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {713-726},
+}
+
+@article{DBLP:journals/pvldb/YanDGZWJX21,
+  author    = {Shuyuan Yan and
+               Bolin Ding and
+               Wei Guo and
+               Jingren Zhou and
+               Zhewei Wei and
+               Xiaowei Jiang and
+               Sheng Xu},
+  title     = {FlashP: An Analytical Pipeline for Real-time Forecasting of {Time-Series} Relational Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {721-729},
+}
+
+@article{DBLP:journals/pvldb/LeeTABCKMSYHP21,
+  author    = {Doris Jung Lin Lee and
+               Dixin Tang and
+               Kunal Agarwal and
+               Thyne Boonmark and
+               Caitlyn Chen and
+               Jake Kang and
+               Ujjaini Mukhopadhyay and
+               Jerry Song and
+               Micah Yong and
+               Marti A. Hearst and
+               Aditya G. Parameswaran},
+  title     = {Lux: Always-on Visualization Recommendations for Exploratory Dataframe Workflows},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {727-738},
+}
+
+@article{DBLP:journals/pvldb/DuongHYWNA21,
+  author    = {Chi Thang Duong and
+               Dung Hoang and
+               Hongzhi Yin and
+               Matthias Weidlich and
+               Quoc Viet Hung Nguyen and
+               Karl Aberer},
+  title     = {Efficient Streaming Subgraph Isomorphism with Graph Neural Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {730-742},
+}
+
+@article{DBLP:journals/pvldb/PetersohnTDMGJP21,
+  author    = {Devin Petersohn and
+               Dixin Tang and
+               Rehan Sohail Durrani and
+               Areg Melik-Adamyan and
+               Joseph Gonzalez and
+               Anthony D. Joseph and
+               Aditya G. Parameswaran},
+  title     = {Flexible {Rule-Based} Decomposition and Metadata Independence in Modin: A Parallel Dataframe System},
+  journal   = pvldb,
+  volume    = {15},
+  number    = {3},
+  year      = 2021,
+  pages     = {739-751},
+}
+
+@article{DBLP:journals/pvldb/0010Y0M21,
+  author    = {Yi Lu and
+               Xiangyao Yu and
+               Lei Cao and
+               Samuel Madden},
+  title     = {Epoch-based Commit and Replication in Distributed {OLTP} Databases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {743-756},
+}
+
+@article{DBLP:journals/pvldb/Lin000T21,
+  author    = {Zhe Lin and
+               Fan Zhang and
+               Xuemin Lin and
+               Wenjie Zhang and
+               Zhihong Tian},
+  title     = {Hierarchical Core Maintenance on Large Dynamic Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {757-770},
+}
+
+@article{DBLP:journals/pvldb/MohanPRC21,
+  author    = {Jayashree Mohan and
+               Amar Phanishayee and
+               Ashish Raniwala and
+               Vijay Chidambaram},
+  title     = {Analyzing and Mitigating Data Stalls in {DNN} Training},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {771-784},
+}
+
+@article{DBLP:journals/pvldb/HuCW0021,
+  author    = {Daokun Hu and
+               Zhiwen Chen and
+               Jianbing Wu and
+               Jianhua Sun and
+               Hao Chen},
+  title     = {Persistent Memory Hash Indexes: An Experimental Evaluation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {785-798},
+}
+
+@article{DBLP:journals/pvldb/00080LWZCDHWWZR21,
+  author    = {Cheng Chen and
+               Jun Yang and
+               Mian Lu and
+               Taize Wang and
+               Zhao Zheng and
+               Yuqiang Chen and
+               Wenyuan Dai and
+               Bingsheng He and
+               Weng-Fai Wong and
+               Guoan Wu and
+               Yuping Zhao and
+               Andy Rudoff},
+  title     = {Optimizing An In-memory Database System For {AI-powered} On-line Decision Augmentation Using Persistent Memory},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {799-812},
+}
+
+@article{DBLP:journals/pvldb/UstaKU21,
+  author    = {Arif Usta and
+               Akifhan Karakayali and
+               Özgür Ulusoy},
+  title     = {DBTagger: {Multi-Task} Learning for Keyword Mapping in {NLIDBs} Using {Bi-Directional} Recurrent Neural Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {813-821},
+}
+
+@article{DBLP:journals/pvldb/Sarkhel021,
+  author    = {Ritesh Sarkhel and
+               Arnab Nandi},
+  title     = {Improving Information Extraction from Visually Rich Documents using Visual Span Representations},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {822-834},
+}
+
+@article{DBLP:journals/pvldb/LiuCC21,
+  author    = {Gang Liu and
+               Leying Chen and
+               Shimin Chen},
+  title     = {Zen: a {High-Throughput} {Log-Free} {OLTP} Engine for {Non-Volatile} Main Memory},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {835-848},
+}
+
+@article{DBLP:journals/pvldb/Ji0YAYS21,
+  author    = {Tianxi Ji and
+               Pan Li and
+               Emre Yilmaz and
+               Erman Ayday and
+               Yanfang Ye and
+               Jinyuan Sun},
+  title     = {Differentially Private Binary- and {Matrix-Valued} Data Query: An {XOR} Mechanism},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {5},
+  year      = 2021,
+  pages     = {849-862},
+}
+
+@article{DBLP:journals/pvldb/NakandalaZK21,
+  author    = {Supun Nakandala and
+               Yuhao Zhang and
+               Arun Kumar},
+  title     = {Errata for "Cerebro: A Data System for Optimized Deep Learning Model Selection"},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {863},
+}
+
+@article{DBLP:journals/pvldb/Yin00PZ21,
+  author    = {Lujia Yin and
+               Yiming Zhang and
+               Zhaoning Zhang and
+               Yuxing Peng and
+               Peng Zhao},
+  title     = {ParaX: Boosting Deep Learning for Big Data Analytics on {Many-Core} {CPUs}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {864-877},
+}
+
+@article{DBLP:journals/pvldb/CaiB0C21,
+  author    = {Walter Cai and
+               Philip A. Bernstein and
+               Wentao Wu and
+               Badrish Chandramouli},
+  title     = {Optimization of Threshold Functions over Streams},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {878-889},
+}
+
+@article{DBLP:journals/pvldb/Zhu0CJZX21,
+  author    = {Xuliang Zhu and
+               Xin Huang and
+               Byron Choi and
+               Jiaxin Jiang and
+               Zhaonian Zou and
+               Jianliang Xu},
+  title     = {Budget Constrained Interactive Search for Multiple Targets},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {890-902},
+}
+
+@article{DBLP:journals/pvldb/ChenN21,
+  author    = {Yangjun Chen and
+               Hoang Hai Nguyen},
+  title     = {On the String Matching with k Differences in {DNA} Databases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {903-915},
+}
+
+@article{DBLP:journals/pvldb/FujiwaraKIKU21,
+  author    = {Yasuhiro Fujiwara and
+               Sekitoshi Kanai and
+               Yasutoshi Ida and
+               Atsutoshi Kumagai and
+               Naonori Ueda},
+  title     = {Fast Algorithm for Anchor Graph Hashing},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {916-928},
+}
+
+@article{DBLP:journals/pvldb/ZhangKRSS21,
+  author    = {Wangda Zhang and
+               Junyoung Kim and
+               Kenneth A. Ross and
+               Eric Sedlar and
+               Lukas Stadler},
+  title     = {Adaptive Code Generation for {Data-Intensive} Analytics},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {929-942},
+}
+
+@article{DBLP:journals/pvldb/TsamouraCMU21,
+  author    = {Efthymia Tsamoura and
+               David Carral and
+               Enrico Malizia and
+               Jacopo Urbani},
+  title     = {Materializing Knowledge Bases via Trigger Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {943-956},
+}
+
+@article{DBLP:journals/pvldb/LiuLL0PS21,
+  author    = {Jinfei Liu and
+               Jian Lou and
+               Junxu Liu and
+               Li Xiong and
+               Jian Pei and
+               Jimeng Sun},
+  title     = {Dealer: An {End-to-End} Model Marketplace with Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {957-969},
+}
+
+@article{DBLP:journals/pvldb/RahmanBLZSKP21,
+  author    = {Sajjadur Rahman and
+               Mangesh Bendre and
+               Yuyang Liu and
+               Shichu Zhu and
+               Zhaoyuan Su and
+               Karrie Karahalios and
+               Aditya G. Parameswaran},
+  title     = {NOAH: Interactive Spreadsheet Exploration with Dynamic Hierarchical Overviews},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {970-983},
+}
+
+@article{DBLP:journals/pvldb/YangFO0021,
+  author    = {Yixing Yang and
+               Yixiang Fang and
+               Maria E. Orlowska and
+               Wenjie Zhang and
+               Xuemin Lin},
+  title     = {Efficient Bi-triangle Counting for Large Bipartite Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {984-996},
+}
+
+@article{DBLP:journals/pvldb/TataPWCNG21,
+  author    = {Sandeep Tata and
+               Navneet Potti and
+               James B. Wendt and
+               Lauro Beltrão Costa and
+               Marc Najork and
+               Beliz Gunel},
+  title     = {Glean: Structured Extractions from Templatic Documents},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {997-1005},
+}
+
+@article{DBLP:journals/pvldb/GaoCLZ21,
+  author    = {Jun Gao and
+               Jiazun Chen and
+               Zhao Li and
+               Ji Zhang},
+  title     = {ICS-GNN: Lightweight Interactive Community Search via Graph Neural Network},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1006-1018},
+}
+
+@article{DBLP:journals/pvldb/SunWL021,
+  author    = {Yuanyuan Sun and
+               Sheng Wang and
+               Huorong Li and
+               Feifei Li},
+  title     = {Building {Enclave-Native} Storage Engines for Practical Encrypted Databases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1019-1032},
+}
+
+@article{DBLP:journals/pvldb/ThorneYSS0L21,
+  author    = {James Thorne and
+               Majid Yazdani and
+               Marzieh Saeidi and
+               Fabrizio Silvestri and
+               Sebastian Riedel and
+               Alon Y. Levy},
+  title     = {From Natural Language Processing to Neural Databases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1033-1039},
+}
+
+@article{DBLP:journals/pvldb/WangMOCP21,
+  author    = {Haibo Wang and
+               Chaoyi Ma and
+               Olufemi O. Odegbile and
+               Shigang Chen and
+               Jih-Kwon Peir},
+  title     = {Randomized Error Removal for Online Spread Estimation in Data Streaming},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1040-1052},
+}
+
+@article{DBLP:journals/pvldb/LeoB21,
+  author    = {Dean De Leo and
+               Peter A. Boncz},
+  title     = {Teseo and the Analysis of Structural Dynamic Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1053-1066},
+}
+
+@article{DBLP:journals/pvldb/GubnerB21,
+  author    = {Tim Gubner and
+               Peter A. Boncz},
+  title     = {Charting the Design Space of Query Execution using {VOILA}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1067-1079},
+}
+
+@article{DBLP:journals/pvldb/WangXS21,
+  author    = {Zhiqi Wang and
+               Jin Xue and
+               Zili Shao},
+  title     = {Heracles: An Efficient Storage Model And Data Flushing For Performance Monitoring Timeseries},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1080-1092},
+}
+
+@article{DBLP:journals/pvldb/MackePGLXH21,
+  author    = {Stephen Macke and
+               Aditya G. Parameswaran and
+               Hongpu Gong and
+               Doris Jung Lin Lee and
+               Doris Xin and
+               Andrew Head},
+  title     = {{Fine-Grained} Lineage for Safer Notebook Interactions},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1093-1101},
+}
+
+@article{DBLP:journals/pvldb/TsitsulinMMKOM21,
+  author    = {Anton Tsitsulin and
+               Marina Munkhoeva and
+               Davide Mottin and
+               Panagiotis Karras and
+               Ivan V. Oseledets and
+               Emmanuel Müller},
+  title     = {FREDE: Anytime Graph Embeddings},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1102-1110},
+}
+
+@article{DBLP:journals/pvldb/0009CCSMC21,
+  author    = {Xiaodong Li and
+               Reynold Cheng and
+               Kevin Chen-Chuan Chang and
+               Caihua Shan and
+               Chenhao Ma and
+               Hongtai Cao},
+  title     = {On Analyzing Graphs with {Motif-Paths}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {6},
+  year      = 2021,
+  pages     = {1111-1123},
+}
+
+@article{DBLP:journals/pvldb/TsarasTNP21,
+  author    = {Dimitris Tsaras and
+               George Trimponias and
+               Lefteris Ntaflos and
+               Dimitris Papadias},
+  title     = {Collective Influence Maximization for Multiple Competing Products with an {Awareness-to-Influence} Model},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1124-1136},
+}
+
+@article{DBLP:journals/pvldb/SunX0HL021,
+  author    = {Yahui Sun and
+               Xiaokui Xiao and
+               Bin Cui and
+               Saman K. Halgamuge and
+               Theodoros Lappas and
+               Jun Luo},
+  title     = {Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1137-1149},
+}
+
+@article{DBLP:journals/pvldb/AbeywickramaLT21,
+  author    = {Tenindra Abeywickrama and
+               Victor Liang and
+               Kian-Lee Tan},
+  title     = {Optimizing Bipartite Matching in {Real-World} Applications by Incremental Cost Computation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1150-1158},
+}
+
+@article{DBLP:journals/pvldb/Trummer21,
+  author    = {Immanuel Trummer},
+  title     = {The Case for {NLP-Enhanced} Database Tuning: Towards Tuning Tools that "Read the Manual"},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1159-1165},
+}
+
+@article{DBLP:journals/pvldb/MaiyyaNAA21,
+  author    = {Sujaya Maiyya and
+               Faisal Nawab and
+               Divy Agrawal and
+               Amr El Abbadi},
+  title     = {Errata for "Unifying Consensus and Atomic Commitment for Effective Cloud Data Management"},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1166},
+}
+
+@article{DBLP:journals/pvldb/IstvanPC21,
+  author    = {Zsolt István and
+               Soujanya Ponnapalli and
+               Vijay Chidambaram},
+  title     = {{Software-Defined} Data Protection: Low Overhead Policy Compliance at the Storage Layer is Within Reach!},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1167-1174},
+}
+
+@article{DBLP:journals/pvldb/Li0JP21,
+  author    = {Tianyi Li and
+               Lu Chen and
+               Christian S. Jensen and
+               Torben Bach Pedersen},
+  title     = {TRACE: Real-time Compression of Streaming Trajectories in Road Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1175-1187},
+}
+
+@article{DBLP:journals/pvldb/SahaBVKB21,
+  author    = {Arkaprava Saha and
+               Ruben Brokkelkamp and
+               Yllka Velaj and
+               Arijit Khan and
+               Francesco Bonchi},
+  title     = {Shortest Paths and Centrality in Uncertain Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1188-1201},
+}
+
+@article{DBLP:journals/pvldb/LiuLF00021,
+  author    = {Tongyu Liu and
+               Ju Fan and
+               Yinqing Luo and
+               Nan Tang and
+               Guoliang Li and
+               Xiaoyong Du},
+  title     = {Adaptive Data Augmentation for Supervised Learning over Missing Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1202-1214},
+}
+
+@article{DBLP:journals/pvldb/ZhaoMWAA21,
+  author    = {Fuheng Zhao and
+               Sujaya Maiyya and
+               Ryan Weiner and
+               Divy Agrawal and
+               Amr El Abbadi},
+  title     = {KLL±: Approximate Quantile Sketches over Dynamic Datasets},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1215-1227},
+}
+
+@article{DBLP:journals/pvldb/JankovYLJ21,
+  author    = {Dimitrije Jankov and
+               Binhang Yuan and
+               Shangyu Luo and
+               Chris Jermaine},
+  title     = {Distributed Numerical and Machine Learning Computations via {Two-Phase} Execution of Aggregated Join Trees},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1228-1240},
+}
+
+@article{DBLP:journals/pvldb/AkenYBFZBP21,
+  author    = {Dana Van Aken and
+               Dongsheng Yang and
+               Sebastien Brillard and
+               Ari Fiorino and
+               Bohan Zhang and
+               Christian Billian and
+               Andrew Pavlo},
+  title     = {An Inquiry into Machine Learning-based Automatic Configuration Tuning Services on {Real-World} Database Management Systems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {7},
+  year      = 2021,
+  pages     = {1241-1253},
+}
+
+@article{DBLP:journals/pvldb/TangFLTDLMO21,
+  author    = {Nan Tang and
+               Ju Fan and
+               Fangyi Li and
+               Jianhong Tu and
+               Xiaoyong Du and
+               Guoliang Li and
+               Samuel Madden and
+               Mourad Ouzzani},
+  title     = {RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1254-1261},
+}
+
+@article{DBLP:journals/pvldb/ZouDBIYJJ21,
+  author    = {Jia Zou and
+               Amitabh Das and
+               Pratik Barhate and
+               Arun Iyengar and
+               Binhang Yuan and
+               Dimitrije Jankov and
+               Chris Jermaine},
+  title     = {Lachesis: Automated Partitioning for {UDF-Centric} Analytics},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1262-1275},
+}
+
+@article{DBLP:journals/pvldb/WuZCCWX21,
+  author    = {Jiacheng Wu and
+               Yong Zhang and
+               Shimin Chen and
+               Yu Chen and
+               Jin Wang and
+               Chunxiao Xing},
+  title     = {Updatable Learned Index with Precise Positions},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1276-1288},
+}
+
+@article{DBLP:journals/pvldb/FangPCDG21,
+  author    = {Ziquan Fang and
+               Lu Pan and
+               Lu Chen and
+               Yuntao Du and
+               Yunjun Gao},
+  title     = {MDTP: A Multi-source Deep Traffic Prediction Framework over {Spatio-Temporal} Trajectory Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1289-1297},
+}
+
+@article{DBLP:journals/pvldb/MinPPGIH21,
+  author    = {Seunghwan Min and
+               Sung Gwan Park and
+               Kunsoo Park and
+               Dora Giammarresi and
+               Giuseppe F. Italiano and
+               Wook-Shin Han},
+  title     = {Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1298-1310},
+}
+
+@article{DBLP:journals/pvldb/SuzukiHKSNS21,
+  author    = {Tomoya Suzuki and
+               Kazuhiro Hiwada and
+               Hirotsugu Kajihara and
+               Shintaro Sano and
+               Shuou Nomura and
+               Tatsuo Shiozawa},
+  title     = {Approaching {DRAM} performance by using microsecond-latency flash memory for small-sized random read accesses: a new access method and its graph applications},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1311-1324},
+}
+
+@article{DBLP:journals/pvldb/OrogatLE21,
+  author    = {Abdelghny Orogat and
+               Isabelle Liu and
+               Ahmed El-Roby},
+  title     = {CBench: Towards Better Evaluation of Question Answering Over Knowledge Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1325-1337},
+}
+
+@article{DBLP:journals/pvldb/YuanJZTBJ21,
+  author    = {Binhang Yuan and
+               Dimitrije Jankov and
+               Jia Zou and
+               Yuxin Tang and
+               Daniel Bourgeois and
+               Chris Jermaine},
+  title     = {Tensor Relational Algebra for Distributed Machine Learning System Design},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1338-1350},
+}
+
+@article{DBLP:journals/pvldb/FanTWY21,
+  author    = {Wenfei Fan and
+               Chao Tian and
+               Yanghao Wang and
+               Qiang Yin},
+  title     = {Parallel Discrepancy Detection and Incremental Detection},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1351-1364},
+}
+
+@article{DBLP:journals/pvldb/LiuLLCS21,
+  author    = {Tiantian Liu and
+               Huan Li and
+               Hua Lu and
+               Muhammad Aamir Cheema and
+               Lidan Shou},
+  title     = {Towards Crowd-aware Indoor Path Planning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1365-1377},
+}
+
+@article{DBLP:journals/pvldb/GuptaR21,
+  author    = {Surabhi Gupta and
+               Karthik Ramachandra},
+  title     = {Procedural Extensions of SQL: Understanding their usage in the wild},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1378-1391},
+}
+
+@article{DBLP:journals/pvldb/BharadwajGBG21,
+  author    = {Sagar Bharadwaj and
+               Praveen Gupta and
+               Ranjita Bhagwan and
+               Saikat Guha},
+  title     = {Discovering Related Data At Scale},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1392-1400},
+}
+
+@article{DBLP:journals/pvldb/CeredaVCD21,
+  author    = {Stefano Cereda and
+               Stefano Valladares and
+               Paolo Cremonesi and
+               Stefano Doni},
+  title     = {CGPTuner: a Contextual Gaussian Process Bandit Approach for the Automatic Tuning of {IT} Configurations Under Varying Workload Conditions},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1401-1413},
+}
+
+@article{DBLP:journals/pvldb/SchiavioBB21,
+  author    = {Filippo Schiavio and
+               Daniele Bonetta and
+               Walter Binder},
+  title     = {{Language-Agnostic} Integrated Queries in a Managed Polyglot Runtime},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1414-1426},
+}
+
+@article{DBLP:journals/pvldb/KulkarniCS21,
+  author    = {Chinmay Kulkarni and
+               Badrish Chandramouli and
+               Ryan Stutsman},
+  title     = {Achieving High Throughput and Elasticity in a {Larger-than-Memory} Store},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1427-1440},
+}
+
+@article{DBLP:journals/pvldb/YaoC21,
+  author    = {Kai Yao and
+               Lijun Chang},
+  title     = {Efficient {Size-Bounded} Community Search over Large Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {8},
+  year      = 2021,
+  pages     = {1441-1453},
+}
+
+@article{DBLP:journals/pvldb/ZhaoT21,
+  author    = {Jianwen Zhao and
+               Yufei Tao},
+  title     = {Minimum Vertex Augmentation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1454-1466},
+}
+
+@article{DBLP:journals/pvldb/GaffneyCP21,
+  author    = {Kevin P. Gaffney and
+               Robert K. Claus and
+               Jignesh M. Patel},
+  title     = {Database Isolation By Scheduling},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1467-1480},
+}
+
+@article{DBLP:journals/pvldb/ParkCOL21,
+  author    = {Jong-Hyeok Park and
+               Soyee Choi and
+               Gihwan Oh and
+               Sang Won Lee},
+  title     = {SaS: {SSD} as {SQL} Database System},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1481-1488},
+}
+
+@article{DBLP:journals/pvldb/ZhuWHZPQZC21,
+  author    = {Rong Zhu and
+               Ziniu Wu and
+               Yuxing Han and
+               Kai Zeng and
+               Andreas Pfadler and
+               Zhengping Qian and
+               Jingren Zhou and
+               Bin Cui},
+  title     = {FLAT: Fast, Lightweight and Accurate Method for Cardinality Estimation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1489-1502},
+}
+
+@article{DBLP:journals/pvldb/ChanLUXC21,
+  author    = {Tsz Nam Chan and
+               Zhe Li and
+               Leong Hou U and
+               Jianliang Xu and
+               Reynold Cheng},
+  title     = {Fast Augmentation Algorithms for Network Kernel Density Visualization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1503-1516},
+}
+
+@article{DBLP:journals/pvldb/WangLMHYFX21,
+  author    = {Jiawei Wang and
+               Cheng Li and
+               Kai Ma and
+               Jingze Huo and
+               Feng Yan and
+               Xinyu Feng and
+               Yinlong Xu},
+  title     = {AutoGR: Automated {Geo-Replication} with Fast System Performance and Preserved Application Semantics},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1517-1530},
+}
+
+@article{DBLP:journals/pvldb/LiuZHX21,
+  author    = {Qing Liu and
+               Xuliang Zhu and
+               Xin Huang and
+               Jianliang Xu},
+  title     = {Local Algorithms for Distance-generalized Core Decomposition over Large Dynamic Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1531-1543},
+}
+
+@article{DBLP:journals/pvldb/BensonMR21,
+  author    = {Lawrence Benson and
+               Hendrik Makait and
+               Tilmann Rabl},
+  title     = {Viper: An Efficient Hybrid {PMem-DRAM} {Key-Value} Store},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1544-1556},
+}
+
+@article{DBLP:journals/pvldb/ZeighamiSK21,
+  author    = {Sepanta Zeighami and
+               Cyrus Shahabi and
+               John Krumm},
+  title     = {Estimating Spread of {Contact-Based} Contagions in a Population Through {Sub-Sampling}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1557-1569},
+}
+
+@article{DBLP:journals/pvldb/HerodotouK21,
+  author    = {Herodotos Herodotou and
+               Elena Kakoulli},
+  title     = {Trident: Task Scheduling over Tiered Storage Systems in Big Data Platforms},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1570-1582},
+}
+
+@article{DBLP:journals/pvldb/CongCYP21,
+  author    = {Zicun Cong and
+               Lingyang Chu and
+               Yu Yang and
+               Jian Pei},
+  title     = {Comprehensible Counterfactual Explanation on {Kolmogorov-Smirnov} Test},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1583-1596},
+}
+
+@article{DBLP:journals/pvldb/ZhouSZKP21,
+  author    = {Hongkuan Zhou and
+               Ajitesh Srivastava and
+               Hanqing Zeng and
+               Rajgopal Kannan and
+               Viktor K. Prasanna},
+  title     = {Accelerating Large Scale {Real-Time} {GNN} Inference using Channel Pruning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1597-1605},
+}
+
+@article{DBLP:journals/pvldb/LeisK21,
+  author    = {Viktor Leis and
+               Maximilian Kuschewski},
+  title     = {Towards {Cost-Optimal} Query Processing in the Cloud},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1606-1612},
+}
+
+@article{DBLP:journals/pvldb/GongTYYZGYYZ21,
+  author    = {Shufeng Gong and
+               Chao Tian and
+               Qiang Yin and
+               Wenyuan Yu and
+               Yanfeng Zhang and
+               Liang Geng and
+               Song Yu and
+               Ge Yu and
+               Jingren Zhou},
+  title     = {Automating Incremental Graph Processing with Flexible Memoization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1613-1625},
+}
+
+@article{DBLP:journals/pvldb/JepsenLPSC21,
+  author    = {Theo Jepsen and
+               Alberto Lerner and
+               Fernando Pedone and
+               Robert Soulé and
+               Philippe Cudré-Mauroux},
+  title     = {{In-Network} Support for Transaction Triaging},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1626-1639},
+}
+
+@article{DBLP:journals/pvldb/WangQWWZ21,
+  author    = {Xiaoying Wang and
+               Changbo Qu and
+               Weiyuan Wu and
+               Jiannan Wang and
+               Qingqing Zhou},
+  title     = {Are We Ready For Learned Cardinality Estimation?},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1640-1654},
+}
+
+@article{DBLP:journals/pvldb/Lemiesz21,
+  author    = {Jakub Lemiesz},
+  title     = {On the algebra of data sketches},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1655-1667},
+}
+
+@article{DBLP:journals/pvldb/HouCWW21,
+  author    = {Guanhao Hou and
+               Xingguang Chen and
+               Sibo Wang and
+               Zhewei Wei},
+  title     = {Massively Parallel Algorithms for Personalized {PageRank}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1668-1680},
+}
+
+@article{DBLP:journals/pvldb/SchleichGZS21,
+  author    = {Maximilian Schleich and
+               Zixuan Geng and
+               Yihong Zhang and
+               Dan Suciu},
+  title     = {GeCo: Quality Counterfactual Explanations in Real Time},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1681-1693},
+}
+
+@article{DBLP:journals/pvldb/SalazarNA21,
+  author    = {Ricardo Salazar and
+               Felix Neutatz and
+               Ziawasch Abedjan},
+  title     = {Automated Feature Engineering for Algorithmic Fairness},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {9},
+  year      = 2021,
+  pages     = {1694-1702},
+}
+
+@article{DBLP:journals/pvldb/AddankiGS21,
+  author    = {Raghavendra Addanki and
+               Sainyam Galhotra and
+               Barna Saha},
+  title     = {How to Design Robust Algorithms using Noisy Comparison Oracle},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1703-1716},
+}
+
+@article{DBLP:journals/pvldb/BoniolPPF21,
+  author    = {Paul Boniol and
+               John Paparrizos and
+               Themis Palpanas and
+               Michael J. Franklin},
+  title     = {SAND: Streaming Subsequence Anomaly Detection},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1717-1729},
+}
+
+@article{DBLP:journals/pvldb/XiaoDWZK21,
+  author    = {Yingtai Xiao and
+               Zeyu Ding and
+               Yuxin Wang and
+               Danfeng Zhang and
+               Daniel Kifer},
+  title     = {Optimizing {Fitness-For-Use} of Differentially Private Linear Queries},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1730-1742},
+}
+
+@article{DBLP:journals/pvldb/CaoLLR21,
+  author    = {Xinle Cao and
+               Jian Liu and
+               Hao Lu and
+               Kui Ren},
+  title     = {Cryptanalysis of An Encrypted Database in {SIGMOD} '14},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1743-1755},
+}
+
+@article{DBLP:journals/pvldb/JinYYSHX21,
+  author    = {Tianyuan Jin and
+               Yu Yang and
+               Renchi Yang and
+               Jieming Shi and
+               Keke Huang and
+               Xiaokui Xiao},
+  title     = {Unconstrained Submodular Maximization with Modular Costs: Tight Approximation and Application to Profit Maximization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1756-1768},
+}
+
+@article{DBLP:journals/pvldb/ZhangMJKKKVK21,
+  author    = {Yuhao Zhang and
+               Frank Mcquillan and
+               Nandish Jayaram and
+               Nikhil Kak and
+               Ekta Khanna and
+               Orhan Kislal and
+               Domino Valdano and
+               Arun Kumar},
+  title     = {Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1769-1782},
+}
+
+@article{DBLP:journals/pvldb/ShengHWB21,
+  author    = {Siyuan Sheng and
+               Qun Huang and
+               Sa Wang and
+               Yungang Bao},
+  title     = {PR-Sketch: Monitoring Per-key Aggregation of Streaming Data with Nearly Full Accuracy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1783-1796},
+}
+
+@article{DBLP:journals/pvldb/KoutsoukosNKSAI21,
+  author    = {Dimitrios Koutsoukos and
+               Supun Nakandala and
+               Konstantinos Karanasos and
+               Karla Saur and
+               Gustavo Alonso and
+               Matteo Interlandi},
+  title     = {Tensors: An abstraction for general data processing},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1797-1804},
+}
+
+@article{DBLP:journals/pvldb/PujolWFM21,
+  author    = {David Pujol and
+               Yikai Wu and
+               Brandon Fain and
+               Ashwin Machanavajjhala},
+  title     = {Budget Sharing for {Multi-Analyst} Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1805-1817},
+}
+
+@article{DBLP:journals/pvldb/LemaitreKHQM21,
+  author    = {Rudi Poepsel Lemaitre and
+               Martin Kiefer and
+               Joscha Von Hein and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Volker Markl},
+  title     = {In the Land of Data Streams where Synopses are Missing, One Framework to Bring Them All},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1818-1831},
+}
+
+@article{DBLP:journals/pvldb/LiYK21,
+  author    = {Yifan Li and
+               Xiaohui Yu and
+               Nick Koudas},
+  title     = {Data Acquisition for Improving Machine Learning Models},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1832-1844},
+}
+
+@article{DBLP:journals/pvldb/ChenWLZQZ21,
+  author    = {Xiaoshuang Chen and
+               Kai Wang and
+               Xuemin Lin and
+               Wenjie Zhang and
+               Lu Qin and
+               Ying Zhang},
+  title     = {Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1845-1858},
+}
+
+@article{DBLP:journals/pvldb/CiacciaMT21,
+  author    = {Paolo Ciaccia and
+               Davide Martinenghi and
+               Riccardo Torlone},
+  title     = {Preference Queries over Taxonomic Domains},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1859-1871},
+}
+
+@article{DBLP:journals/pvldb/YanCJCSWHYCL21,
+  author    = {Baoyue Yan and
+               Xuntao Cheng and
+               Bo Jiang and
+               Shibin Chen and
+               Canfang Shang and
+               Jianying Wang and
+               Kenry Huang and
+               Xinjun Yang and
+               Wei Cao and
+               Feifei Li},
+  title     = {Revisiting the Design of {LSM-tree} Based {OLTP} Storage Engine with Persistent Memory},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1872-1885},
+}
+
+@article{DBLP:journals/pvldb/GeMHI21,
+  author    = {Chang Ge and
+               Shubhankar Mohapatra and
+               Xi He and
+               Ihab F. Ilyas},
+  title     = {Kamino: {Constraint-Aware} Differentially Private Data Synthesis},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1886-1899},
+}
+
+@article{DBLP:journals/pvldb/ZhangRLYCLWFWHB21,
+  author    = {Yingqiang Zhang and
+               Chaoyi Ruan and
+               Cheng Li and
+               Jimmy Yang and
+               Wei Cao and
+               Feifei Li and
+               Bo Wang and
+               Jing Fang and
+               Yuhui Wang and
+               Jingze Huo and
+               Chao Bi},
+  title     = {Towards {Cost-Effective} and Elastic Cloud Database Deployment via Memory Disaggregation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1900-1912},
+}
+
+@article{DBLP:journals/pvldb/PeetersB21,
+  author    = {Ralph Peeters and
+               Christian Bizer},
+  title     = {{Dual-Objective} {Fine-Tuning} of {BERT} for Entity Matching},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {10},
+  year      = 2021,
+  pages     = {1913-1921},
+}
+
+@article{DBLP:journals/pvldb/BestaVSSKGBJHLT21,
+  author    = {Maciej Besta and
+               Zur Vonarburg-Shmaria and
+               Yannick Schaffner and
+               Leonardo Schwarz and
+               Grzegorz Kwasniewski and
+               Lukas Gianinazzi and
+               Jakub Beránek and
+               Kacper Janda and
+               Tobias Holenstein and
+               Sebastian Leisinger and
+               Peter Tatkowski and
+               Esref Özdemir and
+               Adrian Balla and
+               Marcin Copik and
+               Philipp Lindenberger and
+               Marek Konieczny and
+               Onur Mutlu and
+               Torsten Hoefler},
+  title     = {GraphMineSuite: Enabling {High-Performance} and Programmable Graph Mining Algorithms with Set Algebra},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {1922-1936},
+}
+
+@article{DBLP:journals/pvldb/TakenouchiIOS21,
+  author    = {Keita Takenouchi and
+               Takashi Ishio and
+               Joji Okada and
+               Yuji Sakata},
+  title     = {PATSQL: Efficient Synthesis of {SQL} Queries from Example Tables with Quick Inference of Projected Columns},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {1937-1949},
+}
+
+@article{DBLP:journals/pvldb/LiuD0Z21,
+  author    = {Jie Liu and
+               Wenqian Dong and
+               Dong Li and
+               Qingqing Zhou},
+  title     = {Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {1950-1963},
+}
+
+@article{DBLP:journals/pvldb/WangXY021,
+  author    = {Mengzhao Wang and
+               Xiaoliang Xu and
+               Qiang Yue and
+               Yuxiang Wang},
+  title     = {A Comprehensive Survey and Experimental Comparison of {Graph-Based} Approximate Nearest Neighbor Search},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {1964-1978},
+}
+
+@article{DBLP:journals/pvldb/YuanCBYHC21,
+  author    = {Zifeng Yuan and
+               Huey-Eng Chua and
+               Sourav S. Bhowmick and
+               Zekun Ye and
+               Wook-Shin Han and
+               Byron Choi},
+  title     = {Towards {Plug-and-Play} Visual Graph Query Interfaces: Data-driven Canned Pattern Selection for Large Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {1979-1991},
+}
+
+@article{DBLP:journals/pvldb/SunCLH021,
+  author    = {Shixuan Sun and
+               Yuhang Chen and
+               Shengliang Lu and
+               Bingsheng He and
+               Yuchen Li},
+  title     = {ThunderRW: An {In-Memory} Graph Random Walk Engine},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {1992-2005},
+}
+
+@article{DBLP:journals/pvldb/DongHYZ021,
+  author    = {Zheng Dong and
+               Xin Huang and
+               Guorui Yuan and
+               Hengshu Zhu and
+               Hui Xiong},
+  title     = {{Butterfly-Core} Community Search over Labeled Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2006-2018},
+}
+
+@article{DBLP:journals/pvldb/NegiMKMTKA21,
+  author    = {Parimarjan Negi and
+               Ryan C. Marcus and
+               Andreas Kipf and
+               Hongzi Mao and
+               Nesime Tatbul and
+               Tim Kraska and
+               Mohammad Alizadeh},
+  title     = {Flow-Loss: Learning Cardinality Estimates That Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2019-2032},
+}
+
+@article{DBLP:journals/pvldb/YuWQ00021,
+  author    = {Michael Yu and
+               Dong Wen and
+               Lu Qin and
+               Ying Zhang and
+               Wenjie Zhang and
+               Xuemin Lin},
+  title     = {On Querying Historical {K-Cores}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2033-2045},
+}
+
+@article{DBLP:journals/pvldb/CormodeMM21,
+  author    = {Graham Cormode and
+               Samuel Maddock and
+               Carsten Maple},
+  title     = {Frequency Estimation under Local Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2046-2058},
+}
+
+@article{DBLP:journals/pvldb/ZogajCRC21,
+  author    = {Fatjon Zogaj and
+               José Pablo Cambronero and
+               Martin Rinard and
+               Jürgen Cito},
+  title     = {Doing More with Less: Characterizing Dataset Downsampling for {AutoML}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2059-2072},
+}
+
+@article{DBLP:journals/pvldb/Li0K21,
+  author    = {Yifan Li and
+               Xiaohui Yu and
+               Nick Koudas},
+  title     = {LES3: Learning-based exact set similarity search},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2073-2086},
+}
+
+@article{DBLP:journals/pvldb/MinWHHXECH21,
+  author    = {Seungwon Min and
+               Kun Wu and
+               Sitao Huang and
+               Mert Hidayetoglu and
+               Jinjun Xiong and
+               Eiman Ebrahimi and
+               Deming Chen and
+               Wen-mei W. Hwu},
+  title     = {Large Graph Convolutional Network Training with {GPU-Oriented} Data Communication Architecture},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2087-2100},
+}
+
+@article{DBLP:journals/pvldb/YangYWLYSAS21,
+  author    = {Yifei Yang and
+               Matt Youill and
+               Matthew E. Woicik and
+               Yizhou Liu and
+               Xiangyao Yu and
+               Marco Serafini and
+               Ashraf Aboulnaga and
+               Michael Stonebraker},
+  title     = {FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud {DBMS}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2101-2113},
+}
+
+@article{DBLP:journals/pvldb/ChenSWFL21,
+  author    = {Zhiwei Chen and
+               Shaoxu Song and
+               Ziheng Wei and
+               Jingyun Fang and
+               Jiang Long},
+  title     = {Approximating Median Absolute Deviation with Bounded Error},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2114-2126},
+}
+
+@article{DBLP:journals/pvldb/Zhang0021,
+  author    = {Mengxuan Zhang and
+               Lei Li and
+               Xiaofang Zhou},
+  title     = {An Experimental Evaluation and Guideline for Path Finding in Weighted Dynamic Network},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2127-2140},
+}
+
+@article{DBLP:journals/pvldb/VandevoortK0N21,
+  author    = {Brecht Vandevoort and
+               Bas Ketsman and
+               Christoph Koch and
+               Frank Neven},
+  title     = {Robustness against Read Committed for Transaction Templates},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2141-2153},
+}
+
+@article{DBLP:journals/pvldb/Zhang0MR21,
+  author    = {Huayi Zhang and
+               Lei Cao and
+               Samuel Madden and
+               Elke A. Rundensteiner},
+  title     = {LANCET: Labeling Complex Data at Scale},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2154-2166},
+}
+
+@article{DBLP:journals/pvldb/LiSZJLDZY00021,
+  author    = {Yang Li and
+               Yu Shen and
+               Wentao Zhang and
+               Jiawei Jiang and
+               Yaliang Li and
+               Bolin Ding and
+               Jingren Zhou and
+               Zhi Yang and
+               Wentao Wu and
+               Ce Zhang and
+               Bin Cui},
+  title     = {VolcanoML: Speeding up {End-to-End} {AutoML} via Scalable Search Space Decomposition},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2167-2176},
+}
+
+@article{DBLP:journals/pvldb/0003J00Z21,
+  author    = {Peng Cheng and
+               Jiabao Jin and
+               Lei Chen and
+               Xuemin Lin and
+               Libin Zheng},
+  title     = {A {Queueing-Theoretic} Framework for Vehicle Dispatching in Dynamic {Car-Hailing}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2177-2189},
+}
+
+@article{DBLP:journals/pvldb/CaiLWX21,
+  author    = {Kuntai Cai and
+               Xiaoyu Lei and
+               Jianxin Wei and
+               Xiaokui Xiao},
+  title     = {Data Synthesis via Differentially Private Markov Random Field},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2190-2202},
+}
+
+@article{DBLP:journals/pvldb/WhittakerACDGHH21,
+  author    = {Michael J. Whittaker and
+               Ailidani Ailijiang and
+               Aleksey Charapko and
+               Murat Demirbas and
+               Neil Giridharan and
+               Joseph M. Hellerstein and
+               Heidi Howard and
+               Ion Stoica and
+               Adriana Szekeres},
+  title     = {Scaling Replicated State Machines with Compartmentalization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2203-2215},
+}
+
+@article{DBLP:journals/pvldb/SarkarSZA21,
+  author    = {Subhadeep Sarkar and
+               Dimitris Staratzis and
+               Zichen Zhu and
+               Manos Athanassoulis},
+  title     = {Constructing and Analyzing the {LSM} Compaction Design Space},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2216-2229},
+}
+
+@article{DBLP:journals/pvldb/HellingsS21,
+  author    = {Jelle Hellings and
+               Mohammad Sadoghi},
+  title     = {ByShard: Sharding in a Byzantine Environment},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2230-2243},
+}
+
+@article{DBLP:journals/pvldb/Ertl21,
+  author    = {Otmar Ertl},
+  title     = {SetSketch: Filling the Gap between {MinHash} and {HyperLogLog}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2244-2257},
+}
+
+@article{DBLP:journals/pvldb/BaoYXD21,
+  author    = {Ergute Bao and
+               Yin Yang and
+               Xiaokui Xiao and
+               Bolin Ding},
+  title     = {CGM: An Enhanced Mechanism for Streaming Data Collectionwith Local Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2258-2270},
+}
+
+@article{DBLP:journals/pvldb/LeoFB21,
+  author    = {Dean De Leo and
+               Per Fuchs and
+               Peter A. Boncz},
+  title     = {Errata for "Teseo and the Analysis of Structural Dynamic Graph"},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2271-2272},
+}
+
+@article{DBLP:journals/pvldb/MuslehASM21,
+  author    = {Mashaal Musleh and
+               Sofiane Abbar and
+               Rade Stanojevic and
+               Mohamed F. Mokbel},
+  title     = {QARTA: An {ML-based} System for Accurate Map Services},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2273-2282},
+}
+
+@article{DBLP:journals/pvldb/CunninghamCFS21,
+  author    = {Teddy Cunningham and
+               Graham Cormode and
+               Hakan Ferhatosmanoglu and
+               Divesh Srivastava},
+  title     = {{Real-World} Trajectory Sharing with Local Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2283-2295},
+}
+
+@article{DBLP:journals/pvldb/Sinthong021,
+  author    = {Phanwadee Sinthong and
+               Michael J. Carey},
+  title     = {PolyFrame: A Retargetable Query-based Approach to Scaling Dataframes},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2296-2304},
+}
+
+@article{DBLP:journals/pvldb/ShiDELM21,
+  author    = {Jessica Shi and
+               Laxman Dhulipala and
+               David Eisenstat and
+               Jakub Lacki and
+               Vahab S. Mirrokni},
+  title     = {Scalable Community Detection via Parallel Correlation Clustering},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2305-2313},
+}
+
+@article{DBLP:journals/pvldb/0004ZXP21,
+  author    = {Cheng Xu and
+               Ce Zhang and
+               Jianliang Xu and
+               Jian Pei},
+  title     = {SlimChain: Scaling Blockchain Transactions through {Off-Chain} Storage and Parallel Processing},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2314-2326},
+}
+
+@article{DBLP:journals/pvldb/Li021,
+  author    = {Side Li and
+               Arun Kumar},
+  title     = {Towards an Optimized {GROUP} {BY} Abstraction for {Large-Scale} Machine Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2327-2340},
+}
+
+@article{DBLP:journals/pvldb/KangGBHSZ21,
+  author    = {Daniel Kang and
+               John Guibas and
+               Peter Bailis and
+               Tatsunori Hashimoto and
+               Yi Sun and
+               Matei Zaharia},
+  title     = {Accelerating Approximate Aggregation Queries with Expensive Predicates},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2341-2354},
+}
+
+@article{DBLP:journals/pvldb/SchmidtBG21,
+  author    = {Tobias Schmidt and
+               Maximilian Bandle and
+               Jana Giceva},
+  title     = {A four-dimensional Analysis of Partitioned Approximate Filters},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2355-2368},
+}
+
+@article{DBLP:journals/pvldb/ChiosaPA21,
+  author    = {Monica Chiosa and
+               Thomas Preußer and
+               Gustavo Alonso},
+  title     = {SKT: A {One-Pass} {Multi-Sketch} Data Analytics Accelerator},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2369-2382},
+}
+
+@article{DBLP:journals/pvldb/Fent021,
+  author    = {Philipp Fent and
+               Thomas Neumann},
+  title     = {A Practical Approach to Groupjoin and Nested Aggregates},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2383-2396},
+}
+
+@article{DBLP:journals/pvldb/WeiTA21,
+  author    = {Ziyun Wei and
+               Immanuel Trummer and
+               Connor Anderson},
+  title     = {Robust Voice Querying with MUVE: Optimally Visualizing Results of Phonetically Similar Queries},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2397-2409},
+}
+
+@article{DBLP:journals/pvldb/WuWD21,
+  author    = {Yinjun Wu and
+               James Weimer and
+               Susan B. Davidson},
+  title     = {CHEF: A Cheap and Fast Pipeline for Iteratively Cleaning Label Uncertainties},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2410-2418},
+}
+
+@article{DBLP:journals/pvldb/SiddiquiCN21,
+  author    = {Tarique Siddiqui and
+               Surajit Chaudhuri and
+               Vivek R. Narasayya},
+  title     = {COMPARE: Accelerating Groupwise Comparison in Relational Databases for Data Analytics},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2419-2431},
+}
+
+@article{DBLP:journals/pvldb/DurnerCL21,
+  author    = {Dominik Durner and
+               Badrish Chandramouli and
+               Yinan Li},
+  title     = {Crystal: A Unified Cache Storage System for Analytical Databases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2432-2444},
+}
+
+@article{DBLP:journals/pvldb/CetorelliACM21,
+  author    = {Valerio Cetorelli and
+               Paolo Atzeni and
+               Valter Crescenzi and
+               Franco Milicchio},
+  title     = {The Smallest Extraction Problem},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2445-2458},
+}
+
+@article{DBLP:journals/pvldb/Thirumuruganathan21,
+  author    = {Saravanan Thirumuruganathan and
+               Han Li and
+               Nan Tang and
+               Mourad Ouzzani and
+               Yash Govind and
+               Derek Paulsen and
+               Glenn Fung and
+               AnHai Doan},
+  title     = {Deep Learning for Blocking in Entity Matching: A Design Space Exploration},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2459-2472},
+}
+
+@article{DBLP:journals/pvldb/ZhangYWSLW021,
+  author    = {Wentao Zhang and
+               Zhi Yang and
+               Yexin Wang and
+               Yu Shen and
+               Yang Li and
+               Liang Wang and
+               Bin Cui},
+  title     = {Grain: Improving Data Efficiency of Graph Neural Networks via Diversified Influence Maximization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2473-2482},
+}
+
+@article{DBLP:journals/pvldb/BandleG21,
+  author    = {Maximilian Bandle and
+               Jana Giceva},
+  title     = {Database Technology for the Masses: {Sub-Operators} as {First-Class} Entities},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2483-2490},
+}
+
+@article{DBLP:journals/pvldb/GuptaMS21,
+  author    = {Pranjal Gupta and
+               Amine Mhedhbi and
+               Semih Salihoglu},
+  title     = {Columnar Storage and List-based Processing for Graph Database Management Systems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2491-2504},
+}
+
+@article{DBLP:journals/pvldb/ZhuIRDPBSJ21,
+  author    = {Yiwen Zhu and
+               Matteo Interlandi and
+               Abhishek Roy and
+               Krishnadhan Das and
+               Hiren Patel and
+               Malay Bag and
+               Hitesh Sharma and
+               Alekh Jindal},
+  title     = {Phoebe: A Learning-based Checkpoint Optimizer},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2505-2518},
+}
+
+@article{DBLP:journals/pvldb/NargesianAJ21,
+  author    = {Fatemeh Nargesian and
+               Abolfazl Asudeh and
+               H. V. Jagadish},
+  title     = {Tailoring Data Source Distributions for Fairness-aware Data Integration},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2519-2532},
+}
+
+@article{DBLP:journals/pvldb/BansalDS21,
+  author    = {Parikshit Bansal and
+               Prathamesh Deshpande and
+               Sunita Sarawagi},
+  title     = {Missing Value Imputation on Multidimensional Time Series},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2533-2545},
+}
+
+@article{DBLP:journals/pvldb/RezigOAEMS21,
+  author    = {El Kindi Rezig and
+               Mourad Ouzzani and
+               Walid G. Aref and
+               Ahmed K. Elmagarmid and
+               Ahmed R. Mahmood and
+               Michael Stonebraker},
+  title     = {Horizon: Scalable Dependency-driven Data Cleaning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2546-2554},
+}
+
+@article{DBLP:journals/pvldb/ShaowangJMK21,
+  author    = {Ted Shaowang and
+               Nilesh Jain and
+               Dennis Matthews and
+               Sanjay Krishnan},
+  title     = {Declarative Data Serving: The Future of Machine Learning Inference on the Edge},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2555-2562},
+}
+
+@article{DBLP:journals/pvldb/YangHC21,
+  author    = {Junwen Yang and
+               Yeye He and
+               Surajit Chaudhuri},
+  title     = {Auto-Pipeline: Synthesize Data Pipelines {By-Target} Using Reinforcement Learning and Search},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2563-2575},
+}
+
+@article{DBLP:journals/pvldb/LockhartPWW021,
+  author    = {Brandon Lockhart and
+               Jinglin Peng and
+               Weiyuan Wu and
+               Jiannan Wang and
+               Eugene Wu},
+  title     = {Explaining Inference Queries with Bayesian Optimization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2576-2585},
+}
+
+@article{DBLP:journals/pvldb/LiuJPE21,
+  author    = {Chunwei Liu and
+               Hao Jiang and
+               John Paparrizos and
+               Aaron J. Elmore},
+  title     = {Decomposed Bounded Floats for Fast Compression and Queries},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2586-2598},
+}
+
+@article{DBLP:journals/pvldb/TziavelisGR21,
+  author    = {Nikolaos Tziavelis and
+               Wolfgang Gatterbauer and
+               Mirek Riedewald},
+  title     = {Beyond Equi-joins: Ranking, Enumeration and Factorization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2599-2612},
+}
+
+@article{DBLP:journals/pvldb/JacobSSRDT21,
+  author    = {Vincent Jacob and
+               Fei Song and
+               Arnaud Stiegler and
+               Bijan Rad and
+               Yanlei Diao and
+               Nesime Tatbul},
+  title     = {Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2613-2626},
+}
+
+@article{DBLP:journals/pvldb/KuchnikAS21,
+  author    = {Michael Kuchnik and
+               George Amvrosiadis and
+               Virginia Smith},
+  title     = {Progressive Compressed Records: Taking a Byte out of Deep Learning Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2627-2641},
+}
+
+@article{DBLP:journals/pvldb/AlsaudiAMY21,
+  author    = {Abdulrahman Alsaudi and
+               Yasser Altowim and
+               Sharad Mehrotra and
+               Yaming Yu},
+  title     = {TQEL: Framework for {Query-Driven} Linking of {Top-K} Entities in Social Media Blogs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {11},
+  year      = 2021,
+  pages     = {2642-2654},
+}
+
+@article{DBLP:journals/pvldb/ChanIUTMLC21,
+  author    = {Tsz Nam Chan and
+               Pak Lon Ip and
+               Leong Hou U and
+               Weng Hou Tong and
+               Shivansh Mittal and
+               Ye Li and
+               Reynold Cheng},
+  title     = {KDV-Explorer: A Near {Real-Time} Kernel Density Visualization System for Spatial Analysis},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2655-2658},
+}
+
+@article{DBLP:journals/pvldb/ZhangDMYJ0S021,
+  author    = {Zhebin Zhang and
+               Dajie Dong and
+               Yuhang Ma and
+               Yilong Ying and
+               Dawei Jiang and
+               Ke Chen and
+               Lidan Shou and
+               Gang Chen},
+  title     = {Refiner: A Reliable {Incentive-Driven} Federated Learning System Powered by Blockchain},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2659-2662},
+}
+
+@article{DBLP:journals/pvldb/UotilaLGLDP21,
+  author    = {Valter Uotila and
+               Jiaheng Lu and
+               Dieter Gawlick and
+               Zhen Hua Liu and
+               Souripriya Das and
+               Gregory Pogossiants},
+  title     = {MultiCategory: Multi-model Query Processing Meets Category Theory and Functional Programming},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2663-2666},
+}
+
+@article{DBLP:journals/pvldb/WangZA000Z21,
+  author    = {Qichen Wang and
+               Chaoqi Zhang and
+               Danish Alsayed and
+               Ke Yi and
+               Bin Wu and
+               Feifei Li and
+               Chaoqun Zhan},
+  title     = {Cquirrel: Continuous Query Processing over Acyclic Relational Schemas},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2667-2670},
+}
+
+@article{DBLP:journals/pvldb/MaoYCDSC21,
+  author    = {Yuetian Mao and
+               Shuai Yuan and
+               Nan Cui and
+               Tianjiao Du and
+               Beijun Shen and
+               Yuting Chen},
+  title     = {DeFiHap: Detecting and Fixing {HiveQL} {Anti-Patterns}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2671-2674},
+}
+
+@article{DBLP:journals/pvldb/HelalHAM21,
+  author    = {Ahmed Helal and
+               Mossad Helali and
+               Khaled Ammar and
+               Essam Mansour},
+  title     = {A Demonstration of KGLac: A Data Discovery and Enrichment Platform for Data Science},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2675-2678},
+}
+
+@article{DBLP:journals/pvldb/Faure--giovagnoli21,
+  author    = {Pierre Faure--giovagnoli and
+               Marie Le Guilly and
+               Vasile-Marian Scuturici and
+               Jean-Marc Petit},
+  title     = {Assessing the Existence of a Model in your Data with {ADESIT}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2679-2682},
+}
+
+@article{DBLP:journals/pvldb/YanW21,
+  author    = {Yinzhao Yan and
+               Raymond Chi-Wing Wong},
+  title     = {Path Advisor: A {Multi-Functional} Campus Map Tool for Shortest Path},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2683-2686},
+}
+
+@article{DBLP:journals/pvldb/LiN021,
+  author    = {Liangde Li and
+               Supun Chathuranga Nakandala and
+               Arun Kumar},
+  title     = {Intermittent {Human-in-the-Loop} Model Selection using Cerebro: A Demonstration},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2687-2690},
+}
+
+@article{DBLP:journals/pvldb/FunkeT21,
+  author    = {Henning Funke and
+               Jens Teubner},
+  title     = {{Low-Latency} Compilation of {SQL} Queries to Machine Code},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2691-2694},
+}
+
+@article{DBLP:journals/pvldb/GroppeKW21,
+  author    = {Sven Groppe and
+               Rico Klinckenberg and
+               Benjamin Warnke},
+  title     = {Sound of Databases: Sonification of a Semantic Web Database Engine},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2695-2698},
+}
+
+@article{DBLP:journals/pvldb/ChenX00MQZ21,
+  author    = {Zihao Chen and
+               Zhizhen Xu and
+               Chen Xu and
+               Juan Soto and
+               Volker Markl and
+               Weining Qian and
+               Aoying Zhou},
+  title     = {HyMAC: A Hybrid Matrix Computation System},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2699-2702},
+}
+
+@article{DBLP:journals/pvldb/XuBFLLLQWWYZ21,
+  author    = {Jingbo Xu and
+               Zhanning Bai and
+               Wenfei Fan and
+               Longbin Lai and
+               Xue Li and
+               Zhao Li and
+               Zhengping Qian and
+               Lei Wang and
+               Yanyan Wang and
+               Wenyuan Yu and
+               Jingren Zhou},
+  title     = {GraphScope: A {One-Stop} Large Graph Processing System},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2703-2706},
+}
+
+@article{DBLP:journals/pvldb/Renz-WielandDKG21,
+  author    = {Alexander Renz-Wieland and
+               Tobias Drobisch and
+               Zoi Kaoudi and
+               Rainer Gemulla and
+               Volker Markl},
+  title     = {Just Move It! Dynamic Parameter Allocation in Action},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2707-2710},
+}
+
+@article{DBLP:journals/pvldb/OrogatE21,
+  author    = {Abdelghny Orogat and
+               Ahmed El-Roby},
+  title     = {CBench: Demonstrating Comprehensive Evaluation of Question Answering Systems over Knowledge Graphs Through Deep Analysis of Benchmarks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2711-2714},
+}
+
+@article{DBLP:journals/pvldb/WoltmannOHHL21,
+  author    = {Lucas Woltmann and
+               Dominik Olwig and
+               Claudio Hartmann and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {PostCENN: {PostgreSQL} with Machine Learning Models for Cardinality Estimation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2715-2718},
+}
+
+@article{DBLP:journals/pvldb/LiMJ21,
+  author    = {Jinyang Li and
+               Yuval Moskovitch and
+               H. V. Jagadish},
+  title     = {DENOUNCER: Detection of Unfairness in Classifiers},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2719-2722},
+}
+
+@article{DBLP:journals/pvldb/AbbarSMEM21,
+  author    = {Sofiane Abbar and
+               Rade Stanojevic and
+               Mashaal Musleh and
+               Mohamed M. Elshrif and
+               Mohamed F. Mokbel},
+  title     = {A Demonstration of QARTA: An {ML-based} System for Accurate Map Services},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2723-2726},
+}
+
+@article{DBLP:journals/pvldb/SmithBMN21,
+  author    = {Jaclyn Smith and
+               Michael Benedikt and
+               Brandon Moore and
+               Milos Nikolic},
+  title     = {TraNCE: Transforming Nested Collections Efficiently},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2727-2730},
+}
+
+@article{DBLP:journals/pvldb/DiestelkamperLG21,
+  author    = {Ralf Diestelkämper and
+               Seokki Lee and
+               Boris Glavic and
+               Melanie Herschel},
+  title     = {Debugging Missing Answers for Spark Queries over Nested Data with Breadcrumb},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2731-2734},
+}
+
+@article{DBLP:journals/pvldb/WuSLCH21,
+  author    = {Renzhi Wu and
+               Prem Sakala and
+               Peng Li and
+               Xu Chu and
+               Yeye He},
+  title     = {Demonstration of Panda: A Weakly Supervised Entity Matching System},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2735-2738},
+}
+
+@article{DBLP:journals/pvldb/LiuZCL021,
+  author    = {Jiabin Liu and
+               Fu Zhu and
+               Chengliang Chai and
+               Yuyu Luo and
+               Nan Tang},
+  title     = {Automatic Data Acquisition for Deep Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2739-2742},
+}
+
+@article{DBLP:journals/pvldb/ZhouJSZYLWLL21,
+  author    = {Xuanhe Zhou and
+               Lianyuan Jin and
+               Ji Sun and
+               Xinyang Zhao and
+               Xiang Yu and
+               Shifu Li and
+               Tianqing Wang and
+               Kun Li and
+               Luyang Liu},
+  title     = {DBMind: A {Self-Driving} Platform in {openGauss}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2743-2746},
+}
+
+@article{DBLP:journals/pvldb/LiuLZR0L0PS21,
+  author    = {Jinfei Liu and
+               Qiongqiong Lin and
+               Jiayao Zhang and
+               Kui Ren and
+               Jian Lou and
+               Junxu Liu and
+               Li Xiong and
+               Jian Pei and
+               Jimeng Sun},
+  title     = {Demonstration of Dealer: An {End-to-End} Model Marketplace with Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2747-2750},
+}
+
+@article{DBLP:journals/pvldb/Mu0ZZLT21,
+  author    = {Tianyu Mu and
+               Hongzhi Wang and
+               Shenghe Zheng and
+               Shaoqing Zhang and
+               Cheng Liang and
+               Haoyun Tang},
+  title     = {Assassin: an Automatic {claSSificAtion} system {baSed} on algorithm {SelectIoN}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2751-2754},
+}
+
+@article{DBLP:journals/pvldb/0004XYM021,
+  author    = {Lei Cao and
+               Dongqing Xiao and
+               Yizhou Yan and
+               Samuel Madden and
+               Guoliang Li},
+  title     = {ATLANTIC: Making Database Differentially Private and Faster with Accuracy Guarantee},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2755-2758},
+}
+
+@article{DBLP:journals/pvldb/CarlssonXMWPRV21,
+  author    = {Anders Carlsson and
+               Anze Xie and
+               Jason Mohoney and
+               Roger Waleffe and
+               Shanan Peters and
+               Theodoros Rekatsinas and
+               Shivaram Venkataraman},
+  title     = {Demonstration of Marius: Graph Embeddings with a Single Machine},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2759-2762},
+}
+
+@article{DBLP:journals/pvldb/0001CQF21,
+  author    = {Heiko Mueller and
+               Sonia Castelo and
+               Munaf A. Qazi and
+               Juliana Freire},
+  title     = {From Papers to Practice: The openclean {Open-Source} Data Cleaning Library},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2763-2766},
+}
+
+@article{DBLP:journals/pvldb/LinGDCHB21,
+  author    = {Vanessa Lin and
+               Yongming Ge and
+               Maureen Daum and
+               Alvin Cheung and
+               Brandon Haynes and
+               Magdalena Balazinska},
+  title     = {Demonstration of Apperception: A Database Management System for Geospatial Video Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2767-2770},
+}
+
+@article{DBLP:journals/pvldb/KaratzoglidiKK21,
+  author    = {Mary Karatzoglidi and
+               Paraskevas Kerasiotis and
+               Verena Kantere},
+  title     = {Automated energy consumption forecasting with {EnForce}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2771-2774},
+}
+
+@article{DBLP:journals/pvldb/JangJK21,
+  author    = {Myung-Hwan Jang and
+               Yong-Yeon Jo and
+               Sang-Wook Kim},
+  title     = {RealGraph-Web: A Graph Analysis Platform on the Web},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2775-2778},
+}
+
+@article{DBLP:journals/pvldb/GhoshNDTAB21,
+  author    = {Arthita Ghosh and
+               Arpit Narechania and
+               Visweswara Sai Prashanth Dintyala and
+               Su Timurturkan and
+               Joy Arulraj and
+               Deven Bansod},
+  title     = {Interactive Demonstration of {SQLCHECK}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2779-2782},
+}
+
+@article{DBLP:journals/pvldb/LinKMV21,
+  author    = {Yiming Lin and
+               Pramod P. Khargonekar and
+               Sharad Mehrotra and
+               Nalini Venkatasubramanian},
+  title     = {T-Cove: An exposure tracing System based on Cleaning {Wi-Fi} Events on Organizational Premises},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2783-2786},
+}
+
+@article{DBLP:journals/pvldb/WangGPS21,
+  author    = {Paul Y. Wang and
+               Sainyam Galhotra and
+               Romila Pradhan and
+               Babak Salimi},
+  title     = {Demonstration of Generating Explanations for {Black-Box} Algorithms Using Lewis},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2787-2790},
+}
+
+@article{DBLP:journals/pvldb/CasteloRSBCF21,
+  author    = {Sonia Castelo and
+               Rémi Rampin and
+               Aécio S. R. Santos and
+               Aline Bessa and
+               Fernando Chirigati and
+               Juliana Freire},
+  title     = {Auctus: A Dataset Search Engine for Data Discovery and Augmentation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2791-2794},
+}
+
+@article{DBLP:journals/pvldb/RehmanHE21,
+  author    = {Mohammed Suhail Rehman and
+               Silu Huang and
+               Aaron J. Elmore},
+  title     = {A Demonstration of Relic: A System for {REtrospective} Lineage {InferenCe} of Data Workflows},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2795-2798},
+}
+
+@article{DBLP:journals/pvldb/ChenZXQZ0JZYZ21,
+  author    = {Zhihao Chen and
+               Haizhen Zhuo and
+               Quanqing Xu and
+               Xiaodong Qi and
+               Chengyu Zhu and
+               Zhao Zhang and
+               Cheqing Jin and
+               Aoying Zhou and
+               Ying Yan and
+               Hui Zhang},
+  title     = {SChain: A Scalable Consortium Blockchain Exploiting Intra- and {Inter-Block} Concurrency},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2799-2802},
+}
+
+@article{DBLP:journals/pvldb/AnastasiouCCS21,
+  author    = {Chrysovalantis Anastasiou and
+               Constantinos Costa and
+               Panos K. Chrysanthis and
+               Cyrus Shahabi},
+  title     = {EPICGen: An Experimental Platform for Indoor Congestion Generation and Forecasting},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2803-2806},
+}
+
+@article{DBLP:journals/pvldb/ArnaoutRWP21,
+  author    = {Hiba Arnaout and
+               Simon Razniewski and
+               Gerhard Weikum and
+               Jeff Z. Pan},
+  title     = {Wikinegata: a Knowledge Base with Interesting Negative Statements},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2807-2810},
+}
+
+@article{DBLP:journals/pvldb/GuoZLC21,
+  author    = {Liang Guo and
+               Jinwei Zhu and
+               Jiayang Liu and
+               Kun Cheng},
+  title     = {Full Encryption: An end to end encryption mechanism in {GaussDB}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2811-2814},
+}
+
+@article{DBLP:journals/pvldb/MandamadiotisKE21,
+  author    = {Antonis Mandamadiotis and
+               Georgia Koutrika and
+               Stavroula Eleftherakis and
+               Apostolis Glenis and
+               Dimitrios Skoutas and
+               Yannis Stavrakas},
+  title     = {DatAgent: The Imminent Age of Intelligent Data Assistants},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2815-2818},
+}
+
+@article{DBLP:journals/pvldb/RezigBFPVGS21,
+  author    = {El Kindi Rezig and
+               Anshul Bhandari and
+               Anna Fariha and
+               Benjamin Price and
+               Allan Vanterpool and
+               Vijay Gadepally and
+               Michael Stonebraker},
+  title     = {DICE: Data Discovery by Example},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2819-2822},
+}
+
+@article{DBLP:journals/pvldb/SchuhknechtPHS21,
+  author    = {Felix Martin Schuhknecht and
+               Aaron Priesterroth and
+               Justus Henneberg and
+               Reza Salkhordeh},
+  title     = {AnyOLAP: Analytical Processing of Arbitrary {Data-Intensive} Applications without {ETL}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2823-2826},
+}
+
+@article{DBLP:journals/pvldb/JacobSSRDT21a,
+  author    = {Vincent Jacob and
+               Fei Song and
+               Arnaud Stiegler and
+               Bijan Rad and
+               Yanlei Diao and
+               Nesime Tatbul},
+  title     = {A Demonstration of the Exathlon Benchmarking Platform for Explainable Anomaly Detection},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2827-2830},
+}
+
+@article{DBLP:journals/pvldb/ShaikhhaSO21,
+  author    = {Amir Shaikhha and
+               Maximilian Schleich and
+               Dan Olteanu},
+  title     = {An Intermediate Representation for Hybrid Database and Machine Learning Workloads},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2831-2834},
+}
+
+@article{DBLP:journals/pvldb/PastorGBA21,
+  author    = {Eliana Pastor and
+               Andrew Gavgavian and
+               Elena Baralis and
+               Luca de Alfaro},
+  title     = {How Divergent Is Your Data?},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2835-2838},
+}
+
+@article{DBLP:journals/pvldb/BerroFBBB21,
+  author    = {Auday Berro and
+               Mohammad-ali Yaghub Zade Fard and
+               Marcos Báez and
+               Boualem Benatallah and
+               Khalid Benabdeslem},
+  title     = {An Extensible and Reusable Pipeline for Automated Utterance Paraphrases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2839-2842},
+}
+
+@article{DBLP:journals/pvldb/BeedkarBQM21,
+  author    = {Kaustubh Beedkar and
+               David Brekardin and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Volker Markl},
+  title     = {Compliant Geo-distributed Data Processing in Action},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2843-2846},
+}
+
+@article{DBLP:journals/pvldb/YadavSPDC21,
+  author    = {Piyush Yadav and
+               Dhaval Salwala and
+               Felipe Pontes and
+               Praneet Dhingra and
+               Edward Curry},
+  title     = {{Query-Driven} Video Event Processing for the Internet of Multimedia Things},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2847-2850},
+}
+
+@article{DBLP:journals/pvldb/KoutroumanisNDV21,
+  author    = {Nikolaos Koutroumanis and
+               Kousathanas Nikolaos and
+               Christos Doulkeridis and
+               Akrivi Vlachou},
+  title     = {A Demonstration of NoDA: Unified Access to {NoSQL} Stores},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2851-2854},
+}
+
+@article{DBLP:journals/pvldb/SenRJFZLL21,
+  author    = {Rathijit Sen and
+               Abhishek Roy and
+               Alekh Jindal and
+               Rui Fang and
+               Jeff Zheng and
+               Xiaolei Liu and
+               Ruiping Li},
+  title     = {AutoExecutor: Predictive Parallelism for Spark {SQL} Queries},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2855-2858},
+}
+
+@article{DBLP:journals/pvldb/LiuKTDH21,
+  author    = {Jiaxiang Liu and
+               Karl Knopf and
+               Yiqing Tan and
+               Bolin Ding and
+               Xi He},
+  title     = {Catch a Blowfish Alive: A Demonstration of {Policy-Aware} Differential Privacy for Interactive Data Exploration},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2859-2862},
+}
+
+@article{DBLP:journals/pvldb/OuelletteSNBZPM21,
+  author    = {Paul Ouellette and
+               Aidan Sciortino and
+               Fatemeh Nargesian and
+               Bahar Ghadiri Bashardoost and
+               Erkang Zhu and
+               Ken Pu and
+               Renée J. Miller},
+  title     = {RONIN: Data Lake Exploration},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2863-2866},
+}
+
+@article{DBLP:journals/pvldb/BoniolPPF21a,
+  author    = {Paul Boniol and
+               John Paparrizos and
+               Themis Palpanas and
+               Michael J. Franklin},
+  title     = {{SAND} in Action: Subsequence Anomaly Detection for Streams},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2867-2870},
+}
+
+@article{DBLP:journals/pvldb/KoutrasPSIFBK21,
+  author    = {Christos Koutras and
+               Kyriakos Psarakis and
+               George Siachamis and
+               Andra Ionescu and
+               Marios Fragkoulis and
+               Angela Bonifati and
+               Asterios Katsifodimos},
+  title     = {Valentine in Action: Matching Tabular Data at Scale},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2871-2874},
+}
+
+@article{DBLP:journals/pvldb/GuanMCW21,
+  author    = {Sheng Guan and
+               Hanchao Ma and
+               Sutanay Choudhury and
+               Yinghui Wu},
+  title     = {GEDet: Detecting Erroneous Nodes with A Few Examples},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2875-2878},
+}
+
+@article{DBLP:journals/pvldb/FanHLLLLQ0WXYYY21,
+  author    = {Wenfei Fan and
+               Tao He and
+               Longbin Lai and
+               Xue Li and
+               Yong Li and
+               Zhao Li and
+               Zhengping Qian and
+               Chao Tian and
+               Lei Wang and
+               Jingbo Xu and
+               Youyang Yao and
+               Qiang Yin and
+               Wenyuan Yu and
+               Kai Zeng and
+               Kun Zhao and
+               Jingren Zhou and
+               Diwen Zhu and
+               Rong Zhu},
+  title     = {GraphScope: A Unified Engine For Big Graph Processing},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2879-2892},
+}
+
+@article{DBLP:journals/pvldb/ShangZBEKMRK21,
+  author    = {Zeyuan Shang and
+               Emanuel Zgraggen and
+               Benedetto Buratti and
+               Philipp Eichmann and
+               Navid Karimeddiny and
+               Charlie Meyer and
+               Wesley Runnels and
+               Tim Kraska},
+  title     = {Davos: A System for Interactive {Data-Driven} Decision Making},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2893-2905},
+}
+
+@article{DBLP:journals/pvldb/Xiao0WH021,
+  author    = {Mengbai Xiao and
+               An Qin and
+               Yongwei Wu and
+               Xinjie Huang and
+               Xiaodong Zhang},
+  title     = {Mixer: Efficiently Understanding and Retrieving Visual Content at {Web-Scale}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2906-2917},
+}
+
+@article{DBLP:journals/pvldb/JustoYSPK21,
+  author    = {David Justo and
+               Shaoqing Yi and
+               Lukas Stadler and
+               Nadia Polikarpova and
+               Arun Kumar},
+  title     = {Towards A Polyglot Framework for Factorized {ML}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2918-2931},
+}
+
+@article{DBLP:journals/pvldb/DayanRNDRBMFZAT21,
+  author    = {Niv Dayan and
+               Yuval Rochman and
+               Iddo Naiss and
+               Shmuel Dashevsky and
+               Noam Rabinovich and
+               Edward Bortnikov and
+               Igal Maly and
+               Ofer Frishman and
+               Itai Ben Zion and
+               Avraham and
+               Moshe Twitto and
+               Uri Beitler and
+               Evgeni Ginzburg and
+               Mark Mokryn},
+  title     = {The End of Moore's Law and the Rise of The Data Processor},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2932-2944},
+}
+
+@article{DBLP:journals/pvldb/MurraySKI21,
+  author    = {Derek Gordon Murray and
+               Jiri Simsa and
+               Ana Klimovic and
+               Ihor Indyk},
+  title     = {tf.data: A Machine Learning Data Processing Framework},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2945-2958},
+}
+
+@article{DBLP:journals/pvldb/EltabakhSAANHCZ21,
+  author    = {Mohamed Y. Eltabakh and
+               Anantha Subramanian and
+               Awny Alomari and
+               Mohammed Al-Kateb and
+               Sanjay Nair and
+               Mahbub Hasan and
+               Wellington Cabrera and
+               Charles Zhang and
+               Amit Kishore and
+               Snigdha Prasad},
+  title     = {Not {Black-Box} Anymore! Enabling {Analytics-Aware} Optimizations in Teradata Vantage},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2959-2971},
+}
+
+@article{DBLP:journals/pvldb/ChenWLHLMCZFLG021,
+  author    = {Yingda Chen and
+               Jiamang Wang and
+               Yifeng Lu and
+               Ying Han and
+               Zhiqiang Lv and
+               Xuebin Min and
+               Hua Cai and
+               Wei Zhang and
+               Haochuan Fan and
+               Chao Li and
+               Tao Guan and
+               Wei Lin and
+               Yangqing Jia and
+               Jingren Zhou},
+  title     = {Fangorn: Adaptive Execution Framework for Heterogeneous Workloads on Shared Clusters},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2972-2985},
+}
+
+@article{DBLP:journals/pvldb/AgiwalLMRSZZCCD21,
+  author    = {Ankur Agiwal and
+               Kevin Lai and
+               Gokul Nath Babu Manoharan and
+               Indrajit Roy and
+               Jagan Sankaranarayanan and
+               Hao Zhang and
+               Tao Zou and
+               Jim Chen and
+               Min Chen and
+               Ming Dai and
+               Thanh Do and
+               Haoyu Gao and
+               Haoyan Geng and
+               Raman Grover and
+               Bo Huang and
+               Yanlai Huang and
+               Adam Li and
+               Jianyi Liang and
+               Tao Lin and
+               Li Liu and
+               Yao Liu and
+               Xi Mao and
+               Maya Meng and
+               Prashant Mishra and
+               Jay Patel and
+               Rajesh Sr and
+               Vijayshankar Raman and
+               Sourashis Roy and
+               Mayank Singh Shishodia and
+               Tianhang Sun and
+               Justin Tang and
+               Jun Tatemura and
+               Sagar Trehan and
+               Ramkumar Vadali and
+               Prasanna Venkatasubramanian and
+               Joey Zhang and
+               Kefei Zhang and
+               Yupu Zhang and
+               Zeleng Zhuang and
+               Goetz Graefe and
+               Divy Agrawal and
+               Jeffrey F. Naughton and
+               Sujata Kosalge and
+               Hakan Hacigümüs},
+  title     = {Napa: Powering Scalable Data Warehousing with Robust Query Performance at Google},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2986-2998},
+}
+
+@article{DBLP:journals/pvldb/LeeZLHTLZ21,
+  author    = {Rubao Lee and
+               Minghong Zhou and
+               Chi Li and
+               Shenggang Hu and
+               Jianping Teng and
+               Dongyang Li and
+               Xiaodong Zhang},
+  title     = {The Art of Balance: A {RateupDB} Experience of Building a CPU/{GPU} Hybrid Database Product},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {2999-3013},
+}
+
+@article{DBLP:journals/pvldb/ChengSPSWLBBCS21,
+  author    = {Audrey Cheng and
+               Xiao Shi and
+               Lu Pan and
+               Anthony Simpson and
+               Neil Wheaton and
+               Shilpa Lawande and
+               Nathan Bronson and
+               Peter Bailis and
+               Natacha Crooks and
+               Ion Stoica},
+  title     = {RAMP-TAO: Layering Atomic Transactions on Facebook's Online {TAO} Data Store},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3014-3027},
+}
+
+@article{DBLP:journals/pvldb/0001ZSYHJLWL21,
+  author    = {Guoliang Li and
+               Xuanhe Zhou and
+               Ji Sun and
+               Xiang Yu and
+               Yue Han and
+               Lianyuan Jin and
+               Wenbo Li and
+               Tianqing Wang and
+               Shifu Li},
+  title     = {openGauss: An Autonomous Database System},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3028-3041},
+}
+
+@article{DBLP:journals/pvldb/PotharajuKS0NDP21,
+  author    = {Rahul Potharaju and
+               Terry Kim and
+               Eunjin Song and
+               Wentao Wu and
+               Lev Novik and
+               Apoorve Dave and
+               Pouria Pirzadeh and
+               Andrew Fogarty and
+               Gurleen Dhody and
+               Jiying Li and
+               Vidip Acharya and
+               Sinduja Ramanujam and
+               Nicolas Bruno and
+               César A. Galindo-Legaria and
+               Vivek R. Narasayya and
+               Surajit Chaudhuri and
+               Anil Nori and
+               Tomas Talius and
+               Raghu Ramakrishnan},
+  title     = {Hyperspace: The Indexing Subsystem of Azure Synapse},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3043-3055},
+}
+
+@article{DBLP:journals/pvldb/ZhengBCCF0G0J21,
+  author    = {Bolong Zheng and
+               Lei Bi and
+               Juan Cao and
+               Hua Chai and
+               Jun Fang and
+               Lu Chen and
+               Yunjun Gao and
+               Xiaofang Zhou and
+               Christian S. Jensen},
+  title     = {SpeakNav: Voice-based Route Description Language Understanding for Template Driven Path Search},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3056-3068},
+}
+
+@article{DBLP:journals/pvldb/GomesOCB21,
+  author    = {Ana Sofia Gomes and
+               João Oliveirinha and
+               Pedro Cardoso and
+               Pedro Bizarro},
+  title     = {Railgun: managing large streaming windows under {MAD} requirements},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3069-3082},
+}
+
+@article{DBLP:journals/pvldb/EdaraP21,
+  author    = {Pavan Edara and
+               Mosha Pasumansky},
+  title     = {Big Metadata : When Metadata is Big Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3083-3095},
+}
+
+@article{DBLP:journals/pvldb/StoddardMG21,
+  author    = {Joshua F. Stoddard and
+               Adam Mustafa and
+               Naveen Goela},
+  title     = {Tanium Reveal: A Federated Search Engine for Querying Unstructured File Data on Large Enterprise Networks},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3096-3109},
+}
+
+@article{DBLP:journals/pvldb/GencerTDDKGBGHY21,
+  author    = {Can Gencer and
+               Marko Topolnik and
+               Viliam Durina and
+               Emin Demirci and
+               Ensar B. Kahveci and
+               Ali Gürbüz and
+               József Bartók and
+               Grzegorz Gierlach and
+               Frantisek Hartman and
+               Ufuk Yilmaz and
+               Ondrej Lukás and
+               Mehmet Dogan and
+               Mohamed Mandouh and
+               Marios Fragkoulis and
+               Asterios Katsifodimos},
+  title     = {Hazelcast Jet: Low-latency Stream Processing at the 99.99th Percentile},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3110-3121},
+}
+
+@article{DBLP:journals/pvldb/RoyJGOGRMJ21,
+  author    = {Abhishek Roy and
+               Alekh Jindal and
+               Priyanka Gomatam and
+               Xiating Ouyang and
+               Ashit Gosalia and
+               Nishkam Ravi and
+               Swinky Mann and
+               Prakhar Jain},
+  title     = {SparkCruise: Workload Optimization in Managed Spark Clusters at Microsoft},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3122-3134},
+}
+
+@article{DBLP:journals/pvldb/BegoliACHKKMS21,
+  author    = {Edmon Begoli and
+               Tyler Akidau and
+               Slava Chernyak and
+               Fabian Hueske and
+               Kathryn Knight and
+               Kenneth Knowles and
+               Daniel Mills and
+               Dan Sotolongo},
+  title     = {Watermarks in Stream Processing Systems: Semantics and Comparative Analysis of Apache Flink and Google Cloud Dataflow},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3135-3147},
+}
+
+@article{DBLP:journals/pvldb/PowerPJLJRTZKTR21,
+  author    = {Conor Power and
+               Hiren Patel and
+               Alekh Jindal and
+               Jyoti Leeka and
+               Bob Jenkins and
+               Michael Rys and
+               Ed Triou and
+               Dexin Zhu and
+               Lucky Katahanas and
+               Chakrapani Bhat Talapady and
+               Josh Rowe and
+               Fan Zhang and
+               Rich Draves and
+               Ivan Santa and
+               Amrish Kumar},
+  title     = {The Cosmos Big Data Platform at Microsoft: Over a Decade of Progress and a Decade to Look Forward},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3148-3161},
+}
+
+@article{DBLP:journals/pvldb/Pandis21,
+  author    = {Ippokratis Pandis},
+  title     = {The evolution of Amazon Redshift},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3162-3163},
+}
+
+@article{DBLP:journals/pvldb/RazniewskiAGS21,
+  author    = {Simon Razniewski and
+               Hiba Arnaout and
+               Shrestha Ghosh and
+               Fabian M. Suchanek},
+  title     = {On the Limits of Machine Knowledge: Completeness, Recall and Negation in Web-scale Knowledge Bases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3175-3177},
+}
+
+@article{DBLP:journals/pvldb/OrrSLGL21,
+  author    = {Laurel J. Orr and
+               Atindriyo Sanyal and
+               Xiao Ling and
+               Karan Goel and
+               Megan Leszczynski},
+  title     = {Managing {ML} Pipelines: Feature Stores and the Coming Wave of Embedding Ecosystems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3178-3181},
+}
+
+@article{DBLP:journals/pvldb/00010MT21,
+  author    = {Yuliang Li and
+               Xiaolan Wang and
+               Zhengjie Miao and
+               Wang-Chiew Tan},
+  title     = {Data Augmentation for {ML-driven} Data Preparation and Integration},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3182-3185},
+}
+
+@article{DBLP:journals/pvldb/Zalipynis21,
+  author    = {Ramon Antonio Rodriges Zalipynis},
+  title     = {Array DBMS: Past, Present, and (Near) Future},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3186-3189},
+}
+
+@article{DBLP:journals/pvldb/0001Z021,
+  author    = {Guoliang Li and
+               Xuanhe Zhou and
+               Lei Cao},
+  title     = {Machine Learning for Databases},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3190-3193},
+}
+
+@article{DBLP:journals/pvldb/KargarN21,
+  author    = {Saeed Kargar and
+               Faisal Nawab},
+  title     = {Extending the Lifetime of NVM: Challenges and Opportunities},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3194-3197},
+}
+
+@article{DBLP:journals/pvldb/EchihabiPZ21,
+  author    = {Karima Echihabi and
+               Themis Palpanas and
+               Kostas Zoumpatianos},
+  title     = {New Trends in {High-D} Vector Similarity Search: AI-driven, Progressive, and Distributed},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3198-3201},
+}
+
+@article{DBLP:journals/pvldb/JindalI21,
+  author    = {Alekh Jindal and
+               Matteo Interlandi},
+  title     = {Machine Learning for Cloud Data Systems: the Promise, the Progress, and the Path Forward},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3202-3205},
+}
+
+@article{DBLP:journals/pvldb/Davidson21,
+  author    = {Susan Davidson},
+  title     = {It's not just Cookies and Tea},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3206},
+}
+
+@article{DBLP:journals/pvldb/000121,
+  author    = {Thomas Neumann},
+  title     = {Evolution of a Compiling Query Engine},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3207-3210},
+}
+
+@article{DBLP:journals/pvldb/Pavlo21,
+  author    = {Andy Pavlo},
+  title     = {Make Your Database System Dream of Electric Sheep: Towards {Self-Driving} Operation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3211-3221},
+}
+
+@article{DBLP:journals/pvldb/Kraska21,
+  author    = {Tim Kraska},
+  title     = {Towards instance-optimized data systems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3222-3232},
+}
+
+@article{DBLP:journals/pvldb/Weikum21,
+  author    = {Gerhard Weikum},
+  title     = {Knowledge Graphs 2021: A Data Odyssey},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3233-3238},
+}
+
+@article{DBLP:journals/pvldb/Ives21,
+  author    = {Zachary Ives},
+  title     = {The future of data(base) education: Is the "cow book" dead?},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3239-3240},
+}
+
+@article{DBLP:journals/pvldb/RemisL21,
+  author    = {Luis Remis and
+               Chaunte W. Lacewell},
+  title     = {Using {VDMS} to Index and Search 100M Images},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {12},
+  year      = 2021,
+  pages     = {3240-3252},
+}
+
+@article{DBLP:journals/pvldb/LiuWC21,
+  author    = {Jian Liu and
+               Kefei Wang and
+               Feng Chen},
+  title     = {TSCache: An Efficient Flash-based Caching Scheme for Time-series Data Workloads},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3253-3266},
+}
+
+@article{DBLP:journals/pvldb/WangMGXO21,
+  author    = {Huayi Wang and
+               Jingfan Meng and
+               Long Gong and
+               Jun Xu and
+               Mitsunori Ogihara},
+  title     = {MP-RW-LSH: An Efficient {Multi-Probe} {LSH} Solution to ANNS-L_1},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3267-3280},
+}
+
+@article{DBLP:journals/pvldb/MailisKCKI21,
+  author    = {Theofilos Mailis and
+               Yannis Kotidis and
+               Stamatis Christoforidis and
+               Evgeny Kharlamov and
+               Yannis E. Ioannidis},
+  title     = {View Selection over Knowledge Graphs in Triple Stores},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3281-3294},
+}
+
+@article{DBLP:journals/pvldb/LiLHLLLG21,
+  author    = {Dongjie Li and
+               Siyi Lv and
+               Yanyu Huang and
+               Yijing Liu and
+               Tong Li and
+               Zheli Liu and
+               Liang Guo},
+  title     = {{Frequency-Hiding} {Order-Preserving} Encryption with Small Client Storage},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3295-3307},
+}
+
+@article{DBLP:journals/pvldb/KoutsoukosMMKA21,
+  author    = {Dimitrios Koutsoukos and
+               Ingo Müller and
+               Renato Marroquín and
+               Ana Klimovic and
+               Gustavo Alonso},
+  title     = {Modularis: Modular Relational Analytics over Heterogeneous Distributed Platforms},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3308-3321},
+}
+
+@article{DBLP:journals/pvldb/LouWGFCY21,
+  author    = {Yunkai Lou and
+               Chaokun Wang and
+               Tiankai Gu and
+               Hao Feng and
+               Jun Chen and
+               Jeffrey Xu Yu},
+  title     = {{Time-Topology} Analysis},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3322-3334},
+}
+
+@article{DBLP:journals/pvldb/BernauEGKK21,
+  author    = {Daniel Bernau and
+               Günther Eibl and
+               Philip-William Grassal and
+               Hannah Keller and
+               Florian Kerschbaum},
+  title     = {Quantifying identifiability to choose and audit epsilon in differentially private deep learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3335-3347},
+}
+
+@article{DBLP:journals/pvldb/LaignerZSLK21,
+  author    = {Rodrigo N. Laigner and
+               Yongluan Zhou and
+               Marcos Antonio Vaz Salles and
+               Yijian Liu and
+               Marcos Kalinowski},
+  title     = {Data Management in Microservices: State of the Practice, Challenges, and Research Directions},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3348-3361},
+}
+
+@article{DBLP:journals/pvldb/HossainFPQSWARA21,
+  author    = {H. M. Sajjad Hossain and
+               Marc T. Friedman and
+               Hiren Patel and
+               Shi Qiao and
+               Soundar Srinivasan and
+               Markus Weimer and
+               Remmelt Ammerlaan and
+               Lucas Rosenblatt and
+               Gilbert Antonius and
+               Peter Orenberg and
+               Vijay Ramani and
+               Abhishek Roy and
+               Irene Shaffer and
+               Alekh Jindal},
+  title     = {PerfGuard: Deploying {ML-for-Systems} without Performance Regressions, Almost!},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3362-3375},
+}
+
+@article{DBLP:journals/pvldb/DingCGN21,
+  author    = {Bailu Ding and
+               Surajit Chaudhuri and
+               Johannes Gehrke and
+               Vivek R. Narasayya},
+  title     = {DSB: A Decision Support Benchmark for {Workload-Driven} and Traditional Database Systems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3376-3388},
+}
+
+@article{DBLP:journals/pvldb/HernandezGH21,
+  author    = {Daniel Hernández and
+               Luis Galárraga and
+               Katja Hose},
+  title     = {Computing {How-Provenance} for {SPARQL} Queries via Query Rewriting},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3389-3401},
+}
+
+@article{DBLP:journals/pvldb/WangTB21,
+  author    = {Junxiong Wang and
+               Immanuel Trummer and
+               Debabrota Basu},
+  title     = {UDO: Universal Database Optimization using Reinforcement Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3402-3414},
+}
+
+@article{DBLP:journals/pvldb/Feldmann21,
+  author    = {Anja Feldmann},
+  title     = {Internet Traffic Analysis at Scale},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3415},
+}
+
+@article{DBLP:journals/pvldb/Koutra21,
+  author    = {Danai Koutra},
+  title     = {The Power of Summarization in Graph Mining and Learning: Smaller Data, Faster Methods, More Interpretability},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3416},
+}
+
+@article{DBLP:journals/pvldb/Shah21,
+  author    = {Nigam Shah},
+  title     = {Summarizing Patients Like Mine via an On-demand Consultation Service},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3417},
+}
+
+@article{DBLP:journals/pvldb/Vanschoren21,
+  author    = {Joaquin Vanschoren},
+  title     = {Towards Scalable Online Machine Learning Collaborations with {OpenML}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3418},
+}
+
+@article{DBLP:journals/pvldb/Vartak21,
+  author    = {Manasi Vartak},
+  title     = {From {ML} Models to Intelligent Applications: The Rise of {MLOps}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3419},
+}
+
+@article{DBLP:journals/pvldb/Zaharia21,
+  author    = {Matei Zaharia},
+  title     = {Designing {Production-Friendly} Machine Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {13},
+  year      = 2021,
+  pages     = {3420},
+}
+
+@article{DBLP:journals/pvldb/Ailamaki20a,
+  author    = {Anastasia Ailamaki},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {i-vi},
+}
+
 @article{DBLP:journals/pvldb/Balazinska020,
   author    = {Magdalena Balazinska and
                Xiaofang Zhou},
@@ -77,6 +4765,38 @@
   pages     = {i-vi},
 }
 
+@article{DBLP:journals/pvldb/BonifatiQ20,
+  author    = {Angela Bonifati and
+               Jorge-Arnulfo Quiané-Ruiz},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {i-vi},
+}
+
+@article{DBLP:journals/pvldb/DongN20,
+  author    = {Xin Luna Dong and
+               Felix Naumann},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {i-vi},
+}
+
+@article{DBLP:journals/pvldb/Tao20,
+  author    = {Yufei Tao},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {i-vi},
+}
+
 @article{DBLP:journals/pvldb/Zhou20,
   author    = {Magdalena Balazinska and
                Xiaofang Zhou},
@@ -86,6 +4806,683 @@
   number    = {13},
   year      = 2020,
   pages     = {i-viii},
+}
+
+@article{DBLP:journals/pvldb/MarcusKRSMK0K20,
+  author    = {Ryan Marcus and
+               Andreas Kipf and
+               Alexander van Renen and
+               Mihail Stoian and
+               Sanchit Misra and
+               Alfons Kemper and
+               Thomas Neumann and
+               Tim Kraska},
+  title     = {Benchmarking Learned Indexes},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {1-13},
+}
+
+@article{DBLP:journals/pvldb/WangZHCCWLFQHGL20,
+  author    = {Zuozhi Wang and
+               Kai Zeng and
+               Botong Huang and
+               Wei Chen and
+               Xiaozong Cui and
+               Bo Wang and
+               Ji Liu and
+               Liya Fan and
+               Dachuan Qu and
+               Zhenyu Hou and
+               Tao Guan and
+               Chen Li and
+               Jingren Zhou},
+  title     = {Tempura: A General {Cost-Based} Optimizer Framework for Incremental Data Processing},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {14-27},
+}
+
+@article{DBLP:journals/pvldb/HeoRHLW20,
+  author    = {Geon Heo and
+               Yuji Roh and
+               Seonghyeon Hwang and
+               Dayun Lee and
+               Steven Whang},
+  title     = {Inspector Gadget: A Data Programming-based Labeling System for Industrial Images},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {28-36},
+}
+
+@article{DBLP:journals/pvldb/YangSX0LB20,
+  author    = {Renchi Yang and
+               Jieming Shi and
+               Xiaokui Xiao and
+               Yin Yang and
+               Juncheng Liu and
+               Sourav S. Bhowmick},
+  title     = {Scaling Attributed Network Embedding to Massive Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {37-49},
+}
+
+@article{DBLP:journals/pvldb/0001LSDT20,
+  author    = {Yuliang Li and
+               Jinfeng Li and
+               Yoshihiko Suhara and
+               AnHai Doan and
+               Wang-Chiew Tan},
+  title     = {Deep Entity Matching with {Pre-Trained} Language Models},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {50-60},
+}
+
+@article{DBLP:journals/pvldb/YangKLLDCS20,
+  author    = {Zongheng Yang and
+               Amog Kamsetty and
+               Sifei Luan and
+               Eric Liang and
+               Yan Duan and
+               Xi Chen and
+               Ion Stoica},
+  title     = {NeuroCard: One Cardinality Estimator for All Tables},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {1},
+  year      = 2020,
+  pages     = {61-73},
+}
+
+@article{DBLP:journals/pvldb/DingNAK20,
+  author    = {Jialin Ding and
+               Vikram Nathan and
+               Mohammad Alizadeh and
+               Tim Kraska},
+  title     = {Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {74-86},
+}
+
+@article{DBLP:journals/pvldb/KangMVBZ20,
+  author    = {Daniel Kang and
+               Ankit Mathur and
+               Teja Veeramacheneni and
+               Peter Bailis and
+               Matei Zaharia},
+  title     = {Jointly Optimizing Preprocessing and Inference for {DNN-based} Visual Analytics},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {87-100},
+}
+
+@article{DBLP:journals/pvldb/MenonNMP020,
+  author    = {Prashanth Menon and
+               Amadou Ngom and
+               Todd C. Mowry and
+               Andrew Pavlo and
+               Lin Ma},
+  title     = {Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {101-113},
+}
+
+@article{DBLP:journals/pvldb/MinMQXEH20,
+  author    = {Seungwon Min and
+               Vikram Sharma Mailthody and
+               Zaid Qureshi and
+               Jinjun Xiong and
+               Eiman Ebrahimi and
+               Wen-Mei Hwu},
+  title     = {EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In {GPUs}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {114-127},
+}
+
+@article{DBLP:journals/pvldb/ZhangLL0LZ020,
+  author    = {Yinda Zhang and
+               Jinyang Li and
+               Yutian Lei and
+               Tong Yang and
+               Zhetao Li and
+               Gong Zhang and
+               Bin Cui},
+  title     = {{On-Off} Sketch: A Fast and Accurate Sketch on Persistence},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {128-140},
+}
+
+@article{DBLP:journals/pvldb/TranMS20,
+  author    = {Luan Tran and
+               Minyoung Mun and
+               Cyrus Shahabi},
+  title     = {{Real-Time} {Distance-Based} Outlier Detection in Data Streams},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {141-153},
+}
+
+@article{DBLP:journals/pvldb/PoppeABDGKNRSWA20,
+  author    = {Olga Poppe and
+               Tayo Amuneke and
+               Dalitso Banda and
+               Aritra De and
+               Ari Green and
+               Manon Knoertzer and
+               Ehi Nosakhare and
+               Karthik Rajendran and
+               Deepak Shankargouda and
+               Meina Wang and
+               Alan Au and
+               Carlo Curino and
+               Qun Guo and
+               Alekh Jindal and
+               Ajay Kalhan and
+               Morgan Oslake and
+               Sonia Parchani and
+               Vijay Ramani and
+               Raj Sellappan and
+               Saikat Sen and
+               Sheetal Shrotri and
+               Soundararajan Srinivasan and
+               Ping Xia and
+               Shize Xu and
+               Alicia Yang and
+               Yiwen Zhu},
+  title     = {Seagull: An Infrastructure for Load Prediction and Optimized Resource Allocation},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {154-162},
+}
+
+@article{DBLP:journals/pvldb/WangSB20,
+  author    = {Sheng Wang and
+               Yuan Sun and
+               Zhifeng Bao},
+  title     = {On the Efficiency of {K-Means} Clustering: Evaluation, Optimization, and Algorithm Selection},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {163-175},
+}
+
+@article{DBLP:journals/pvldb/SunSC0H20,
+  author    = {Shixuan Sun and
+               Xibo Sun and
+               Yulin Che and
+               Qiong Luo and
+               Bingsheng He},
+  title     = {RapidMatch: A Holistic Approach to Subgraph Query Processing},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {176-188},
+}
+
+@article{DBLP:journals/pvldb/XiaYPD20,
+  author    = {Yu Xia and
+               Xiangyao Yu and
+               Andrew Pavlo and
+               Srinivas Devadas},
+  title     = {Taurus: Lightweight Parallel Logging for {In-Memory} Database Management Systems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {189-201},
+}
+
+@article{DBLP:journals/pvldb/PaulHLL20,
+  author    = {Johns Paul and
+               Bingsheng He and
+               Shengliang Lu and
+               Chiew Tong Lau},
+  title     = {Improving Execution Efficiency of Just-in-time Compilation based Query Processing on {GPUs}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {202-214},
+}
+
+@article{DBLP:journals/pvldb/WangF20,
+  author    = {Shuang Wang and
+               Hakan Ferhatosmanoglu},
+  title     = {PPQ-Trajectory: Spatio-temporal Quantization for Querying in Large Trajectory Repositories},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {215-227},
+}
+
+@article{DBLP:journals/pvldb/HuSPPR20,
+  author    = {Xiao Hu and
+               Shouzhuo Sun and
+               Shweta Patwa and
+               Debmalya Panigrahi and
+               Sudeepa Roy},
+  title     = {Aggregated Deletion Propagation for Counting Conjunctive Query Answers},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {2},
+  year      = 2020,
+  pages     = {228-240},
+}
+
+@article{DBLP:journals/pvldb/Luo020,
+  author    = {Chen Luo and
+               Michael J. Carey},
+  title     = {Breaking Down Memory Walls: Adaptive Memory Management in {LSM-based} Storage Systems},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {241-254},
+}
+
+@article{DBLP:journals/pvldb/KarlasLWGC0020,
+  author    = {Bojan Karlas and
+               Peng Li and
+               Renzhi Wu and
+               Nezihe Merve Gürel and
+               Xu Chu and
+               Wentao Wu and
+               Ce Zhang},
+  title     = {Nearest Neighbor Classifiers over Incomplete Information: From Certain Answers to Certain Predictions},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {255-267},
+}
+
+@article{DBLP:journals/pvldb/AlvaroK20,
+  author    = {Peter Alvaro and
+               Kyle Kingsbury},
+  title     = {Elle: Inferring Isolation Anomalies from Experimental Observations},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {268-280},
+}
+
+@article{DBLP:journals/pvldb/KieferPBM20,
+  author    = {Martin Kiefer and
+               Ilias Poulakis and
+               Sebastian Breß and
+               Volker Markl},
+  title     = {Scotch: Generating {FPGA-Accelerators} for Sketching at Line Rate},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {281-293},
+}
+
+@article{DBLP:journals/pvldb/KhayatiATC20,
+  author    = {Mourad Khayati and
+               Ines Arous and
+               Zakhar Tymchenko and
+               Philippe Cudré-Mauroux},
+  title     = {ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {294-306},
+}
+
+@article{DBLP:journals/pvldb/DengSL0020,
+  author    = {Xiang Deng and
+               Huan Sun and
+               Alyssa Lees and
+               You Wu and
+               Cong Yu},
+  title     = {TURL: Table Understanding through Representation Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {307-319},
+}
+
+@article{DBLP:journals/pvldb/GuoHJFZ020,
+  author    = {Long Guo and
+               Lifeng Hua and
+               Rongfei Jia and
+               Fei Fang and
+               Binqiang Zhao and
+               Bin Cui},
+  title     = {EdgeDIPN: a Unified Deep Intent Prediction Network Deployed at the Edge},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {320-328},
+}
+
+@article{DBLP:journals/pvldb/LinJYBCMV20,
+  author    = {Yiming Lin and
+               Daokun Jiang and
+               Roberto Yus and
+               Georgios Bouloukakis and
+               Andrew Chio and
+               Sharad Mehrotra and
+               Nalini Venkatasubramanian},
+  title     = {LOCATER: Cleaning {WiFi} Connectivity Datasets for Semantic Localization},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {329-341},
+}
+
+@article{DBLP:journals/pvldb/0026HFZL020,
+  author    = {Hao Liu and
+               Jindong Han and
+               Yanjie Fu and
+               Jingbo Zhou and
+               Xinjiang Lu and
+               Hui Xiong},
+  title     = {{Multi-Modal} Transportation Recommendation with Unified Route Representation Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {342-350},
+}
+
+@article{DBLP:journals/pvldb/0012XFC00M20,
+  author    = {Yue Wang and
+               Ruiqi Xu and
+               Zonghao Feng and
+               Yulin Che and
+               Lei Chen and
+               Qiong Luo and
+               Rui Mao},
+  title     = {DISK: A Distributed Framework for {Single-Source} {SimRank} with Accuracy Guarantee},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {351-363},
+}
+
+@article{DBLP:journals/pvldb/DidonaISK20,
+  author    = {Diego Didona and
+               Nikolas Ioannou and
+               Radu Stoica and
+               Kornilios Kourtis},
+  title     = {Toward a Better Understanding and Evaluation of Tree Structures on Flash {SSDs}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {364-377},
+}
+
+@article{DBLP:journals/pvldb/Yang0L0S20,
+  author    = {Jianyu Yang and
+               Tianhao Wang and
+               Ninghui Li and
+               Xiang Cheng and
+               Sen Su},
+  title     = {Answering {Multi-Dimensional} Range Queries under Local Differential Privacy},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {378-390},
+}
+
+@article{DBLP:journals/pvldb/Palyvos-Giannas20,
+  author    = {Dimitris Palyvos-Giannas and
+               Bastian Havers and
+               Marina Papatriantafilou and
+               Vincenzo Gulisano},
+  title     = {Ananke: A Streaming Framework for Live Forward Provenance},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {391-403},
+}
+
+@article{DBLP:journals/pvldb/LakhotiaKPR20,
+  author    = {Kartik Lakhotia and
+               Rajgopal Kannan and
+               Viktor K. Prasanna and
+               César A. F. De Rose},
+  title     = {RECEIPT: {REfine} {CoarsE-grained} {IndePendent} Tasks for Parallel Tip decomposition of Bipartite Graphs},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {404-417},
+}
+
+@article{DBLP:journals/pvldb/DeepGKNV20,
+  author    = {Shaleen Deep and
+               Anja Gruenheid and
+               Paraschos Koutris and
+               Jeffrey F. Naughton and
+               Stratis Viglas},
+  title     = {Comprehensive and Efficient Workload Compression},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {418-430},
+}
+
+@article{DBLP:journals/pvldb/HeL020,
+  author    = {Yongjun He and
+               Jiacheng Lu and
+               Tianzheng Wang},
+  title     = {CoroBase: {Coroutine-Oriented} {Main-Memory} Database Engine},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {431-444},
+}
+
+@article{DBLP:journals/pvldb/SmithBNS20,
+  author    = {Jaclyn Smith and
+               Michael Benedikt and
+               Milos Nikolic and
+               Amir Shaikhha},
+  title     = {Scalable Querying of Nested Data},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {3},
+  year      = 2020,
+  pages     = {445-457},
+}
+
+@article{DBLP:journals/pvldb/GongL00O020,
+  author    = {Long Gong and
+               Ziheng Liu and
+               Liang Liu and
+               Jun Xu and
+               Mitsunori Ogihara and
+               Tong Yang},
+  title     = {Space- and {Computationally-Efficient} Set Reconciliation via Parity Bitmap Sketch (PBS)},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {458-470},
+}
+
+@article{DBLP:journals/pvldb/ShetiyaTK020,
+  author    = {Suraj Shetiya and
+               Saravanan Thirumuruganathan and
+               Nick Koudas and
+               Gautam Das},
+  title     = {Astrid: Accurate Selectivity Estimation for String Predicates using Deep Learning},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {471-484},
+}
+
+@article{DBLP:journals/pvldb/ZhengI20,
+  author    = {Nan Zheng and
+               Zack Ives},
+  title     = {Compact, {Tamper-Resistant} Archival of {Fine-Grained} Provenance},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {485-497},
+}
+
+@article{DBLP:journals/pvldb/0002FICA20,
+  author    = {Ingo Müller and
+               Ghislain Fourny and
+               Stefan Irimescu and
+               Can Berker Cikis and
+               Gustavo Alonso},
+  title     = {Rumble: Data Independence for Large Messy Data Sets},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {498-506},
+}
+
+@article{DBLP:journals/pvldb/ChapmanMST20,
+  author    = {Adriane Chapman and
+               Paolo Missier and
+               Giulia Simonelli and
+               Riccardo Torlone},
+  title     = {Capturing and querying fine-grained provenance of preprocessing pipelines in data science},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {507-520},
+}
+
+@article{DBLP:journals/pvldb/FariasBFMMS20,
+  author    = {Victor A. E. de Farias and
+               Felipe T. Brito and
+               Cheryl Flynn and
+               Javam C. Machado and
+               Subhabrata Majumdar and
+               Divesh Srivastava},
+  title     = {Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {521-533},
+}
+
+@article{DBLP:journals/pvldb/LiBNLMP20,
+  author    = {Tianyu Li and
+               Matthew Butrovich and
+               Amadou Ngom and
+               Wan Shen Lim and
+               Wes McKinney and
+               Andrew Pavlo},
+  title     = {Mainlining Databases: Supporting Fast Transactional Workloads on Universal Columnar Data File Formats},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {534-546},
+}
+
+@article{DBLP:journals/pvldb/LuH0F20,
+  author    = {Shengliang Lu and
+               Bingsheng He and
+               Yuchen Li and
+               Hao Fu},
+  title     = {Accelerating Exact Constrained Shortest Paths on {GPUs}},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {547-559},
+}
+
+@article{DBLP:journals/pvldb/MoBZP20a,
+  author    = {Songsong Mo and
+               Zhifeng Bao and
+               Ping Zhang and
+               Zhiyong Peng},
+  title     = {Towards an Efficient Weighted Random Walk Domination},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {560-572},
+}
+
+@article{DBLP:journals/pvldb/Guo0O0K20,
+  author    = {Guimu Guo and
+               Da Yan and
+               M. Tamer Özsu and
+               Zhe Jiang and
+               Jalal Khalil},
+  title     = {Scalable Mining of Maximal Quasi-Cliques: An {Algorithm-System} Codesign Approach},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {573-585},
+}
+
+@article{DBLP:journals/pvldb/Kokoris-KogiasA20,
+  author    = {Eleftherios Kokoris-Kogias and
+               Enis Ceyhun Alp and
+               Linus Gasser and
+               Philipp Jovanovic and
+               Ewa Syta and
+               Bryan Ford},
+  title     = {CALYPSO: Private Data Management for Decentralized Ledgers},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {586-599},
 }
 
 @article{DBLP:journals/pvldb/GoldsteinABBCGL20,
@@ -110,6 +5507,18 @@
   pages     = {588-601},
 }
 
+@article{DBLP:journals/pvldb/HentschelID20,
+  author    = {Kyle Deeds and
+               Brian Hentschel and
+               Stratos Idreos},
+  title     = {Stacked Filters: Learning to Filter by Structure},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {600-612},
+}
+
 @article{DBLP:journals/pvldb/OuyangYQCZL20,
   author    = {Dian Ouyang and
                Long Yuan and
@@ -125,6 +5534,18 @@
   pages     = {602-615},
 }
 
+@article{DBLP:journals/pvldb/BanerjeeL020,
+  author    = {Prithu Banerjee and
+               Laks V. S. Lakshmanan and
+               Wei Chen},
+  title     = {Maximizing Social Welfare in a Competitive Diffusion Model},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {613-625},
+}
+
 @article{DBLP:journals/pvldb/StehleJ20,
   author    = {Elias Stehle and
                Hans-Arno Jacobsen},
@@ -134,6 +5555,18 @@
   number    = {5},
   year      = 2020,
   pages     = {616-628},
+}
+
+@article{DBLP:journals/pvldb/GugnaniKL20,
+  author    = {Shashank Gugnani and
+               Arjun Kashyap and
+               Xiaoyi Lu},
+  title     = {Understanding the Idiosyncrasies of Real Persistent Memory},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {626-639},
 }
 
 @article{DBLP:journals/pvldb/HuangQKLS20,
@@ -148,6 +5581,17 @@
   number    = {5},
   year      = 2020,
   pages     = {629-642},
+}
+
+@article{DBLP:journals/pvldb/GaleM20,
+  author    = {Abraham Gale and
+               Amélie Marian},
+  title     = {Explaining Ranking Functions},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {640-652},
 }
 
 @article{DBLP:journals/pvldb/ZhengZWHLJ20,
@@ -165,6 +5609,18 @@
   pages     = {643-655},
 }
 
+@article{DBLP:journals/pvldb/DhulipalaHS20,
+  author    = {Laxman Dhulipala and
+               Changwan Hong and
+               Julian Shun},
+  title     = {ConnectIt: A Framework for Static and Incremental Parallel Graph Connectivity Algorithms},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {653-667},
+}
+
 @article{DBLP:journals/pvldb/SunLLXC20,
   author    = {Yahui Sun and
                Jun Luo and
@@ -177,6 +5633,21 @@
   number    = {5},
   year      = 2020,
   pages     = {656-669},
+}
+
+@article{DBLP:journals/pvldb/KouadriOBEPA20,
+  author    = {Wissam Maamar Kouadri and
+               Mourad Ouziri and
+               Salima Benbernou and
+               Karima Echihabi and
+               Themis Palpanas and
+               Iheb Ben Amor},
+  title     = {Quality of Sentiment Analysis Tools: The Reasons of Inconsistency},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {668-681},
 }
 
 @article{DBLP:journals/pvldb/YangSXYB20,
@@ -193,6 +5664,23 @@
   pages     = {670-683},
 }
 
+@article{DBLP:journals/pvldb/GarciaLSYD0HS20,
+  author    = {Rolando Garcia and
+               Eric Liu and
+               Vikram Sreekanti and
+               Bobby Yan and
+               Anusha Dandamudi and
+               Joseph Gonzalez and
+               Joseph M. Hellerstein and
+               Koushik Sen},
+  title     = {Hindsight Logging for Model Training},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {682-693},
+}
+
 @article{DBLP:journals/pvldb/QahtanTOCS20,
   author    = {Abdulhakim Ali Qahtan and
                Nan Tang and
@@ -205,6 +5693,18 @@
   number    = {5},
   year      = 2020,
   pages     = {684-697},
+}
+
+@article{DBLP:journals/pvldb/JiangQ020,
+  author    = {Lin Jiang and
+               Junqiao Qiu and
+               Zhijia Zhao},
+  title     = {Scalable Structural Index Construction for {JSON} Analytics},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {694-707},
 }
 
 @article{DBLP:journals/pvldb/WhangDJLDLKP20,
@@ -222,6 +5722,18 @@
   number    = {5},
   year      = 2020,
   pages     = {698-711},
+}
+
+@article{DBLP:journals/pvldb/RuiLT20,
+  author    = {Ran Rui and
+               Hao Li and
+               Yi-Cheng Tu},
+  title     = {Efficient Join Algorithms For Large Database Tables in a {Multi-GPU} Environment},
+  journal   = pvldb,
+  volume    = {14},
+  number    = {4},
+  year      = 2020,
+  pages     = {708-720},
 }
 
 @article{DBLP:journals/pvldb/KoumarelasPN20,
@@ -855,7 +6367,7 @@
                Emanuel Zgraggen and
                Raul Castro Fernandez and
                Tim Kraska and
-               David Karger},
+               David R. Karger},
   title     = {ARDA: Automatic Relational Data Augmentation for Machine Learning},
   journal   = pvldb,
   volume    = {13},
@@ -1089,7 +6601,7 @@
 
 @article{DBLP:journals/pvldb/SunDCS20,
   author    = {Bintao Sun and
-               Maximilien Dansich and
+               Maximilien Danisch and
                T.-H. Hubert Chan and
                Mauro Sozio},
   title     = {KClist++: A Simple Algorithm for Finding {k-Clique} Densest Subgraphs in Large Graphs},
@@ -2022,7 +7534,7 @@
                Yao Lu and
                Peter Bailis and
                Srikanth Kandula and
-               Philip Levis},
+               Philip Alexander Levis},
   title     = {Approximate Partition Selection for {Big-Data} Workloads using Summary Statistics},
   journal   = pvldb,
   volume    = {13},
@@ -3384,7 +8896,7 @@
                Dorian Miller and
                Robert J. Moore and
                Rebecca Niehus and
-               Jeffrey Kreulen},
+               Jeffrey T. Kreulen},
   title     = {Conversational BI: An {Ontology-Driven} {ConversationSystem} for Business Intelligence Applications},
   journal   = pvldb,
   volume    = {13},
@@ -4107,7 +9619,7 @@
 
 @article{DBLP:journals/pvldb/PenaAN19,
   author    = {Eduardo H. M. Pena and
-               Eduardo Cunha de Almeida and
+               Eduardo C. de Almeida and
                Felix Naumann},
   title     = {Discovery of Approximate (and Exact) Denial Constraints},
   journal   = pvldb,
@@ -4123,7 +9635,7 @@
                Amog Kamsetty and
                Chenggang Wu and
                Yan Duan and
-               Peter Chen and
+               Xi Chen and
                Pieter Abbeel and
                Joseph M. Hellerstein and
                Sanjay Krishnan and
@@ -4174,7 +9686,7 @@
 
 @article{DBLP:journals/pvldb/KepeAA19,
   author    = {Tiago Rodrigo Kepe and
-               Eduardo Cunha de Almeida and
+               Eduardo C. de Almeida and
                Marco A. Z. Alves},
   title     = {Database Processing-in-Memory: An Experimental Study},
   journal   = pvldb,
@@ -5057,7 +10569,7 @@
   author    = {Shi Qiao and
                Adrian Nicoara and
                Jin Sun and
-               Marc Friedman and
+               Marc T. Friedman and
                Hiren Patel and
                Jaliya Ekanayake},
   title     = {Hyper Dimension Shuffle: Efficient Data Repartition at Petabyte Scale in Scope},
@@ -5405,7 +10917,7 @@
 
 @article{DBLP:journals/pvldb/FanG19,
   author    = {Hua Fan and
-               Wojciech Golab},
+               Wojciech M. Golab},
   title     = {Ocean Vista: {Gossip-Based} Visibility Control for Speedy {Geo-Distributed} Transactions},
   journal   = pvldb,
   volume    = {12},
@@ -6629,7 +12141,7 @@
   author    = {Srikanth Kandula and
                Kukjin Lee and
                Surajit Chaudhuri and
-               Marc Friedman},
+               Marc T. Friedman},
   title     = {Experiences with Approximating Queries in Microsoft's Production {Big-Data} Clusters},
   journal   = pvldb,
   volume    = {12},
@@ -6678,7 +12190,7 @@
 
 @article{DBLP:journals/pvldb/TanGPYSDSAK19,
   author    = {Junjay Tan and
-               Thanaa Ghanem and
+               Thanaa M. Ghanem and
                Matthew Perron and
                Xiangyao Yu and
                Michael Stonebraker and
@@ -6893,7 +12405,7 @@
 }
 
 @article{DBLP:journals/pvldb/Parameswaran19,
-  author    = {Aditya Parameswaran},
+  author    = {Aditya G. Parameswaran},
   title     = {Enabling Data Science for the Majority},
   journal   = pvldb,
   volume    = {12},
@@ -7154,7 +12666,7 @@
 }
 
 @article{DBLP:journals/pvldb/WhittakerH18,
-  author    = {Michael Whittaker and
+  author    = {Michael J. Whittaker and
                Joseph M. Hellerstein},
   title     = {Interactive Checks for Coordination Avoidance},
   journal   = pvldb,
@@ -7832,7 +13344,7 @@
                Ming Li and
                Jaliya Ekanayake and
                Haibo Lin and
-               Marc Friedman and
+               Marc T. Friedman and
                José A. Blakeley and
                Clemens A. Szyperski and
                Nikhil R. Devanur},
@@ -8130,7 +13642,7 @@
 }
 
 @article{DBLP:journals/pvldb/BreslowJ18,
-  author    = {Alexander Breslow and
+  author    = {Alexander Dodd Breslow and
                Nuwan Jayasena},
   title     = {Morton Filters: Faster, {Space-Efficient} Cuckoo Filters via Biasing, Compression, and Decoupled Logical Sparsity},
   journal   = pvldb,
@@ -8783,7 +14295,7 @@
                Karianne J. Bergen and
                Hashem Elezabi and
                Peter Bailis and
-               Philip Levis and
+               Philip Alexander Levis and
                Gregory C. Beroza},
   title     = {{Locality-Sensitive} Hashing for Earthquake Detection: A Case Study Scaling {Data-Driven} Science},
   journal   = pvldb,
@@ -10915,7 +16427,7 @@
 }
 
 @article{DBLP:journals/pvldb/CaiZZCH17,
-  author    = {HongYun Cai and
+  author    = {Hongyun Cai and
                Vincent Wenchen Zheng and
                Fanwei Zhu and
                Kevin Chen-Chuan Chang and
@@ -11144,7 +16656,7 @@
 
 @article{DBLP:journals/pvldb/LiuPCY17,
   author    = {Yiding Liu and
-               Tuan-Anh Pham and
+               Tuan-Anh Nguyen Pham and
                Gao Cong and
                Quan Yuan},
   title     = {An Experimental Evaluation of Point-of-interest Recommendation in Location-based Social Networks},
@@ -11706,7 +17218,7 @@
   author    = {Markus Pilman and
                Kevin Bocksrocker and
                Lucas Braun and
-               Renato Marroquin and
+               Renato Marroquín and
                Donald Kossmann},
   title     = {Fast Scans on {Key-Value} Stores},
   journal   = pvldb,
@@ -14333,7 +19845,7 @@
                Jerry Jiang and
                Praveen Bommannavar and
                Brian Larson and
-               Jimmy J. Lin},
+               Jimmy Lin},
   title     = {GraphJet: {Real-Time} Content Recommendations at Twitter},
   journal   = pvldb,
   volume    = {9},
@@ -20327,7 +25839,7 @@
                Siva Gurumurthy and
                Volodymyr Zhabiuk and
                Quannan Li and
-               Jimmy J. Lin},
+               Jimmy Lin},
   title     = {{Real-Time} Twitter Recommendation: Online Motif Detection in Large Dynamic Graphs},
   journal   = pvldb,
   volume    = {7},
@@ -20414,7 +25926,7 @@
   author    = {P. Oscar Boykin and
                Sam Ritchie and
                Ian O'Connell and
-               Jimmy J. Lin},
+               Jimmy Lin},
   title     = {Summingbird: A Framework for Integrating Batch and Online {MapReduce} Computations},
   journal   = pvldb,
   volume    = {7},
@@ -20987,7 +26499,7 @@
 @article{DBLP:journals/pvldb/QuamarDL14,
   author    = {Abdul Quamar and
                Amol Deshpande and
-               Jimmy J. Lin},
+               Jimmy Lin},
   title     = {NScale: Neighborhood-centric Analytics on Large Graphs},
   journal   = pvldb,
   volume    = {7},
@@ -22252,7 +27764,7 @@
 @article{DBLP:journals/pvldb/NandiJM13,
   author    = {Arnab Nandi and
                Lilong Jiang and
-               Michael Mandel},
+               Michael I. Mandel},
   title     = {Gestural Query Specification},
   journal   = pvldb,
   volume    = {7},
@@ -23095,7 +28607,7 @@
   author    = {Ian Rae and
                Eric Rollins and
                Jeff Shute and
-               Sukhdeep Sodhi and
+               Sukhdeep S. Sodhi and
                Radek Vingralek},
   title     = {Online, Asynchronous Schema Change in F1},
   journal   = pvldb,
@@ -23899,7 +29411,7 @@
 }
 
 @article{DBLP:journals/pvldb/MoyersSWKVBC13,
-  author    = {Matthew Moyers and
+  author    = {Matthew I. Moyers and
                Emad Soroush and
                Spencer Wallace and
                K. Simon Krughoff and
@@ -23965,7 +29477,7 @@
 
 @article{DBLP:journals/pvldb/JiangMN13,
   author    = {Lilong Jiang and
-               Michael Mandel and
+               Michael I. Mandel and
                Arnab Nandi},
   title     = {GestureQuery: A Multitouch Database Query Interface},
   journal   = pvldb,
@@ -24008,7 +29520,7 @@
   author    = {K. Ashwin Kumar and
                Jonathan Gluck and
                Amol Deshpande and
-               Jimmy J. Lin},
+               Jimmy Lin},
   title     = {Hone: "Scaling Down" Hadoop on {Shared-Memory} Systems},
   journal   = pvldb,
   volume    = {6},
@@ -24767,7 +30279,7 @@
 }
 
 @article{DBLP:journals/pvldb/DeBrabantPTSZ13,
-  author    = {Justin DeBrabant and
+  author    = {Justin A. DeBrabant and
                Andrew Pavlo and
                Stephen Tu and
                Michael Stonebraker and
@@ -26630,7 +32142,7 @@
 
 @article{DBLP:journals/pvldb/LeeLLLR12,
   author    = {George Lee and
-               Jimmy J. Lin and
+               Jimmy Lin and
                Chuang Liu and
                Andrew Lorek and
                Dmitriy V. Ryaboy},
@@ -26660,7 +32172,7 @@
                Matt Fuller and
                Ramakrishna Varadarajan and
                Nga Tran and
-               Ben Vandier and
+               Ben Vandiver and
                Lyric Doshi and
                Chuck Bear},
   title     = {The Vertica Analytic Database: {C-Store} 7 Years Later},

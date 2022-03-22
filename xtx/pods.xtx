@@ -1,5 +1,319 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pods/AlurHIKMNSTX21,
+  author    = {Rajeev Alur and
+               Phillip Hilliard and
+               Zachary G. Ives and
+               Konstantinos Kallas and
+               Konstantinos Mamouras and
+               Filip Niksic and
+               Caleb Stanford and
+               Val Tannen and
+               Anton Xue},
+  title     = {Synchronization Schemas},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/pods/Marx21,
+  author    = {Dániel Marx},
+  title     = {Modern Lower Bound Techniques in Database Theory and Constraint Satisfaction},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {19-29},
+}
+
+@inproceedings{DBLP:conf/pods/Saha21,
+  author    = {Barna Saha},
+  title     = {Approximation Algorithms for Large Scale Data Analysis},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {30-32},
+}
+
+@inproceedings{DBLP:conf/pods/Nissim21,
+  author    = {Kobbi Nissim},
+  title     = {Privacy: From Database Reconstruction to Legal Theorems},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {33-41},
+}
+
+@inproceedings{DBLP:conf/pods/Stausholm21,
+  author    = {Nina Mesing Stausholm},
+  title     = {Improved Differentially Private Euclidean Distance Approximation},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {42-56},
+}
+
+@inproceedings{DBLP:conf/pods/Vianu21,
+  author    = {Victor Vianu},
+  title     = {Datalog Unchained},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {57-69},
+}
+
+@inproceedings{DBLP:conf/pods/AamerHPB21,
+  author    = {Heba Aamer and
+               Jan Hidders and
+               Jan Paredaens and
+               Jan Van den Bussche},
+  title     = {Expressiveness within Sequence Datalog},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {70-81},
+}
+
+@inproceedings{DBLP:conf/pods/BonifatiPS21,
+  author    = {Angela Bonifati and
+               Rasmus Pagh and
+               Thomas Schwentick},
+  title     = {2021 {ACM} {PODS} Alberto O. Mendelzon {Test-of-Time} Award},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {82},
+}
+
+@inproceedings{DBLP:conf/pods/Konrad21,
+  author    = {Christian Konrad},
+  title     = {Frequent Elements with Witnesses in Data Streams},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {83-95},
+}
+
+@inproceedings{DBLP:conf/pods/CormodeKLTV21,
+  author    = {Graham Cormode and
+               Zohar S. Karnin and
+               Edo Liberty and
+               Justin Thaler and
+               Pavel Veselý},
+  title     = {Relative Error Streaming Quantiles},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {96-108},
+}
+
+@inproceedings{DBLP:conf/pods/BarloyMP21,
+  author    = {Corentin Barloy and
+               Filip Murlak and
+               Charles Paperman},
+  title     = {Stackless Processing of Streamed Trees},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {109-125},
+}
+
+@inproceedings{DBLP:conf/pods/MeelV021,
+  author    = {Kuldeep S. Meel and
+               N. V. Vinodchandran and
+               Sourav Chakraborty},
+  title     = {Estimating the Size of Union of Sets in Streaming Models},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {126-137},
+}
+
+@inproceedings{DBLP:conf/pods/WangM0T21,
+  author    = {Yanhao Wang and
+               Michael Mathioudakis and
+               Yuchen Li and
+               Kian-Lee Tan},
+  title     = {Minimum Coresets for Maxima Representation of Multidimensional Data},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {138-152},
+}
+
+@inproceedings{DBLP:conf/pods/SchmidS21,
+  author    = {Markus L. Schmid and
+               Nicole Schweikardt},
+  title     = {Spanner Evaluation over {SLP-Compressed} Documents},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {153-165},
+}
+
+@inproceedings{DBLP:conf/pods/QiaoT21,
+  author    = {Miao Qiao and
+               Yufei Tao},
+  title     = {{Two-Attribute} Skew Free, Isolated {CP} Theorem, and Massively Parallel Joins},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {166-180},
+}
+
+@inproceedings{DBLP:conf/pods/Hu21,
+  author    = {Xiao Hu},
+  title     = {Cover or Pack: New Upper and Lower Bounds for Massively Parallel Joins},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {181-198},
+}
+
+@inproceedings{DBLP:conf/pods/HuKB21,
+  author    = {Xiao Hu and
+               Paraschos Koutris and
+               Spyros Blanas},
+  title     = {Algorithms for a Topology-aware Massively Parallel Computation Model},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {199-214},
+}
+
+@inproceedings{DBLP:conf/pods/KoutrisOW21,
+  author    = {Paraschos Koutris and
+               Xiating Ouyang and
+               Jef Wijsen},
+  title     = {Consistent Query Answering for Primary Keys on Path Queries},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {215-232},
+}
+
+@inproceedings{DBLP:conf/pods/CalauttiCP21,
+  author    = {Marco Calautti and
+               Marco Console and
+               Andreas Pieris},
+  title     = {Benchmarking Approximate Consistent Query Answering},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {233-246},
+}
+
+@inproceedings{DBLP:conf/pods/AtseriasK21,
+  author    = {Albert Atserias and
+               Phokion G. Kolaitis},
+  title     = {Structure and Complexity of Bag Consistency},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {247-259},
+}
+
+@inproceedings{DBLP:conf/pods/TaoW21,
+  author    = {Yufei Tao and
+               Yu Wang},
+  title     = {New Algorithms for Monotone Classification},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {260-272},
+}
+
+@inproceedings{DBLP:conf/pods/CormodeDW21,
+  author    = {Graham Cormode and
+               Charlie Dickens and
+               David P. Woodruff},
+  title     = {Subspace Exploration: Bounds on Projected Frequency Estimation},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {273-284},
+}
+
+@inproceedings{DBLP:conf/pods/CormodeGS21,
+  author    = {Graham Cormode and
+               Minos N. Garofalakis and
+               Michael Shekelyan},
+  title     = {{Data-Independent} Space Partitionings for Summaries},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {285-298},
+}
+
+@inproceedings{DBLP:conf/pods/PavanVBM21,
+  author    = {Aduri Pavan and
+               N. V. Vinodchandran and
+               Arnab Bhattacharya and
+               Kuldeep S. Meel},
+  title     = {Model Counting meets F0 Estimation},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {299-311},
+}
+
+@inproceedings{DBLP:conf/pods/KenigS21,
+  author    = {Batya Kenig and
+               Dan Suciu},
+  title     = {A Dichotomy for the Generalized Model Counting Problem for Unions of Conjunctive Queries},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {312-324},
+}
+
+@inproceedings{DBLP:conf/pods/CarmeliTGKR21,
+  author    = {Nofar Carmeli and
+               Nikolaos Tziavelis and
+               Wolfgang Gatterbauer and
+               Benny Kimelfeld and
+               Mirek Riedewald},
+  title     = {Tractable Orders for Direct Access to Ranked Answers of Conjunctive Queries},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {325-341},
+}
+
+@inproceedings{DBLP:conf/pods/GeertsMRV21,
+  author    = {Floris Geerts and
+               Thomas Muñoz and
+               Cristian Riveros and
+               Domagoj Vrgoc},
+  title     = {Expressive Power of Linear Algebra Query Languages},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {342-354},
+}
+
+@inproceedings{DBLP:conf/pods/Lanzinger21,
+  author    = {Matthias Lanzinger},
+  title     = {Tractability Beyond ß-Acyclicity for Conjunctive Queries with Negation},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {355-369},
+}
+
+@inproceedings{DBLP:conf/pods/KikotKPZ21,
+  author    = {Stanislav Kikot and
+               Agi Kurucz and
+               Vladimir V. Podolskii and
+               Michael Zakharyaschev},
+  title     = {Deciding Boundedness of Monadic Sirups},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {370-387},
+}
+
+@inproceedings{DBLP:conf/pods/CarmeliG0S21,
+  author    = {Nofar Carmeli and
+               Martin Grohe and
+               Peter Lindner and
+               Christoph Standke},
+  title     = {{Tuple-Independent} Representations of Infinite Probabilistic Databases},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {388-401},
+}
+
+@inproceedings{DBLP:conf/pods/BerkholzM21,
+  author    = {Christoph Berkholz and
+               Maximilian Merz},
+  title     = {Probabilistic Databases under Updates: Boolean Query Evaluation and Ranked Enumeration},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {402-415},
+}
+
+@inproceedings{DBLP:conf/pods/ConsoleKP21,
+  author    = {Marco Console and
+               Phokion G. Kolaitis and
+               Andreas Pieris},
+  title     = {Model-theoretic Characterizations of Rule-based Ontologies},
+  booktitle = pods,
+  year      = 2021,
+  pages     = {416-428},
+}
+
 @inproceedings{DBLP:conf/pods/Grohe20,
   author    = {Martin Grohe},
   title     = {word2vec, node2vec, graph2vec, X2vec: Towards a Theory of Vector Embeddings of Structured Data},
@@ -6344,7 +6658,7 @@
 }
 
 @inproceedings{DBLP:conf/pods/MokhtarSI02,
-  author    = {Hoda Mokhtar and
+  author    = {Hoda M. O. Mokhtar and
                Jianwen Su and
                Oscar H. Ibarra},
   title     = {On Moving Object Queries},
@@ -6755,7 +7069,7 @@
 @inproceedings{DBLP:conf/pods/MillsteinLF00,
   author    = {Todd D. Millstein and
                Alon Y. Levy and
-               Marc Friedman},
+               Marc T. Friedman},
   title     = {Query Containment for Data Integration Systems},
   booktitle = pods,
   year      = 2000,

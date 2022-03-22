@@ -1,5 +1,168 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/RuaroSJM21,
+  author    = {Marcelo Ruaro and
+               Anderson Camargo Sant'Ana and
+               Axel Jantsch and
+               Fernando Gehm Moraes},
+  title     = {Modular and Distributed Management of {Many-Core} {SoCs}},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2021,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/SadrosadatiMHEF21,
+  author    = {Mohammad Sadrosadati and
+               Amirhossein Mirhosseini and
+               Ali Hajiabadi and
+               Seyed Borna Ehsani and
+               Hajar Falahati and
+               Hamid Sarbazi-Azad and
+               Mario Drumond and
+               Babak Falsafi and
+               Rachata Ausavarungnirun and
+               Onur Mutlu},
+  title     = {Highly Concurrent Latency-tolerant Register Files for {GPUs}},
+  journal   = tocs,
+  volume    = {37},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/MarkussenKHKSG21,
+  author    = {Jonas Markussen and
+               Lars Bjørlykke Kristiansen and
+               Pål Halvorsen and
+               Halvor Kielland-Gyrud and
+               Håkon Kvale Stensland and
+               Carsten Griwodz},
+  title     = {SmartIO: Zero-overhead Device Sharing through {PCIe} Networking},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2021,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/ZhangZWYXC21,
+  author    = {Yiming Zhang and
+               Chengfei Zhang and
+               Yaozheng Wang and
+               Kai Yu and
+               Guangtao Xue and
+               Jon Crowcroft},
+  title     = {KylinX: Simplified Virtualization Architecture for Specialized Virtual Appliances with Strong Isolation},
+  journal   = tocs,
+  volume    = {37},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/KatsikasBKMS21,
+  author    = {Georgios P. Katsikas and
+               Tom Barbette and
+               Dejan Kostic and
+               Gerald Q. Maguire Jr. and
+               Rebecca Steinert},
+  title     = {Metron: High-performance {NFV} Service Chaining Even in the Presence of Blackboxes},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2021,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/RichinsDBNPPDDI21,
+  author    = {Daniel Richins and
+               Dharmisha Doshi and
+               Matthew Blackmore and
+               Aswathy Thulaseedharan Nair and
+               Neha Pathapati and
+               Ankit Patel and
+               Brainard Daguman and
+               Daniel Dobrijalowski and
+               Ramesh Illikkal and
+               Kevin Long and
+               David Zimmerman and
+               Vijay Janapa Reddi},
+  title     = {{AI} Tax: The Hidden Cost of {AI} Data Center Applications},
+  journal   = tocs,
+  volume    = {37},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/BaskinLSZGBM21,
+  author    = {Chaim Baskin and
+               Natan Liss and
+               Eli Schwartz and
+               Evgenii Zheltonozhskii and
+               Raja Giryes and
+               Alex M. Bronstein and
+               Avi Mendelson},
+  title     = {UNIQ: Uniform Noise Injection for {Non-Uniform} Quantization of Neural Networks},
+  journal   = tocs,
+  volume    = {37},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/ZuoWHSZLDWLWX21,
+  author    = {Zhiqiang Zuo and
+               Kai Wang and
+               Aftab Hussain and
+               Ardalan Amiri Sani and
+               Yiyu Zhang and
+               Shenming Lu and
+               Wensheng Dou and
+               Linzhang Wang and
+               Xuandong Li and
+               Chenxi Wang and
+               Guoqing Harry Xu},
+  title     = {Systemizing Interprocedural Static Analysis of Large-scale Systems Code with Graspan},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2021,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/ZhuoCRLWYQQ21,
+  author    = {Youwei Zhuo and
+               Jingji Chen and
+               Gengyu Rao and
+               Qinyi Luo and
+               Yanzhi Wang and
+               Hailong Yang and
+               Depei Qian and
+               Xuehai Qian},
+  title     = {Distributed Graph Processing System and Processing-in-memory Architecture with Precise Loop-carried Dependency Guarantee},
+  journal   = tocs,
+  volume    = {37},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tocs/AgatePRM21,
+  author    = {Vincenzo Agate and
+               Alessandra De Paola and
+               Giuseppe Lo Re and
+               Marco Morana},
+  title     = {A Simulation Software for the Evaluation of Vulnerabilities in Reputation Management Systems},
+  journal   = tocs,
+  volume    = {37},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {6-1},
+}
+
 @article{DBLP:journals/tocs/BaiLH20,
   author    = {Jia-Ju Bai and
                Julia Lawall and
@@ -633,7 +796,7 @@
   author    = {Jean-Pierre Lozi and
                Florian David and
                Gaël Thomas and
-               Julia L. Lawall and
+               Julia Lawall and
                Gilles Muller},
   title     = {Fast and Portable Locking for Multicore Architectures},
   journal   = tocs,
@@ -922,8 +1085,8 @@
 }
 
 @article{DBLP:journals/tocs/YuSSSCKEY14,
-  author    = {Young Jin Yu and
-               Dong In Shin and
+  author    = {Youngjin Yu and
+               Dongin Shin and
                Woong Shin and
                Nae Young Song and
                Jae-Woo Choi and
@@ -1224,7 +1387,7 @@
 @article{DBLP:journals/tocs/SaezFKP12,
   author    = {Juan Carlos Saez and
                Alexandra Fedorova and
-               David Koufaty and
+               David A. Koufaty and
                Manuel Prieto},
   title     = {Leveraging Core Specialization via {OS} Scheduling to Improve Performance on Asymmetric Multicore Systems},
   journal   = tocs,
@@ -3394,8 +3557,9 @@
 }
 
 @article{DBLP:journals/tocs/Mogul97,
-  author    = {Jeffrey C. Mogul},
-  title     = {K. K. Ramakrishnan: Eliminating Receive Livelock in an {Interrupt-Driven} Kemel},
+  author    = {Jeffrey C. Mogul and
+               K. K. Ramakrishnan},
+  title     = {Eliminating Receive Livelock in an {Interrupt-Driven} Kemel},
   journal   = tocs,
   volume    = {15},
   number    = {3},

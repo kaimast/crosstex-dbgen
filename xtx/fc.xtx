@@ -1,5 +1,1027 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fc/SwamboP21,
+  author    = {Jacob Swambo and
+               Antoine Poinsot},
+  title     = {Risk Framework for Bitcoin Custody Operation with the Revault Protocol},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {3-20},
+}
+
+@inproceedings{DBLP:conf/fc/QinZLG21,
+  author    = {Kaihua Qin and
+               Liyi Zhou and
+               Benjamin Livshits and
+               Arthur Gervais},
+  title     = {Attacking the {DeFi} Ecosystem with Flash Loans for Fun and Profit},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/fc/ZamyatinAZKMKK21,
+  author    = {Alexei Zamyatin and
+               Mustafa Al-Bassam and
+               Dionysis Zindros and
+               Eleftherios Kokoris-Kogias and
+               Pedro Moreno-Sanchez and
+               Aggelos Kiayias and
+               William J. Knottenbelt},
+  title     = {SoK: Communication Across Distributed Ledgers},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {3-36},
+}
+
+@inproceedings{DBLP:conf/fc/UshidaA21,
+  author    = {Ryosuke Ushida and
+               James Angel},
+  title     = {Regulatory Considerations on Centralized Aspects of {DeFi} Managed by {DAOs}},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {21-36},
+}
+
+@inproceedings{DBLP:conf/fc/TorresIGS21,
+  author    = {Christof Ferreira Torres and
+               Antonio Ken Iannillo and
+               Arthur Gervais and
+               Radu State},
+  title     = {The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {33-52},
+}
+
+@inproceedings{DBLP:conf/fc/ThyagarajanBMTK21,
+  author    = {Sri Aravinda Krishnan Thyagarajan and
+               Adithya Bhat and
+               Bernardo Magri and
+               Daniel Tschudi and
+               Aniket Kate},
+  title     = {Reparo: Publicly Verifiable Layer to Repair Blockchains},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {37-56},
+}
+
+@inproceedings{DBLP:conf/fc/KellerFB21,
+  author    = {Patrik Keller and
+               Martin Florian and
+               Rainer Böhme},
+  title     = {Collaborative Deanonymization},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {39-46},
+}
+
+@inproceedings{DBLP:conf/fc/Taylor21,
+  author    = {Ryan Taylor},
+  title     = {Re: {FinCEN} Docket Number FINCEN-2020-0020; {RIN} 1506-AB47; Requirements for Certain Transactions Involving Convertible Virtual Currency or Digital Assets},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {47-53},
+}
+
+@inproceedings{DBLP:conf/fc/NadahalliKW21,
+  author    = {Tejaswi Nadahalli and
+               Majid Khabbazian and
+               Roger Wattenhofer},
+  title     = {Timelocked Bribing},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {53-72},
+}
+
+@inproceedings{DBLP:conf/fc/WrightM21,
+  author    = {Aaron Wright and
+               Sachin Meier},
+  title     = {Analyzing {FinCEN's} Proposed Regulation Relating to {AML} and {KYC} Laws},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {54-62},
+}
+
+@inproceedings{DBLP:conf/fc/ChiuK21,
+  author    = {Michael Chiu and
+               Uros Kalabic},
+  title     = {Short Paper: Debt Representation in {UTXO} Blockchains},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {57-64},
+}
+
+@inproceedings{DBLP:conf/fc/EvansAC21,
+  author    = {Alex Evans and
+               Guillermo Angeris and
+               Tarun Chitra},
+  title     = {Optimal Fees for Geometric Mean Market Makers},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {65-79},
+}
+
+@inproceedings{DBLP:conf/fc/GoyalLR21,
+  author    = {Vipul Goyal and
+               Hanjun Li and
+               Justin Raizes},
+  title     = {Instant Block Confirmation in the Sleepy Model},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {65-83},
+}
+
+@inproceedings{DBLP:conf/fc/BottaFVV21,
+  author    = {Vincenzo Botta and
+               Daniele Friolo and
+               Daniele Venturi and
+               Ivan Visconti},
+  title     = {Shielded Computations in Smart Contracts Overcoming Forks},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {73-92},
+}
+
+@inproceedings{DBLP:conf/fc/GawlikowiczMRS21,
+  author    = {W. Gawlikowicz and
+               B. Mannerings and
+               T. Rudolph and
+               David Siska},
+  title     = {Market Based Mechanisms for Incentivising Exchange Liquidity Provision},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {80-96},
+}
+
+@inproceedings{DBLP:conf/fc/SankagiriWKV21,
+  author    = {Suryanarayana Sankagiri and
+               Xuechao Wang and
+               Sreeram Kannan and
+               Pramod Viswanath},
+  title     = {Blockchain {CAP} Theorem Allows {User-Dependent} Adaptivity and Finality},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {84-103},
+}
+
+@inproceedings{DBLP:conf/fc/BartolettiBLSZ21,
+  author    = {Massimo Bartoletti and
+               Andrea Bracciali and
+               Cristian Lepore and
+               Alceste Scalas and
+               Roberto Zunino},
+  title     = {A Formal Model of Algorand Smart Contracts},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {93-114},
+}
+
+@inproceedings{DBLP:conf/fc/ZhaoLY21,
+  author    = {Wenqi Zhao and
+               Hui Li and
+               Yuming Yuan},
+  title     = {Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {97-108},
+}
+
+@inproceedings{DBLP:conf/fc/DebKT21,
+  author    = {Soubhik Deb and
+               Sreeram Kannan and
+               David Tse},
+  title     = {PoSAT: {Proof-of-Work} Availability and Unpredictability, Without the Work},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {104-128},
+}
+
+@inproceedings{DBLP:conf/fc/WachterJR21,
+  author    = {Victor von Wachter and
+               Johannes Rude Jensen and
+               Omri Ross},
+  title     = {Measuring Asset Composability as a Proxy for {DeFi} Integration},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {109-114},
+}
+
+@inproceedings{DBLP:conf/fc/KaleemS21,
+  author    = {Mudabbir Kaleem and
+               Weidong Shi},
+  title     = {Demystifying Pythia: A Survey of {ChainLink} Oracles Usage on Ethereum},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {115-123},
+}
+
+@inproceedings{DBLP:conf/fc/PakkiSWBD21,
+  author    = {Jaswant Pakki and
+               Yan Shoshitaishvili and
+               Ruoyu Wang and
+               Tiffany Bao and
+               Adam Doupé},
+  title     = {Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask)},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {117-146},
+}
+
+@inproceedings{DBLP:conf/fc/Pernice21,
+  author    = {Ingolf Gunnar Anton Pernice},
+  title     = {On Stablecoin Price Processes and Arbitrage},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {124-135},
+}
+
+@inproceedings{DBLP:conf/fc/TairiMM21,
+  author    = {Erkan Tairi and
+               Pedro Moreno-Sanchez and
+               Matteo Maffei},
+  title     = {{Post-Quantum} Adaptor Signature for {Privacy-Preserving} {Off-Chain} Payments},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {131-150},
+}
+
+@inproceedings{DBLP:conf/fc/SalehiCM21,
+  author    = {Mehdi Salehi and
+               Jeremy Clark and
+               Mohammad Mannan},
+  title     = {{Red-Black} Coins: Dai Without Liquidations},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {136-145},
+}
+
+@inproceedings{DBLP:conf/fc/ApostolakiMV21,
+  author    = {Maria Apostolaki and
+               Cedric Maire and
+               Laurent Vanbever},
+  title     = {Perimeter: A {Network-Layer} Attack on the Anonymity of Cryptocurrencies},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {147-166},
+}
+
+@inproceedings{DBLP:conf/fc/TolmachLLL21,
+  author    = {Palina Tolmach and
+               Yi Li and
+               Shang-Wei Lin and
+               Yang Liu},
+  title     = {Formal Analysis of Composable {DeFi} Protocols},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {149-161},
+}
+
+@inproceedings{DBLP:conf/fc/MirzaeiSYS21,
+  author    = {Arash Mirzaei and
+               Amin Sakzad and
+               Jiangshan Yu and
+               Ron Steinfeld},
+  title     = {FPPW: A Fair and Privacy Preserving Watchtower for Bitcoin},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {151-169},
+}
+
+@inproceedings{DBLP:conf/fc/SunLSJ21,
+  author    = {Xinyuan Sun and
+               Shaokai Lin and
+               Vilhelm Sjöberg and
+               Jay Jie},
+  title     = {How to Exploit a {DeFi} Project},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {162-167},
+}
+
+@inproceedings{DBLP:conf/fc/KapposYPKDMM21,
+  author    = {George Kappos and
+               Haaroon Yousaf and
+               Ania M. Piotrowska and
+               Sanket Kanjalkar and
+               Sergi Delgado-Segura and
+               Andrew Miller and
+               Sarah Meiklejohn},
+  title     = {An Empirical Analysis of Privacy in the Lightning Network},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {167-186},
+}
+
+@inproceedings{DBLP:conf/fc/MizrahiZ21,
+  author    = {Ayelet Mizrahi and
+               Aviv Zohar},
+  title     = {Congestion Attacks in Payment Channel Networks},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {170-188},
+}
+
+@inproceedings{DBLP:conf/fc/Li21,
+  author    = {Jiasun Li},
+  title     = {{DeFi} as an Information Aggregator},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {171-176},
+}
+
+@inproceedings{DBLP:conf/fc/DubovitskayaAX21,
+  author    = {Alevtina Dubovitskaya and
+               Damien Ackerer and
+               Jiahua Xu},
+  title     = {A {Game-Theoretic} Analysis of Cross-ledger Swaps with Packetized Payments},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {177-187},
+}
+
+@inproceedings{DBLP:conf/fc/RomitiVMNHM21,
+  author    = {Matteo Romiti and
+               Friedhelm Victor and
+               Pedro Moreno-Sanchez and
+               Peter Sebastian Nordholt and
+               Bernhard Haslhofer and
+               Matteo Maffei},
+  title     = {{Cross-Layer} Deanonymization Methods in the Lightning Protocol},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {187-204},
+}
+
+@inproceedings{DBLP:conf/fc/JourenkoLT21,
+  author    = {Maxim Jourenko and
+               Mario Larangeira and
+               Keisuke Tanaka},
+  title     = {Payment Trees: Low Collateral Payments for Payment Channel Networks},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {189-208},
+}
+
+@inproceedings{DBLP:conf/fc/Kursawe21,
+  author    = {Klaus Kursawe},
+  title     = {Wendy Grows Up: More Order Fairness},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {191-196},
+}
+
+@inproceedings{DBLP:conf/fc/LiBBKHSAC21,
+  author    = {Jiasun Li and
+               Foteini Baldimtsi and
+               Joao P. Brandao and
+               Maurice Kugler and
+               Rafeh Hulays and
+               Eric Showers and
+               Zain Ali and
+               Joseph Chang},
+  title     = {Measuring Illicit Activity in DeFi: The Case of Ethereum},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {197-203},
+}
+
+@inproceedings{DBLP:conf/fc/AmarasingheBM21,
+  author    = {Niluka Amarasinghe and
+               Xavier Boyen and
+               Matthew McKague},
+  title     = {The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {205-225},
+}
+
+@inproceedings{DBLP:conf/fc/DanosKP21,
+  author    = {Vincent Danos and
+               Hamza El Khalloufi and
+               Julien Prat},
+  title     = {Global Order Routing on Exchange Networks},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {207-226},
+}
+
+@inproceedings{DBLP:conf/fc/AvarikiotiKWZ21,
+  author    = {Zeta Avarikioti and
+               Eleftherios Kokoris-Kogias and
+               Roger Wattenhofer and
+               Dionysis Zindros},
+  title     = {Brick: Asynchronous {Incentive-Compatible} Payment Channels},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {209-230},
+}
+
+@inproceedings{DBLP:conf/fc/BartolettiCL21,
+  author    = {Massimo Bartoletti and
+               James Hsin-yu Chiang and
+               Alberto Lluch-Lafuente},
+  title     = {Towards a Theory of Decentralized Finance},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {227-232},
+}
+
+@inproceedings{DBLP:conf/fc/DurakG21,
+  author    = {F. Betül Durak and
+               Jorge Guajardo},
+  title     = {Improving the Efficiency of {AES} Protocols in {Multi-Party} Computation},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {229-248},
+}
+
+@inproceedings{DBLP:conf/fc/RoughgardenS21,
+  author    = {Tim Roughgarden and
+               Clara Shikhelman},
+  title     = {Ignore the Extra Zeroes: {Variance-Optimal} Mining Pools},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {233-249},
+}
+
+@inproceedings{DBLP:conf/fc/BlomSSTV21,
+  author    = {Michelle L. Blom and
+               Philip B. Stark and
+               Peter J. Stuckey and
+               Vanessa Teague and
+               Damjan Vukcevic},
+  title     = {Auditing Hamiltonian Elections},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {235-250},
+}
+
+@inproceedings{DBLP:conf/fc/MakriRVW21,
+  author    = {Eleftheria Makri and
+               Dragos Rotaru and
+               Frederik Vercauteren and
+               Sameer Wagh},
+  title     = {Rabbit: Efficient Comparison for Secure {Multi-Party} Computation},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {249-270},
+}
+
+@inproceedings{DBLP:conf/fc/KifferR21,
+  author    = {Lucianna Kiffer and
+               Rajmohan Rajaraman},
+  title     = {HaPPY-Mine: Designing a Mining Reward Function},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {250-268},
+}
+
+@inproceedings{DBLP:conf/fc/RonneRS21,
+  author    = {Peter B. Rønne and
+               Peter Y. A. Ryan and
+               Ben Smyth},
+  title     = {Cast-as-Intended: A Formal Definition and Case Studies},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {251-262},
+}
+
+@inproceedings{DBLP:conf/fc/HeibergKW21,
+  author    = {Sven Heiberg and
+               Kristjan Krips and
+               Jan Willemson},
+  title     = {Mobile Voting - Still Too Risky?},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {263-278},
+}
+
+@inproceedings{DBLP:conf/fc/ShibuyaYKSML21,
+  author    = {Yoko Shibuya and
+               Go Yamamoto and
+               Fuhito Kojima and
+               Elaine Shi and
+               Shin'ichiro Matsuo and
+               Aron Laszka},
+  title     = {Selfish Mining Attacks Exacerbated by Elastic Hash Supply},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {269-276},
+}
+
+@inproceedings{DBLP:conf/fc/EriguchiIKN21,
+  author    = {Reo Eriguchi and
+               Atsunori Ichikawa and
+               Noboru Kunihiro and
+               Koji Nuida},
+  title     = {Efficient Noise Generation to Achieve Differential Privacy with Applications to Secure Multiparty Computation},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {271-290},
+}
+
+@inproceedings{DBLP:conf/fc/HainesR21,
+  author    = {Thomas Haines and
+               Peter B. Rønne},
+  title     = {New Standards for {E-Voting} Systems: Reflections on Source Code Examinations},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {279-289},
+}
+
+@inproceedings{DBLP:conf/fc/Al-BassamSBK21,
+  author    = {Mustafa Al-Bassam and
+               Alberto Sonnino and
+               Vitalik Buterin and
+               Ismail Khoffi},
+  title     = {Fraud and Data Availability Proofs: Detecting Invalid Blocks in Light Clients},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {279-298},
+}
+
+@inproceedings{DBLP:conf/fc/KaimCRT21,
+  author    = {Guillaume Kaim and
+               Sébastien Canard and
+               Adeline Roux-Langlois and
+               Jacques Traoré},
+  title     = {Post-quantum Online Voting Scheme},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {290-305},
+}
+
+@inproceedings{DBLP:conf/fc/SchwarzlCGS21,
+  author    = {Martin Schwarzl and
+               Claudio Canella and
+               Daniel Gruss and
+               Michael Schwarz},
+  title     = {Specfuscator: Evaluating Branch Removal as a Spectre Mitigation},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {293-310},
+}
+
+@inproceedings{DBLP:conf/fc/ShengXKV21,
+  author    = {Peiyao Sheng and
+               Bowen Xue and
+               Sreeram Kannan and
+               Pramod Viswanath},
+  title     = {ACeD: Scalable Data Availability Oracle},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {299-318},
+}
+
+@inproceedings{DBLP:conf/fc/NejadgholiYC21,
+  author    = {Mahdi Nejadgholi and
+               Nan Yang and
+               Jeremy Clark},
+  title     = {Short Paper: Ballot Secrecy for Liquid Democracy},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {306-314},
+}
+
+@inproceedings{DBLP:conf/fc/SchwarzlSSG21,
+  author    = {Martin Schwarzl and
+               Thomas Schuster and
+               Michael Schwarz and
+               Daniel Gruss},
+  title     = {Speculative Dereferencing: Reviving Foreshadow},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {311-330},
+}
+
+@inproceedings{DBLP:conf/fc/HerranzMS21,
+  author    = {Javier Herranz and
+               Ramiro Martínez and
+               Manuel Sánchez},
+  title     = {Shorter {Lattice-Based} {Zero-Knowledge} Proofs for the Correctness of a Shuffle},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {315-329},
+}
+
+@inproceedings{DBLP:conf/fc/KarakostasKK21,
+  author    = {Dimitris Karakostas and
+               Nikos Karayannidis and
+               Aggelos Kiayias},
+  title     = {Efficient State Management in Distributed Ledgers},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {319-338},
+}
+
+@inproceedings{DBLP:conf/fc/Ferreira21,
+  author    = {Loïc Ferreira},
+  title     = {Sigforgery: Breaking and Fixing Data Authenticity in Sigfox},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {331-350},
+}
+
+@inproceedings{DBLP:conf/fc/OlivieriST21,
+  author    = {Luca Olivieri and
+               Fausto Spoto and
+               Fabio Tagliaferro},
+  title     = {{On-Chain} Smart Contract Verification over Tendermint},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {333-347},
+}
+
+@inproceedings{DBLP:conf/fc/ChakravartyCFGK21,
+  author    = {Manuel M. T. Chakravarty and
+               Sandro Coretti and
+               Matthias Fitzi and
+               Peter Gazi and
+               Philipp Kant and
+               Aggelos Kiayias and
+               Alexander Russell},
+  title     = {Fast Isomorphic State Channels},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {339-358},
+}
+
+@inproceedings{DBLP:conf/fc/GalalY21,
+  author    = {Hisham S. Galal and
+               Amr M. Youssef},
+  title     = {Publicly Verifiable and Secrecy Preserving Periodic Auctions},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {348-363},
+}
+
+@inproceedings{DBLP:conf/fc/Gerault21,
+  author    = {David Gérault},
+  title     = {Short Paper: Terrorist Fraud in Distance Bounding: Getting Around the Models},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {351-359},
+}
+
+@inproceedings{DBLP:conf/fc/ClarkORSZ21,
+  author    = {Jeremy Clark and
+               Paul C. van Oorschot and
+               Scott Ruoti and
+               Kent E. Seamons and
+               Daniel Zappala},
+  title     = {SoK: Securing Email - A {Stakeholder-Based} Analysis},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {360-390},
+}
+
+@inproceedings{DBLP:conf/fc/WieflingDI21,
+  author    = {Stephan Wiefling and
+               Markus Dürmuth and
+               Luigi Lo Iacono},
+  title     = {What's in Score for Website Users: A {Data-Driven} {Long-Term} Study on {Risk-Based} Authentication Characteristics},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {361-381},
+}
+
+@inproceedings{DBLP:conf/fc/Mazurek21,
+  author    = {Lukasz Mazurek},
+  title     = {EthVer: Formal Verification of Randomized Ethereum Smart Contracts},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {364-380},
+}
+
+@inproceedings{DBLP:conf/fc/DemiragC21,
+  author    = {Didem Demirag and
+               Jeremy Clark},
+  title     = {Absentia: Secure Multiparty Computation on Ethereum},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {381-396},
+}
+
+@inproceedings{DBLP:conf/fc/BaiB21,
+  author    = {Wenjie Bai and
+               Jeremiah Blocki},
+  title     = {DAHash: Distribution Aware Tuning of Password Hashing Costs},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {382-405},
+}
+
+@inproceedings{DBLP:conf/fc/BenarrochCFGK21,
+  author    = {Daniel Benarroch and
+               Matteo Campanelli and
+               Dario Fiore and
+               Kobi Gurkan and
+               Dimitris Kolonelos},
+  title     = {{Zero-Knowledge} Proofs for Set Membership: Efficient, Succinct, Modular},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {393-414},
+}
+
+@inproceedings{DBLP:conf/fc/MuthT21,
+  author    = {Robert Muth and
+               Florian Tschorsch},
+  title     = {Empirical Analysis of On-chain Voting with Smart Contracts},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {397-412},
+}
+
+@inproceedings{DBLP:conf/fc/DasKC21,
+  author    = {Sanchari Das and
+               Andrew Kim and
+               L. Jean Camp},
+  title     = {Short Paper: Organizational Security: Implementing a {Risk-Reduction-Based} Incentivization Model for {MFA} Adoption},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {406-413},
+}
+
+@inproceedings{DBLP:conf/fc/GallersdorferGM21,
+  author    = {Ulrich Gallersdörfer and
+               Friederike Groschupp and
+               Florian Matthes},
+  title     = {Mirroring Public Key Infrastructures to Blockchains for {On-Chain} Authentication},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {415-430},
+}
+
+@inproceedings{DBLP:conf/fc/BlazyBLP21,
+  author    = {Olivier Blazy and
+               Xavier Bultel and
+               Pascal Lafourcade and
+               Octavio Perez-Kempner},
+  title     = {Generic Plaintext Equality and Inequality Proofs},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {415-435},
+}
+
+@inproceedings{DBLP:conf/fc/VyasRCLE21,
+  author    = {Anjali Vyas and
+               Ram Sundara Raman and
+               Nick Ceccio and
+               Philipp M. Lutscher and
+               Roya Ensafi},
+  title     = {Lost in Transmission: Investigating Filtering of COVID-19 Websites},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {417-436},
+}
+
+@inproceedings{DBLP:conf/fc/BlackshearCCFKK21,
+  author    = {Sam Blackshear and
+               Konstantinos Chalkias and
+               Panagiotis Chatzigiannis and
+               Riyaz Faizullabhoy and
+               Irakliy Khaburzaniya and
+               Eleftherios Kokoris-Kogias and
+               Joshua Lind and
+               David Wong and
+               Tim Zakian},
+  title     = {Reactive {Key-Loss} Protection in Blockchains},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {431-450},
+}
+
+@inproceedings{DBLP:conf/fc/FauziLPS21,
+  author    = {Prastudy Fauzi and
+               Helger Lipmaa and
+               Zaira Pindado and
+               Janno Siim},
+  title     = {Somewhere Statistically Binding Commitment Schemes with Applications},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {436-456},
+}
+
+@inproceedings{DBLP:conf/fc/KifferSLMN21,
+  author    = {Lucianna Kiffer and
+               Asad Salman and
+               Dave Levin and
+               Alan Mislove and
+               Cristina Nita-Rotaru},
+  title     = {Under the Hood of the Ethereum Gossip Protocol},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {437-456},
+}
+
+@inproceedings{DBLP:conf/fc/BaileyS21,
+  author    = {Bolton Bailey and
+               Suryanarayana Sankagiri},
+  title     = {Merkle Trees Optimized for Stateless Clients in Bitcoin},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {451-466},
+}
+
+@inproceedings{DBLP:conf/fc/BagheryKSV21,
+  author    = {Karim Baghery and
+               Markulf Kohlweiss and
+               Janno Siim and
+               Mikhail Volkhov},
+  title     = {Another Look at Extraction and Randomization of Groth's {zk-SNARK}},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {457-475},
+}
+
+@inproceedings{DBLP:conf/fc/PerezWXL21,
+  author    = {Daniel Perez and
+               Sam M. Werner and
+               Jiahua Xu and
+               Benjamin Livshits},
+  title     = {Liquidations: {DeFi} on a {Knife-Edge}},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {457-476},
+}
+
+@inproceedings{DBLP:conf/fc/Zindros21,
+  author    = {Dionysis Zindros},
+  title     = {Soft Power: Upgrading Chain Macroeconomic Policy Through Soft Forks},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {467-481},
+}
+
+@inproceedings{DBLP:conf/fc/GviliSV21,
+  author    = {Yaron Gvili and
+               Sarah Scheffler and
+               Mayank Varia},
+  title     = {BooLigero: Improved Sublinear Zero Knowledge Proofs for Boolean Circuits},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {476-496},
+}
+
+@inproceedings{DBLP:conf/fc/AlhaddadVZ21,
+  author    = {Nicolas Alhaddad and
+               Mayank Varia and
+               Haibin Zhang},
+  title     = {{High-Threshold} {AVSS} with Optimal Communication Complexity},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {479-498},
+}
+
+@inproceedings{DBLP:conf/fc/AvizhehNRSS21,
+  author    = {Sepideh Avizheh and
+               Mahmudun Nabi and
+               Saoreen Rahman and
+               Setareh Sharifian and
+               Reihaneh Safavi-Naini},
+  title     = {{Privacy-Preserving} Resource Sharing Using Permissioned Blockchains - (The Case of Smart Neighbourhood)},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {482-504},
+}
+
+@inproceedings{DBLP:conf/fc/KerberKK21,
+  author    = {Thomas Kerber and
+               Aggelos Kiayias and
+               Markulf Kohlweiss},
+  title     = {Mining for Privacy: How to Bootstrap a Snarky Blockchain},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {497-514},
+}
+
+@inproceedings{DBLP:conf/fc/DerlerRSS21,
+  author    = {David Derler and
+               Sebastian Ramacher and
+               Daniel Slamanig and
+               Christoph Striecks},
+  title     = {{Fine-Grained} Forward Secrecy: Allow-List/{Deny-List} Encryption and Applications},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {499-519},
+}
+
+@inproceedings{DBLP:conf/fc/JudmayerSZTEGMW21,
+  author    = {Aljosha Judmayer and
+               Nicholas Stifter and
+               Alexei Zamyatin and
+               Itay Tsabary and
+               Ittay Eyal and
+               Peter Gazi and
+               Sarah Meiklejohn and
+               Edgar R. Weippl},
+  title     = {SoK: Algorithmic Incentive Manipulation Attacks on Permissionless {PoW} Cryptocurrencies},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {507-532},
+}
+
+@inproceedings{DBLP:conf/fc/AlvesOA21,
+  author    = {Pedro Geraldo M. R. Alves and
+               Jheyne N. Ortiz and
+               Diego F. Aranha},
+  title     = {Faster Homomorphic Encryption over {GPGPUs} via Hierarchical {DGT}},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {520-540},
+}
+
+@inproceedings{DBLP:conf/fc/JudmayerSZTEGMW21a,
+  author    = {Aljosha Judmayer and
+               Nicholas Stifter and
+               Alexei Zamyatin and
+               Itay Tsabary and
+               Ittay Eyal and
+               Peter Gazi and
+               Sarah Meiklejohn and
+               Edgar R. Weippl},
+  title     = {Pay to Win: Cheap, {Cross-Chain} Bribing Attacks on {PoW} Cryptocurrencies},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {533-549},
+}
+
+@inproceedings{DBLP:conf/fc/AbadiK21,
+  author    = {Aydin Abadi and
+               Aggelos Kiayias},
+  title     = {Multi-instance Publicly Verifiable {Time-Lock} Puzzle and Its Applications},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {541-559},
+}
+
+@inproceedings{DBLP:conf/fc/BartolettiCL21a,
+  author    = {Massimo Bartoletti and
+               James Hsin-yu Chiang and
+               Alberto Lluch-Lafuente},
+  title     = {SoK: Lending Pools in Decentralized Finance},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {553-578},
+}
+
+@inproceedings{DBLP:conf/fc/EsginKSSZSC21,
+  author    = {Muhammed F. Esgin and
+               Veronika Kuchta and
+               Amin Sakzad and
+               Ron Steinfeld and
+               Zhenfei Zhang and
+               Shifeng Sun and
+               Shumo Chu},
+  title     = {Practical Post-quantum {Few-Time} Verifiable Random Function with Applications to Algorand},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {560-578},
+}
+
+@inproceedings{DBLP:conf/fc/KondratiukSNT21,
+  author    = {Dmytro Kondratiuk and
+               Pablo Lamela Seijas and
+               Alexander Nemish and
+               Simon J. Thompson},
+  title     = {Standardized {Crypto-Loans} on the Cardano Blockchain},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {579-594},
+}
+
+@inproceedings{DBLP:conf/fc/NgoMKW21,
+  author    = {Chan Nam Ngo and
+               Fabio Massacci and
+               Florian Kerschbaum and
+               Julian Williams},
+  title     = {Practical {Witness-Key-Agreement} for {Blockchain-Based} Dark Pools Financial Trading},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {579-598},
+}
+
+@inproceedings{DBLP:conf/fc/SakoMM21,
+  author    = {Kentaro Sako and
+               Shin'ichiro Matsuo and
+               Sachin Meier},
+  title     = {Fairness in {ERC} Token Markets: A Case Study of {CryptoKitties}},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {595-610},
+}
+
+@inproceedings{DBLP:conf/fc/MartinezHM21,
+  author    = {Pepi Martinez and
+               William Huang and
+               Bud Mishra},
+  title     = {Coins, Covid, Keynes and {K-Shaped} Recovery},
+  booktitle = fc,
+  year      = 2021,
+  pages     = {611-627},
+}
+
 @inproceedings{DBLP:conf/fc/WooCJHKW20,
   author    = {Jihye Woo and
                Ji-Won Choi and
@@ -329,7 +1351,7 @@
 
 @inproceedings{DBLP:conf/fc/Perez-SolaPHNG20,
   author    = {Cristina Pérez-Solà and
-               Alejandro Ranchal Pedrosa and
+               Alejandro Ranchal-Pedrosa and
                Jordi Herrera-Joancomartí and
                Guillermo Navarro-Arribas and
                Joaquín García-Alfaro},
@@ -1702,7 +2724,7 @@
 }
 
 @inproceedings{DBLP:conf/fc/ResendeA18,
-  author    = {Amanda C. Davi Resende and
+  author    = {Amanda Cristina Davi Resende and
                Diego F. Aranha},
   title     = {Faster Unbalanced Private Set Intersection},
   booktitle = fc,
@@ -2785,7 +3807,7 @@
 }
 
 @inproceedings{DBLP:conf/fc/MolloyCFWJHPJS16,
-  author    = {Ian Molloy and
+  author    = {Ian M. Molloy and
                Suresh Chari and
                Ulrich Finkler and
                Mark Wiggerman and
@@ -4876,7 +5898,7 @@
 }
 
 @inproceedings{DBLP:conf/fc/AdhamADK13,
-  author    = {Manal Adham and
+  author    = {Manal T. Adham and
                Amir Azodi and
                Yvo Desmedt and
                Ioannis Karaolis},
@@ -6651,7 +7673,7 @@
 @inproceedings{DBLP:conf/fc/MaoLM09,
   author    = {Ziqing Mao and
                Ninghui Li and
-               Ian Molloy},
+               Ian M. Molloy},
   title     = {Defeating {Cross-Site} Request Forgery Attacks with {Browser-Enforced} Authenticity Protection},
   booktitle = fc,
   year      = 2009,
@@ -7217,7 +8239,7 @@
 }
 
 @inproceedings{DBLP:conf/fc/MolloyLL07,
-  author    = {Ian Molloy and
+  author    = {Ian M. Molloy and
                Jiangtao Li and
                Ninghui Li},
   title     = {Dynamic Virtual Credit Card Numbers},
@@ -9554,7 +10576,7 @@
 
 @inproceedings{DBLP:conf/fc/PagniaJ97,
   author    = {Henning Pagnia and
-               R. Jansen},
+               Ralph Jansen},
   title     = {Towards {Multiple-Payment} Schemes for Digital Money},
   booktitle = fc,
   year      = 1997,

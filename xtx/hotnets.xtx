@@ -1,5 +1,383 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotnets/HounselSBF21,
+  author    = {Austin Hounsel and
+               Paul Schmitt and
+               Kevin Borgolte and
+               Nick Feamster},
+  title     = {Designing for Tussle in Encrypted {DNS}},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/hotnets/QaziQAAH21,
+  author    = {Ihsan Ayyub Qazi and
+               Zafar Ayyub Qazi and
+               Ayesha Ali and
+               Muhammad Abdullah and
+               Rumaisa Habib},
+  title     = {Rethinking Web for Affordability and Inclusion},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {9-15},
+}
+
+@inproceedings{DBLP:conf/hotnets/ZhangHPW21,
+  author    = {Ding Zhang and
+               Bo Han and
+               Parth H. Pathak and
+               Haoliang Wang},
+  title     = {Innovating Multi-user Volumetric Video Streaming through Cross-layer Design},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {16-22},
+}
+
+@inproceedings{DBLP:conf/hotnets/KochJLGZVACKMSV21,
+  author    = {Thomas Koch and
+               Weifan Jiang and
+               Tao Luo and
+               Petros Gigis and
+               Yunfan Zhang and
+               Kevin Vermeulen and
+               Emile Aben and
+               Matt Calder and
+               Ethan Katz-Bassett and
+               Lefteris Manassakis and
+               Georgios Smaragdakis and
+               Narseo Vallina-Rodriguez},
+  title     = {Towards a traffic map of the Internet Connecting the dots between popular services and users: Connecting the dots between popular services and users},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {23-30},
+}
+
+@inproceedings{DBLP:conf/hotnets/Honda21,
+  author    = {Michio Honda},
+  title     = {Packets as Persistent {In-Memory} Data Structures},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {31-37},
+}
+
+@inproceedings{DBLP:conf/hotnets/YaseenACRFHBLK21,
+  author    = {Nofel Yaseen and
+               Behnaz Arzani and
+               Krishna Chintalapudi and
+               Vaishnavi Ranganathan and
+               Felipe Vieira Frujeri and
+               Kevin Hsieh and
+               Daniel S. Berger and
+               Vincent Liu and
+               Srikanth Kandula},
+  title     = {Towards a Cost vs. Quality Sweet Spot for Monitoring Networks},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {38-44},
+}
+
+@inproceedings{DBLP:conf/hotnets/AgarwalSNIBCSK21,
+  author    = {Anup Agarwal and
+               Jinghan Sun and
+               Shadi Noghabi and
+               Srinivasan Iyengar and
+               Anirudh Badam and
+               Ranveer Chandra and
+               Srinivasan Seshan and
+               Shivkumar Kalyanaraman},
+  title     = {Redesigning Data Centers for Renewable Energy},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {45-52},
+}
+
+@inproceedings{DBLP:conf/hotnets/ArzaniHC21,
+  author    = {Behnaz Arzani and
+               Kevin Hsieh and
+               Haoxian Chen},
+  title     = {Interpretable Feedback for {AutoML} and a Proposal for Domain-customized {AutoML} for Networking},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {53-60},
+}
+
+@inproceedings{DBLP:conf/hotnets/StephensGAJVA21,
+  author    = {Brent E. Stephens and
+               Darius Grassi and
+               Hamidreza Almasi and
+               Tao Ji and
+               Balajee Vamanan and
+               Aditya Akella},
+  title     = {{TCP} is Harmful to {In-Network} Computing: Designing a Message Transport Protocol (MTP)},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {61-68},
+}
+
+@inproceedings{DBLP:conf/hotnets/Feng0LCXL21,
+  author    = {Yong Feng and
+               Haoyu Song and
+               Jiahao Li and
+               Zhikang Chen and
+               Wenquan Xu and
+               Bin Liu},
+  title     = {In-situ Programmable Switching using rP4: Towards Runtime Data Plane Programmability},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {69-76},
+}
+
+@inproceedings{DBLP:conf/hotnets/LiZGBXH21,
+  author    = {Guanyu Li and
+               Menghao Zhang and
+               Cheng Guo and
+               Han Bao and
+               Mingwe Xu and
+               Hongxin Hu},
+  title     = {Switches are Scanners Too!: A Fast and Scalable {In-Network} Scanner with Programmable Switches},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {77-83},
+}
+
+@inproceedings{DBLP:conf/hotnets/GaoHV21,
+  author    = {Sam Gao and
+               Mark Handley and
+               Stefano Vissicchio},
+  title     = {Stats 101 in P4: Towards {In-Switch} Anomaly Detection},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {84-90},
+}
+
+@inproceedings{DBLP:conf/hotnets/XingQHLKLAAKNC21,
+  author    = {Jiarong Xing and
+               Yiming Qiu and
+               Kuo-Feng Hsu and
+               Hongyi Liu and
+               Matty Kadosh and
+               Alan Lo and
+               Aditya Akella and
+               Thomas Anderson and
+               Arvind Krishnamurthy and
+               T. S. Eugene Ng and
+               Ang Chen},
+  title     = {A Vision for Runtime Programmable Networks},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {91-98},
+}
+
+@inproceedings{DBLP:conf/hotnets/KarlosBW21,
+  author    = {George Karlos and
+               Henri E. Bal and
+               Lin Wang},
+  title     = {Don't You Worry 'Bout a Packet: Unified Programming for {In-Network} Computing},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {99-107},
+}
+
+@inproceedings{DBLP:conf/hotnets/LangletBROMYA21,
+  author    = {Jonatan Langlet and
+               Ran Ben-Basat and
+               Sivaramakrishnan Ramanathan and
+               Gabriele Oliaro and
+               Michael Mitzenmacher and
+               Minlan Yu and
+               Gianni Antichi},
+  title     = {{Zero-CPU} Collection with Direct Telemetry Access},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {108-115},
+}
+
+@inproceedings{DBLP:conf/hotnets/KakarlaBMV21,
+  author    = {Siva Kesava Reddy Kakarla and
+               Ryan Beckett and
+               Todd D. Millstein and
+               George Varghese},
+  title     = {How Complex is DNS?},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {116-122},
+}
+
+@inproceedings{DBLP:conf/hotnets/LanGW21,
+  author    = {Fangping Lan and
+               Bin Gui and
+               Anduo Wang},
+  title     = {Fauré: A Partial Approach to Network Analysis},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {123-131},
+}
+
+@inproceedings{DBLP:conf/hotnets/Ferreira0LMS21,
+  author    = {Margarida Ferreira and
+               Akshay Narayan and
+               Inês Lynce and
+               Ruben Martins and
+               Justine Sherry},
+  title     = {Counterfeiting Congestion Control Algorithms},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {132-139},
+}
+
+@inproceedings{DBLP:conf/hotnets/ThakerZH21,
+  author    = {Pratiksha Thaker and
+               Matei Zaharia and
+               Tatsunori Hashimoto},
+  title     = {Don't Hate the Player, Hate the Game: Safety and Utility in {Multi-Agent} Congestion Control},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {140-146},
+}
+
+@inproceedings{DBLP:conf/hotnets/LiuLCS21,
+  author    = {Guyue Liu and
+               Ao Li and
+               Christopher Canel and
+               Vyas Sekar},
+  title     = {Watching the watchmen: Least privilege for managed network services},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {147-154},
+}
+
+@inproceedings{DBLP:conf/hotnets/ZelayaMH21,
+  author    = {Rotman Ivan Zelaya and
+               Ruichun Ma and
+               Wenjun Hu},
+  title     = {Towards 6G and Beyond: Smarten Everything with Metamorphic Surfaces},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {155-162},
+}
+
+@inproceedings{DBLP:conf/hotnets/LiLLLLWWLL21,
+  author    = {Yuanjie Li and
+               Hewu Li and
+               Lixin Liu and
+               Wei Liu and
+               Jiayi Liu and
+               Jianping Wu and
+               Qian Wu and
+               Jun Liu and
+               Zeqi Lai},
+  title     = {"Internet in Space" for Terrestrial Users via {Cyber-Physical} Convergence},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {163-170},
+}
+
+@inproceedings{DBLP:conf/hotnets/0002A21,
+  author    = {Ali Abedi and
+               Omid Abari},
+  title     = {Can {WiFi} Backscatter Achieve the Range of RFID?: Nulling to the Rescue},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {171-177},
+}
+
+@inproceedings{DBLP:conf/hotnets/NarayananVP21,
+  author    = {Revathy Narayanan and
+               Ambuj Varshney and
+               Panos Papadimitratos},
+  title     = {HarvestPrint: Securing Battery-free Backscatter Tags through Fingerprinting},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {178-184},
+}
+
+@inproceedings{DBLP:conf/hotnets/SafronovBDVLM21,
+  author    = {Vadim Safronov and
+               Justas Brazauskas and
+               Matthew Danish and
+               Rohit Verma and
+               Ian Lewis and
+               Richard Mortier},
+  title     = {Do we want the New Old Internet?: Towards Seamless and {Protocol-Independent} {IoT} Application Interoperability},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {185-191},
+}
+
+@inproceedings{DBLP:conf/hotnets/BittmanSMSMBSA21,
+  author    = {Daniel Bittman and
+               Robert Soulé and
+               Ethan L. Miller and
+               Vishal Shrivastav and
+               Pankaj Mehra and
+               Matthew Boisvert and
+               Avi Silberschatz and
+               Peter Alvaro},
+  title     = {Don't Let {RPCs} Constrain Your {API}},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {192-198},
+}
+
+@inproceedings{DBLP:conf/hotnets/BasescuF21,
+  author    = {Cristina Basescu and
+               Bryan Ford},
+  title     = {Immunizing Systems from Distant Failures by Limiting Lamport Exposure},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {199-205},
+}
+
+@inproceedings{DBLP:conf/hotnets/BergRNYKSNN21,
+  author    = {Jessica Berg and
+               Fabian Ruffy and
+               Khanh Nguyen and
+               Nicholas Yang and
+               Taegyun Kim and
+               Anirudh Sivaraman and
+               Ravi Netravali and
+               Srinivas Narayana},
+  title     = {Snicket: {Query-Driven} Distributed Tracing},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {206-212},
+}
+
+@inproceedings{DBLP:conf/hotnets/XingDKL21,
+  author    = {Jiali Xing and
+               Henri Maxime Demoulin and
+               Konstantinos Kallas and
+               Benjamin C. Lee},
+  title     = {Charon: A Framework for Microservice Overload Control},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {213-220},
+}
+
+@inproceedings{DBLP:conf/hotnets/WangDWWCN21,
+  author    = {Weitao Wang and
+               Sushovan Das and
+               Xinyu Crystal Wu and
+               Zhuang Wang and
+               Ang Chen and
+               T. S. Eugene Ng},
+  title     = {MXDAG: A Hybrid Abstraction for Emerging Applications},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {221-228},
+}
+
+@inproceedings{DBLP:conf/hotnets/AshokGM21,
+  author    = {Sachin Ashok and
+               Philip Brighten Godfrey and
+               Radhika Mittal},
+  title     = {Leveraging Service Meshes as a New Network Layer},
+  booktitle = hotnets,
+  year      = 2021,
+  pages     = {229-236},
+}
+
 @inproceedings{DBLP:conf/hotnets/WirtgenCBVB20,
   author    = {Thomas Wirtgen and
                Quentin De Coninck and
@@ -3660,7 +4038,7 @@
   author    = {Rodrigo Fonseca and
                Omprakash Gnawali and
                Kyle Jamieson and
-               Philip Levis},
+               Philip Alexander Levis},
   title     = {{Four-Bit} Wireless Link Estimation},
   booktitle = hotnets,
   year      = 2007,
@@ -3986,7 +4364,7 @@
   author    = {Kannan Srinivasan and
                Prabal Dutta and
                Arsalan Tavakoli and
-               Philip Levis},
+               Philip Alexander Levis},
   title     = {Some Implications of Low Power Wireless to {IP} Networking},
   booktitle = hotnets,
   year      = 2006,

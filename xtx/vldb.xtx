@@ -1,5 +1,233 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/Azimov21,
+  author    = {Rustam Azimov},
+  title     = {{Context-Free} Path Querying In Terms of Linear Algebra},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Chaves21,
+  author    = {Anderson Chaves da Silva},
+  title     = {Towards an Integrated Solution for {IoT} Data Management},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Ionescu21,
+  author    = {Andra-Denis Ionescu},
+  title     = {Interactive Data Discovery in Data Lakes},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Kraska21,
+  author    = {Tim Kraska},
+  title     = {Living in a Candy Store - from being a {PhD} Student to Working as a Faculty Member on {ML} for Systems},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Magalhaes21,
+  author    = {Arlino Magalhães},
+  title     = {Main Memory Databases Instant Recovery},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Nakamura21,
+  author    = {Kota Nakamura},
+  title     = {Stream Mining of Complex Event Tensor},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Namba21,
+  author    = {Justin Namba},
+  title     = {Enhancing {JSON} Schema Discovery by Uncovering Hidden Data},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Parkin21,
+  author    = {Louise Parkin},
+  title     = {Cooperative Techniques for Dealing with Unsatisfactory Answers in {RDF} Knowledge Bases},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Peseux21,
+  author    = {Paul Peseux},
+  title     = {Differentiating Relational Queries},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Provatas21,
+  author    = {Nikodimos Provatas},
+  title     = {Exploiting Data Distribution in Distributed Learning of Deep Classification Models under the Parameter Server Architecture},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Rohde21,
+  author    = {Philipp D. Rohde},
+  title     = {{SHACL} Constraint Validation during {SPARQL} Query Processing},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Siachamis21,
+  author    = {George Siachamis},
+  title     = {Integrating Massive Data Streams},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/Stolte21,
+  author    = {Hermann Stolte},
+  title     = {Checking Plausibility in Exploratory Data Analysis},
+  booktitle = vldb,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/vldb/FontesASMAB21,
+  author    = {Xavier Fontes and
+               David Aparício and
+               Maria Inês Silva and
+               Beatriz Malveiro and
+               João Tiago Ascensão and
+               Pedro Bizarro},
+  title     = {Finding NeMo: Fishing in Banking Networks Using Network Motifs},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/vldb/DeligiannakisGK21,
+  author    = {Antonios Deligiannakis and
+               Nikos Giatrakos and
+               Yannis Kotidis and
+               Vasilis Samoladas and
+               Alkis Simitsis},
+  title     = {{Extreme-Scale} Interactive {Cross-Platform} Streaming Analytics - The {INFORE} Approach},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {7-13},
+}
+
+@inproceedings{DBLP:conf/vldb/EleftherakisGK21,
+  author    = {Stavroula Eleftherakis and
+               Orest Gkini and
+               Georgia Koutrika},
+  title     = {Let the Database Talk Back: Natural Language Explanations for {SQL}},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {14-19},
+}
+
+@inproceedings{DBLP:conf/vldb/BleifussBKNS21,
+  author    = {Tobias Bleifuß and
+               Leon Bornemann and
+               Dmitri V. Kalashnikov and
+               Felix Naumann and
+               Divesh Srivastava},
+  title     = {The Secret Life of Wikipedia Tables},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {20-26},
+}
+
+@inproceedings{DBLP:conf/vldb/RamalliP21,
+  author    = {Edoardo Ramalli and
+               Barbara Pernici},
+  title     = {Know Your Experiments: Interpreting Categories of Experimental Data and Their Coverage},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {27-33},
+}
+
+@inproceedings{DBLP:conf/vldb/PreusseJBMMGHW21,
+  author    = {Martin Preusse and
+               Alexander Jarasch and
+               Tim Bleimehl and
+               Sebastian Muller and
+               Jamie Munro and
+               Lea Gutebier and
+               Ron Henkel and
+               Dagmar Waltemath},
+  title     = {COVIDGraph: Connecting Biomedical COVID-19 Resources and Computational Biology Models},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {34-37},
+}
+
+@inproceedings{DBLP:conf/vldb/FruthDS21,
+  author    = {Michael Fruth and
+               Kai Dauberschmidt and
+               Stefanie Scherzinger},
+  title     = {New Workflows in {NoSQL} Schema Management},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {38-39},
+}
+
+@inproceedings{DBLP:conf/vldb/Liu0LL21,
+  author    = {Baozhu Liu and
+               Xin Wang and
+               Pengkai Liu and
+               Sizhuo Li},
+  title     = {Towards a Unified Knowledge Graph Data Management System},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {40-41},
+}
+
+@inproceedings{DBLP:conf/vldb/KoutroumanisKDV21,
+  author    = {Nikolaos Koutroumanis and
+               Nikolaos Kousathanas and
+               Christos Doulkeridis and
+               Akrivi Vlachou},
+  title     = {Declarative Querying of Heterogeneous {NoSQL} Stores},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {42-43},
+}
+
+@inproceedings{DBLP:conf/vldb/CasteloRSBCF21,
+  author    = {Sonia Castelo and
+               Rémi Rampin and
+               Aécio S. R. Santos and
+               Aline Bessa and
+               Fernando Chirigati and
+               Juliana Freire},
+  title     = {Auctus: A Search Engine for Data Discovery and Augmentation},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {44-45},
+}
+
+@inproceedings{DBLP:conf/vldb/Mansour21,
+  author    = {Essam Mansour},
+  title     = {A Data Discovery Platform Empowered by Knowledge GraphTechnologies: Challenges and Opportunities},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {46-47},
+}
+
+@inproceedings{DBLP:conf/vldb/UotilaLGLDP21,
+  author    = {Valter Uotila and
+               Jiaheng Lu and
+               Dieter Gawlick and
+               Zhen Hua Liu and
+               Souripriya Das and
+               Gregory Pogossiants},
+  title     = {Multi-model Query Processing Meets Category Theory and Functional Programming},
+  booktitle = vldb,
+  year      = 2021,
+  pages     = {48-49},
+}
+
 @inproceedings{DBLP:conf/vldb/000120,
   author    = {Thomas Bodner},
   title     = {Elastic Query Processing on Function as a Service Platforms},
@@ -157,7 +385,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Parameswaran20,
-  author    = {Aditya Parameswaran},
+  author    = {Aditya G. Parameswaran},
   title     = {Democratizing Data Science and Lessons Learned Along the Way},
   booktitle = vldb,
   year      = 2020,
@@ -864,9 +1092,9 @@
   author    = {Yuri Lima and
                Wallace Anacleto Pinheiro and
                Carlos Eduardo Barbosa and
-               Miriam Chaves and
+               Miriam B. F. Chaves and
                Jano Moreira de Souza and
-               Sérgio Rodrigues and
+               Sérgio A. Rodrigues and
                Jacson Hwang and
                Geraldo Xexéo and
                Pedro Henrique Bruno and
@@ -1057,7 +1285,7 @@
 
 @inproceedings{DBLP:conf/vldb/RookeAVAD18,
   author    = {Felipe Rooke and
-               Victor Aquiles and
+               Victor Aquiles Alencar and
                Alex Borges Vieira and
                Jussara M. Almeida and
                Idilio Drago},
@@ -1174,7 +1402,7 @@
   author    = {Mirian Halfeld Ferrari Alves and
                Carmem S. Hara and
                Nádia P. Kozievitch and
-               Flavio R. Uber},
+               Flávio R. Uber},
   title     = {Urban Data Consistency in RDF: A Case Study of Curitiba Transportation System},
   booktitle = vldb,
   year      = 2018,
@@ -1225,7 +1453,7 @@
   author    = {Diego G. Tomé and
                Tiago Rodrigo Kepe and
                Marco A. Z. Alves and
-               Eduardo Cunha de Almeida},
+               Eduardo C. de Almeida},
   title     = {{Near-Data} Filters: Taking Another Brick from the Memory Wall},
   booktitle = vldb,
   year      = 2018,
@@ -1299,7 +1527,7 @@
 @inproceedings{DBLP:conf/vldb/PitaMB18,
   author    = {Robespierre Pita and
                Luan Menezes and
-               Marcos Barreto},
+               Marcos E. Barreto},
   title     = {Applying Term {Frequency-Based} Indexing to Improve Scalability and Accuracy of Probabilistic Data Linkage},
   booktitle = vldb,
   year      = 2018,
@@ -1705,7 +1933,7 @@
                Jorge L. Bernal-Rusiel and
                Nicolas Rannou and
                Daniel Haehn and
-               P. Ellen Grant and
+               Patricia Ellen Grant and
                Orran Krieger},
   title     = {{CHIPS} - A Service for Collecting, Organizing, Processing, and Sharing Medical Image Data in the Cloud},
   booktitle = vldb,
@@ -2405,7 +2633,7 @@
                Jim Dowling and
                Ali Gholami and
                Kamal Hakimzadeh and
-               Micheal Hummel and
+               Michael Hummel and
                Mahmoud Ismail and
                Erwin Laure and
                Ulf Leser and
@@ -2754,7 +2982,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/DeBrabantAPSZD14,
-  author    = {Justin DeBrabant and
+  author    = {Justin A. DeBrabant and
                Joy Arulraj and
                Andrew Pavlo and
                Michael Stonebraker and
@@ -6362,7 +6590,7 @@
 @inproceedings{DBLP:conf/vldb/MissierEGPJ06,
   author    = {Paolo Missier and
                Suzanne M. Embury and
-               R. Mark Greenwood and
+               Robert Mark Greenwood and
                Alun D. Preece and
                Binling Jin},
   title     = {Quality Views: Capturing and Exploiting the User Perspective on Data Quality},
@@ -12287,7 +12515,7 @@
 
 @inproceedings{DBLP:conf/vldb/AlexandrovABBBCDFHJKKKLLMMMPNPPRRSSW02,
   author    = {Igor Alexandrov and
-               Antonio Amorim and
+               António Amorim and
                E. Badescu and
                M. Barczyk and
                D. Burckhart-Chromek and
@@ -13731,7 +13959,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/PereiraFJLS01,
-  author    = {João L. M. Pereira and
+  author    = {João Pereira and
                Françoise Fabret and
                Hans-Arno Jacobsen and
                François Llirbat and
@@ -14408,7 +14636,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/PereiraFLS00,
-  author    = {João L. M. Pereira and
+  author    = {João Pereira and
                Françoise Fabret and
                François Llirbat and
                Radu Preotiuc-Pietro and
@@ -17183,7 +17411,7 @@
 
 @inproceedings{DBLP:conf/vldb/ShethKMWDLPLS96,
   author    = {Amit P. Sheth and
-               Krys Kochut and
+               Krys J. Kochut and
                John A. Miller and
                Devashish Worah and
                Souvik Das and
@@ -25552,7 +25780,7 @@
                Toby J. Teorey and
                B. Yao and
                D. S. Rund and
-               B. Kahn and
+               Beverly K. Kahn and
                Shamkant B. Navathe and
                D. Smith and
                L. Aguilar and
@@ -25872,7 +26100,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Trauboth78,
-  author    = {Heinz Trauboth},
+  author    = {Heinz H. Trauboth},
   title     = {Data Base Design in Software Systems for Process Monitoring and Control},
   booktitle = vldb,
   year      = 1978,
@@ -26630,7 +26858,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Nickerson77,
-  author    = {R. S. Nickerson},
+  author    = {Raymond S. Nickerson},
   title     = {Some Comments on Human Archival Memory as a Very Large Data Base},
   booktitle = vldb,
   year      = 1977,
@@ -26657,7 +26885,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/ChampineFFJKPPRT77,
-  author    = {George Champine and
+  author    = {George A. Champine and
                Craig Fields and
                Koichi Furukawa and
                David Jefferson and
@@ -26853,7 +27081,7 @@
 
 @inproceedings{DBLP:conf/vldb/AntonacciDST77,
   author    = {Francesco Antonacci and
-               P. Dell'Orco and
+               Piero Dell'Orco and
                V. N. Spadavecchia and
                Antonio Turtur},
   title     = {Structure and Implementation of a Relational Query Language for the Problem Solver},
@@ -26918,7 +27146,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Vetter77,
-  author    = {M. Vetter},
+  author    = {Max Vetter},
   title     = {Data Base Design by Applied Data Synthesis},
   booktitle = vldb,
   year      = 1977,
@@ -26997,7 +27225,7 @@
 
 @inproceedings{DBLP:conf/vldb/GardarinL77,
   author    = {Georges Gardarin and
-               P. Lebeux},
+               Pierre Lebeux},
   title     = {Scheduling Algorithms for Avoiding Inconsistency in Large Databases},
   booktitle = vldb,
   year      = 1977,
@@ -27356,7 +27584,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/HeacoxCC75,
-  author    = {H. C. Heacox and
+  author    = {Harry C. Heacox Jr. and
                E. S. Cosloy and
                J. B. Cohen},
   title     = {An Experiment in Dedicated Data Management},

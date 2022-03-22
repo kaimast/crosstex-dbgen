@@ -1,5 +1,1177 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pldi/FerraraNAC21,
+  author    = {Pietro Ferrara and
+               Luca Negrini and
+               Vincenzo Arceri and
+               Agostino Cortesi},
+  title     = {Static analysis for dummies: experiencing {LiSA}},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/pldi/DrainWSS21,
+  author    = {Dawn Drain and
+               Chen Wu and
+               Alexey Svyatkovskiy and
+               Neel Sundaresan},
+  title     = {Generating bug-fixes using pretrained transformers},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/pldi/HenriksenE21,
+  author    = {Troels Henriksen and
+               Martin Elsman},
+  title     = {Towards size-dependent types for array programming},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/pldi/SzaboEB21,
+  author    = {Tamás Szabó and
+               Sebastian Erdweg and
+               Gábor Bergmann},
+  title     = {Incremental whole-program analysis in Datalog with lattices},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/pldi/Arzt21,
+  author    = {Steven Arzt},
+  title     = {Security and quality: two sides of the same coin?},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/pldi/MammadliS0P21,
+  author    = {Rahim Mammadli and
+               Marija Selakovic and
+               Felix Wolf and
+               Michael Pradel},
+  title     = {Learning to make compiler optimizations more effective},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {9-20},
+}
+
+@inproceedings{DBLP:conf/pldi/DeworetzkiM21,
+  author    = {Niklas Deworetzki and
+               Uwe Meyer},
+  title     = {Program analysis for reversible languages},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/pldi/ChetiouiAHJM21,
+  author    = {Benjamin Chetioui and
+               Ole Abusdal and
+               Magne Haveraaen and
+               Jaakko Järvi and
+               Lenore Mullin},
+  title     = {Padding in the mathematics of arrays},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/pldi/ChoLRK21,
+  author    = {Kyeongmin Cho and
+               Sung Hwan Lee and
+               Azalea Raad and
+               Jeehoon Kang},
+  title     = {Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {16-31},
+}
+
+@inproceedings{DBLP:conf/pldi/GargMSW21,
+  author    = {Spandan Garg and
+               Roshanak Zilouchian Moghaddam and
+               Neel Sundaresan and
+               Chen Wu},
+  title     = {PerfLens: a data-driven performance bug detection and fix platform},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/pldi/SmithLLDMTCT21,
+  author    = {Gus Henry Smith and
+               Andrew Liu and
+               Steven Lyubomirsky and
+               Scott Davidson and
+               Joseph McMahan and
+               Michael B. Taylor and
+               Luis Ceze and
+               Zachary Tatlock},
+  title     = {Pure tensor program rewriting via access patterns (representation pearl)},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {21-31},
+}
+
+@inproceedings{DBLP:conf/pldi/HeinricherWKJ21,
+  author    = {Alexander Heinricher and
+               Ryan Williams and
+               Ava Klingbeil and
+               Alex Jordan},
+  title     = {Weldr: fusing binaries for simplified analysis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/pldi/PawlakHMO21,
+  author    = {Wojciech Michal Pawlak and
+               Marek Hlava and
+               Martin Metaksov and
+               Cosmin Eugen Oancea},
+  title     = {Acceleration of lattice models for pricing portfolios of fixed-income derivatives},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/pldi/TeixeiraBC21,
+  author    = {Gil Teixeira and
+               João Bispo and
+               Filipe F. Correia},
+  title     = {Multi-language static code analysis on the {LARA} framework},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/pldi/HasabnisG21,
+  author    = {Niranjan Hasabnis and
+               Justin Gottschlich},
+  title     = {ControlFlag: a self-supervised idiosyncratic pattern detection system for software control structures},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {32-42},
+}
+
+@inproceedings{DBLP:conf/pldi/RahmaniNDJ21,
+  author    = {Kia Rahmani and
+               Kartik Nagar and
+               Benjamin Delaware and
+               Suresh Jagannathan},
+  title     = {Repairing serializability bugs in distributed database programs via automated schema refactoring},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {32-47},
+}
+
+@inproceedings{DBLP:conf/pldi/SantosJAM21,
+  author    = {Joanna C. S. Santos and
+               Reese A. Jones and
+               Chinomso Ashiogwu and
+               Mehdi Mirakhorli},
+  title     = {Serialization-aware call graph construction},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/pldi/SinkarovsVS21,
+  author    = {Artjoms Sinkarovs and
+               Hans-Nikolai Vießmann and
+               Sven-Bodo Scholz},
+  title     = {Array languages make neural networks fast},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/pldi/VorobyovZK21,
+  author    = {Kostyantyn Vorobyov and
+               Yang Zhao and
+               Padmanabhan Krishnan},
+  title     = {Scalable string analysis: an experience report},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/pldi/PatabandiVKRHG21,
+  author    = {Tharindu Rusira Patabandi and
+               Anand Venkat and
+               Abhishek Kulkarni and
+               Pushkar Ratnalikar and
+               Mary W. Hall and
+               Justin Gottschlich},
+  title     = {Predictive data locality optimization for higher-order tensor computations},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {43-52},
+}
+
+@inproceedings{DBLP:conf/pldi/TaoSYHCG21,
+  author    = {Runzhou Tao and
+               Yunong Shi and
+               Jianan Yao and
+               John Hui and
+               Frederic T. Chong and
+               Ronghui Gu},
+  title     = {Gleipnir: toward practical error analysis for Quantum programs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {48-64},
+}
+
+@inproceedings{DBLP:conf/pldi/LopesLHLR21,
+  author    = {Nuno P. Lopes and
+               Juneyoung Lee and
+               Chung-Kil Hur and
+               Zhengyang Liu and
+               John Regehr},
+  title     = {Alive2: bounded translation validation for {LLVM}},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {65-79},
+}
+
+@inproceedings{DBLP:conf/pldi/SpiesGGTKDB21,
+  author    = {Simon Spies and
+               Lennard Gäher and
+               Daniel Gratzer and
+               Joseph Tassarotti and
+               Robbert Krebbers and
+               Derek Dreyer and
+               Lars Birkedal},
+  title     = {Transfinite Iris: resolving an existential dilemma of step-indexed separation logic},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {80-95},
+}
+
+@inproceedings{DBLP:conf/pldi/ReinkingXML21,
+  author    = {Alex Reinking and
+               Ningning Xie and
+               Leonardo de Moura and
+               Daan Leijen},
+  title     = {Perceus: garbage free reference counting with reuse},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {96-111},
+}
+
+@inproceedings{DBLP:conf/pldi/RingerPYLG21,
+  author    = {Talia Ringer and
+               RanDair Porter and
+               Nathaniel Yazdani and
+               John Leo and
+               Dan Grossman},
+  title     = {Proof repair across type equivalences},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {112-127},
+}
+
+@inproceedings{DBLP:conf/pldi/BrunoJWA21,
+  author    = {Rodrigo Bruno and
+               Vojin Jovanovic and
+               Christian Wimmer and
+               Gustavo Alonso},
+  title     = {Compiler-assisted object inlining with value fields},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {128-141},
+}
+
+@inproceedings{DBLP:conf/pldi/RenHMLL21,
+  author    = {Xiaolei Ren and
+               Michael Ho and
+               Jiang Ming and
+               Yu Lei and
+               Li Li},
+  title     = {Unleashing the hidden power of compiler optimization on binary code difference: an empirical study},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {142-157},
+}
+
+@inproceedings{DBLP:conf/pldi/SammlerLKMD021,
+  author    = {Michael Sammler and
+               Rodolphe Lepigre and
+               Robbert Krebbers and
+               Kayvan Memarian and
+               Derek Dreyer and
+               Deepak Garg},
+  title     = {RefinedC: automating the foundational verification of C code with refined ownership types},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {158-174},
+}
+
+@inproceedings{DBLP:conf/pldi/0001SBH21,
+  author    = {Michael Christensen and
+               Timothy Sherwood and
+               Jonathan Balkind and
+               Ben Hardekopf},
+  title     = {Wire sorts: a language abstraction for safe hardware composition},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {175-189},
+}
+
+@inproceedings{DBLP:conf/pldi/JungDL21,
+  author    = {Wookeun Jung and
+               Thanh Tuan Dao and
+               Jaejin Lee},
+  title     = {DeepCuts: a deep learning optimization framework for versatile {GPU} workloads},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {190-205},
+}
+
+@inproceedings{DBLP:conf/pldi/Sivaramakrishnan21,
+  author    = {K. C. Sivaramakrishnan and
+               Stephen Dolan and
+               Leo White and
+               Tom Kelly and
+               Sadiq Jaffer and
+               Anil Madhavapeddy},
+  title     = {Retrofitting effect handlers onto {OCaml}},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {206-221},
+}
+
+@inproceedings{DBLP:conf/pldi/ParadisBSV21,
+  author    = {Anouk Paradis and
+               Benjamin Bichsel and
+               Samuel Steffen and
+               Martin T. Vechev},
+  title     = {Unqomp: synthesizing uncomputation in Quantum circuits},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {222-236},
+}
+
+@inproceedings{DBLP:conf/pldi/Castro-Perez0GY21,
+  author    = {David Castro-Perez and
+               Francisco Ferreira and
+               Lorenzo Gheri and
+               Nobuko Yoshida},
+  title     = {Zooid: a {DSL} for certified multiparty computation: from mechanised metatheory to certified multiparty processes},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {237-251},
+}
+
+@inproceedings{DBLP:conf/pldi/Jiang0TGSKZ21,
+  author    = {Huaipan Jiang and
+               Haibo Zhang and
+               Xulong Tang and
+               Vineetha Govindaraj and
+               Jack Sampson and
+               Mahmut Taylan Kandemir and
+               Danfeng Zhang},
+  title     = {Fluid: a framework for approximate concurrency via controlled dependency relaxation},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {252-267},
+}
+
+@inproceedings{DBLP:conf/pldi/MpeisPHL21,
+  author    = {Paschalis Mpeis and
+               Pavlos Petoumenos and
+               Kim M. Hazelwood and
+               Hugh Leather},
+  title     = {Developer and user-transparent compiler optimization for interactive applications},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {268-281},
+}
+
+@inproceedings{DBLP:conf/pldi/0002CS21,
+  author    = {Benno Stein and
+               Bor-Yuh Evan Chang and
+               Manu Sridharan},
+  title     = {Demanded abstract interpretation},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {282-295},
+}
+
+@inproceedings{DBLP:conf/pldi/HeLRV21,
+  author    = {Jingxuan He and
+               Cheng-Chun Lee and
+               Veselin Raychev and
+               Martin T. Vechev},
+  title     = {Learning to find naming issues with big code and small supervision},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {296-311},
+}
+
+@inproceedings{DBLP:conf/pldi/FischerCCL21,
+  author    = {Michael H. Fischer and
+               Giovanni Campagna and
+               Euirim Choi and
+               Monica S. Lam},
+  title     = {{DIY} assistant: a multi-modal end-user programmable virtual assistant},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {312-327},
+}
+
+@inproceedings{DBLP:conf/pldi/ChenL0DBD21,
+  author    = {Qiaochu Chen and
+               Aaron Lamoreaux and
+               Xinyu Wang and
+               Greg Durrett and
+               Osbert Bastani and
+               Isil Dillig},
+  title     = {Web question answering with neurosymbolic program synthesis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {328-343},
+}
+
+@inproceedings{DBLP:conf/pldi/GuriaFH21,
+  author    = {Sankha Narayan Guria and
+               Jeffrey S. Foster and
+               David Van Horn},
+  title     = {RbSyn: type- and effect-guided program synthesis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {344-358},
+}
+
+@inproceedings{DBLP:conf/pldi/LimN21,
+  author    = {Jay P. Lim and
+               Santosh Nagarakatte},
+  title     = {High performance correctly rounded math libraries for 32-bit floating point representations},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {359-374},
+}
+
+@inproceedings{DBLP:conf/pldi/CowanDATLR21,
+  author    = {Meghan Cowan and
+               Deeksha Dangwal and
+               Armin Alaghi and
+               Caroline Trippel and
+               Vincent T. Lee and
+               Brandon Reagen},
+  title     = {Porcupine: a synthesizing compiler for vectorized homomorphic encryption},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {375-389},
+}
+
+@inproceedings{DBLP:conf/pldi/ShariffdeenNGR21,
+  author    = {Ridwan Salihin Shariffdeen and
+               Yannic Noller and
+               Lars Grunske and
+               Abhik Roychoudhury},
+  title     = {Concolic program repair},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {390-405},
+}
+
+@inproceedings{DBLP:conf/pldi/ErdwegSP21,
+  author    = {Sebastian Erdweg and
+               Tamás Szabó and
+               André Pacak},
+  title     = {Concise, type-safe, and efficient structural diffing},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {406-419},
+}
+
+@inproceedings{DBLP:conf/pldi/LasserCFR21,
+  author    = {Sam Lasser and
+               Chris Casinghino and
+               Kathleen Fisher and
+               Cody Roux},
+  title     = {CoStar: a verified ALL(*) parser},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {420-434},
+}
+
+@inproceedings{DBLP:conf/pldi/YeTTHFSBW021,
+  author    = {Guixin Ye and
+               Zhanyong Tang and
+               Shin Hwei Tan and
+               Songfang Huang and
+               Dingyi Fang and
+               Xiaoyang Sun and
+               Lizhong Bian and
+               Haibo Wang and
+               Zheng Wang},
+  title     = {Automated conformance testing for {JavaScript} engines via deep compiler fuzzing},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {435-450},
+}
+
+@inproceedings{DBLP:conf/pldi/KostyukovMF21,
+  author    = {Yurii Kostyukov and
+               Dmitry Mordvinov and
+               Grigory Fedyukovich},
+  title     = {Beyond the elementary representations of program invariants over algebraic data types},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {451-465},
+}
+
+@inproceedings{DBLP:conf/pldi/BonaertDBV21,
+  author    = {Gregory Bonaert and
+               Dimitar I. Dimitrov and
+               Maximilian Baader and
+               Martin T. Vechev},
+  title     = {Fast and precise certification of transformers},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {466-481},
+}
+
+@inproceedings{DBLP:conf/pldi/MontaguJ21,
+  author    = {Benoît Montagu and
+               Thomas P. Jensen},
+  title     = {Trace-based control-flow analysis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {482-496},
+}
+
+@inproceedings{DBLP:conf/pldi/BaudartBHMS21,
+  author    = {Guillaume Baudart and
+               Javier Burroni and
+               Martin Hirzel and
+               Louis Mandel and
+               Avraham Shinnar},
+  title     = {Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {497-510},
+}
+
+@inproceedings{DBLP:conf/pldi/OmarMBVCC21,
+  author    = {Cyrus Omar and
+               David Moon and
+               Andrew Blinn and
+               Ian Voysey and
+               Nick Collins and
+               Ravi Chugh},
+  title     = {Filling typed holes with live {GUIs}},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {511-525},
+}
+
+@inproceedings{DBLP:conf/pldi/AndersonBW21,
+  author    = {Daniel Anderson and
+               Guy E. Blelloch and
+               Yuanhao Wei},
+  title     = {Concurrent deferred reference counting with constant-time overhead},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {526-541},
+}
+
+@inproceedings{DBLP:conf/pldi/YuP21,
+  author    = {Nengkun Yu and
+               Jens Palsberg},
+  title     = {Quantum abstract interpretation},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {542-558},
+}
+
+@inproceedings{DBLP:conf/pldi/Wang0R21,
+  author    = {Di Wang and
+               Jan Hoffmann and
+               Thomas W. Reps},
+  title     = {Central moment analysis for cost accumulators in probabilistic programs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {559-573},
+}
+
+@inproceedings{DBLP:conf/pldi/Pailoor00D21,
+  author    = {Shankara Pailoor and
+               Yuepeng Wang and
+               Xinyu Wang and
+               Isil Dillig},
+  title     = {Synthesizing data structure refinements from integrity constraints},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {574-587},
+}
+
+@inproceedings{DBLP:conf/pldi/SotoudehT21,
+  author    = {Matthew Sotoudeh and
+               Aditya V. Thakur},
+  title     = {Provable repair of deep neural networks},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {588-603},
+}
+
+@inproceedings{DBLP:conf/pldi/ErbsenGCWC21,
+  author    = {Andres Erbsen and
+               Samuel Gruetter and
+               Joonwon Choi and
+               Clark Wood and
+               Adam Chlipala},
+  title     = {Integration verification across software and hardware for a simple embedded system},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {604-619},
+}
+
+@inproceedings{DBLP:conf/pldi/StanfordVB21,
+  author    = {Caleb Stanford and
+               Margus Veanes and
+               Nikolaj Bjørner},
+  title     = {Symbolic Boolean derivatives for efficiently solving extended regular expression constraints},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {620-635},
+}
+
+@inproceedings{DBLP:conf/pldi/LiangF21,
+  author    = {Hongjin Liang and
+               Xinyu Feng},
+  title     = {Abstraction for conflict-free replicated data types},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {636-650},
+}
+
+@inproceedings{DBLP:conf/pldi/XuLFMZLY21,
+  author    = {Dongpeng Xu and
+               Binbin Liu and
+               Weijie Feng and
+               Jiang Ming and
+               Qilong Zheng and
+               Jing Li and
+               Qiaoyan Yu},
+  title     = {Boosting {SMT} solver performance on mixed-bitwise-arithmetic expressions},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {651-664},
+}
+
+@inproceedings{DBLP:conf/pldi/KandemirT0RK21,
+  author    = {Mahmut Taylan Kandemir and
+               Xulong Tang and
+               Hui Zhao and
+               Jihyun Ryoo and
+               Mustafa Karaköy},
+  title     = {Distance-in-time versus distance-in-space},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {665-680},
+}
+
+@inproceedings{DBLP:conf/pldi/HuZJS21,
+  author    = {Xiaowen Hu and
+               David Zhao and
+               Herbert Jordan and
+               Bernhard Scholz},
+  title     = {An efficient interpreter for Datalog by de-specializing relations},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {681-695},
+}
+
+@inproceedings{DBLP:conf/pldi/KoenigPA21,
+  author    = {Jason R. Koenig and
+               Oded Padon and
+               Alex Aiken},
+  title     = {Adaptive restarts for stochastic synthesis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {696-709},
+}
+
+@inproceedings{DBLP:conf/pldi/RennerSBLS21,
+  author    = {John Renner and
+               Alex Sanchez-Stern and
+               Fraser Brown and
+               Sorin Lerner and
+               Deian Stefan},
+  title     = {Scooter & Sidecar: a domain-specific approach to writing secure database migrations},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {710-724},
+}
+
+@inproceedings{DBLP:conf/pldi/LiuLLTS021,
+  author    = {Bozhen Liu and
+               Peiming Liu and
+               Yanze Li and
+               Chia-Che Tsai and
+               Dilma Da Silva and
+               Jeff Huang},
+  title     = {When threads meet events: efficient and precise static race detection with origins},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {725-739},
+}
+
+@inproceedings{DBLP:conf/pldi/AcayRGMS21,
+  author    = {Cosku Acay and
+               Rolph Recto and
+               Joshua Gancher and
+               Andrew C. Myers and
+               Elaine Shi},
+  title     = {Viaduct: an extensible, optimizing compiler for secure distributed programs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {740-755},
+}
+
+@inproceedings{DBLP:conf/pldi/VegaMSGC21,
+  author    = {Luis Vega and
+               Joseph McMahan and
+               Adrian Sampson and
+               Dan Grossman and
+               Luis Ceze},
+  title     = {Reticle: a virtual machine for programming modern {FPGAs}},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {756-771},
+}
+
+@inproceedings{DBLP:conf/pldi/AsadiC0GM21,
+  author    = {Ali Asadi and
+               Krishnendu Chatterjee and
+               Hongfei Fu and
+               Amir Kafshdar Goharshady and
+               Mohammad Mahdavi},
+  title     = {Polynomial reachability witnesses via Stellensätze},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {772-787},
+}
+
+@inproceedings{DBLP:conf/pldi/Wang0R21a,
+  author    = {Di Wang and
+               Jan Hoffmann and
+               Thomas W. Reps},
+  title     = {Sound probabilistic inference via guide types},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {788-803},
+}
+
+@inproceedings{DBLP:conf/pldi/SaadRM21,
+  author    = {Feras A. Saad and
+               Martin C. Rinard and
+               Vikash K. Mansinghka},
+  title     = {SPPL: probabilistic programming with fast exact symbolic inference},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {804-819},
+}
+
+@inproceedings{DBLP:conf/pldi/MorihataS21,
+  author    = {Akimasa Morihata and
+               Shigeyuki Sato},
+  title     = {Reverse engineering for reduction parallelization via semiring polynomials},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {820-834},
+}
+
+@inproceedings{DBLP:conf/pldi/EllisWNSMHCST21,
+  author    = {Kevin Ellis and
+               Catherine Wong and
+               Maxwell I. Nye and
+               Mathias Sablé-Meyer and
+               Lucas Morales and
+               Luke B. Hewitt and
+               Luc Cary and
+               Armando Solar-Lezama and
+               Joshua B. Tenenbaum},
+  title     = {DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {835-850},
+}
+
+@inproceedings{DBLP:conf/pldi/Surbatovich0L21,
+  author    = {Milijana Surbatovich and
+               Limin Jia and
+               Brandon Lucia},
+  title     = {Automatically enforcing fresh and consistent inputs in intermittent systems},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {851-866},
+}
+
+@inproceedings{DBLP:conf/pldi/ChoLHL21,
+  author    = {Minki Cho and
+               Sung-Hwan Lee and
+               Chung-Kil Hur and
+               Ori Lahav},
+  title     = {Modular data-race-freedom guarantees in the promising semantics},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {867-882},
+}
+
+@inproceedings{DBLP:conf/pldi/NiuGWAR21,
+  author    = {Wei Niu and
+               Jiexiong Guan and
+               Yanzhi Wang and
+               Gagan Agrawal and
+               Bin Ren},
+  title     = {DNNFusion: accelerating deep neural networks execution with advanced operator fusion},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {883-898},
+}
+
+@inproceedings{DBLP:conf/pldi/TakashimaM0P21,
+  author    = {Yoshiki Takashima and
+               Ruben Martins and
+               Limin Jia and
+               Corina S. Pasareanu},
+  title     = {SyRust: automatic testing of Rust libraries with semantic-aware program synthesis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {899-913},
+}
+
+@inproceedings{DBLP:conf/pldi/0002ZPLLWLX21,
+  author    = {Zhiqiang Zuo and
+               Yiyu Zhang and
+               Qiuhong Pan and
+               Shenming Lu and
+               Yue Li and
+               Linzhang Wang and
+               Xuandong Li and
+               Guoqing Harry Xu},
+  title     = {Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {914-929},
+}
+
+@inproceedings{DBLP:conf/pldi/ShiYWZ21,
+  author    = {Qingkai Shi and
+               Peisen Yao and
+               Rongxin Wu and
+               Charles Zhang},
+  title     = {Path-sensitive sparse analysis without path conditions},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {930-943},
+}
+
+@inproceedings{DBLP:conf/pldi/ItzhakyPPRS21,
+  author    = {Shachar Itzhaky and
+               Hila Peleg and
+               Nadia Polikarpova and
+               Reuben N. S. Rowe and
+               Ilya Sergey},
+  title     = {Cyclic program synthesis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {944-959},
+}
+
+@inproceedings{DBLP:conf/pldi/MaziarzELFJ21,
+  author    = {Krzysztof Maziarz and
+               Tom Ellis and
+               Alan Lawrence and
+               Andrew W. Fitzgibbon and
+               Simon Peyton Jones},
+  title     = {Hashing modulo alpha-equivalence},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {960-973},
+}
+
+@inproceedings{DBLP:conf/pldi/FarzanN21,
+  author    = {Azadeh Farzan and
+               Victor Nicolet},
+  title     = {Phased synthesis of divide and conquer programs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {974-986},
+}
+
+@inproceedings{DBLP:conf/pldi/0001R21,
+  author    = {Ruslan Nikolaev and
+               Binoy Ravindran},
+  title     = {Snapshot-free, transparent, and robust memory reclamation for lock-free data structures},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {987-1002},
+}
+
+@inproceedings{DBLP:conf/pldi/KalhaugeP21,
+  author    = {Christian Gram Kalhauge and
+               Jens Palsberg},
+  title     = {Logical bytecode reduction},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1003-1016},
+}
+
+@inproceedings{DBLP:conf/pldi/DonaldsonTTMMK21,
+  author    = {Alastair F. Donaldson and
+               Paul Thomson and
+               Vasyl Teliman and
+               Stefano Milizia and
+               André Perez Maselco and
+               Antoni Karpinski},
+  title     = {Test-case reduction and deduplication almost for free with transformation-based compiler testing},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1017-1032},
+}
+
+@inproceedings{DBLP:conf/pldi/ChatterjeeG0Z21,
+  author    = {Krishnendu Chatterjee and
+               Ehsan Kafshdar Goharshady and
+               Petr Novotný and
+               Dorde Zikelic},
+  title     = {Proving non-termination by program reversal},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1033-1048},
+}
+
+@inproceedings{DBLP:conf/pldi/MalikSG021,
+  author    = {Raghav Malik and
+               Vidush Singhal and
+               Benjamin Gottfried and
+               Milind Kulkarni},
+  title     = {Vectorized secure evaluation of decision forests},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1049-1063},
+}
+
+@inproceedings{DBLP:conf/pldi/RaineyNHHCDA21,
+  author    = {Mike Rainey and
+               Ryan R. Newton and
+               Kyle C. Hale and
+               Nikos Hardavellas and
+               Simone Campanoni and
+               Peter A. Dinda and
+               Umut A. Acar},
+  title     = {Task parallel assembly language for uncompromising parallelism},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1064-1079},
+}
+
+@inproceedings{DBLP:conf/pldi/0002JWTWLX21,
+  author    = {Zhiqiang Zuo and
+               Kai Ji and
+               Yifei Wang and
+               Wei Tao and
+               Linzhang Wang and
+               Xuandong Li and
+               Guoqing Harry Xu},
+  title     = {JPortal: precise and efficient control-flow tracing for {JVM} programs with Intel processor trace},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1080-1094},
+}
+
+@inproceedings{DBLP:conf/pldi/KoenigS21,
+  author    = {Jérémie Koenig and
+               Zhong Shao},
+  title     = {CompCertO: compiling certified open C components},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1095-1109},
+}
+
+@inproceedings{DBLP:conf/pldi/ThakkarNSANR21,
+  author    = {Aalok Thakkar and
+               Aaditya Naik and
+               Nathaniel Sands and
+               Rajeev Alur and
+               Mayur Naik and
+               Mukund Raghothaman},
+  title     = {Example-guided synthesis of relational queries},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1110-1125},
+}
+
+@inproceedings{DBLP:conf/pldi/CaiYZ21,
+  author    = {Yuandao Cai and
+               Peisen Yao and
+               Charles Zhang},
+  title     = {Canary: practical static detection of inter-thread value-flow bugs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1126-1140},
+}
+
+@inproceedings{DBLP:conf/pldi/MirmanHBGV21,
+  author    = {Matthew Mirman and
+               Alexander Hägele and
+               Pavol Bielik and
+               Timon Gehr and
+               Martin T. Vechev},
+  title     = {Robustness certification with generative models},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1141-1154},
+}
+
+@inproceedings{DBLP:conf/pldi/ZuoM0B0K21,
+  author    = {Gefei Zuo and
+               Jiacheng Ma and
+               Andrew Quinn and
+               Pramod Bhatotia and
+               Pedro Fonseca and
+               Baris Kasikci},
+  title     = {Execution reconstruction: harnessing failure reoccurrences for failure reproduction},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1155-1170},
+}
+
+@inproceedings{DBLP:conf/pldi/WangS0CG21,
+  author    = {Jinyi Wang and
+               Yican Sun and
+               Hongfei Fu and
+               Krishnendu Chatterjee and
+               Amir Kafshdar Goharshady},
+  title     = {Quantitative analysis of assertion violations in probabilistic programs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1171-1186},
+}
+
+@inproceedings{DBLP:conf/pldi/OlivryITRSR21,
+  author    = {Auguste Olivry and
+               Guillaume Iooss and
+               Nicolas Tollenaere and
+               Atanas Rountev and
+               P. Sadayappan and
+               Fabrice Rastello},
+  title     = {IOOpt: automatic derivation of I/O complexity bounds for affine programs},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1187-1202},
+}
+
+@inproceedings{DBLP:conf/pldi/SFMD21,
+  author    = {Sumanth Prabhu S and
+               Grigory Fedyukovich and
+               Kumar Madhukar and
+               Deepak D'Souza},
+  title     = {Specification synthesis with constrained Horn clauses},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1203-1217},
+}
+
+@inproceedings{DBLP:conf/pldi/FriedmanPR21,
+  author    = {Michal Friedman and
+               Erez Petrank and
+               Pedro Ramalhete},
+  title     = {Mirror: making lock-free data structures persistent},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1218-1232},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhaoLNGZGCWCLDZ21,
+  author    = {Jie Zhao and
+               Bojie Li and
+               Wang Nie and
+               Zhen Geng and
+               Renwei Zhang and
+               Xiong Gao and
+               Bin Cheng and
+               Chen Wu and
+               Yun Cheng and
+               Zheng Li and
+               Peng Di and
+               Kun Zhang and
+               Xuefeng Jin},
+  title     = {AKG: automatic kernel generation for neural processing units using polyhedral transformations},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1233-1248},
+}
+
+@inproceedings{DBLP:conf/pldi/BasuME21,
+  author    = {Nilanjana Basu and
+               Claudio Montanari and
+               Jakob Eriksson},
+  title     = {Frequent background polling on a shared thread, using light-weight compiler interrupts},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1249-1263},
+}
+
+@inproceedings{DBLP:conf/pldi/HeSF21,
+  author    = {Fei He and
+               Zhihang Sun and
+               Hongyu Fan},
+  title     = {Satisfiability modulo ordering consistency theory for multi-threaded program verification},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1264-1279},
+}
+
+@inproceedings{DBLP:conf/pldi/RoyPGT21,
+  author    = {Rohan Basu Roy and
+               Tirthak Patel and
+               Vijay Gadepally and
+               Devesh Tiwari},
+  title     = {Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1280-1295},
+}
+
+@inproceedings{DBLP:conf/pldi/0001K21,
+  author    = {Shaowei Zhu and
+               Zachary Kincaid},
+  title     = {Termination analysis without the tears},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1296-1311},
+}
+
+@inproceedings{DBLP:conf/pldi/BeutnerO21,
+  author    = {Raven Beutner and
+               Luke Ong},
+  title     = {On probabilistic termination of functional programs with continuous distributions},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1312-1326},
+}
+
+@inproceedings{DBLP:conf/pldi/Pirlea0S21,
+  author    = {George Pîrlea and
+               Amrit Kumar and
+               Ilya Sergey},
+  title     = {Practical smart contract sharding with ownership and commutativity analysis},
+  booktitle = pldi,
+  year      = 2021,
+  pages     = {1327-1341},
+}
+
 @inproceedings{DBLP:conf/pldi/OHearn20,
   author    = {Peter W. O'Hearn},
   title     = {Formal reasoning and the hacker way},
@@ -1481,7 +2653,7 @@
   author    = {Chenxi Wang and
                Huimin Cui and
                Ting Cao and
-               John Zigman and
+               John N. Zigman and
                Haris Volos and
                Onur Mutlu and
                Fang Lv and
@@ -2078,7 +3250,7 @@
   author    = {Julian Dolby and
                Avraham Shinnar and
                Allison Allain and
-               Jenna Reinen},
+               Jenna M. Reinen},
   title     = {Ariadne: analysis for machine learning programs},
   booktitle = pldi,
   year      = 2018,
@@ -2321,7 +3493,7 @@
 
 @inproceedings{DBLP:conf/pldi/BrutschyD0V18,
   author    = {Lucas Brutschy and
-               Dimitar I. Dimitrov and
+               Dimitar K. Dimitrov and
                Peter Müller and
                Martin T. Vechev},
   title     = {Static serializability analysis for causal consistency},
@@ -5999,7 +7171,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/DimitrovRVK14,
-  author    = {Dimitar I. Dimitrov and
+  author    = {Dimitar K. Dimitrov and
                Veselin Raychev and
                Martin T. Vechev and
                Eric Koskinen},
@@ -6101,7 +7273,7 @@
                Tikhon Jelvis and
                Rohin Shah and
                Nishant Totla and
-               Sarah Chasins and
+               Sarah E. Chasins and
                Rastislav Bodík},
   title     = {Chlorophyll: synthesis-aided compiler for low-power spatial architectures},
   booktitle = pldi,
@@ -7073,7 +8245,7 @@
 
 @inproceedings{DBLP:conf/pldi/YanXR12,
   author    = {Dacong Yan and
-               Guoqing (Harry) Xu and
+               Guoqing Xu and
                Atanas Rountev},
   title     = {Rethinking Soot for summary-based whole-program analysis},
   booktitle = pldi,
@@ -7249,7 +8421,7 @@
 
 @inproceedings{DBLP:conf/pldi/CarteyLM12,
   author    = {Luke Cartey and
-               Rune Lyngsø and
+               Rune B. Lyngsø and
                Oege de Moor},
   title     = {Synthesising graphics card programs from {DSLs}},
   booktitle = pldi,
@@ -7911,7 +9083,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/XuBQR11,
-  author    = {Guoqing (Harry) Xu and
+  author    = {Guoqing Xu and
                Michael D. Bond and
                Feng Qin and
                Atanas Rountev},
@@ -8391,7 +9563,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/XuR10,
-  author    = {Guoqing (Harry) Xu and
+  author    = {Guoqing Xu and
                Atanas Rountev},
   title     = {Detecting inefficiently-used containers to avoid bloat},
   booktitle = pldi,
@@ -8400,7 +9572,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/XuMARSS10,
-  author    = {Guoqing (Harry) Xu and
+  author    = {Guoqing Xu and
                Nick Mitchell and
                Matthew Arnold and
                Atanas Rountev and
@@ -8650,7 +9822,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/KamruzzamanST10,
-  author    = {Md Kamruzzaman and
+  author    = {Md. Kamruzzaman and
                Steven Swanson and
                Dean M. Tullsen},
   title     = {Software data spreading: leveraging distributed caches to improve single thread performance},
@@ -9051,7 +10223,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/XuAMRS09,
-  author    = {Guoqing (Harry) Xu and
+  author    = {Guoqing Xu and
                Matthew Arnold and
                Nick Mitchell and
                Atanas Rountev and
@@ -9289,7 +10461,7 @@
                Michael Emmi and
                Jeremy Condit and
                Derrick Coetzee and
-               Polyvios Pratikaki},
+               Polyvios Pratikakis},
   title     = {Type-preserving compilation for large-scale optimizing object-oriented compilers},
   booktitle = pldi,
   year      = 2008,
@@ -10893,7 +12065,7 @@
 
 @inproceedings{DBLP:conf/pldi/GayLBWBC03,
   author    = {David Gay and
-               Philip Levis and
+               Philip Alexander Levis and
                J. Robert von Behren and
                Matt Welsh and
                Eric A. Brewer and
@@ -11491,6 +12663,17 @@
   pages     = {315-326},
 }
 
+@inproceedings{DBLP:conf/pldi/LeeEMC01,
+  author    = {Sheayun Lee and
+               Andreas Ermedahl and
+               Sang Lyul Min and
+               Naehyuck Chang},
+  title     = {An Accurate {Instruction-Level} Energy Consumption Model for Embedded {RISC} Processors},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {1-10},
+}
+
 @inproceedings{DBLP:conf/pldi/KennedyS01,
   author    = {Andrew Kennedy and
                Don Syme},
@@ -11498,6 +12681,15 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/pldi/KimH01,
+  author    = {Minyoung Kim and
+               Soonhoi Ha},
+  title     = {Hybrid Run-time Power Management Technique for Real-time Embedded System with Voltage Scalable Processor},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {11-19},
 }
 
 @inproceedings{DBLP:conf/pldi/HicksMN01,
@@ -11510,6 +12702,16 @@
   pages     = {13-23},
 }
 
+@inproceedings{DBLP:conf/pldi/KangCS01,
+  author    = {Dong-In Kang and
+               Stephen P. Crago and
+               Jinwoo Suh},
+  title     = {{Power-Aware} Design Synthesis Techniques for Distributed {Real-Time} Systems},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {20-28},
+}
+
 @inproceedings{DBLP:conf/pldi/HeintzeT01,
   author    = {Nevin Heintze and
                Olivier Tardieu},
@@ -11519,6 +12721,17 @@
   pages     = {24-34},
 }
 
+@inproceedings{DBLP:conf/pldi/SutterBBD01,
+  author    = {Bjorn De Sutter and
+               Bruno De Bus and
+               Koen De Bosschere and
+               Saumya Debray},
+  title     = {Combining Global Code and Data Compaction},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {29-38},
+}
+
 @inproceedings{DBLP:conf/pldi/VivienR01,
   author    = {Frédéric Vivien and
                Martin C. Rinard},
@@ -11526,6 +12739,16 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {35-46},
+}
+
+@inproceedings{DBLP:conf/pldi/ParkLM01,
+  author    = {Jinpyo Park and
+               Je-Hyung Lee and
+               Soo-Mook Moon},
+  title     = {Register Allocation for Banked Register File},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {39-47},
 }
 
 @inproceedings{DBLP:conf/pldi/GhiyaLS01,
@@ -11538,6 +12761,28 @@
   pages     = {47-58},
 }
 
+@inproceedings{DBLP:conf/pldi/HuangCS01,
+  author    = {Xianglong Huang and
+               Steve Carr and
+               Philip H. Sweany},
+  title     = {Loop Transformations for Architectures with Partitioned Register Banks},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {48-55},
+}
+
+@inproceedings{DBLP:conf/pldi/CadotKLRS01,
+  author    = {Sidney Cadot and
+               Frits Kuijlman and
+               Koen Langendoen and
+               Kees van Reeuwijk and
+               Henk J. Sips},
+  title     = {ENSEMBLE: A Communication Layer for Embedded {Multi-Processor} Systems},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {56-63},
+}
+
 @inproceedings{DBLP:conf/pldi/DeLineF01,
   author    = {Robert DeLine and
                Manuel Fähndrich},
@@ -11545,6 +12790,16 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {59-69},
+}
+
+@inproceedings{DBLP:conf/pldi/HenzingerHK01,
+  author    = {Thomas A. Henzinger and
+               Benjamin Horowitz and
+               Christoph Meyer Kirsch},
+  title     = {Embedded Control Systems Development with Giotto},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {64-72},
 }
 
 @inproceedings{DBLP:conf/pldi/GayA01,
@@ -11556,6 +12811,19 @@
   pages     = {70-80},
 }
 
+@inproceedings{DBLP:conf/pldi/PalopoliLANAC01,
+  author    = {Luigi Palopoli and
+               Giuseppe Lipari and
+               Luca Abeni and
+               Marco Di Natale and
+               Paolo Ancilotti and
+               Fabio Conticelli},
+  title     = {A tool for simulation and fast prototyping of embedded control systems},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {73-81},
+}
+
 @inproceedings{DBLP:conf/pldi/MonnierSS01,
   author    = {Stefan Monnier and
                Bratin Saha and
@@ -11564,6 +12832,27 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {81-91},
+}
+
+@inproceedings{DBLP:conf/pldi/BakshiPL01,
+  author    = {A. Bakshi and
+               Viktor K. Prasanna and
+               Ákos Lédeczi},
+  title     = {MILAN: A Model Based Integrated Simulation Framework for Design of Embedded Systems},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {82-93},
+}
+
+@inproceedings{DBLP:conf/pldi/VivancosH0W01,
+  author    = {Emilio Vivancos and
+               Christopher A. Healy and
+               Frank Mueller and
+               David B. Whalley},
+  title     = {Parametric Timing Analysis},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {88-93},
 }
 
 @inproceedings{DBLP:conf/pldi/BaconALRS01,
@@ -11578,6 +12867,28 @@
   pages     = {92-103},
 }
 
+@inproceedings{DBLP:conf/pldi/ZiegenbeinWRJE01,
+  author    = {Dirk Ziegenbein and
+               F. Wolf and
+               K. Richter and
+               Marek Jersak and
+               R. Ernst},
+  title     = {{Interval-Based} Analysis of Software Processes},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {94-101},
+}
+
+@inproceedings{DBLP:conf/pldi/UnnikrishnanSL01,
+  author    = {Leena Unnikrishnan and
+               Scott D. Stoller and
+               Yanhong A. Liu},
+  title     = {Automatic Accurate Live Memory Analysis for {Garbage-Collected} Languages},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {102-111},
+}
+
 @inproceedings{DBLP:conf/pldi/ShahamKS01,
   author    = {Ran Shaham and
                Elliot K. Kolodner and
@@ -11586,6 +12897,14 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {104-113},
+}
+
+@inproceedings{DBLP:conf/pldi/Theiling01,
+  author    = {Henrik Theiling},
+  title     = {Generating Decision Trees for Decoding Binaries},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {112-120},
 }
 
 @inproceedings{DBLP:conf/pldi/BergerZM01,
@@ -11598,6 +12917,15 @@
   pages     = {114-124},
 }
 
+@inproceedings{DBLP:conf/pldi/MerillonM01,
+  author    = {Fabrice Mérillon and
+               Gilles Muller},
+  title     = {Dealing with Hardware in Embedded Software: A General Framework Based on the Devil Language},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {121-127},
+}
+
 @inproceedings{DBLP:conf/pldi/ChengB01,
   author    = {Perry Cheng and
                Guy E. Blelloch},
@@ -11605,6 +12933,18 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {125-136},
+}
+
+@inproceedings{DBLP:conf/pldi/KadayifKVIR01,
+  author    = {Ismail Kadayif and
+               Mahmut T. Kandemir and
+               Narayanan Vijaykrishnan and
+               Mary Jane Irwin and
+               Jagannathan Ramanujam},
+  title     = {Morphable Cache Architectures: Potential Benefits},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {128-137},
 }
 
 @inproceedings{DBLP:conf/pldi/AmmeDFR01,
@@ -11618,6 +12958,25 @@
   pages     = {137-147},
 }
 
+@inproceedings{DBLP:conf/pldi/GranstonSZ01,
+  author    = {Elana D. Granston and
+               Eric Stotzer and
+               Joe Zbiciak},
+  title     = {Software Pipelining Irregular Loops On the TMS320C6000 {VLIW} {DSP} Architecture},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {138-144},
+}
+
+@inproceedings{DBLP:conf/pldi/KastnerW01,
+  author    = {Daniel Kästner and
+               Sebastian Winkel},
+  title     = {{ILP-based} Instruction Scheduling for IA-64},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {145-154},
+}
+
 @inproceedings{DBLP:conf/pldi/EvansF01,
   author    = {William S. Evans and
                Christopher W. Fraser},
@@ -11625,6 +12984,15 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {148-155},
+}
+
+@inproceedings{DBLP:conf/pldi/WagnerL01,
+  author    = {Jens Wagner and
+               Rainer Leupers},
+  title     = {C Compiler Design for an Industrial Network Processor},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {155-164},
 }
 
 @inproceedings{DBLP:conf/pldi/KrintzC01,
@@ -11636,6 +13004,15 @@
   pages     = {156-167},
 }
 
+@inproceedings{DBLP:conf/pldi/KesslerB01,
+  author    = {Christoph Keßler and
+               Andrzej Bednarski},
+  title     = {A Dynamic Programming Approach to Optimal Integrated Code Generation},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {165-174},
+}
+
 @inproceedings{DBLP:conf/pldi/ArnoldR01,
   author    = {Matthew Arnold and
                Barbara G. Ryder},
@@ -11643,6 +13020,14 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {168-179},
+}
+
+@inproceedings{DBLP:conf/pldi/Yellin01,
+  author    = {Daniel M. Yellin},
+  title     = {Stuck in the Middle: Challenges and Trends in Optimizing Middleware},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {175-180},
 }
 
 @inproceedings{DBLP:conf/pldi/ZhangG01,
@@ -11654,12 +13039,55 @@
   pages     = {180-190},
 }
 
+@inproceedings{DBLP:conf/pldi/HogstedtK001,
+  author    = {Karin Högstedt and
+               Doug Kimelman and
+               Nan Wang},
+  title     = {Optimizing Component Interaction},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {181},
+}
+
+@inproceedings{DBLP:conf/pldi/LarusP01,
+  author    = {James R. Larus and
+               Michael Parkes},
+  title     = {Using Cohort Scheduling to Enhance Server Performance},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {182-187},
+}
+
+@inproceedings{DBLP:conf/pldi/NarainVMSPS01,
+  author    = {Sanjai Narain and
+               Ravichander Vaidyanathan and
+               Stanley Moyer and
+               William Stephens and
+               Kirthika Parmeswaran and
+               Abdul-Rahim Shareef},
+  title     = {Middleware For Building Adaptive Systems Via Configuration},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {188-195},
+}
+
 @inproceedings{DBLP:conf/pldi/Chilimbi01,
   author    = {Trishul M. Chilimbi},
   title     = {Efficient Representations and Abstractions for Quantifying and Exploiting Data Reference Locality},
   booktitle = pldi,
   year      = 2001,
   pages     = {191-202},
+}
+
+@inproceedings{DBLP:conf/pldi/GoreCSO01,
+  author    = {Pradeep Gore and
+               Ron Cytron and
+               Douglas C. Schmidt and
+               Carlos O'Ryan},
+  title     = {Designing and Optimizing a Scalable {CORBA} Notification Service},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {196-204},
 }
 
 @inproceedings{DBLP:conf/pldi/BallMMR01,
@@ -11673,6 +13101,15 @@
   pages     = {203-213},
 }
 
+@inproceedings{DBLP:conf/pldi/OthmanS01,
+  author    = {Ossama Othman and
+               Douglas C. Schmidt},
+  title     = {Issues in the Design of Adaptive Middleware Load Balancing},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {205-213},
+}
+
 @inproceedings{DBLP:conf/pldi/AggarwalR01,
   author    = {Aneesh Aggarwal and
                Keith H. Randall},
@@ -11680,6 +13117,17 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {214-220},
+}
+
+@inproceedings{DBLP:conf/pldi/PyaraliSCS01,
+  author    = {Irfan Pyarali and
+               Marina Spivak and
+               Ron Cytron and
+               Douglas C. Schmidt},
+  title     = {Evaluating and Optimizing Thread Pool Strategies for {Real-Time} {CORBA}},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {214-222},
 }
 
 @inproceedings{DBLP:conf/pldi/MollerS01,
@@ -11691,6 +13139,28 @@
   pages     = {221-231},
 }
 
+@inproceedings{DBLP:conf/pldi/BrunschOS01,
+  author    = {Darrell Brunsch and
+               Carlos O'Ryan and
+               Douglas C. Schmidt},
+  title     = {Designing an Efficient and Scalable Server-side Asynchrony Model for {CORBA}},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {223-229},
+}
+
+@inproceedings{DBLP:conf/pldi/KrishnamurthyKK01,
+  author    = {Yamuna Krishnamurthy and
+               Vishal Kachroo and
+               David A. Karr and
+               Craig Rodrigues and
+               Douglas C. Schmidt},
+  title     = {Integration of {QoS-Enabled} Distributed Object Computing Middleware for Developing {Next-Generation} Distributed Application},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {230-237},
+}
+
 @inproceedings{DBLP:conf/pldi/ThiesVSA01,
   author    = {William Thies and
                Frédéric Vivien and
@@ -11700,6 +13170,16 @@
   booktitle = pldi,
   year      = 2001,
   pages     = {232-242},
+}
+
+@inproceedings{DBLP:conf/pldi/AdveLE01,
+  author    = {Vikram S. Adve and
+               Vinh Vi Lam and
+               Brian Ensink},
+  title     = {Language and Compiler Support for Adaptive Distributed Applications},
+  booktitle = pldi,
+  year      = 2001,
+  pages     = {238-246},
 }
 
 @inproceedings{DBLP:conf/pldi/AppelG01,
@@ -12394,7 +13874,7 @@
 
 @inproceedings{DBLP:conf/pldi/PaekHP98,
   author    = {Yunheung Paek and
-               Jay Hoeflinger and
+               Jay P. Hoeflinger and
                David A. Padua},
   title     = {Simplification of Array Access Patterns for Compiler Optimizations},
   booktitle = pldi,
@@ -14006,7 +15486,7 @@
 
 @inproceedings{DBLP:conf/pldi/NettlesO93,
   author    = {Scott Nettles and
-               James O'Toole},
+               James W. O'Toole Jr.},
   title     = {{Real-Time} Replication Garbage Collection},
   booktitle = pldi,
   year      = 1993,
@@ -15184,7 +16664,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/OTooleG89,
-  author    = {James O'Toole and
+  author    = {James W. O'Toole Jr. and
                David K. Gifford},
   title     = {Type Reconstruction with {First-Class} Polymorphic Values},
   booktitle = pldi,

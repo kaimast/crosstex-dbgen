@@ -1,5 +1,1093 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/crypto/Teague21,
+  author    = {Vanessa Teague},
+  title     = {Which {E-Voting} Problems Do We Need to Solve?},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {3-7},
+}
+
+@inproceedings{DBLP:conf/crypto/BadertscherLZ21,
+  author    = {Christian Badertscher and
+               Yun Lu and
+               Vassilis Zikas},
+  title     = {A Rational Protocol Treatment of 51% Attacks},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/crypto/ChungCWS21,
+  author    = {Kai-Min Chung and
+               T.-H. Hubert Chan and
+               Ting Wen and
+               Elaine Shi},
+  title     = {{Game-Theoretic} Fairness Meets Multi-party Protocols: The Case of Leader Election},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/crypto/FengT21,
+  author    = {Hanwen Feng and
+               Qiang Tang},
+  title     = {Witness Authenticating {NIZKs} and Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {3-33},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuP21,
+  author    = {Yanyi Liu and
+               Rafael Pass},
+  title     = {On the Possibility of Basing Cryptography on EXP≠ {BPP}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {11-40},
+}
+
+@inproceedings{DBLP:conf/crypto/HerzbergLSW21,
+  author    = {Amir Herzberg and
+               Hemi Leibowitz and
+               Ewa Syta and
+               Sara Wrótniak},
+  title     = {MoSS: Modular Security Specifications Framework},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {33-63},
+}
+
+@inproceedings{DBLP:conf/crypto/MajiW21,
+  author    = {Hemanta K. Maji and
+               Mingyuan Wang},
+  title     = {Computational Hardness of Optimal Fair Computation: Beyond Minicrypt},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {33-63},
+}
+
+@inproceedings{DBLP:conf/crypto/LiangP21,
+  author    = {Xiao Liang and
+               Omkant Pandey},
+  title     = {Towards a Unified Approach to {Black-Box} Constructions of {Zero-Knowledge} Proofs},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {34-64},
+}
+
+@inproceedings{DBLP:conf/crypto/Beyne21,
+  author    = {Tim Beyne},
+  title     = {Linear Cryptanalysis of FF3-1 and {FEA}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {41-69},
+}
+
+@inproceedings{DBLP:conf/crypto/GentryHKMNRY21,
+  author    = {Craig Gentry and
+               Shai Halevi and
+               Hugo Krawczyk and
+               Bernardo Magri and
+               Jesper Buus Nielsen and
+               Tal Rabin and
+               Sophia Yakoubov},
+  title     = {YOSO: You Only Speak Once - Secure {MPC} with Stateless Ephemeral Roles},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {64-93},
+}
+
+@inproceedings{DBLP:conf/crypto/GhoshalT21,
+  author    = {Ashrujit Ghoshal and
+               Stefano Tessaro},
+  title     = {Tight {State-Restoration} Soundness in the Algebraic Group Model},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {64-93},
+}
+
+@inproceedings{DBLP:conf/crypto/AttemaCF21,
+  author    = {Thomas Attema and
+               Ronald Cramer and
+               Serge Fehr},
+  title     = {Compressing Proofs of {k-Out-Of-n} Partial Knowledge},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {65-91},
+}
+
+@inproceedings{DBLP:conf/crypto/TaoPD21,
+  author    = {Chengdong Tao and
+               Albrecht Petzoldt and
+               Jintai Ding},
+  title     = {Efficient Key Recovery for All {HFE} Signature Variants},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {70-93},
+}
+
+@inproceedings{DBLP:conf/crypto/BaumMRS21,
+  author    = {Carsten Baum and
+               Alex J. Malozemoff and
+               Marc B. Rosen and
+               Peter Scholl},
+  title     = {Mac'n'Cheese: {Zero-Knowledge} Proofs for Boolean and Arithmetic Circuits with Nested Disjunctions},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {92-122},
+}
+
+@inproceedings{DBLP:conf/crypto/KaplanMNS21,
+  author    = {Haim Kaplan and
+               Yishay Mansour and
+               Kobbi Nissim and
+               Uri Stemmer},
+  title     = {Separating Adaptive Streaming from Oblivious Streaming Using the Bounded Storage Model},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {94-121},
+}
+
+@inproceedings{DBLP:conf/crypto/ChoudhuriGGJK21,
+  author    = {Arka Rai Choudhuri and
+               Aarushi Goel and
+               Matthew Green and
+               Abhishek Jain and
+               Gabriel Kaptchuk},
+  title     = {Fluid MPC: Secure Multiparty Computation with Dynamic Participants},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {94-123},
+}
+
+@inproceedings{DBLP:conf/crypto/RosulekR21,
+  author    = {Mike Rosulek and
+               Lawrence Roy},
+  title     = {Three Halves Make a Whole? Beating the {Half-Gates} Lower Bound for Garbled Circuits},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {94-124},
+}
+
+@inproceedings{DBLP:conf/crypto/BlockHRRS21,
+  author    = {Alexander R. Block and
+               Justin Holmgren and
+               Alon Rosen and
+               Ron D. Rothblum and
+               Pratik Soni},
+  title     = {Time- and {Space-Efficient} Arguments from Groups of Unknown Order},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {123-152},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalIKNPPR21,
+  author    = {Shweta Agrawal and
+               Yuval Ishai and
+               Eyal Kushilevitz and
+               Varun Narayanan and
+               Manoj Prabhakaran and
+               Vinod M. Prabhakaran and
+               Alon Rosen},
+  title     = {Secure Computation from {One-Way} Noisy Communication, or: Anti-correlation via Anti-concentration},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {124-154},
+}
+
+@inproceedings{DBLP:conf/crypto/BarbosaBCW21,
+  author    = {Manuel Barbosa and
+               Alexandra Boldyreva and
+               Shan Chen and
+               Bogdan Warinschi},
+  title     = {Provable Security Analysis of FIDO2},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {125-156},
+}
+
+@inproceedings{DBLP:conf/crypto/GarillotKMN21,
+  author    = {François Garillot and
+               Yashvanth Kondi and
+               Payman Mohassel and
+               Valeria Nikolaenko},
+  title     = {Threshold Schnorr with Stateless Deterministic Signing from Standard Assumptions},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {127-156},
+}
+
+@inproceedings{DBLP:conf/crypto/Wee21,
+  author    = {Hoeteck Wee},
+  title     = {Broadcast Encryption with Size N1/3 and More from {k-Lin}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {155-178},
+}
+
+@inproceedings{DBLP:conf/crypto/DamgardMRSY21,
+  author    = {Ivan Damgård and
+               Bernardo Magri and
+               Divya Ravi and
+               Luisa Siniscalchi and
+               Sophia Yakoubov},
+  title     = {{Broadcast-Optimal} Two Round {MPC} with an Honest Majority},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {155-184},
+}
+
+@inproceedings{DBLP:conf/crypto/BossuatBFMR21,
+  author    = {Angèle Bossuat and
+               Raphael Bost and
+               Pierre-Alain Fouque and
+               Brice Minaud and
+               Michael Reichle},
+  title     = {{SSE} and SSD: {Page-Efficient} Searchable Symmetric Encryption},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {157-184},
+}
+
+@inproceedings{DBLP:conf/crypto/AlperB21,
+  author    = {Handan Kilinç Alper and
+               Jeffrey Burdges},
+  title     = {{Two-Round} Trip Schnorr Multi-signatures via Delinearized Witnesses},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {157-188},
+}
+
+@inproceedings{DBLP:conf/crypto/WangPC21,
+  author    = {Yuyu Wang and
+               Jiaxin Pan and
+               Yu Chen},
+  title     = {{Fine-Grained} Secure {Attribute-Based} Encryption},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {179-207},
+}
+
+@inproceedings{DBLP:conf/crypto/PatraS21,
+  author    = {Arpita Patra and
+               Akshayaram Srinivasan},
+  title     = {{Three-Round} Secure Multiparty Computation from {Black-Box} {Two-Round} Oblivious Transfer},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {185-213},
+}
+
+@inproceedings{DBLP:conf/crypto/CassiersFOS21,
+  author    = {Gaëtan Cassiers and
+               Sebastian Faust and
+               Maximilian Orlt and
+               François-Xavier Standaert},
+  title     = {Towards Tight Random Probing Security},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {185-214},
+}
+
+@inproceedings{DBLP:conf/crypto/NickRS21,
+  author    = {Jonas Nick and
+               Tim Ruffing and
+               Yannick Seurin},
+  title     = {MuSig2: Simple {Two-Round} Schnorr Multi-signatures},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {189-221},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalGT21,
+  author    = {Shweta Agrawal and
+               Rishab Goyal and
+               Junichi Tomida},
+  title     = {Multi-input Quadratic Functional Encryption from Pairings},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {208-238},
+}
+
+@inproceedings{DBLP:conf/crypto/IshaiKSS21,
+  author    = {Yuval Ishai and
+               Dakshita Khurana and
+               Amit Sahai and
+               Akshayaram Srinivasan},
+  title     = {On the Round Complexity of {Black-Box} Secure {MPC}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {214-243},
+}
+
+@inproceedings{DBLP:conf/crypto/CoronS21,
+  author    = {Jean-Sébastien Coron and
+               Lorenzo Spignoli},
+  title     = {Secure Wire Shuffling in the Probing Model},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {215-244},
+}
+
+@inproceedings{DBLP:conf/crypto/RotemS21,
+  author    = {Lior Rotem and
+               Gil Segev},
+  title     = {Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for ${\{varSigma} }$-Protocols},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {222-250},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalMVY21,
+  author    = {Shweta Agrawal and
+               Monosij Maitra and
+               Narasimha Sai Vempati and
+               Shota Yamada},
+  title     = {Functional Encryption for Turing Machines with Dynamic Bounded Collusion from {LWE}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {239-269},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalLOPS21,
+  author    = {Vipul Goyal and
+               Hanjun Li and
+               Rafail Ostrovsky and
+               Antigoni Polychroniadou and
+               Yifan Song},
+  title     = {ATLAS: Efficient and Scalable {MPC} in the Honest Majority Setting},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {244-274},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuLL21,
+  author    = {Meicheng Liu and
+               Xiaojuan Lu and
+               Dongdai Lin},
+  title     = {{Differential-Linear} Cryptanalysis from an Algebraic Perspective},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {247-277},
+}
+
+@inproceedings{DBLP:conf/crypto/YuenELAD21,
+  author    = {Tsz Hon Yuen and
+               Muhammed F. Esgin and
+               Joseph K. Liu and
+               Man Ho Au and
+               Zhimin Ding},
+  title     = {DualRing: Generic Construction of Ring Signatures with Efficient Instantiations},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {251-281},
+}
+
+@inproceedings{DBLP:conf/crypto/WangCYHWY21,
+  author    = {Yi Wang and
+               Rongmao Chen and
+               Guomin Yang and
+               Xinyi Huang and
+               Baosheng Wang and
+               Moti Yung},
+  title     = {{Receiver-Anonymity} in Rerandomizable {RCCA-Secure} Cryptosystems Resolved},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {270-300},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalPS21,
+  author    = {Vipul Goyal and
+               Antigoni Polychroniadou and
+               Yifan Song},
+  title     = {Unconditional {Communication-Efficient} {MPC} via Hall's Marriage Theorem},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {275-304},
+}
+
+@inproceedings{DBLP:conf/crypto/DongHSLWH21,
+  author    = {Xiaoyang Dong and
+               Jialiang Hua and
+               Siwei Sun and
+               Zheng Li and
+               Xiaoyun Wang and
+               Lei Hu},
+  title     = {{Meet-in-the-Middle} Attacks Revisited: Key-Recovery, Collision, and Preimage Attacks},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {278-308},
+}
+
+@inproceedings{DBLP:conf/crypto/ChatterjeeGHKLM21,
+  author    = {Rohit Chatterjee and
+               Sanjam Garg and
+               Mohammad Hajiabadi and
+               Dakshita Khurana and
+               Xiao Liang and
+               Giulio Malavolta and
+               Omkant Pandey and
+               Sina Shiehian},
+  title     = {Compact Ring Signatures from Learning with Errors},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {282-312},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry21,
+  author    = {Mark Zhandry},
+  title     = {White Box Traitor Tracing},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {303-333},
+}
+
+@inproceedings{DBLP:conf/crypto/EriguchiOYN21,
+  author    = {Reo Eriguchi and
+               Kazuma Ohara and
+               Shota Yamada and
+               Koji Nuida},
+  title     = {Non-interactive Secure Multiparty Computation for Symmetric Functions, Revisited: More Efficient Constructions and Extensions},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {305-334},
+}
+
+@inproceedings{DBLP:conf/crypto/ShenWGW21,
+  author    = {Yaobin Shen and
+               Lei Wang and
+               Dawu Gu and
+               Jian Weng},
+  title     = {Revisiting the Security of {DbHtS} MACs: {Beyond-Birthday-Bound} in the Multi-user Setting},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {309-336},
+}
+
+@inproceedings{DBLP:conf/crypto/ChiaCY21,
+  author    = {Nai-Hui Chia and
+               Kai-Min Chung and
+               Takashi Yamakawa},
+  title     = {A {Black-Box} Approach to {Post-Quantum} {Zero-Knowledge} in Constant Rounds},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {315-345},
+}
+
+@inproceedings{DBLP:conf/crypto/ChenLMQ21,
+  author    = {Yilei Chen and
+               Alex Lombardi and
+               Fermi Ma and
+               Willy Quach},
+  title     = {Does {Fiat-Shamir} Require a Cryptographic Hash Function?},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {334-363},
+}
+
+@inproceedings{DBLP:conf/crypto/EscuderoS21,
+  author    = {Daniel Escudero and
+               Eduardo Soria-Vazquez},
+  title     = {Efficient {Information-Theoretic} Multi-party Computation over Non-commutative Rings},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {335-364},
+}
+
+@inproceedings{DBLP:conf/crypto/BordesDKA21,
+  author    = {Nicolas Bordes and
+               Joan Daemen and
+               Daniël Kuijsters and
+               Gilles Van Assche},
+  title     = {Thinking Outside the Superbox},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {337-367},
+}
+
+@inproceedings{DBLP:conf/crypto/AnanthCP21,
+  author    = {Prabhanjan Ananth and
+               Kai-Min Chung and
+               Rolando L. La Placa},
+  title     = {On the Concurrent Composition of Quantum {Zero-Knowledge}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {346-374},
+}
+
+@inproceedings{DBLP:conf/crypto/KerberKK21,
+  author    = {Thomas Kerber and
+               Aggelos Kiayias and
+               Markulf Kohlweiss},
+  title     = {Composition with Knowledge Assumptions},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {364-393},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuYZZLH21,
+  author    = {Hanlin Liu and
+               Yu Yu and
+               Shuoyao Zhao and
+               Jiang Zhang and
+               Wenling Liu and
+               Zhenkai Hu},
+  title     = {Pushing the Limits of Valiant's Universal Circuits: Simpler, Tighter and More Compact},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {365-394},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuIM21,
+  author    = {Fukang Liu and
+               Takanori Isobe and
+               Willi Meier},
+  title     = {Cryptanalysis of Full {LowMC} and {LowMC-M} with Algebraic Techniques},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {368-401},
+}
+
+@inproceedings{DBLP:conf/crypto/Shmueli21,
+  author    = {Omri Shmueli},
+  title     = {Multi-theorem {Designated-Verifier} {NIZK} for {QMA}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {375-405},
+}
+
+@inproceedings{DBLP:conf/crypto/ChoudhuriJJ21,
+  author    = {Arka Rai Choudhuri and
+               Abhishek Jain and
+               Zhengzhong Jin},
+  title     = {Non-interactive Batch Arguments for {NP} from Standard Assumptions},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {394-423},
+}
+
+@inproceedings{DBLP:conf/crypto/GarimellaPRTY21,
+  author    = {Gayathri Garimella and
+               Benny Pinkas and
+               Mike Rosulek and
+               Ni Trieu and
+               Avishay Yanai},
+  title     = {Oblivious {Key-Value} Stores and Amplification for Private Set Intersection},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {395-425},
+}
+
+@inproceedings{DBLP:conf/crypto/LongaWS21,
+  author    = {Patrick Longa and
+               Wen Wang and
+               Jakub Szefer},
+  title     = {The Cost to Break SIKE: A Comparative {Hardware-Based} Analysis with {AES} and SHA-3},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {402-431},
+}
+
+@inproceedings{DBLP:conf/crypto/BartusekCKM21,
+  author    = {James Bartusek and
+               Andrea Coladangelo and
+               Dakshita Khurana and
+               Fermi Ma},
+  title     = {On the Round Complexity of Secure Quantum Computation},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {406-435},
+}
+
+@inproceedings{DBLP:conf/crypto/QuachWW21,
+  author    = {Willy Quach and
+               Brent Waters and
+               Daniel Wichs},
+  title     = {Targeted Lossy Functions and Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {424-453},
+}
+
+@inproceedings{DBLP:conf/crypto/CheonKL21,
+  author    = {Jung Hee Cheon and
+               Dongwoo Kim and
+               Keewoo Lee},
+  title     = {MHz2k: MPC from HE over $\mathbb {Z}_{2^k}$ with New Packing, Simpler Reshare, and Better {ZKP}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {426-456},
+}
+
+@inproceedings{DBLP:conf/crypto/QuehenKLMPPS21,
+  author    = {Victoria de Quehen and
+               Péter Kutas and
+               Chris Leonardi and
+               Chloe Martindale and
+               Lorenz Panny and
+               Christophe Petit and
+               Katherine E. Stange},
+  title     = {Improved {Torsion-Point} Attacks on {SIDH} Variants},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {432-470},
+}
+
+@inproceedings{DBLP:conf/crypto/AlonCCHLS21,
+  author    = {Bar Alon and
+               Hao Chung and
+               Kai-Min Chung and
+               Mi-Ying Huang and
+               Yi Lee and
+               Yu-Ching Shen},
+  title     = {Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {436-466},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuTV21,
+  author    = {Tianren Liu and
+               Stefano Tessaro and
+               Vinod Vaikuntanathan},
+  title     = {The t-wise Independence of {Substitution-Permutation} Networks},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {454-483},
+}
+
+@inproceedings{DBLP:conf/crypto/BoyleGIN21,
+  author    = {Elette Boyle and
+               Niv Gilboa and
+               Yuval Ishai and
+               Ariel Nof},
+  title     = {Sublinear {GMW-Style} Compiler for {MPC} with Preprocessing},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {457-485},
+}
+
+@inproceedings{DBLP:conf/crypto/BartusekCKM21a,
+  author    = {James Bartusek and
+               Andrea Coladangelo and
+               Dakshita Khurana and
+               Fermi Ma},
+  title     = {{One-Way} Functions Imply Secure Computation in a Quantum World},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {467-496},
+}
+
+@inproceedings{DBLP:conf/crypto/YuZ21,
+  author    = {Yu Yu and
+               Jiang Zhang},
+  title     = {Smoothing Out Binary Linear Codes and {Worst-Case} Sub-exponential Hardness for {LPN}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {473-501},
+}
+
+@inproceedings{DBLP:conf/crypto/KamathKPW21,
+  author    = {Chethan Kamath and
+               Karen Klein and
+               Krzysztof Pietrzak and
+               Daniel Wichs},
+  title     = {Limits on the Adaptive Security of Yao's Garbling},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {486-515},
+}
+
+@inproceedings{DBLP:conf/crypto/BoyleCGIKS21,
+  author    = {Elette Boyle and
+               Geoffroy Couteau and
+               Niv Gilboa and
+               Yuval Ishai and
+               Lisa Kohl and
+               Peter Scholl},
+  title     = {Low-Complexity Weak Pseudorandom Functions in $\mathtt {AC}0[\mathtt {MOD}2]$},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {487-516},
+}
+
+@inproceedings{DBLP:conf/crypto/AlagicBDS21,
+  author    = {Gorjan Alagic and
+               Zvika Brakerski and
+               Yfke Dulek and
+               Christian Schaffner},
+  title     = {Impossibility of Quantum Virtual {Black-Box} Obfuscation of Classical Circuits},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {497-525},
+}
+
+@inproceedings{DBLP:conf/crypto/CouteauRR21,
+  author    = {Geoffroy Couteau and
+               Peter Rindal and
+               Srinivasan Raghuraman},
+  title     = {Silver: Silent {VOLE} and Oblivious Transfer from Hardness of Decoding Structured {LDPC} Codes},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {502-534},
+}
+
+@inproceedings{DBLP:conf/crypto/DinurGHIKSZ21,
+  author    = {Itai Dinur and
+               Steven Goldfeder and
+               Tzipora Halevi and
+               Yuval Ishai and
+               Mahimna Kelkar and
+               Vivek Sharma and
+               Greg Zaverucha},
+  title     = {{MPC-Friendly} Symmetric Cryptography from Alternating Moduli: Candidates, Protocols, and Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {517-547},
+}
+
+@inproceedings{DBLP:conf/crypto/AlbrechtL21,
+  author    = {Martin R. Albrecht and
+               Russell W. F. Lai},
+  title     = {Subtractive Sets over Cyclotomic Rings - Limits of {Schnorr-Like} Arguments over Lattices},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {519-548},
+}
+
+@inproceedings{DBLP:conf/crypto/AaronsonLLZZ21,
+  author    = {Scott Aaronson and
+               Jiahui Liu and
+               Qipeng Liu and
+               Mark Zhandry and
+               Ruizhe Zhang},
+  title     = {New Approaches for Quantum {Copy-Protection}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {526-555},
+}
+
+@inproceedings{DBLP:conf/crypto/Dachman-SoledKP21,
+  author    = {Dana Dachman-Soled and
+               Ilan Komargodski and
+               Rafael Pass},
+  title     = {Non-malleable Codes for Bounded {Parallel-Time} Tampering},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {535-565},
+}
+
+@inproceedings{DBLP:conf/crypto/DodisGSX21,
+  author    = {Yevgeniy Dodis and
+               Siyao Guo and
+               Noah Stephens-Davidowitz and
+               Zhiye Xie},
+  title     = {No Time to Hash: On {Super-Efficient} Entropy Accumulation},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {548-576},
+}
+
+@inproceedings{DBLP:conf/crypto/AttemaCK21,
+  author    = {Thomas Attema and
+               Ronald Cramer and
+               Lisa Kohl},
+  title     = {A Compressed $\{varSigma} $-Protocol Theory for Lattices},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {549-579},
+}
+
+@inproceedings{DBLP:conf/crypto/ColadangeloLLZ21,
+  author    = {Andrea Coladangelo and
+               Jiahui Liu and
+               Qipeng Liu and
+               Mark Zhandry},
+  title     = {Hidden Cosets and Applications to Unclonable Cryptography},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {556-584},
+}
+
+@inproceedings{DBLP:conf/crypto/KhuranaS21,
+  author    = {Dakshita Khurana and
+               Akshayaram Srinivasan},
+  title     = {Improved Computational Extractors and Their Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {566-594},
+}
+
+@inproceedings{DBLP:conf/crypto/KomargodskiL21,
+  author    = {Ilan Komargodski and
+               Wei-Kai Lin},
+  title     = {A Logarithmic Lower Bound for Oblivious {RAM} (for All Parameters)},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {579-609},
+}
+
+@inproceedings{DBLP:conf/crypto/Katsumata21,
+  author    = {Shuichi Katsumata},
+  title     = {A New Simple Technique to Bootstrap Various Lattice {Zero-Knowledge} Proofs to {QROM} Secure {NIZKs}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {580-610},
+}
+
+@inproceedings{DBLP:conf/crypto/HosoyamadaI21,
+  author    = {Akinori Hosoyamada and
+               Tetsu Iwata},
+  title     = {On Tight Quantum Security of {HMAC} and {NMAC} in the Quantum Random Oracle Model},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {585-615},
+}
+
+@inproceedings{DBLP:conf/crypto/ChandranKOS21,
+  author    = {Nishanth Chandran and
+               Bhavana Kanukurthi and
+               Sai Lakshmi Bhavana Obbattu and
+               Sruthi Sekar},
+  title     = {Adaptive Extractors and Their Application to Leakage Resilient Secret Sharing},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {595-624},
+}
+
+@inproceedings{DBLP:conf/crypto/AsharovKLS21,
+  author    = {Gilad Asharov and
+               Ilan Komargodski and
+               Wei-Kai Lin and
+               Elaine Shi},
+  title     = {Oblivious {RAM} with {Worst-Case} Logarithmic Overhead},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {610-640},
+}
+
+@inproceedings{DBLP:conf/crypto/LyubashevskyNS21,
+  author    = {Vadim Lyubashevsky and
+               Ngoc Khanh Nguyen and
+               Gregor Seiler},
+  title     = {SMILE: Set Membership from Ideal Lattices with Applications to Ring Signatures and Confidential Transactions},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {611-640},
+}
+
+@inproceedings{DBLP:conf/crypto/HosoyamadaS21,
+  author    = {Akinori Hosoyamada and
+               Yu Sasaki},
+  title     = {Quantum Collision Attacks on Reduced SHA-256 and SHA-512},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {616-646},
+}
+
+@inproceedings{DBLP:conf/crypto/ApplebaumN21,
+  author    = {Benny Applebaum and
+               Oded Nir},
+  title     = {Upslices, Downslices, and {Secret-Sharing} with Complexity of 1.5n},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {627-655},
+}
+
+@inproceedings{DBLP:conf/crypto/ShiACM21,
+  author    = {Elaine Shi and
+               Waqar Aqeel and
+               Balakrishnan Chandrasekaran and
+               Bruce M. Maggs},
+  title     = {Puncturable Pseudorandom Sets and Private Information Retrieval with {Near-Optimal} Online Bandwidth and Time},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {641-669},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalGM21,
+  author    = {Shweta Agrawal and
+               Shafi Goldwasser and
+               Saleet Mossel},
+  title     = {Deniable Fully Homomorphic Encryption from Learning with Errors},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {641-670},
+}
+
+@inproceedings{DBLP:conf/crypto/BonehDFG21,
+  author    = {Dan Boneh and
+               Justin Drake and
+               Ben Fisch and
+               Ariel Gabizon},
+  title     = {Halo Infinite: {Proof-Carrying} Data from Additive Polynomial Commitments},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {649-680},
+}
+
+@inproceedings{DBLP:conf/crypto/CramerRX21,
+  author    = {Ronald Cramer and
+               Matthieu Rambaud and
+               Chaoping Xing},
+  title     = {Asymptotically-Good Arithmetic Secret Sharing over $\mathbb {Z}/p^{\ell }\mathbb {Z}$ with Strong Multiplication and Its Applications to Efficient {MPC}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {656-686},
+}
+
+@inproceedings{DBLP:conf/crypto/HanJKLPRS21,
+  author    = {Shuai Han and
+               Tibor Jager and
+               Eike Kiltz and
+               Shengli Liu and
+               Jiaxin Pan and
+               Doreen Riepel and
+               Sven Schäge},
+  title     = {Authenticated Key Exchange and Signatures with Tight Security in the Standard Model},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {670-700},
+}
+
+@inproceedings{DBLP:conf/crypto/HopkinsJL21,
+  author    = {Samuel B. Hopkins and
+               Aayush Jain and
+               Huijia Lin},
+  title     = {Counterexamples to New Circular Security Assumptions Underlying {iO}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {673-700},
+}
+
+@inproceedings{DBLP:conf/crypto/BunzCLMS21,
+  author    = {Benedikt Bünz and
+               Alessandro Chiesa and
+               William Lin and
+               Pratyush Mishra and
+               Nicholas Spooner},
+  title     = {{Proof-Carrying} Data Without Succinct Arguments},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {681-710},
+}
+
+@inproceedings{DBLP:conf/crypto/RoyS21,
+  author    = {Lawrence Roy and
+               Jaspal Singh},
+  title     = {Large Message Homomorphic Secret Sharing from {DCR} and Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {687-717},
+}
+
+@inproceedings{DBLP:conf/crypto/GuJK21,
+  author    = {Yanqi Gu and
+               Stanislaw Jarecki and
+               Hugo Krawczyk},
+  title     = {KHAPE: Asymmetric {PAKE} from {Key-Hiding} Key Exchange},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {701-730},
+}
+
+@inproceedings{DBLP:conf/crypto/May21,
+  author    = {Alexander May},
+  title     = {How to Meet Ternary {LWE} Keys},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {701-731},
+}
+
+@inproceedings{DBLP:conf/crypto/ChiesaY21,
+  author    = {Alessandro Chiesa and
+               Eylon Yogev},
+  title     = {Subquadratic {SNARGs} in the Random Oracle Model},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {711-741},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalSS21,
+  author    = {Vipul Goyal and
+               Yifan Song and
+               Akshayaram Srinivasan},
+  title     = {Traceable Secret Sharing and Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {718-747},
+}
+
+@inproceedings{DBLP:conf/crypto/AlbrechtBLR21,
+  author    = {Martin R. Albrecht and
+               Shi Bai and
+               Jianwei Li and
+               Joe Rowell},
+  title     = {Lattice Reduction with Approximate Enumeration Oracles - Practical Algorithms and Concrete Performance},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {732-759},
+}
+
+@inproceedings{DBLP:conf/crypto/BootleCS21,
+  author    = {Jonathan Bootle and
+               Alessandro Chiesa and
+               Katerina Sotiraki},
+  title     = {Sumcheck Arguments and Their Applications},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {742-773},
+}
+
+@inproceedings{DBLP:conf/crypto/BeimelOP21,
+  author    = {Amos Beimel and
+               Hussien Othman and
+               Naty Peter},
+  title     = {Quadratic Secret Sharing and Conditional Disclosure of Secrets},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {748-778},
+}
+
+@inproceedings{DBLP:conf/crypto/KirchnerEF21,
+  author    = {Paul Kirchner and
+               Thomas Espitau and
+               Pierre-Alain Fouque},
+  title     = {Towards Faster {Polynomial-Time} Lattice Reduction},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {760-790},
+}
+
+@inproceedings{DBLP:conf/crypto/RafolsZ21,
+  author    = {Carla Ràfols and
+               Arantxa Zapico},
+  title     = {An Algebraic Framework for Universal and Updatable {SNARKs}},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {774-804},
+}
+
+@inproceedings{DBLP:conf/crypto/MajiPSW21,
+  author    = {Hemanta K. Maji and
+               Anat Paskin-Cherniavsky and
+               Tom Suad and
+               Mingyuan Wang},
+  title     = {Constructing Locally {Leakage-Resilient} Linear {Secret-Sharing} Schemes},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {779-808},
+}
+
+@inproceedings{DBLP:conf/crypto/KirshanovaL21,
+  author    = {Elena Kirshanova and
+               Thijs Laarhoven},
+  title     = {Lower Bounds on Lattice Sieving and Information Set Decoding},
+  booktitle = crypto,
+  year      = 2021,
+  pages     = {791-820},
+}
+
 @inproceedings{DBLP:conf/crypto/CoronG20,
   author    = {Jean-Sébastien Coron and
                Agnese Gini},
@@ -753,7 +1841,7 @@
 }
 
 @inproceedings{DBLP:conf/crypto/Setty20,
-  author    = {Srinath Setty},
+  author    = {Srinath T. V. Setty},
   title     = {Spartan: Efficient and {General-Purpose} {zkSNARKs} Without Trusted Setup},
   booktitle = crypto,
   year      = 2020,
@@ -6462,7 +7550,7 @@
 }
 
 @inproceedings{DBLP:conf/crypto/BayMV12,
-  author    = {Asli Bay and
+  author    = {Aslí Bay and
                Atefeh Mashatan and
                Serge Vaudenay},
   title     = {Resistance against Iterated Attacks by Decorrelation Revisited,},
@@ -11897,10 +12985,10 @@
 
 @inproceedings{DBLP:conf/crypto/HughesLMPS96,
   author    = {Richard J. Hughes and
-               G. G. Luther and
-               G. L. Morgan and
+               Gabriel G. Luther and
+               George L. Morgan and
                Charles G. Peterson and
-               C. M. Simmons},
+               Charles M. Simmons},
   title     = {Quantum Cryptography over Underground Optical Fibers},
   booktitle = crypto,
   year      = 1996,
@@ -16282,8 +17370,8 @@
 
 @inproceedings{DBLP:conf/crypto/FairfieldMP84,
   author    = {Robert C. Fairfield and
-               A. Matusevich and
-               J. Plany},
+               Alex Matusevich and
+               Joseph Plany},
   title     = {An {LSI} Digital Encryption Processor (DEP)},
   booktitle = crypto,
   year      = 1984,

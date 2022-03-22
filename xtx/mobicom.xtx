@@ -1,5 +1,180 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/mobicom/ChenMSKGPRZS21,
+  author    = {Tingjun Chen and
+               Prasanthi Maddala and
+               Panagiotis Skrimponis and
+               Jakub Kolodziejski and
+               Xiaoxiong Gu and
+               Arun Paidimarri and
+               Sundeep Rangan and
+               Gil Zussman and
+               Ivan Seskar},
+  title     = {Programmable and {Open-Access} {Millimeter-Wave} Radios in the {PAWR} {COSMOS} Testbed},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/mobicom/0001GKQZABCDDJK21,
+  author    = {Hongwei Zhang and
+               Yong Guan and
+               Ahmed E. Kamal and
+               Daji Qiao and
+               Mai Zheng and
+               Anish Arora and
+               Ozdal Boyraz and
+               Brian Cox and
+               Thomas Daniels and
+               Matthew Darr and
+               Doug Jacobson and
+               Ashfaq A. Khokhar and
+               Sang Wu Kim and
+               James Koltes and
+               Jia Liu and
+               Mike Luby and
+               Larysa Nadolny and
+               Joshua M. Peschel and
+               Patrick S. Schnable and
+               Anuj Sharma and
+               Arun Somani and
+               Lie Tang},
+  title     = {ARA: A Wireless Living Lab Vision for Smart and Connected Rural Communities},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/mobicom/0004MM21,
+  author    = {David Johnson and
+               Dustin Maas and
+               Jacobus E. van der Merwe},
+  title     = {NexRAN: Closed-loop {RAN} slicing in {POWDER} -A top-to-bottom open-source {open-RAN} use case},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {17-23},
+}
+
+@inproceedings{DBLP:conf/mobicom/BuczekBBM21,
+  author    = {John Buczek and
+               Lorenzo Bertizzolo and
+               Stefano Basagni and
+               Tommaso Melodia},
+  title     = {What is A Wireless UAV?: A Design Blueprint for 6G Flying Wireless Nodes},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {24-30},
+}
+
+@inproceedings{DBLP:conf/mobicom/BhattacherjeeOO21,
+  author    = {Udita Bhattacherjee and
+               Ender Ozturk and
+               Özgür Özdemir and
+               Ismail Güvenç and
+               Mihail L. Sichitiu and
+               Huaiyu Dai},
+  title     = {Experimental Study of Outdoor {UAV} Localization and Tracking using Passive {RF} Sensing},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {31-38},
+}
+
+@inproceedings{DBLP:conf/mobicom/PowellYRM21,
+  author    = {Keith Powell and
+               Andrew L. Yingst and
+               Talha Faizur Rahman and
+               Vuk Marojevic},
+  title     = {Handover Experiments with UAVs: Software Radio Tools and Experimental Research Platform},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {39-45},
+}
+
+@inproceedings{DBLP:conf/mobicom/GringoliCPW21,
+  author    = {Francesco Gringoli and
+               Marco Cominelli and
+               Alejandro Blanco Pizarro and
+               Joerg Widmer},
+  title     = {AX-CSI: Enabling {CSI} Extraction on Commercial 802.11ax {Wi-Fi} Platforms},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {46-53},
+}
+
+@inproceedings{DBLP:conf/mobicom/KhanGAKW21,
+  author    = {Imran Khan and
+               Moinak Ghoshal and
+               Shivang Aggarwal and
+               Dimitrios Koutsonikolas and
+               Joerg Widmer},
+  title     = {Multipath {TCP} in Smartphones Equipped with Millimeter Wave Radios},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {54-60},
+}
+
+@inproceedings{DBLP:conf/mobicom/RochmanSNFGIP21,
+  author    = {Muhammad Iqbal Rochman and
+               Vanlin Sathya and
+               Norlen Nunez and
+               Damián Fernández and
+               Monisha Ghosh and
+               Ahmed S. Ibrahim and
+               William Payne},
+  title     = {A Comparison Study of Cellular Deployments in Chicago and Miami Using Apps on Smartphones},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {61-68},
+}
+
+@inproceedings{DBLP:conf/mobicom/MichaelidesSP21,
+  author    = {Michael Michaelides and
+               Cigdem Sengul and
+               Paul Patras},
+  title     = {An Experimental Evaluation of {MQTT} Authentication and Authorization in {IoT}},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {69-76},
+}
+
+@inproceedings{DBLP:conf/mobicom/StojadinovicNBK21,
+  author    = {Dragoslav Stojadinovic and
+               Prasad Prakash Netalkar and
+               Carlos E. Caicedo Bastidas and
+               Igor Kadota and
+               Gil Zussman and
+               Ivan Seskar and
+               Dipankar Raychaudhuri},
+  title     = {A Spectrum Consumption Model-based Framework for {DSA} Experimentation on the {COSMOS} Testbed},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {77-84},
+}
+
+@inproceedings{DBLP:conf/mobicom/LunarSWFTKQNAYC21,
+  author    = {Mohammad M. R. Lunar and
+               Jianxin Sun and
+               John Wensowitch and
+               Michael Fay and
+               Halit Bugra Tulay and
+               Venkat Sai Suman Lamba Karanam and
+               Brian Qiu and
+               Deepak Nadig and
+               Garhan Attebury and
+               Hongfeng Yu and
+               Joseph Camp and
+               Can Emre Koksal and
+               Dario Pompili and
+               Byrav Ramamurthy and
+               Morteza Hashemi and
+               Eylem Ekici and
+               Mehmet C. Vuran},
+  title     = {OneLNK: One Link to Rule Them All: Web-based Wireless Experimentation for Multi-vendor Remotely Accessible Indoor/Outdoor Testbeds},
+  booktitle = mobicom,
+  year      = 2021,
+  pages     = {85-92},
+}
+
 @inproceedings{DBLP:conf/mobicom/GutemaHP20,
   author    = {Tilahun Zerihun Gutema and
                Harald Haas and
@@ -215,7 +390,7 @@
 @inproceedings{DBLP:conf/mobicom/SeidZLP20,
   author    = {Salahadin Seid and
                Marco Zennaro and
-               Mulugeta Libse and
+               Mulugeta Libsie and
                Ermanno Pietrosemoli},
   title     = {Mobile Crowdsensing Based Road Surface Monitoring Using Smartphone Vibration Sensor and Lorawan},
   booktitle = mobicom,
@@ -627,7 +802,7 @@
   author    = {João Martins and
                João Paulo Barraca and
                Diogo Gomes and
-               Rui Luis Aguiar},
+               Rui L. Aguiar},
   title     = {Experimentation made easy with the {AMazING} panel},
   booktitle = mobicom,
   year      = 2012,
@@ -895,7 +1070,7 @@
 
 @inproceedings{DBLP:conf/mobicom/BobovychPB12,
   author    = {Stanislav Bobovych and
-               James P. Parkerson and
+               James Patrick Parkerson and
                Nilanjan Banerjee},
   title     = {Evaluating solar panel-driven systems in the laboratory},
   booktitle = mobicom,
@@ -1207,7 +1382,7 @@
   author    = {Konstantinos Pelechrinis and
                Theodoros Salonidis and
                Henrik Lundgren and
-               Nitin Vaidya},
+               Nitin H. Vaidya},
   title     = {Experimental characterization of 802.11n link quality at high rates},
   booktitle = mobicom,
   year      = 2010,
@@ -1217,7 +1392,7 @@
 @inproceedings{DBLP:conf/mobicom/GnawaliGL10,
   author    = {Omprakash Gnawali and
                Leonidas J. Guibas and
-               Philip Levis},
+               Philip Alexander Levis},
   title     = {A case for evaluating sensor network protocols concurrently},
   booktitle = mobicom,
   year      = 2010,
@@ -1254,4 +1429,256 @@
   booktitle = mobicom,
   year      = 2010,
   pages     = {71-78},
+}
+
+@inproceedings{DBLP:conf/mobicom/MuthukumarLLKOC09,
+  author    = {Shivkumar Muthukumar and
+               Xiaozhou Li and
+               Changbin Liu and
+               Joseph B. Kopena and
+               Mihai Oprea and
+               Ricardo Correa and
+               Boon Thau Loo and
+               Prithwish Basu},
+  title     = {RapidMesh: declarative toolkit for rapid experimentation of wireless mesh networks},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/mobicom/CastroDKV09,
+  author    = {Marcel C. Castro and
+               Peter Dely and
+               Andreas J. Kassler and
+               Nitin H. Vaidya},
+  title     = {Qos-aware channel scheduling for multi-radio/multi-channel wireless mesh networks},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {11-18},
+}
+
+@inproceedings{DBLP:conf/mobicom/AnneseCCCGR09,
+  author    = {Stefano Annese and
+               Claudio Casetti and
+               Carla-Fabiana Chiasserini and
+               Paolo Cipollone and
+               Andrea Ghittino and
+               Massimo Reineri},
+  title     = {Assessing mobility support in mesh networks},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {19-26},
+}
+
+@inproceedings{DBLP:conf/mobicom/SyrivelisAAKT09,
+  author    = {Dimitris Syrivelis and
+               Angelos-Christos G. Anadiotis and
+               Apostolos Apostolaras and
+               Thanasis Korakis and
+               Leandros Tassiulas},
+  title     = {TLQAP: a topology and link quality assessment protocol for efficient node allocation on wireless testbeds},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {27-34},
+}
+
+@inproceedings{DBLP:conf/mobicom/LauLHNH09,
+  author    = {Seng-Yong Lau and
+               Tsung-Han Lin and
+               Te-Yuan Huang and
+               I-Hei Ng and
+               Polly Huang},
+  title     = {A measurement study of zigbee-based indoor localization systems under {RF} interference},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {35-42},
+}
+
+@inproceedings{DBLP:conf/mobicom/YiuS09,
+  author    = {Candy Yiu and
+               Suresh Singh},
+  title     = {A model for comparing rate adaptation algorithms},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {43-50},
+}
+
+@inproceedings{DBLP:conf/mobicom/Yoon0OR09,
+  author    = {Hayoung Yoon and
+               JongWon Kim and
+               Maximilian Ott and
+               Thierry Rakotoarivelo},
+  title     = {Mobility emulator for {DTN} and {MANET} applications},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {51-58},
+}
+
+@inproceedings{DBLP:conf/mobicom/YapKUSKM09,
+  author    = {Kok-Kiong Yap and
+               Masayoshi Kobayashi and
+               David Underhill and
+               Srinivasan Seetharaman and
+               Peyman Kazemian and
+               Nick McKeown},
+  title     = {The Stanford {OpenRoads} deployment},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {59-66},
+}
+
+@inproceedings{DBLP:conf/mobicom/WuTLZ09,
+  author    = {Haitao Wu and
+               Kun Tan and
+               Jiangfeng Liu and
+               Yongguang Zhang},
+  title     = {Footprint: cellular assisted {Wi-Fi} {AP} discovery on mobile phones for energy saving},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {67-76},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShiZSH09,
+  author    = {Gaotao Shi and
+               Zenghua Zhao and
+               Yantai Shu and
+               Shuangli Han},
+  title     = {Monitoring the high-voltage transmission lines based on two-tier wireless networks},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {77-78},
+}
+
+@inproceedings{DBLP:conf/mobicom/CastroDKDA09,
+  author    = {Marcel C. Castro and
+               Peter Dely and
+               Andreas J. Kassler and
+               Francesco Paolo D'Elia and
+               Stefano Avallone},
+  title     = {{OLSR} and {Net-X} as a framework for channel assignment experiments: extended abstract},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {79-80},
+}
+
+@inproceedings{DBLP:conf/mobicom/YuanX0CS009,
+  author    = {Zhuxiu Yuan and
+               Cuiyao Xue and
+               Lei Wang and
+               Yuanfang Chen and
+               Weiping Sun and
+               Lei Shu},
+  title     = {A backoff copying scheme for contention resolution in wireless sensor networks},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {81-82},
+}
+
+@inproceedings{DBLP:conf/mobicom/AnadiotisASKTRO09,
+  author    = {Angelos-Christos G. Anadiotis and
+               Apostolos Apostolaras and
+               Dimitris Syrivelis and
+               Thanasis Korakis and
+               Leandros Tassiulas and
+               Luis Rodriguez and
+               Maximilian Ott},
+  title     = {A new slicing scheme for efficient use of wireless testbeds},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {83-84},
+}
+
+@inproceedings{DBLP:conf/mobicom/TuomivaaraRJ09,
+  author    = {Hannu Tuomivaara and
+               Matti Raustia and
+               Markku Jokinen},
+  title     = {Demonstration of distributed {TDMA} {MAC} protocol implementation with {OLSR} on linux enriched {WARP}},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {85-86},
+}
+
+@inproceedings{DBLP:conf/mobicom/LundgrenSSCG09,
+  author    = {Henrik Lundgren and
+               Anand Prabhu Subramanian and
+               Theodoros Salonidis and
+               Marianna Carrera and
+               Pascal Le Guyadec},
+  title     = {Interference mitigation in {WiFi} networks using multi-sector antennas},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {87-88},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiMLKOCLB09,
+  author    = {Xiaozhou Li and
+               Shivkumar Muthukumar and
+               Changbin Liu and
+               Joseph B. Kopena and
+               Mihai Oprea and
+               Ricardo Correa and
+               Boon Thau Loo and
+               Prithwish Basu},
+  title     = {A demonstration of the {RapidMesh} development toolkit},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {89-90},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZivkovicAM09,
+  author    = {Milan Zivkovic and
+               Dominik Auras and
+               Rudolf Mathar},
+  title     = {Reconfigurable framework for adaptive {OFDM} transmission},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {91-92},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhaoLYLC09,
+  author    = {Ze Zhao and
+               Qiang Liu and
+               Guang-Hua Yang and
+               Victor O. K. Li and
+               Li Cui},
+  title     = {A multi-radio wireless P2P network testbed},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {93-94},
+}
+
+@inproceedings{DBLP:conf/mobicom/JuraschekWGS09,
+  author    = {Felix Juraschek and
+               Heiko Will and
+               Mesut Günes and
+               Jochen H. Schiller},
+  title     = {Friendly clustering: the winning strategy of the maniac challenge 2009},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {95-96},
+}
+
+@inproceedings{DBLP:conf/mobicom/TenninaPGRAS09,
+  author    = {Stefano Tennina and
+               Luigi Pomante and
+               Fabio Graziosi and
+               Marco Di Renzo and
+               Roberto Alesii and
+               Fortunato Santucci},
+  title     = {Distributed localization, tracking, and automatic personal identification: a solution based on a wireless biometric badge},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {97-98},
+}
+
+@inproceedings{DBLP:conf/mobicom/0001HWYC09,
+  author    = {Lei Shu and
+               Manfred Hauswirth and
+               Lei Wang and
+               Zhuxiu Yuan and
+               Yuanfang Chen},
+  title     = {Visualizing simulation and testbed of wireless sensor networks with {NetTopo}},
+  booktitle = mobicom,
+  year      = 2009,
+  pages     = {99-100},
 }

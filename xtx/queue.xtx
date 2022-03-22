@@ -1,5 +1,449 @@
 @include journals-cs
 
+@article{DBLP:journals/queue/Helland21,
+  author    = {Pat Helland},
+  title     = {Fail-fast Is Failing... Fast!: Changes in compute environments are placing pressure on tried-and-true distributed-systems solutions},
+  journal   = queue,
+  volume    = {19},
+  number    = {1},
+  year      = 2021,
+  pages     = {5-15},
+}
+
+@article{DBLP:journals/queue/Frazelle21,
+  author    = {Jessie Frazelle},
+  title     = {A New Era for Mechanical CAD: Time to move forward from decades-old design},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {5-16},
+}
+
+@article{DBLP:journals/queue/Kelly21a,
+  author    = {Terence Kelly},
+  title     = {Steampunk Machine Learning: Victorian contrivances for modern data science},
+  journal   = queue,
+  volume    = {19},
+  number    = {6},
+  year      = 2021,
+  pages     = {5-17},
+}
+
+@article{DBLP:journals/queue/Kelly21,
+  author    = {Terence Kelly},
+  title     = {Crashproofing the Original {NoSQL} {Key-Value} Store: An upgrade for the gdbm database},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {5-18},
+}
+
+@article{DBLP:journals/queue/Frazelle21a,
+  author    = {Jessie Frazelle},
+  title     = {Chip Measuring Contest: The benefits of purpose-built chips},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {5-21},
+}
+
+@article{DBLP:journals/queue/LeqiHL21,
+  author    = {Liu Leqi and
+               Dylan Hadfield-Menell and
+               Zachary C. Lipton},
+  title     = {When Curation Becomes Creation: Algorithms, microcontent, and the vanishing distinction between platforms and creators},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {11-15},
+}
+
+@article{DBLP:journals/queue/Neville-Neil21,
+  author    = {George V. Neville-Neil},
+  title     = {Aversion to Versions: Resolving code-dependency issues},
+  journal   = queue,
+  volume    = {19},
+  number    = {1},
+  year      = 2021,
+  pages     = {16-19},
+}
+
+@article{DBLP:journals/queue/Helland21b,
+  author    = {Pat Helland},
+  title     = {Don't Get Stuck in the "Con" Game: Consistency, convergence, and confluence are not the same! Eventual consistency and eventual convergence aren't the same as confluence, either},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {16-35},
+}
+
+@article{DBLP:journals/queue/Helland21a,
+  author    = {Pat Helland},
+  title     = {ACID: My Personal: How could I miss such a simple thing?},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {17-20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil21d,
+  author    = {George V. Neville-Neil},
+  title     = {Getting Off the Mad Path: Debuggers and assertions},
+  journal   = queue,
+  volume    = {19},
+  number    = {6},
+  year      = 2021,
+  pages     = {18-21},
+}
+
+@article{DBLP:journals/queue/X21,
+  author    = {},
+  title     = {Patent Absurdity: A case when ignorance is the best policy},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {19-22},
+}
+
+@article{DBLP:journals/queue/ForsgrenSMZHB21,
+  author    = {Nicole Forsgren and
+               Margaret-Anne D. Storey and
+               Chandra Shekhar Maddila and
+               Thomas Zimmermann and
+               Brian Houck and
+               Jenna L. Butler},
+  title     = {The {SPACE} of Developer Productivity: There's more to it than you think},
+  journal   = queue,
+  volume    = {19},
+  number    = {1},
+  year      = 2021,
+  pages     = {20-48},
+}
+
+@article{DBLP:journals/queue/Neville-Neil21a,
+  author    = {George V. Neville-Neil},
+  title     = {In Praise of the Disassembler: There's much to be learned from the lower-level details of hardware},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {21-28},
+}
+
+@article{DBLP:journals/queue/Neville-Neil21c,
+  author    = {George V. Neville-Neil},
+  title     = {I Unplugged What?: The lessons here are broader than just a simple "Don't do that."},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {22-25},
+}
+
+@article{DBLP:journals/queue/Kamp21b,
+  author    = {Poul-Henning Kamp},
+  title     = {Surveillance Too Cheap to Meter: Stopping Big Brother would require an expensive overhaul of the entire system},
+  journal   = queue,
+  volume    = {19},
+  number    = {6},
+  year      = 2021,
+  pages     = {22-27},
+}
+
+@article{DBLP:journals/queue/Kamp21a,
+  author    = {Poul-Henning Kamp},
+  title     = {The Software Industry {IS} {STILL} the Problem: The time is (also) way overdue for {IT} professional liability},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {23-28},
+}
+
+@article{DBLP:journals/queue/ShortridgeP21,
+  author    = {Kelly Shortridge and
+               Ryan Petrich},
+  title     = {Lamboozling Attackers: A New Generation of Deception: Software engineering teams can exploit attackers' human nature by building deception environments},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {26-59},
+}
+
+@article{DBLP:journals/queue/KellyGM21,
+  author    = {Terence Kelly and
+               Weiwei Gu and
+               Vladimir Maksimovski},
+  title     = {Schrödinger's Code: Undefined behavior in theory and practice},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {28-44},
+}
+
+@article{DBLP:journals/queue/ChenLKPT21,
+  author    = {Valerie Chen and
+               Jeffrey Li and
+               Joon Sik Kim and
+               Gregory Plumb and
+               Ameet Talwalkar},
+  title     = {Interpretable Machine Learning: Moving from mythos to diagnostics},
+  journal   = queue,
+  volume    = {19},
+  number    = {6},
+  year      = 2021,
+  pages     = {28-56},
+}
+
+@article{DBLP:journals/queue/Thomson21,
+  author    = {Patrick Thomson},
+  title     = {Static Analysis: An Introduction: The fundamental challenge of software engineering is one of complexity},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {29-41},
+}
+
+@article{DBLP:journals/queue/Neville-Neil21b,
+  author    = {George V. Neville-Neil},
+  title     = {Divide and Conquer: The use and limits of bisection},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {37-39},
+}
+
+@article{DBLP:journals/queue/Kamp21,
+  author    = {Poul-Henning Kamp},
+  title     = {What Went Wrong?: Why we need an {IT} accident investigation board},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {40-44},
+}
+
+@article{DBLP:journals/queue/ClemT21,
+  author    = {Timothy Clem and
+               Patrick Thomson},
+  title     = {Static Analysis at GitHub: An experience report},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {42-67},
+}
+
+@article{DBLP:journals/queue/SrinivasanC21,
+  author    = {Ramya Srinivasan and
+               Ajay Chander},
+  title     = {Biases in {AI} Systems: A survey for practitioners},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {45-64},
+}
+
+@article{DBLP:journals/queue/MolinoR21,
+  author    = {Piero Molino and
+               Christopher Ré},
+  title     = {Declarative Machine Learning Systems: The future of machine learning will depend on it being in the hands of the rest of us},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {46-76},
+}
+
+@article{DBLP:journals/queue/RussinovichCFCD21,
+  author    = {Mark Russinovich and
+               Manuel Costa and
+               Cédric Fournet and
+               David Chisnall and
+               Antoine Delignat-Lavaud and
+               Sylvan Clebsch and
+               Kapil Vaswani and
+               Vikas Bhatia},
+  title     = {Toward Confidential Cloud Computing: Extending hardware-enforced cryptographic protection to data while in use},
+  journal   = queue,
+  volume    = {19},
+  number    = {1},
+  year      = 2021,
+  pages     = {49-76},
+}
+
+@article{DBLP:journals/queue/Vachon21,
+  author    = {Phil Vachon},
+  title     = {The Keys to the Kingdom: A deleted private key, a looming deadline, and a last chance to patch a new static root of trust into the bootloader},
+  journal   = queue,
+  volume    = {19},
+  number    = {6},
+  year      = 2021,
+  pages     = {57-65},
+}
+
+@article{DBLP:journals/queue/Videla21,
+  author    = {Alvaro Videla},
+  title     = {Meaning and Context in Computer Programs: Sharing domain knowledge among programmers using the source code as the medium},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {60-68},
+}
+
+@article{DBLP:journals/queue/MashatanH21,
+  author    = {Atefeh Mashatan and
+               Douglas Heintzman},
+  title     = {The Complex Path to Quantum Resistance: Is your organization prepared?},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {65-92},
+}
+
+@article{DBLP:journals/queue/Mattioli21,
+  author    = {Michael Mattioli},
+  title     = {{FPGAs} in Client Compute Hardware: Despite certain challenges, {FPGAs} provide security and performance benefits over {ASICs}},
+  journal   = queue,
+  volume    = {19},
+  number    = {6},
+  year      = 2021,
+  pages     = {66-88},
+}
+
+@article{DBLP:journals/queue/Nadeem21,
+  author    = {Ayman Nadeem},
+  title     = {{Human-Centered} Approach to {Static-Analysis-Driven} Developer Tools: The future depends on good {HCI}},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {68-95},
+}
+
+@article{DBLP:journals/queue/SeltzerOM21,
+  author    = {Margo I. Seltzer and
+               Mike Olson and
+               Kirk McCusick},
+  title     = {A Conversation with Margo Seltzer and Mike Olson: The history of Berkeley {DB}},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {69-86},
+}
+
+@article{DBLP:journals/queue/BlumLA21,
+  author    = {Niklas Blum and
+               Serge Lachapelle and
+               Harald Alvestrand},
+  title     = {{WebRTC} - Realtime Communication for the Open Web Platform: What was once a way to bring audio and video to the web has expanded into more use cases we could ever imagine},
+  journal   = queue,
+  volume    = {19},
+  number    = {1},
+  year      = 2021,
+  pages     = {77-93},
+}
+
+@article{DBLP:journals/queue/GehaniAIZP21,
+  author    = {Ashish Gehani and
+               Raza Ahmad and
+               Hassan Irshad and
+               Jianqiao Zhu and
+               Jignesh M. Patel},
+  title     = {Digging into Big Provenance (with SPADE): A user interface for querying provenance},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {77-106},
+}
+
+@article{DBLP:journals/queue/BonawitzKMR21,
+  author    = {Kallista A. Bonawitz and
+               Peter Kairouz and
+               Brendan McMahan and
+               Daniel Ramage},
+  title     = {Federated Learning and Privacy: Building privacy-preserving systems for machine learning and data science on decentralized data},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {87-114},
+}
+
+@article{DBLP:journals/queue/GardinerTNM21,
+  author    = {Michael Gardiner and
+               Alexander Truskovsky and
+               George V. Neville-Neil and
+               Atefeh Mashatan},
+  title     = {Quantum-safe Trust for Vehicles: The race is already on},
+  journal   = queue,
+  volume    = {19},
+  number    = {2},
+  year      = 2021,
+  pages     = {93-115},
+}
+
+@article{DBLP:journals/queue/Varajao21,
+  author    = {João Varajão},
+  title     = {Software Development in Disruptive Times: Creating a software solution with fast decision capability, agile project management, and extreme low-code technology},
+  journal   = queue,
+  volume    = {19},
+  number    = {1},
+  year      = 2021,
+  pages     = {94-103},
+}
+
+@article{DBLP:journals/queue/TiganovDA21,
+  author    = {Daniil Tiganov and
+               Lisa Nguyen Quang Do and
+               Karim Ali},
+  title     = {Designing {UIs} for Static Analysis Tools: Evaluating tool design guidelines with {SWAN}},
+  journal   = queue,
+  volume    = {19},
+  number    = {4},
+  year      = 2021,
+  pages     = {97-118},
+}
+
+@article{DBLP:journals/queue/Ullrich21,
+  author    = {Torsten Ullrich},
+  title     = {Real-world String Comparison: How to handle Unicode sequences correctly},
+  journal   = queue,
+  volume    = {19},
+  number    = {3},
+  year      = 2021,
+  pages     = {107-116},
+}
+
+@article{DBLP:journals/queue/XinMGM21,
+  author    = {Reynold Xin and
+               Wes McKinney and
+               Alan Gates and
+               Chris McCubbin},
+  title     = {It Takes a Community: The Open-source Challenge},
+  journal   = queue,
+  volume    = {19},
+  number    = {5},
+  year      = 2021,
+  pages     = {115-136},
+}
+
 @article{DBLP:journals/queue/Frazelle20,
   author    = {Jessie Frazelle},
   title     = {Chipping Away at Moore's Law},
@@ -3613,7 +4057,7 @@
 
 @article{DBLP:journals/queue/GreenL11,
   author    = {Robert Green and
-               Henry Ledgard},
+               Henry F. Ledgard},
   title     = {Coding Guidelines: Finding the Art in the Science},
   journal   = queue,
   volume    = {9},

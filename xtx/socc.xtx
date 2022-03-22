@@ -1,5 +1,563 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cloud/RomeroZYK21,
+  author    = {Francisco Romero and
+               Mark Zhao and
+               Neeraja J. Yadwadkar and
+               Christos Kozyrakis},
+  title     = {Llama: A Heterogeneous & Serverless Framework for {Auto-Tuning} Video Analytics Pipelines},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/cloud/YuSSC0W21,
+  author    = {Cody Hao Yu and
+               Xingjian Shi and
+               Haichen Shen and
+               Zhi Chen and
+               Mu Li and
+               Yida Wang},
+  title     = {Lorien: Efficient Deep Learning Workloads Delivery},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {18-32},
+}
+
+@inproceedings{DBLP:conf/cloud/DunlapKMLJSG21,
+  author    = {Lisa Dunlap and
+               Kirthevasan Kandasamy and
+               Ujval Misra and
+               Richard Liaw and
+               Michael I. Jordan and
+               Ion Stoica and
+               Joseph E. Gonzalez},
+  title     = {Elastic Hyperparameter Tuning on the Cloud},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {33-46},
+}
+
+@inproceedings{DBLP:conf/cloud/GuoWSHLJXMG21,
+  author    = {Hanxi Guo and
+               Hao Wang and
+               Tao Song and
+               Yang Hua and
+               Zhangcheng Lv and
+               Xiulang Jin and
+               Zhengui Xue and
+               Ruhui Ma and
+               Haibing Guan},
+  title     = {Siren: Byzantine-robust Federated Learning via Proactive Alarming},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {47-60},
+}
+
+@inproceedings{DBLP:conf/cloud/ToslaliAEZHLPCS21,
+  author    = {Mert Toslali and
+               Emre Ates and
+               Alex Ellis and
+               Zhaoqi Zhang and
+               Darby Huye and
+               Lan Liu and
+               Samantha Puterman and
+               Ayse K. Coskun and
+               Raja R. Sambasivan},
+  title     = {Automating instrumentation choices for performance problems in distributed applications with {VAIF}},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {61-75},
+}
+
+@inproceedings{DBLP:conf/cloud/HuangZ21,
+  author    = {Lexiang Huang and
+               Timothy Zhu},
+  title     = {tprof: Performance profiling via structural aggregation and automated analysis of distributed systems traces},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {76-91},
+}
+
+@inproceedings{DBLP:conf/cloud/AlpernasPRS21,
+  author    = {Kalev Alpernas and
+               Aurojit Panda and
+               Leonid Ryzhyk and
+               Mooly Sagiv},
+  title     = {{Cloud-Scale} Runtime Verification of Serverless Applications},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {92-107},
+}
+
+@inproceedings{DBLP:conf/cloud/DeligiannisGLQ21,
+  author    = {Pantazis Deligiannis and
+               Narayanan Ganapathy and
+               Akash Lal and
+               Shaz Qadeer},
+  title     = {Building Reliable Cloud Services Using Coyote Actors},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {108-121},
+}
+
+@inproceedings{DBLP:conf/cloud/RomeroCGGBYFKB21,
+  author    = {Francisco Romero and
+               Gohar Irfan Chaudhry and
+               Iñigo Goiri and
+               Pragna Gopa and
+               Paul Batum and
+               Neeraja J. Yadwadkar and
+               Rodrigo Fonseca and
+               Christos Kozyrakis and
+               Ricardo Bianchini},
+  title     = {Faa$T: A Transparent {Auto-Scaling} Cache for Serverless Applications},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {122-137},
+}
+
+@inproceedings{DBLP:conf/cloud/SinghviBHSVA21,
+  author    = {Arjun Singhvi and
+               Arjun Balasubramanian and
+               Kevin Houck and
+               Mohammed Danish Shaikh and
+               Shivaram Venkataraman and
+               Aditya Akella},
+  title     = {Atoll: A Scalable {Low-Latency} Serverless Platform},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {138-152},
+}
+
+@inproceedings{DBLP:conf/cloud/BhasiGTMKD21,
+  author    = {Vivek M. Bhasi and
+               Jashwant Raj Gunasekaran and
+               Prashanth Thinakaran and
+               Cyan Subhra Mishra and
+               Mahmut Taylan Kandemir and
+               Chita R. Das},
+  title     = {Kraken: Adaptive Container Provisioning for Deploying Dynamic {DAGs} in Serverless Platforms},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {153-167},
+}
+
+@inproceedings{DBLP:conf/cloud/MittalQBLLK0HR021,
+  author    = {Viyom Mittal and
+               Shixiong Qi and
+               Ratnadeep Bhattacharya and
+               Xiaosu Lyu and
+               Junfeng Li and
+               Sameer G. Kulkarni and
+               Dan Li and
+               Jinho Hwang and
+               K. K. Ramakrishnan and
+               Timothy Wood},
+  title     = {Mu: An Efficient, Fair and Responsive Serverless Framework for {Resource-Constrained} Edge Clouds},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {168-181},
+}
+
+@inproceedings{DBLP:conf/cloud/SaurezGDR21,
+  author    = {Enrique Saurez and
+               Harshit Gupta and
+               Alexandros Daglis and
+               Umakishore Ramachandran},
+  title     = {OneEdge: An Efficient Control Plane for {Geo-Distributed} Infrastructures},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {182-196},
+}
+
+@inproceedings{DBLP:conf/cloud/NoorSN21,
+  author    = {Joseph Noor and
+               Mani B. Srivastava and
+               Ravi Netravali},
+  title     = {Portkey: Adaptive {Key-Value} Placement over Dynamic Edge Networks},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {197-213},
+}
+
+@inproceedings{DBLP:conf/cloud/MaoHTWM21,
+  author    = {Yancan Mao and
+               Yuan Huang and
+               Runxin Tian and
+               Xin Wang and
+               Richard T. B. Ma},
+  title     = {Trisk: {Task-Centric} Data Stream Reconfiguration},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {214-228},
+}
+
+@inproceedings{DBLP:conf/cloud/AmbatiB0S21,
+  author    = {Pradeep Ambati and
+               Noman Bashir and
+               David E. Irwin and
+               Prashant J. Shenoy},
+  title     = {Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {229-242},
+}
+
+@inproceedings{DBLP:conf/cloud/LiuW0XCC21,
+  author    = {Li Liu and
+               Haoliang Wang and
+               An Wang and
+               Mengbai Xiao and
+               Yue Cheng and
+               Songqing Chen},
+  title     = {Mind the Gap: Broken Promises of {CPU} Reservations in Containerized Multi-tenant Clouds},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {243-257},
+}
+
+@inproceedings{DBLP:conf/cloud/LiWWYL21,
+  author    = {Suyi Li and
+               Luping Wang and
+               Wei Wang and
+               Yinghao Yu and
+               Bo Li},
+  title     = {George: Learning to Place {Long-Lived} Containers in Large Clusters with Operation Constraints},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {258-272},
+}
+
+@inproceedings{DBLP:conf/cloud/LecuyerKNJ0S021,
+  author    = {Mathias Lécuyer and
+               Sang Hoon Kim and
+               Mihir Nanavati and
+               Junchen Jiang and
+               Siddhartha Sen and
+               Aleksandrs Slivkins and
+               Amit Sharma},
+  title     = {Sayer: Using Implicit Feedback to Optimize System Policies},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {273-288},
+}
+
+@inproceedings{DBLP:conf/cloud/Toslali0OHC21,
+  author    = {Mert Toslali and
+               Srinivasan Parthasarathy and
+               Fábio Oliveira and
+               Hai Huang and
+               Ayse K. Coskun},
+  title     = {Iter8: Online Experimentation in the Cloud},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {289-304},
+}
+
+@inproceedings{DBLP:conf/cloud/XanthakisSBPB21,
+  author    = {Giorgos Xanthakis and
+               Giorgos Saloustros and
+               Nikos Batsaras and
+               Anastasios Papagiannis and
+               Angelos Bilas},
+  title     = {Parallax: Hybrid {Key-Value} Placement in {LSM-based} {Key-Value} Stores},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {305-318},
+}
+
+@inproceedings{DBLP:conf/cloud/ShahradEB21,
+  author    = {Mohammad Shahrad and
+               Sameh Elnikety and
+               Ricardo Bianchini},
+  title     = {Provisioning Differentiated {Last-Level} Cache Allocations to {VMs} in Public Clouds},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {319-334},
+}
+
+@inproceedings{DBLP:conf/cloud/DesuPSVKGS21,
+  author    = {Anuroop Desu and
+               Udaya Puvvadi and
+               Tyler Stachecki and
+               Sagar Vishwakarma and
+               Sadegh Khalili and
+               Kanad Ghose and
+               Bahgat G. Sammakia},
+  title     = {{Latency-Aware} Dynamic Server and Cooling Capacity Provisioner for Data Centers},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {335-349},
+}
+
+@inproceedings{DBLP:conf/cloud/Bashir0H0SSSW21,
+  author    = {Noman Bashir and
+               Tian Guo and
+               Mohammad H. Hajiesmaili and
+               David E. Irwin and
+               Prashant J. Shenoy and
+               Ramesh K. Sitaraman and
+               Abel Souza and
+               Adam Wierman},
+  title     = {Enabling Sustainable Clouds: The Case for Virtualizing the Energy System},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {350-358},
+}
+
+@inproceedings{DBLP:conf/cloud/GulzarK21,
+  author    = {Muhammad Ali Gulzar and
+               Miryung Kim},
+  title     = {OptDebug: {Fault-Inducing} Operation Isolation for Dataflow Applications},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {359-372},
+}
+
+@inproceedings{DBLP:conf/cloud/GogIA21,
+  author    = {Ionel Gog and
+               Michael Isard and
+               Martín Abadi},
+  title     = {Falkirk Wheel: Rollback Recovery for Dataflow Systems},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {373-387},
+}
+
+@inproceedings{DBLP:conf/cloud/MeiklejohnESMP21,
+  author    = {Christopher S. Meiklejohn and
+               Andrea Estrada and
+               Yiwen Song and
+               Heather Miller and
+               Rohan Padhye},
+  title     = {{Service-Level} Fault Injection Testing},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {388-402},
+}
+
+@inproceedings{DBLP:conf/cloud/SunejaZZLM21,
+  author    = {Sahil Suneja and
+               Yunhui Zheng and
+               Yufan Zhuang and
+               Jim Alain Laredo and
+               Alessandro Morari},
+  title     = {Towards Reliable {AI} for Source Code Understanding},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {403-411},
+}
+
+@inproceedings{DBLP:conf/cloud/LuoXLYXZDH021,
+  author    = {Shutian Luo and
+               Huanle Xu and
+               Chengzhi Lu and
+               Kejiang Ye and
+               Guoyao Xu and
+               Liping Zhang and
+               Yu Ding and
+               Jian He and
+               Chengzhong Xu},
+  title     = {Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {412-426},
+}
+
+@inproceedings{DBLP:conf/cloud/BaarziK21,
+  author    = {Ataollah Fatahi Baarzi and
+               George Kesidis},
+  title     = {SHOWAR: {Right-Sizing} And Efficient Scheduling of Microservices},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {427-441},
+}
+
+@inproceedings{DBLP:conf/cloud/MirhosseiniEW21,
+  author    = {Amirhossein Mirhosseini and
+               Sameh Elnikety and
+               Thomas F. Wenisch},
+  title     = {Parslo: A Gradient Descent-based Approach for Near-optimal Partial {SLO} Allotment in Microservices},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {442-457},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangFMBA21,
+  author    = {Jun Zhang and
+               Robert Ferydouni and
+               Aldrin Montana and
+               Daniel Bittman and
+               Peter Alvaro},
+  title     = {3MileBeach: A Tracer with Teeth},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {458-472},
+}
+
+@inproceedings{DBLP:conf/cloud/RanjanSKE21,
+  author    = {Nalin Ranjan and
+               Zechao Shang and
+               Sanjay Krishnan and
+               Aaron J. Elmore},
+  title     = {Version Reconciliation for Collaborative Databases},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {473-488},
+}
+
+@inproceedings{DBLP:conf/cloud/ThakkarN21,
+  author    = {Parth Thakkar and
+               Senthilnathan Natarajan},
+  title     = {Scaling Blockchains Using Pipelined Execution and Sparse Peers},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {489-502},
+}
+
+@inproceedings{DBLP:conf/cloud/Wu0X21,
+  author    = {Jingqi Wu and
+               Rong Chen and
+               Yubin Xia},
+  title     = {Fast and Accurate Optimizer for Query Processing over Knowledge Graphs},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {503-517},
+}
+
+@inproceedings{DBLP:conf/cloud/LimSHP21,
+  author    = {Soo-Yee Lim and
+               Bogdan Stelea and
+               Xueyuan Han and
+               Thomas F. J.-M. Pasquier},
+  title     = {Secure Namespaced Kernel Audit for Containers},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {518-532},
+}
+
+@inproceedings{DBLP:conf/cloud/LiZGC0ZG21,
+  author    = {Yuepeng Li and
+               Deze Zeng and
+               Lin Gu and
+               Quan Chen and
+               Song Guo and
+               Albert Y. Zomaya and
+               Minyi Guo},
+  title     = {Lasagna: Accelerating Secure Deep Learning Inference in {SGX-enabled} Edge Cloud},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {533-545},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangXYP0CAA021,
+  author    = {Chengliang Zhang and
+               Junzhe Xia and
+               Baichen Yang and
+               Huancheng Puyang and
+               Wei Wang and
+               Ruichuan Chen and
+               Istemi Ekin Akkus and
+               Paarijaat Aditya and
+               Feng Yan},
+  title     = {Citadel: Protecting Data Privacy and Model Confidentiality for Collaborative Learning},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {546-561},
+}
+
+@inproceedings{DBLP:conf/cloud/MvondoBTM21,
+  author    = {Djob Mvondo and
+               Antonio Barbalace and
+               Alain Tchana and
+               Gilles Muller},
+  title     = {Tell me when you are sleepy and what may wake you up!},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {562-569},
+}
+
+@inproceedings{DBLP:conf/cloud/SureshG21,
+  author    = {Amoghavarsha Suresh and
+               Anshul Gandhi},
+  title     = {ServerMore: Opportunistic Execution of Serverless Functions in the Cloud},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {570-584},
+}
+
+@inproceedings{DBLP:conf/cloud/DawBK21,
+  author    = {Nilanjan Daw and
+               Umesh Bellur and
+               Purushottam Kulkarni},
+  title     = {Speedo: Fast dispatch and orchestration of serverless workflows},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {585-599},
+}
+
+@inproceedings{DBLP:conf/cloud/BaarziKJS21,
+  author    = {Ataollah Fatahi Baarzi and
+               George Kesidis and
+               Carlee Joe-Wong and
+               Mohammad Shahrad},
+  title     = {On Merits and Viability of {Multi-Cloud} Serverless},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {600-608},
+}
+
+@inproceedings{DBLP:conf/cloud/GaoYS0021,
+  author    = {Wei Gao and
+               Zhisheng Ye and
+               Peng Sun and
+               Yonggang Wen and
+               Tianwei Zhang},
+  title     = {Chronus: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {609-623},
+}
+
+@inproceedings{DBLP:conf/cloud/HuGG21,
+  author    = {Yitao Hu and
+               Rajrup Ghosh and
+               Ramesh Govindan},
+  title     = {Scrooge: A {Cost-Effective} Deep Learning Inference System},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {624-638},
+}
+
+@inproceedings{DBLP:conf/cloud/WangYYWLSHZ21,
+  author    = {Luping Wang and
+               Lingyun Yang and
+               Yinghao Yu and
+               Wei Wang and
+               Bo Li and
+               Xianchao Sun and
+               Jian He and
+               Liping Zhang},
+  title     = {Morphling: Fast, {Near-Optimal} {Auto-Configuration} for {Cloud-Native} Model Serving},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {639-653},
+}
+
+@inproceedings{DBLP:conf/cloud/ThakerARNLZ21,
+  author    = {Pratiksha Thaker and
+               Hudson Ayers and
+               Deepti Raghavan and
+               Ning Niu and
+               Philip Alexander Levis and
+               Matei Zaharia},
+  title     = {Clamor: Extending Functional Cluster Computing Frameworks with {Fine-Grained} Remote Memory Access},
+  booktitle = socc,
+  year      = 2021,
+  pages     = {654-669},
+}
+
 @inproceedings{DBLP:conf/cloud/CarverZWAWC20,
   author    = {Benjamin Carver and
                Jingyuan Zhang and
@@ -431,7 +989,7 @@
 }
 
 @inproceedings{DBLP:conf/cloud/CarreiraFTZK19,
-  author    = {Joao Carreira and
+  author    = {João Carreira and
                Pedro Fonseca and
                Alexey Tumanov and
                Andrew Zhang and
@@ -1192,7 +1750,7 @@
   author    = {Hobin Yoon and
                Juncheng Yang and
                Sveinn Fannar Kristjansson and
-               Steinn E. Sigurdarson and
+               Steinn E. Sigurðarson and
                Ymir Vigfusson and
                Ada Gavrilovska},
   title     = {Mutant: Balancing Storage Cost and Latency in {LSM-Tree} Data Stores},
@@ -1364,7 +1922,7 @@
 }
 
 @inproceedings{DBLP:conf/cloud/WhittakerTAH18,
-  author    = {Michael Whittaker and
+  author    = {Michael J. Whittaker and
                Cristina Teodoropol and
                Peter Alvaro and
                Joseph M. Hellerstein},
@@ -1452,7 +2010,7 @@
 }
 
 @inproceedings{DBLP:conf/cloud/Marroquin0MA18,
-  author    = {Renato Marroquin and
+  author    = {Renato Marroquín and
                Ingo Müller and
                Darko Makreshanski and
                Gustavo Alonso},
@@ -1539,7 +2097,7 @@
 }
 
 @inproceedings{DBLP:conf/cloud/AktasWYS18,
-  author    = {Mehmet F. Aktas and
+  author    = {Mehmet Fatih Aktas and
                Chen Wang and
                Alaa Youssef and
                Malgorzata Gosia Steinder},
@@ -1884,7 +2442,7 @@
                Da Yan and
                James Cheng and
                Boon Thau Loo and
-               Purushotham Bangalore},
+               Purushotham V. Bangalore},
   title     = {Architectural implications on the performance and cost of graph analytics systems},
   booktitle = socc,
   year      = 2017,
@@ -2352,7 +2910,7 @@
 
 @inproceedings{DBLP:conf/cloud/FanGMM17,
   author    = {Hua Fan and
-               Wojciech Golab and
+               Wojciech M. Golab and
                Charles B. Morrey III},
   title     = {ALOHA-KV: high performance read-only and write-only distributed transactions},
   booktitle = socc,
@@ -5360,7 +5918,7 @@
 @inproceedings{DBLP:conf/cloud/LeibertMLH11,
   author    = {Florian Leibert and
                Jake Mannix and
-               Jimmy J. Lin and
+               Jimmy Lin and
                Babak Hamadani},
   title     = {Automatic management of partitioned, replicated search services},
   booktitle = socc,

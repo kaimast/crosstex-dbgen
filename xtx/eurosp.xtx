@@ -1,5 +1,1001 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosp/BeckerleCF21,
+  author    = {Matthias Beckerle and
+               Argyro Chatzopoulou and
+               Simone Fischer-Hübner},
+  title     = {Towards Cybersecurity {MOOC} Certification},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/eurosp/VotipkaPRTM21,
+  author    = {Daniel Votipka and
+               Mary Nicole Dugay Punzalan and
+               Seth M. Rabin and
+               Yla R. Tausczik and
+               Michelle L. Mazurek},
+  title     = {An Investigation of Online Reverse Engineering Community Discussions in the Context of Ghidra},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {1-20},
+}
+
+@inproceedings{DBLP:conf/eurosp/DupontGMPMPM21,
+  author    = {Sébastien Dupont and
+               Guillaume Ginis and
+               Mirko Malacario and
+               Claudio Porretti and
+               Nicolò Maunero and
+               Christophe Ponsard and
+               Philippe Massonet},
+  title     = {Incremental Common Criteria Certification Processes using {DevSecOps} Practices},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {12-23},
+}
+
+@inproceedings{DBLP:conf/eurosp/PrakashYTBJSBZQ21,
+  author    = {Jay Prakash and
+               Clarice Chua Qing Yu and
+               Tanvi Ravindra Thombre and
+               Andrei Bytes and
+               Mohammed Jubur and
+               Nitesh Saxena and
+               Lucienne Blessing and
+               Jianying Zhou and
+               Tony Q. S. Quek},
+  title     = {Countering Concurrent Login Attacks in "Just Tap" Push-based Authentication: A Redesign and Usability Evaluations},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {21-36},
+}
+
+@inproceedings{DBLP:conf/eurosp/LekiesEM21,
+  author    = {Sebastian Lekies and
+               Damien Engels and
+               Metodi Mitkov},
+  title     = {JSONPS: Secure an inherently insecure practice with this one weird trick!},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {24-31},
+}
+
+@inproceedings{DBLP:conf/eurosp/SjostenHS21,
+  author    = {Alexander Sjösten and
+               Daniel Hedin and
+               Andrei Sabelfeld},
+  title     = {EssentialFP: Exposing the Essence of Browser Fingerprinting},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {32-48},
+}
+
+@inproceedings{DBLP:conf/eurosp/HeZMSFHU21,
+  author    = {Weijia He and
+               Valerie Zhao and
+               Olivia Morkved and
+               Sabeeka Siddiqui and
+               Earlence Fernandes and
+               Josiah Hester and
+               Blase Ur},
+  title     = {SoK: Context Sensing for Access Control in the Adversarial Home {IoT}},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {37-53},
+}
+
+@inproceedings{DBLP:conf/eurosp/CompagnaJKKS21,
+  author    = {Luca Compagna and
+               Hugo Jonker and
+               Johannes Krochewski and
+               Benjamin Krumnow and
+               Merve Sahin},
+  title     = {A preliminary study on the adoption and effectiveness of {SameSite} cookies as a {CSRF} defence},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {49-59},
+}
+
+@inproceedings{DBLP:conf/eurosp/DowlingH21,
+  author    = {Benjamin Dowling and
+               Britta Hale},
+  title     = {Secure Messaging Authentication against Active {Man-in-the-Middle} Attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {54-70},
+}
+
+@inproceedings{DBLP:conf/eurosp/WangGK21,
+  author    = {Pei Wang and
+               Bjarki Ágúst Guðmundsson and
+               Krzysztof Kotowicz},
+  title     = {Adopting Trusted Types in {ProductionWeb} Frameworks to Prevent {DOM-Based} {Cross-Site} Scripting: A Case Study},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {60-73},
+}
+
+@inproceedings{DBLP:conf/eurosp/ShresthaSSP21,
+  author    = {Prakash Shrestha and
+               Nitesh Saxena and
+               Diksha Shukla and
+               Vir V. Phoha},
+  title     = {Press @$@$ to Login: Strong Wearable Second Factor Authentication via Short Memorywise Effortless Typing Gestures},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {71-87},
+}
+
+@inproceedings{DBLP:conf/eurosp/EnomotoK21,
+  author    = {Shuhei Enomoto and
+               Hiroki Kuzuno},
+  title     = {FlushBlocker: Lightweight mitigating mechanism for {CPU} cache flush instruction based attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {74-79},
+}
+
+@inproceedings{DBLP:conf/eurosp/VercammenSD21,
+  author    = {Thijs Vercammen and
+               Thomas Van Strydonck and
+               Dominique Devriese},
+  title     = {Borrowed Capabilities: Flexibly Enforcing Revocation on a Capability Architecture},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {80-85},
+}
+
+@inproceedings{DBLP:conf/eurosp/BonRTH21,
+  author    = {Camille Le Bon and
+               Erven Rohou and
+               Frédéric Tronel and
+               Guillaume Hiet},
+  title     = {DAMAS: {Control-Data} Isolation at Runtime through Dynamic Binary Modification},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {86-95},
+}
+
+@inproceedings{DBLP:conf/eurosp/GalindoLOW21,
+  author    = {David Galindo and
+               Jia Liu and
+               Mihai Ordean and
+               Jin-Mann Wong},
+  title     = {Fully Distributed Verifiable Random Functions and their Application to Decentralised Random Beacons},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {88-102},
+}
+
+@inproceedings{DBLP:conf/eurosp/ForcioliDMBBMNF21,
+  author    = {Quentin Forcioli and
+               Jean-Luc Danger and
+               Clémentine Maurice and
+               Lilian Bossuet and
+               Florent Bruguier and
+               Maria Mushtaq and
+               David Novo and
+               Loïc France and
+               Pascal Benoit and
+               Sylvain Guilley and
+               Thomas Perianin},
+  title     = {Virtual Platform to Analyze the Security of a System on Chip at Microarchitectural Level},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {96-102},
+}
+
+@inproceedings{DBLP:conf/eurosp/SoikkeliPL21,
+  author    = {Jukka Soikkeli and
+               Cora Perner and
+               Emil C. Lupu},
+  title     = {Analyzing the Viability of {UAV} Missions Facing Cyber Attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {103-112},
+}
+
+@inproceedings{DBLP:conf/eurosp/TorresIGS21,
+  author    = {Christof Ferreira Torres and
+               Antonio Ken Iannillo and
+               Arthur Gervais and
+               Radu State},
+  title     = {ConFuzzius: A Data {Dependency-Aware} Hybrid Fuzzer for Smart Contracts},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {103-119},
+}
+
+@inproceedings{DBLP:conf/eurosp/MaurerGGGTSR21,
+  author    = {Nils Mäurer and
+               Thomas Gräupl and
+               Christoph Gentsch and
+               Tobias Guggemos and
+               Marcel Tiepelt and
+               Corinna Schmitt and
+               Gabi Dreo Rodosek},
+  title     = {A Secure {Cell-Attachment} Procedure of {LDACS}},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {113-122},
+}
+
+@inproceedings{DBLP:conf/eurosp/TekinerAUKS21,
+  author    = {Ege Tekiner and
+               Abbas Acar and
+               A. Selcuk Uluagac and
+               Engin Kirda and
+               Ali Aydin Selçuk},
+  title     = {SoK: Cryptojacking Malware},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {120-139},
+}
+
+@inproceedings{DBLP:conf/eurosp/MarksteinerBWL21,
+  author    = {Stefan Marksteiner and
+               Slava Bronfman and
+               Markus Wolf and
+               Eddie Lazebnik},
+  title     = {Using Cyber Digital Twins for Automated Automotive Cybersecurity Testing},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {123-128},
+}
+
+@inproceedings{DBLP:conf/eurosp/MarksteinerP21,
+  author    = {Stefan Marksteiner and
+               Peter Priller},
+  title     = {A {Model-Driven} Methodology for Automotive Cybersecurity Test Case Generation},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {129-135},
+}
+
+@inproceedings{DBLP:conf/eurosp/BellaBVT21,
+  author    = {Giampaolo Bella and
+               Pietro Biondi and
+               Marco De Vincenzi and
+               Giuseppe Tudisco},
+  title     = {Privacy and modern cars through a dual lens},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {136-143},
+}
+
+@inproceedings{DBLP:conf/eurosp/BreuerGM21,
+  author    = {Florian Breuer and
+               Vipul Goyal and
+               Giulio Malavolta},
+  title     = {Cryptocurrencies with Security Policies and {Two-Factor} Authentication},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {140-158},
+}
+
+@inproceedings{DBLP:conf/eurosp/SebaghLGVS21,
+  author    = {Lonie Sebagh and
+               Jonathan Lusthaus and
+               Edoardo Gallo and
+               Federico Varese and
+               Sean Sirur},
+  title     = {Exploring Cybercrime Disruption through Laboratory Experiments},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {144-148},
+}
+
+@inproceedings{DBLP:conf/eurosp/BurdaAZ21,
+  author    = {Pavlo Burda and
+               Luca Allodi and
+               Nicola Zannone},
+  title     = {Dissecting Social Engineering Attacks Through the Lenses of Cognition},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {149-160},
+}
+
+@inproceedings{DBLP:conf/eurosp/AghakhaniMWKV21,
+  author    = {Hojjat Aghakhani and
+               Dongyu Meng and
+               Yu-Xiang Wang and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Bullseye Polytope: A Scalable {Clean-Label} Poisoning Attack with Improved Transferability},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {159-178},
+}
+
+@inproceedings{DBLP:conf/eurosp/PorceddaW21,
+  author    = {Maria Grazia Porcedda and
+               David S. Wall},
+  title     = {Modelling the Cybercrime Cascade Effect in Data Crime},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {161-177},
+}
+
+@inproceedings{DBLP:conf/eurosp/MeijaardMA21,
+  author    = {Yoram J. Meijaard and
+               Peter-Paul Meiler and
+               Luca Allodi},
+  title     = {Modelling Disruptive {APTs} targeting Critical Infrastructure using Military Theory},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {178-190},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZhangZJW21,
+  author    = {Xinyang Zhang and
+               Zheng Zhang and
+               Shouling Ji and
+               Ting Wang},
+  title     = {Trojaning Language Models for Fun and Profit},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {179-197},
+}
+
+@inproceedings{DBLP:conf/eurosp/SiuCH21,
+  author    = {Gilberto Atondo Siu and
+               Ben Collier and
+               Alice Hutchings},
+  title     = {Follow the money: The relationship between currency exchange and illicit behaviour in an underground forum},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {191-201},
+}
+
+@inproceedings{DBLP:conf/eurosp/PajolaC21,
+  author    = {Luca Pajola and
+               Mauro Conti},
+  title     = {Fall of Giants: How popular text-based {MLaaS} fall against a simple evasion attack},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {198-211},
+}
+
+@inproceedings{DBLP:conf/eurosp/BooijVFW21,
+  author    = {Tim M. Booij and
+               Thijmen Verburgh and
+               Federico Falconieri and
+               Rolf van Wegberg},
+  title     = {Get Rich or Keep Tryin' Trajectories in dark net market vendor careers},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {202-212},
+}
+
+@inproceedings{DBLP:conf/eurosp/ShumailovZBPMA21,
+  author    = {Ilia Shumailov and
+               Yiren Zhao and
+               Daniel Bates and
+               Nicolas Papernot and
+               Robert D. Mullins and
+               Ross Anderson},
+  title     = {Sponge Examples: {Energy-Latency} Attacks on Neural Networks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {212-231},
+}
+
+@inproceedings{DBLP:conf/eurosp/SemberaPGE21,
+  author    = {Vít Sembera and
+               Masarah Paquet-Clouston and
+               Sebastián García and
+               María José Erquiaga},
+  title     = {Cybercrime Specialization: An Exposé of a Malicious Android {Obfuscation-as-a-Service}},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {213-226},
+}
+
+@inproceedings{DBLP:conf/eurosp/UrsaniPECR21,
+  author    = {Ziauddin Ursani and
+               Claudia Peersman and
+               Matthew Edwards and
+               Chao Chen and
+               Awais Rashid},
+  title     = {The Impact of Adverse Events in Darknet Markets: an Anomaly Detection Approach},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {227-238},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZhaoACABKWD21,
+  author    = {Benjamin Zi Hao Zhao and
+               Aviral Agrawal and
+               Catisha Coburn and
+               Hassan Jameel Asghar and
+               Raghav Bhaskar and
+               Mohamed Ali Kâafar and
+               Darren Webb and
+               Peter Dickinson},
+  title     = {On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {232-251},
+}
+
+@inproceedings{DBLP:conf/eurosp/RobertsMS21,
+  author    = {Andrew Roberts and
+               Olaf Maennel and
+               Nikita Snetkov},
+  title     = {Cybersecurity Test Range for Autonomous Vehicle Shuttles},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {239-248},
+}
+
+@inproceedings{DBLP:conf/eurosp/WenYK21,
+  author    = {Shao-Fang Wen and
+               Muhammad Mudassar Yamin and
+               Basel Katt},
+  title     = {{Ontology-Based} Scenario Modeling for Cyber Security Exercise},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {249-258},
+}
+
+@inproceedings{DBLP:conf/eurosp/CsikorSKD21,
+  author    = {Levente Csikor and
+               Himanshu Singh and
+               Min Suk Kang and
+               Dinil Mon Divakaran},
+  title     = {Privacy of DNS-over-HTTPS: Requiem for a Dream?},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {252-271},
+}
+
+@inproceedings{DBLP:conf/eurosp/MasesMTR21,
+  author    = {Sten Mäses and
+               Kaie Maennel and
+               Mascia Toussaint and
+               Veronica Rosa},
+  title     = {Success Factors for Designing a Cybersecurity Exercise on the Example of Incident Response},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {259-268},
+}
+
+@inproceedings{DBLP:conf/eurosp/Pesch21,
+  author    = {Paulina Jo Pesch},
+  title     = {Drivers and Obstacles for the Adoption of Consent Management Solutions by {Ad-Tech} Providers},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {269-277},
+}
+
+@inproceedings{DBLP:conf/eurosp/BoyenHM21,
+  author    = {Xavier Boyen and
+               Thomas Haines and
+               Johannes Müller},
+  title     = {Epoque: Practical {End-to-End} Verifiable {Post-Quantum-Secure} {E-Voting}},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {272-291},
+}
+
+@inproceedings{DBLP:conf/eurosp/Jesus21,
+  author    = {Vitor Jesus},
+  title     = {Pragmatic Online Privacy: the {SftE} Approach},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {278-282},
+}
+
+@inproceedings{DBLP:conf/eurosp/BonattiSL21,
+  author    = {Piero A. Bonatti and
+               Luigi Sauro and
+               Jonathan Langens},
+  title     = {Representing Consent and Policies for Compliance},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {283-291},
+}
+
+@inproceedings{DBLP:conf/eurosp/BotesR21,
+  author    = {Maria Wilhelmina Botes and
+               Arianna Rossi},
+  title     = {Visualisation Techniques for Consent: Finding Common Ground in Comic Art with Indigenous Populations},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {292-297},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChangS21,
+  author    = {Hongyan Chang and
+               Reza Shokri},
+  title     = {On the Privacy Risks of Algorithmic Fairness},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {292-303},
+}
+
+@inproceedings{DBLP:conf/eurosp/EstevesPR21,
+  author    = {Beatriz Esteves and
+               Harshvardhan J. Pandit and
+               Víctor Rodríguez-Doncel},
+  title     = {{ODRL} Profile for Expressing Consent through Granular Access Control Policies in Solid},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {298-306},
+}
+
+@inproceedings{DBLP:conf/eurosp/KerkoucheACG21,
+  author    = {Raouf Kerkouche and
+               Gergely Ács and
+               Claude Castelluccia and
+               Pierre Genevès},
+  title     = {Compression Boosts Differentially Private Federated Learning},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {304-318},
+}
+
+@inproceedings{DBLP:conf/eurosp/HumanK21,
+  author    = {Soheil Human and
+               Mandan Kazzazi},
+  title     = {Contextuality and Intersectionality of E-Consent: A Human-centric Reflection on Digital Consenting in the Emerging Genetic Data Markets},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {307-311},
+}
+
+@inproceedings{DBLP:conf/eurosp/GrunewaldWPBU21,
+  author    = {Elias Grünewald and
+               Paul Wille and
+               Frank Pallas and
+               Maria C. Borges and
+               Max-Robert Ulbricht},
+  title     = {TIRA: An {OpenAPI} Extension and Toolbox for {GDPR} Transparency in {RESTful} Architectures},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {312-319},
+}
+
+@inproceedings{DBLP:conf/eurosp/SchnitzlerPDK21,
+  author    = {Theodor Schnitzler and
+               Christina Pöpper and
+               Markus Dürmuth and
+               Katharina Kohls},
+  title     = {We Built This Circuit: Exploring Threat Vectors in Circuit Establishment in Tor},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {319-336},
+}
+
+@inproceedings{DBLP:conf/eurosp/WieflingTI21,
+  author    = {Stephan Wiefling and
+               Jan Tolsdorf and
+               Luigi Lo Iacono},
+  title     = {Privacy Considerations for {Risk-Based} Authentication Systems},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {320-327},
+}
+
+@inproceedings{DBLP:conf/eurosp/MehnerVT21,
+  author    = {Luise Mehner and
+               Saskia Nuñez von Voigt and
+               Florian Tschorsch},
+  title     = {Towards Explaining Epsilon: A {Worst-Case} Study of Differential Privacy Risks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {328-331},
+}
+
+@inproceedings{DBLP:conf/eurosp/PedrozaMMM21,
+  author    = {Gabriel Pedroza and
+               Victor Muntés-Mulero and
+               Yod Samuel Martín and
+               Guillaume Mockly},
+  title     = {A Model-based Approach to Realize Privacy and Data Protection by Design},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {332-339},
+}
+
+@inproceedings{DBLP:conf/eurosp/NoroozianRLKEG21,
+  author    = {Arman Noroozian and
+               Elsa Rodríguez and
+               Elmer Lastdrager and
+               Takahiro Kasama and
+               Michel van Eeten and
+               Carlos Gañán},
+  title     = {Can {ISPs} Help Mitigate {IoT} Malware? A Longitudinal Study of Broadband {ISP} Security Efforts},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {337-352},
+}
+
+@inproceedings{DBLP:conf/eurosp/CronkS21,
+  author    = {R. Jason Cronk and
+               Stuart S. Shapiro},
+  title     = {Quantitative Privacy Risk Analysis},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {340-350},
+}
+
+@inproceedings{DBLP:conf/eurosp/SionLJ21,
+  author    = {Laurens Sion and
+               Dimitri Van Landuyt and
+               Wouter Joosen},
+  title     = {An Overview of Runtime Data Protection Enforcement Approaches},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {351-358},
+}
+
+@inproceedings{DBLP:conf/eurosp/GuptaPS21,
+  author    = {Abhinav Gupta and
+               Aditi Prakash and
+               Nolen Scaife},
+  title     = {Prognosis Negative: Evaluating {Real-Time} Behavioral Ransomware Detectors},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {353-368},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZeelandP21,
+  author    = {Ine van Zeeland and
+               Jo Pierson},
+  title     = {How Standards {Co-Shape} Personal Data Protection in the European Banking Sector},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {359-366},
+}
+
+@inproceedings{DBLP:conf/eurosp/WeintraubN21,
+  author    = {Ben Weintraub and
+               Cristina Nita-Rotaru},
+  title     = {Structural Attacks on Local Routing in Payment Channel Networks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {367-379},
+}
+
+@inproceedings{DBLP:conf/eurosp/RajputSTM21,
+  author    = {Prashant Hari Narayan Rajput and
+               Esha Sarkar and
+               Dimitrios Tychalas and
+               Michail Maniatakos},
+  title     = {Remote {Non-Intrusive} Malware Detection for {PLCs} based on Chain of Trust Rooted in Hardware},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {369-384},
+}
+
+@inproceedings{DBLP:conf/eurosp/WangWLHH21,
+  author    = {Shih-Hong Wang and
+               Chia-Chien Wu and
+               Yu-Chuan Liang and
+               Li-Hsun Hsieh and
+               Hsu-Chun Hsiao},
+  title     = {ProMutator: Detecting Vulnerable Price Oracles in {DeFi} by Mutated Transactions},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {380-385},
+}
+
+@inproceedings{DBLP:conf/eurosp/SunMLC21,
+  author    = {Ruimin Sun and
+               Alejandro Mera and
+               Long Lu and
+               David R. Choffnes},
+  title     = {SoK: Attacks on Industrial Control Logic and Formal {Verification-Based} Defenses},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {385-402},
+}
+
+@inproceedings{DBLP:conf/eurosp/KanjalkarZGM21,
+  author    = {Sanket Kanjalkar and
+               Ye Zhang and
+               Shreyas Gandlur and
+               Andrew Miller},
+  title     = {Publicly Auditable {MPC-as-a-Service} with succinct verification and universal setup},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {386-411},
+}
+
+@inproceedings{DBLP:conf/eurosp/ElmasOOA21,
+  author    = {Tugrulcan Elmas and
+               Rebekah Overdorf and
+               Ahmed Furkan Özkalay and
+               Karl Aberer},
+  title     = {Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {403-422},
+}
+
+@inproceedings{DBLP:conf/eurosp/StiehleDT21,
+  author    = {Fabian Stiehle and
+               Erik Daniel and
+               Florian Tschorsch},
+  title     = {Modeling the Block Verification Time of Zcash},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {412-416},
+}
+
+@inproceedings{DBLP:conf/eurosp/KruppR21,
+  author    = {Johannes Krupp and
+               Christian Rossow},
+  title     = {BGPeek-a-Boo: Active {BGP-based} Traceback for Amplification {DDoS} Attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {423-439},
+}
+
+@inproceedings{DBLP:conf/eurosp/VermeerWCNCEFGM21,
+  author    = {Mathew Vermeer and
+               Jonathan West and
+               Alejandro Cuevas and
+               Shuonan Niu and
+               Nicolas Christin and
+               Michel van Eeten and
+               Tobias Fiebig and
+               Carlos Gañán and
+               Tyler Moore},
+  title     = {SoK: A Framework for Asset Discovery: Systematizing Advances in Network Measurements for Protecting Organizations},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {440-456},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZungurBSE21,
+  author    = {Onur Zungur and
+               Antonio Bianchi and
+               Gianluca Stringhini and
+               Manuel Egele},
+  title     = {AppJitsu: Investigating the Resiliency of Android Applications},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {457-471},
+}
+
+@inproceedings{DBLP:conf/eurosp/RokickiML21,
+  author    = {Thomas Rokicki and
+               Clémentine Maurice and
+               Pierre Laperdrix},
+  title     = {SoK: In Search of Lost Time: A Review of {JavaScript} Timers in Browsers},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {472-486},
+}
+
+@inproceedings{DBLP:conf/eurosp/DessoukySZ21,
+  author    = {Ghada Dessouky and
+               Ahmad-Reza Sadeghi and
+               Shaza Zeitouni},
+  title     = {SoK: Secure {FPGA} {Multi-Tenancy} in the Cloud: Challenges and Opportunities},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {487-506},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlamYWSZGYP21,
+  author    = {Monjur Alam and
+               Baki Berkay Yilmaz and
+               Frank Werner and
+               Niels Samwel and
+               Alenka G. Zajic and
+               Daniel Genkin and
+               Yuval Yarom and
+               Milos Prvulovic},
+  title     = {Nonce@Once: A {Single-Trace} {EM} Side Channel Attack on Several {Constant-Time} Elliptic Curve Implementations in Mobile Platforms},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {507-522},
+}
+
+@inproceedings{DBLP:conf/eurosp/BhargavanBDHKSW21,
+  author    = {Karthikeyan Bhargavan and
+               Abhishek Bichhawat and
+               Quoc Huy Do and
+               Pedram Hosseyni and
+               Ralf Küsters and
+               Guido Schmitz and
+               Tim Würtele},
+  title     = {DY*: A Modular Symbolic Verification Framework for Executable Cryptographic Protocol Code},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {523-542},
+}
+
+@inproceedings{DBLP:conf/eurosp/AhmadpanahAS21,
+  author    = {Mohammad M. Ahmadpanah and
+               Aslan Askarov and
+               Andrei Sabelfeld},
+  title     = {Nontransitive Policies Transpiled},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {543-561},
+}
+
+@inproceedings{DBLP:conf/eurosp/ShenS21,
+  author    = {Yun Shen and
+               Gianluca Stringhini},
+  title     = {ANDRuspex: Leveraging Graph Representation Learning to Predict Harmful App Installations on Mobile Devices},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {562-577},
+}
+
+@inproceedings{DBLP:conf/eurosp/LeeTYAHD21,
+  author    = {Jehyun Lee and
+               Farren Tang and
+               Pingxiao Ye and
+               Fahim Abbasi and
+               Phil Hay and
+               Dinil Mon Divakaran},
+  title     = {D-Fence: A Flexible, Efficient, and Comprehensive Phishing Email Detection System},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {578-597},
+}
+
+@inproceedings{DBLP:conf/eurosp/SatvatGV21,
+  author    = {Kiavash Satvat and
+               Rigel Gjomemo and
+               V. N. Venkatakrishnan},
+  title     = {Extractor: Extracting Attack Behavior from Threat Reports},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {598-615},
+}
+
+@inproceedings{DBLP:conf/eurosp/TolGYS21,
+  author    = {M. Caner Tol and
+               Berk Gülmezoglu and
+               Koray Yurtseven and
+               Berk Sunar},
+  title     = {FastSpec: Scalable Generation and Detection of Spectre Gadgets Using Neural Embeddings},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {616-632},
+}
+
+@inproceedings{DBLP:conf/eurosp/MambrettiSSRKK21,
+  author    = {Andrea Mambretti and
+               Alexandra Sandulescu and
+               Alessandro Sorniotti and
+               William Robertson and
+               Engin Kirda and
+               Anil Kurmus},
+  title     = {Bypassing memory safety mechanisms through speculative control flow hijacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {633-649},
+}
+
+@inproceedings{DBLP:conf/eurosp/BauerR21,
+  author    = {Markus Bauer and
+               Christian Rossow},
+  title     = {NoVT: Eliminating C++ Virtual Calls to Mitigate Vtable Hijacking},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {650-666},
+}
+
+@inproceedings{DBLP:conf/eurosp/WinderixMP21,
+  author    = {Hans Winderix and
+               Jan Tobias Mühlberg and
+               Frank Piessens},
+  title     = {{Compiler-Assisted} Hardening of Embedded Software Against Interrupt Latency {Side-Channel} Attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {667-682},
+}
+
+@inproceedings{DBLP:conf/eurosp/BriongosBMEM21,
+  author    = {Samira Briongos and
+               Ida Bruhns and
+               Pedro Malagón and
+               Thomas Eisenbarth and
+               José Manuel Moya},
+  title     = {Aim, Wait, Shoot: How the {CacheSniper} Technique Improves Unprivileged Cache Attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {683-700},
+}
+
+@inproceedings{DBLP:conf/eurosp/UnluSCM21,
+  author    = {Tolga Ünlü and
+               Lynsay A. Shepherd and
+               Natalie Coull and
+               Colin McLean},
+  title     = {Poster: Angry Birding: Evaluating Application Exceptions as Attack Canaries},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {701-703},
+}
+
+@inproceedings{DBLP:conf/eurosp/HillRCBA21,
+  author    = {Matthew Hill and
+               Carlos E. Rubio-Medrano and
+               Luis Claramunt and
+               Jaejong Baek and
+               Gail-Joon Ahn},
+  title     = {Poster: DyPolDroid: {User-Centered} {Counter-Policies} Against Android {Permission-Abuse} Attacks},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {704-706},
+}
+
+@inproceedings{DBLP:conf/eurosp/MondalMRG21,
+  author    = {Arup Mondal and
+               Yash More and
+               Ruthu Hulikal Rooparaghunath and
+               Debayan Gupta},
+  title     = {Poster: FLATEE: Federated Learning Across Trusted Execution Environments},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {707-709},
+}
+
+@inproceedings{DBLP:conf/eurosp/PhamMH21,
+  author    = {Duy-Phuc Pham and
+               Damien Marion and
+               Annelie Heuser},
+  title     = {Poster: Obfuscation Revealed - Using Electromagnetic Emanation to Identify and Classify Malware},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {710-712},
+}
+
+@inproceedings{DBLP:conf/eurosp/ClaramuntERBA21,
+  author    = {Luis Claramunt and
+               Larissa Pokam Epse and
+               Carlos E. Rubio-Medrano and
+               Jaejong Baek and
+               Gail-Joon Ahn},
+  title     = {Poster: Preventing Spatial and Privacy Attacks in Mobile Augmented Reality Technologies},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {713-715},
+}
+
+@inproceedings{DBLP:conf/eurosp/CarpentierPA21,
+  author    = {Robin Carpentier and
+               Iulian Sandu Popa and
+               Nicolas Anciaux},
+  title     = {Poster: Reducing Data Leakage on Personal Data Management Systems},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {716-718},
+}
+
+@inproceedings{DBLP:conf/eurosp/LangnerAQFST21,
+  author    = {Gregor Langner and
+               Jerry Andriessen and
+               Gerald Quirchmayr and
+               Steven Furnell and
+               Vittorio Scarano and
+               Teemu Tokola},
+  title     = {Poster: The Need for a Collaborative Approach to Cyber Security Education},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {719-721},
+}
+
+@inproceedings{DBLP:conf/eurosp/DanielT21,
+  author    = {Erik Daniel and
+               Florian Tschorsch},
+  title     = {Poster: Towards Verifiable Mutability for Blockchains},
+  booktitle = eurosp,
+  year      = 2021,
+  pages     = {722-724},
+}
+
 @inproceedings{DBLP:conf/eurosp/LeitnerS20,
   author    = {Maria Leitner and
                Teodor Sommestad},
@@ -157,7 +1153,7 @@
 
 @inproceedings{DBLP:conf/eurosp/AndreaPSJ20,
   author    = {Morgagni Andrea and
-               Massonet Philippe and
+               Philippe Massonet and
                Dupont Sbastien and
                Grandclaudon Jeremy},
   title     = {Towards Incremental Safety and Security Requirements {Co-Certification}},
@@ -201,7 +1197,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosp/JenkinsKVW20,
-  author    = {Adam Jenkins and
+  author    = {Adam D. G. Jenkins and
                Pieris Kalligeros and
                Kami Vaniea and
                Maria K. Wolters},
@@ -275,7 +1271,7 @@
                Yousra Javed and
                Matt Dixon and
                Lynne M. Coventry and
-               Opeyemi Dele Ajayi and
+               Opeyemi Dele-Ajayi and
                Philip Anderson},
   title     = {Investigating Teenagers' Ability to Detect Phishing Messages},
   booktitle = eurosp,
@@ -1223,7 +2219,7 @@
                Renan Greca and
                Ludovico Iovino and
                Giorgio Giacinto and
-               Antonia Bertoli},
+               Antonia Bertolino},
   title     = {Defensive Programming for Smart Home Cybersecurity},
   booktitle = eurosp,
   year      = 2020,
@@ -3628,7 +4624,7 @@
 
 @inproceedings{DBLP:conf/eurosp/Cohn-GordonCDGS17,
   author    = {Katriel Cohn-Gordon and
-               Cas J. F. Cremers and
+               Cas Cremers and
                Benjamin Dowling and
                Luke Garratt and
                Douglas Stebila},

@@ -1,5 +1,1368 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sp/DavisSL21,
+  author    = {James C. Davis and
+               Francisco Servant and
+               Dongyoon Lee},
+  title     = {Using Selective Memoization to Defeat Regular Expression Denial of Service (ReDoS)},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/sp/XiangC21,
+  author    = {Jian Xiang and
+               Stephen Chong},
+  title     = {Co-Inflow: Coarse-grained Information Flow Control for Java-like Languages},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {18-35},
+}
+
+@inproceedings{DBLP:conf/sp/LinG21,
+  author    = {Yan Lin and
+               Debin Gao},
+  title     = {When Function Signature Recovery Meets Compiler Optimization},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {36-52},
+}
+
+@inproceedings{DBLP:conf/sp/KotziasCB21,
+  author    = {Platon Kotzias and
+               Juan Caballero and
+               Leyla Bilge},
+  title     = {How Did That Get In My Phone? Unwanted App Distribution on Android Devices},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {53-69},
+}
+
+@inproceedings{DBLP:conf/sp/LiDLDG21,
+  author    = {Rui Li and
+               Wenrui Diao and
+               Zhou Li and
+               Jianqi Du and
+               Shanqing Guo},
+  title     = {Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {70-86},
+}
+
+@inproceedings{DBLP:conf/sp/PossematoABF21,
+  author    = {Andrea Possemato and
+               Simone Aonzo and
+               Davide Balzarotti and
+               Yanick Fratantonio},
+  title     = {Trust, But Verify: A Longitudinal Analysis Of Android {OEM} Compliance and Customization},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {87-102},
+}
+
+@inproceedings{DBLP:conf/sp/XuWLBGL21,
+  author    = {Xiaojun Xu and
+               Qi Wang and
+               Huichen Li and
+               Nikita Borisov and
+               Carl A. Gunter and
+               Bo Li},
+  title     = {Detecting {AI} Trojans Using Meta Neural Analysis},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {103-120},
+}
+
+@inproceedings{DBLP:conf/sp/AbdelnabiF21,
+  author    = {Sahar Abdelnabi and
+               Mario Fritz},
+  title     = {Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {121-140},
+}
+
+@inproceedings{DBLP:conf/sp/BourtouleCCJTZL21,
+  author    = {Lucas Bourtoule and
+               Varun Chandrasekaran and
+               Christopher A. Choquette-Choo and
+               Hengrui Jia and
+               Adelin Travers and
+               Baiwu Zhang and
+               David Lie and
+               Nicolas Papernot},
+  title     = {Machine Unlearning},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {141-159},
+}
+
+@inproceedings{DBLP:conf/sp/JiCZWYXF21,
+  author    = {Xiaoyu Ji and
+               Yushi Cheng and
+               Yuepeng Zhang and
+               Kai Wang and
+               Chen Yan and
+               Wenyuan Xu and
+               Kevin Fu},
+  title     = {Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {160-175},
+}
+
+@inproceedings{DBLP:conf/sp/CaoWXYFYCLL21,
+  author    = {Yulong Cao and
+               Ningfei Wang and
+               Chaowei Xiao and
+               Dawei Yang and
+               Jin Fang and
+               Ruigang Yang and
+               Qi Alfred Chen and
+               Mingyan Liu and
+               Bo Li},
+  title     = {Invisible for both Camera and LiDAR: Security of {Multi-Sensor} Fusion based Perception in Autonomous Driving Under {Physical-World} Attacks},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {176-194},
+}
+
+@inproceedings{DBLP:conf/sp/KulandaivelJGS21,
+  author    = {Sekar Kulandaivel and
+               Shalabh Jain and
+               Jorge Guajardo and
+               Vyas Sekar},
+  title     = {CANNON: Reliable and Stealthy Remote Shutdown Attacks via Unaltered Automotive Microcontrollers},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {195-210},
+}
+
+@inproceedings{DBLP:conf/sp/WoodsB21,
+  author    = {Daniel W. Woods and
+               Rainer Böhme},
+  title     = {SoK: Quantifying Cyber Risk},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {211-228},
+}
+
+@inproceedings{DBLP:conf/sp/ZhuGBWCFB21,
+  author    = {Wanzheng Zhu and
+               Hongyu Gong and
+               Rohan Bansal and
+               Zachary Weinberg and
+               Nicolas Christin and
+               Giulia Fanti and
+               Suma Bhat},
+  title     = {{Self-Supervised} Euphemism Detection and Identification for Content Moderation},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {229-246},
+}
+
+@inproceedings{DBLP:conf/sp/ThomasABBBCDDKK21,
+  author    = {Kurt Thomas and
+               Devdatta Akhawe and
+               Michael Bailey and
+               Dan Boneh and
+               Elie Bursztein and
+               Sunny Consolvo and
+               Nicola Dell and
+               Zakir Durumeric and
+               Patrick Gage Kelley and
+               Deepak Kumar and
+               Damon McCoy and
+               Sarah Meiklejohn and
+               Thomas Ristenpart and
+               Gianluca Stringhini},
+  title     = {SoK: Hate, Harassment, and the Changing Landscape of Online Abuse},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {247-267},
+}
+
+@inproceedings{DBLP:conf/sp/KleinPWKCCMYAP21,
+  author    = {Karen Klein and
+               Guillermo Pascual-Perez and
+               Michael Walter and
+               Chethan Kamath and
+               Margarita Capretto and
+               Miguel Cueto and
+               Ilia Markov and
+               Michelle Yeo and
+               Joël Alwen and
+               Krzysztof Pietrzak},
+  title     = {Keep the Dirt: Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {268-284},
+}
+
+@inproceedings{DBLP:conf/sp/HuHKYP21,
+  author    = {Yuncong Hu and
+               Kian Hooshmand and
+               Harika Kalidhindi and
+               Seung Jin Yang and
+               Raluca Ada Popa},
+  title     = {Merkle2: A {Low-Latency} Transparency Log System},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {285-303},
+}
+
+@inproceedings{DBLP:conf/sp/HulsingNSWZ21,
+  author    = {Andreas Hülsing and
+               Kai-Chun Ning and
+               Peter Schwabe and
+               Florian Weber and
+               Philip R. Zimmermann},
+  title     = {Post-quantum {WireGuard}},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {304-321},
+}
+
+@inproceedings{DBLP:conf/sp/TanWZL21,
+  author    = {Mingtian Tan and
+               Junpeng Wan and
+               Zhe Zhou and
+               Zhou Li},
+  title     = {Invisible Probe: Timing Attacks with {PCIe} Congestion Side-channel},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {322-338},
+}
+
+@inproceedings{DBLP:conf/sp/SchaikMKGY21,
+  author    = {Stephan van Schaik and
+               Marina Minkin and
+               Andrew Kwong and
+               Daniel Genkin and
+               Yuval Yarom},
+  title     = {CacheOut: Leaking Data on Intel {CPUs} via Cache Evictions},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {339-354},
+}
+
+@inproceedings{DBLP:conf/sp/LippKOSECG21,
+  author    = {Moritz Lipp and
+               Andreas Kogler and
+               David F. Oswald and
+               Michael Schwarz and
+               Catherine Easdon and
+               Claudio Canella and
+               Daniel Gruss},
+  title     = {PLATYPUS: Software-based Power {Side-Channel} Attacks on x86},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {355-371},
+}
+
+@inproceedings{DBLP:conf/sp/DaffallaSKB21,
+  author    = {Alaa Daffalla and
+               Lucy Simko and
+               Tadayoshi Kohno and
+               Alexandru G. Bardas},
+  title     = {Defensive Technology Use by Political Activists During the Sudanese Revolution},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {372-390},
+}
+
+@inproceedings{DBLP:conf/sp/BichselSBV21,
+  author    = {Benjamin Bichsel and
+               Samuel Steffen and
+               Ilija Bogunovic and
+               Martin T. Vechev},
+  title     = {DP-Sniper: {Black-Box} Discovery of Differential Privacy Violations using Classifiers},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {391-409},
+}
+
+@inproceedings{DBLP:conf/sp/CarliniDGJMMTT21,
+  author    = {Nicholas Carlini and
+               Samuel Deng and
+               Sanjam Garg and
+               Somesh Jha and
+               Saeed Mahloujifar and
+               Mohammad Mahmoody and
+               Abhradeep Thakurta and
+               Florian Tramèr},
+  title     = {Is Private Learning Possible with Instance Encoding?},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {410-427},
+}
+
+@inproceedings{DBLP:conf/sp/ZhouQTLG21,
+  author    = {Liyi Zhou and
+               Kaihua Qin and
+               Christof Ferreira Torres and
+               Duc Viet Le and
+               Arthur Gervais},
+  title     = {{High-Frequency} Trading on Decentralized {On-Chain} Exchanges},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {428-445},
+}
+
+@inproceedings{DBLP:conf/sp/NeuTT21,
+  author    = {Joachim Neu and
+               Ertem Nusret Tas and
+               David Tse},
+  title     = {{Ebb-and-Flow} Protocols: A Resolution of the {Availability-Finality} Dilemma},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {446-465},
+}
+
+@inproceedings{DBLP:conf/sp/CrainNG21,
+  author    = {Tyler Crain and
+               Christopher Natoli and
+               Vincent Gramoli},
+  title     = {Red Belly: A Secure, Fair and Scalable Open Blockchain},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {466-483},
+}
+
+@inproceedings{DBLP:conf/sp/RediniCDPSMBKV21,
+  author    = {Nilo Redini and
+               Andrea Continella and
+               Dipanjan Das and
+               Giulio De Pasquale and
+               Noah Spahn and
+               Aravind Machiry and
+               Antonio Bianchi and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Diane: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for {IoT} Devices},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {484-500},
+}
+
+@inproceedings{DBLP:conf/sp/ChenCWSCF21,
+  author    = {Yunang Chen and
+               Amrita Roy Chowdhury and
+               Ruizhe Wang and
+               Andrei Sabelfeld and
+               Rahul Chatterjee and
+               Earlence Fernandes},
+  title     = {Data Privacy in {Trigger-Action} Systems},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {501-518},
+}
+
+@inproceedings{DBLP:conf/sp/NaeiniDAC21,
+  author    = {Pardis Emami Naeini and
+               Janarth Dheenadhayalan and
+               Yuvraj Agarwal and
+               Lorrie Faith Cranor},
+  title     = {Which Privacy and Security Attributes Most Impact Consumers' Risk Perception and Willingness to Purchase {IoT} Devices?},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {519-536},
+}
+
+@inproceedings{DBLP:conf/sp/BaeldeDJKM21,
+  author    = {David Baelde and
+               Stéphanie Delaune and
+               Charlie Jacomme and
+               Adrien Koutsos and
+               Solène Moreau},
+  title     = {An Interactive Prover for Protocol Verification in the Computational Model},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {537-554},
+}
+
+@inproceedings{DBLP:conf/sp/StephensFMLD21,
+  author    = {Jon Stephens and
+               Kostas Ferles and
+               Benjamin Mariano and
+               Shuvendu K. Lahiri and
+               Isil Dillig},
+  title     = {SmartPulse: Automated Checking of Temporal Properties in Smart Contracts},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {555-571},
+}
+
+@inproceedings{DBLP:conf/sp/YuGJ21,
+  author    = {Miao Yu and
+               Virgil D. Gligor and
+               Limin Jia},
+  title     = {An I/O Separation Model for Formal Verification of Kernel Implementations},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {572-589},
+}
+
+@inproceedings{DBLP:conf/sp/ChenHIKMRSVW21,
+  author    = {Megan Chen and
+               Carmit Hazay and
+               Yuval Ishai and
+               Yuriy Kashnikov and
+               Daniele Micciancio and
+               Tarik Riviere and
+               Abhi Shelat and
+               Muthu Venkitasubramaniam and
+               Ruihan Wang},
+  title     = {Diogenes: Lightweight Scalable {RSA} Modulus Generation with a Dishonest Majority},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {590-607},
+}
+
+@inproceedings{DBLP:conf/sp/KondiMOS21,
+  author    = {Yashvanth Kondi and
+               Bernardo Magri and
+               Claudio Orlandi and
+               Omer Shlomovits},
+  title     = {Refresh When You Wake Up: Proactive Threshold Wallets with Offline Devices},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {608-625},
+}
+
+@inproceedings{DBLP:conf/sp/MicaliRVWZ21,
+  author    = {Silvio Micali and
+               Leonid Reyzin and
+               Georgios Vlachos and
+               Riad S. Wahby and
+               Nickolai Zeldovich},
+  title     = {Compact Certificates of Collective Knowledge},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {626-641},
+}
+
+@inproceedings{DBLP:conf/sp/ChenZHZYWL21,
+  author    = {Yongheng Chen and
+               Rui Zhong and
+               Hong Hu and
+               Hangfan Zhang and
+               Yupeng Yang and
+               Dinghao Wu and
+               Wenke Lee},
+  title     = {One Engine to Fuzz 'em All: Generic Language Processor Testing with Semantic Validation},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {642-658},
+}
+
+@inproceedings{DBLP:conf/sp/ZhangYTALZ21,
+  author    = {Zhuo Zhang and
+               Wei You and
+               Guanhong Tao and
+               Yousra Aafer and
+               Xuwei Liu and
+               Xiangyu Zhang},
+  title     = {StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {659-676},
+}
+
+@inproceedings{DBLP:conf/sp/ChoiKLC21,
+  author    = {Jaeseung Choi and
+               Kangsu Kim and
+               Daejin Lee and
+               Sang Kil Cha},
+  title     = {NtFuzz: Enabling {Type-Aware} Kernel Fuzzing on Windows with Static Binary Analysis},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {677-693},
+}
+
+@inproceedings{DBLP:conf/sp/ChenCFDZSL21,
+  author    = {Guangke Chen and
+               Sen Chen and
+               Lingling Fan and
+               Xiaoning Du and
+               Zhe Zhao and
+               Fu Song and
+               Yang Liu},
+  title     = {Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {694-711},
+}
+
+@inproceedings{DBLP:conf/sp/AbdullahRGWYST21,
+  author    = {Hadi Abdullah and
+               Muhammad Sajidur Rahman and
+               Washington Garcia and
+               Kevin Warren and
+               Anurag Swarnim Yadav and
+               Tom Shrimpton and
+               Patrick Traynor},
+  title     = {Hear "No Evil", See "Kenansville"*: Efficient and Transferable {Black-Box} Attacks on Speech Recognition and Voice Identification Systems},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {712-729},
+}
+
+@inproceedings{DBLP:conf/sp/AbdullahWBPT21,
+  author    = {Hadi Abdullah and
+               Kevin Warren and
+               Vincent Bindschaedler and
+               Nicolas Papernot and
+               Patrick Traynor},
+  title     = {SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {730-747},
+}
+
+@inproceedings{DBLP:conf/sp/WangC21,
+  author    = {Xiuhua Wang and
+               Sherman S. M. Chow},
+  title     = {{Cross-Domain} Access Control Encryption: Arbitrary-policy, Constant-size, Efficient},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {748-761},
+}
+
+@inproceedings{DBLP:conf/sp/BonehBCGI21,
+  author    = {Dan Boneh and
+               Elette Boyle and
+               Henry Corrigan-Gibbs and
+               Niv Gilboa and
+               Yuval Ishai},
+  title     = {Lightweight Techniques for Private Heavy Hitters},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {762-776},
+}
+
+@inproceedings{DBLP:conf/sp/BarbosaBBBCLP21,
+  author    = {Manuel Barbosa and
+               Gilles Barthe and
+               Karthik Bhargavan and
+               Bruno Blanchet and
+               Cas Cremers and
+               Kevin Liao and
+               Bryan Parno},
+  title     = {SoK: {Computer-Aided} Cryptography},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {777-795},
+}
+
+@inproceedings{DBLP:conf/sp/ZhangWSN21,
+  author    = {Xueling Zhang and
+               Xiaoyin Wang and
+               Rocky Slavin and
+               Jianwei Niu},
+  title     = {ConDySTA: {Context-Aware} Dynamic Supplement to Static Taint Analysis},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {796-812},
+}
+
+@inproceedings{DBLP:conf/sp/ZhangYYTLKAZ21,
+  author    = {Zhuo Zhang and
+               Yapeng Ye and
+               Wei You and
+               Guanhong Tao and
+               Wen-Chuan Lee and
+               Yonghwi Kwon and
+               Yousra Aafer and
+               Xiangyu Zhang},
+  title     = {OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {813-832},
+}
+
+@inproceedings{DBLP:conf/sp/PangYCKPMX21,
+  author    = {Chengbin Pang and
+               Ruotong Yu and
+               Yaohui Chen and
+               Eric Koskinen and
+               Georgios Portokalidis and
+               Bing Mao and
+               Jun Xu},
+  title     = {SoK: All You Ever Wanted to Know About x86/x64 Binary Disassembly But Were Afraid to Ask},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {833-851},
+}
+
+@inproceedings{DBLP:conf/sp/RoyHA21,
+  author    = {Subhajit Roy and
+               Justin Hsu and
+               Aws Albarghouthi},
+  title     = {Learning Differentially Private Mechanisms},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {852-865},
+}
+
+@inproceedings{DBLP:conf/sp/NasrSTPC21,
+  author    = {Milad Nasr and
+               Shuang Song and
+               Abhradeep Thakurta and
+               Nicolas Papernot and
+               Nicholas Carlini},
+  title     = {Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {866-882},
+}
+
+@inproceedings{DBLP:conf/sp/CheuSU21,
+  author    = {Albert Cheu and
+               Adam D. Smith and
+               Jonathan R. Ullman},
+  title     = {Manipulation Attacks in Local Differential Privacy},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {883-900},
+}
+
+@inproceedings{DBLP:conf/sp/AumayrMEEFRHM21,
+  author    = {Lukas Aumayr and
+               Matteo Maffei and
+               Oguzhan Ersoy and
+               Andreas Erwig and
+               Sebastian Faust and
+               Siavash Riahi and
+               Kristina Hostáková and
+               Pedro Moreno-Sanchez},
+  title     = {{Bitcoin-Compatible} Virtual Channels},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {901-918},
+}
+
+@inproceedings{DBLP:conf/sp/ZhouQCLG21,
+  author    = {Liyi Zhou and
+               Kaihua Qin and
+               Antoine Cully and
+               Benjamin Livshits and
+               Arthur Gervais},
+  title     = {On the {Just-In-Time} Discovery of {Profit-Generating} Transactions in {DeFi} Protocols},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {919-936},
+}
+
+@inproceedings{DBLP:conf/sp/ThyagarajanM21,
+  author    = {Sri Aravinda Krishnan Thyagarajan and
+               Giulio Malavolta},
+  title     = {Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {937-954},
+}
+
+@inproceedings{DBLP:conf/sp/SongLXLWL21,
+  author    = {Wei Song and
+               Boya Li and
+               Zihan Xue and
+               Zhenzhen Li and
+               Wenhao Wang and
+               Peng Liu},
+  title     = {Randomized {Last-Level} Caches Are Still Vulnerable to Cache {Side-Channel} Attacks! But We Can Fix It},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {955-969},
+}
+
+@inproceedings{DBLP:conf/sp/TrippelSBH21,
+  author    = {Timothy Trippel and
+               Kang G. Shin and
+               Kevin B. Bush and
+               Matthew Hicks},
+  title     = {Bomberman: Defining and Defeating Hardware Ticking Timebombs at Design-time},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {970-986},
+}
+
+@inproceedings{DBLP:conf/sp/PurnalGGV21,
+  author    = {Antoon Purnal and
+               Lukas Giner and
+               Daniel Gruss and
+               Ingrid Verbauwhede},
+  title     = {Systematic Analysis of Randomization-based Protected Cache Architectures},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {987-1002},
+}
+
+@inproceedings{DBLP:conf/sp/RatheeRGGSCR21,
+  author    = {Deevashwer Rathee and
+               Mayank Rathee and
+               Rahul Kranti Kiran Goli and
+               Divya Gupta and
+               Rahul Sharma and
+               Nishanth Chandran and
+               Aseem Rastogi},
+  title     = {SiRnn: A Math Library for Secure {RNN} Inference},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1003-1020},
+}
+
+@inproceedings{DBLP:conf/sp/TanKTW21,
+  author    = {Sijun Tan and
+               Brian Knott and
+               Yuan Tian and
+               David J. Wu},
+  title     = {CryptGPU: Fast {Privacy-Preserving} Machine Learning on the {GPU}},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1021-1038},
+}
+
+@inproceedings{DBLP:conf/sp/JiaYCDTCP21,
+  author    = {Hengrui Jia and
+               Mohammad Yaghini and
+               Christopher A. Choquette-Choo and
+               Natalie Dullerud and
+               Anvith Thudi and
+               Varun Chandrasekaran and
+               Nicolas Papernot},
+  title     = {Proof-of-Learning: Definitions and Practice},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1039-1056},
+}
+
+@inproceedings{DBLP:conf/sp/LuHHMQ21,
+  author    = {Wen-jie Lu and
+               Zhicong Huang and
+               Cheng Hong and
+               Yiping Ma and
+               Hunter Qu},
+  title     = {PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1057-1073},
+}
+
+@inproceedings{DBLP:conf/sp/WengYKW21,
+  author    = {Chenkai Weng and
+               Kang Yang and
+               Jonathan Katz and
+               Xiao Wang},
+  title     = {Wolverine: Fast, Scalable, and {Communication-Efficient} {Zero-Knowledge} Proofs for Boolean and Arithmetic Circuits},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1074-1091},
+}
+
+@inproceedings{DBLP:conf/sp/ViandJH21,
+  author    = {Alexander Viand and
+               Patrick Jattke and
+               Anwar Hithnawi},
+  title     = {SoK: Fully Homomorphic Encryption Compilers},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1092-1108},
+}
+
+@inproceedings{DBLP:conf/sp/ZhangOCSJWSKBWS21,
+  author    = {Penghui Zhang and
+               Adam Oest and
+               Haehyun Cho and
+               Zhibo Sun and
+               RC Johnson and
+               Brad Wardman and
+               Shaown Sarker and
+               Alexandros Kapravelos and
+               Tiffany Bao and
+               Ruoyu Wang and
+               Yan Shoshitaishvili and
+               Adam Doupé and
+               Gail-Joon Ahn},
+  title     = {CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1109-1124},
+}
+
+@inproceedings{DBLP:conf/sp/ErikssonPS21,
+  author    = {Benjamin Eriksson and
+               Giancarlo Pellegrino and
+               Andrei Sabelfeld},
+  title     = {Black Widow: Blackbox Data-driven Web Scanning},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1125-1142},
+}
+
+@inproceedings{DBLP:conf/sp/IqbalES21,
+  author    = {Umar Iqbal and
+               Steven Englehardt and
+               Zubair Shafiq},
+  title     = {Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1143-1161},
+}
+
+@inproceedings{DBLP:conf/sp/Delignat-Lavaud21,
+  author    = {Antoine Delignat-Lavaud and
+               Cédric Fournet and
+               Bryan Parno and
+               Jonathan Protzenko and
+               Tahina Ramananandro and
+               Jay Bosamiya and
+               Joseph Lallemand and
+               Itsaka Rakotonirina and
+               Yi Zhou},
+  title     = {A Security Model and Fully Verified Implementation for the {IETF} {QUIC} Record Layer},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1162-1178},
+}
+
+@inproceedings{DBLP:conf/sp/Klein21,
+  author    = {Amit Klein},
+  title     = {Cross Layer Attacks and How to Use Them (for {DNS} Cache Poisoning, Device Tracking and More)},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1179-1196},
+}
+
+@inproceedings{DBLP:conf/sp/ChenYWXYLCTL21,
+  author    = {Yi Chen and
+               Yepeng Yao and
+               XiaoFeng Wang and
+               Dandan Xu and
+               Chang Yue and
+               Xiaozhong Liu and
+               Kai Chen and
+               Haixu Tang and
+               Baoxu Liu},
+  title     = {Bookworm Game: Automatic Discovery of {LTE} Vulnerabilities Through Documentation Analysis},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1197-1214},
+}
+
+@inproceedings{DBLP:conf/sp/NguyenPS21,
+  author    = {Tai D. Nguyen and
+               Long H. Pham and
+               Jun Sun},
+  title     = {SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1215-1229},
+}
+
+@inproceedings{DBLP:conf/sp/TsabaryYME21,
+  author    = {Itay Tsabary and
+               Matan Yechieli and
+               Alex Manuskin and
+               Ittay Eyal},
+  title     = {MAD-HTLC: Because {HTLC} is {Crazy-Cheap} to Attack},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1230-1248},
+}
+
+@inproceedings{DBLP:conf/sp/CecchettiYNM21,
+  author    = {Ethan Cecchetti and
+               Siqiu Yao and
+               Haobin Ni and
+               Andrew C. Myers},
+  title     = {Compositional Security for Reentrant Applications},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1249-1267},
+}
+
+@inproceedings{DBLP:conf/sp/VotipkaZM21,
+  author    = {Daniel Votipka and
+               Eric Zhang and
+               Michelle L. Mazurek},
+  title     = {HackEd: A Pedagogical Analysis of Online Vulnerability Discovery Exercises},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1268-1285},
+}
+
+@inproceedings{DBLP:conf/sp/HurSKBKL21,
+  author    = {Jaewon Hur and
+               Suhwan Song and
+               Dongup Kwon and
+               Eunjin Baek and
+               Jangwoo Kim and
+               Byoungyoung Lee},
+  title     = {DifuzzRTL: Differential Fuzz Testing to Find {CPU} Bugs},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1286-1303},
+}
+
+@inproceedings{DBLP:conf/sp/ShenLHT21,
+  author    = {Cheng Shen and
+               Tian Liu and
+               Jun Huang and
+               Rui Tan},
+  title     = {When {LoRa} Meets EMR: Electromagnetic Covert Channels Can Be Super Resilient},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1304-1317},
+}
+
+@inproceedings{DBLP:conf/sp/LudantVNN21,
+  author    = {Norbert Ludant and
+               Tien Dang Vo-Huu and
+               Sashank Narain and
+               Guevara Noubir},
+  title     = {Linking Bluetooth {LE} & Classic and Implications for {Privacy-Preserving} {Bluetooth-Based} Protocols},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1318-1331},
+}
+
+@inproceedings{DBLP:conf/sp/TschirschnitzPF21,
+  author    = {Maximilian von Tschirschnitz and
+               Ludwig Peuckert and
+               Fabian Franzen and
+               Jens Grossklags},
+  title     = {Method Confusion Attack on Bluetooth Pairing},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1332-1347},
+}
+
+@inproceedings{DBLP:conf/sp/MaramMZJFKLMJM21,
+  author    = {Deepak Maram and
+               Harjasleen Malvai and
+               Fan Zhang and
+               Nerla Jean-Louis and
+               Alexander Frolov and
+               Tyler Kell and
+               Tyrone Lobban and
+               Christine Moy and
+               Ari Juels and
+               Andrew Miller},
+  title     = {CanDID: {Can-Do} Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1348-1366},
+}
+
+@inproceedings{DBLP:conf/sp/HuamanAOAF21,
+  author    = {Nicolas Huaman and
+               Sabrina Amft and
+               Marten Oltrogge and
+               Yasemin Acar and
+               Sascha Fahl},
+  title     = {They Would do Better if They Worked Together: The Case of Interaction Problems Between Password Managers and Websites},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1367-1381},
+}
+
+@inproceedings{DBLP:conf/sp/PasquiniGABC21,
+  author    = {Dario Pasquini and
+               Ankit Gangwal and
+               Giuseppe Ateniese and
+               Massimo Bernaschi and
+               Mauro Conti},
+  title     = {Improving Password Guessing via Representation Learning},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1382-1399},
+}
+
+@inproceedings{DBLP:conf/sp/LiMCNWS21,
+  author    = {Ziyang Li and
+               Aravind Machiry and
+               Binghong Chen and
+               Mayur Naik and
+               Ke Wang and
+               Le Song},
+  title     = {ARBITRAR: {User-Guided} {API} Misuse Detection},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1400-1415},
+}
+
+@inproceedings{DBLP:conf/sp/FruminKB21,
+  author    = {Dan Frumin and
+               Robbert Krebbers and
+               Lars Birkedal},
+  title     = {Compositional {Non-Interference} for {Fine-Grained} Concurrent Programs},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1416-1433},
+}
+
+@inproceedings{DBLP:conf/sp/NassiBMSE21,
+  author    = {Ben Nassi and
+               Ron Bitton and
+               Ryusuke Masuoka and
+               Asaf Shabtai and
+               Yuval Elovici},
+  title     = {SoK: Security and Privacy in the Age of Commercial Drones},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1434-1451},
+}
+
+@inproceedings{DBLP:conf/sp/LingBBS21,
+  author    = {Chen Ling and
+               Utkucan Balci and
+               Jeremy Blackburn and
+               Gianluca Stringhini},
+  title     = {A First Look at Zoombombing},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1452-1467},
+}
+
+@inproceedings{DBLP:conf/sp/LiuZM21,
+  author    = {Yinxi Liu and
+               Mingxue Zhang and
+               Wei Meng},
+  title     = {Revealer: Detecting and Exploiting Regular Expression {Denial-of-Service} Vulnerabilities},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1468-1484},
+}
+
+@inproceedings{DBLP:conf/sp/RohlmannMMS21,
+  author    = {Simon Rohlmann and
+               Vladislav Mladenov and
+               Christian Mainka and
+               Jörg Schwenk},
+  title     = {Breaking the Specification: {PDF} Certification},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1485-1501},
+}
+
+@inproceedings{DBLP:conf/sp/KornaropoulosPT21,
+  author    = {Evgenios M. Kornaropoulos and
+               Charalampos Papamanthou and
+               Roberto Tamassia},
+  title     = {{Response-Hiding} Encrypted Ranges: Revisiting Security via Parametrized {Leakage-Abuse} Attacks},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1502-1519},
+}
+
+@inproceedings{DBLP:conf/sp/KamaraMPQ21,
+  author    = {Seny Kamara and
+               Tarik Moataz and
+               Andrew Park and
+               Lucy Qin},
+  title     = {A Decentralized and Encrypted National Gun Registry},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1520-1537},
+}
+
+@inproceedings{DBLP:conf/sp/HeathYDK21,
+  author    = {David Heath and
+               Yibin Yang and
+               David Devecsery and
+               Vladimir Kolesnikov},
+  title     = {Zero Knowledge for Everything and Everyone: Fast {ZK} Processor with Cached {ORAM} for {ANSI} C Programs},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1538-1556},
+}
+
+@inproceedings{DBLP:conf/sp/Barr-SmithUGSM21,
+  author    = {Frederick Barr-Smith and
+               Xabier Ugarte-Pedrero and
+               Mariano Graziano and
+               Riccardo Spolaor and
+               Ivan Martinovic},
+  title     = {Survivalism: Systematic Analysis of Windows Malware {Living-Off-The-Land}},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1557-1574},
+}
+
+@inproceedings{DBLP:conf/sp/BaiWZCJ21,
+  author    = {Zhihao Bai and
+               Ke Wang and
+               Hang Zhu and
+               Yinzhi Cao and
+               Xin Jin},
+  title     = {Runtime Recovery of Web Applications under {Zero-Day} {ReDoS} Attacks},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1575-1588},
+}
+
+@inproceedings{DBLP:conf/sp/LiARN21,
+  author    = {Xigao Li and
+               Babak Amin Azad and
+               Amir Rahmati and
+               Nick Nikiforakis},
+  title     = {Good Bot, Bad Bot: Characterizing Automated Browsing Activity},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1589-1605},
+}
+
+@inproceedings{DBLP:conf/sp/BlazquezPFGKVT21,
+  author    = {Eduardo Blázquez and
+               Sergio Pastrana and
+               Álvaro Feal and
+               Julien Gamba and
+               Platon Kotzias and
+               Narseo Vallina-Rodriguez and
+               Juan Tapiador},
+  title     = {Trouble Over-The-Air: An Analysis of {FOTA} Apps in the Android Ecosystem},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1606-1622},
+}
+
+@inproceedings{DBLP:conf/sp/DinVLWLK21,
+  author    = {Zain ul Abi Din and
+               Hari Venugopalan and
+               Henry Lin and
+               Adam Wushensky and
+               Steven Liu and
+               Samuel T. King},
+  title     = {Doing good by fighting fraud: Ethical anti-fraud systems for mobile payments},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1623-1640},
+}
+
+@inproceedings{DBLP:conf/sp/XueZLZSGZA21,
+  author    = {Lei Xue and
+               Hao Zhou and
+               Xiapu Luo and
+               Yajin Zhou and
+               Yang Shi and
+               Guofei Gu and
+               Fengwei Zhang and
+               Man Ho Au},
+  title     = {Happer: Unpacking Android Apps via a {Hardware-Assisted} Approach},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1641-1658},
+}
+
+@inproceedings{DBLP:conf/sp/BrendelCJZ21,
+  author    = {Jacqueline Brendel and
+               Cas Cremers and
+               Dennis Jackson and
+               Mang Zhao},
+  title     = {The Provable Security of Ed25519: Theory and Practice},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1659-1676},
+}
+
+@inproceedings{DBLP:conf/sp/HulsingW21,
+  author    = {Andreas Hülsing and
+               Florian Weber},
+  title     = {Epochal Signatures for Deniable Group Chats},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1677-1695},
+}
+
+@inproceedings{DBLP:conf/sp/CremersDFFJ21,
+  author    = {Cas Cremers and
+               Samed Düzlü and
+               Rune Fiedler and
+               Marc Fischlin and
+               Christian Janson},
+  title     = {{BUFFing} signature schemes beyond unforgeability and the case of post-quantum signatures},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1696-1714},
+}
+
+@inproceedings{DBLP:conf/sp/ChenSLK21,
+  author    = {Quan Chen and
+               Peter Snyder and
+               Ben Livshits and
+               Alexandros Kapravelos},
+  title     = {Detecting Filter List Evasion with {Event-Loop-Turn} Granularity {JavaScript} Signatures},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1715-1729},
+}
+
+@inproceedings{DBLP:conf/sp/FrankenGJ21,
+  author    = {Gertjan Franken and
+               Tom van Goethem and
+               Wouter Joosen},
+  title     = {Reading Between the Lines: An Extensive Evaluation of the Security and Privacy Implications of {EPUB} Reading Systems},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1730-1747},
+}
+
+@inproceedings{DBLP:conf/sp/HainesGS21,
+  author    = {Thomas Haines and
+               Rajeev Goré and
+               Bhavesh Sharma},
+  title     = {Did you mix me? Formally Verifying Verifiable Mix Nets in Electronic Voting},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1748-1765},
+}
+
+@inproceedings{DBLP:conf/sp/BasinST21,
+  author    = {David A. Basin and
+               Ralf Sasse and
+               Jorge Toro-Pozo},
+  title     = {The {EMV} Standard: Break, Fix, Verify},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1766-1781},
+}
+
+@inproceedings{DBLP:conf/sp/LiLGNH21,
+  author    = {Shih-Wei Li and
+               Xupeng Li and
+               Ronghui Gu and
+               Jason Nieh and
+               John Zhuang Hui},
+  title     = {A Secure and Formally Verified Linux {KVM} Hypervisor},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1782-1799},
+}
+
+@inproceedings{DBLP:conf/sp/Diamond21,
+  author    = {Benjamin E. Diamond},
+  title     = {{Many-out-of-Many} Proofs and Applications to Anonymous Zether},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1800-1817},
+}
+
+@inproceedings{DBLP:conf/sp/KohlweissMNS21,
+  author    = {Markulf Kohlweiss and
+               Varun Madathil and
+               Kartik Nayak and
+               Alessandra Scafuro},
+  title     = {On the Anonymity Guarantees of Anonymous {Proof-of-Stake} Protocols},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1818-1833},
+}
+
+@inproceedings{DBLP:conf/sp/TairiMM21,
+  author    = {Erkan Tairi and
+               Pedro Moreno-Sanchez and
+               Matteo Maffei},
+  title     = {A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1834-1851},
+}
+
+@inproceedings{DBLP:conf/sp/RagabMRBG21,
+  author    = {Hany Ragab and
+               Alyssa Milburn and
+               Kaveh Razavi and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {CrossTalk: Speculative Data Leaks Across Cores Are Real},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1852-1867},
+}
+
+@inproceedings{DBLP:conf/sp/GuarnieriKRV21,
+  author    = {Marco Guarnieri and
+               Boris Köpf and
+               Jan Reineke and
+               Pepe Vila},
+  title     = {{Hardware-Software} Contracts for Secure Speculation},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1868-1883},
+}
+
+@inproceedings{DBLP:conf/sp/BartheCGKLOPRS21,
+  author    = {Gilles Barthe and
+               Sunjay Cauligi and
+               Benjamin Grégoire and
+               Adrien Koutsos and
+               Kevin Liao and
+               Tiago Oliveira and
+               Swarn Priya and
+               Tamara Rezk and
+               Peter Schwabe},
+  title     = {{High-Assurance} Cryptography in the Spectre Era},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1884-1901},
+}
+
+@inproceedings{DBLP:conf/sp/HongD21,
+  author    = {Jiaqi Hong and
+               Xuhua Ding},
+  title     = {A Novel Dynamic Analysis Infrastructure to Instrument Untrusted Execution Flow Across {User-Kernel} Spaces},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1902-1918},
+}
+
+@inproceedings{DBLP:conf/sp/PalitMMP21,
+  author    = {Tapti Palit and
+               Jarin Firose Moon and
+               Fabian Monrose and
+               Michalis Polychronakis},
+  title     = {DynPTA: Combining Static and Dynamic Analysis for Practical Selective Data Protection},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1919-1937},
+}
+
+@inproceedings{DBLP:conf/sp/MeraFLK21,
+  author    = {Alejandro Mera and
+               Bo Feng and
+               Long Lu and
+               Engin Kirda},
+  title     = {DICE: Automatic Emulation of {DMA} Input Channels for Dynamic Firmware Analysis},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1938-1954},
+}
+
+@inproceedings{DBLP:conf/sp/KrachenfelsGMTS21,
+  author    = {Thilo Krachenfels and
+               Fatemeh Ganji and
+               Amir Moradi and
+               Shahin Tajik and
+               Jean-Pierre Seifert},
+  title     = {{Real-World} Snapshots vs. Theory: Questioning the {t-Probing} Security Model},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1955-1971},
+}
+
+@inproceedings{DBLP:conf/sp/PiccolboniGCS21,
+  author    = {Luca Piccolboni and
+               Giuseppe Di Guglielmo and
+               Luca P. Carloni and
+               Simha Sethumadhavan},
+  title     = {CRYLOGGER: Detecting Crypto Misuses Dynamically},
+  booktitle = oakland,
+  year      = 2021,
+  pages     = {1972-1989},
+}
+
 @inproceedings{DBLP:conf/sp/GuarnieriKMRS20,
   author    = {Marco Guarnieri and
                Boris Köpf and
@@ -1210,7 +2573,7 @@
 
 @inproceedings{DBLP:conf/sp/PermenevDTDV20,
   author    = {Anton Permenev and
-               Dimitar Dimitrov and
+               Dimitar K. Dimitrov and
                Petar Tsankov and
                Dana Drachsler-Cohen and
                Martin T. Vechev},
@@ -1378,7 +2741,7 @@
 @inproceedings{DBLP:conf/sp/LeeEMS19,
   author    = {Taesung Lee and
                Benjamin Edwards and
-               Ian Molloy and
+               Ian M. Molloy and
                Dong Su},
   title     = {Defending Against Neural Network Model Stealing Attacks Using Deceptive Perturbations},
   booktitle = oakland,
@@ -2073,7 +3436,7 @@
 }
 
 @inproceedings{DBLP:conf/sp/NguyenD0B19,
-  author    = {Duc-Cuong Nguyen and
+  author    = {Duc Cuong Nguyen and
                Erik Derr and
                Michael Backes and
                Sven Bugiel},
@@ -2389,7 +3752,7 @@
 
 @inproceedings{DBLP:conf/sp/ScaifeBPHSTA19,
   author    = {Nolen Scaife and
-               Jasmine Bowers and
+               Jasmine D. Bowers and
                Christian Peeters and
                Grant Hernandez and
                Imani N. Sherman and
@@ -3535,7 +4898,7 @@
   author    = {Christian Peeters and
                Hadi Abdullah and
                Nolen Scaife and
-               Jasmine Bowers and
+               Jasmine D. Bowers and
                Patrick Traynor and
                Bradley Reaves and
                Kevin R. B. Butler},
@@ -8780,7 +10143,7 @@
 @inproceedings{DBLP:conf/sp/NavarroNO12,
   author    = {Jesús Navarro and
                Enrique Naudon and
-               Daniela A. S. de Oliveira},
+               Daniela Oliveira},
   title     = {Bridging the Semantic Gap to Mitigate {Kernel-Level} Keyloggers},
   booktitle = oakland,
   year      = 2012,
@@ -8808,7 +10171,7 @@
 }
 
 @inproceedings{DBLP:conf/sp/CremersRSC12,
-  author    = {Cas J. F. Cremers and
+  author    = {Cas Cremers and
                Kasper Bonne Rasmussen and
                Benedikt Schmidt and
                Srdjan Capkun},
@@ -9424,7 +10787,7 @@
                Duncan A. Grove and
                Tristan Newby and
                Alex Murray and
-               Chris J. North and
+               Chris North and
                Michael Pope},
   title     = {PRISM: Program Replication and Integration for Seamless {MILS}},
   booktitle = oakland,
@@ -12585,7 +13948,7 @@
 }
 
 @inproceedings{DBLP:conf/sp/Weiser99,
-  author    = {Mark Weiser},
+  author    = {Mark D. Weiser},
   title     = {How Computers Will Be Used Differently in the Next Twenty Years},
   booktitle = oakland,
   year      = 1999,
@@ -13813,7 +15176,7 @@
 }
 
 @inproceedings{DBLP:conf/sp/GilgorLP92,
-  author    = {Virgil D. Gilgor and
+  author    = {Virgil D. Gligor and
                Shyh-Wei Luan and
                Joseph N. Pato},
   title     = {On inter-realm authentication in large distributed systems},
@@ -13962,7 +15325,7 @@
                D. Rothnie and
                Hilarie K. Orman and
                Ann B. Marmor-Squires and
-               M. Branstad and
+               Martha A. Branstad and
                Bonnie P. Danner},
   title     = {Evolution of a trusted B3 window system prototype},
   booktitle = oakland,
@@ -14174,9 +15537,9 @@
 }
 
 @inproceedings{DBLP:conf/sp/FritznerNS91,
-  author    = {C. Fritzner and
-               L. Nilsen and
-               Å. Skomedal},
+  author    = {Claus Fritzner and
+               Leif Nilsen and
+               Åsmund Skomedal},
   title     = {Protecting Security Information in Distributed Systems},
   booktitle = oakland,
   year      = 1991,
@@ -14421,9 +15784,9 @@
 }
 
 @inproceedings{DBLP:conf/sp/BranstadBC90,
-  author    = {M. Branstad and
-               W. C. Barker and
-               P. Cochrane},
+  author    = {Martha A. Branstad and
+               W. Curtis Barker and
+               Pamela Cochrane},
   title     = {The Role of Trust in Protected Mail},
   booktitle = oakland,
   year      = 1990,
@@ -14612,7 +15975,7 @@
 }
 
 @inproceedings{DBLP:conf/sp/BranstadTMD89,
-  author    = {M. Branstad and
+  author    = {Martha A. Branstad and
                Homayoon Tajalli and
                F. Mayer and
                D. Dalva},
@@ -14770,7 +16133,7 @@
 
 @inproceedings{DBLP:conf/sp/DobsonM89,
   author    = {John E. Dobson and
-               John A. McDermid},
+               John Alexander McDermid},
   title     = {A Framework for Expressing Models of Security Policy},
   booktitle = oakland,
   year      = 1989,
@@ -15768,7 +17131,7 @@
 
 @inproceedings{DBLP:conf/sp/GoldLC84,
   author    = {Barry D. Gold and
-               R. R. Linde and
+               Richard R. Linde and
                P. F. Cudney},
   title     = {KVM/37O in Retrospect},
   booktitle = oakland,

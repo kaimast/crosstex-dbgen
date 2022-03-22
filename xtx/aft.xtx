@@ -1,5 +1,165 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/aft/McMenaminDP21,
+  author    = {Conor McMenamin and
+               Vanesa Daza and
+               Matteo Pontecorvi},
+  title     = {Achieving state machine replication without honest players},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/aft/EngelH21,
+  author    = {Daniel Engel and
+               Maurice Herlihy},
+  title     = {Composing networks of automated market makers},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/aft/CevallosS21,
+  author    = {Alfonso Cevallos and
+               Alistair Stewart},
+  title     = {A verifiably secure and proportional committee election rule},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/aft/KrolARSAR21,
+  author    = {Michal Król and
+               Onur Ascigil and
+               Sergi Rene and
+               Alberto Sonnino and
+               Mustafa Al-Bassam and
+               Etienne Rivière},
+  title     = {Shard scheduler: object placement and migration in sharded account-based blockchains},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {43-56},
+}
+
+@inproceedings{DBLP:conf/aft/SompolinskyWZ21,
+  author    = {Yonatan Sompolinsky and
+               Shai Wyborski and
+               Aviv Zohar},
+  title     = {{PHANTOM} GHOSTDAG: a scalable generalization of Nakamoto consensus: September 2, 2021},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/aft/KiayiasS21,
+  author    = {Aggelos Kiayias and
+               Aikaterini-Panagiota Stouka},
+  title     = {Coalition-safe equilibria with virtual payoffs},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/aft/FerreiraMPS21,
+  author    = {Matheus V. X. Ferreira and
+               Daniel J. Moroz and
+               David C. Parkes and
+               Mitchell Stern},
+  title     = {Dynamic posted-price mechanisms for the blockchain transaction-fee market},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {86-99},
+}
+
+@inproceedings{DBLP:conf/aft/LiG021,
+  author    = {Jing Li and
+               Dongning Guo and
+               Ling Ren},
+  title     = {Close latency-security trade-off for the Nakamoto consensus},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {100-113},
+}
+
+@inproceedings{DBLP:conf/aft/LeonardosMRSP21,
+  author    = {Stefanos Leonardos and
+               Barnabé Monnot and
+               Daniël Reijsbergen and
+               Efstratios Skoulakis and
+               Georgios Piliouras},
+  title     = {Dynamical analysis of the EIP-1559 Ethereum fee market},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {114-126},
+}
+
+@inproceedings{DBLP:conf/aft/EskandariSGC21,
+  author    = {Shayan Eskandari and
+               Mehdi Salehi and
+               Wanyun Catherine Gu and
+               Jeremy Clark},
+  title     = {SoK: oracles from the ground truth to market manipulation},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {127-141},
+}
+
+@inproceedings{DBLP:conf/aft/LeG21,
+  author    = {Duc Viet Le and
+               Arthur Gervais},
+  title     = {AMR: autonomous coin mixer with privacy preserving reward distribution},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {142-155},
+}
+
+@inproceedings{DBLP:conf/aft/Amores-SesarCP21,
+  author    = {Ignacio Amores-Sesar and
+               Christian Cachin and
+               Anna Parker},
+  title     = {Generalizing weighted trees: a bridge from Bitcoin to {GHOST}},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {156-169},
+}
+
+@inproceedings{DBLP:conf/aft/AzouviC21,
+  author    = {Sarah Azouvi and
+               Daniele Cappelletti},
+  title     = {Private attacks in longest chain proof-of-stake protocols with single secret leader elections},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {170-182},
+}
+
+@inproceedings{DBLP:conf/aft/RahimpourK21,
+  author    = {Sonbol Rahimpour and
+               Majid Khabbazian},
+  title     = {Spear: fast multi-path payment with redundancy},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {183-191},
+}
+
+@inproceedings{DBLP:conf/aft/GarayS21,
+  author    = {Juan A. Garay and
+               Yu Shen},
+  title     = {On Bitcoin cash's target recalculation functions},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {192-204},
+}
+
+@inproceedings{DBLP:conf/aft/KiayiasPZ21,
+  author    = {Aggelos Kiayias and
+               Andrianna Polydouri and
+               Dionysis Zindros},
+  title     = {The velvet path to superlight blockchain clients},
+  booktitle = aft,
+  year      = 2021,
+  pages     = {205-218},
+}
+
 @inproceedings{DBLP:conf/aft/ChanS20,
   author    = {Benjamin Y. Chan and
                Elaine Shi},
@@ -72,7 +232,7 @@
 @inproceedings{DBLP:conf/aft/GudgeonW0K20,
   author    = {Lewis Gudgeon and
                Sam Werner and
-               Daniel Pérez and
+               Daniel Perez and
                William J. Knottenbelt},
   title     = {{DeFi} Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency},
   booktitle = aft,

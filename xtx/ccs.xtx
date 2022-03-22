@@ -1,5 +1,3605 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/ccs/Carlini21,
+  author    = {Nicholas Carlini},
+  title     = {Session details: Session 1: Adversarial Machine Learning},
+  booktitle = ccs,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/ccs/Carlini21a,
+  author    = {Nicholas Carlini},
+  title     = {Session details: Session 2A: Machine Learning for Cybersecurity},
+  booktitle = ccs,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/ccs/Chen21,
+  author    = {Yizheng Chen},
+  title     = {Session details: Session 3: {Privacy-Preserving} Machine Learning},
+  booktitle = ccs,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/ccs/Demontis21,
+  author    = {Ambra Demontis},
+  title     = {Session details: Session 2B: Machine Learning for Cybersecurity},
+  booktitle = ccs,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/ccs/ChhillarG21,
+  author    = {Sanjay Chhillar and
+               Dale Geach},
+  title     = {Digital Transformation and emerging ICS/{OT} cyber attacks - Imminent Threats to Our Society},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Espitau21,
+  author    = {Thomas Espitau},
+  title     = {Mitaka: Faster, Simpler, Parallelizable and Maskable {Hash-and-Sign} Signatures on {NTRU} Lattices},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Koushanfar21,
+  author    = {Farinaz Koushanfar},
+  title     = {Machine Learning on Encrypted Data: Hardware to the Rescue},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Dwork21,
+  author    = {Cynthia Dwork},
+  title     = {{Pseudo-Randomness} and the Crystal Ball},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/ccs/Salvo21,
+  author    = {Joseph James Salvo},
+  title     = {Security in a Complex Non-deterministic World: Towards a Quantum Secure Industrial Internet "QSII&"},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/ccs/Volckaert21,
+  author    = {Stijn Volckaert},
+  title     = {Randomization-based Defenses against {Data-Oriented} Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/ccs/DabrowskiPRMWF21,
+  author    = {Adrian Dabrowski and
+               Katharina Pfeffer and
+               Markus Reichel and
+               Alexandra Mai and
+               Edgar R. Weippl and
+               Michael Franz},
+  title     = {Better Keep Cash in Your Boots - Hardware Wallets are the New Single Point of Failure},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/ccs/IliashenkoNZ21,
+  author    = {Ilia Iliashenko and
+               Christophe Nègre and
+               Vincent Zucca},
+  title     = {Integer Functions Suitable for Homomorphic Encryption over Finite Fields},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/ccs/JacobsenRD21,
+  author    = {Ben Jacobsen and
+               Sazzadur Rahaman and
+               Saumya Debray},
+  title     = {Optimization to the Rescue: Evading Binary Code Stylometry with Adversarial Use of Code Optimizations},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/ccs/DionysiouA21,
+  author    = {Antreas Dionysiou and
+               Elias Athanasopoulos},
+  title     = {Unicode Evil: Evading {NLP} Systems Using Visual Similarities of Text Characters},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/ccs/DrichelHBM21,
+  author    = {Arthur Drichel and
+               Benedikt Holmes and
+               Justus von Brandt and
+               Ulrike Meyer},
+  title     = {The More, the Better: A Study on Collaborative Machine Learning for {DGA} Detection},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/ccs/Lee21,
+  author    = {Ruby B. Lee},
+  title     = {Speculative Execution Attacks and Hardware Defenses},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/ccs/Song21,
+  author    = {Dawn Song},
+  title     = {Towards Building a Responsible Data Economy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/ccs/YampolskiyGY21,
+  author    = {Mark Yampolskiy and
+               Jacob Gatlin and
+               Moti Yung},
+  title     = {Myths and Misconceptions in Additive Manufacturing Security: Deficiencies of the {CIA} Triad},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3-9},
+}
+
+@inproceedings{DBLP:conf/ccs/AbdelnabiF21,
+  author    = {Sahar Abdelnabi and
+               Mario Fritz},
+  title     = {What's in the box: Deflecting Adversarial Attacks by Randomly Deploying {Adversarially-Disjoint} Models},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3-12},
+}
+
+@inproceedings{DBLP:conf/ccs/DAnversOV21,
+  author    = {Jan-Pieter D'Anvers and
+               Emmanuela Orsini and
+               Frederik Vercauteren},
+  title     = {Error Term Checking: Towards Chosen Ciphertext Security without Re-encryption},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3-12},
+}
+
+@inproceedings{DBLP:conf/ccs/TippenhauerCMN21,
+  author    = {Nils Ole Tippenhauer and
+               Binbin Chen and
+               Daisuke Mashima and
+               David M. Nicol},
+  title     = {vBump: Securing Ethernet-based Industrial Control System Networks with {VLAN-based} Traffic Aggregation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/ccs/Kim21,
+  author    = {Taesoo Kim},
+  title     = {Are we done yet? Our Journey to Fight against Memory-safety Bugs},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/ccs/DeutschbeinMRKS21,
+  author    = {Calvin Deutschbein and
+               Andres Meza and
+               Francesco Restuccia and
+               Ryan Kastner and
+               Cynthia Sturton},
+  title     = {Isadora: Automated Information Flow Property Generation for Hardware Designs},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {5-15},
+}
+
+@inproceedings{DBLP:conf/ccs/XuWYZZH21,
+  author    = {Ming Xu and
+               Chuanwang Wang and
+               Jitao Yu and
+               Junjie Zhang and
+               Kai Zhang and
+               Weili Han},
+  title     = {{Chunk-Level} Password Guessing: Towards Modeling Refined Password Composition Representations},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {5-20},
+}
+
+@inproceedings{DBLP:conf/ccs/Fritsch21,
+  author    = {Robin Fritsch},
+  title     = {A Note on Optimal Fees for Constant Function Market Makers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/ccs/IbarrondoV21,
+  author    = {Alberto Ibarrondo and
+               Alexander Viand},
+  title     = {Pyfhel: {PYthon} For Homomorphic Encryption Libraries},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {11-16},
+}
+
+@inproceedings{DBLP:conf/ccs/KangD21,
+  author    = {Xiyu Kang and
+               Saumya Debray},
+  title     = {A Framework for Automatic Exploit Generation for {JIT} Compilers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {11-19},
+}
+
+@inproceedings{DBLP:conf/ccs/TiwariVGRKB21,
+  author    = {Akash Tiwari and
+               Eduardo Jose Villasenor and
+               Nikhil Gupta and
+               A. L. Narasimha Reddy and
+               Ramesh Karri and
+               Satish T. S. Bukkapatnam},
+  title     = {Protection against Counterfeiting Attacks in 3D Printing by Streaming Signature-embedded Manufacturing Process Instructions},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {11-21},
+}
+
+@inproceedings{DBLP:conf/ccs/IzmailovLVS21,
+  author    = {Rauf Izmailov and
+               Peter Lin and
+               Sridhar Venkatesan and
+               Shridatt Sugrim},
+  title     = {Combinatorial Boosting of Classifiers for Moving Target Defense Against Adversarial Evasion Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {13-21},
+}
+
+@inproceedings{DBLP:conf/ccs/KoyamaTMM21,
+  author    = {Hiroto Koyama and
+               Kodai Toyoda and
+               Daiki Miyahara and
+               Takaaki Mizuki},
+  title     = {New Card-based Copy Protocols Using Only Random Cuts},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/ccs/RichardsNCFMR21,
+  author    = {Luke E. Richards and
+               André T. Nguyen and
+               Ryan Capps and
+               Steven Forsyth and
+               Cynthia Matuszek and
+               Edward Raff},
+  title     = {Adversarial Transfer Attacks With Unknown Data and Class Overlap},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/ccs/WilkensOHV021,
+  author    = {Florian Wilkens and
+               Felix Ortmann and
+               Steffen Haas and
+               Matthias Vallentin and
+               Mathias Fischer},
+  title     = {{Multi-Stage} Attack Detection via Kill Chain State Machines},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/ccs/Fritsch21a,
+  author    = {Robin Fritsch},
+  title     = {Concentrated Liquidity in Automated Market Makers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {15-20},
+}
+
+@inproceedings{DBLP:conf/ccs/QuinonezSSTC21,
+  author    = {Raul Quinonez and
+               Sleiman Safaoui and
+               Tyler H. Summers and
+               Bhavani M. Thuraisingham and
+               Alvaro A. Cárdenas},
+  title     = {Shared Reality: Detecting Stealthy Attacks Against Autonomous Vehicles},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/ccs/KrachenfelsST21,
+  author    = {Thilo Krachenfels and
+               Jean-Pierre Seifert and
+               Shahin Tajik},
+  title     = {Trojan Awakener: Detecting Dormant Malicious Hardware Using Laser Logic State Imaging},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {17-27},
+}
+
+@inproceedings{DBLP:conf/ccs/MicciancioP21,
+  author    = {Daniele Micciancio and
+               Yuriy Polyakov},
+  title     = {Bootstrapping in {FHEW-like} Cryptosystems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {17-28},
+}
+
+@inproceedings{DBLP:conf/ccs/HamrickRMV0G21,
+  author    = {J. T. Hamrick and
+               Farhang Rouhi and
+               Arghya Mukherjee and
+               Marie Vasek and
+               Tyler Moore and
+               Neil Gandal},
+  title     = {Analyzing {Target-Based} Cryptocurrency Pump and Dump Schemes},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {21-27},
+}
+
+@inproceedings{DBLP:conf/ccs/LinWLE21,
+  author    = {Tingting Lin and
+               Manfred von Willich and
+               Dafu Lou and
+               Phil Eisen},
+  title     = {A {DCA-resistant} Implementation of SM4 for the White-box Context},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {21-33},
+}
+
+@inproceedings{DBLP:conf/ccs/PletinckxBF21,
+  author    = {Stijn Pletinckx and
+               Kevin Borgolte and
+               Tobias Fiebig},
+  title     = {Out of Sight, Out of Mind: Detecting Orphaned Web Pages at {Internet-Scale}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {21-35},
+}
+
+@inproceedings{DBLP:conf/ccs/Fang21,
+  author    = {Fei Fang},
+  title     = {Game Theoretic Models for Cyber Deception},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {23-24},
+}
+
+@inproceedings{DBLP:conf/ccs/MalashkhiaSPW21,
+  author    = {Luka Malashkhia and
+               Laura P. Swiler and
+               Ali Pinar and
+               Yan Wang},
+  title     = {A Robust Control Scheme for Time Delay Switch Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {23-30},
+}
+
+@inproceedings{DBLP:conf/ccs/EbinaMSW21,
+  author    = {Masahiro Ebina and
+               Jumpei Mita and
+               Junji Shikata and
+               Yohei Watanabe},
+  title     = {Efficient Threshold Public Key Encryption from the Computational Bilinear {Diffie-Hellman} Assumption},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {23-32},
+}
+
+@inproceedings{DBLP:conf/ccs/Shan21,
+  author    = {Shawn Shan},
+  title     = {Using Honeypots to Catch Adversarial Attacks on Neural Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {25},
+}
+
+@inproceedings{DBLP:conf/ccs/TjiamWCL21,
+  author    = {Kevin Tjiam and
+               Rui Wang and
+               Huanhuan Chen and
+               Kaitai Liang},
+  title     = {Your Smart Contracts Are Not Secure: Investigating Arbitrageurs and Oracle Manipulators in Ethereum},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {25-35},
+}
+
+@inproceedings{DBLP:conf/ccs/SitawarinCW21,
+  author    = {Chawin Sitawarin and
+               Supriyo Chakraborty and
+               David A. Wagner},
+  title     = {SAT: Improving Adversarial Training via {Curriculum-Based} Loss Smoothing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/ccs/Burow21,
+  author    = {Nathan Burow},
+  title     = {Research Frontiers for Moving Target Defenses},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {27-28},
+}
+
+@inproceedings{DBLP:conf/ccs/Choo21,
+  author    = {Kim-Kwang Raymond Choo},
+  title     = {Internet of Things (IoT) Security and Forensics: Challenges and Opportunities},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {27-28},
+}
+
+@inproceedings{DBLP:conf/ccs/ChhabraM21,
+  author    = {Anshuman Chhabra and
+               Prasant Mohapatra},
+  title     = {Moving Target Defense against Adversarial Machine Learning},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {29-30},
+}
+
+@inproceedings{DBLP:conf/ccs/Lee021,
+  author    = {Kyuin Lee and
+               Younghyun Kim},
+  title     = {Balancing Security and Usability of Zero-interaction Pairing and Authentication for the {Internet-of-Things}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {29-34},
+}
+
+@inproceedings{DBLP:conf/ccs/KurodaFYF21,
+  author    = {Kunihiro Kuroda and
+               Yuta Fukuda and
+               Kota Yoshida and
+               Takeshi Fujino},
+  title     = {Practical Aspects on Non-profiled Deep-learning Side-channel Attacks against {AES} Software Implementation with Two Types of Masking Countermeasures including {RSM}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {29-40},
+}
+
+@inproceedings{DBLP:conf/ccs/CastroJV21,
+  author    = {Leo de Castro and
+               Chiraag Juvekar and
+               Vinod Vaikuntanathan},
+  title     = {Fast Vector Oblivious Linear Evaluation from Ring Learning with Errors},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {29-41},
+}
+
+@inproceedings{DBLP:conf/ccs/0002ZMZHQKPL21,
+  author    = {Zhongjie Wang and
+               Shitong Zhu and
+               Keyu Man and
+               Pengxiong Zhu and
+               Yu Hao and
+               Zhiyun Qian and
+               Srikanth V. Krishnamurthy and
+               Tom La Porta and
+               Michael J. De Lucia},
+  title     = {Themis: {Ambiguity-Aware} Network Intrusion Detection based on Symbolic Model Comparison},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {31-32},
+}
+
+@inproceedings{DBLP:conf/ccs/ElSayedDP21,
+  author    = {Karim A. ElSayed and
+               Adam Dachowicz and
+               Jitesh H. Panchal},
+  title     = {Information Embedding in Additive Manufacturing through Printing Speed Control},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {31-37},
+}
+
+@inproceedings{DBLP:conf/ccs/Peng21,
+  author    = {Kun Peng},
+  title     = {Perfect {ZK} Argument of Knowledge of Discrete Logarithm in A Cyclic Group with Unknown Order},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {33-40},
+}
+
+@inproceedings{DBLP:conf/ccs/00140FX21,
+  author    = {Zhe Li and
+               Bo Chen and
+               Wu-chang Feng and
+               Fei Xie},
+  title     = {Concolic Execution of {NMap} Scripts for Honeyfarm Generation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {33-42},
+}
+
+@inproceedings{DBLP:conf/ccs/UmerAJM21,
+  author    = {Muhammad Azmi Umer and
+               Chuadhry Mujeeb Ahmed and
+               Muhammad Taha Jilani and
+               Aditya P. Mathur},
+  title     = {Attack Rules: An Adversarial Approach to Generate Attacks for Industrial Control Systems using Machine Learning},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {35-40},
+}
+
+@inproceedings{DBLP:conf/ccs/NovacEP21,
+  author    = {Daniela Novac and
+               Christian Eichler and
+               Michael Philippsen},
+  title     = {{LLWM} & IR-Mark: Integrating Software Watermarks into an {LLVM-based} Framework},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {35-41},
+}
+
+@inproceedings{DBLP:conf/ccs/KondrackiASN21,
+  author    = {Brian Kondracki and
+               Babak Amin Azad and
+               Oleksii Starov and
+               Nick Nikiforakis},
+  title     = {Catching Transparent Phish: Analyzing and Detecting {MITM} Phishing Toolkits},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {36-50},
+}
+
+@inproceedings{DBLP:conf/ccs/SharevskiJP21,
+  author    = {Filipo Sharevski and
+               Peter Jachim and
+               Emma Pieroni},
+  title     = {Regulation TL;DR: Adversarial Text Summarization of Federal Register Articles},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangCW21,
+  author    = {Zhanyuan Zhang and
+               Yizheng Chen and
+               David A. Wagner},
+  title     = {SEAT: Similarity Encoder by Adversarial Training for Detecting Model Extraction Attack Queries},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {37-48},
+}
+
+@inproceedings{DBLP:conf/ccs/EngelmannSGKB21,
+  author    = {Felix Engelmann and
+               Jan Philip Speichert and
+               Ralf God and
+               Frank Kargl and
+               Christoph Bösch},
+  title     = {Confidential {Token-Based} License Management},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {39-48},
+}
+
+@inproceedings{DBLP:conf/ccs/YangL0F21,
+  author    = {Yucheng Yang and
+               Kyuin Lee and
+               Younghyun Kim and
+               Kassem Fawaz},
+  title     = {PEDRO: Secure Pedestrian Mobility Verification in V2P Communication using Commercial Off-the-shelf Mobile Devices},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {41-46},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuC21,
+  author    = {Wenye Liu and
+               Chip-Hong Chang},
+  title     = {A Forward Error Compensation Approach for Fault Resilient Deep Neural Network Accelerator Design},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/ccs/ShibataY21,
+  author    = {Toshiya Shibata and
+               Kazuki Yoneyama},
+  title     = {Universally Composable Forward Secure Dynamic Searchable Symmetric Encryption},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/ccs/ChowdharyDLS21,
+  author    = {Sangeeta Chowdhary and
+               Wei Dai and
+               Kim Laine and
+               Olli Saarikivi},
+  title     = {{EVA} Improved: Compiler and Extension Library for {CKKS}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {43-55},
+}
+
+@inproceedings{DBLP:conf/ccs/QuartaIMFGBLVK21,
+  author    = {Davide Quarta and
+               Michele Ianni and
+               Aravind Machiry and
+               Yanick Fratantonio and
+               Eric Gustafson and
+               Davide Balzarotti and
+               Martina Lindorfer and
+               Giovanni Vigna and
+               Christopher Kruegel},
+  title     = {Tarnhelm: Isolated, Transparent & Confidential Execution of Arbitrary Code in {ARM's} {TrustZone}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {43-57},
+}
+
+@inproceedings{DBLP:conf/ccs/DuttaMS21,
+  author    = {Aneet Kumar Dutta and
+               Bhaskar Mukhoty and
+               Sandeep K. Shukla},
+  title     = {CatchAll: A Robust Multivariate Intrusion Detection System for {Cyber-Physical} Systems using Low Rank Matrix},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {47-56},
+}
+
+@inproceedings{DBLP:conf/ccs/CotteleerGWAKMS21,
+  author    = {Mark J. Cotteleer and
+               Simon S. Goldenberg and
+               Ian Wing and
+               Oyindamola Alliyu and
+               Stephen Kania and
+               Veda Mujumdar and
+               Brenna Sniderman},
+  title     = {Cybersecurity Requirements for {AM} Systems: New Enforcement in {DoD} Environments, and Resources for Implementation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {49-60},
+}
+
+@inproceedings{DBLP:conf/ccs/Veldanda0TKKKDG21,
+  author    = {Akshaj Kumar Veldanda and
+               Kang Liu and
+               Benjamin Tan and
+               Prashanth Krishnamurthy and
+               Farshad Khorrami and
+               Ramesh Karri and
+               Brendan Dolan-Gavitt and
+               Siddharth Garg},
+  title     = {NNoculation: Catching {BadNets} in the Wild},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {49-60},
+}
+
+@inproceedings{DBLP:conf/ccs/HaraMT21,
+  author    = {Keisuke Hara and
+               Takahiro Matsuda and
+               Keisuke Tanaka},
+  title     = {Receiver Selective Opening Chosen Ciphertext Secure {Identity-Based} Encryption},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {51-59},
+}
+
+@inproceedings{DBLP:conf/ccs/NgoD021,
+  author    = {Kalle Ngo and
+               Elena Dubrova and
+               Thomas Johansson},
+  title     = {Breaking Masked and Shuffled {CCA} Secure Saber {KEM} by Power Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {51-61},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangYLLCT21,
+  author    = {Yihe Zhang and
+               Xu Yuan and
+               Jin Li and
+               Jiadong Lou and
+               Li Chen and
+               Nian-Feng Tzeng},
+  title     = {Reverse Attack: Black-box Attacks on Collaborative Recommendation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {51-68},
+}
+
+@inproceedings{DBLP:conf/ccs/BoemerKSSG21,
+  author    = {Fabian Boemer and
+               Sejun Kim and
+               Gelila Seifu and
+               Fillipe D. M. de Souza and
+               Vinodh Gopal},
+  title     = {Intel HEXL: Accelerating Homomorphic Encryption with Intel AVX512-IFMA52},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {57-62},
+}
+
+@inproceedings{DBLP:conf/ccs/BraccialeLR021,
+  author    = {Lorenzo Bracciale and
+               Pierpaolo Loreti and
+               Emanuele Raso and
+               Giuseppe Bianchi},
+  title     = {TooLate: Cryptographic Data Access Control for Offline Devices through Efficient Key Rotation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {57-62},
+}
+
+@inproceedings{DBLP:conf/ccs/WeidemanFWMHG21,
+  author    = {Nicolaas Weideman and
+               Virginia K. Felkner and
+               Wei-Cheng Wu and
+               Jonathan May and
+               Christophe Hauser and
+               Luis Garcia},
+  title     = {PERFUME: Programmatic Extraction and Refinement for Usability of Mathematical Expression},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {59-69},
+}
+
+@inproceedings{DBLP:conf/ccs/AdkinsTM21,
+  author    = {Chris Adkins and
+               Stephan Thomas and
+               Daniel Moore},
+  title     = {Defining and Addressing the Cybersecurity Challenges of Additive Manufacturing Platforms},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {61-65},
+}
+
+@inproceedings{DBLP:conf/ccs/YehezkelES21,
+  author    = {Aviv Yehezkel and
+               Eyal Elyashiv and
+               Or Soffer},
+  title     = {Network Anomaly Detection Using Transfer Learning Based on {Auto-Encoders} Loss Normalization},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {61-71},
+}
+
+@inproceedings{DBLP:conf/ccs/GardinerEGRNR21,
+  author    = {Joseph Gardiner and
+               Adam Eiffert and
+               Peter Garraghan and
+               Nicholas J. P. Race and
+               Shishir Nagaraja and
+               Awais Rashid},
+  title     = {Controller-in-the-Middle: Attacks on Software Defined Networks in Industrial Control Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {63-68},
+}
+
+@inproceedings{DBLP:conf/ccs/MatsuokaHS021,
+  author    = {Kotaro Matsuoka and
+               Yusuke Hoshizuki and
+               Takashi Sato and
+               Song Bian},
+  title     = {Towards Better Standard Cell Library: Optimizing Compound Logic Gates for {TFHE}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {63-68},
+}
+
+@inproceedings{DBLP:conf/ccs/OyamaOYF21,
+  author    = {Tatsuya Oyama and
+               Shunsuke Okura and
+               Kota Yoshida and
+               Takeshi Fujino},
+  title     = {Backdoor Attack on Deep Neural Networks Triggered by Fault Injection Attack on Image Sensor Interface},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {63-72},
+}
+
+@inproceedings{DBLP:conf/ccs/HaoLJ021,
+  author    = {Qingying Hao and
+               Licheng Luo and
+               Steve T. K. Jan and
+               Gang Wang},
+  title     = {It's Not What It Looks Like: Manipulating Perceptual Hashing based Applications},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {69-85},
+}
+
+@inproceedings{DBLP:conf/ccs/JoyceRN21,
+  author    = {Robert J. Joyce and
+               Edward Raff and
+               Charles Nicholas},
+  title     = {A Framework for Cluster and Classifier Evaluation in the Absence of Reference Labels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {73-84},
+}
+
+@inproceedings{DBLP:conf/ccs/VasselleTM21,
+  author    = {Aurélien Vasselle and
+               Hugues Thiebeauld and
+               Philippe Maurine},
+  title     = {Spatial Dependency Analysis to Extract Information from {Side-Channel} Mixtures},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {73-84},
+}
+
+@inproceedings{DBLP:conf/ccs/ImranAR0RP21,
+  author    = {Malik Imran and
+               Felipe Almeida and
+               Jaan Raik and
+               Andrea Basso and
+               Sujoy Sinha Roy and
+               Samuel Pagliarini},
+  title     = {Design Space Exploration of {SABER} in 65nm {ASIC}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/ccs/DeshpandeGF21,
+  author    = {Chinmay Deshpande and
+               David Gens and
+               Michael Franz},
+  title     = {StackBERT: Machine Learning Assisted Static Stack Frame Size Recovery on Stripped and Optimized Binaries},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {85-95},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhengJWLS0GTZ21,
+  author    = {Baolin Zheng and
+               Peipei Jiang and
+               Qian Wang and
+               Qi Li and
+               Chao Shen and
+               Cong Wang and
+               Yunjie Ge and
+               Qingyang Teng and
+               Shenyi Zhang},
+  title     = {Black-box Adversarial Attacks on Commercial Speech Platforms with Minimal Information},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {86-107},
+}
+
+@inproceedings{DBLP:conf/ccs/KomissarovW21,
+  author    = {Rony Komissarov and
+               Avishai Wool},
+  title     = {Spoofing Attacks Against Vehicular {FMCW} Radar},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {91-97},
+}
+
+@inproceedings{DBLP:conf/ccs/ShanB0Z21,
+  author    = {Shawn Shan and
+               Arjun Nitin Bhagoji and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {Patch-based Defenses against Web Fingerprinting Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {97-109},
+}
+
+@inproceedings{DBLP:conf/ccs/Wittkotter21,
+  author    = {Erland Wittkotter},
+  title     = {WaC: Trustworthy Encryption and Communication in an {IT} Ecosystem with Artificial Superintelligence},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {99-109},
+}
+
+@inproceedings{DBLP:conf/ccs/MuWL0XL21,
+  author    = {Jiaming Mu and
+               Binghui Wang and
+               Qi Li and
+               Kun Sun and
+               Mingwei Xu and
+               Zhuotao Liu},
+  title     = {A Hard Label Black-box Adversarial Attack Against Graph Neural Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {108-125},
+}
+
+@inproceedings{DBLP:conf/ccs/WonCJBB21,
+  author    = {Yoo-Seung Won and
+               Soham Chatterjee and
+               Dirmanto Jap and
+               Arindam Basu and
+               Shivam Bhasin},
+  title     = {WaC: First Results on Practical {Side-Channel} Attacks on Commercial Machine Learning Accelerator},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {111-114},
+}
+
+@inproceedings{DBLP:conf/ccs/AndresiniPPLAC21,
+  author    = {Giuseppina Andresini and
+               Feargus Pendlebury and
+               Fabio Pierazzi and
+               Corrado Loglisci and
+               Annalisa Appice and
+               Lorenzo Cavallaro},
+  title     = {INSOMNIA: Towards {Concept-Drift} Robustness in Network Intrusion Detection},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/ccs/KanPPC21,
+  author    = {Zeliang Kan and
+               Feargus Pendlebury and
+               Fabio Pierazzi and
+               Lorenzo Cavallaro},
+  title     = {Investigating Labelless Drift Adaptation for Malware Detection},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {123-134},
+}
+
+@inproceedings{DBLP:conf/ccs/BahramaliNHGT21,
+  author    = {Alireza Bahramali and
+               Milad Nasr and
+               Amir Houmansadr and
+               Dennis Goeckel and
+               Don Towsley},
+  title     = {Robust Adversarial Attacks Against {DNN-Based} Wireless Communication Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {126-140},
+}
+
+@inproceedings{DBLP:conf/ccs/HilgefortAR21,
+  author    = {Jan Malte Hilgefort and
+               Daniel Arp and
+               Konrad Rieck},
+  title     = {Spying through Virtual Backgrounds of Video Calls},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {135-144},
+}
+
+@inproceedings{DBLP:conf/ccs/0018Z0Z21,
+  author    = {Yue Zhao and
+               Hong Zhu and
+               Kai Chen and
+               Shengzhi Zhang},
+  title     = {AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {141-158},
+}
+
+@inproceedings{DBLP:conf/ccs/GanzHWR21,
+  author    = {Tom Ganz and
+               Martin Härterich and
+               Alexander Warnecke and
+               Konrad Rieck},
+  title     = {Explaining Graph Neural Networks for Vulnerability Discovery},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {145-156},
+}
+
+@inproceedings{DBLP:conf/ccs/KujanpaaVI21,
+  author    = {Kalle Kujanpää and
+               Willie Victor and
+               Alexander Ilin},
+  title     = {Automating Privilege Escalation with Deep Reinforcement Learning},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {157-168},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangLWZSXZ21,
+  author    = {Jiaheng Zhang and
+               Tianyi Liu and
+               Weijie Wang and
+               Yinuo Zhang and
+               Dawn Song and
+               Xiang Xie and
+               Yupeng Zhang},
+  title     = {Doubly Efficient Interactive Proofs for General Arithmetic Circuits with Linear Prover Time},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {159-177},
+}
+
+@inproceedings{DBLP:conf/ccs/DreesGHJKPRS21,
+  author    = {Jan Peter Drees and
+               Pritha Gupta and
+               Eyke Hüllermeier and
+               Tibor Jager and
+               Alexander Konze and
+               Claudia Priesterjahn and
+               Arunselvan Ramaswamy and
+               Juraj Somorovsky},
+  title     = {Automated Detection of Side Channels in Cryptographic Protocols: {DROWN} the ROBOTs!},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {169-180},
+}
+
+@inproceedings{DBLP:conf/ccs/FranzeseKLO0W21,
+  author    = {Nicholas Franzese and
+               Jonathan Katz and
+               Steve Lu and
+               Rafail Ostrovsky and
+               Xiao Wang and
+               Chenkai Weng},
+  title     = {{Constant-Overhead} {Zero-Knowledge} for {RAM} Programs},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {178-191},
+}
+
+@inproceedings{DBLP:conf/ccs/XuB00JL21,
+  author    = {Runhua Xu and
+               Nathalie Baracaldo and
+               Yi Zhou and
+               Ali Anwar and
+               James Joshi and
+               Heiko Ludwig},
+  title     = {FedV: {Privacy-Preserving} Federated Learning over Vertically Partitioned Data},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {181-192},
+}
+
+@inproceedings{DBLP:conf/ccs/BaumBMRS21,
+  author    = {Carsten Baum and
+               Lennart Braun and
+               Alexander Munch-Hansen and
+               Benoît Razet and
+               Peter Scholl},
+  title     = {Appenzeller to Brie: Efficient {Zero-Knowledge} Proofs for {Mixed-Mode} Arithmetic and Z2k},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {192-211},
+}
+
+@inproceedings{DBLP:conf/ccs/RahimianOF21,
+  author    = {Shadi Rahimian and
+               Tribhuvanesh Orekondy and
+               Mario Fritz},
+  title     = {Differential Privacy Defenses and Sampling Attacks for Membership Inference},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {193-202},
+}
+
+@inproceedings{DBLP:conf/ccs/IshaiSW21,
+  author    = {Yuval Ishai and
+               Hang Su and
+               David J. Wu},
+  title     = {Shorter and Faster {Post-Quantum} {Designated-Verifier} {zkSNARKs} from Lattices},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {212-234},
+}
+
+@inproceedings{DBLP:conf/ccs/WengerBCCS0Z21,
+  author    = {Emily Wenger and
+               Max Bronckers and
+               Christian Cianfarani and
+               Jenna Cryan and
+               Angela Sha and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {"Hello, It's Me": Deep Learning-based Speech Synthesis Attacks in the Real World},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {235-251},
+}
+
+@inproceedings{DBLP:conf/ccs/SahinL21,
+  author    = {Sena Sahin and
+               Frank Li},
+  title     = {Don't Forget the Stuffing! Revisiting the Security Impact of {Typo-Tolerant} Password Authentication},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {252-270},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhuMHZXZ21,
+  author    = {Tong Zhu and
+               Yan Meng and
+               Haotian Hu and
+               Xiaokuan Zhang and
+               Minhui Xue and
+               Haojin Zhu},
+  title     = {Dissecting Click Fraud Autonomy in the Wild},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {271-286},
+}
+
+@inproceedings{DBLP:conf/ccs/SunYZXZZHL21,
+  author    = {Suibin Sun and
+               Le Yu and
+               Xiaokuan Zhang and
+               Minhui Xue and
+               Ren Zhou and
+               Haojin Zhu and
+               Shuang Hao and
+               Xiaodong Lin},
+  title     = {Understanding and Detecting Mobile Ad Fraud Through the Lens of Invalid Traffic},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {287-303},
+}
+
+@inproceedings{DBLP:conf/ccs/LeeC021,
+  author    = {Sunwoo Lee and
+               Wonsuk Choi and
+               Dong Hoon Lee},
+  title     = {Usable User Authentication on a Smartwatch using Vibration},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {304-319},
+}
+
+@inproceedings{DBLP:conf/ccs/YagemannCSL21,
+  author    = {Carter Yagemann and
+               Simon P. Chung and
+               Brendan Saltaformaggio and
+               Wenke Lee},
+  title     = {Automated Bug Hunting With {Data-Driven} Symbolic Root Cause Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {320-336},
+}
+
+@inproceedings{DBLP:conf/ccs/FengSZXWLN021,
+  author    = {Xiaotao Feng and
+               Ruoxi Sun and
+               Xiaogang Zhu and
+               Minhui Xue and
+               Sheng Wen and
+               Dongxi Liu and
+               Surya Nepal and
+               Yang Xiang},
+  title     = {Snipuzz: Black-box Fuzzing of {IoT} Firmware via Message Snippet Inference},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {337-350},
+}
+
+@inproceedings{DBLP:conf/ccs/NagyNHDH21,
+  author    = {Stefan Nagy and
+               Anh Nguyen-Tuong and
+               Jason D. Hiser and
+               Jack W. Davidson and
+               Matthew Hicks},
+  title     = {Same Coverage, Less Bloat: Accelerating Binary-only Fuzzing with Coverage-preserving Coverage-guided Tracing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {351-365},
+}
+
+@inproceedings{DBLP:conf/ccs/GeNBCHGC21,
+  author    = {Xinyang Ge and
+               Ben Niu and
+               Robert Brotzman and
+               Yaohui Chen and
+               HyungSeok Han and
+               Patrice Godefroid and
+               Weidong Cui},
+  title     = {HyperFuzzer: An Efficient Hybrid Fuzzer for Virtual {CPUs}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {366-378},
+}
+
+@inproceedings{DBLP:conf/ccs/YunSMK21,
+  author    = {Insu Yun and
+               Woosun Song and
+               Seunggi Min and
+               Taesoo Kim},
+  title     = {HardsHeap: A Universal and Extensible Framework for Evaluating Secure Allocators},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {379-392},
+}
+
+@inproceedings{DBLP:conf/ccs/WangDXKZ21,
+  author    = {Yuxin Wang and
+               Zeyu Ding and
+               Yingtai Xiao and
+               Daniel Kifer and
+               Danfeng Zhang},
+  title     = {DPGen: Automated Program Synthesis for Differential Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {393-411},
+}
+
+@inproceedings{DBLP:conf/ccs/FocardiL21,
+  author    = {Riccardo Focardi and
+               Flaminia L. Luccio},
+  title     = {A Formally Verified Configuration for Hardware Security Modules in the Cloud},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {412-428},
+}
+
+@inproceedings{DBLP:conf/ccs/GleissenthallKS21,
+  author    = {Klaus von Gleissenthall and
+               Rami Gökhan Kici and
+               Deian Stefan and
+               Ranjit Jhala},
+  title     = {{Solver-Aided} {Constant-Time} Hardware Verification},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {429-444},
+}
+
+@inproceedings{DBLP:conf/ccs/PatrignaniG21,
+  author    = {Marco Patrignani and
+               Marco Guarnieri},
+  title     = {Exorcising Spectres with Secure Compilers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {445-461},
+}
+
+@inproceedings{DBLP:conf/ccs/BartheGLP21,
+  author    = {Gilles Barthe and
+               Benjamin Grégoire and
+               Vincent Laporte and
+               Swarn Priya},
+  title     = {Structured Leakage and Applications to Cryptographic {Constant-Time} and Cost},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {462-476},
+}
+
+@inproceedings{DBLP:conf/ccs/Chen0QLJW21,
+  author    = {Yizheng Chen and
+               Shiqi Wang and
+               Yue Qin and
+               Xiaojing Liao and
+               Suman Jana and
+               David A. Wagner},
+  title     = {Learning Security Classifiers with Verified Global Robustness Properties},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {477-494},
+}
+
+@inproceedings{DBLP:conf/ccs/SheatsleyHPBWM21,
+  author    = {Ryan Sheatsley and
+               Blaine Hoak and
+               Eric Pauley and
+               Yohan Beugin and
+               Michael J. Weisman and
+               Patrick D. McDaniel},
+  title     = {On the Robustness of Domain Constraints},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {495-515},
+}
+
+@inproceedings{DBLP:conf/ccs/DuJSZLSFYB021,
+  author    = {Tianyu Du and
+               Shouling Ji and
+               Lujia Shen and
+               Yao Zhang and
+               Jinfeng Li and
+               Jie Shi and
+               Chengfang Fang and
+               Jianwei Yin and
+               Raheem Beyah and
+               Ting Wang},
+  title     = {Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {516-534},
+}
+
+@inproceedings{DBLP:conf/ccs/LiWXRK00021,
+  author    = {Linyi Li and
+               Maurice Weber and
+               Xiaojun Xu and
+               Luka Rimanic and
+               Bhavya Kailkhura and
+               Tao Xie and
+               Ce Zhang and
+               Bo Li},
+  title     = {TSS: {Transformation-Specific} Smoothing for Robustness Certification},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {535-557},
+}
+
+@inproceedings{DBLP:conf/ccs/XueAXYC21,
+  author    = {Haiyang Xue and
+               Man Ho Au and
+               Xiang Xie and
+               Tsz Hon Yuen and
+               Handong Cui},
+  title     = {Efficient Online-friendly {Two-Party} {ECDSA} Signature},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {558-573},
+}
+
+@inproceedings{DBLP:conf/ccs/HeathK21,
+  author    = {David Heath and
+               Vladimir Kolesnikov},
+  title     = {One Hot Garbling},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {574-593},
+}
+
+@inproceedings{DBLP:conf/ccs/GuilhemMRT21,
+  author    = {Cyprien Delpech de Saint Guilhem and
+               Eleftheria Makri and
+               Dragos Rotaru and
+               Titouan Tanguy},
+  title     = {The Return of Eratosthenes: Secure Generation of {RSA} Moduli using Distributed Sieving},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {594-609},
+}
+
+@inproceedings{DBLP:conf/ccs/Araki0OPRT21,
+  author    = {Toshinori Araki and
+               Jun Furukawa and
+               Kazuma Ohara and
+               Benny Pinkas and
+               Hanan Rosemarin and
+               Hikaru Tsuchida},
+  title     = {Secure Graph Analysis at Scale},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {610-629},
+}
+
+@inproceedings{DBLP:conf/ccs/AttrapadungH0MO21,
+  author    = {Nuttapong Attrapadung and
+               Goichiro Hanaoka and
+               Takahiro Matsuda and
+               Hiraku Morita and
+               Kazuma Ohara and
+               Jacob C. N. Schuldt and
+               Tadanori Teruya and
+               Kazunari Tozawa},
+  title     = {Oblivious Linear Group Actions and Applications},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {630-650},
+}
+
+@inproceedings{DBLP:conf/ccs/CourAS21,
+  author    = {Alexander S. La Cour and
+               Khurram K. Afridi and
+               G. Edward Suh},
+  title     = {Wireless Charging Power {Side-Channel} Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {651-665},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenSM21,
+  author    = {Chien-Ying Chen and
+               Debopam Sanyal and
+               Sibin Mohan},
+  title     = {Indistinguishability Prevents Scheduler Side Channels in {Real-Time} Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {666-684},
+}
+
+@inproceedings{DBLP:conf/ccs/SheltonCS0BY21,
+  author    = {Madura A. Shelton and
+               Lukasz Chmielewski and
+               Niels Samwel and
+               Markus Wagner and
+               Lejla Batina and
+               Yuval Yarom},
+  title     = {Rosita++: Automatic {Higher-Order} Leakage Elimination from Cryptographic Code},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {685-699},
+}
+
+@inproceedings{DBLP:conf/ccs/JinMZL21,
+  author    = {Wenqiang Jin and
+               Srinivasan Murali and
+               Huadi Zhu and
+               Ming Li},
+  title     = {Periscope: A Keystroke Inference Attack Using Human Coupled Electromagnetic Emanations},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {700-714},
+}
+
+@inproceedings{DBLP:conf/ccs/BorrelloDQG21,
+  author    = {Pietro Borrello and
+               Daniele Cono D'Elia and
+               Leonardo Querzoni and
+               Cristiano Giuffrida},
+  title     = {Constantine: Automatic {Side-Channel} Resistance Using Efficient Control and Data Flow Linearization},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {715-733},
+}
+
+@inproceedings{DBLP:conf/ccs/JiangMZLZWLW021,
+  author    = {Muhui Jiang and
+               Lin Ma and
+               Yajin Zhou and
+               Qiang Liu and
+               Cen Zhang and
+               Zhi Wang and
+               Xiapu Luo and
+               Lei Wu and
+               Kui Ren},
+  title     = {ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {734-748},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenWZQ21,
+  author    = {Weiteng Chen and
+               Yu Wang and
+               Zheng Zhang and
+               Zhiyun Qian},
+  title     = {SyzGen: Automated Generation of Syscall Specification of {Closed-Source} {macOS} Drivers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {749-763},
+}
+
+@inproceedings{DBLP:conf/ccs/YangSLYLXZQY0021,
+  author    = {Nanzi Yang and
+               Wenbo Shen and
+               Jinku Li and
+               Yutian Yang and
+               Kangjie Lu and
+               Jietao Xiao and
+               Tianyu Zhou and
+               Chenggang Qin and
+               Wang Yu and
+               Jianfeng Ma and
+               Kui Ren},
+  title     = {Demons in the Shared Kernel: Abstract Resource Attacks Against {OS-level} Virtualization},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {764-778},
+}
+
+@inproceedings{DBLP:conf/ccs/CuiYSSC21,
+  author    = {Jinhua Cui and
+               Jason Zhijingcheng Yu and
+               Shweta Shinde and
+               Prateek Saxena and
+               Zhiping Cai},
+  title     = {SmashEx: Smashing {SGX} Enclaves Using Exceptions},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {779-793},
+}
+
+@inproceedings{DBLP:conf/ccs/FuJLL0DZCW21,
+  author    = {Lirong Fu and
+               Shouling Ji and
+               Kangjie Lu and
+               Peiyu Liu and
+               Xuhong Zhang and
+               Yuxuan Duan and
+               Zihui Zhang and
+               Wenzhi Chen and
+               Yanjun Wu},
+  title     = {CPscan: Detecting Bugs Caused by Code Pruning in {IoT} Kernels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {794-810},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangCHLZZQ21,
+  author    = {Hang Zhang and
+               Weiteng Chen and
+               Yu Hao and
+               Guoren Li and
+               Yizhuo Zhai and
+               Xiaochen Zou and
+               Zhiyun Qian},
+  title     = {Statically Discovering {High-Order} Taint Style Vulnerabilities in {OS} Kernels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {811-824},
+}
+
+@inproceedings{DBLP:conf/ccs/MalekzadehBG21,
+  author    = {Mohammad Malekzadeh and
+               Anastasia Borovykh and
+               Deniz Gündüz},
+  title     = {{Honest-but-Curious} Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {825-844},
+}
+
+@inproceedings{DBLP:conf/ccs/HeZ21,
+  author    = {Xinlei He and
+               Yang Zhang},
+  title     = {Quantifying and Mitigating Privacy Risks of Contrastive Learning},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {845-863},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangRWRCHZ21,
+  author    = {Minxing Zhang and
+               Zhaochun Ren and
+               Zihan Wang and
+               Pengjie Ren and
+               Zhumin Chen and
+               Pengfei Hu and
+               Yang Zhang},
+  title     = {Membership Inference Attacks Against Recommender Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {864-879},
+}
+
+@inproceedings{DBLP:conf/ccs/LiZ21,
+  author    = {Zheng Li and
+               Yang Zhang},
+  title     = {Membership Leakage in {Label-Only} Exposures},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {880-895},
+}
+
+@inproceedings{DBLP:conf/ccs/Chen000HZ21,
+  author    = {Min Chen and
+               Zhikun Zhang and
+               Tianhao Wang and
+               Michael Backes and
+               Mathias Humbert and
+               Yang Zhang},
+  title     = {When Machine Unlearning Jeopardizes Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {896-911},
+}
+
+@inproceedings{DBLP:conf/ccs/LiLLYLW21,
+  author    = {Yuanjie Li and
+               Hewu Li and
+               Zhizheng Lv and
+               Xingkun Yao and
+               Qianru Li and
+               Jianping Wu},
+  title     = {Deterrence of Intelligent {DDoS} via {Multi-Hop} Traffic Divergence},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {923-939},
+}
+
+@inproceedings{DBLP:conf/ccs/GriffioenOKD21,
+  author    = {Harm Griffioen and
+               Kris Oosthoek and
+               Paul van der Knaap and
+               Christian Doerr},
+  title     = {Scan, Test, Execute: Adversarial Tactics in Amplification {DDoS} Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {940-954},
+}
+
+@inproceedings{DBLP:conf/ccs/XiongWLL21,
+  author    = {Junjie Xiong and
+               Mingkui Wei and
+               Zhuo Lu and
+               Yao Liu},
+  title     = {Warmonger: Inflicting {Denial-of-Service} via Serverless Functions in the Cloud},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {955-969},
+}
+
+@inproceedings{DBLP:conf/ccs/WagnerKWDHSF21,
+  author    = {Daniel Wagner and
+               Daniel Kopp and
+               Matthias Wichtlhuber and
+               Christoph Dietzel and
+               Oliver Hohlfeld and
+               Georgios Smaragdakis and
+               Anja Feldmann},
+  title     = {United We Stand: Collaborative Detection and Mitigation of Amplification {DDoS} Attacks at Scale},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {970-987},
+}
+
+@inproceedings{DBLP:conf/ccs/SaadARM21,
+  author    = {Muhammad Saad and
+               Afsah Anwar and
+               Srivatsan Ravi and
+               David Mohaisen},
+  title     = {Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and {ChainQuality}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {988-1005},
+}
+
+@inproceedings{DBLP:conf/ccs/Lewis-PyeR21,
+  author    = {Andrew Lewis-Pye and
+               Tim Roughgarden},
+  title     = {How Does Blockchain Security Dictate Blockchain Implementation?},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1006-1019},
+}
+
+@inproceedings{DBLP:conf/ccs/0003EFL021,
+  author    = {Poulami Das and
+               Andreas Erwig and
+               Sebastian Faust and
+               Julian Loss and
+               Siavash Riahi},
+  title     = {The Exact Security of BIP32 Wallets},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1020-1042},
+}
+
+@inproceedings{DBLP:conf/ccs/00010R0KS21,
+  author    = {Mike Graf and
+               Daniel Rausch and
+               Viktoria Ronge and
+               Christoph Egger and
+               Ralf Küsters and
+               Dominique Schröder},
+  title     = {A Security Framework for Distributed Ledgers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1043-1064},
+}
+
+@inproceedings{DBLP:conf/ccs/DiamantarisMSIP21,
+  author    = {Michalis Diamantaris and
+               Serafeim Moustakas and
+               Lichao Sun and
+               Sotiris Ioannidis and
+               Jason Polakis},
+  title     = {This Sneaky Piggy Went to the Android Ad Market: Misusing Mobile Sensors for Stealthy Data Exfiltration},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1065-1081},
+}
+
+@inproceedings{DBLP:conf/ccs/HussainKICB21,
+  author    = {Syed Rafiul Hussain and
+               Imtiaz Karim and
+               Abdullah Al Ishtiaq and
+               Omar Chowdhury and
+               Elisa Bertino},
+  title     = {Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G {LTE} Cellular Devices},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1082-1099},
+}
+
+@inproceedings{DBLP:conf/ccs/HueDLLMMXHCC21,
+  author    = {Man Hong Hue and
+               Joyanta Debnath and
+               Kin Man Leung and
+               Li Li and
+               Mohsen Minaei and
+               M. Hammad Mazhar and
+               Kailiang Xian and
+               Md. Endadul Hoque and
+               Omar Chowdhury and
+               Sze Yiu Chau},
+  title     = {All your Credentials are Belong to Us: On Insecure WPA2-Enterprise Configurations},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1100-1117},
+}
+
+@inproceedings{DBLP:conf/ccs/ShiSWK021,
+  author    = {Xiaofeng Shi and
+               Shouqian Shi and
+               Minmei Wang and
+               Jonne Kaunisto and
+               Chen Qian},
+  title     = {On-device {IoT} Certificate Revocation Checking with Small Memory and Low Latency},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1118-1134},
+}
+
+@inproceedings{DBLP:conf/ccs/CongMGDILR21,
+  author    = {Kelong Cong and
+               Radames Cruz Moreno and
+               Mariana Botelho da Gama and
+               Wei Dai and
+               Ilia Iliashenko and
+               Kim Laine and
+               Michael Rosenberg},
+  title     = {Labeled {PSI} from Homomorphic Encryption with Reduced Computation and Communication},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1135-1150},
+}
+
+@inproceedings{DBLP:conf/ccs/NevoTY21,
+  author    = {Ofri Nevo and
+               Ni Trieu and
+               Avishay Yanai},
+  title     = {Simple, Fast Malicious Multiparty Private Set Intersection},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1151-1165},
+}
+
+@inproceedings{DBLP:conf/ccs/RosulekT21,
+  author    = {Mike Rosulek and
+               Ni Trieu},
+  title     = {Compact and Malicious Private Set Intersection for Small Sets},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1166-1181},
+}
+
+@inproceedings{DBLP:conf/ccs/ChandranD0OSS21,
+  author    = {Nishanth Chandran and
+               Nishka Dasgupta and
+               Divya Gupta and
+               Sai Lakshmi Bhavana Obbattu and
+               Sruthi Sekar and
+               Akash Shah},
+  title     = {Efficient Linear Multiparty {PSI} and Extensions to Circuit/Quorum {PSI}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1182-1204},
+}
+
+@inproceedings{DBLP:conf/ccs/WeggenmannK21,
+  author    = {Benjamin Weggenmann and
+               Florian Kerschbaum},
+  title     = {Differential Privacy for Directional Data},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1205-1222},
+}
+
+@inproceedings{DBLP:conf/ccs/0001LP21,
+  author    = {Martin Aumüller and
+               Christian Janos Lebeda and
+               Rasmus Pagh},
+  title     = {Differentially Private Sparse Vectors with Low Error, Optimal Space, and Fast Access},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1223-1236},
+}
+
+@inproceedings{DBLP:conf/ccs/0001C0SC0LJ21,
+  author    = {Tianhao Wang and
+               Joann Qiongna Chen and
+               Zhikun Zhang and
+               Dong Su and
+               Yueqiang Cheng and
+               Zhou Li and
+               Ninghui Li and
+               Somesh Jha},
+  title     = {Continuous Release of Data Streams under both Centralized and Local Differential Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1237-1253},
+}
+
+@inproceedings{DBLP:conf/ccs/BoenischMTHKF21,
+  author    = {Franziska Boenisch and
+               Reinhard Munz and
+               Marcel Tiepelt and
+               Simon Hanisch and
+               Christiane Kuhn and
+               Paul Francis},
+  title     = {{Side-Channel} Attacks on {Query-Based} Data Anonymization},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1254-1265},
+}
+
+@inproceedings{DBLP:conf/ccs/Du0BLJ0021,
+  author    = {Linkang Du and
+               Zhikun Zhang and
+               Shaojie Bai and
+               Changchang Liu and
+               Shouling Ji and
+               Peng Cheng and
+               Jiming Chen},
+  title     = {AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1266-1288},
+}
+
+@inproceedings{DBLP:conf/ccs/JiaYX000LZCZZ021,
+  author    = {Yan Jia and
+               Bin Yuan and
+               Luyi Xing and
+               Dongfang Zhao and
+               Yifan Zhang and
+               XiaoFeng Wang and
+               Yijing Liu and
+               Kaimin Zheng and
+               Peyton Crnjak and
+               Yuqing Zhang and
+               Deqing Zou and
+               Hai Jin},
+  title     = {Who's In Control? On Security Risks of Disjointed {IoT} Device Management Channels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1289-1305},
+}
+
+@inproceedings{DBLP:conf/ccs/HanLLZLZ21,
+  author    = {Dianqi Han and
+               Ang Li and
+               Jiawei Li and
+               Yan Zhang and
+               Tao Li and
+               Yanchao Zhang},
+  title     = {DroneKey: A {Drone-Aided} {Group-Key} Generation Scheme for {Large-Scale} {IoT} Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1306-1319},
+}
+
+@inproceedings{DBLP:conf/ccs/ZambranoBBNGSGC21,
+  author    = {Abel Zambrano and
+               Alejandro Palacio Betancur and
+               Luis Burbano and
+               Andres Felipe Niño and
+               Luis Felipe Giraldo and
+               Mariantonieta Gutierrez Soto and
+               Jairo Giraldo and
+               Alvaro A. Cárdenas},
+  title     = {You Make Me Tremble: A First Look at Attacks Against Structural Control Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1320-1337},
+}
+
+@inproceedings{DBLP:conf/ccs/ShekariICB21,
+  author    = {Tohid Shekari and
+               Celine Irvene and
+               Alvaro A. Cárdenas and
+               Raheem Beyah},
+  title     = {MaMIoT: Manipulation of Energy Market Leveraging High Wattage {IoT} Botnets},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1338-1356},
+}
+
+@inproceedings{DBLP:conf/ccs/AlderBPM21,
+  author    = {Fritz Alder and
+               Jo Van Bulck and
+               Frank Piessens and
+               Jan Tobias Mühlberg},
+  title     = {Aion: Enabling Open Systems through Strong Availability Guarantees for Enclaves},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1357-1372},
+}
+
+@inproceedings{DBLP:conf/ccs/0009LL0DLZ21,
+  author    = {Yiming Zhang and
+               Baojun Liu and
+               Chaoyi Lu and
+               Zhou Li and
+               Haixin Duan and
+               Jiachen Li and
+               Zaifeng Zhang},
+  title     = {Rusted Anchors: A National {Client-Side} View of Hidden Root {CAs} in the Web {PKI} Ecosystem},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1373-1387},
+}
+
+@inproceedings{DBLP:conf/ccs/DebnathCC21,
+  author    = {Joyanta Debnath and
+               Sze Yiu Chau and
+               Omar Chowdhury},
+  title     = {On Re-engineering the X.509 {PKI} with Executable Specification for Better Implementation Guarantees},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1388-1404},
+}
+
+@inproceedings{DBLP:conf/ccs/DoughertyTPVMS21,
+  author    = {Sean Dougherty and
+               Reza Tourani and
+               Gaurav Panwar and
+               Roopa Vishwanathan and
+               Satyajayant Misra and
+               Srikathyayani Srikanteswara},
+  title     = {APECS: A Distributed Access Control Framework for Pervasive Edge Computing Services},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1405-1420},
+}
+
+@inproceedings{DBLP:conf/ccs/DaiSW21,
+  author    = {Tianxiang Dai and
+               Haya Shulman and
+               Michael Waidner},
+  title     = {Let's Downgrade Let's Encrypt},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1421-1440},
+}
+
+@inproceedings{DBLP:conf/ccs/HashimotoKPPW21,
+  author    = {Keitaro Hashimoto and
+               Shuichi Katsumata and
+               Eamonn Postlethwaite and
+               Thomas Prest and
+               Bas Westerbaan},
+  title     = {A Concrete Treatment of Efficient Continuous Group Key Agreement via {Multi-Recipient} {PKEs}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1441-1462},
+}
+
+@inproceedings{DBLP:conf/ccs/AlwenCDT21,
+  author    = {Joël Alwen and
+               Sandro Coretti and
+               Yevgeniy Dodis and
+               Yiannis Tselekounis},
+  title     = {Modular Design of Secure Group Messaging Protocols and the Security of {MLS}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1463-1483},
+}
+
+@inproceedings{DBLP:conf/ccs/PealeEB21,
+  author    = {Charlotte Peale and
+               Saba Eskandarian and
+               Dan Boneh},
+  title     = {Secure {Complaint-Enabled} {Source-Tracking} for Encrypted Messaging},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1484-1506},
+}
+
+@inproceedings{DBLP:conf/ccs/BeckLM021,
+  author    = {Gabrielle Beck and
+               Julia Len and
+               Ian Miers and
+               Matthew Green},
+  title     = {Fuzzy Message Detection},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1507-1528},
+}
+
+@inproceedings{DBLP:conf/ccs/KaptchukJ0R21,
+  author    = {Gabriel Kaptchuk and
+               Tushar M. Jois and
+               Matthew Green and
+               Aviel D. Rubin},
+  title     = {Meteor: Cryptographically Secure Steganography for Realistic Distributions},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1529-1548},
+}
+
+@inproceedings{DBLP:conf/ccs/Degabriele21,
+  author    = {Jean Paul Degabriele},
+  title     = {Hiding the Lengths of Encrypted Messages via Gaussian Padding},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1549-1565},
+}
+
+@inproceedings{DBLP:conf/ccs/XuSDLCLZ21,
+  author    = {Fenghao Xu and
+               Siyu Shen and
+               Wenrui Diao and
+               Zhou Li and
+               Yi Chen and
+               Rui Li and
+               Kehuan Zhang},
+  title     = {Android on PC: On the Security of End-user Android Emulators},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1566-1580},
+}
+
+@inproceedings{DBLP:conf/ccs/XiangZWGL21,
+  author    = {Xiaobo Xiang and
+               Ren Zhang and
+               Hanxiang Wen and
+               Xiaorui Gong and
+               Baoxu Liu},
+  title     = {Ghost in the Binder: Binder Transaction Redirection Attacks in Android System Services},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1581-1597},
+}
+
+@inproceedings{DBLP:conf/ccs/El-RewiniA21,
+  author    = {Zeinab El-Rewini and
+               Yousra Aafer},
+  title     = {Dissecting Residual {APIs} in Custom Android {ROMs}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1598-1611},
+}
+
+@inproceedings{DBLP:conf/ccs/IsmailYJJM21,
+  author    = {Mohannad Ismail and
+               Jinwoo Yom and
+               Christopher Jelesnianski and
+               Yeongjin Jang and
+               Changwoo Min},
+  title     = {VIP: Safeguard Value Invariant Property for Thwarting Critical Memory Corruption Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1612-1626},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuWJLLCH21,
+  author    = {Dinghao Liu and
+               Qiushi Wu and
+               Shouling Ji and
+               Kangjie Lu and
+               Zhenguang Liu and
+               Jianhai Chen and
+               Qinming He},
+  title     = {Detecting Missed Security Operations Through Differential Checking of Object-based Similar Paths},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1627-1644},
+}
+
+@inproceedings{DBLP:conf/ccs/LiWT21,
+  author    = {Kai Li and
+               Yibo Wang and
+               Yuzhe Tang},
+  title     = {DETER: Denial of Ethereum Txpool {sERvices}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1645-1667},
+}
+
+@inproceedings{DBLP:conf/ccs/SaadCM21,
+  author    = {Muhammad Saad and
+               Songqing Chen and
+               David Mohaisen},
+  title     = {SyncAttack: Double-spending in Bitcoin Without Mining Power},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1668-1685},
+}
+
+@inproceedings{DBLP:conf/ccs/Momose021,
+  author    = {Atsuki Momose and
+               Ling Ren},
+  title     = {{Multi-Threshold} Byzantine Fault Tolerance},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1686-1699},
+}
+
+@inproceedings{DBLP:conf/ccs/WangMYKV21,
+  author    = {Xuechao Wang and
+               Viswa Virinchi Muppirala and
+               Lei Yang and
+               Sreeram Kannan and
+               Pramod Viswanath},
+  title     = {Securing Parallel-chain Protocols under Variable Mining Power},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1700-1721},
+}
+
+@inproceedings{DBLP:conf/ccs/ShengWNKV21,
+  author    = {Peiyao Sheng and
+               Gerui Wang and
+               Kartik Nayak and
+               Sreeram Kannan and
+               Pramod Viswanath},
+  title     = {{BFT} Protocol Forensics},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1722-1743},
+}
+
+@inproceedings{DBLP:conf/ccs/VasilakisBHS0R21,
+  author    = {Nikos Vasilakis and
+               Achilles Benetopoulos and
+               Shivam Handa and
+               Alizee Schoen and
+               Jiasi Shen and
+               Martin C. Rinard},
+  title     = {{Supply-Chain} Vulnerability Elimination via Active Learning and Regeneration},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1755-1770},
+}
+
+@inproceedings{DBLP:conf/ccs/KnittelMNNS21,
+  author    = {Lukas Knittel and
+               Christian Mainka and
+               Marcus Niemietz and
+               Dominik Trevor Noß and
+               Jörg Schwenk},
+  title     = {XSinator.com: From a Formal Model to the Automatic Evaluation of {Cross-Site} Leaks in Web Browsers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1771-1788},
+}
+
+@inproceedings{DBLP:conf/ccs/FassS0S21,
+  author    = {Aurore Fass and
+               Dolière Francis Somé and
+               Michael Backes and
+               Ben Stock},
+  title     = {DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1789-1804},
+}
+
+@inproceedings{DBLP:conf/ccs/JabiyevSOK21,
+  author    = {Bahruz Jabiyev and
+               Steven Sprecher and
+               Kaan Onarlioglu and
+               Engin Kirda},
+  title     = {T-Reqs: {HTTP} Request Smuggling with Differential Fuzzing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1805-1820},
+}
+
+@inproceedings{DBLP:conf/ccs/VasilakisSNKKDP21,
+  author    = {Nikos Vasilakis and
+               Cristian-Alexandru Staicu and
+               Grigoris Ntousakis and
+               Konstantinos Kallas and
+               Ben Karel and
+               André DeHon and
+               Michael Pradel},
+  title     = {Preventing Dynamic Library Compromise on Node.js via {RWX-Based} Privilege Reduction},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1821-1838},
+}
+
+@inproceedings{DBLP:conf/ccs/WangJA021,
+  author    = {Meng Wang and
+               Chijung Jung and
+               Ali Ahad and
+               Yonghwi Kwon},
+  title     = {Spinner: Automated Dynamic Command Subsystem Perturbation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1839-1860},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenBMWSX21,
+  author    = {Yanjiao Chen and
+               Yijie Bai and
+               Richard Mitev and
+               Kaibo Wang and
+               Ahmad-Reza Sadeghi and
+               Wenyuan Xu},
+  title     = {FakeWake: Understanding and Mitigating Fake Wake-up Words of Voice Assistants},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1861-1883},
+}
+
+@inproceedings{DBLP:conf/ccs/Li0Z0L0021,
+  author    = {Zhuohang Li and
+               Cong Shi and
+               Tianfang Zhang and
+               Yi Xie and
+               Jian Liu and
+               Bo Yuan and
+               Yingying Chen},
+  title     = {Robust Detection of Machine-induced Audio Attacks in Intelligent Audio Systems with Microphone Array},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1884-1899},
+}
+
+@inproceedings{DBLP:conf/ccs/NassiPGEZ21,
+  author    = {Ben Nassi and
+               Yaron Pirutin and
+               Tomer Cohen Galor and
+               Yuval Elovici and
+               Boris Zadov},
+  title     = {Glowworm Attack: Optical {TEMPEST} Sound Recovery via a Device's Power Indicator {LED}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1900-1914},
+}
+
+@inproceedings{DBLP:conf/ccs/0001ZJLX21,
+  author    = {Xiaoyu Ji and
+               Juchuan Zhang and
+               Shui Jiang and
+               Jishen Li and
+               Wenyuan Xu},
+  title     = {CapSpeaker: Injecting Voices to Microphones via Capacitors},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1915-1929},
+}
+
+@inproceedings{DBLP:conf/ccs/01900LLHZ21,
+  author    = {Wei Wang and
+               Yao Yao and
+               Xin Liu and
+               Xiang Li and
+               Pei Hao and
+               Ting Zhu},
+  title     = {I Can See the Light: Attacks on Autonomous Vehicles Using Invisible Lights},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1930-1944},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhuMZHSQ21,
+  author    = {Yi Zhu and
+               Chenglin Miao and
+               Tianhang Zheng and
+               Foad Hajiaghajani and
+               Lu Su and
+               Chunming Qiao},
+  title     = {Can We Use Arbitrary Objects to Attack {LiDAR} Perception in Autonomous Driving?},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1945-1960},
+}
+
+@inproceedings{DBLP:conf/ccs/MasnyW21,
+  author    = {Daniel Masny and
+               Gaven J. Watson},
+  title     = {A {PKI-based} Framework for Establishing Efficient {MPC} Channels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1961-1980},
+}
+
+@inproceedings{DBLP:conf/ccs/DegabrieleG0P21,
+  author    = {Jean Paul Degabriele and
+               Jérôme Govinden and
+               Felix Günther and
+               Kenneth G. Paterson},
+  title     = {The Security of ChaCha20-Poly1305 in the {Multi-User} Setting},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {1981-2003},
+}
+
+@inproceedings{DBLP:conf/ccs/HanzlikS21,
+  author    = {Lucjan Hanzlik and
+               Daniel Slamanig},
+  title     = {With a Little Help from My Friends: Constructing Practical Anonymous Credentials},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2004-2023},
+}
+
+@inproceedings{DBLP:conf/ccs/WeidnerKHB21,
+  author    = {Matthew Weidner and
+               Martin Kleppmann and
+               Daniel Hugenroth and
+               Alastair R. Beresford},
+  title     = {Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2024-2045},
+}
+
+@inproceedings{DBLP:conf/ccs/Katsumata0NOT21,
+  author    = {Shuichi Katsumata and
+               Takahiro Matsuda and
+               Wataru Nakamura and
+               Kazuma Ohara and
+               Kenta Takahashi},
+  title     = {Revisiting Fuzzy Signatures: Towards a More {Risk-Free} Cryptographic Authentication System based on Biometrics},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2046-2065},
+}
+
+@inproceedings{DBLP:conf/ccs/FeoPS21,
+  author    = {Luca De Feo and
+               Bertram Poettering and
+               Alessandro Sorniotti},
+  title     = {On the (In)Security of {ElGamal} in {OpenPGP}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2066-2080},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuJQG21,
+  author    = {Hongbin Liu and
+               Jinyuan Jia and
+               Wenjie Qu and
+               Neil Zhenqiang Gong},
+  title     = {EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2081-2095},
+}
+
+@inproceedings{DBLP:conf/ccs/HuXLHX21,
+  author    = {Aoting Hu and
+               Renjie Xie and
+               Zhigang Lu and
+               Aiqun Hu and
+               Minhui Xue},
+  title     = {TableGAN-MCA: Evaluating Membership Collisions of {GAN-Synthesized} Tabular Data Releasing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2096-2112},
+}
+
+@inproceedings{DBLP:conf/ccs/PasquiniAB21,
+  author    = {Dario Pasquini and
+               Giuseppe Ateniese and
+               Massimo Bernaschi},
+  title     = {Unleashing the Tiger: Inference Attacks on Split Learning},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2113-2129},
+}
+
+@inproceedings{DBLP:conf/ccs/SajadmaneshG21,
+  author    = {Sina Sajadmanesh and
+               Daniel Gatica-Perez},
+  title     = {Locally Private Graph Neural Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2130-2145},
+}
+
+@inproceedings{DBLP:conf/ccs/WangWLR0L21,
+  author    = {Boxin Wang and
+               Fan Wu and
+               Yunhui Long and
+               Luka Rimanic and
+               Ce Zhang and
+               Bo Li},
+  title     = {DataLens: Scalable Privacy Preserving Training via Gradient Compression and Aggregation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2146-2168},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhuB21,
+  author    = {Xiaogang Zhu and
+               Marcel Böhme},
+  title     = {Regression Greybox Fuzzing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2169-2182},
+}
+
+@inproceedings{DBLP:conf/ccs/LiWSL21,
+  author    = {Zhuohua Li and
+               Jincheng Wang and
+               Mingshen Sun and
+               John C. S. Lui},
+  title     = {MirChecker: Detecting Bugs in Rust Programs via Static Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2183-2196},
+}
+
+@inproceedings{DBLP:conf/ccs/PanL0JJWYWW21,
+  author    = {Gaoning Pan and
+               Xingwei Lin and
+               Xuhong Zhang and
+               Yongkang Jia and
+               Shouling Ji and
+               Chunming Wu and
+               Xinlei Ying and
+               Jiashui Wang and
+               Yanjun Wu},
+  title     = {V-Shuttle: Scalable and {Semantics-Aware} Hypervisor Virtual Device Fuzzing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2197-2213},
+}
+
+@inproceedings{DBLP:conf/ccs/0001KS0SK21,
+  author    = {Ren Ding and
+               Yonghae Kim and
+               Fan Sang and
+               Wen Xu and
+               Gururaj Saileshwar and
+               Taesoo Kim},
+  title     = {Hardware Support to Improve Fuzzing Performance and Precision},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2214-2228},
+}
+
+@inproceedings{DBLP:conf/ccs/HeXLSLZLYZSH21,
+  author    = {Xiaoyu He and
+               Xiaofei Xie and
+               Yuekang Li and
+               Jianwen Sun and
+               Feng Li and
+               Wei Zou and
+               Yang Liu and
+               Lei Yu and
+               Jianhua Zhou and
+               Wenchang Shi and
+               Wei Huo},
+  title     = {SoFi: {Reflection-Augmented} Fuzzing for {JavaScript} Engines},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2229-2242},
+}
+
+@inproceedings{DBLP:conf/ccs/MarkatouFTS21,
+  author    = {Evangelia Anna Markatou and
+               Francesca Falzon and
+               Roberto Tamassia and
+               William Schor},
+  title     = {Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2243-2261},
+}
+
+@inproceedings{DBLP:conf/ccs/BogatovKKNO21,
+  author    = {Dmytro Bogatov and
+               Georgios Kellaris and
+               George Kollios and
+               Kobbi Nissim and
+               Adam O'Neill},
+  title     = {εpsolute: Efficiently Querying Databases While Providing Differential Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2262-2276},
+}
+
+@inproceedings{DBLP:conf/ccs/ChoiDGLY21,
+  author    = {Seung Geol Choi and
+               Dana Dachman-Soled and
+               S. Dov Gordon and
+               Linsheng Liu and
+               Arkady Yerukhimovich},
+  title     = {Compressed Oblivious Encoding for Homomorphically Encrypted Search},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2277-2291},
+}
+
+@inproceedings{DBLP:conf/ccs/MugheesC021,
+  author    = {Muhammad Haris Mughees and
+               Hao Chen and
+               Ling Ren},
+  title     = {OnionPIR: Response Efficient {Single-Server} {PIR}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2292-2306},
+}
+
+@inproceedings{DBLP:conf/ccs/NingHPYL0D21,
+  author    = {Jianting Ning and
+               Xinyi Huang and
+               Geong Sen Poh and
+               Jiaming Yuan and
+               Yingjiu Li and
+               Jian Weng and
+               Robert H. Deng},
+  title     = {LEAP: {Leakage-Abuse} Attack on Efficiently Deployable, Efficiently Searchable Encryption with Partially Known Dataset},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2307-2320},
+}
+
+@inproceedings{DBLP:conf/ccs/GirgisDDSK21,
+  author    = {Antonious M. Girgis and
+               Deepesh Data and
+               Suhas N. Diggavi and
+               Ananda Theertha Suresh and
+               Peter Kairouz},
+  title     = {On the Rényi Differential Privacy of the Shuffle Model},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2321-2341},
+}
+
+@inproceedings{DBLP:conf/ccs/KolluriBS21,
+  author    = {Aashish Kolluri and
+               Teodora Baluta and
+               Prateek Saxena},
+  title     = {Private Hierarchical Clustering in Federated Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2342-2360},
+}
+
+@inproceedings{DBLP:conf/ccs/BohlerK21,
+  author    = {Jonas Böhler and
+               Florian Kerschbaum},
+  title     = {Secure Multi-party Computation of Differentially Private Heavy Hitters},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2361-2377},
+}
+
+@inproceedings{DBLP:conf/ccs/AlabduljabbarAM21,
+  author    = {Abdulrahman Alabduljabbar and
+               Ahmed Abusnaina and
+               Ülkü Meteriz-Yildiran and
+               David Mohaisen},
+  title     = {Automated Privacy Policy Annotation with Information Highlighting Made Practical Using Deep Representations},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2378-2380},
+}
+
+@inproceedings{DBLP:conf/ccs/NassiPSSEZ21,
+  author    = {Ben Nassi and
+               Yaron Pirutin and
+               Raz Swissa and
+               Adi Shamir and
+               Yuval Elovici and
+               Boris Zadov},
+  title     = {POSTER: Recovering Songs from a Hanging Light Bulb},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2381-2383},
+}
+
+@inproceedings{DBLP:conf/ccs/MenguyBBL21,
+  author    = {Grégoire Menguy and
+               Sébastien Bardin and
+               Richard Bonichon and
+               Cauim de Souza Lima},
+  title     = {{Search-Based} Local {Black-Box} Deobfuscation: Understand, Improve and Mitigate},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2384-2386},
+}
+
+@inproceedings{DBLP:conf/ccs/Hu021,
+  author    = {Hailong Hu and
+               Jun Pang},
+  title     = {Membership Inference Attacks against {GANs} by Leveraging Over-representation Regions},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2387-2389},
+}
+
+@inproceedings{DBLP:conf/ccs/WangR0Y21,
+  author    = {Zi Wang and
+               Yili Ren and
+               Yingying Chen and
+               Jie Yang},
+  title     = {Earable Authentication via Acoustic Toothprint},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2390-2392},
+}
+
+@inproceedings{DBLP:conf/ccs/ScopellitiPNAPM21,
+  author    = {Gianluca Scopelliti and
+               Sepideh Pouyanrad and
+               Job Noorman and
+               Fritz Alder and
+               Frank Piessens and
+               Jan Tobias Mühlberg},
+  title     = {POSTER: An {Open-Source} Framework for Developing Heterogeneous Distributed Enclave Applications},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2393-2395},
+}
+
+@inproceedings{DBLP:conf/ccs/TungYZ21,
+  author    = {Brian Tung and
+               Zhiyuan Yu and
+               Ning Zhang},
+  title     = {Towards Automated Computational Auditing of {mHealth} Security and Privacy Regulations},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2396-2398},
+}
+
+@inproceedings{DBLP:conf/ccs/DeryTYZ21,
+  author    = {Lihi Dery and
+               Tamir Tassa and
+               Avishay Yanai and
+               Arthur Zamarin},
+  title     = {DEMO: A Secure Voting System for Score Based Elections},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2399-2401},
+}
+
+@inproceedings{DBLP:conf/ccs/HoqueR21,
+  author    = {Naureen Hoque and
+               Hanif Rahbari},
+  title     = {POSTER: A Tough Nut to Crack: Attempting to Break Modulation Obfuscation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2402-2404},
+}
+
+@inproceedings{DBLP:conf/ccs/FalkMZZ21,
+  author    = {Brandon Falk and
+               Yan Meng and
+               Yuxia Zhan and
+               Haojin Zhu},
+  title     = {POSTER: ReAvatar: Virtual Reality De-anonymization Attack Through Correlating Movement Signatures},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2405-2407},
+}
+
+@inproceedings{DBLP:conf/ccs/00040W21,
+  author    = {Daniel Günther and
+               Thomas Schneider and
+               Felix Wiegand},
+  title     = {Revisiting Hybrid Private Information Retrieval},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2408-2410},
+}
+
+@inproceedings{DBLP:conf/ccs/MitsevaPLZHW021,
+  author    = {Asya Mitseva and
+               Jan Pennekamp and
+               Johannes Lohmöller and
+               Torsten Ziemann and
+               Carl Hoerchner and
+               Klaus Wehrle and
+               Andriy Panchenko},
+  title     = {POSTER: How Dangerous is My Click? Boosting Website Fingerprinting By Considering Sequences of Webpages},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2411-2413},
+}
+
+@inproceedings{DBLP:conf/ccs/JohnsonFCH21,
+  author    = {Skyler Johnson and
+               Katherine Ferro and
+               L. Jean Camp and
+               Hilda Hadan},
+  title     = {Human and Organizational Factors in Public Key Certificate Authority Failures},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2414-2416},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenR21,
+  author    = {Hsin Yi Chen and
+               Siddharth Prakash Rao},
+  title     = {On Adoptability and Use Case Exploration of Threat Modeling for Mobile Communication Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2417-2419},
+}
+
+@inproceedings{DBLP:conf/ccs/NadeemVMY21,
+  author    = {Azqa Nadeem and
+               Sicco Verwer and
+               Stephen Moskal and
+               Shanchieh Jay Yang},
+  title     = {Enabling Visual Analytics via Alert-driven Attack Graphs},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2420-2422},
+}
+
+@inproceedings{DBLP:conf/ccs/HeftrigSSWW21,
+  author    = {Elias Heftrig and
+               Jean-Pierre Seifert and
+               Haya Shulman and
+               Michael Waidner and
+               Nils Wisiol},
+  title     = {Predictive {Cipher-Suite} Negotiation for Boosting Deployment of New Ciphers},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2423-2425},
+}
+
+@inproceedings{DBLP:conf/ccs/LiWZ21,
+  author    = {Ao Li and
+               Jinwen Wang and
+               Ning Zhang},
+  title     = {Chronos: Timing Interference as a New Attack Vector on Autonomous Cyber-physical Systems},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2426-2428},
+}
+
+@inproceedings{DBLP:conf/ccs/NtousakisIV21,
+  author    = {Grigoris Ntousakis and
+               Sotiris Ioannidis and
+               Nikos Vasilakis},
+  title     = {Demo: Detecting {Third-Party} Library Problems with Combined Program Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2429-2431},
+}
+
+@inproceedings{DBLP:conf/ccs/KoppSH21,
+  author    = {Daniel Kopp and
+               Eric Strehle and
+               Oliver Hohlfeld},
+  title     = {{CyberBunker} 2.0 - A Domain and Traffic Perspective on a Bulletproof Hoster},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2432-2434},
+}
+
+@inproceedings{DBLP:conf/ccs/RyanDPR21,
+  author    = {Christian Ryan and
+               Sharmishtha Dutta and
+               Youngja Park and
+               Nidhi Rastogi},
+  title     = {An Ontology-driven Knowledge Graph for Android Malware},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2435-2437},
+}
+
+@inproceedings{DBLP:conf/ccs/AnjumMJ21,
+  author    = {Md. Monowar Anjum and
+               Noman Mohammed and
+               Xiaoqian Jiang},
+  title     = {De-identification of Unstructured Clinical Texts from Sequence to Sequence Perspective},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2438-2440},
+}
+
+@inproceedings{DBLP:conf/ccs/KimPCCK21,
+  author    = {Eujeanne Kim and
+               Sung-Jun Park and
+               Seokwoo Choi and
+               Dong-Kyu Chae and
+               Sang-Wook Kim},
+  title     = {MANIAC: A {Man-Machine} Collaborative System for Classifying Malware Author Groups},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2441-2443},
+}
+
+@inproceedings{DBLP:conf/ccs/BrandtSW21,
+  author    = {Markus Brandt and
+               Haya Shulman and
+               Michael Waidner},
+  title     = {Evaluating Resilience of Domains in {PKI}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2444-2446},
+}
+
+@inproceedings{DBLP:conf/ccs/BandaraRWETWZK21,
+  author    = {Vinuri Bandara and
+               Thisura Rathnayake and
+               Nipuna Weerasekara and
+               Charitha Elvitigala and
+               Kenneth Thilakarathna and
+               Primal Wijesekera and
+               Kasun De Zoysa and
+               Chamath Keppitiyagama},
+  title     = {Demo: Large Scale Analysis on Vulnerability Remediation in Open-source {JavaScript} Projects},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2447-2449},
+}
+
+@inproceedings{DBLP:conf/ccs/NafeesSB21,
+  author    = {Muhammad Nouman Nafees and
+               Neetesh Saxena and
+               Pete Burnap},
+  title     = {Optimized Predictive Control for {AGC} Cyber Resiliency},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2450-2452},
+}
+
+@inproceedings{DBLP:conf/ccs/MisonoS21,
+  author    = {Masanori Misono and
+               Takahiro Shinagawa},
+  title     = {POSTER: {OS} Independent Fuzz Testing of I/O Boundary},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2453-2455},
+}
+
+@inproceedings{DBLP:conf/ccs/SieckBW021,
+  author    = {Florian Sieck and
+               Sebastian Berndt and
+               Jan Wichelmann and
+               Thomas Eisenbarth},
+  title     = {Util: : Lookup: Exploiting Key Decoding in Cryptographic Libraries},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2456-2473},
+}
+
+@inproceedings{DBLP:conf/ccs/YahyazadehCLHDI21,
+  author    = {Moosa Yahyazadeh and
+               Sze Yiu Chau and
+               Li Li and
+               Man Hong Hue and
+               Joyanta Debnath and
+               Sheung Chiu Ip and
+               Chun Ngai Li and
+               Md. Endadul Hoque and
+               Omar Chowdhury},
+  title     = {Morpheus: Bringing The (PKCS) One To Meet the Oracle},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2474-2496},
+}
+
+@inproceedings{DBLP:conf/ccs/BragaFS21,
+  author    = {Daniel De Almeida Braga and
+               Pierre-Alain Fouque and
+               Mohamed Sabt},
+  title     = {PARASITE: {PAssword} Recovery Attack against Srp Implementations in {ThE} wild},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2497-2512},
+}
+
+@inproceedings{DBLP:conf/ccs/MenguyBBL21a,
+  author    = {Grégoire Menguy and
+               Sébastien Bardin and
+               Richard Bonichon and
+               Cauim de Souza Lima},
+  title     = {{Search-Based} Local {Black-Box} Deobfuscation: Understand, Improve and Mitigate},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2513-2525},
+}
+
+@inproceedings{DBLP:conf/ccs/HeSTV21,
+  author    = {Jingxuan He and
+               Gishor Sivanrupan and
+               Petar Tsankov and
+               Martin T. Vechev},
+  title     = {Learning to Explore Paths for Symbolic Execution},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2526-2540},
+}
+
+@inproceedings{DBLP:conf/ccs/BarbosaBGKS21,
+  author    = {Manuel Barbosa and
+               Gilles Barthe and
+               Benjamin Grégoire and
+               Adrien Koutsos and
+               Pierre-Yves Strub},
+  title     = {Mechanized Proofs of Adversarial Complexity and Application to Universal Composability},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2541-2563},
+}
+
+@inproceedings{DBLP:conf/ccs/BarbosaBFGHKSWZ21,
+  author    = {Manuel Barbosa and
+               Gilles Barthe and
+               Xiong Fan and
+               Benjamin Grégoire and
+               Shih-Han Hung and
+               Jonathan Katz and
+               Pierre-Yves Strub and
+               Xiaodi Wu and
+               Li Zhou},
+  title     = {EasyPQC: Verifying {Post-Quantum} Cryptography},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2564-2586},
+}
+
+@inproceedings{DBLP:conf/ccs/AlmeidaBCEG0P21,
+  author    = {José Bacelar Almeida and
+               Manuel Barbosa and
+               Manuel L. Correia and
+               Karim Eldefrawy and
+               Stéphane Graham-Lengrand and
+               Hugo Pacheco and
+               Vitor Pereira},
+  title     = {Machine-checked {ZKP} for {NP} relations: Formally Verified Security Proofs and Implementations of {MPC-in-the-Head}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2587-2600},
+}
+
+@inproceedings{DBLP:conf/ccs/BhargavanB0HKSW21,
+  author    = {Karthikeyan Bhargavan and
+               Abhishek Bichhawat and
+               Quoc Huy Do and
+               Pedram Hosseyni and
+               Ralf Küsters and
+               Guido Schmitz and
+               Tim Würtele},
+  title     = {An {In-Depth} Symbolic Security Analysis of the {ACME} Standard},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2601-2617},
+}
+
+@inproceedings{DBLP:conf/ccs/Wang00LZD21,
+  author    = {Mei Wang and
+               Kun He and
+               Jing Chen and
+               Zengpeng Li and
+               Wei Zhao and
+               Ruiying Du},
+  title     = {{Biometrics-Authenticated} Key Exchange for Secure Messaging},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2618-2631},
+}
+
+@inproceedings{DBLP:conf/ccs/BasinDGR21,
+  author    = {David A. Basin and
+               Jannik Dreier and
+               Sofia Giampietro and
+               Sasa Radomirovic},
+  title     = {Verifying {Table-Based} Elections},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2632-2652},
+}
+
+@inproceedings{DBLP:conf/ccs/ThyagarajanCLM21,
+  author    = {Sri Aravinda Krishnan Thyagarajan and
+               Guilhem Castagnos and
+               Fabien Laguillaumie and
+               Giulio Malavolta},
+  title     = {Efficient {CCA} Timed Commitments in Class Groups},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2663-2684},
+}
+
+@inproceedings{DBLP:conf/ccs/00020GK21,
+  author    = {Nitin Agrawal and
+               James Bell and
+               Adrià Gascón and
+               Matt J. Kusner},
+  title     = {{MPC-Friendly} Commitments for Publicly Verifiable Covert Security},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2685-2704},
+}
+
+@inproceedings{DBLP:conf/ccs/DasX021,
+  author    = {Sourav Das and
+               Zhuolun Xiang and
+               Ling Ren},
+  title     = {Asynchronous Data Dissemination and its Applications},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2705-2721},
+}
+
+@inproceedings{DBLP:conf/ccs/DumanHKLS21,
+  author    = {Julien Duman and
+               Kathrin Hövelmanns and
+               Eike Kiltz and
+               Vadim Lyubashevsky and
+               Gregor Seiler},
+  title     = {Faster {Lattice-Based} {KEMs} via a Generic {Fujisaki-Okamoto} Transform Using Prefix Hashing},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2722-2737},
+}
+
+@inproceedings{DBLP:conf/ccs/HohenbergerV21,
+  author    = {Susan Hohenberger and
+               Satyanarayana Vusirikala},
+  title     = {{PPE} Circuits for Rational Polynomials},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2738-2757},
+}
+
+@inproceedings{DBLP:conf/ccs/ChristodorescuG21,
+  author    = {Mihai Christodorescu and
+               Sivanarayana Gaddam and
+               Pratyay Mukherjee and
+               Rohit Sinha},
+  title     = {Amortized Threshold Symmetric-key Encryption},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2758-2779},
+}
+
+@inproceedings{DBLP:conf/ccs/GongZRZ21,
+  author    = {Jian Gong and
+               Xinyu Zhang and
+               Ju Ren and
+               Yaoxue Zhang},
+  title     = {The Invisible Shadow: How Security Cameras Leak Private Activities},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2780-2793},
+}
+
+@inproceedings{DBLP:conf/ccs/Wang21,
+  author    = {Tao Wang},
+  title     = {The {One-Page} Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2794-2806},
+}
+
+@inproceedings{DBLP:conf/ccs/SaleheenUCOS021,
+  author    = {Nazir Saleheen and
+               Md. Azim Ullah and
+               Supriyo Chakraborty and
+               Deniz S. Ones and
+               Mani B. Srivastava and
+               Santosh Kumar},
+  title     = {WristPrint: Characterizing User Re-identification Risks from Wrist-worn Accelerometry Data},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2807-2823},
+}
+
+@inproceedings{DBLP:conf/ccs/BuiYSCS21,
+  author    = {Duc Bui and
+               Yuan Yao and
+               Kang G. Shin and
+               Jong-Min Choi and
+               Junbum Shin},
+  title     = {Consistency Analysis of {Data-Usage} Purposes in Mobile Apps},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2824-2843},
+}
+
+@inproceedings{DBLP:conf/ccs/SmithSLS21,
+  author    = {Michael Smith and
+               Peter Snyder and
+               Benjamin Livshits and
+               Deian Stefan},
+  title     = {SugarCoat: Programmatically Generating Privacy-Preserving, {Web-Compatible} Resource Replacements for Content Blocking},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2844-2857},
+}
+
+@inproceedings{DBLP:conf/ccs/Song0JXPFP21,
+  author    = {Wenna Song and
+               Jiang Ming and
+               Lin Jiang and
+               Yi Xiang and
+               Xuanchen Pan and
+               Jianming Fu and
+               Guojun Peng},
+  title     = {Towards Transparent and Stealthy Android {OS} Sandboxing via Customizable {Container-Based} Virtualization},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2858-2874},
+}
+
+@inproceedings{DBLP:conf/ccs/BuhrenJKS21,
+  author    = {Robert Buhren and
+               Hans Niklas Jacob and
+               Thilo Krachenfels and
+               Jean-Pierre Seifert},
+  title     = {One Glitch to Rule Them All: Fault Injection Attacks Against {AMD's} Secure Encrypted Virtualization},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2875-2889},
+}
+
+@inproceedings{DBLP:conf/ccs/SurminskiNBDS21,
+  author    = {Sebastian Surminski and
+               Christian Niesler and
+               Ferdinand Brasser and
+               Lucas Davi and
+               Ahmad-Reza Sadeghi},
+  title     = {RealSWATT: Remote Software-based Attestation for Embedded Devices under Realtime Constraints},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2890-2905},
+}
+
+@inproceedings{DBLP:conf/ccs/PurnalTV21,
+  author    = {Antoon Purnal and
+               Furkan Turan and
+               Ingrid Verbauwhede},
+  title     = {Prime+Scope: Overcoming the Observer Effect for {High-Precision} Cache Contention Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2906-2920},
+}
+
+@inproceedings{DBLP:conf/ccs/NunesJRT21,
+  author    = {Ivan De Oliveira Nunes and
+               Sashidhar Jakkamsetti and
+               Norrathep Rattanavipanon and
+               Gene Tsudik},
+  title     = {On the {TOCTOU} Problem in Remote Attestation},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2921-2936},
+}
+
+@inproceedings{DBLP:conf/ccs/LiZL21,
+  author    = {Mengyuan Li and
+               Yinqian Zhang and
+               Zhiqiang Lin},
+  title     = {CrossLine: Breaking "Security-by-Crash" based Memory Isolation in {AMD} {SEV}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2937-2950},
+}
+
+@inproceedings{DBLP:conf/ccs/FangDNZ21,
+  author    = {Zhiyong Fang and
+               David Darais and
+               Joseph P. Near and
+               Yupeng Zhang},
+  title     = {Zero Knowledge Static Program Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2951-2967},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuXZ21,
+  author    = {Tianyi Liu and
+               Xiang Xie and
+               Yupeng Zhang},
+  title     = {zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2968-2985},
+}
+
+@inproceedings{DBLP:conf/ccs/YangSWW21,
+  author    = {Kang Yang and
+               Pratik Sarkar and
+               Chenkai Weng and
+               Xiao Wang},
+  title     = {QuickSilver: Efficient and Affordable {Zero-Knowledge} Proofs for Circuits and Polynomials over Any Field},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {2986-3001},
+}
+
+@inproceedings{DBLP:conf/ccs/LiYHMGZZSLW21,
+  author    = {Yun Li and
+               Cun Ye and
+               Yuguang Hu and
+               Ivring Morpheus and
+               Yu Guo and
+               Chao Zhang and
+               Yupeng Zhang and
+               Zhipeng Sun and
+               Yiwen Lu and
+               Haodi Wang},
+  title     = {ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3002-3021},
+}
+
+@inproceedings{DBLP:conf/ccs/GuilhemOT21,
+  author    = {Cyprien Delpech de Saint Guilhem and
+               Emmanuela Orsini and
+               Titouan Tanguy},
+  title     = {Limbo: Efficient Zero-knowledge {MPCitH-based} Arguments},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3022-3036},
+}
+
+@inproceedings{DBLP:conf/ccs/CummingsKR21,
+  author    = {Rachel Cummings and
+               Gabriel Kaptchuk and
+               Elissa M. Redmiles},
+  title     = {"I need a better description": An Investigation Into User Expectations For Differential Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3037-3052},
+}
+
+@inproceedings{DBLP:conf/ccs/WongLABRA21,
+  author    = {Miuyin Yong Wong and
+               Matthew Landen and
+               Manos Antonakakis and
+               Douglas M. Blough and
+               Elissa M. Redmiles and
+               Mustaque Ahamad},
+  title     = {An Inside Look into the Practice of Malware Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3053-3069},
+}
+
+@inproceedings{DBLP:conf/ccs/0001SG21,
+  author    = {Felix Fischer and
+               Yannick Stachelscheid and
+               Jens Grossklags},
+  title     = {The Effect of Google Search on Software Security: Unobtrusive Security Interventions via Content Re-ranking},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3070-3084},
+}
+
+@inproceedings{DBLP:conf/ccs/RothG0KS21,
+  author    = {Sebastian Roth and
+               Lea Gröber and
+               Michael Backes and
+               Katharina Krombholz and
+               Ben Stock},
+  title     = {12 Angry Developers - A Qualitative Study on Developers' Struggles with {CSP}},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3085-3103},
+}
+
+@inproceedings{DBLP:conf/ccs/JagielskiSHO21,
+  author    = {Matthew Jagielski and
+               Giorgio Severi and
+               Niklas Pousette Harger and
+               Alina Oprea},
+  title     = {Subpopulation Data Poisoning Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3104-3122},
+}
+
+@inproceedings{DBLP:conf/ccs/LiLDZXZL21,
+  author    = {Shaofeng Li and
+               Hui Liu and
+               Tian Dong and
+               Benjamin Zi Hao Zhao and
+               Minhui Xue and
+               Haojin Zhu and
+               Jialiang Lu},
+  title     = {Hidden Backdoors in {Human-Centric} Language Models},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3123-3140},
+}
+
+@inproceedings{DBLP:conf/ccs/ShenJ0LCSFYW21,
+  author    = {Lujia Shen and
+               Shouling Ji and
+               Xuhong Zhang and
+               Jinfeng Li and
+               Jing Chen and
+               Jie Shi and
+               Chengfang Fang and
+               Jianwei Yin and
+               Ting Wang},
+  title     = {Backdoor Pre-trained Models Can Transfer to All},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3141-3158},
+}
+
+@inproceedings{DBLP:conf/ccs/HeZM0H21,
+  author    = {Chaoxiang He and
+               Bin Benjamin Zhu and
+               Xiaojing Ma and
+               Hai Jin and
+               Shengshan Hu},
+  title     = {{Feature-Indistinguishable} Attack to Circumvent {Trapdoor-Enabled} Defense},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3159-3176},
+}
+
+@inproceedings{DBLP:conf/ccs/0001M21,
+  author    = {Chong Xiang and
+               Prateek Mittal},
+  title     = {DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3177-3196},
+}
+
+@inproceedings{DBLP:conf/ccs/HanWCZWZYSY21,
+  author    = {Dongqi Han and
+               Zhiliang Wang and
+               Wenqi Chen and
+               Ying Zhong and
+               Su Wang and
+               Han Zhang and
+               Jiahai Yang and
+               Xingang Shi and
+               Xia Yin},
+  title     = {DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3197-3217},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhaoZZZZLYYL21,
+  author    = {Kaifa Zhao and
+               Hao Zhou and
+               Yulin Zhu and
+               Xian Zhan and
+               Kai Zhou and
+               Jianfeng Li and
+               Le Yu and
+               Wei Yuan and
+               Xiapu Luo},
+  title     = {Structural Attack against Graph Based Android Malware Detection},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3218-3235},
+}
+
+@inproceedings{DBLP:conf/ccs/LiQY21,
+  author    = {Xuezixiang Li and
+               Yu Qu and
+               Heng Yin},
+  title     = {PalmTree: Learning an Assembly Language Model for Instruction Embedding},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3236-3251},
+}
+
+@inproceedings{DBLP:conf/ccs/ColemanS21,
+  author    = {Benjamin Coleman and
+               Anshumali Shrivastava},
+  title     = {A {One-Pass} Distributed and Private Sketch for Kernel Sums with Applications to Machine Learning at Scale},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3252-3265},
+}
+
+@inproceedings{DBLP:conf/ccs/HussainJSK21,
+  author    = {Siam Umar Hussain and
+               Mojan Javaheripi and
+               Mohammad Samragh and
+               Farinaz Koushanfar},
+  title     = {COINN: Crypto/{ML} Codesign for Oblivious Inference via Neural Networks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3266-3281},
+}
+
+@inproceedings{DBLP:conf/ccs/TanZMCSLY21,
+  author    = {Xin Tan and
+               Yuan Zhang and
+               Chenyuan Mi and
+               Jiajun Cao and
+               Kun Sun and
+               Yifan Lin and
+               Min Yang},
+  title     = {Locating the Security Patches for Disclosed {OSS} Vulnerabilities with {Vulnerability-Commit} Correlation Ranking},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3282-3299},
+}
+
+@inproceedings{DBLP:conf/ccs/DaiZXLWXY21,
+  author    = {Jiarun Dai and
+               Yuan Zhang and
+               Hailong Xu and
+               Haiming Lyu and
+               Zicheng Wu and
+               Xinyu Xing and
+               Min Yang},
+  title     = {Facilitating Vulnerability Assessment through {PoC} Migration},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3300-3317},
+}
+
+@inproceedings{DBLP:conf/ccs/JiangJHTZP21,
+  author    = {Zhiyuan Jiang and
+               Xiyue Jiang and
+               Ahmad Hazimeh and
+               Chaojing Tang and
+               Chao Zhang and
+               Mathias Payer},
+  title     = {Igor: Crash Deduplication Through {Root-Cause} Clustering},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3318-3336},
+}
+
+@inproceedings{DBLP:conf/ccs/YagemannNHC0L21,
+  author    = {Carter Yagemann and
+               Mohammad A. Noureddine and
+               Wajih Ul Hassan and
+               Simon Chung and
+               Adam Bates and
+               Wenke Lee},
+  title     = {Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3337-3351},
+}
+
+@inproceedings{DBLP:conf/ccs/FullerKSXAVAS21,
+  author    = {Jonathan Fuller and
+               Ranjita Pai Kasturi and
+               Amit Sikder and
+               Haichuan Xu and
+               Berat Arik and
+               Vivek Verma and
+               Ehsan Asdar and
+               Brendan Saltaformaggio},
+  title     = {C3PO: {Large-Scale} Study Of Covert Monitoring of C&C Servers via {Over-Permissioned} Protocol Infiltration},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3352-3365},
+}
+
+@inproceedings{DBLP:conf/ccs/HollandSFM21,
+  author    = {Jordan Holland and
+               Paul Schmitt and
+               Nick Feamster and
+               Prateek Mittal},
+  title     = {New Directions in Automated Traffic Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3366-3383},
+}
+
+@inproceedings{DBLP:conf/ccs/0002ZMZHQKPL21a,
+  author    = {Zhongjie Wang and
+               Shitong Zhu and
+               Keyu Man and
+               Pengxiong Zhu and
+               Yu Hao and
+               Zhiyun Qian and
+               Srikanth V. Krishnamurthy and
+               Tom La Porta and
+               Michael J. De Lucia},
+  title     = {Themis: {Ambiguity-Aware} Network Intrusion Detection based on Symbolic Model Comparison},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3384-3399},
+}
+
+@inproceedings{DBLP:conf/ccs/ManZQ21,
+  author    = {Keyu Man and
+               Xin'an Zhou and
+               Zhiyun Qian},
+  title     = {{DNS} Cache Poisoning Attack: Resurrections with Side Channels},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3400-3414},
+}
+
+@inproceedings{DBLP:conf/ccs/BeamsKA21,
+  author    = {Andrew Beams and
+               Sampath Kannan and
+               Sebastian Angel},
+  title     = {Packet Scheduling with Optional Client Privacy},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3415-3430},
+}
+
+@inproceedings{DBLP:conf/ccs/FuLSX21,
+  author    = {Chuanpu Fu and
+               Qi Li and
+               Meng Shen and
+               Ke Xu},
+  title     = {Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3431-3446},
+}
+
+@inproceedings{DBLP:conf/ccs/ThyagarajanGBKS21,
+  author    = {Sri Aravinda Krishnan Thyagarajan and
+               Tiantian Gong and
+               Adithya Bhat and
+               Aniket Kate and
+               Dominique Schröder},
+  title     = {OpenSquare: Decentralized Repeated Modular Squaring Service},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3447-3464},
+}
+
+@inproceedings{DBLP:conf/ccs/JiC21,
+  author    = {Yan Ji and
+               Konstantinos Chalkias},
+  title     = {Generalized Proof of Liabilities},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3465-3486},
+}
+
+@inproceedings{DBLP:conf/ccs/KiayiasLZ21,
+  author    = {Aggelos Kiayias and
+               Nikos Leonardos and
+               Dionysis Zindros},
+  title     = {Mining in Logarithmic Space},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3487-3501},
+}
+
+@inproceedings{DBLP:conf/ccs/BhatSLKN21,
+  author    = {Adithya Bhat and
+               Nibesh Shrestha and
+               Zhongtang Luo and
+               Aniket Kate and
+               Kartik Nayak},
+  title     = {{RandPiper} - {Reconfiguration-Friendly} Random Beacons with Quadratic Communication},
+  booktitle = ccs,
+  year      = 2021,
+  pages     = {3502-3524},
+}
+
+@inproceedings{DBLP:conf/ccs/Blazy20,
+  author    = {Sandrine Blazy},
+  title     = {From Verified Compilation to Secure Compilation: a Semantic Approach},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Duan20,
+  author    = {Pu Duan},
+  title     = {Introduction to Secure Collaborative Intelligence (SCI) Lab},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Krotofil20,
+  author    = {Marina Krotofil},
+  title     = {Optimize Your Efforts: How to Tailor {PhD} Research to {Real-World} Needs - Industrial Perspective on Academic CPS/{IoT} Research},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {1},
+}
+
 @inproceedings{DBLP:conf/ccs/Song20,
   author    = {Dawn Song},
   title     = {{AI} and Security: Lessons, Challenges and Future Directions},
@@ -9,7 +3609,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/Tehranipoor20,
-  author    = {Mark Mohammad Tehranipoor},
+  author    = {Mark M. Tehranipoor},
   title     = {The Pursuit of Happiness: Establishing Hardware {Root-of-Trust} for Cyber Security},
   booktitle = ccs,
   year      = 2020,
@@ -50,6 +3650,26 @@
   pages     = {1-9},
 }
 
+@inproceedings{DBLP:conf/ccs/LiaoCFS20,
+  author    = {Chang Liao and
+               Yao Cheng and
+               Chengfang Fang and
+               Jie Shi},
+  title     = {Where Does the Robustness Come from?: A Study of the Transformation-based Ensemble Defence},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/ccs/MaasM20,
+  author    = {Marno van der Maas and
+               Simon W. Moore},
+  title     = {Protecting Enclaves from {Intra-Core} {Side-Channel} Attacks through Physical Isolation},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {1-12},
+}
+
 @inproceedings{DBLP:conf/ccs/Tsudik20,
   author    = {Gene Tsudik},
   title     = {Proofs or Remote Execution and Mitigation of {TOCTOU} Attacks},
@@ -87,6 +3707,34 @@
   pages     = {3},
 }
 
+@inproceedings{DBLP:conf/ccs/Schneider20,
+  author    = {Thomas Schneider},
+  title     = {Engineering {Privacy-Preserving} Machine Learning Protocols},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {3-4},
+}
+
+@inproceedings{DBLP:conf/ccs/PankovaJ20,
+  author    = {Alisa Pankova and
+               Joosep Jääger},
+  title     = {Short Paper: Secure Multiparty Logic Programming},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {3-7},
+}
+
+@inproceedings{DBLP:conf/ccs/SalazarSQC20,
+  author    = {Luis Salazar and
+               Neil Ortiz Silva and
+               Xi Qin and
+               Alvaro A. Cárdenas},
+  title     = {Towards a {High-Fidelity} Network Emulation of {IEC} 104 {SCADA} Systems},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {3-12},
+}
+
 @inproceedings{DBLP:conf/ccs/ZhangZS20,
   author    = {Zhao Zhang and
                Wenchao Zhou and
@@ -103,6 +3751,14 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {4-5},
+}
+
+@inproceedings{DBLP:conf/ccs/Popa20,
+  author    = {Raluca Ada Popa},
+  title     = {MC2: A Secure Collaborative Computation Platform},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {5},
 }
 
 @inproceedings{DBLP:conf/ccs/Ruhrmair20,
@@ -123,6 +3779,36 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {6-19},
+}
+
+@inproceedings{DBLP:conf/ccs/Zhang20,
+  author    = {Yupeng Zhang},
+  title     = {{Zero-Knowledge} Proofs for Machine Learning},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/ccs/SweetD020,
+  author    = {Ian Sweet and
+               David Darais and
+               Michael Hicks},
+  title     = {Short Paper: Probabilistically {Almost-Oblivious} Computation},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {9-12},
+}
+
+@inproceedings{DBLP:conf/ccs/Treiber0W0K20,
+  author    = {Amos Treiber and
+               Alejandro Molina and
+               Christian Weinert and
+               Thomas Schneider and
+               Kristian Kersting},
+  title     = {CryptoSPN: Expanding {PPML} beyond Neural Networks},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {9-14},
 }
 
 @inproceedings{DBLP:conf/ccs/NakanishiYMP20,
@@ -158,6 +3844,55 @@
   pages     = {11-22},
 }
 
+@inproceedings{DBLP:conf/ccs/GissurarsonM20,
+  author    = {Matthías Páll Gissurarson and
+               Agustín Mista},
+  title     = {Short Paper: Weak {Runtime-Irrelevant} Typing for Security},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {13-17},
+}
+
+@inproceedings{DBLP:conf/ccs/PijnenburgP20,
+  author    = {Jeroen Pijnenburg and
+               Bertram Poettering},
+  title     = {Efficiency Improvements for {Encrypt-to-Self}},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {13-23},
+}
+
+@inproceedings{DBLP:conf/ccs/CastiglioneL20,
+  author    = {Luca Maria Castiglione and
+               Emil C. Lupu},
+  title     = {Hazard Driven Threat Modelling for Cyber Physical Systems},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/ccs/ShumailovZMA20,
+  author    = {Ilia Shumailov and
+               Yiren Zhao and
+               Robert D. Mullins and
+               Ross J. Anderson},
+  title     = {Towards Certifiable Adversarial Sample Detection},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/ccs/FarrandMST20,
+  author    = {Tom Farrand and
+               Fatemehsadat Mireshghallah and
+               Sahib Singh and
+               Andrew Trask},
+  title     = {Neither Private Nor Fair: Impact of Data Imbalance on Utility and Fairness in Differential Privacy},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {15-19},
+}
+
 @inproceedings{DBLP:conf/ccs/RochetWJMP20,
   author    = {Florentin Rochet and
                Ryan Wails and
@@ -168,6 +3903,17 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {17-34},
+}
+
+@inproceedings{DBLP:conf/ccs/MorioJVK20,
+  author    = {Kevin Morio and
+               Dennis Jackson and
+               Marco Vassena and
+               Robert Künnemann},
+  title     = {Short Paper: Modular Black-box Runtime Verification of Security Protocols},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {19-22},
 }
 
 @inproceedings{DBLP:conf/ccs/NoguchiHY20,
@@ -193,6 +3939,22 @@
   pages     = {20-32},
 }
 
+@inproceedings{DBLP:conf/ccs/LawLPPSSYZZ20,
+  author    = {Andrew Law and
+               Chester Leung and
+               Rishabh Poddar and
+               Raluca Ada Popa and
+               Chenyu Shi and
+               Octavian Sima and
+               Chaofan Yu and
+               Xingmeng Zhang and
+               Wenting Zheng},
+  title     = {Secure Collaborative Training and Inference for {XGBoost}},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {21-26},
+}
+
 @inproceedings{DBLP:conf/ccs/ZhangTL020,
   author    = {Hengwei Zhang and
                Jinglei Tan and
@@ -215,6 +3977,14 @@
   pages     = {21-33},
 }
 
+@inproceedings{DBLP:conf/ccs/Yang20,
+  author    = {Jean Yang},
+  title     = {How {APIs} Are Both the Illness and the Cure: The Software Heterogeneity Problem in Modern Web Applications},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {23},
+}
+
 @inproceedings{DBLP:conf/ccs/AhmedRM20,
   author    = {Chuadhry Mujeeb Ahmed and
                M. R. Gauthama Raman and
@@ -223,6 +3993,59 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {23-29},
+}
+
+@inproceedings{DBLP:conf/ccs/BringhentiMSV20,
+  author    = {Daniele Bringhenti and
+               Guido Marchetto and
+               Riccardo Sisto and
+               Fulvio Valenza},
+  title     = {Short Paper: Automatic Configuration for an Optimal Channel Protection in Virtualized Networks},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/ccs/TurrinETC20,
+  author    = {Federico Turrin and
+               Alessandro Erba and
+               Nils Ole Tippenhauer and
+               Mauro Conti},
+  title     = {A Statistical Analysis Framework for {ICS} Process Datasets},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/ccs/LabellCF20,
+  author    = {Lauren Labell and
+               Jared Chandler and
+               Kathleen Fisher},
+  title     = {Automatic Discovery and Synthesis of Checksum Algorithms from Binary Data Samples},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {25-34},
+}
+
+@inproceedings{DBLP:conf/ccs/JuW20,
+  author    = {An Ju and
+               David A. Wagner},
+  title     = {E-ABS: Extending the {Analysis-By-Synthesis} Robust Classification Model to More Complex Image Domains},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/ccs/MishraLSZP20,
+  author    = {Pratyush Mishra and
+               Ryan Lehmkuhl and
+               Akshayaram Srinivasan and
+               Wenting Zheng and
+               Raluca Ada Popa},
+  title     = {Delphi: A Cryptographic Inference System for Neural Networks},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {27-30},
 }
 
 @inproceedings{DBLP:conf/ccs/WangIAT20,
@@ -244,6 +4067,40 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {30-41},
+}
+
+@inproceedings{DBLP:conf/ccs/Krontiris20,
+  author    = {Ioannis Krontiris},
+  title     = {Enabling Trusted Digital Identities ? From Connected Citizens to Connected Objects},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {31},
+}
+
+@inproceedings{DBLP:conf/ccs/AgrawalSAM20,
+  author    = {Anand Agrawal and
+               Marios Sazos and
+               Ahmed Al-Durra and
+               Michail Maniatakos},
+  title     = {Towards Robust Power Grid Attack Protection using {LightGBM} with Concept Drift Detection and Retraining},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/ccs/XuWYLDLWW20,
+  author    = {Xiaoyun Xu and
+               Jingzheng Wu and
+               Mutian Yang and
+               Tianyue Luo and
+               Xu Duan and
+               Weiheng Li and
+               Yanjun Wu and
+               Bin Wu},
+  title     = {Information Leakage by Model Weights on Federated Learning},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {31-36},
 }
 
 @inproceedings{DBLP:conf/ccs/PoschingerRCR20,
@@ -269,6 +4126,16 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {33-46},
+}
+
+@inproceedings{DBLP:conf/ccs/BenitezCR20,
+  author    = {Sergio Benitez and
+               Jonathan Cogan and
+               Alejandro Russo},
+  title     = {Short Paper: Blockcheck the Typechain},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {35-39},
 }
 
 @inproceedings{DBLP:conf/ccs/WangWD20,
@@ -305,6 +4172,40 @@
   pages     = {36-44},
 }
 
+@inproceedings{DBLP:conf/ccs/ChenXWX020,
+  author    = {Jinyin Chen and
+               Huiling Xu and
+               Jinhuan Wang and
+               Qi Xuan and
+               Xuhong Zhang},
+  title     = {Adversarial Detection on Graph Structured Data},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {37-41},
+}
+
+@inproceedings{DBLP:conf/ccs/SolanoLRCTO20,
+  author    = {Jesus Solano and
+               Christian Lopez and
+               Esteban Rivera and
+               Alejandra Castelblanco and
+               Lizzy Tengana and
+               Martín Ochoa},
+  title     = {SCRAP: Synthetically Composed Replay Attacks vs. Adversarial Machine Learning Attacks against Mouse-based Biometric Authentication},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {37-47},
+}
+
+@inproceedings{DBLP:conf/ccs/SalzilloR20,
+  author    = {Giovanni Salzillo and
+               Massimiliano Rak},
+  title     = {A (in){Secure-by-Design} {IoT} Protocol: the {ESP} Touch Protocol and a Case Study Analysis from the Real Market},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {37-48},
+}
+
 @inproceedings{DBLP:conf/ccs/HauC020,
   author    = {Zhongyuan Hau and
                John Henry Castellanos and
@@ -321,6 +4222,18 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {43-44},
+}
+
+@inproceedings{DBLP:conf/ccs/BoemerCD0Y20,
+  author    = {Fabian Boemer and
+               Rosario Cammarota and
+               Daniel Demmler and
+               Thomas Schneider and
+               Hossein Yalame},
+  title     = {MP2ML: A {Mixed-Protocol} Machine Learning Framework for Private Inference},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {43-45},
 }
 
 @inproceedings{DBLP:conf/ccs/LarsenF20,
@@ -343,7 +4256,7 @@
 
 @inproceedings{DBLP:conf/ccs/BahramiDAKKG20,
   author    = {Javad Bahrami and
-               Viet B. Dang and
+               Viet Ba Dang and
                Abubakr Abdulgadir and
                Khaled N. Khasawneh and
                Jens-Peter Kaps and
@@ -352,6 +4265,21 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/ccs/LuFHH0QZ020,
+  author    = {Wen-jie Lu and
+               Yixuan Fang and
+               Zhicong Huang and
+               Cheng Hong and
+               Chaochao Chen and
+               Hunter Qu and
+               Yajin Zhou and
+               Kui Ren},
+  title     = {Faster Secure Multiparty Computation of Adaptive Gradient Descent},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {47-49},
 }
 
 @inproceedings{DBLP:conf/ccs/Dong0TCSZ20,
@@ -367,6 +4295,36 @@
   pages     = {47-59},
 }
 
+@inproceedings{DBLP:conf/ccs/SmithJICHDRLVK20,
+  author    = {Michael R. Smith and
+               Nicholas T. Johnson and
+               Joe B. Ingram and
+               Armida J. Carbajal and
+               Bridget I. Haus and
+               Eva Domschot and
+               Ramyaa and
+               Christopher C. Lamb and
+               Stephen J. Verzi and
+               W. Philip Kegelmeyer},
+  title     = {Mind the Gap: On Bridging the Semantic Gap between Machine Learning and Malware Analysis},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {49-60},
+}
+
+@inproceedings{DBLP:conf/ccs/ThomasGCSPR20,
+  author    = {Richard J. Thomas and
+               Joseph Gardiner and
+               Tom Chothia and
+               Emmanouil Samanis and
+               Joshua Perrett and
+               Awais Rashid},
+  title     = {Catch Me If You Can: An {In-Depth} Study of {CVE} Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {49-60},
+}
+
 @inproceedings{DBLP:conf/ccs/RamanSKE20,
   author    = {Ram Sundara Raman and
                Prerana Shenoy and
@@ -376,6 +4334,16 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {49-66},
+}
+
+@inproceedings{DBLP:conf/ccs/CaiLW20,
+  author    = {Jianping Cai and
+               Ximeng Liu and
+               Yingjie Wu},
+  title     = {{SVM} Learning for Default Prediction of Credit Card under Differential Privacy},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {51-53},
 }
 
 @inproceedings{DBLP:conf/ccs/SkowyraJ20,
@@ -396,6 +4364,16 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {54-65},
+}
+
+@inproceedings{DBLP:conf/ccs/HaralampievaRP20,
+  author    = {Veneta Haralampieva and
+               Daniel Rueckert and
+               Jonathan Passerat-Palmbach},
+  title     = {A Systematic Comparison of Encrypted Machine Learning Solutions for Image Classification},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {55-59},
 }
 
 @inproceedings{DBLP:conf/ccs/ShiozakiSF20,
@@ -429,6 +4407,59 @@
   pages     = {60-72},
 }
 
+@inproceedings{DBLP:conf/ccs/YingZL20,
+  author    = {Zuobin Ying and
+               Yun Zhang and
+               Ximeng Liu},
+  title     = {{Privacy-Preserving} in Defending against Membership Inference Attacks},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {61-63},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangMB20,
+  author    = {Heng Zhang and
+               Amiya Kumar Maji and
+               Saurabh Bagchi},
+  title     = {Privacy in the Mobile World: An Analysis of Bluetooth Scan Traces},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {61-65},
+}
+
+@inproceedings{DBLP:conf/ccs/VerwerNHBAO20,
+  author    = {Sicco Verwer and
+               Azqa Nadeem and
+               Christian A. Hammerschmidt and
+               Laurens Bliek and
+               Abdullah Al-Dujaili and
+               Una-May O'Reilly},
+  title     = {The Robust Malware Detection Challenge and Greedy Random Accelerated {Multi-Bit} Search},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {61-70},
+}
+
+@inproceedings{DBLP:conf/ccs/HussainLKC20,
+  author    = {Siam U. Hussain and
+               Baiyu Li and
+               Farinaz Koushanfar and
+               Rosario Cammarota},
+  title     = {TinyGarble2: Smart, Efficient, and Scalable Yao's Garble Circuit},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {65-67},
+}
+
+@inproceedings{DBLP:conf/ccs/GardinerR20,
+  author    = {Joseph Gardiner and
+               Awais Rashid},
+  title     = {DEMO: Gone in 20 Seconds - Overview of a Password Vulnerability in Siemens {HMIs}},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {67},
+}
+
 @inproceedings{DBLP:conf/ccs/JanaS020,
   author    = {Amit Jana and
                Dhiman Saha and
@@ -452,12 +4483,48 @@
   pages     = {67-83},
 }
 
+@inproceedings{DBLP:conf/ccs/OspinaZLK20,
+  author    = {Juan Ospina and
+               Ioannis Zografopoulos and
+               Xiaorui Liu and
+               Charalambos Konstantinou},
+  title     = {DEMO: Trustworthy Cyberphysical Energy Systems: {Time-Delay} Attacks in a {Real-Time} {Co-Simulation} Environment},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {69},
+}
+
 @inproceedings{DBLP:conf/ccs/Xu20,
   author    = {Shouhuai Xu},
   title     = {The Cybersecurity Dynamics Way of Thinking and Landscape},
   booktitle = ccs,
   year      = 2020,
   pages     = {69-80},
+}
+
+@inproceedings{DBLP:conf/ccs/MadaniVS20,
+  author    = {Pooria Madani and
+               Natalija Vlajic and
+               Shadi Sadeghpour},
+  title     = {{MAC-Layer} Spoofing Detection and Prevention in {IoT} Systems: Randomized Moving Target Approach},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {71-80},
+}
+
+@inproceedings{DBLP:conf/ccs/RaffZMFAFNH20,
+  author    = {Edward Raff and
+               Richard Zak and
+               Gary Lopez Munoz and
+               William Fleming and
+               Hyrum S. Anderson and
+               Bobby Filar and
+               Charles Nicholas and
+               James Holt},
+  title     = {Automatic Yara Rule Generation Using Biclustering},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {71-82},
 }
 
 @inproceedings{DBLP:conf/ccs/RothenbergerRLP20,
@@ -469,6 +4536,19 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {73-86},
+}
+
+@inproceedings{DBLP:conf/ccs/AdhikaryKGGDM20,
+  author    = {Sunandan Adhikary and
+               Ipsita Koley and
+               Saurav Kumar Ghosh and
+               Sumana Ghosh and
+               Soumyajit Dey and
+               Debdeep Mukhopadhyay},
+  title     = {Skip to Secure: Securing {Cyber-Physical} Control Loops with Intentionally Skipped Executions},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {81-86},
 }
 
 @inproceedings{DBLP:conf/ccs/BurowBKSW20,
@@ -493,6 +4573,15 @@
   pages     = {81-91},
 }
 
+@inproceedings{DBLP:conf/ccs/NovoM20,
+  author    = {Carlos Novo and
+               Ricardo Morla},
+  title     = {Flow-based Detection and Proxy-based Evasion of Encrypted Malware C2 Traffic},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {83-91},
+}
+
 @inproceedings{DBLP:conf/ccs/PangSZJVLLW20,
   author    = {Ren Pang and
                Hua Shen and
@@ -506,6 +4595,15 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {85-99},
+}
+
+@inproceedings{DBLP:conf/ccs/CharyyevG20,
+  author    = {Batyr Charyyev and
+               Mehmet Hadi Gunes},
+  title     = {Voice Command Fingerprinting with Locality Sensitive Hashes},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {87-92},
 }
 
 @inproceedings{DBLP:conf/ccs/BoureanuCI20,
@@ -526,6 +4624,15 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {93-102},
+}
+
+@inproceedings{DBLP:conf/ccs/SchloglB20,
+  author    = {Alexander Schlögl and
+               Rainer Böhme},
+  title     = {eNNclave: Offline Inference with Model Confidentiality},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {93-104},
 }
 
 @inproceedings{DBLP:conf/ccs/00070L0020,
@@ -561,6 +4668,19 @@
   pages     = {103-116},
 }
 
+@inproceedings{DBLP:conf/ccs/RiveraTSCLO20,
+  author    = {Esteban Rivera and
+               Lizzy Tengana and
+               Jesus Solano and
+               Alejandra Castelblanco and
+               Christian Lopez and
+               Martín Ochoa},
+  title     = {Risk-based Authentication Based on Network Latency Profiling},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {105-115},
+}
+
 @inproceedings{DBLP:conf/ccs/LinXL020,
   author    = {Junyu Lin and
                Lei Xu and
@@ -590,6 +4710,15 @@
   booktitle = ccs,
   year      = 2020,
   pages     = {117-126},
+}
+
+@inproceedings{DBLP:conf/ccs/YoshidaF20,
+  author    = {Kota Yoshida and
+               Takeshi Fujino},
+  title     = {Disabling Backdoor and Identifying Poison Data by using Knowledge Distillation in Backdoor Attacks on Deep Neural Networks},
+  booktitle = ccs,
+  year      = 2020,
+  pages     = {117-127},
 }
 
 @inproceedings{DBLP:conf/ccs/HastingsS20,
@@ -1668,7 +5797,7 @@
 
 @inproceedings{DBLP:conf/ccs/LippH0PMG20,
   author    = {Moritz Lipp and
-               Vedad Hazic and
+               Vedad Hadzic and
                Michael Schwarz and
                Arthur Perais and
                Clémentine Maurice and
@@ -2534,7 +6663,7 @@
 @inproceedings{DBLP:conf/ccs/SchwartzCGS20,
   author    = {Edward J. Schwartz and
                Cory F. Cohen and
-               Jeffrey S. Gennari and
+               Jeffrey Gennari and
                Stephanie M. Schwartz},
   title     = {A Generic Technique for Automatically Finding {Defense-Aware} Code Reuse Attacks},
   booktitle = ccs,
@@ -3151,6 +7280,16 @@
   pages     = {1-15},
 }
 
+@inproceedings{DBLP:conf/ccs/CeragioliDG19,
+  author    = {Lorenzo Ceragioli and
+               Pierpaolo Degano and
+               Letterio Galletta},
+  title     = {Are All Firewall Systems Equally Powerful?},
+  booktitle = ccs,
+  year      = 2019,
+  pages     = {1-17},
+}
+
 @inproceedings{DBLP:conf/ccs/YanFMZYK19,
   author    = {Wenwen Yan and
                Anmin Fu and
@@ -3388,6 +7527,17 @@
   pages     = {17-28},
 }
 
+@inproceedings{DBLP:conf/ccs/JordanGHZ19,
+  author    = {Alexander Jordan and
+               François Gauthier and
+               Behnaz Hassanshahi and
+               David Zhao},
+  title     = {Unacceptable Behavior: Robust {PDF} Malware Detection Using Abstract Interpretation},
+  booktitle = ccs,
+  year      = 2019,
+  pages     = {19-30},
+}
+
 @inproceedings{DBLP:conf/ccs/AkaviaSWY19,
   author    = {Adi Akavia and
                Hayim Shaul and
@@ -3540,6 +7690,18 @@
   booktitle = ccs,
   year      = 2019,
   pages     = {30-37},
+}
+
+@inproceedings{DBLP:conf/ccs/KaneLCSL19,
+  author    = {Christopher Kane and
+               Bo Lin and
+               Saksham Chand and
+               Scott D. Stoller and
+               Yanhong A. Liu},
+  title     = {{High-Level} Cryptographic Abstractions},
+  booktitle = ccs,
+  year      = 2019,
+  pages     = {31-43},
 }
 
 @inproceedings{DBLP:conf/ccs/LaiRRSTW19,
@@ -3705,7 +7867,7 @@
                Yiyu Yang and
                Shangru Zhao and
                Hongyu Sun and
-               Wenjie Wang},
+               Wengjie Wang},
   title     = {New Features of Authentication Scheme for the IoT: A Survey},
   booktitle = ccs,
   year      = 2019,
@@ -3730,6 +7892,18 @@
   booktitle = ccs,
   year      = 2019,
   pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/ccs/StaicuSBPS19,
+  author    = {Cristian-Alexandru Staicu and
+               Daniel Schoepe and
+               Musard Balliu and
+               Michael Pradel and
+               Andrei Sabelfeld},
+  title     = {An Empirical Study of Information Flows in {Real-World} {JavaScript}},
+  booktitle = ccs,
+  year      = 2019,
+  pages     = {45-59},
 }
 
 @inproceedings{DBLP:conf/ccs/CarregaR19,
@@ -3886,6 +8060,15 @@
   booktitle = ccs,
   year      = 2019,
   pages     = {59-69},
+}
+
+@inproceedings{DBLP:conf/ccs/CortinasV19,
+  author    = {Carlos Tomé Cortiñas and
+               Nachiappan Valliappan},
+  title     = {Simple Noninterference by Normalization},
+  booktitle = ccs,
+  year      = 2019,
+  pages     = {61-72},
 }
 
 @inproceedings{DBLP:conf/ccs/OlufowobiHB19,
@@ -5131,7 +9314,7 @@
 @inproceedings{DBLP:conf/ccs/Herrera-Joancomarti19,
   author    = {Jordi Herrera-Joancomartí and
                Guillermo Navarro-Arribas and
-               Alejandro Ranchal Pedrosa and
+               Alejandro Ranchal-Pedrosa and
                Cristina Pérez-Solà and
                Joaquín García-Alfaro},
   title     = {On the Difficulty of Hiding the Balance of Lightning Network Channels},
@@ -6021,7 +10204,7 @@
 
 @inproceedings{DBLP:conf/ccs/AlmeidaBBBDGL0S19,
   author    = {José Bacelar Almeida and
-               Cecile Baritel-Ruet and
+               Cécile Baritel-Ruet and
                Manuel Barbosa and
                Gilles Barthe and
                François Dupressoir and
@@ -7573,7 +11756,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/MonteuuisB0LSU18,
-  author    = {Jean Philippe Monteuuis and
+  author    = {Jean-Philippe Monteuuis and
                Aymen Boudguiga and
                Jun Zhang and
                Houda Labiod and
@@ -8709,7 +12892,7 @@
                Hui Wu and
                Marc Ph. Stoecklin and
                Heqing Huang and
-               Ian Molloy},
+               Ian M. Molloy},
   title     = {Protecting Intellectual Property of Deep Neural Networks with Watermarking},
   booktitle = ccs,
   year      = 2018,
@@ -9050,7 +13233,7 @@
 
 @inproceedings{DBLP:conf/ccs/BurowMCP18,
   author    = {Nathan Burow and
-               Derrick McKee and
+               Derrick Paul McKee and
                Scott A. Carr and
                Mathias Payer},
   title     = {CUP: Comprehensive {User-Space} Protection for C/C++},
@@ -14849,7 +19032,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/BonawitzIKMMPRS17,
-  author    = {Keith Bonawitz and
+  author    = {Kallista A. Bonawitz and
                Vladimir Ivanov and
                Ben Kreuter and
                Antonio Marcedone and
@@ -15107,7 +19290,7 @@
                Adib Nahiyan and
                Thomas Shrimpton and
                Domenic Forte and
-               Mark Mohammad Tehranipoor},
+               Mark M. Tehranipoor},
   title     = {Standardizing Bad Cryptographic Practice: A Teardown of the {IEEE} Standard for Protecting Electronic-design Intellectual Property},
   booktitle = ccs,
   year      = 2017,
@@ -16203,7 +20386,7 @@
                Marten van Dijk and
                Farinaz Koushanfar and
                Ulrich Rührmair and
-               Mark Mohammad Tehranipoor},
+               Mark M. Tehranipoor},
   title     = {{ASHES} 2017: Workshop on Attacks and Solutions in Hardware Security},
   booktitle = ccs,
   year      = 2017,
@@ -19060,7 +23243,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/DimitrovKKRW16,
-  author    = {Vassil Dimitrov and
+  author    = {Vassil S. Dimitrov and
                Liisi Kerik and
                Toomas Krips and
                Jaak Randmets and
@@ -20513,7 +24696,7 @@
 @inproceedings{DBLP:conf/ccs/KapustaMN16,
   author    = {Katarzyna Kapusta and
                Gérard Memmi and
-               Hassan N. Noura},
+               Hassan Noura},
   title     = {POSTER: A Keyless Efficient Algorithm for Data Protection by Means of Fragmentation},
   booktitle = ccs,
   year      = 2016,
@@ -24503,7 +28686,7 @@
 @inproceedings{DBLP:conf/ccs/RiliskisSL15,
   author    = {Laurynas Riliskis and
                Hossein Shafagh and
-               Philip Levis},
+               Philip Alexander Levis},
   title     = {POSTER: Computations on Encrypted Data in the Internet of Things Applications},
   booktitle = ccs,
   year      = 2015,
@@ -25681,7 +29864,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/BurgerGKZ14,
-  author    = {Eric W. Burger and
+  author    = {Eric William Burger and
                Michael D. Goodman and
                Panos Kampanakis and
                Kevin A. Zhu},
@@ -25758,7 +29941,7 @@
   author    = {Pratyusa K. Manadhata and
                Sandeep Yadav and
                Prasad Rao and
-               William Horne},
+               William G. Horne},
   title     = {Detecting Malicious Domains via Graph Inference},
   booktitle = ccs,
   year      = 2014,
@@ -25840,7 +30023,7 @@
 
 @inproceedings{DBLP:conf/ccs/JinHYDYP14,
   author    = {Xing Jin and
-               Xuchao Hu and
+               Xunchao Hu and
                Kailiang Ying and
                Wenliang Du and
                Heng Yin and
@@ -26594,7 +30777,7 @@
   author    = {Adonis P. H. Fung and
                Tielei Wang and
                K. W. Cheung and
-               T. Y. Wong},
+               Tsz-Yeung Wong},
   title     = {Scanning of real-world web applications for parameter tampering vulnerabilities},
   booktitle = ccs,
   year      = 2014,
@@ -26668,7 +30851,7 @@
 
 @inproceedings{DBLP:conf/ccs/BasinCKPSS14,
   author    = {David A. Basin and
-               Cas J. F. Cremers and
+               Cas Cremers and
                Tiffany Hyun-Jin Kim and
                Adrian Perrig and
                Ralf Sasse and
@@ -28694,7 +32877,7 @@
                Weili Han and
                Zheran Fang and
                Yuliang Yin and
-               Hossen Mustafa},
+               Hossen A. Mustafa},
   title     = {Role mining algorithm evaluation and improvement in large volume android applications},
   booktitle = ccs,
   year      = 2013,
@@ -30342,7 +34525,7 @@
 
 @inproceedings{DBLP:conf/ccs/SamanthulaHJ13,
   author    = {Bharath K. Samanthula and
-               Chun Hu and
+               Hu Chun and
                Wei Jiang},
   title     = {An efficient and probabilistic secure bit-decomposition},
   booktitle = ccs,
@@ -31573,6 +35756,14 @@
   pages     = {1-2},
 }
 
+@inproceedings{DBLP:conf/ccs/Weber12,
+  author    = {Samuel Weber},
+  title     = {Big data privacy and security challenges},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {1-2},
+}
+
 @inproceedings{DBLP:conf/ccs/BatesMPPVB12,
   author    = {Adam Bates and
                Benjamin Mood and
@@ -31593,6 +35784,14 @@
   booktitle = ccs,
   year      = 2012,
   pages     = {2-13},
+}
+
+@inproceedings{DBLP:conf/ccs/Manadhata12,
+  author    = {Pratyusa K. Manadhata},
+  title     = {Big data for security: challenges, opportunities, and examples},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {3-4},
 }
 
 @inproceedings{DBLP:conf/ccs/JeonMVFRFM12,
@@ -31616,6 +35815,16 @@
   booktitle = ccs,
   year      = 2012,
   pages     = {5},
+}
+
+@inproceedings{DBLP:conf/ccs/SundaramurthyBE12,
+  author    = {Sathya Chandran Sundaramurthy and
+               Sandeep Bhatt and
+               Marc R. Eisenbarth},
+  title     = {Examining intrusion prevention system events from worldwide networks},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {5-12},
 }
 
 @inproceedings{DBLP:conf/ccs/NguyenM12,
@@ -31661,6 +35870,16 @@
   pages     = {12-13},
 }
 
+@inproceedings{DBLP:conf/ccs/DainottiKC12,
+  author    = {Alberto Dainotti and
+               Alistair King and
+               Kimberly C. Claffy},
+  title     = {Analysis of internet-wide probing using darknets},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {13-14},
+}
+
 @inproceedings{DBLP:conf/ccs/BiedermannMK12,
   author    = {Sebastian Biedermann and
                Martin Mink and
@@ -31681,6 +35900,14 @@
   pages     = {14-27},
 }
 
+@inproceedings{DBLP:conf/ccs/Mell12,
+  author    = {Peter Mell},
+  title     = {Big data technology and implications for security research},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {15-16},
+}
+
 @inproceedings{DBLP:conf/ccs/AmrutkarT12,
   author    = {Chaitrali Amrutkar and
                Patrick Traynor},
@@ -31698,6 +35925,15 @@
   booktitle = ccs,
   year      = 2012,
   pages     = {16-17},
+}
+
+@inproceedings{DBLP:conf/ccs/AllodiM12,
+  author    = {Luca Allodi and
+               Fabio Massacci},
+  title     = {A preliminary analysis of vulnerability scores for attacks in wild: the ekits and sym datasets},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {17-24},
 }
 
 @inproceedings{DBLP:conf/ccs/LaiDL12,
@@ -31768,6 +36004,16 @@
   booktitle = ccs,
   year      = 2012,
   pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/ccs/0003LJ12,
+  author    = {Lei Jin and
+               Xuelian Long and
+               James B. D. Joshi},
+  title     = {Towards understanding residential privacy by analyzing users' activities in foursquare},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {25-32},
 }
 
 @inproceedings{DBLP:conf/ccs/ChuLHZ12,
@@ -31844,6 +36090,14 @@
   booktitle = ccs,
   year      = 2012,
   pages     = {32-33},
+}
+
+@inproceedings{DBLP:conf/ccs/Venkataraman12,
+  author    = {Shobha Venkataraman},
+  title     = {Tracking dynamic network properties at internet-scale},
+  booktitle = ccs,
+  year      = 2012,
+  pages     = {33-34},
 }
 
 @inproceedings{DBLP:conf/ccs/FeltEW12,
@@ -32564,7 +36818,7 @@
                Yuan Qi and
                Rahul Potharaju and
                Cristina Nita-Rotaru and
-               Ian Molloy},
+               Ian M. Molloy},
   title     = {Using probabilistic generative models for ranking risks of Android apps},
   booktitle = ccs,
   year      = 2012,
@@ -33825,7 +38079,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/VattikondaDS11,
-  author    = {Bhanu C. Vattikonda and
+  author    = {Bhanu Chandra Vattikonda and
                Sambit Das and
                Hovav Shacham},
   title     = {Eliminating fine grained timers in Xen},
@@ -34512,7 +38766,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/MolloyL11,
-  author    = {Ian Molloy and
+  author    = {Ian M. Molloy and
                Ninghui Li},
   title     = {Attack on the {GridCode} one-time password},
   booktitle = ccs,
@@ -35615,6 +39869,14 @@
   pages     = {881-884},
 }
 
+@inproceedings{DBLP:conf/ccs/Cappelli10,
+  author    = {Dawn M. Cappelli},
+  title     = {Using empirical insider threat case data to design a mitigation strategy},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {1-2},
+}
+
 @inproceedings{DBLP:conf/ccs/Oorschot10,
   author    = {Paul C. van Oorschot},
   title     = {System security, platform security and usability},
@@ -35674,6 +39936,17 @@
   pages     = {3-10},
 }
 
+@inproceedings{DBLP:conf/ccs/GafnySRE10,
+  author    = {Ma'ayan Gafny and
+               Asaf Shabtai and
+               Lior Rokach and
+               Yuval Elovici},
+  title     = {Detecting data misuse by applying context-based data linkage},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {3-12},
+}
+
 @inproceedings{DBLP:conf/ccs/SasakiNO10,
   author    = {Takayuki Sasaki and
                Masayuki Nakae and
@@ -35704,6 +39977,17 @@
   booktitle = ccs,
   year      = 2010,
   pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/ccs/HarelSRE10,
+  author    = {Amir Harel and
+               Asaf Shabtai and
+               Lior Rokach and
+               Yuval Elovici},
+  title     = {M-score: estimating the potential damage of data leakage incident by assigning misuseability weight},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {13-20},
 }
 
 @inproceedings{DBLP:conf/ccs/MagaziniusAS10,
@@ -35739,6 +40023,17 @@
   pages     = {19-30},
 }
 
+@inproceedings{DBLP:conf/ccs/TuttleWLL10,
+  author    = {John Tuttle and
+               Robert J. Walls and
+               Erik G. Learned-Miller and
+               Brian Neil Levine},
+  title     = {Reverse engineering for mobile systems forensics with Ares},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {21-28},
+}
+
 @inproceedings{DBLP:conf/ccs/BugielE10,
   author    = {Sven Bugiel and
                Jan-Erik Ekberg},
@@ -35770,6 +40065,15 @@
   pages     = {27-37},
 }
 
+@inproceedings{DBLP:conf/ccs/ClaycombS10,
+  author    = {William R. Claycomb and
+               Dongwan Shin},
+  title     = {Detecting insider activity using enhanced directory virtualization},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {29-36},
+}
+
 @inproceedings{DBLP:conf/ccs/DietrichW10,
   author    = {Kurt Dietrich and
                Johannes Winter},
@@ -35798,6 +40102,15 @@
   booktitle = ccs,
   year      = 2010,
   pages     = {36-47},
+}
+
+@inproceedings{DBLP:conf/ccs/StefanovA10,
+  author    = {Emil Stefanov and
+               Mikhail Atallah},
+  title     = {Duress detection for authentication attacks against multiple administrators},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {37-46},
 }
 
 @inproceedings{DBLP:conf/ccs/AzabNWJZS10,
@@ -35844,6 +40157,17 @@
   pages     = {47-52},
 }
 
+@inproceedings{DBLP:conf/ccs/AkavipatDK010,
+  author    = {Ruj Akavipat and
+               Apurv Dhadphale and
+               Apu Kapadia and
+               Matthew Wright},
+  title     = {ReDS: reputation for directory services in P2P systems},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {47-54},
+}
+
 @inproceedings{DBLP:conf/ccs/AtallahF10,
   author    = {Mikhail J. Atallah and
                Keith B. Frikken},
@@ -35880,6 +40204,16 @@
   booktitle = ccs,
   year      = 2010,
   pages     = {53-62},
+}
+
+@inproceedings{DBLP:conf/ccs/NellikarNC10,
+  author    = {Suraj Nellikar and
+               David M. Nicol and
+               Jai J. Choi},
+  title     = {Role-based differentiation for insider detection algorithms},
+  booktitle = ccs,
+  year      = 2010,
+  pages     = {55-62},
 }
 
 @inproceedings{DBLP:conf/ccs/WangAA10,
@@ -37329,6 +41663,14 @@
   pages     = {1},
 }
 
+@inproceedings{DBLP:conf/ccs/Schulte09,
+  author    = {Wolfram Schulte},
+  title     = {From dependable multi-user to dependable multi-application operating systems: invited talk},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {1-2},
+}
+
 @inproceedings{DBLP:conf/ccs/AlbrechtGHK09,
   author    = {Martin R. Albrecht and
                Craig Gentry and
@@ -37345,6 +41687,16 @@
                Mahbod Tavallaee and
                Ali A. Ghorbani},
   title     = {Automatic discovery of botnet communities on large-scale communication networks},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/ccs/PfohS009,
+  author    = {Jonas Pfoh and
+               Christian A. Schneider and
+               Claudia Eckert},
+  title     = {A formal model for virtual machine introspection},
   booktitle = ccs,
   year      = 2009,
   pages     = {1-10},
@@ -37368,10 +41720,33 @@
   pages     = {3-10},
 }
 
+@inproceedings{DBLP:conf/ccs/MaesHDJ09,
+  author    = {Wim Maes and
+               Thomas Heyman and
+               Lieven Desmet and
+               Wouter Joosen},
+  title     = {Browser protection against cross-site request forgery},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {3-10},
+}
+
 @inproceedings{DBLP:conf/ccs/HsuC09,
   author    = {Francis Hsu and
                Hao Chen},
   title     = {Secure file system services for web 2.0 applications},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {11-18},
+}
+
+@inproceedings{DBLP:conf/ccs/LeontieBNSZ09,
+  author    = {Eugen Leontie and
+               Gedare Bloom and
+               Bhagirath Narahari and
+               Rahul Simha and
+               Joseph Zambreno},
+  title     = {Hardware-enforced fine-grained isolation of untrusted code},
   booktitle = ccs,
   year      = 2009,
   pages     = {11-18},
@@ -37390,6 +41765,18 @@
   pages     = {11-20},
 }
 
+@inproceedings{DBLP:conf/ccs/KangYHMS09,
+  author    = {Min Gyung Kang and
+               Heng Yin and
+               Steve Hanna and
+               Stephen McCamant and
+               Dawn Song},
+  title     = {Emulating emulation-resistant malware},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {11-22},
+}
+
 @inproceedings{DBLP:conf/ccs/LiGCP09,
   author    = {Zhichun Li and
                Anup Goyal and
@@ -37399,6 +41786,16 @@
   booktitle = ccs,
   year      = 2009,
   pages     = {11-22},
+}
+
+@inproceedings{DBLP:conf/ccs/FrancillonPC09,
+  author    = {Aurélien Francillon and
+               Daniele Perito and
+               Claude Castelluccia},
+  title     = {Defending embedded systems against control flow attacks},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {19-26},
 }
 
 @inproceedings{DBLP:conf/ccs/BiddleOPSW09,
@@ -37421,6 +41818,15 @@
   booktitle = ccs,
   year      = 2009,
   pages     = {21-32},
+}
+
+@inproceedings{DBLP:conf/ccs/KrishnanM09,
+  author    = {Srinivas Krishnan and
+               Fabian Monrose},
+  title     = {TimeCapsule: secure recording of accesses to a protected datastore},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {23-32},
 }
 
 @inproceedings{DBLP:conf/ccs/KangCLTKNWSHDK09,
@@ -37451,6 +41857,18 @@
   pages     = {31-42},
 }
 
+@inproceedings{DBLP:conf/ccs/Bratus0RSL09,
+  author    = {Sergey Bratus and
+               Peter C. Johnson and
+               Ashwin Ramaswamy and
+               Sean W. Smith and
+               Michael E. Locasto},
+  title     = {The cake is a lie: privilege rings as a policy resource},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {33-38},
+}
+
 @inproceedings{DBLP:conf/ccs/KoscherJBK09,
   author    = {Karl Koscher and
                Ari Juels and
@@ -37469,6 +41887,26 @@
   booktitle = ccs,
   year      = 2009,
   pages     = {35-46},
+}
+
+@inproceedings{DBLP:conf/ccs/SherrB09,
+  author    = {Micah Sherr and
+               Matt Blaze},
+  title     = {Application containers without virtual machines},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {39-42},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangXJ009,
+  author    = {Shengzhi Zhang and
+               Xi Xiong and
+               Xiaoqi Jia and
+               Peng Liu},
+  title     = {Availability-sensitive intrusion recovery},
+  booktitle = ccs,
+  year      = 2009,
+  pages     = {43-48},
 }
 
 @inproceedings{DBLP:conf/ccs/BerbainBEG09,
@@ -38682,7 +43120,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/Cremers08,
-  author    = {Cas J. F. Cremers},
+  author    = {Cas Cremers},
   title     = {On the protocol composition logic {PCL}},
   booktitle = ccs,
   year      = 2008,
@@ -44414,7 +48852,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/JohnsonMLW93,
-  author    = {Donald Byron Johnson and
+  author    = {Don B. Johnson and
                Stephen M. Matyas and
                An V. Le and
                John D. Wilkins},

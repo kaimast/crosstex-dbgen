@@ -1,5 +1,449 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cidr/0001NZLGN21,
+  author    = {Arun Kumar and
+               Supun Nakandala and
+               Yuhao Zhang and
+               Side Li and
+               Advitya Gemawat and
+               Kabir Nagrecha},
+  title     = {Cerebro: A Layered Data Platform for Scalable Deep Learning},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/AlhomssiL21,
+  author    = {Adnan Alhomssi and
+               Viktor Leis},
+  title     = {Contention and Space Management in {B-Trees}},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/AppuswamyJ21,
+  author    = {Raja Appuswamy and
+               Vincent Joguin},
+  title     = {Universal Layout Emulation for {Long-Term} Database Archival},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/ArasuKKR21,
+  author    = {Arvind Arasu and
+               Raghav Kaushik and
+               Donald Kossmann and
+               Ravi Ramamurthy},
+  title     = {Integrity-based Attacks for Encrypted Databases and Implications},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/BangMPB21,
+  author    = {Tiemo Bang and
+               Norman May and
+               Ilia Petrov and
+               Carsten Binnig},
+  title     = {AnyDB: An Architecture-less {DBMS} for Any Workload},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/BarbalaceD21,
+  author    = {Antonio Barbalace and
+               Jaeyoung Do},
+  title     = {Computational Storage: Where Are We Today?},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/CheungCHM21,
+  author    = {Alvin Cheung and
+               Natacha Crooks and
+               Joseph M. Hellerstein and
+               Matthew Milano},
+  title     = {New Directions in Cloud Programming},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Crotty21,
+  author    = {Andrew Crotty},
+  title     = {Hist-Tree: Those Who Ignore It Are Doomed to Learn},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Dageville21,
+  author    = {Benoît Dageville},
+  title     = {Snowflake Data Cloud},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Deshpande21,
+  author    = {Amol Deshpande},
+  title     = {Sypse: Privacy-first Data Management through Pseudonymization and Partitioning},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/DingCMM21,
+  author    = {Mengsu Ding and
+               Shimin Chen and
+               Nantia Makrynioti and
+               Stefan Manegold},
+  title     = {Progressive Join Algorithms Considering User Preference},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/GrafbergerSS21,
+  author    = {Stefan Grafberger and
+               Julia Stoyanovich and
+               Sebastian Schelter},
+  title     = {Lightweight Inspection of Data Preprocessing in Native Machine Learning Pipelines},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/HagedornKS21,
+  author    = {Stefan Hagedorn and
+               Steffen Kläbe and
+               Kai-Uwe Sattler},
+  title     = {Putting Pandas in a Box},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/HertzschuchHHL21,
+  author    = {Axel Hertzschuch and
+               Claudio Hartmann and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {Simplicity Done Right for Join Ordering},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/JindalEDPHPG0CM21,
+  author    = {Alekh Jindal and
+               K. Venkatesh Emani and
+               Maureen Daum and
+               Olga Poppe and
+               Brandon Haynes and
+               Anna Pavlenko and
+               Ayushi Gupta and
+               Karthik Ramachandra and
+               Carlo Curino and
+               Andreas Mueller and
+               Wentao Wu and
+               Hiren Patel},
+  title     = {Magpie: Python at Speed and Scale using Cloud Backends},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Kang21,
+  author    = {Daniel Kang},
+  title     = {Accelerating Queries over Unstructured Data with {ML}},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/KargarN21,
+  author    = {Saeed Kargar and
+               Faisal Nawab},
+  title     = {Hamming Tree: The Case for {Memory-Aware} Bit Flipping Reduction for {NVM} Indexing},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/KarumuriSZT21,
+  author    = {Suman Karumuri and
+               Franco Solleza and
+               Stan Zdonik and
+               Nesime Tatbul},
+  title     = {Cloud Observability: A {MELTing} Pot for Petabytes of Heterogenous Time Series},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/KazhamiakaZB21,
+  author    = {Fiodar Kazhamiaka and
+               Matei Zaharia and
+               Peter Bailis},
+  title     = {Challenges and Opportunities for Autonomous Vehicle Query Systems},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Kersten0NK21,
+  author    = {Martin L. Kersten and
+               Ying Zhang and
+               Niels Nes and
+               Panagiotis Koutsourakis},
+  title     = {Bridging the Chasm between Science and Reality},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/KumariBFKG21,
+  author    = {Poonam Kumari and
+               Mike Brachmann and
+               Su Feng and
+               Oliver Kennedy and
+               Boris Glavic},
+  title     = {DataSense: {Display-Agnostic} Data Documentation},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/KuschewskiL21,
+  author    = {Maximilian Kuschewski and
+               Viktor Leis},
+  title     = {{White-Box} {OLAP} Performance Modeling for the Cloud},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/MaDKS021,
+  author    = {Shuaicheng Ma and
+               Tamraparni Dasu and
+               Yaron Kanza and
+               Divesh Srivastava and
+               Li Xiong},
+  title     = {Fraud Buster: Tracking {IRSF} Using Blockchain While Protecting Business Confidentiality},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/MaSAKT21,
+  author    = {Qingzhi Ma and
+               Ali Mohammadi Shanghooshabad and
+               Mehrdad Almasi and
+               Meghdad Kurmanji and
+               Peter Triantafillou},
+  title     = {Learned Approximate Query Processing: Make it Light, Accurate and Fast},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Macke21,
+  author    = {Stephen Macke},
+  title     = {Automating State Management in Computational Notebooks},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/MahdaviA21,
+  author    = {Mohammad Mahdavi and
+               Ziawasch Abedjan},
+  title     = {{Semi-Supervised} Data Cleaning with Raha and Baran},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/MelgarDGGHJKL0L21,
+  author    = {Leonel Aguilar Melgar and
+               David Dao and
+               Shaoduo Gan and
+               Nezihe Merve Gürel and
+               Nora Hollenstein and
+               Jiawei Jiang and
+               Bojan Karlas and
+               Thomas Lemmin and
+               Tian Li and
+               Yang Li and
+               Xi Rao and
+               Johannes Rausch and
+               Cédric Renggli and
+               Luka Rimanic and
+               Maurice Weber and
+               Shuai Zhang and
+               Zhikuan Zhao and
+               Kevin Schawinski and
+               Wentao Wu and
+               Ce Zhang},
+  title     = {Ease.ML: A Lifecycle Management System for Machine Learning},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Olukotun21,
+  author    = {Kunle Olukotun},
+  title     = {"Let the Data Flow!"},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/OrrLG0ALR21,
+  author    = {Laurel J. Orr and
+               Megan Leszczynski and
+               Neel Guha and
+               Sen Wu and
+               Simran Arora and
+               Xiao Ling and
+               Christopher Ré},
+  title     = {Bootleg: Chasing the Tail with {Self-Supervised} Named Entity Disambiguation},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/PaparrizosLBHEE21,
+  author    = {John Paparrizos and
+               Chunwei Liu and
+               Bruno Barbarioli and
+               Johnny Hwang and
+               Ikraduya Edian and
+               Aaron J. Elmore and
+               Michael J. Franklin and
+               Sanjay Krishnan},
+  title     = {VergeDB: A Database for {IoT} Analytics on Edge Devices},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/PaponA21,
+  author    = {Tarikul Islam Papon and
+               Manos Athanassoulis},
+  title     = {The Need for a New I/O Model},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Petersohn21,
+  author    = {Devin Petersohn},
+  title     = {Scaling Data Science does not mean Scaling Machines},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/RahmanGD21,
+  author    = {Sajjadur Rahman and
+               Peter Griggs and
+               Çagatay Demiralp},
+  title     = {Leam: An Interactive System for In-situ Visual Text Analysis},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Rezig21,
+  author    = {El Kindi Rezig},
+  title     = {Data Cleaning in the Era of Data Science: Challenges and Opportunities},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Schuhknecht0DA21,
+  author    = {Felix Martin Schuhknecht and
+               Ankur Sharma and
+               Jens Dittrich and
+               Divya Agrawal},
+  title     = {chainifyDB: How to get rid of your Blockchain and use your {DBMS} instead},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/SioulasSMA21,
+  author    = {Panagiotis Sioulas and
+               Viktor Sanca and
+               Ioannis Mytilinis and
+               Anastasia Ailamaki},
+  title     = {Accelerating Complex Analytics using Speculation},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/SirinDA21,
+  author    = {Utku Sirin and
+               Sandhya Dwarkadas and
+               Anastasia Ailamaki},
+  title     = {Interference-aware Micro-architectural Resource Manager for Hybrid Workloads},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Wawrzoniak0AB21,
+  author    = {Michal Wawrzoniak and
+               Ingo Müller and
+               Gustavo Alonso and
+               Rodrigo Bruno},
+  title     = {Boxer: Data Analytics on Network-enabled Serverless Platforms},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/ZacharatouKSPDM21,
+  author    = {Eleni Tzirita Zacharatou and
+               Andreas Kipf and
+               Ibrahim Sabek and
+               Varun Pandey and
+               Harish Doraiswamy and
+               Volker Markl},
+  title     = {The Case for {Distance-Bounded} Spatial Approximations},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Zaharia0XA21,
+  author    = {Matei Zaharia and
+               Ali Ghodsi and
+               Reynold Xin and
+               Michael Armbrust},
+  title     = {Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhangBLPNRZBBDE21,
+  author    = {Ling Zhang and
+               Matthew Butrovich and
+               Tianyu Li and
+               Andrew Pavlo and
+               Yash Nannapaneni and
+               John Rollinson and
+               Huanchen Zhang and
+               Ambarish Balakumar and
+               Daniel Biales and
+               Ziqi Dong and
+               Emmanuel J. Eppinger and
+               Jordi E. Gonzalez and
+               Wan Shen Lim and
+               Jianqiao Liu and
+               Lin Ma and
+               Prashanth Menon and
+               Soumil Mukherjee and
+               Tanuj Nayak and
+               Amadou Ngom and
+               Dong Niu and
+               Deepayan Patra and
+               Poojita Raj and
+               Stephanie Wang and
+               Wuwen Wang and
+               Yao Yu and
+               William Zhang},
+  title     = {Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in Database Management Systems},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhaoKMZ21,
+  author    = {Zheguang Zhao and
+               Seny Kamara and
+               Tarik Moataz and
+               Stan Zdonik},
+  title     = {Encrypted Databases: From Theory to Systems},
+  booktitle = cidr,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/cidr/Zou21,
+  author    = {Jia Zou},
+  title     = {Using Deep Learning Models to Replace Large Materialized Views in Relational Database},
+  booktitle = cidr,
+  year      = 2021,
+}
+
 @inproceedings{DBLP:conf/cidr/000120,
   author    = {Yuya Sasaki},
   title     = {We do not have Systems for Analysing {IoT} {Big-Data}},
@@ -18,7 +462,8 @@
 }
 
 @inproceedings{DBLP:conf/cidr/Abedjan20,
-  author    = {Ziawasch Abedjan},
+  author    = {Mahdi Esmailoghli and
+               Ziawasch Abedjan},
   title     = {CAFE: {Constraint-Aware} Feature Extraction from Large Databases},
   booktitle = cidr,
   year      = 2020,
@@ -1120,7 +1565,7 @@
                Jonathan Goldstein and
                Donald Kossmann and
                Justin J. Levandoski and
-               Renato Marroquin and
+               Renato Marroquín and
                Wenlei Xie},
   title     = {READY: Completeness is in the Eye of the Beholder},
   booktitle = cidr,
@@ -1626,7 +2071,7 @@
   author    = {James Wagner and
                Alexander Rasin and
                Tanu Malik and
-               Karen Hart and
+               Karen Heart and
                Hugo Jehle and
                Jonathan Grier},
   title     = {Database Forensic Analysis with {DBCarver}},
@@ -2369,7 +2814,7 @@
 @inproceedings{DBLP:conf/cidr/CetintemelCDDDKPZ13,
   author    = {Ugur Çetintemel and
                Mitch Cherniack and
-               Justin DeBrabant and
+               Justin A. DeBrabant and
                Yanlei Diao and
                Kyriaki Dimitriadou and
                Alexander Kalinin and

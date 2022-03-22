@@ -629,17 +629,17 @@ class DBLPProcessor:
 
 
 d = DBLPProcessor(infilename='dblp.xml', cachefilename='dblp.xml.pp', outdir='xtx')
-d.add_conference('atc',         'ATC', 'USENIX Annual Technical Conference', names=('USENIX ATC',), prefixes=('usenix',))
+d.add_conference('atc',         'ATC', 'USENIX Annual Technical Conference', names=('{USENIX} ATC', 'USENIX ATC',), prefixes=('conf/usenix',))
 d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('ccs',         'CCS', 'Computer and Communications Security')
 d.add_conference('crypto',      'CRYPTO', 'Annual International Cryptology Conference')
-d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques', names=('EUROCRYPT',))
+#d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques', names=('EUROCRYPT',))
 d.add_conference('eurosp',      'Euro S&P', 'European Symposium on Security and Privacy', names=('{IEEE} European Symposium on Security and Privacy', 'EuroS&P', 'EuroS&P Workshops'), prefixes=('conf/eurosp',))
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
 d.add_conference('fc',          'FC', 'Financial Cryptography and Data Security', names=('Financial Cryptography',))
 d.add_conference('fast',        'FAST', 'Conference on File and Storage Technologies')
 d.add_conference('imc',         'IMC', 'Internet Measurement Conference')
-d.add_conference('infocom',     'INFOCOM', 'IEEE International Conference on Computer Communications')
+#d.add_conference('infocom',     'INFOCOM', 'IEEE International Conference on Computer Communications')
 d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium')
 d.add_conference('mobicom',     'MOBICOM', 'International Conference on Mobile Computing and Networking')
 d.add_conference('nsdi',        'NSDI', 'Symposium on Networked System Design and Implementation')
@@ -684,7 +684,7 @@ d.add_journal('ieeeis',         'IEEE IS', 'IEEE Intelligent Systems', prefixes=
 d.add_journal('ieeenetwork',    'IEEE Network Magazine', prefixes=('journals/network',), names=('IEEE Network',))
 d.add_journal('ieeesac',        'IEEE Journal on Selected Areas in Communications', prefixes=('journals/jsac',))
 d.add_journal('ieeesecpriv',    'IEEE Security {\&} Privacy', prefixes=('journals/ieeesp',), names=('IEEE Security & Privacy',))
-d.add_journal('ieeese',         'IEEE Transactions on Software Engineering', prefixes=('journals/tse',), names=('IEEE Trans. Software Eng.',))
+#d.add_journal('ieeese',         'IEEE Transactions on Software Engineering', prefixes=('journals/tse',), names=('IEEE Trans. Software Eng.',))
 d.add_journal('ieeetc',         'IEEE ToC', 'IEEE Transactions on Computers', prefixes=('journals/tc',), names=('IEEE Trans.  Computers',))
 d.add_journal('tpds',           'IEEE Transactions on Parallel and Distributed Systems', names=('IEEE Trans. Parallel Distrib. Syst.',))
 # Miscellaneous
@@ -694,7 +694,7 @@ d.add_journal('dse',            'Distributed Systems Engineering', names=('Distr
 d.add_journal('ibmsj',          'IBM Systems Journal')
 d.add_journal('login',          ';login:', )
 d.add_journal('mms',            'Multimedia Systems Journal', names=('Multimedia Syst.',))
-d.add_journal('scp',            'Science of Computer Programming', names=('Sci. Comput. Program.',))
+#d.add_journal('scp',            'Science of Computer Programming', names=('Sci. Comput. Program.',))
 d.add_journal('pvldb',          'PVLDB', 'Proceedings of the VLDB Endowment', names=('The VLDB Journal', 'Proc. VLDB Endow.'))
 
 #TODO

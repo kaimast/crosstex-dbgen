@@ -1,5 +1,219 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/TraubGCBKRM21,
+  author    = {Jonas Traub and
+               Philipp Marian Grulich and
+               Alejandro Rodriguez Cuellar and
+               Sebastian Breß and
+               Asterios Katsifodimos and
+               Tilmann Rabl and
+               Volker Markl},
+  title     = {Scotty: General and Efficient Open-source Window Aggregation for Stream Processing Systems},
+  journal   = tods,
+  volume    = {46},
+  number    = {1},
+  year      = 2021,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/AmarilliBMN21,
+  author    = {Antoine Amarilli and
+               Pierre Bourhis and
+               Stefan Mengel and
+               Matthias Niewerth},
+  title     = {{Constant-Delay} Enumeration for Nondeterministic Document Spanners},
+  journal   = tods,
+  volume    = {46},
+  number    = {1},
+  year      = 2021,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/MitchellFH21,
+  author    = {Rory Mitchell and
+               Eibe Frank and
+               Geoffrey Holmes},
+  title     = {An Empirical Study of Moment Estimators for Quantile Approximation},
+  journal   = tods,
+  volume    = {46},
+  number    = {1},
+  year      = 2021,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/MeduriCS21,
+  author    = {Venkata Vamsikrishna Meduri and
+               Kanchan Chowdhury and
+               Mohamed Sarwat},
+  title     = {Evaluation of Machine Learning Algorithms in Predicting the Next {SQL} Query from the Future},
+  journal   = tods,
+  volume    = {46},
+  number    = {1},
+  year      = 2021,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/CarmeliK21,
+  author    = {Nofar Carmeli and
+               Markus Kröll},
+  title     = {On the Enumeration Complexity of Unions of Conjunctive Queries},
+  journal   = tods,
+  volume    = {46},
+  number    = {2},
+  year      = 2021,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/MhedhbiKS21,
+  author    = {Amine Mhedhbi and
+               Chathura Kankanamge and
+               Semih Salihoglu},
+  title     = {Optimizing One-time and Continuous Subgraph Queries using Worst-case Optimal Joins},
+  journal   = tods,
+  volume    = {46},
+  number    = {2},
+  year      = 2021,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/WeiL21,
+  author    = {Ziheng Wei and
+               Sebastian Link},
+  title     = {Embedded Functional Dependencies and Data-completeness Tailored Database Design},
+  journal   = tods,
+  volume    = {46},
+  number    = {2},
+  year      = 2021,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/ChenS21,
+  author    = {Yangjun Chen and
+               Gagandeep Singh},
+  title     = {Graph Indexing for Efficient Evaluation of Label-constrained Reachability Queries},
+  journal   = tods,
+  volume    = {46},
+  number    = {2},
+  year      = 2021,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/TrummerWWMMJAR21,
+  author    = {Immanuel Trummer and
+               Junxiong Wang and
+               Ziyun Wei and
+               Deepak Maram and
+               Samuel Moseley and
+               Saehan Jo and
+               Joseph Antonakakis and
+               Ankush Rayabhari},
+  title     = {SkinnerDB: Regret-bounded Query Evaluation via Reinforcement Learning},
+  journal   = tods,
+  volume    = {46},
+  number    = {3},
+  year      = 2021,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/SongGZWY21,
+  author    = {Shaoxu Song and
+               Fei Gao and
+               Aoqian Zhang and
+               Jianmin Wang and
+               Philip S. Yu},
+  title     = {Stream Data Cleaning under Speed and Acceleration Constraints},
+  journal   = tods,
+  volume    = {46},
+  number    = {3},
+  year      = 2021,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/LinMJHW21,
+  author    = {Xuelian Lin and
+               Shuai Ma and
+               Jiahao Jiang and
+               Yanchen Hou and
+               Tianyu Wo},
+  title     = {Error Bounded Line Simplification Algorithms for Trajectory Compression: An Experimental Evaluation},
+  journal   = tods,
+  volume    = {46},
+  number    = {3},
+  year      = 2021,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/KhamisKNS21,
+  author    = {Mahmoud Abo Khamis and
+               Phokion G. Kolaitis and
+               Hung Q. Ngo and
+               Dan Suciu},
+  title     = {Bag Query Containment and Information Theory},
+  journal   = tods,
+  volume    = {46},
+  number    = {3},
+  year      = 2021,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/MaFCLZL21,
+  author    = {Chenhao Ma and
+               Yixiang Fang and
+               Reynold Cheng and
+               Laks V. S. Lakshmanan and
+               Wenjie Zhang and
+               Xuemin Lin},
+  title     = {On Directed Densest Subgraph Discovery},
+  journal   = tods,
+  volume    = {46},
+  number    = {4},
+  year      = 2021,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/SinghPBBFJKP21,
+  author    = {Shikha Singh and
+               Prashant Pandey and
+               Michael A. Bender and
+               Jonathan W. Berry and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Thomas M. Kroeger and
+               Cynthia A. Phillips},
+  title     = {Timely Reporting of Heavy Hitters Using External Memory},
+  journal   = tods,
+  volume    = {46},
+  number    = {4},
+  year      = 2021,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/BenediktBJT21,
+  author    = {Michael Benedikt and
+               Pierre Bourhis and
+               Louis Jachiet and
+               Efthymia Tsamoura},
+  title     = {Balancing Expressiveness and Inexpressiveness in View Design},
+  journal   = tods,
+  volume    = {46},
+  number    = {4},
+  year      = 2021,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/GrezRUV21,
+  author    = {Alejandro Grez and
+               Cristian Riveros and
+               Martín Ugarte and
+               Stijn Vansummeren},
+  title     = {A Formal Framework for Complex Event Recognition},
+  journal   = tods,
+  volume    = {46},
+  number    = {4},
+  year      = 2021,
+  pages     = {16-1},
+}
+
 @article{DBLP:journals/tods/Jensen20,
   author    = {Christian S. Jensen},
   title     = {Editorial: Updates to the Editorial Board},
@@ -4883,7 +5097,7 @@
 
 @article{DBLP:journals/tods/ShaoNS06,
   author    = {Feng Shao and
-               Antal Novak and
+               Antal F. Novak and
                Jayavel Shanmugasundaram},
   title     = {Triggers over nested views of relational data},
   journal   = tods,
@@ -10577,7 +10791,7 @@
 }
 
 @article{DBLP:journals/tods/CulikOW81,
-  author    = {Karel Culik II and
+  author    = {Karel Culík II and
                Thomas Ottmann and
                Derick Wood},
   title     = {Dense Multiway Trees},
@@ -11420,7 +11634,7 @@
 
 @article{DBLP:journals/tods/SaltonW78,
   author    = {Gerard Salton and
-               A. Wong},
+               Anita Wong},
   title     = {Generation and Search of Clustered Files},
   journal   = tods,
   volume    = {3},

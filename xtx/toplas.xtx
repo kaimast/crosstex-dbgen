@@ -1,5 +1,271 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/InversoTFTP22,
+  author    = {Omar Inverso and
+               Ermenegildo Tomasco and
+               Bernd Fischer and
+               Salvatore La Torre and
+               Gennaro Parlato},
+  title     = {Bounded Verification of Multi-threaded Programs via Lazy Sequentialization},
+  journal   = toplas,
+  volume    = {44},
+  number    = {1},
+  year      = 2022,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/HeckerBS22,
+  author    = {Martin Hecker and
+               Simon Bischof and
+               Gregor Snelting},
+  title     = {On Time-sensitive Control Dependencies},
+  journal   = toplas,
+  volume    = {44},
+  number    = {1},
+  year      = 2022,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/DengC22,
+  author    = {Chaoqiang Deng and
+               Patrick Cousot},
+  title     = {The Systematic Design of Responsibility Analysis by Abstract Interpretation},
+  journal   = toplas,
+  volume    = {44},
+  number    = {1},
+  year      = 2022,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/GorinovaGSV22,
+  author    = {Maria I. Gorinova and
+               Andrew D. Gordon and
+               Charles Sutton and
+               Matthijs Vákár},
+  title     = {Conditional Independence by Typing},
+  journal   = toplas,
+  volume    = {44},
+  number    = {1},
+  year      = 2022,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/MelicherXZPA22,
+  author    = {Darya Melicher and
+               Anlun Xu and
+               Valerie Zhao and
+               Alex Potanin and
+               Jonathan Aldrich},
+  title     = {Bounded Abstract Effects},
+  journal   = toplas,
+  volume    = {44},
+  number    = {1},
+  year      = 2022,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/toplas/PatrignaniG21,
+  author    = {Marco Patrignani and
+               Deepak Garg},
+  title     = {Robustly Safe Compilation, an Efficient Form of Secure Compilation},
+  journal   = toplas,
+  volume    = {43},
+  number    = {1},
+  year      = 2021,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/SananZLL21,
+  author    = {David Sanán and
+               Yongwang Zhao and
+               Shang-Wei Lin and
+               Yang Liu},
+  title     = {CSim2: Compositional Top-down Verification of Concurrent Systems using {Rely-Guarantee}},
+  journal   = toplas,
+  volume    = {43},
+  number    = {1},
+  year      = 2021,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/Pearce21,
+  author    = {David J. Pearce},
+  title     = {A Lightweight Formalism for Reference Lifetimes and Borrowing in Rust},
+  journal   = toplas,
+  volume    = {43},
+  number    = {1},
+  year      = 2021,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/Gordon21,
+  author    = {Colin S. Gordon},
+  title     = {Polymorphic Iterable Sequential Effect Systems},
+  journal   = toplas,
+  volume    = {43},
+  number    = {1},
+  year      = 2021,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/TakisakaOUH21,
+  author    = {Toru Takisaka and
+               Yuichiro Oyabu and
+               Natsuki Urabe and
+               Ichiro Hasuo},
+  title     = {Ranking and Repulsing Supermartingales for Reachability in Randomized Programs},
+  journal   = toplas,
+  volume    = {43},
+  number    = {2},
+  year      = 2021,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/toplas/VesgaRG21,
+  author    = {Elisabet Lobo Vesga and
+               Alejandro Russo and
+               Marco Gaboardi},
+  title     = {A Programming Language for Data Privacy with Accuracy Estimations},
+  journal   = toplas,
+  volume    = {43},
+  number    = {2},
+  year      = 2021,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/toplas/ToninhoY21,
+  author    = {Bernardo Toninho and
+               Nobuko Yoshida},
+  title     = {On Polymorphic Sessions and Functions: A Tale of Two (Fully Abstract) Encodings},
+  journal   = toplas,
+  volume    = {43},
+  number    = {2},
+  year      = 2021,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/toplas/AlglaveDGHM21,
+  author    = {Jade Alglave and
+               Will Deacon and
+               Richard Grisenthwaite and
+               Antoine Hacquard and
+               Luc Maranget},
+  title     = {Armed Cats: Formal Concurrency Modelling at Arm},
+  journal   = toplas,
+  volume    = {43},
+  number    = {2},
+  year      = 2021,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/toplas/ZhangSO21,
+  author    = {Weixin Zhang and
+               Yaozhu Sun and
+               Bruno C. d. S. Oliveira},
+  title     = {Compositional Programming},
+  journal   = toplas,
+  volume    = {43},
+  number    = {3},
+  year      = 2021,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/LiuMM21,
+  author    = {Lun Liu and
+               Todd D. Millstein and
+               Madanlal Musuvathi},
+  title     = {Safe-by-default Concurrency for Modern Programming Languages},
+  journal   = toplas,
+  volume    = {43},
+  number    = {3},
+  year      = 2021,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/GangeMNSSS21,
+  author    = {Graeme Gange and
+               Zequn Ma and
+               Jorge A. Navas and
+               Peter Schachte and
+               Harald Søndergaard and
+               Peter J. Stuckey},
+  title     = {A Fresh Look at Zones and Octagons},
+  journal   = toplas,
+  volume    = {43},
+  number    = {3},
+  year      = 2021,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/toplas/BusiNBGDMP21,
+  author    = {Matteo Busi and
+               Job Noorman and
+               Jo Van Bulck and
+               Letterio Galletta and
+               Pierpaolo Degano and
+               Jan Tobias Mühlberg and
+               Frank Piessens},
+  title     = {Securing Interruptible Enclaved Execution on Small Microprocessors},
+  journal   = toplas,
+  volume    = {43},
+  number    = {3},
+  year      = 2021,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/toplas/Muller21,
+  author    = {Peter Müller},
+  title     = {Introduction to the Special Section on {ESOP} 2020},
+  journal   = toplas,
+  volume    = {43},
+  number    = {4},
+  year      = 2021,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/AbateBCDGHPTT21,
+  author    = {Carmine Abate and
+               Roberto Blanco and
+               Stefan Ciobaca and
+               Adrien Durier and
+               Deepak Garg and
+               Catalin Hritcu and
+               Marco Patrignani and
+               Éric Tanter and
+               Jérémy Thibault},
+  title     = {An Extended Account of Trace-relating Compiler Correctness and Secure Compilation},
+  journal   = toplas,
+  volume    = {43},
+  number    = {4},
+  year      = 2021,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/toplas/MatsushitaTK21,
+  author    = {Yusuke Matsushita and
+               Takeshi Tsukada and
+               Naoki Kobayashi},
+  title     = {RustHorn: {CHC-based} Verification for Rust Programs},
+  journal   = toplas,
+  volume    = {43},
+  number    = {4},
+  year      = 2021,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/toplas/DOsualdoSFG21,
+  author    = {Emanuele D'Osualdo and
+               Julian Sutherland and
+               Azadeh Farzan and
+               Philippa Gardner},
+  title     = {{TaDA} Live: Compositional Reasoning for Termination of Fine-grained Concurrent Programs},
+  journal   = toplas,
+  volume    = {43},
+  number    = {4},
+  year      = 2021,
+  pages     = {16-1},
+}
+
 @article{DBLP:journals/toplas/LiuWR21,
   author    = {Peizun Liu and
                Thomas Wahl and
@@ -10,6 +276,17 @@
   number    = {4},
   year      = 2021,
   pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/BoerH21,
+  author    = {Frank S. de Boer and
+               Hans-Dieter A. Hiep},
+  title     = {Completeness and Complexity of Reasoning about {Call-by-Value} in Hoare Logic},
+  journal   = toplas,
+  volume    = {43},
+  number    = {4},
+  year      = 2021,
+  pages     = {17-1},
 }
 
 @article{DBLP:journals/toplas/SwalensKM21,
@@ -4929,7 +5206,7 @@
 
 @article{DBLP:journals/toplas/PaekHP02,
   author    = {Yunheung Paek and
-               Jay Hoeflinger and
+               Jay P. Hoeflinger and
                David A. Padua},
   title     = {Efficient and precise array access analysis},
   journal   = toplas,
@@ -5188,7 +5465,7 @@
                William Landi and
                Phil Stocks and
                Sean Zhang and
-               Rita Altucher},
+               Rita Z. Altucher},
   title     = {A schema for interprocedural modification side-effect analysis with pointer aliasing},
   journal   = toplas,
   volume    = {23},
@@ -9178,7 +9455,7 @@
 @article{DBLP:journals/toplas/BossiCD90,
   author    = {Annalisa Bossi and
                Nicoletta Cocco and
-               S. Dulli},
+               Susi Dulli},
   title     = {A Method for Specializing Logic Programs},
   journal   = toplas,
   volume    = {12},
@@ -11468,7 +11745,7 @@
 }
 
 @article{DBLP:journals/toplas/Wetherell82,
-  author    = {C. S. Wetherell},
+  author    = {Charles S. Wetherell},
   title     = {Error Data Values in the {Data-Flow} Language {VAL}},
   journal   = toplas,
   volume    = {4},

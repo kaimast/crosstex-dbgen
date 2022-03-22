@@ -1,5 +1,396 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/AhmadYAAG21,
+  author    = {Ishtiyaque Ahmad and
+               Yuntian Yang and
+               Divyakant Agrawal and
+               Amr El Abbadi and
+               Trinabh Gupta},
+  title     = {Addra: Metadata-private voice communication over fully untrusted infrastructure},
+  booktitle = osdi,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/osdi/MardaniGKMN21,
+  author    = {Shaghayegh Mardani and
+               Ayush Goel and
+               Ronny Ko and
+               Harsha V. Madhyastha and
+               Ravi Netravali},
+  title     = {Horcrux: Automatic {JavaScript} Parallelism for {Resource-Efficient} Web Computation},
+  booktitle = osdi,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/osdi/QiaoCSNH0GX21,
+  author    = {Aurick Qiao and
+               Sang Keun Choe and
+               Suhas Jayaram Subramanya and
+               Willie Neiswanger and
+               Qirong Ho and
+               Hao Zhang and
+               Gregory R. Ganger and
+               Eric P. Xing},
+  title     = {Pollux: Co-adaptive Cluster Scheduling for {Goodput-Optimized} Deep Learning},
+  booktitle = osdi,
+  year      = 2021,
+}
+
+@inproceedings{DBLP:conf/osdi/LaiZMC21,
+  author    = {Fan Lai and
+               Xiangfeng Zhu and
+               Harsha V. Madhyastha and
+               Mosharaf Chowdhury},
+  title     = {Oort: Efficient Federated Learning via Guided Participant Selection},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {19-35},
+}
+
+@inproceedings{DBLP:conf/osdi/WangZGMTZLRCJ21,
+  author    = {Haojie Wang and
+               Jidong Zhai and
+               Mingyu Gao and
+               Zixuan Ma and
+               Shizhi Tang and
+               Liyan Zheng and
+               Yuanzhi Li and
+               Kaiyuan Rong and
+               Yuanyong Chen and
+               Zhihao Jia},
+  title     = {PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {37-54},
+}
+
+@inproceedings{DBLP:conf/osdi/LuoPTCGL21,
+  author    = {Tao Luo and
+               Mingen Pan and
+               Pierre Tholoniat and
+               Asaf Cidon and
+               Roxana Geambasu and
+               Mathias Lécuyer},
+  title     = {Privacy Budget Scheduling},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {55-74},
+}
+
+@inproceedings{DBLP:conf/osdi/KooISPLKL21,
+  author    = {Jinhyung Koo and
+               Junsu Im and
+               Jooyoung Song and
+               Juhyung Park and
+               Eunji Lee and
+               Bryan S. Kim and
+               Sungjin Lee},
+  title     = {Modernizing File System through {In-Storage} Indexing},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {75-92},
+}
+
+@inproceedings{DBLP:conf/osdi/WangLLS21,
+  author    = {Qing Wang and
+               Youyou Lu and
+               Junru Li and
+               Jiwu Shu},
+  title     = {Nap: A {Black-Box} Approach to {NUMA-Aware} Persistent Memory Indexes},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {93-111},
+}
+
+@inproceedings{DBLP:conf/osdi/HwangVP021,
+  author    = {Jaehyun Hwang and
+               Midhul Vuppalapati and
+               Simon Peter and
+               Rachit Agarwal},
+  title     = {Rearchitecting Linux Storage Stack for µs Latency and High Throughput},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {113-128},
+}
+
+@inproceedings{DBLP:conf/osdi/TaiSWT21,
+  author    = {Amy Tai and
+               Igor Smolyar and
+               Michael Wei and
+               Dan Tsafrir},
+  title     = {Optimizing Storage Performance with Calibrated Interrupts},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {129-145},
+}
+
+@inproceedings{DBLP:conf/osdi/HanGSH21,
+  author    = {Kyuhwa Han and
+               Hyunho Gwak and
+               Dongkun Shin and
+               Jooyoung Hwang},
+  title     = {ZNS+: Advanced Zoned Namespace Interface for Supporting {In-Storage} Zone Compaction},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {147-162},
+}
+
+@inproceedings{DBLP:conf/osdi/KhanNPMK21,
+  author    = {Tanvir Ahmed Khan and
+               Ian Neal and
+               Gilles Pokam and
+               Barzan Mozafari and
+               Baris Kasikci},
+  title     = {DMon: Efficient Detection and Correction of Data Locality Problems Using Selective Profiling},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {163-181},
+}
+
+@inproceedings{DBLP:conf/osdi/RodriguesLY21,
+  author    = {Kirk Rodrigues and
+               Yu Luo and
+               Ding Yuan},
+  title     = {CLP: Efficient and Scalable Search on Compressed Text Logs},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {183-198},
+}
+
+@inproceedings{DBLP:conf/osdi/WangDWCW0021,
+  author    = {Jia-Chen Wang and
+               Ding Ding and
+               Huan Wang and
+               Conrad Christensen and
+               Zhaoguo Wang and
+               Haibo Chen and
+               Jinyang Li},
+  title     = {Polyjuice: {High-Performance} Transactions via Learned Concurrency Control},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {198-216},
+}
+
+@inproceedings{DBLP:conf/osdi/Shen00Z21,
+  author    = {Sijie Shen and
+               Rong Chen and
+               Haibo Chen and
+               Binyu Zang},
+  title     = {Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {219-238},
+}
+
+@inproceedings{DBLP:conf/osdi/IbanezMAJ0KM21,
+  author    = {Stephen Ibanez and
+               Alex Mallery and
+               Serhat Arslan and
+               Theo Jepsen and
+               Muhammad Shahbaz and
+               Changhoon Kim and
+               Nick McKeown},
+  title     = {The nanoPU: A Nanosecond Network Stack for Datacenters},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {239-256},
+}
+
+@inproceedings{DBLP:conf/osdi/HunterKTGMR21,
+  author    = {A. H. Hunter and
+               Chris Kennelly and
+               Paul Turner and
+               Darryl Gove and
+               Tipp Moseley and
+               Parthasarathy Ranganathan},
+  title     = {Beyond malloc efficiency to fleet efficiency: a hugepage-aware memory allocator},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {257-273},
+}
+
+@inproceedings{DBLP:conf/osdi/FengLDYJXZ021,
+  author    = {Erhu Feng and
+               Xu Lu and
+               Dong Du and
+               Bicheng Yang and
+               Xueqiang Jiang and
+               Yubin Xia and
+               Binyu Zang and
+               Haibo Chen},
+  title     = {Scalable Memory Protection in the {PENGLAI} Enclave},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {275-294},
+}
+
+@inproceedings{DBLP:conf/osdi/Bhardwaj0ACKSTZ21,
+  author    = {Ankit Bhardwaj and
+               Chinmay Kulkarni and
+               Reto Achermann and
+               Irina Calciu and
+               Sanidhya Kashyap and
+               Ryan Stutsman and
+               Amy Tai and
+               Gerd Zellweger},
+  title     = {NrOS: Effective Replication and Sharing in an Operating System},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {295-312},
+}
+
+@inproceedings{DBLP:conf/osdi/LiZZ0XA021,
+  author    = {Mingyu Li and
+               Jinhao Zhu and
+               Tianxu Zhang and
+               Cheng Tan and
+               Yubin Xia and
+               Sebastian Angel and
+               Haibo Chen},
+  title     = {Bringing Decentralized Search to Decentralized Services},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {331-347},
+}
+
+@inproceedings{DBLP:conf/osdi/YangKC21,
+  author    = {Youngseok Yang and
+               Taesoo Kim and
+               Byung-Gon Chun},
+  title     = {Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {349-365},
+}
+
+@inproceedings{DBLP:conf/osdi/KumarCP21,
+  author    = {Sam Kumar and
+               David E. Culler and
+               Raluca Ada Popa},
+  title     = {MAGE: Nearly {Zero-Cost} Virtual Memory for Secure Computation},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {367-385},
+}
+
+@inproceedings{DBLP:conf/osdi/BurkhalterKVSH21,
+  author    = {Lukas Burkhalter and
+               Nicolas Küchler and
+               Alexander Viand and
+               Hossein Shafagh and
+               Anwar Hithnawi},
+  title     = {Zeph: Cryptographic Enforcement of {End-to-End} Data Privacy},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {387-404},
+}
+
+@inproceedings{DBLP:conf/osdi/YaoTGNJR21,
+  author    = {Jianan Yao and
+               Runzhou Tao and
+               Ronghui Gu and
+               Jason Nieh and
+               Suman Jana and
+               Gabriel Ryan},
+  title     = {DistAI: {Data-Driven} Automated Invariant Learning for Distributed Protocols},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {405-421},
+}
+
+@inproceedings{DBLP:conf/osdi/ChajedTT0KZ21,
+  author    = {Tej Chajed and
+               Joseph Tassarotti and
+               Mark Theng and
+               Ralf Jung and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {GoJournal: a verified, concurrent, crash-safe journaling system},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {423-439},
+}
+
+@inproceedings{DBLP:conf/osdi/LehmannKB0VPSJ21,
+  author    = {Nico Lehmann and
+               Rose Kunkel and
+               Jordan Brown and
+               Jean Yang and
+               Niki Vazou and
+               Nadia Polikarpova and
+               Deian Stefan and
+               Ranjit Jhala},
+  title     = {STORM: Refinement Types for Secure Web Applications},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {441-459},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangWRHS21,
+  author    = {Jiang Zhang and
+               Shuai Wang and
+               Manuel Rigger and
+               Pinjia He and
+               Zhendong Su},
+  title     = {SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++ Programs},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {479-494},
+}
+
+@inproceedings{DBLP:conf/osdi/ThorpeQETHJWVNK21,
+  author    = {John Thorpe and
+               Yifan Qiao and
+               Jonathan Eyolfson and
+               Shen Teng and
+               Guanzhou Hu and
+               Zhihao Jia and
+               Jinliang Wei and
+               Keval Vora and
+               Ravi Netravali and
+               Miryung Kim and
+               Guoqing Harry Xu},
+  title     = {Dorylus: Affordable, Scalable, and Accurate {GNN} Training with Distributed {CPU} Servers and Serverless Threads},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {495-514},
+}
+
+@inproceedings{DBLP:conf/osdi/WangFLL00D21,
+  author    = {Yuke Wang and
+               Boyuan Feng and
+               Gushu Li and
+               Shuangchen Li and
+               Lei Deng and
+               Yuan Xie and
+               Yufei Ding},
+  title     = {GNNAdvisor: An Adaptive and Efficient Runtime System for {GNN} Acceleration on {GPUs}},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {515-531},
+}
+
+@inproceedings{DBLP:conf/osdi/MohoneyWXRV21,
+  author    = {Jason Mohoney and
+               Roger Waleffe and
+               Henry Xu and
+               Theodoros Rekatsinas and
+               Shivaram Venkataraman},
+  title     = {Marius: Learning Massive Graph Embeddings on a Single Machine},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {533-549},
+}
+
+@inproceedings{DBLP:conf/osdi/GandhiI21,
+  author    = {Swapnil Gandhi and
+               Anand Padmanabha Iyer},
+  title     = {P3: Distributed Deep Graph Learning at Scale},
+  booktitle = osdi,
+  year      = 2021,
+  pages     = {551-568},
+}
+
 @inproceedings{DBLP:conf/osdi/BoosLIZ20,
   author    = {Kevin Boos and
                Namitha Liyanage and
@@ -864,7 +1255,7 @@
                Zheng Mu and
                Pu Zhao and
                Tarun Ramani and
-               Naga Govindaraju and
+               Naga K. Govindaraju and
                Xukun Li and
                Qingwei Lin and
                Gil Lapid Shafriri and
@@ -946,7 +1337,8 @@
 }
 
 @inproceedings{DBLP:conf/osdi/X18,
-  author    = {},
+  author    = {Abhilash Jindal and
+               Y. Charlie Hu},
   title     = {Differential Energy Profiling: Energy Optimization via Diffing Similar Apps},
   booktitle = osdi,
   year      = 2018,
@@ -1790,7 +2182,7 @@
   author    = {Peter Xiang Gao and
                Akshay Narayan and
                Sagar Karandikar and
-               Joao Carreira and
+               João Carreira and
                Sangjin Han and
                Rachit Agarwal and
                Sylvia Ratnasamy and
@@ -1869,7 +2261,7 @@
 @inproceedings{DBLP:conf/osdi/PorterGFL16,
   author    = {Barry Porter and
                Matthew Grieves and
-               Roberto Vito Rodrigues Filho and
+               Roberto Rodrigues Filho and
                David Leslie},
   title     = {REX: A Development Platform and Online Learning Approach for Runtime Emergent Software Systems},
   booktitle = osdi,
@@ -1880,7 +2272,7 @@
 @inproceedings{DBLP:conf/osdi/NguyenFXDLAM16,
   author    = {Khanh Nguyen and
                Lu Fang and
-               Guoqing (Harry) Xu and
+               Guoqing Xu and
                Brian Demsky and
                Shan Lu and
                Sanazsadat Alamian and
@@ -2935,7 +3327,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/Levis12,
-  author    = {Philip Levis},
+  author    = {Philip Alexander Levis},
   title     = {Experiences from a Decade of {TinyOS} Development},
   booktitle = osdi,
   year      = 2012,
@@ -3089,80 +3481,7 @@
   title     = {Liquidity in Credit Networks: A Little Trust Goes a Long Way},
   booktitle = osdi,
   year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/KhanG10,
-  author    = {Fariba Khan and
-               Carl A. Gunter},
-  title     = {Tiered Incentives for Integrity Based Queuing},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/LaskowskiC10,
-  author    = {Paul Laskowski and
-               John Chuang},
-  title     = {Innovations and Upgrades in Virtualized Network Architectures},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/LiuC10,
-  author    = {Jerry Liu and
-               Dah Ming Chiu},
-  title     = {Mathematical Modeling of Competition in Sponsored Search Market},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/LodhiD10,
-  author    = {Aemen Lodhi and
-               Constantine Dovrolis},
-  title     = {A Network Formation Model for Internet Transit Relations},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/LondonoBL10,
-  author    = {Jorge Londoño and
-               Azer Bestavros and
-               Nikolaos Laoutaris},
-  title     = {Trade & Cap: A Customer-Managed, {Market-Based} System for Trading Bandwidth Allowances at a Shared Link},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/ParkS10,
-  author    = {Jaeok Park and
-               Mihaela van der Schaar},
-  title     = {Content Pricing in {Peer-to-Peer} Networks},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/Ren10,
-  author    = {Shaolei Ren},
-  title     = {Subscription Dynamics and Competition in Communications Markets},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/TranLS10,
-  author    = {Dinh Nguyen Tran and
-               Jinyang Li and
-               Lakshminarayanan Subramanian},
-  title     = {Collusion-resilient Credit-based Reputations for {Peer-to-Peer} Content Distribution},
-  booktitle = osdi,
-  year      = 2010,
-}
-
-@inproceedings{DBLP:conf/osdi/VakiliPK10,
-  author    = {Golnaz Vakili and
-               Thanasis G. Papaioannou and
-               Siavash Khorsandi},
-  title     = {A {Decision-Analytic} Approach for P2P Cooperation Policy Setting},
-  booktitle = osdi,
-  year      = 2010,
+  pages     = {1-1},
 }
 
 @inproceedings{DBLP:conf/osdi/Boyd-WickizerCMPKMZ10,
@@ -3177,6 +3496,89 @@
   booktitle = osdi,
   year      = 2010,
   pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/osdi/TranLS10,
+  author    = {Dinh Nguyen Tran and
+               Jinyang Li and
+               Lakshminarayanan Subramanian},
+  title     = {Collusion-resilient Credit-based Reputations for {Peer-to-Peer} Content Distribution},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/osdi/ParkS10,
+  author    = {Jaeok Park and
+               Mihaela van der Schaar},
+  title     = {Content Pricing in {Peer-to-Peer} Networks},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/osdi/LodhiD10,
+  author    = {Aemen Lodhi and
+               Constantine Dovrolis},
+  title     = {A Network Formation Model for Internet Transit Relations},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/osdi/VakiliPK10,
+  author    = {Golnaz Vakili and
+               Thanasis G. Papaioannou and
+               Siavash Khorsandi},
+  title     = {A {Decision-Analytic} Approach for P2P Cooperation Policy Setting},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/osdi/LaskowskiC10,
+  author    = {Paul Laskowski and
+               John Chuang},
+  title     = {Innovations and Upgrades in Virtualized Network Architectures},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/osdi/LondonoBL10,
+  author    = {Jorge Londoño and
+               Azer Bestavros and
+               Nikolaos Laoutaris},
+  title     = {Trade & Cap: A Customer-Managed, {Market-Based} System for Trading Bandwidth Allowances at a Shared Link},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/osdi/KhanG10,
+  author    = {Fariba Khan and
+               Carl A. Gunter},
+  title     = {Tiered Incentives for Integrity Based Queuing},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/osdi/Ren10,
+  author    = {Shaolei Ren},
+  title     = {Subscription Dynamics and Competition in Communications Markets},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/osdi/LiuC10,
+  author    = {Jerry Liu and
+               Dah Ming Chiu},
+  title     = {Mathematical Modeling of Competition in Sponsored Search Market},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {10-1},
 }
 
 @inproceedings{DBLP:conf/osdi/TangMK10,
@@ -3811,7 +4213,7 @@
 @inproceedings{DBLP:conf/osdi/FonsecaDLS08,
   author    = {Rodrigo Fonseca and
                Prabal Dutta and
-               Philip Levis and
+               Philip Alexander Levis and
                Ion Stoica},
   title     = {Quanto: Tracking Energy in Networked Embedded Systems},
   booktitle = osdi,
@@ -4798,7 +5200,7 @@
 
 @inproceedings{DBLP:conf/osdi/GrunwaldLFMN00,
   author    = {Dirk Grunwald and
-               Philip Levis and
+               Philip Alexander Levis and
                Keith I. Farkas and
                Charles B. Morrey III and
                Michael Neufeld},
@@ -4889,7 +5291,7 @@
                David K. Gifford and
                Kirk L. Johnson and
                M. Frans Kaashoek and
-               James O'Toole Jr.},
+               James W. O'Toole Jr.},
   title     = {Overcast: Reliable Multicasting with an Overlay Network},
   booktitle = osdi,
   year      = 2000,
@@ -5445,7 +5847,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/OTooleS94,
-  author    = {James O'Toole and
+  author    = {James W. O'Toole Jr. and
                Liuba Shrira},
   title     = {Opportunistic Log: Efficient Installation Reads in a Reliable Storage Server},
   booktitle = osdi,
@@ -5590,7 +5992,7 @@
 @inproceedings{DBLP:conf/osdi/EnglerKO94,
   author    = {Dawson R. Engler and
                M. Frans Kaashoek and
-               James O'Toole},
+               James W. O'Toole Jr.},
   title     = {The Exokernel Approach to Operating System Extensibility},
   booktitle = osdi,
   year      = 1994,

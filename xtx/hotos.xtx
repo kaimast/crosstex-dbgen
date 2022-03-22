@@ -1,5 +1,390 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotos/NiderF21,
+  author    = {Joel Nider and
+               Alexandra (Sasha) Fedorova},
+  title     = {The last {CPU}},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/hotos/HochschildTMGRC21,
+  author    = {Peter H. Hochschild and
+               Paul Turner and
+               Jeffrey C. Mogul and
+               Rama Govindaraju and
+               Parthasarathy Ranganathan and
+               David E. Culler and
+               Amin Vahdat},
+  title     = {Cores that don't count},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/hotos/HumphriesKMK21,
+  author    = {Jack Tigar Humphries and
+               Kostis Kaffes and
+               David Mazières and
+               Christos Kozyrakis},
+  title     = {A case against (most) context switches},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {17-25},
+}
+
+@inproceedings{DBLP:conf/hotos/StoicaS21,
+  author    = {Ion Stoica and
+               Scott Shenker},
+  title     = {From cloud computing to sky computing},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {26-32},
+}
+
+@inproceedings{DBLP:conf/hotos/0005SX21,
+  author    = {Yiying Zhang and
+               Ardalan Amiri Sani and
+               Guoqing Harry Xu},
+  title     = {User-defined cloud},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {33-40},
+}
+
+@inproceedings{DBLP:conf/hotos/McClureRBP21,
+  author    = {Sarah McClure and
+               Sylvia Ratnasamy and
+               Deepak Bansal and
+               Jitendra Padhye},
+  title     = {Rethinking networking abstractions for cloud tenants},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {41-48},
+}
+
+@inproceedings{DBLP:conf/hotos/PembertonSG21,
+  author    = {Nathan Pemberton and
+               Johann Schleier-Smith and
+               Joseph E. Gonzalez},
+  title     = {The {RESTless} cloud},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {49-57},
+}
+
+@inproceedings{DBLP:conf/hotos/CarreiraKBF21,
+  author    = {João Carreira and
+               Sumer Kohli and
+               Rodrigo Bruno and
+               Pedro Fonseca},
+  title     = {From warm to hot starts: leveraging runtimes for the serverless era},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {58-64},
+}
+
+@inproceedings{DBLP:conf/hotos/NajafiTW21,
+  author    = {Ali Najafi and
+               Amy Tai and
+               Michael Wei},
+  title     = {Systems research is running out of time},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {65-71},
+}
+
+@inproceedings{DBLP:conf/hotos/JagtapBP21,
+  author    = {Dhananjay Jagtap and
+               Nishant Bhaskar and
+               Pat Pannuto},
+  title     = {Century-scale smart infrastructure},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {72-78},
+}
+
+@inproceedings{DBLP:conf/hotos/LefeuvreBTOMDHR21,
+  author    = {Hugo Lefeuvre and
+               Vlad-Andrei Badoiu and
+               Stefan Teodorescu and
+               Pierre Olivier and
+               Tiberiu Mosnoi and
+               Razvan Deaconescu and
+               Felipe Huici and
+               Costin Raiciu},
+  title     = {FlexOS: making {OS} isolation flexible},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {79-87},
+}
+
+@inproceedings{DBLP:conf/hotos/LoughlinSWK21,
+  author    = {Kevin Loughlin and
+               Stefan Saroiu and
+               Alec Wolman and
+               Baris Kasikci},
+  title     = {Stop! Hammer time: rethinking our approach to rowhammer mitigations},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {88-95},
+}
+
+@inproceedings{DBLP:conf/hotos/GhalayiniGSSGPR21,
+  author    = {Ahmad Ghalayini and
+               Jinkun Geng and
+               Vighnesh Sachidananda and
+               Vinay Sriram and
+               Yilong Geng and
+               Balaji Prabhakar and
+               Mendel Rosenblum and
+               Anirudh Sivaraman},
+  title     = {CloudEx: a fair-access financial exchange in the cloud},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {96-103},
+}
+
+@inproceedings{DBLP:conf/hotos/GreenbergKV21,
+  author    = {Michael Greenberg and
+               Konstantinos Kallas and
+               Nikos Vasilakis},
+  title     = {Unix shell programming: the next 50 years},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {104-111},
+}
+
+@inproceedings{DBLP:conf/hotos/TsaiSK21,
+  author    = {Lillian Tsai and
+               Malte Schwarzkopf and
+               Eddie Kohler},
+  title     = {Privacy heroes need data disguises},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {112-118},
+}
+
+@inproceedings{DBLP:conf/hotos/LiPMK21,
+  author    = {Youjie Li and
+               Amar Phanishayee and
+               Derek Murray and
+               Nam Sung Kim},
+  title     = {Doing more with less: training large {DNN} models on commodity servers for the masses},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {119-127},
+}
+
+@inproceedings{DBLP:conf/hotos/ZhongWWCSTY21,
+  author    = {Yuhong Zhong and
+               Hongyi Wang and
+               Yu Jian Wu and
+               Asaf Cidon and
+               Ryan Stutsman and
+               Amy Tai and
+               Junfeng Yang},
+  title     = {{BPF} for storage: an exokernel-inspired approach},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {128-135},
+}
+
+@inproceedings{DBLP:conf/hotos/TsalapatisHBM21,
+  author    = {Emil Tsalapatis and
+               Ryan Hancock and
+               Tavian Barnes and
+               Ali José Mashtizadeh},
+  title     = {The Aurora operating system: revisiting the single level store},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {136-143},
+}
+
+@inproceedings{DBLP:conf/hotos/StavrinosBKL21,
+  author    = {Theano Stavrinos and
+               Daniel S. Berger and
+               Ethan Katz-Bassett and
+               Wyatt Lloyd},
+  title     = {Don't be a blockhead: zoned namespaces make work on conventional {SSDs} obsolete},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {144-151},
+}
+
+@inproceedings{DBLP:conf/hotos/SadokZCABHPS21,
+  author    = {Hugo Sadok and
+               Zhipeng Zhao and
+               Valerie Choung and
+               Nirav Atre and
+               Daniel S. Berger and
+               James C. Hoe and
+               Aurojit Panda and
+               Justine Sherry},
+  title     = {We need kernel interposition over the network dataplane},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {152-158},
+}
+
+@inproceedings{DBLP:conf/hotos/AchermannCHHHRS21,
+  author    = {Reto Achermann and
+               David Cock and
+               Roni Haecki and
+               Nora Hossle and
+               Lukas Humbel and
+               Timothy Roscoe and
+               Daniel David Schwyn},
+  title     = {mmapx: uniform memory protection in a heterogeneous world},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {159-166},
+}
+
+@inproceedings{DBLP:conf/hotos/ParkCKK21,
+  author    = {Sujin Park and
+               Irina Calciu and
+               Taesoo Kim and
+               Sanidhya Kashyap},
+  title     = {Contextual concurrency control},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {167-174},
+}
+
+@inproceedings{DBLP:conf/hotos/QiuLALC21,
+  author    = {Yiming Qiu and
+               Hongyi Liu and
+               Thomas E. Anderson and
+               Yingyan Lin and
+               Ang Chen},
+  title     = {Toward reconfigurable kernel datapaths with learned optimizations},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {175-182},
+}
+
+@inproceedings{DBLP:conf/hotos/LiMZCHA21,
+  author    = {Jialin Li and
+               Samantha Miller and
+               Danyang Zhuo and
+               Ang Chen and
+               Jon Howell and
+               Thomas Anderson},
+  title     = {An incremental path towards a safer {OS} kernel},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {183-190},
+}
+
+@inproceedings{DBLP:conf/hotos/WangHS21,
+  author    = {Stephanie Wang and
+               Benjamin Hindman and
+               Ion Stoica},
+  title     = {In reference to RPC: it's time to add distributed memory},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {191-198},
+}
+
+@inproceedings{DBLP:conf/hotos/RaghavanLZZ21,
+  author    = {Deepti Raghavan and
+               Philip Alexander Levis and
+               Matei Zaharia and
+               Irene Zhang},
+  title     = {Breakfast of champions: towards zero-copy serialization with {NIC} scatter-gather},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {199-205},
+}
+
+@inproceedings{DBLP:conf/hotos/WolnikowskiISKM21,
+  author    = {Adam Wolnikowski and
+               Stephen Ibanez and
+               Jonathan Stone and
+               Changhoon Kim and
+               Rajit Manohar and
+               Robert Soulé},
+  title     = {Zerializer: towards zero-copy serialization},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {206-212},
+}
+
+@inproceedings{DBLP:conf/hotos/0013SGAGTX21,
+  author    = {Xudong Sun and
+               Lalith Suresh and
+               Aishwarya Ganesan and
+               Ramnatthan Alagappan and
+               Michael Gasch and
+               Lilia Tang and
+               Tianyin Xu},
+  title     = {Reasoning about modern datacenter infrastructures using partial histories},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {213-220},
+}
+
+@inproceedings{DBLP:conf/hotos/BronsonACZ21,
+  author    = {Nathan Bronson and
+               Abutalib Aghayev and
+               Aleksey Charapko and
+               Timothy Zhu},
+  title     = {Metastable failures in distributed systems},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {221-227},
+}
+
+@inproceedings{DBLP:conf/hotos/YooWSMX21,
+  author    = {Andrew Yoo and
+               Yuanli Wang and
+               Ritesh Sinha and
+               Shuai Mu and
+               Tianyin Xu},
+  title     = {Fail-slow fault tolerance needs programming support},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {228-235},
+}
+
+@inproceedings{DBLP:conf/hotos/000521,
+  author    = {Yiying Zhang},
+  title     = {The future of hardware development: a perspective from systems researchers},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {236-237},
+}
+
+@inproceedings{DBLP:conf/hotos/Schwarzkopf21,
+  author    = {Malte Schwarzkopf},
+  title     = {Burnt topics in operating systems},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {238},
+}
+
+@inproceedings{DBLP:conf/hotos/AnandVM21,
+  author    = {Vaastav Anand and
+               Roberta De Viti and
+               Jonathan Mace},
+  title     = {Systems trivia night},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {239},
+}
+
+@inproceedings{DBLP:conf/hotos/0002KV21,
+  author    = {Michael Greenberg and
+               Konstantinos Kallas and
+               Nikos Vasilakis},
+  title     = {The future of the shell: Unix and beyond},
+  booktitle = hotos,
+  year      = 2021,
+  pages     = {240-241},
+}
+
 @inproceedings{DBLP:conf/hotos/Litton0DB19,
   author    = {James Litton and
                Deepak Garg and
@@ -98,7 +483,7 @@
 
 @inproceedings{DBLP:conf/hotos/YuPAR19,
   author    = {Hangchen Yu and
-               Arthur M. Peters and
+               Arthur Michener Peters and
                Amogh Akshintala and
                Christopher J. Rossbach},
   title     = {Automatic Virtualization of Accelerators},
@@ -924,7 +1309,7 @@
 @inproceedings{DBLP:conf/hotos/SunPOB15,
   author    = {Ruimin Sun and
                Donald E. Porter and
-               Daniela A. S. de Oliveira and
+               Daniela Oliveira and
                Matt Bishop},
   title     = {The Case for Less Predictable Operating System Behavior},
   booktitle = hotos,
@@ -1205,7 +1590,7 @@
   author    = {Animesh Trivedi and
                Patrick Stuedi and
                Bernard Metzler and
-               Roman Pletka and
+               Roman A. Pletka and
                Blake G. Fitch and
                Thomas R. Gross},
   title     = {Unified {High-Performance} I/O: One Stack to Rule Them All},
@@ -2067,7 +2452,7 @@
                Cheng Tien Ee and
                Rodrigo Fonseca and
                Jonathan Hui and
-               Philip Levis and
+               Philip Alexander Levis and
                Joseph Polastre and
                Scott Shenker and
                Ion Stoica and
@@ -3827,7 +4212,7 @@
 @inproceedings{DBLP:conf/hotos/CampbellT95,
   author    = {Roy H. Campbell and
                See-Mong Tan},
-  title     = {/spl mu/Choices: an object-oriented multimedia operating system},
+  title     = {μChoices: an object-oriented multimedia operating system},
   booktitle = hotos,
   year      = 1995,
   pages     = {90-94},
@@ -3890,7 +4275,7 @@
 }
 
 @inproceedings{DBLP:conf/hotos/OTooleS95,
-  author    = {James O'Toole and
+  author    = {James W. O'Toole Jr. and
                Liuba Shrira},
   title     = {Shared data management needs adaptive methods},
   booktitle = hotos,
