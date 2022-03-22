@@ -10,6 +10,7 @@
 @country{CzechRepublic,       name="Czechia"}
 @country{China,               name="China"}
 @country{Curacao,             name="Curaçao"}
+@country{Domnicia,            name="Domninica"}
 @country{Denmark,             name="Denmark"}
 @country{Finland,             name="Finland"}
 @country{France,              name="France"}
@@ -35,6 +36,7 @@
 @country{SaintKitts,          name="Saint Kitts"}
 @country{Taiwan,              name="Taiwan"}
 @country{Turkey,              name="Turkey"}
+@country{TrinidadAndTobago,   name="Trinidad and Tobago"}
 @country{UK,                  name="United Kingdom", shortname="UK"}
 @country{NewZealand,          name="New Zealand"}
 @country{PuertoRico,          name="Puerto Rico"}
@@ -163,6 +165,7 @@
 @location{Ithaca,              city="Ithaca", state=NY}
 @location{KansasCity,          city="Kansas City", state=KS}
 @location{Kauai,               city="Kauai", state=HI}
+@location{KeyWest,             city="Key West", state=FL}
 @location{KiawahIsland,        city="Kiawah Island", state=SC}
 @location{KohalaCoast,         city="Kohala Coast", state=HI}
 @location{Knoxville,           city="Knoxville", state=TN}
@@ -258,6 +261,7 @@
 @location{Adelaide,            city="Adelaide", state="South Australia", country=Oz}
 @location{Amsterdam,           city="Amsterdam", country=Netherlands}
 @location{Andros,              city="Andros", country=Greece}
+@location{Anguilla,            city="Anguilla", country=UK}
 @location{Athens,              city="Athens", country=Greece}
 @location{BadNeuenahr,         city="Bad Neuenahr", country=Germany}
 @location{Banff,               city="Banff", country=Canada}
@@ -285,10 +289,13 @@
 @location{Cancun,              city="Cancún", country=Mexico}
 @location{Cannes,              city="Cannes", country=France}
 @location{Cascais,             city="Cascais", country=Portugal}
+@location{Castries,            city="Castries", country=Saint Lucia}
 @location{Chiba,               city="Chiba", country=Japan}
 @location{ChristChurch,        city="Christ Church", country=Barbados}
 @location{Cologne,             city="Cologne", country=Germany}
+@location{Copenhagen,          city="Copenhagen", country=Denmark}
 @location{Connemara,           city="Connemara", country=Ireland}
+@location{Cozumel,             city="Cozumel", country=Mexico}
 @location{Dagstuhl,            city="Dagstuhl", country=Germany}
 @location{Dresden,             city="Dresden", country=Germany}
 @location{Donostia,            city="Donostia-San Sebatián", country=Spain}
@@ -306,7 +313,9 @@
 @location{Glasgow,             city="Glasgow", country=Scotland}
 @location{GoldCoast,           city="Gold Coast", state="Queensland", country=Oz}
 @location{Goteborg,            city="Göteborg", country=Sweden}
+@location{GrandCaymanIsland,   city="Grand Cayman Island", country=UK}
 @location{Grenoble,            city="Grenoble", country=France}
+@location{Guadeloupe,          city="Guadeloupe", state="French West Indies", country=France}
 @location{Hangzhou,            city="Hangzhou", country=Germany}
 @location{Heidelberg,          city="Heidelberg", country=Germany}
 @location{Helsinki,            city="Helsinki", country=Finland}
@@ -320,9 +329,11 @@
 @location{Karlsruhe,           city="Karlsruhe", country=Germany}
 @location{KartauseIttingen,    city="Kartause Ittingen", country=Switzerland}
 @location{Kobe,                city="Kobe", country=Japan}
+@location{Koblenz,             city="Koblenz", country=Germany}
 @location{Kolding,             city="Kolding", country=Denmark}
 @location{Konstanz,            city="Konstanz", country=Germany}
 @location{KotaKinabalu,        city="Kota Kinabalu", state="Sabah", country=Malaysia}
+@location{Kralendijk,          city="Kralendijk", state="Bonaire", country=Netherlands}
 @location{Kyoto,               city="Kyoto", country=Japan}
 @location{Lausanne,            city="Lausanne", country=Switzerland}
 @location{Leuven,              city="Leuven", country=Belgium}
@@ -347,6 +358,7 @@
 @location{Nice,                city="Nice", country=France}
 @location{Nuremberg,           city="Nürnberg", country=Germany}
 @location{Osaka,               city="Osaka", country=Japan}
+@location{Okinawa,             city="Okinawa", country=Japan}
 @location{Ottawa,              city="Ottawa", country=Canada}
 @location{Paderborn,           city="Paderborn", country=Germany}
 @location{Paris,               city="Paris", country=France}
@@ -367,11 +379,13 @@
 @location{Santiago,            city="Santiago de Chile", country=Chile}
 @location{Salzburg,            city="Salzburg", country=Austria}
 @location{SanJuan,             city="San Juan", country=PuertoRico}
+@location{Scarborough,         city="Scarborough", country=TrinidadAndTobago}
 @location{Seoul,               city="Seoul", country=Korea}
 @location{Shanghai,            city="Shanghai", country=China}
 @location{Sintra,              city="Sintra", country=Portugal}
 @location{Singapore,           city="Singapore", country=Singapore}
 @location{SophiaAntipolis,     city="Sophia Antipolis", country=France}
+@location{Southampton,         city="Southampton", state="Bermuda", country=UK}
 @location{StJohns,             city="St. John's", country=Canada}
 @location{Sliema,              city="Sliema", country=Malta}
 @location{FrigateBay,          city="Frigate Bay", country=SaintKitts}
@@ -381,6 +395,7 @@
 @location{Taipei,              city="Taipei", country=Taiwan}
 @location{Taormina,            city="Taormina", country=Italy}
 @location{TelAviv,             city="Tel Aviv", country=Israel}
+@location{Tenerife,            city="Tenerife", country=Spain}
 @location{Tokyo,               city="Tokyo", country=Japan}
 @location{Toronto,             city="Toronto", country=Canada}
 @location{Trondheim,           city="Trondheim", country=Norway}
@@ -395,6 +410,7 @@
 @location{Vienna,              city="Vienna", country=Austria}
 @location{Virtual,             city="Virtual", country=Anywhere}
 @location{VillaGallia,         city="Villa Gallia", state="Como", country=Italy}
+@location{Vouliagmeni,         city="Vouliagmeni", country=Greece}
 @location{Warsaw,              city="Warsaw", country=Poland}
 @location{Waterloo,            city="Waterloo", country=Canada}
 @location{WestBerlin,          city="West Berlin", country=Germany}

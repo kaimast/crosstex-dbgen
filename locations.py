@@ -13,6 +13,7 @@ COUNTRIES = [('USA', {'name': ''})
             ,('CzechRepublic', {'name': 'Czechia'})
             ,('China', {'name': 'China'})
             ,('Curacao', {'name': 'Curaçao'})
+            ,('Domnicia', {'name': 'Domninica'})
             ,('Denmark', {'name': 'Denmark'})
             ,('Finland', {'name': 'Finland'})
             ,('France', {'name': 'France'})
@@ -38,6 +39,7 @@ COUNTRIES = [('USA', {'name': ''})
             ,('SaintKitts', {'name': 'Saint Kitts'})
             ,('Taiwan', {'name': 'Taiwan'})
             ,('Turkey', {'name': 'Turkey'})
+            ,('TrinidadAndTobago', {'name': 'Trinidad and Tobago'})
             ,('UK', {'name': 'United Kingdom', 'shortname': 'UK'})
             ,('NewZealand', {'name': 'New Zealand'})
             ,('PuertoRico', {'name': 'Puerto Rico'})
@@ -165,6 +167,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Ithaca', {'city': 'Ithaca', 'state': 'NY'})
                ,('KansasCity', {'city': 'Kansas City', 'state': 'KS'})
                ,('Kauai', {'city': 'Kauai', 'state': 'HI'})
+               ,('KeyWest', {'city': 'Key West', 'state': 'FL'})
                ,('KiawahIsland', {'city': 'Kiawah Island', 'state': 'SC'})
                ,('KohalaCoast', {'city': 'Kohala Coast', 'state': 'HI'})
                ,('Knoxville', {'city': 'Knoxville', 'state': 'TN'})
@@ -259,6 +262,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
 INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 'country': 'Oz'})
                  ,('Amsterdam', {'city': 'Amsterdam', 'country': 'Netherlands'})
                  ,('Andros', {'city': 'Andros', 'country': 'Greece'})
+                 ,('Anguilla', {'city': 'Anguilla', 'country': 'UK'})
                  ,('Athens', {'city': 'Athens', 'country': 'Greece'})
                  ,('BadNeuenahr', {'city': 'Bad Neuenahr', 'country': 'Germany'})
                  ,('Banff', {'city': 'Banff', 'country': 'Canada'})
@@ -286,10 +290,13 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Cancun', {'city': 'Cancún', 'country': 'Mexico'})
                  ,('Cannes', {'city': 'Cannes', 'country': 'France'})
                  ,('Cascais', {'city': 'Cascais', 'country': 'Portugal'})
+                 ,('Castries', {'city': 'Castries', 'country': 'Saint Lucia'})
                  ,('Chiba', {'city': 'Chiba', 'country': 'Japan'})
                  ,('ChristChurch', {'city': 'Christ Church', 'country': 'Barbados'})
                  ,('Cologne', {'city': 'Cologne', 'country': 'Germany'})
+                 ,('Copenhagen', {'city': 'Copenhagen', 'country': 'Denmark'})
                  ,('Connemara', {'city': 'Connemara', 'country': 'Ireland'})
+                 ,('Cozumel', {'city': 'Cozumel', 'country': 'Mexico'})
                  ,('Dagstuhl', {'city': 'Dagstuhl', 'country': 'Germany'})
                  ,('Dresden', {'city': 'Dresden', 'country': 'Germany'})
                  ,('Donostia', {'city': 'Donostia-San Sebatián', 'country': 'Spain'})
@@ -307,7 +314,9 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Glasgow', {'city': 'Glasgow', 'country': 'Scotland'})
                  ,('GoldCoast', {'city': 'Gold Coast', 'state': 'Queensland', 'country': 'Oz'})
                  ,('Goteborg', {'city': 'Göteborg', 'country': 'Sweden'})
+                 ,('GrandCaymanIsland', {'city': 'Grand Cayman Island', 'country': 'UK'})
                  ,('Grenoble', {'city': 'Grenoble', 'country': 'France'})
+                 ,('Guadeloupe', {'city': 'Guadeloupe', 'state': 'French West Indies', 'country': 'France'})
                  ,('Hangzhou', {'city': 'Hangzhou', 'country': 'Germany'})
                  ,('Heidelberg', {'city': 'Heidelberg', 'country': 'Germany'})
                  ,('Helsinki', {'city': 'Helsinki', 'country': 'Finland'})
@@ -321,9 +330,11 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Karlsruhe', {'city': 'Karlsruhe', 'country': 'Germany'})
                  ,('KartauseIttingen', {'city': 'Kartause Ittingen', 'country': 'Switzerland'})
                  ,('Kobe', {'city': 'Kobe', 'country': 'Japan'})
+                 ,('Koblenz', {'city': 'Koblenz', 'country': 'Germany'})
                  ,('Kolding', {'city': 'Kolding', 'country': 'Denmark'})
                  ,('Konstanz', {'city': 'Konstanz', 'country': 'Germany'})
                  ,('KotaKinabalu', {'city': 'Kota Kinabalu', 'state': 'Sabah', 'country': 'Malaysia'})
+                 ,('Kralendijk', {'city': 'Kralendijk', 'state': 'Bonaire', 'country': 'Netherlands'})
                  ,('Kyoto', {'city': 'Kyoto', 'country': 'Japan'})
                  ,('Lausanne', {'city': 'Lausanne', 'country': 'Switzerland'})
                  ,('Leuven', {'city': 'Leuven', 'country': 'Belgium'})
@@ -348,6 +359,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Nice', {'city': 'Nice', 'country': 'France'})
                  ,('Nuremberg', {'city': 'Nürnberg', 'country': 'Germany'})
                  ,('Osaka', {'city': 'Osaka', 'country': 'Japan'})
+                 ,('Okinawa', {'city': 'Okinawa', 'country': 'Japan'})
                  ,('Ottawa', {'city': 'Ottawa', 'country': 'Canada'})
                  ,('Paderborn', {'city': 'Paderborn', 'country': 'Germany'})
                  ,('Paris', {'city': 'Paris', 'country': 'France'})
@@ -368,11 +380,13 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Santiago', {'city': 'Santiago de Chile', 'country': 'Chile'})
                  ,('Salzburg', {'city': 'Salzburg', 'country': 'Austria'})
                  ,('SanJuan', {'city': 'San Juan', 'country': 'PuertoRico'})
+                 ,('Scarborough', {'city': 'Scarborough', 'country': 'TrinidadAndTobago'})
                  ,('Seoul', {'city': 'Seoul', 'country': 'Korea'})
                  ,('Shanghai', {'city': 'Shanghai', 'country': 'China'})
                  ,('Sintra', {'city': 'Sintra', 'country': 'Portugal'})
                  ,('Singapore', {'city': 'Singapore', 'country': 'Singapore'})
                  ,('SophiaAntipolis', {'city': 'Sophia Antipolis', 'country': 'France'})
+                 ,('Southampton', {'city': 'Southampton', 'state': 'Bermuda', 'country': 'UK'})
                  ,('StJohns', {'city': "St. John's", 'country': 'Canada'})
                  ,('Sliema', {'city': "Sliema", "country": "Malta"})
                  ,('FrigateBay', {'city': 'Frigate Bay', 'country': 'SaintKitts'})
@@ -382,6 +396,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Taipei', {'city': 'Taipei', 'country': 'Taiwan'})
                  ,('Taormina', {'city': 'Taormina', 'country': 'Italy'})
                  ,('TelAviv', {'city': 'Tel Aviv', 'country': 'Israel'})
+                 ,('Tenerife', {'city': 'Tenerife', 'country': 'Spain'})
                  ,('Tokyo', {'city': 'Tokyo', 'country': 'Japan'})
                  ,('Toronto', {'city': 'Toronto', 'country': 'Canada'})
                  ,('Trondheim', {'city': 'Trondheim', 'country': 'Norway'})
@@ -396,6 +411,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Vienna', {'city': 'Vienna', 'country': 'Austria'})
                  ,('Virtual', {'city': 'Virtual', 'country': 'Anywhere'})
                  ,('VillaGallia', {'city': 'Villa Gallia', 'state': 'Como', 'country': 'Italy'})
+                 ,('Vouliagmeni', {'city': 'Vouliagmeni', 'country': 'Greece'})
                  ,('Warsaw', {'city': 'Warsaw', 'country': 'Poland'})
                  ,('Waterloo', {'city': 'Waterloo', 'country': 'Canada'})
                  ,('WestBerlin', {'city': 'West Berlin', 'country': 'Germany'})
@@ -442,37 +458,53 @@ MANUAL_LOCATIONS = {'conf/soda/1995': 'SF'}
 LOCATIONS = [x[0] for x in US_LOCATIONS + INTL_LOCATIONS]
 
 if __name__ == '__main__':
-    f = open('xtx/locations.xtx', 'w')
-    f.write('% Countries\n')
-    for country, attrs in COUNTRIES:
-        attrs = ', '.join(['%s="%s"' % x for x in sorted(attrs.items())])
-        f.write('@country{%-20s %s}\n' % (country + ',', attrs))
-    f.write('\n% US States\n@default country=USA\n')
-    for state, attrs in US_STATES:
-        attrs = ', '.join(['%s="%s"' % x for x in sorted(attrs.items())])
-        f.write('@state{%-2s %s}\n' % (state + ',', attrs))
-    f.write('\n% US Locations\n')
-    for loc, attrs in US_LOCATIONS:
-        newattrs = {}
-        for k, v in attrs.items():
-            if k == 'state':
-                newattrs[k] = v
-            else:
-                newattrs[k] = '"%s"' % v
-        attrs = ', '.join(['%s=%s' % x for x in sorted(newattrs.items())])
-        f.write('@location{%-20s %s}\n' % (loc + ',', attrs))
-    def sortkey(x):
-        try:
-            return ['city', 'state', 'country'].index(x)
-        except ValueError as e:
-            return -1
-    f.write('\n% International Locations\n@default country=""\n')
-    for loc, attrs in INTL_LOCATIONS:
-        newattrs = {}
-        for k, v in attrs.items():
-            if k == 'country':
-                newattrs[k] = v
-            else:
-                newattrs[k] = '"%s"' % v
-        attrs = ', '.join(['%s=%s' % x for x in sorted(newattrs.items(), key=sortkey)])
-        f.write('@location{%-20s %s}\n' % (loc + ',', attrs))
+    with open('xtx/locations.xtx', 'w', encoding='utf-8') as f:
+        def sortkey(x):
+            try:
+                return ['city', 'state', 'country'].index(x)
+            except ValueError as _err:
+                return -1
+
+        f.write('% Countries\n')
+        for country, attrs in COUNTRIES:
+            if not isinstance(attrs, dict):
+                raise RuntimeError("Attributes are not a dictionary")
+
+            attrs = ', '.join(['%s="%s"' % x for x in sorted(attrs.items())])
+            f.write('@country{%-20s %s}\n' % (country + ',', attrs))
+
+        f.write('\n% US States\n@default country=USA\n')
+        for state, attrs in US_STATES:
+            if not isinstance(attrs, dict):
+                raise RuntimeError("Attributes are not a dictionary")
+
+            attrs = ', '.join(['%s="%s"' % x for x in sorted(attrs.items())])
+            f.write('@state{%-2s %s}\n' % (state + ',', attrs))
+
+        f.write('\n% US Locations\n')
+        for loc, attrs in US_LOCATIONS:
+            if not isinstance(attrs, dict):
+                raise RuntimeError("Attributes are not a dictionary")
+
+            newattrs = {}
+            for k, v in attrs.items():
+                if k == 'state':
+                    newattrs[k] = v
+                else:
+                    newattrs[k] = '"%s"' % v
+            attrs = ', '.join(['%s=%s' % x for x in sorted(newattrs.items())])
+            f.write('@location{%-20s %s}\n' % (loc + ',', attrs))
+
+        f.write('\n% International Locations\n@default country=""\n')
+        for loc, attrs in INTL_LOCATIONS:
+            if not isinstance(attrs, dict):
+                raise RuntimeError("Attributes are not a dictionary")
+
+            newattrs = {}
+            for k, v in attrs.items():
+                if k == 'country':
+                    newattrs[k] = v
+                else:
+                    newattrs[k] = f'"{v}"'
+            attrs = ', '.join(['%s=%s' % x for x in sorted(newattrs.items(), key=sortkey)])
+            f.write('@location{%-20s %s}\n' % (loc + ',', attrs))

@@ -26,11 +26,32 @@ CONFERENCE_LOCATIONS = {
                     ,2017: ('Belgrade', 'apr')
                     ,2015: ('Bordeaux', 'apr')
                     }
+    ,'fast':        {2021: ('Virtual', 'feb')
+                    }
     ,'fc':          {2020: ('KotaKinabalu', 'feb')
                     ,2019: ('FrigateBay', 'feb')
                     ,2018: ('PortaBlancu', 'feb')
                     ,2017: ('Sliema', 'feb')
                     ,2016: ('ChristChurch', 'feb')
+                    ,2015: ('SanJuan', 'jan')
+                    ,2014: ('ChristChurch', 'mar')
+                    ,2013: ('Okinawa', 'apr')
+                    ,2012: ('Kralendijk', 'feb')
+                    ,2011: ('Castries', 'feb')
+                    ,2010: ('Tenerife', 'jan')
+                    ,2009: ('ChristChurch', 'feb')
+                    ,2008: ('Cozumel', 'jan')
+                    ,2007: ('Scarborough', 'feb')
+                    ,2006: ('Anguilla', 'mar')
+                    ,2005: ('Dominica', 'feb')
+                    ,2004: ('KeyWest', 'feb')
+                    ,2003: ('Guadeloupe', 'feb')
+                    ,2002: ('Southampton', 'mar')
+                    ,2001: ('GrandCaymanIsland', 'feb')
+                    ,2000: ('Anguilla', 'feb')
+                    ,1999: ('Anguilla', 'feb')
+                    ,1998: ('Anguilla', 'feb')
+                    ,1997: ('Anguilla', 'feb')
                     }
     ,'hotos':       {2015: ('KartauseIttingen', 'may')
                     ,2013: ('SantaAnaPueblo', 'may')
@@ -63,6 +84,10 @@ CONFERENCE_LOCATIONS = {
                     }
     ,'ipps':        {1993: ('NewportBeach', 'apr')
                     ,1991: ('Anaheim', 'apr')
+                    }
+    ,'imc':         {2021: ('Virtual', 'nov')
+                    ,2020: ('Pittsburgh', 'oct')
+                    ,2008: ('Vouliagmeni', 'oct')
                     }
     ,'nsdi':        {2021: ('Virtual', 'apr')
                     ,2018: ('Renton', 'apr')
@@ -106,10 +131,14 @@ CONFERENCE_LOCATIONS = {
                     ,1969: ('Princeton', 'oct')
                     ,1967: ('Gatlinburg', 'may')
                     }
-    ,'sigmod':      {2001: ('SantaBarbara', 'may')
+    ,'sigmod':      {2021: ('Xian', 'jun')
+                    ,2001: ('SantaBarbara', 'may')
                     ,1987: ('SF', 'may')
                     ,1984: ('Boston', 'jun')
                     ,1983: ('SanJose', 'may')
+                    }
+    ,'usenixsec':   {2021: ('Virtual', 'aug')
+                    ,2020: ('Boston', 'aug')
                     }
     ,'podc':        {2021: ('Virtua', 'aug')
                     ,2020: ('Virtual', 'aug')
@@ -119,7 +148,8 @@ CONFERENCE_LOCATIONS = {
     ,'popl':        {2016: ('StPetersburg', 'jan')
                     ,1997: ('Paris', 'jan')
                     }
-    ,'pldi':        {2004: ('DC', 'jun')
+    ,'pldi':        {2021: ('Virtual', 'jun')
+                    ,2004: ('DC', 'jun')
                     ,1986: ('PaloAlto', 'jun')
                     ,1984: ('Montreal', 'jun')
                     ,1982: ('Boston', 'jun')
@@ -133,7 +163,8 @@ CONFERENCE_LOCATIONS = {
                     ,2014: ('Broomfield', 'oct')
                     ,2012: ('Hollywood', 'oct')
                     }
-    ,'vldb':        {2018: ('Rio', 'aug')
+    ,'vldb':        {2021: ('Copenhagen', 'aug')
+                    ,2018: ('Rio', 'aug')
                     ,2015: ('KohalaCoast', 'aug')
                     ,2014: ('Hangzhou', 'sep')
                     ,2010: ('Singapore', 'sep')
