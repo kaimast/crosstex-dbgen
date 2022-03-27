@@ -28,7 +28,8 @@ CONFERENCE_LOCATIONS = {
                     }
     ,'fast':        {2021: ('Virtual', 'feb')
                     }
-    ,'fc':          {2020: ('KotaKinabalu', 'feb')
+    ,'fc':          {2021: ('Virtual', 'mar')
+                    ,2020: ('KotaKinabalu', 'feb')
                     ,2019: ('FrigateBay', 'feb')
                     ,2018: ('PortaBlancu', 'feb')
                     ,2017: ('Sliema', 'feb')
@@ -52,6 +53,9 @@ CONFERENCE_LOCATIONS = {
                     ,1999: ('Anguilla', 'feb')
                     ,1998: ('Anguilla', 'feb')
                     ,1997: ('Anguilla', 'feb')
+                    }
+    ,'hotcloud':    {2020: ('Virtual', 'jul')
+                    ,2019: ('Renton', 'jul')
                     }
     ,'hotos':       {2015: ('KartauseIttingen', 'may')
                     ,2013: ('SantaAnaPueblo', 'may')
@@ -108,6 +112,8 @@ CONFERENCE_LOCATIONS = {
                     ,1988: ('Stanford', 'aug')
                     ,1985: ('BC', 'sep')
                     ,1983: ('NorthFalmouth', 'oct')
+                    }
+    ,'socc':        {2020: ('Virtual', 'oct')
                     }
     ,'sosp':        {2021: ('Koblenz', 'nov')
                     ,2019: ('Huntsville', 'oct')
