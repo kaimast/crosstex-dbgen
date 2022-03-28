@@ -15,11 +15,16 @@ CONFERENCE_LOCATIONS = {
     ,'ccs':         {2021: ('Virtual', 'nov')
                     ,2020: ('Virtual', 'nov')
                     }
-    ,'crypto':      {1989: ('SantaBarbara', 'aug')
+    ,'cidr':        {2021: ('Virtual', 'jan')
+                    ,2017: ('Chaminade', 'jan')
+                    }
+    ,'crypto':      {2021: ('Virtual', 'aug')
+                    ,1989: ('SantaBarbara', 'aug')
                     ,1987: ('SantaBarbara', 'aug')
                     ,1981: ('SantaBarbara', 'aug')
                     }
-    ,'eurosp':      {2016: ('Saarbrucken', 'mar')
+    ,'eurosp':      {2020: ('Virtual', 'sep')
+                    ,2016: ('Saarbrucken', 'mar')
                     }
     ,'eurosys':     {2019: ('Dresden', 'mar')
                     ,2018: ('Porto', 'apr')
@@ -150,6 +155,8 @@ CONFERENCE_LOCATIONS = {
                     ,2020: ('Virtual', 'aug')
                     ,2018: ('London', 'jul')
                     ,2015: ('Donostia', 'jul')
+                    }
+    ,'pods':        {2021: ('Xian', 'jun')
                     }
     ,'popl':        {2016: ('StPetersburg', 'jan')
                     ,1997: ('Paris', 'jan')
