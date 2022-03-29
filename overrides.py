@@ -98,6 +98,11 @@ CONFERENCE_LOCATIONS = {
                     ,2020: ('Pittsburgh', 'oct')
                     ,2008: ('Vouliagmeni', 'oct')
                     }
+    ,'middleware':  {2021: ('QuebecCity', 'nov')
+                    ,2020: ('Virtual', 'dec')
+                    ,2018: ('Rennes', 'dec')
+                    ,2001: ('Heidelberg', 'nov')
+                    }
     ,'nsdi':        {2021: ('Virtual', 'apr')
                     ,2018: ('Renton', 'apr')
                     }

@@ -642,6 +642,7 @@ d.add_conference('fast',        'FAST', 'Conference on File and Storage Technolo
 d.add_conference('imc',         'IMC', 'Internet Measurement Conference')
 #d.add_conference('infocom',     'INFOCOM', 'IEEE International Conference on Computer Communications')
 #d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium')
+d.add_conference('middleware',  'MIDDLEWARE', 'ACM/IFIP Middleware Conference', names=('{ACM} Middle Conference', 'International Middleware Conference', 'Middleware'), prefixes=('conf/middleware',))
 d.add_conference('mobicom',     'MOBICOM', 'International Conference on Mobile Computing and Networking')
 d.add_conference('nsdi',        'NSDI', 'Symposium on Networked System Design and Implementation')
 d.add_conference('usenixsec',   'USENIX', 'USENIX Security Symposium', prefixes=('conf/uss',))
