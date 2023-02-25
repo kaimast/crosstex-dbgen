@@ -1,5 +1,343 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fast/Arpaci-Dusseau22,
+  author    = {Remzi H. Arpaci-Dusseau},
+  title     = {25 Years of Storage Research and Education: A Retrospective},
+  booktitle = fast,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/fast/WuTPS0AA22,
+  author    = {Kan Wu and
+               Kaiwei Tu and
+               Yuvraj Patel and
+               Rathijit Sen and
+               Kwanghyun Park and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {NyxCache: Flexible and Efficient Multi-tenant Persistent Memory Caching},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/fast/Yi0W022,
+  author    = {Jifei Yi and
+               Mingkai Dong and
+               Fangnuo Wu and
+               Haibo Chen},
+  title     = {HTMFS: Strong Consistency Comes for Free with Hardware Transactional Memory in Persistent Memory File Systems},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {17-34},
+}
+
+@inproceedings{DBLP:conf/fast/Li0ZHSY22,
+  author    = {Ruibin Li and
+               Xiang Ren and
+               Xu Zhao and
+               Siwei He and
+               Michael Stumm and
+               Ding Yuan},
+  title     = {ctFS: Replacing File Indexing with Hardware Memory Translation through Contiguous File Allocation for Persistent Memory},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {35-50},
+}
+
+@inproceedings{DBLP:conf/fast/Zhang0ZL22,
+  author    = {Ming Zhang and
+               Yu Hua and
+               Pengfei Zuo and
+               Lurong Liu},
+  title     = {FORD: Fast One-sided {RDMA-based} Distributed Transactions for Disaggregated Persistent Memory},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {51-68},
+}
+
+@inproceedings{DBLP:conf/fast/QiaoCZLL022,
+  author    = {Yifan Qiao and
+               Xubin Chen and
+               Ning Zheng and
+               Jiangpeng Li and
+               Yang Liu and
+               Tong Zhang},
+  title     = {Closing the B+-tree vs. {LSM-tree} Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {69-82},
+}
+
+@inproceedings{DBLP:conf/fast/AnS0022,
+  author    = {Yanzhe An and
+               Yue Su and
+               Yuqing Zhu and
+               Jianmin Wang},
+  title     = {TVStore: Automatically Bounding Time Series Storage via {Time-Varying} Compression},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {83-100},
+}
+
+@inproceedings{DBLP:conf/fast/HuangSJS022,
+  author    = {Kecheng Huang and
+               Zhaoyan Shen and
+               Zhiping Jia and
+               Zili Shao and
+               Feng Chen},
+  title     = {Removing {Double-Logging} with Passive Data Persistence in {LSM-tree} based Relational Databases},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {101-116},
+}
+
+@inproceedings{DBLP:conf/fast/JafferMS22,
+  author    = {Shehbaz Jaffer and
+               Kaveh Mahdaviani and
+               Bianca Schroeder},
+  title     = {Improving the Reliability of Next Generation {SSDs} using {WOM-v} Codes},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {117-132},
+}
+
+@inproceedings{DBLP:conf/fast/HongKCL022,
+  author    = {Duwon Hong and
+               Myungsuk Kim and
+               Geonhee Cho and
+               Dusol Lee and
+               Jihong Kim},
+  title     = {GuardedErase: Extending {SSD} Lifetimes by Protecting Weak Wordlines},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {133-146},
+}
+
+@inproceedings{DBLP:conf/fast/KwonGLJ22,
+  author    = {Miryeong Kwon and
+               Donghyun Gouk and
+               Sangwon Lee and
+               Myoungsoo Jung},
+  title     = {Hardware/Software {Co-Programmable} Framework for Computational {SSDs} to Accelerate Deep Learning Service on {Large-Scale} Graphs},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {147-164},
+}
+
+@inproceedings{DBLP:conf/fast/ManeasMES22,
+  author    = {Stathis Maneas and
+               Kaveh Mahdaviani and
+               Tim Emami and
+               Bianca Schroeder},
+  title     = {Operational Characteristics of {SSDs} in Enterprise Storage Systems: A {Large-Scale} Field Study},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {165-180},
+}
+
+@inproceedings{DBLP:conf/fast/LeeMCCS22,
+  author    = {Youngmoon Lee and
+               Hasan Al Maruf and
+               Mosharaf Chowdhury and
+               Asaf Cidon and
+               Kang G. Shin},
+  title     = {Hydra : Resilient and Highly Available Remote Memory},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {181-198},
+}
+
+@inproceedings{DBLP:conf/fast/YiD0T022,
+  author    = {Jifei Yi and
+               Benchao Dong and
+               Mingkai Dong and
+               Ruizhe Tong and
+               Haibo Chen},
+  title     = {MT^2: Memory Bandwidth Regulation on Hybrid NVM/{DRAM} Platforms},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {199-216},
+}
+
+@inproceedings{DBLP:conf/fast/JiangZLZ22,
+  author    = {Tianyang Jiang and
+               Guangyan Zhang and
+               Zhiyue Li and
+               Weimin Zheng},
+  title     = {Aurogon: Taming Aborts in All Phases for Distributed {In-Memory} Transactions},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {217-232},
+}
+
+@inproceedings{DBLP:conf/fast/EliasSSY22,
+  author    = {Nadav Elias and
+               Philip Shilane and
+               Sarai Sheinvald and
+               Gala Yadgar},
+  title     = {DedupSearch: {Two-Phase} Deduplication Aware Keyword Search},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {233-246},
+}
+
+@inproceedings{DBLP:conf/fast/0001KKLM22,
+  author    = {Jisung Park and
+               Jeonggyun Kim and
+               Yeseong Kim and
+               Sungjin Lee and
+               Onur Mutlu},
+  title     = {DeepSketch: A New Machine {Learning-Based} Reference Search Technique for {Post-Deduplication} Delta Compression},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {247-264},
+}
+
+@inproceedings{DBLP:conf/fast/KisousKDSY22,
+  author    = {Roei Kisous and
+               Ariel Kolikant and
+               Abhinav Duggal and
+               Sarai Sheinvald and
+               Gala Yadgar},
+  title     = {The what, The from, and The to: The Migration Games in Deduplicated Systems},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {265-280},
+}
+
+@inproceedings{DBLP:conf/fast/BacsMRGB22,
+  author    = {Andrei Bacs and
+               Saidgani Musaev and
+               Kaveh Razavi and
+               Cristiano Giuffrida and
+               Herbert Bos},
+  title     = {DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {281-296},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangRK22,
+  author    = {Jian Zhang and
+               Yujie Ren and
+               Sudarsun Kannan},
+  title     = {FusionFS: Fusing I/O Operations using {CISCOps} in Firmware File Systems},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {297-312},
+}
+
+@inproceedings{DBLP:conf/fast/LvLZDS22,
+  author    = {Wenhao Lv and
+               Youyou Lu and
+               Yiming Zhang and
+               Peile Duan and
+               Jiwu Shu},
+  title     = {InfiniFS: An Efficient Metadata Service for {Large-Scale} Distributed Filesystems},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {313-328},
+}
+
+@inproceedings{DBLP:conf/fast/KimMOW22,
+  author    = {Dohyun Kim and
+               Kwangwon Min and
+               Joontaek Oh and
+               Youjip Won},
+  title     = {ScaleXFS: Getting scalability of {XFS} back on the ring},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {329-344},
+}
+
+@inproceedings{DBLP:conf/fast/OhJKW22,
+  author    = {Joontaek Oh and
+               Sion Ji and
+               Yongjin Kim and
+               Youjip Won},
+  title     = {exF2FS: Transaction Support in {Log-Structured} Filesystem},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {345-362},
+}
+
+@inproceedings{DBLP:conf/fast/KimKCMN22,
+  author    = {Ig-Jae Kim and
+               J. Hyun Kim and
+               Minu Chung and
+               Hyungon Moon and
+               Sam H. Noh},
+  title     = {A {Log-Structured} Merge Tree-aware Message Authentication Scheme for Persistent {Key-Value} Stores},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {363-380},
+}
+
+@inproceedings{DBLP:conf/fast/YangLY22,
+  author    = {Tsun-Yu Yang and
+               Yuhong Liang and
+               Ming-Chang Yang},
+  title     = {Practicably Boosting the Processing Performance of {BFS-like} Algorithms on {Semi-External} Graph System via I/{O-Efficient} Graph Ordering},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {381-396},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangLLX022,
+  author    = {Qiang Zhang and
+               Yongkun Li and
+               Patrick P. C. Lee and
+               Yinlong Xu and
+               Si Wu},
+  title     = {DEPART: Replica Decoupling for Distributed {Key-Value} Storage},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {397-412},
+}
+
+@inproceedings{DBLP:conf/fast/MacedoTHC0022,
+  author    = {Ricardo Macedo and
+               Yusuke Tanimura and
+               Jason Haga and
+               Vijay Chidambaram and
+               José Pereira and
+               João Paulo},
+  title     = {PAIO: General, Portable I/O Optimizations With Minor Application Modifications},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {413-428},
+}
+
+@inproceedings{DBLP:conf/fast/WangLLOSH22,
+  author    = {Qiuping Wang and
+               Jinhong Li and
+               Patrick P. C. Lee and
+               Tao Ouyang and
+               Chao Shi and
+               Lilong Huang},
+  title     = {Separating Data via Block Invalidation Time Inference for Write Amplification Reduction in {Log-Structured} Storage},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {429-444},
+}
+
+@inproceedings{DBLP:conf/fast/0004PRCACLKX22,
+  author    = {Yu Liang and
+               Riwei Pan and
+               Tianyu Ren and
+               Yufei Cui and
+               Rachata Ausavarungnirun and
+               Xianzhang Chen and
+               Changlong Li and
+               Tei-Wei Kuo and
+               Chun Jason Xue},
+  title     = {CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime},
+  booktitle = fast,
+  year      = 2022,
+  pages     = {445-459},
+}
+
 @inproceedings{DBLP:conf/fast/MaCCLZKW21,
   author    = {Shaonan Ma and
                Kang Chen and
@@ -4911,7 +5249,7 @@
 }
 
 @inproceedings{DBLP:conf/fast/MooreBR03,
-  author    = {Reagan Moore and
+  author    = {Reagan W. Moore and
                Dave Belanger and
                Thomas Ruwart},
   title     = {Petabytes and Beyond},

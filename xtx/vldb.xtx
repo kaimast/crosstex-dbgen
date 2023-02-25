@@ -1,5 +1,282 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/Alsudais22,
+  author    = {Sadeem Alsudais},
+  title     = {Drove: Tracking Execution Results of Workflows on Large Data},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Cohen22,
+  author    = {David Cohen},
+  title     = {{End-to-End} Data Management in Support of an {ML} {RecSys}},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Das22,
+  author    = {Tathagata Das},
+  title     = {Delta Lake: The one storage format for all your analytics},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/EisenhuthJ22,
+  author    = {Philipp Eisenhuth and
+               Stefan Jablonski},
+  title     = {Knowledge-based Recommendation for Polyglot Persistence},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Elfaramawy22,
+  author    = {Nourhan Elfaramawy},
+  title     = {Interactive Workflows for Exploratory Data Analysis},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/FroeseBPR22,
+  author    = {Florian Froese and
+               Daniel Bauer and
+               Daniel Pittner and
+               Sean Rooney},
+  title     = {Unifying Metadata for Stream and Batch Queries in a Cloud Service},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/GavriilidisBPBQ22,
+  author    = {Haralampos Gavriilidis and
+               Lennart Behme and
+               Sokratis Papadopoulos and
+               Stefano Bortoli and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Volker Markl},
+  title     = {Towards a Modular Data Management System Framework},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Giannakouris22,
+  author    = {Victor Giannakouris},
+  title     = {Building Learned Federated Query Optimizers},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/GoelA22,
+  author    = {Anil K. Goel and
+               Mihnea Andrei},
+  title     = {{SAP's} global data mesh for composable data management supporting cross-domain consumption},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Goldstein22,
+  author    = {Jonathan Goldstein},
+  title     = {From parsing, to query processing, to resiliency: Deriving unexpected value from database technology through componentization},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/KrawczykI22,
+  author    = {Stefan Krawczyk and
+               Elijah ben Izzy},
+  title     = {Hamilton: a modular open source declarative paradigm for high level modeling of dataflows},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Ma22,
+  author    = {Xiaosong Ma},
+  title     = {Shared, {High-Performance} Software Components for Shared, {High-Performance} Hardware},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/MoralesHKPDA22,
+  author    = {Mikael Morales and
+               Vlad Ioan Haprian and
+               Srinivas Karthik and
+               Danica Porobic and
+               Laurent Daynès and
+               Anastasia Ailamaki},
+  title     = {Efficient Property Projections of Graph Queries over Relational Data},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Moustafa22,
+  author    = {Walaa Eldin Moustafa},
+  title     = {Coral: A {SQL} translation and rewrite engine for modern data lakes},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Nadeau22,
+  author    = {Jacques Nadeau},
+  title     = {Substrait: Rethinking {DBMS} Composability},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Obata22,
+  author    = {Kohei Obata},
+  title     = {Automatic {Time-Series} Clustering via Network Inference},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/PasumanskyW22,
+  author    = {Mosha Pasumansky and
+               Benjamin Wagner},
+  title     = {Assembling a Query Engine From Spare Parts},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Pedreira22,
+  author    = {Pedro Pedreira},
+  title     = {Velox: Unifying execution engines across Meta and beyond},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Raasveldt22,
+  author    = {Mark Raasveldt},
+  title     = {{DuckDB} - A Modern Modular and Extensible Database System},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Sanz22,
+  author    = {Camila Sanz},
+  title     = {Context based Data Quality Rules for Multidimensional Data},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Sattler22,
+  author    = {Rebecca Sattler},
+  title     = {Scalable Discovery of Queries over Event Streams},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Shimomura22,
+  author    = {Larissa Capobianco Shimomura},
+  title     = {Graph Profiling with Graph Generating Dependencies},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Uotila22,
+  author    = {Valter Uotila},
+  title     = {Synergy between Quantum Computers and Databases},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Wang22,
+  author    = {Qitong Wang},
+  title     = {Data Series Similarity Search via Deep Learning},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Waudby22,
+  author    = {Jack Waudby},
+  title     = {High Performance Mixed {Graph-Based} Concurrency Control},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Wilhite22,
+  author    = {David Wilhite},
+  title     = {GoogleSQL: A {SQL} Language as a Component},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Yan22,
+  author    = {Jiaqi Yan},
+  title     = {The Single Product Approach: Supporting Diverse Workloads with Snowflake's Query Engine},
+  booktitle = vldb,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/vldb/Otto22,
+  author    = {Boris Otto},
+  title     = {Data spaces for data ecosystems},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {1-3},
+}
+
+@inproceedings{DBLP:conf/vldb/OppoldH22,
+  author    = {Sarah Oppold and
+               Melanie Herschel},
+  title     = {Trust in data engineering: reflection, framework, and evaluation methodology},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {4-17},
+}
+
+@inproceedings{DBLP:conf/vldb/RamalliP22,
+  author    = {Edoardo Ramalli and
+               Barbara Pernici},
+  title     = {From a prototype to a data ecosystem for experimental data and predictive models},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {18-26},
+}
+
+@inproceedings{DBLP:conf/vldb/KlessingerKSS22,
+  author    = {Stefan Klessinger and
+               Meike Klettke and
+               Uta Störl and
+               Stefanie Scherzinger},
+  title     = {Extracting {JSON} Schemas with tagged unions},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {27-40},
+}
+
+@inproceedings{DBLP:conf/vldb/KrawczykIQ22,
+  author    = {Stefan Krawczyk and
+               Elijah ben Izzy and
+               Danielle Quinn},
+  title     = {Hamilton: enabling software engineering best practices for data transformations via generalized dataflow graphs},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/vldb/LohmollerPMW22,
+  author    = {Johannes Lohmöller and
+               Jan Pennekamp and
+               Roman Matzutt and
+               Klaus Wehrle},
+  title     = {On the need for strong sovereignty in data ecosystems},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {51-63},
+}
+
+@inproceedings{DBLP:conf/vldb/AbdussalamMFSSC22,
+  author    = {Wildan Abdussalam and
+               Adam Mertel and
+               Kai Fan and
+               Weronika Schlechte-Welnicz and
+               Lennart Schüler and
+               Justin M. Calabrese},
+  title     = {A scalable pipeline for COVID-19: the case study of Germany, Czechia and Poland},
+  booktitle = vldb,
+  year      = 2022,
+  pages     = {64-75},
+}
+
 @inproceedings{DBLP:conf/vldb/Azimov21,
   author    = {Rustam Azimov},
   title     = {{Context-Free} Path Querying In Terms of Linear Algebra},
@@ -153,7 +430,7 @@
                Tim Bleimehl and
                Sebastian Muller and
                Jamie Munro and
-               Lea Gutebier and
+               Lea Gütebier and
                Ron Henkel and
                Dagmar Waltemath},
   title     = {COVIDGraph: Connecting Biomedical COVID-19 Resources and Computational Biology Models},
@@ -1618,7 +1895,7 @@
 
 @inproceedings{DBLP:conf/vldb/SilvaS18,
   author    = {Leonardo de Assis da Silva and
-               Thiago Henrique Silva},
+               Thiago H. Silva},
   title     = {Extraction and Exploration of Business Categories Signatures},
   booktitle = vldb,
   year      = 2018,
@@ -2035,7 +2312,7 @@
   author    = {Sergei Solonets and
                Victor Drobny and
                Victor Rivera and
-               JooYoung Lee},
+               Jooyoung Lee},
   title     = {Introducing ADegree: Anonymisation of Social Networks Through Constraint Programming},
   booktitle = vldb,
   year      = 2017,
@@ -3138,7 +3415,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/DessiMAZ13,
-  author    = {Andrea Dessi and
+  author    = {Andrea Dessì and
                Andrea Maxia and
                Maurizio Atzori and
                Carlo Zaniolo},
@@ -7489,7 +7766,7 @@
                Hans-Jörg Schek and
                Yuri Breitbart and
                Torsten Grabs and
-               Lourens Veen},
+               Lourens E. Veen},
   title     = {{Fine-Grained} Replication and Scheduling with Freshness and Correctness Guarantees},
   booktitle = vldb,
   year      = 2005,
@@ -11131,7 +11408,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Kuhn03,
-  author    = {eva Kühn},
+  author    = {Eva Kühn},
   title     = {The {Zero-Delay} Data Warehouse: Mobilizing Heterogeneous Databases},
   booktitle = vldb,
   year      = 2003,
@@ -11460,7 +11737,7 @@
 
 @inproceedings{DBLP:conf/vldb/JagatheesanMPW03,
   author    = {Arun Jagatheesan and
-               Reagan Moore and
+               Reagan W. Moore and
                Norman W. Paton and
                Paul Watson},
   title     = {Grid Data Management Systems & Services},
@@ -16914,7 +17191,7 @@
 @inproceedings{DBLP:conf/vldb/GinisHKMT97,
   author    = {Eric Hughes and
                Roman Ginis and
-               Bhavani M. Thuraisingham and
+               Bhavani Thuraisingham and
                Peter C. Krupp and
                John A. Maurer},
   title     = {Data Manager for Evolvable Real-time Command and Control Systems},
@@ -22398,7 +22675,7 @@
 
 @inproceedings{DBLP:conf/vldb/HowellsFG87,
   author    = {D. I. Howells and
-               N. J. Fiddian and
+               Nick J. Fiddian and
                W. A. Gray},
   title     = {A {Source-to-Source} {Meta-Translation} System for Relational Query Languages},
   booktitle = vldb,
@@ -24100,7 +24377,7 @@
                Stavros Christodoulakis and
                P. Economopoulos and
                Christos Faloutsos and
-               A. Lee and
+               Alison Lee and
                D. Lee and
                J. Vandenbroeck and
                Carson C. Woo},
@@ -27067,7 +27344,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/HultenS77,
-  author    = {Christer Hulten and
+  author    = {Christer Hultén and
                Lars Söderlund},
   title     = {A Simulation Model for Performance Analysis of Large Shared Data Bases},
   booktitle = vldb,

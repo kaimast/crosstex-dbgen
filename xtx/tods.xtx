@@ -1,5 +1,221 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/BergerGPS22,
+  author    = {Gerald Berger and
+               Georg Gottlob and
+               Andreas Pieris and
+               Emanuel Sallinger},
+  title     = {The {Space-Efficient} Core of Vadalog},
+  journal   = tods,
+  volume    = {47},
+  number    = {1},
+  year      = 2022,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/TongZZCX22,
+  author    = {Yongxin Tong and
+               Yuxiang Zeng and
+               Zimu Zhou and
+               Lei Chen and
+               Ke Xu},
+  title     = {Unified Route Planning for Shared Mobility: An Insertion-based Framework},
+  journal   = tods,
+  volume    = {47},
+  number    = {1},
+  year      = 2022,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/BinnaZPSL22,
+  author    = {Robert Binna and
+               Eva Zangerle and
+               Martin Pichl and
+               Günther Specht and
+               Viktor Leis},
+  title     = {Height Optimized Tries},
+  journal   = tods,
+  volume    = {47},
+  number    = {1},
+  year      = 2022,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/AumullerHMPS22,
+  author    = {Martin Aumüller and
+               Sariel Har-Peled and
+               Sepideh Mahabadi and
+               Rasmus Pagh and
+               Francesco Silvestri},
+  title     = {Sampling a Near Neighbor in High Dimensions - Who is the Fairest of Them All?},
+  journal   = tods,
+  volume    = {47},
+  number    = {1},
+  year      = 2022,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/Schmid22,
+  author    = {Markus L. Schmid},
+  title     = {Conjunctive Regular Path Queries with Capture Groups},
+  journal   = tods,
+  volume    = {47},
+  number    = {2},
+  year      = 2022,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/FanT22,
+  author    = {Wenfei Fan and
+               Chao Tian},
+  title     = {Incremental Graph Computations: Doable and Undoable},
+  journal   = tods,
+  volume    = {47},
+  number    = {2},
+  year      = 2022,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/ChengYQHLNW22,
+  author    = {Ji Cheng and
+               Da Yan and
+               Wenwen Qu and
+               Xiaotian Hao and
+               Cheng Long and
+               Wilfred Ng and
+               Xiaoling Wang},
+  title     = {Mining Order-preserving Submatrices under Data Uncertainty: A Possible-world Approach and Efficient Approximation Methods},
+  journal   = tods,
+  volume    = {47},
+  number    = {2},
+  year      = 2022,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/ArroyueloNRR22,
+  author    = {Diego Arroyuelo and
+               Gonzalo Navarro and
+               Juan L. Reutter and
+               Javiel Rojas-Ledesma},
+  title     = {Optimal Joins Using Compressed Quadtrees},
+  journal   = tods,
+  volume    = {47},
+  number    = {2},
+  year      = 2022,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/CarmeliZBCKS22,
+  author    = {Nofar Carmeli and
+               Shai Zeevi and
+               Christoph Berkholz and
+               Alessio Conte and
+               Benny Kimelfeld and
+               Nicole Schweikardt},
+  title     = {Answering (Unions of) Conjunctive Queries using Random Access and {Random-Order} Enumeration},
+  journal   = tods,
+  volume    = {47},
+  number    = {3},
+  year      = 2022,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/AsudehDJLNTZZ22,
+  author    = {Abolfazl Asudeh and
+               Gautam Das and
+               H. V. Jagadish and
+               Shangqi Lu and
+               Azade Nazi and
+               Yufei Tao and
+               Nan Zhang and
+               Jianwen Zhao},
+  title     = {On Finding Rank Regret Representatives},
+  journal   = tods,
+  volume    = {47},
+  number    = {3},
+  year      = 2022,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/ZengWLYDW22,
+  author    = {Tianjing Zeng and
+               Zhewei Wei and
+               Ge Luo and
+               Ke Yi and
+               Xiaoyong Du and
+               Ji-Rong Wen},
+  title     = {Persistent Summaries},
+  journal   = tods,
+  volume    = {47},
+  number    = {3},
+  year      = 2022,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/GuoWWLT22,
+  author    = {Qintian Guo and
+               Sibo Wang and
+               Zhewei Wei and
+               Wenqing Lin and
+               Jing Tang},
+  title     = {Influence Maximization Revisited: Efficient Sampling with Bound Tightened},
+  journal   = tods,
+  volume    = {47},
+  number    = {3},
+  year      = 2022,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/KetsmanKNV22,
+  author    = {Bas Ketsman and
+               Christoph Koch and
+               Frank Neven and
+               Brecht Vandevoort},
+  title     = {Deciding Robustness for Lower {SQL} Isolation Levels},
+  journal   = tods,
+  volume    = {47},
+  number    = {4},
+  year      = 2022,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/CateD22,
+  author    = {Balder ten Cate and
+               Victor Dalmau},
+  title     = {Conjunctive Queries: Unique Characterizations and Exact Learnability},
+  journal   = tods,
+  volume    = {47},
+  number    = {4},
+  year      = 2022,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/WeiWLMS22,
+  author    = {Victor Junqiu Wei and
+               Raymond Chi-Wing Wong and
+               Cheng Long and
+               David M. Mount and
+               Hanan Samet},
+  title     = {Proximity Queries on Terrain Surface},
+  journal   = tods,
+  volume    = {47},
+  number    = {4},
+  year      = 2022,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/DoGN22,
+  author    = {Thanh Do and
+               Goetz Graefe and
+               Jeffrey F. Naughton},
+  title     = {Efficient Sorting, Duplicate Removal, Grouping, and Aggregation},
+  journal   = tods,
+  volume    = {47},
+  number    = {4},
+  year      = 2022,
+  pages     = {16-1},
+}
+
 @article{DBLP:journals/tods/TraubGCBKRM21,
   author    = {Jonas Traub and
                Philipp Marian Grulich and
@@ -2399,7 +2615,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {1-1},
+  pages     = {1},
 }
 
 @article{DBLP:journals/tods/Jaiswal0M13,
@@ -2411,7 +2627,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {2-1},
+  pages     = {2},
 }
 
 @article{DBLP:journals/tods/GrustR13,
@@ -2422,7 +2638,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {3-1},
+  pages     = {3},
 }
 
 @article{DBLP:journals/tods/BenzakenCCN13,
@@ -2435,7 +2651,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {4-1},
+  pages     = {4},
 }
 
 @article{DBLP:journals/tods/DasAA13,
@@ -2447,7 +2663,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {5-1},
+  pages     = {5},
 }
 
 @article{DBLP:journals/tods/FranceschetGMP13,
@@ -2460,7 +2676,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {6-1},
+  pages     = {6},
 }
 
 @article{DBLP:journals/tods/WuYJ13,
@@ -2472,7 +2688,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {7-1},
+  pages     = {7},
 }
 
 @article{DBLP:journals/tods/SadoghiJ13,
@@ -2483,7 +2699,7 @@
   volume    = {38},
   number    = {2},
   year      = 2013,
-  pages     = {8-1},
+  pages     = {8},
 }
 
 @article{DBLP:journals/tods/LiDF13,
@@ -2495,7 +2711,7 @@
   volume    = {38},
   number    = {2},
   year      = 2013,
-  pages     = {9-1},
+  pages     = {9},
 }
 
 @article{DBLP:journals/tods/CatalloCFMT13,
@@ -2509,7 +2725,7 @@
   volume    = {38},
   number    = {2},
   year      = 2013,
-  pages     = {10-1},
+  pages     = {10},
 }
 
 @article{DBLP:journals/tods/FazzingaFFM13,
@@ -2522,7 +2738,7 @@
   volume    = {38},
   number    = {2},
   year      = 2013,
-  pages     = {11-1},
+  pages     = {11},
 }
 
 @article{DBLP:journals/tods/PavlouS13,
@@ -2533,7 +2749,7 @@
   volume    = {38},
   number    = {2},
   year      = 2013,
-  pages     = {12-1},
+  pages     = {12},
 }
 
 @article{DBLP:journals/tods/Cheney13,
@@ -2543,7 +2759,7 @@
   volume    = {38},
   number    = {2},
   year      = 2013,
-  pages     = {13-1},
+  pages     = {13},
 }
 
 @article{DBLP:journals/tods/BonifatiGMS13,
@@ -2556,7 +2772,7 @@
   volume    = {38},
   number    = {3},
   year      = 2013,
-  pages     = {14-1},
+  pages     = {14},
 }
 
 @article{DBLP:journals/tods/ColazzoGPS13,
@@ -2569,7 +2785,7 @@
   volume    = {38},
   number    = {3},
   year      = 2013,
-  pages     = {15-1},
+  pages     = {15},
 }
 
 @article{DBLP:journals/tods/Qin0XLLW13,
@@ -2584,7 +2800,7 @@
   volume    = {38},
   number    = {3},
   year      = 2013,
-  pages     = {16-1},
+  pages     = {16},
 }
 
 @article{DBLP:journals/tods/LevandoskiEMK13,
@@ -2597,7 +2813,7 @@
   volume    = {38},
   number    = {3},
   year      = 2013,
-  pages     = {17-1},
+  pages     = {17},
 }
 
 @article{DBLP:journals/tods/FanWW13,
@@ -2609,7 +2825,7 @@
   volume    = {38},
   number    = {3},
   year      = 2013,
-  pages     = {18-1},
+  pages     = {18},
 }
 
 @article{DBLP:journals/tods/KarvounarakisGIT13,
@@ -2622,7 +2838,7 @@
   volume    = {38},
   number    = {3},
   year      = 2013,
-  pages     = {19-1},
+  pages     = {19},
 }
 
 @article{DBLP:journals/tods/Ozsoyoglu13,
@@ -2632,7 +2848,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {20-1},
+  pages     = {20},
 }
 
 @article{DBLP:journals/tods/MozafariZDZ13,
@@ -2645,7 +2861,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {21-1},
+  pages     = {21},
 }
 
 @article{DBLP:journals/tods/SarmaLGMH13,
@@ -2659,7 +2875,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {22-1},
+  pages     = {22},
 }
 
 @article{DBLP:journals/tods/TeubnerWN13,
@@ -2671,7 +2887,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {23-1},
+  pages     = {23},
 }
 
 @article{DBLP:journals/tods/LosemannM13,
@@ -2682,7 +2898,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {24-1},
+  pages     = {24},
 }
 
 @article{DBLP:journals/tods/Letelier0PS13,
@@ -2695,7 +2911,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {25-1},
+  pages     = {25},
 }
 
 @article{DBLP:journals/tods/AgarwalCHPWY13,
@@ -2710,7 +2926,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {26-1},
+  pages     = {26},
 }
 
 @article{DBLP:journals/tods/KonradM13,
@@ -2721,7 +2937,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {27-1},
+  pages     = {27},
 }
 
 @article{DBLP:journals/tods/CateDK13,
@@ -2733,7 +2949,7 @@
   volume    = {38},
   number    = {4},
   year      = 2013,
-  pages     = {28-1},
+  pages     = {28},
 }
 
 @article{DBLP:journals/tods/Graefe12,
@@ -4002,7 +4218,7 @@
 @article{DBLP:journals/tods/PerezAG09,
   author    = {Jorge Pérez and
                Marcelo Arenas and
-               Claudio Gutiérrez},
+               Claudio Gutierrez},
   title     = {Semantics and complexity of {SPARQL}},
   journal   = tods,
   volume    = {34},
@@ -5559,7 +5775,7 @@
 
 @article{DBLP:journals/tods/HurtadoGM05,
   author    = {Carlos A. Hurtado and
-               Claudio Gutiérrez and
+               Claudio Gutierrez and
                Alberto O. Mendelzon},
   title     = {Capturing summarizability with integrity constraints in {OLAP}},
   journal   = tods,

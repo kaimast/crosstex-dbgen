@@ -1,5 +1,7 @@
 TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction in l{$\\alpha$}; ({$0 < \\alpha \le 2$}) using stable random projections',
          'journals/cacm/Glass99c': 'Buzzwordism and the Epic \$150 Million Software Debacle',
+         'conf/crypto/AttemaCK21': 'A Compressed $\varSigma $-Protocol Theory for Lattices',
+         'conf/crypto/RotemS21': 'Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for $\varSigma $-Protocols',
          'conf/crypto/AttemaC20' : 'Compressed $\varSigma $-Protocol Theory and Practical Application to Plug \& Play Secure Algorithmics'
         }
 
@@ -14,6 +16,8 @@ CONFERENCE_LOCATIONS = {
                     }
     ,'ccs':         {2021: ('Virtual', 'nov')
                     ,2020: ('Virtual', 'nov')
+                    ,2019: ('London', 'nov')
+                    ,
                     }
     ,'cidr':        {2021: ('Virtual', 'jan')
                     ,2017: ('Chaminade', 'jan')
@@ -23,17 +27,20 @@ CONFERENCE_LOCATIONS = {
                     ,1987: ('SantaBarbara', 'aug')
                     ,1981: ('SantaBarbara', 'aug')
                     }
-    ,'eurosp':      {2020: ('Virtual', 'sep')
+    ,'eurosp':      {2022: ('Genoa', 'jun')
+                    ,2020: ('Virtual', 'sep')
                     ,2016: ('Saarbrucken', 'mar')
                     }
-    ,'eurosys':     {2019: ('Dresden', 'mar')
+    ,'eurosys':     {2022: ('Rennes', 'apr')
+                    ,2019: ('Dresden', 'mar')
                     ,2018: ('Porto', 'apr')
                     ,2017: ('Belgrade', 'apr')
                     ,2015: ('Bordeaux', 'apr')
                     }
     ,'fast':        {2021: ('Virtual', 'feb')
                     }
-    ,'fc':          {2021: ('Virtual', 'mar')
+    ,'fc':          {2022: ('Grenada', 'may')
+                    ,2021: ('Virtual', 'mar')
                     ,2020: ('KotaKinabalu', 'feb')
                     ,2019: ('FrigateBay', 'feb')
                     ,2018: ('PortaBlancu', 'feb')
@@ -68,7 +75,8 @@ CONFERENCE_LOCATIONS = {
                     ,2009: ('MonteVerita', 'may')
                     ,2001: ('ElmauOberbayern', 'may')
                     }
-    ,'hotstorage':  {2021: ('Virtual', 'jul')
+    ,'hotstorage':  {2022: ('Virtual', 'jun')
+                    ,2021: ('Virtual', 'jul')
                     ,2020: ('Virtual', 'jul')
                     ,2019: ('Renton', 'jul')
                     }
@@ -156,7 +164,8 @@ CONFERENCE_LOCATIONS = {
     ,'usenixsec':   {2021: ('Virtual', 'aug')
                     ,2020: ('Boston', 'aug')
                     }
-    ,'podc':        {2021: ('Virtua', 'aug')
+    ,'podc':        {2022: ('Orlando', 'jun')
+                    ,2021: ('Virtual', 'aug')
                     ,2020: ('Virtual', 'aug')
                     ,2018: ('London', 'jul')
                     ,2015: ('Donostia', 'jul')
@@ -168,6 +177,7 @@ CONFERENCE_LOCATIONS = {
                     }
     ,'pldi':        {2021: ('Virtual', 'jun')
                     ,2004: ('DC', 'jun')
+                    ,2001: ('Snowbird', 'jun')
                     ,1986: ('PaloAlto', 'jun')
                     ,1984: ('Montreal', 'jun')
                     ,1982: ('Boston', 'jun')

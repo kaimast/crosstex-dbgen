@@ -1,5 +1,844 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/usenix/Brewer22,
+  author    = {Eric A. Brewer},
+  title     = {Eric Brewer, {VP} Infrastructure, Google Fellow and Professor Emeritus, {UC} Berkeley},
+  booktitle = atc,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/usenix/Kuznetsov022,
+  author    = {Dmitry Kuznetsov and
+               Adam Morrison},
+  title     = {Privbox: Faster System Calls Through Sandboxed Privileged Execution},
+  booktitle = atc,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/usenix/LiZYZL22,
+  author    = {Jie Li and
+               Laiping Zhao and
+               Yanan Yang and
+               Kunlin Zhan and
+               Keqiu Li},
+  title     = {Tetris: Memory-efficient Serverless Inference through Tensor Sharing},
+  booktitle = atc,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/usenix/Martonosi22,
+  author    = {Margaret Martonosi},
+  title     = {Margaret Martonosi, National Science Foundation},
+  booktitle = atc,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/usenix/Tennenhouse22,
+  author    = {David L. Tennenhouse},
+  title     = {{Surprise-Inspired} Networking},
+  booktitle = atc,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/usenix/BergmanCBS22,
+  author    = {Shai Bergman and
+               Niklas Cassel and
+               Matias Bjørling and
+               Mark Silberstein},
+  title     = {ZNSwap: {un-Block} your Swap},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/usenix/ZouXS0022,
+  author    = {Xiangyu Zou and
+               Wen Xia and
+               Philip Shilane and
+               Haijun Zhang and
+               Xuan Wang},
+  title     = {Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {19-36},
+}
+
+@inproceedings{DBLP:conf/usenix/Yang0L22,
+  author    = {Zuoru Yang and
+               Jingwei Li and
+               Patrick P. C. Lee},
+  title     = {Secure and Lightweight Deduplicated Storage via Shielded {Deduplication-Before-Encryption}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {37-52},
+}
+
+@inproceedings{DBLP:conf/usenix/LiC0GBTZWHG22,
+  author    = {Zijun Li and
+               Jiagan Cheng and
+               Quan Chen and
+               Eryu Guan and
+               Zizheng Bian and
+               Yi Tao and
+               Bin Zha and
+               Qiang Wang and
+               Weidong Han and
+               Minyi Guo},
+  title     = {RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {53-68},
+}
+
+@inproceedings{DBLP:conf/usenix/LiG0CXZSMY0G22,
+  author    = {Zijun Li and
+               Linsong Guo and
+               Quan Chen and
+               Jiagan Cheng and
+               Chuhao Xu and
+               Deze Zeng and
+               Zhuo Song and
+               Tao Ma and
+               Yong Yang and
+               Chao Li and
+               Minyi Guo},
+  title     = {Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through {Inter-Function} Container Sharing},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {69-84},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhouT22,
+  author    = {Diyu Zhou and
+               Yuval Tamir},
+  title     = {RRC: Responsive Replicated Containers},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {85-100},
+}
+
+@inproceedings{DBLP:conf/usenix/GuerraouiMPXYZ22,
+  author    = {Rachid Guerraoui and
+               Antoine Murat and
+               Javier Picorel and
+               Athanasios Xygkis and
+               Huabing Yan and
+               Pengfei Zuo},
+  title     = {uKharon: A Membership Service for Microsecond Applications},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {101-120},
+}
+
+@inproceedings{DBLP:conf/usenix/WeiL0022,
+  author    = {Xingda Wei and
+               Fangming Lu and
+               Rong Chen and
+               Haibo Chen},
+  title     = {KRCORE: A Microsecond-scale {RDMA} Control Plane for Elastic Computing},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {121-136},
+}
+
+@inproceedings{DBLP:conf/usenix/0001W0Z22,
+  author    = {Mingyu Wu and
+               Shuaiwei Wang and
+               Haibo Chen and
+               Binyu Zang},
+  title     = {{Zero-Change} Object Transmission for Distributed Big Data Analytics},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {137-150},
+}
+
+@inproceedings{DBLP:conf/usenix/MaAGGJKK22,
+  author    = {Haojun Ma and
+               Hammad Ahmad and
+               Aman Goel and
+               Eli Goldweber and
+               Jean-Baptiste Jeannin and
+               Manos Kapritsos and
+               Baris Kasikci},
+  title     = {Sift: Using Refinement-guided Automation to Verify Complex Distributed Systems},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {151-166},
+}
+
+@inproceedings{DBLP:conf/usenix/Feng0WCWY0D22,
+  author    = {Boyuan Feng and
+               Tianqi Tang and
+               Yuke Wang and
+               Zhaodong Chen and
+               Zheng Wang and
+               Shu Yang and
+               Yuan Xie and
+               Yufei Ding},
+  title     = {Faith: An Efficient Framework for Transformer Verification on {GPUs}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {167-182},
+}
+
+@inproceedings{DBLP:conf/usenix/Cui00WLZ0G22,
+  author    = {Weihao Cui and
+               Han Zhao and
+               Quan Chen and
+               Hao Wei and
+               Zirui Li and
+               Deze Zeng and
+               Chao Li and
+               Minyi Guo},
+  title     = {DVABatch: Diversity-aware {Multi-Entry} {Multi-Exit} Batching for Efficient Processing of {DNN} Services on {GPUs}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {183-198},
+}
+
+@inproceedings{DBLP:conf/usenix/ChoiLKPKH22,
+  author    = {Seungbeom Choi and
+               Sunho Lee and
+               Yeonjae Kim and
+               Jongse Park and
+               Youngjin Kwon and
+               Jaehyuk Huh},
+  title     = {Serving Heterogeneous Machine Learning Models on {Multi-GPU} Servers with {Spatio-Temporal} Sharing},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {199-216},
+}
+
+@inproceedings{DBLP:conf/usenix/0149CH000SYG22,
+  author    = {Wei Zhang and
+               Binghao Chen and
+               Zhenhua Han and
+               Quan Chen and
+               Peng Cheng and
+               Fan Yang and
+               Ran Shu and
+               Yuqing Yang and
+               Minyi Guo},
+  title     = {PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {217-232},
+}
+
+@inproceedings{DBLP:conf/usenix/WangBFOOLCH022,
+  author    = {Jiawei Wang and
+               Diogo Behrens and
+               Ming Fu and
+               Lilith Oberhauser and
+               Jonas Oberhauser and
+               Jitang Lei and
+               Geng Chen and
+               Hermann Härtig and
+               Haibo Chen},
+  title     = {BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {249-262},
+}
+
+@inproceedings{DBLP:conf/usenix/KimJLLJ22,
+  author    = {Taeyoon Kim and
+               Suyeon Jeong and
+               Jongseop Lee and
+               Soobee Lee and
+               Myeongjae Jeon},
+  title     = {Sibylla: To Retry or Not To Retry on Deep Learning Job Failure},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {263-270},
+}
+
+@inproceedings{DBLP:conf/usenix/LiKFLL22,
+  author    = {Nanqinqin Li and
+               Anja Kalaba and
+               Michael J. Freedman and
+               Wyatt Lloyd and
+               Amit Levy},
+  title     = {Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {271-286},
+}
+
+@inproceedings{DBLP:conf/usenix/GoukLKJ22,
+  author    = {Donghyun Gouk and
+               Sangwon Lee and
+               Miryeong Kwon and
+               Myoungsoo Jung},
+  title     = {Direct Access, {High-Performance} Memory Disaggregation with {DirectCXL}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {287-294},
+}
+
+@inproceedings{DBLP:conf/usenix/HolzbauerULF22,
+  author    = {Florian Holzbauer and
+               Johanna Ullrich and
+               Martina Lindorfer and
+               Tobias Fiebig},
+  title     = {Not that Simple: Email Delivery in the 21st Century},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/usenix/SongY0WLDLS22,
+  author    = {Guanglei Song and
+               Jiahai Yang and
+               Lin He and
+               Zhiliang Wang and
+               Guo Li and
+               Chenxin Duan and
+               Yaozhong Liu and
+               Zhongxiang Sun},
+  title     = {AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {309-326},
+}
+
+@inproceedings{DBLP:conf/usenix/JansenNW22,
+  author    = {Rob Jansen and
+               James Newsome and
+               Ryan Wails},
+  title     = {Co-opting Linux Processes for {High-Performance} Network Simulation},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {327-350},
+}
+
+@inproceedings{DBLP:conf/usenix/SunSLXJ22,
+  author    = {Hao Sun and
+               Yuheng Shen and
+               Jianzhong Liu and
+               Yiru Xu and
+               Yu Jiang},
+  title     = {KSG: Augmenting Kernel Fuzzing with System Call Specification Generation},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {351-366},
+}
+
+@inproceedings{DBLP:conf/usenix/BaiL022,
+  author    = {Jia-Ju Bai and
+               Tuo Li and
+               Shi-Min Hu},
+  title     = {DLOS: Effective Static Detection of Deadlocks in {OS} Kernels},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {367-382},
+}
+
+@inproceedings{DBLP:conf/usenix/KimKL22,
+  author    = {Beom Heyn Kim and
+               Taesoo Kim and
+               David Lie},
+  title     = {Modulo: Finding Convergence Failure Bugs in Distributed Systems with Divergence Resync Models},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {383-398},
+}
+
+@inproceedings{DBLP:conf/usenix/0001CWHWNGL0022,
+  author    = {Zhi Zhang and
+               Yueqiang Cheng and
+               Minghua Wang and
+               Wei He and
+               Wenhao Wang and
+               Surya Nepal and
+               Yansong Gao and
+               Kang Li and
+               Zhe Wang and
+               Chenggang Wu},
+  title     = {SoftTRR: Protect Page Tables against Rowhammer Attacks using Software-only Target Row Refresh},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {399-414},
+}
+
+@inproceedings{DBLP:conf/usenix/JohnsonPC22,
+  author    = {Ethan Johnson and
+               Colin Pronovost and
+               John Criswell},
+  title     = {Hardening Hypervisors with Ombro},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {415-436},
+}
+
+@inproceedings{DBLP:conf/usenix/JiaLWCZYH22,
+  author    = {Yuekai Jia and
+               Shuang Liu and
+               Wenhao Wang and
+               Yu Chen and
+               Zhengde Zhai and
+               Shoumeng Yan and
+               Zhengyu He},
+  title     = {HyperEnclave: An Open and Cross-platform Trusted Execution Environment},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {437-454},
+}
+
+@inproceedings{DBLP:conf/usenix/SangS0Z0VK22,
+  author    = {Fan Sang and
+               Ming-Wei Shih and
+               Sangho Lee and
+               Xiaokuan Zhang and
+               Michael Steiner and
+               Mona Vij and
+               Taesoo Kim},
+  title     = {PRIDWEN: Universally Hardening {SGX} Programs via {Load-Time} Synthesis},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {455-472},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhouWZS22,
+  author    = {Zhe Zhou and
+               Xuechao Wei and
+               Jiejing Zhang and
+               Guangyu Sun},
+  title     = {PetS: A Unified Framework for {Parameter-Efficient} Transformers Serving},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {489-504},
+}
+
+@inproceedings{DBLP:conf/usenix/He00022,
+  author    = {Xin He and
+               Jianhua Sun and
+               Hao Chen and
+               Dong Li},
+  title     = {Campo: {Cost-Aware} Performance Optimization for {Mixed-Precision} Neural Network Training},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {505-518},
+}
+
+@inproceedings{DBLP:conf/usenix/HuN00022,
+  author    = {Qinghao Hu and
+               Harsha Nori and
+               Peng Sun and
+               Yonggang Wen and
+               Tianwei Zhang},
+  title     = {Primo: Practical {Learning-Augmented} Systems with Interpretable Models},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {519-538},
+}
+
+@inproceedings{DBLP:conf/usenix/GuYZYH22,
+  author    = {Rong Gu and
+               Han Yin and
+               Weichang Zhong and
+               Chunfeng Yuan and
+               Yihua Huang},
+  title     = {Meces: Latency-efficient Rescaling via Prioritized State Migration for Stateful Distributed Stream Processing Systems},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {539-556},
+}
+
+@inproceedings{DBLP:conf/usenix/LuoS0X22,
+  author    = {Xuhao Luo and
+               Weihai Shen and
+               Shuai Mu and
+               Tianyin Xu},
+  title     = {DepFast: Orchestrating Code of Quorum Systems},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {557-574},
+}
+
+@inproceedings{DBLP:conf/usenix/FoutoP022,
+  author    = {Pedro Fouto and
+               Nuno M. Preguiça and
+               João Leitão},
+  title     = {High Throughput Replication with Integrated Membership Management},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {575-592},
+}
+
+@inproceedings{DBLP:conf/usenix/MansiTS22,
+  author    = {Mark Mansi and
+               Bijan Tabatabai and
+               Michael M. Swift},
+  title     = {CBMM: Financial Advice for Kernel Memory Managers},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {593-608},
+}
+
+@inproceedings{DBLP:conf/usenix/0001LLX022,
+  author    = {Jinyu Gu and
+               Hao Li and
+               Wentai Li and
+               Yubin Xia and
+               Haibo Chen},
+  title     = {EPK: Scalable and Efficient Memory Protection Keys},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {609-624},
+}
+
+@inproceedings{DBLP:conf/usenix/ChoiKJAJKA22,
+  author    = {Sangjin Choi and
+               Taeksoo Kim and
+               Jinwoo Jeong and
+               Rachata Ausavarungnirun and
+               Myeongjae Jeon and
+               Youngjin Kwon and
+               Jeongseob Ahn},
+  title     = {Memory Harvesting in {Multi-GPU} Systems with Hierarchical Unified Virtual Memory},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {625-638},
+}
+
+@inproceedings{DBLP:conf/usenix/WangMKWLSLCC22,
+  author    = {Zhe Wang and
+               Teng Ma and
+               Linghe Kong and
+               Zhenzao Wen and
+               Jingxuan Li and
+               Zhuo Song and
+               Yang Lu and
+               Guihai Chen and
+               Wei Cao},
+  title     = {Zero Overhead Monitoring for Cloud-native Infrastructure using {RDMA}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {639-654},
+}
+
+@inproceedings{DBLP:conf/usenix/0002RRPSC22,
+  author    = {Zhizhou Zhang and
+               Murali Krishna Ramanathan and
+               Prithvi Raj and
+               Abhishek Parwal and
+               Timothy Sherwood and
+               Milind Chabbi},
+  title     = {CRISP: Critical Path Analysis of {Large-Scale} Microservice Architectures},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {655-672},
+}
+
+@inproceedings{DBLP:conf/usenix/JiaJWXS0LCLZL022,
+  author    = {Xianyan Jia and
+               Le Jiang and
+               Ang Wang and
+               Wencong Xiao and
+               Ziji Shi and
+               Jie Zhang and
+               Xinyuan Li and
+               Langshi Chen and
+               Yong Li and
+               Zhen Zheng and
+               Xiaoyong Liu and
+               Wei Lin},
+  title     = {Whale: Efficient Giant Model Training over Heterogeneous {GPUs}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {673-688},
+}
+
+@inproceedings{DBLP:conf/usenix/GraurAKATK22,
+  author    = {Dan Graur and
+               Damien Aymon and
+               Dan Kluser and
+               Tanguy Albrici and
+               Chandramohan A. Thekkath and
+               Ana Klimovic},
+  title     = {Cachew: Machine Learning Input Data Processing as a Service},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {689-706},
+}
+
+@inproceedings{DBLP:conf/usenix/HwangKKNKKSP22,
+  author    = {Jinwoo Hwang and
+               Minsu Kim and
+               Daeun Kim and
+               Seungho Nam and
+               Yoonsung Kim and
+               Dohee Kim and
+               Hardik Sharma and
+               Jongse Park},
+  title     = {CoVA: Exploiting {Compressed-Domain} Analysis to Accelerate Video Analytics},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {707-722},
+}
+
+@inproceedings{DBLP:conf/usenix/ShenQJWWCZWCLZC22,
+  author    = {Tianxiang Shen and
+               Ji Qi and
+               Jianyu Jiang and
+               Xian Wang and
+               Siyuan Wen and
+               Xusheng Chen and
+               Shixiong Zhao and
+               Sen Wang and
+               Li Chen and
+               Xiapu Luo and
+               Fengwei Zhang and
+               Heming Cui},
+  title     = {SOTER: Guarding Black-box Inference for General Neural Networks at the Edge},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {723-738},
+}
+
+@inproceedings{DBLP:conf/usenix/KimKTOW22,
+  author    = {Juwon Kim and
+               Minsu Kim and
+               Muhammad Danish Tehseen and
+               Joontaek Oh and
+               Youjip Won},
+  title     = {IPLFS: {Log-Structured} File System without Garbage Collection},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {739-754},
+}
+
+@inproceedings{DBLP:conf/usenix/KwonLCHJ22,
+  author    = {Miryeong Kwon and
+               Seungjun Lee and
+               Hyunkyu Choi and
+               Jooyoung Hwang and
+               Myoungsoo Jung},
+  title     = {Vigil-KV: {Hardware-Software} {Co-Design} to Integrate Strong Latency Determinism into {Log-Structured} Merge {Key-Value} Stores},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {755-772},
+}
+
+@inproceedings{DBLP:conf/usenix/WangLWXHS22,
+  author    = {Jing Wang and
+               Youyou Lu and
+               Qing Wang and
+               Minhui Xie and
+               Keji Huang and
+               Jiwu Shu},
+  title     = {Pacman: An Efficient Compaction Approach for {Log-Structured} {Key-Value} Store on Persistent Memory},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {773-788},
+}
+
+@inproceedings{DBLP:conf/usenix/Yan022,
+  author    = {Gang Yan and
+               Jian Li},
+  title     = {Towards Latency Awareness for Content Delivery Network Caching},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {789-804},
+}
+
+@inproceedings{DBLP:conf/usenix/XuH0YDWZPZV22,
+  author    = {Yunhong Xu and
+               Keqiang He and
+               Rui Wang and
+               Minlan Yu and
+               Nick Duffield and
+               Hassan M. G. Wassel and
+               Shidong Zhang and
+               Leon Poutievski and
+               Junlan Zhou and
+               Amin Vahdat},
+  title     = {Hashing Design in Modern Networks: Challenges and Mitigation Techniques},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {805-818},
+}
+
+@inproceedings{DBLP:conf/usenix/Cao000X022,
+  author    = {Jiamin Cao and
+               Yu Zhou and
+               Chen Sun and
+               Lin He and
+               Zhaowei Xi and
+               Ying Liu},
+  title     = {Firebolt: Finding Bugs in Programmable Data Plane Generators},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {819-834},
+}
+
+@inproceedings{DBLP:conf/usenix/LionCSY22,
+  author    = {David Lion and
+               Adrian Chiu and
+               Michael Stumm and
+               Ding Yuan},
+  title     = {Investigating Managed Language Runtime Performance: Why {JavaScript} and Python are 8x and 29x slower than C++, yet Java and Go can be Faster?},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {835-852},
+}
+
+@inproceedings{DBLP:conf/usenix/DuCSM22,
+  author    = {Yufei Du and
+               Ryan Court and
+               Kevin Z. Snow and
+               Fabian Monrose},
+  title     = {Automatic Recovery of Fine-grained Compiler Artifacts at the Binary Level},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {853-868},
+}
+
+@inproceedings{DBLP:conf/usenix/KhrabrovPSL22,
+  author    = {Alexy Khrabrov and
+               Marius Pirvu and
+               Vijay Sundaresan and
+               Eyal de Lara},
+  title     = {JITServer: Disaggregated Caching {JIT} Compiler for the {JVM} in the Cloud},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {869-884},
+}
+
+@inproceedings{DBLP:conf/usenix/CurtsingerB22,
+  author    = {Charlie Curtsinger and
+               Daniel W. Barowy},
+  title     = {Riker: {Always-Correct} and Fast Incremental Builds from Simple Specifications},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {885-898},
+}
+
+@inproceedings{DBLP:conf/usenix/CaiSTHY22,
+  author    = {Miao Cai and
+               Junru Shen and
+               Bin Tang and
+               Hao Huang and
+               Baoliu Ye},
+  title     = {FlatFS: Flatten Hierarchical File System Namespace on Non-volatile Memories},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {899-914},
+}
+
+@inproceedings{DBLP:conf/usenix/Wang0L0YD22,
+  author    = {Shucheng Wang and
+               Qiang Cao and
+               Ziyi Lu and
+               Hong Jiang and
+               Jie Yao and
+               Yuanyuan Dong},
+  title     = {StRAID: Stripe-threaded Architecture for Parity-based {RAIDs} with Ultra-fast {SSDs}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {915-932},
+}
+
+@inproceedings{DBLP:conf/usenix/KalbfleischWB22,
+  author    = {Samuel Kalbfleisch and
+               Lukas Werling and
+               Frank Bellosa},
+  title     = {Vinter: Automatic {Non-Volatile} Memory Crash Consistency Testing for Full Systems},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {933-950},
+}
+
+@inproceedings{DBLP:conf/usenix/LiLWLYS22,
+  author    = {Junru Li and
+               Youyou Lu and
+               Qing Wang and
+               Jiazhen Lin and
+               Zhe Yang and
+               Jiwu Shu},
+  title     = {AlNiCo: {SmartNIC-accelerated} Contention-aware Request Scheduling for Transaction Processing},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {951-966},
+}
+
+@inproceedings{DBLP:conf/usenix/WangH00A22,
+  author    = {Zeke Wang and
+               Hongjing Huang and
+               Jie Zhang and
+               Fei Wu and
+               Gustavo Alonso},
+  title     = {FpgaNIC: An {FPGA-based} Versatile 100Gb {SmartNIC} for {GPUs}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {967-986},
+}
+
+@inproceedings{DBLP:conf/usenix/BonolaBTBS0B22,
+  author    = {Marco Bonola and
+               Giacomo Belocchi and
+               Angelo Tulumello and
+               Marco Spaziani Brunella and
+               Giuseppe Siracusano and
+               Giuseppe Bianchi and
+               Roberto Bifulco},
+  title     = {Faster Software Packet Processing on {FPGA} {NICs} with {eBPF} Program Warping},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {987-1004},
+}
+
+@inproceedings{DBLP:conf/usenix/LuX0ZWZX0W22,
+  author    = {Ruiming Lu and
+               Erci Xu and
+               Yiming Zhang and
+               Zhaosheng Zhu and
+               Mengtian Wang and
+               Zongpeng Zhu and
+               Guangtao Xue and
+               Minglu Li and
+               Jiesheng Wu},
+  title     = {{NVMe} {SSD} Failures in the Field: the {Fail-Stop} and the {Fail-Slow}},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {1005-1020},
+}
+
+@inproceedings{DBLP:conf/usenix/YangPUMW22,
+  author    = {Tzu-Wei Yang and
+               Seth Pollen and
+               Mustafa Uysal and
+               Arif Merchant and
+               Homer Wolfmeister},
+  title     = {CacheSack: Admission Optimization for Google Datacenter Flash Caches},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {1021-1036},
+}
+
+@inproceedings{DBLP:conf/usenix/ElhemaliGGIKLMM22,
+  author    = {Mostafa Elhemali and
+               Niall Gallagher and
+               Nick Gordon and
+               Joseph Idziorek and
+               Richard Krog and
+               Colin Lazier and
+               Erben Mo and
+               Akhilesh Mritunjai and
+               Somasundaram Perianayagam and
+               Tim Rath and
+               Swami Sivasubramanian and
+               James Christopher Sorenson III and
+               Sroaj Sosothikul and
+               Doug Terry and
+               Akshat Vig},
+  title     = {Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed {NoSQL} Database Service},
+  booktitle = atc,
+  year      = 2022,
+  pages     = {1037-1048},
+}
+
 @inproceedings{DBLP:conf/usenix/TaranovBAH21,
   author    = {Konstantin Taranov and
                Rodrigo Bruno and
@@ -740,7 +1579,7 @@
 @inproceedings{DBLP:conf/usenix/KimCHJS21,
   author    = {Jongseok Kim and
                Cassiano Campes and
-               Joo-Young Hwang and
+               Joo Young Hwang and
                Jinkyu Jeong and
                Euiseong Seo},
   title     = {Z-Journal: Scalable {Per-Core} Journaling},
@@ -1033,7 +1872,7 @@
                Cody Hammock and
                Joe Mambretti and
                Alexander Barnes and
-               François Halbah and
+               François Halbach and
                Alex Rocha and
                Joe Stubbs},
   title     = {Lessons Learned from the Chameleon Testbed},
@@ -8543,7 +9382,7 @@
 }
 
 @inproceedings{DBLP:conf/usenix/BashF07,
-  author    = {Cullen Bash and
+  author    = {Cullen E. Bash and
                George Forman},
   title     = {Cool Job Allocation: Measuring the Power Savings of Placing Jobs at {Cooling-Efficient} Locations in the Data Center},
   booktitle = atc,
@@ -9190,7 +10029,7 @@
 }
 
 @inproceedings{DBLP:conf/usenix/GuffensB05,
-  author    = {V. Guffens and
+  author    = {Vincent Guffens and
                Georges Bastin},
   title     = {Running Virtualized Native Drivers in User Mode Linux},
   booktitle = atc,
@@ -11597,7 +12436,7 @@
 
 @inproceedings{DBLP:conf/usenix/YaghmourD00,
   author    = {Karim Yaghmour and
-               Michel Dagenais},
+               Michel R. Dagenais},
   title     = {Measuring and Characterizing System Behavior Using {Kernel-Level} Event Logging},
   booktitle = atc,
   year      = 2000,

@@ -1,5 +1,993 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pldi/LagunaLG22,
+  author    = {Ignacio Laguna and
+               Xinyi Li and
+               Ganesh Gopalakrishnan},
+  title     = {BinFPE: accurate floating-point exception detection for {GPU} applications},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/pldi/Xu0NH22,
+  author    = {Frank F. Xu and
+               Uri Alon and
+               Graham Neubig and
+               Vincent Josua Hellendoorn},
+  title     = {A systematic evaluation of large language models of code},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/pldi/SinkarovsS22,
+  author    = {Artjoms Sinkarovs and
+               Sven-Bodo Scholz},
+  title     = {Parallel scan as a multidimensional array problem},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/pldi/CrichtonPAH22,
+  author    = {Will Crichton and
+               Marco Patrignani and
+               Maneesh Agrawala and
+               Pat Hanrahan},
+  title     = {Modular information flow through ownership},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/pldi/LimKD22,
+  author    = {HeuiChan Lim and
+               Xiyu Kang and
+               Saumya Debray},
+  title     = {Modeling code manipulation in {JIT} compilers},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {9-15},
+}
+
+@inproceedings{DBLP:conf/pldi/SinghHLS22,
+  author    = {Shikhar Singh and
+               James Hegarty and
+               Hugh Leather and
+               Benoit Steiner},
+  title     = {A graph neural network-based performance model for deep learning applications},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/pldi/KharroubiCM22,
+  author    = {Michaël El Kharroubi and
+               Baptiste Coudray and
+               Orestis Malaspinas},
+  title     = {Distributed parallel computing with Futhark: a functional language to generate distributed parallel code},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {12-24},
+}
+
+@inproceedings{DBLP:conf/pldi/GuriaVGP22,
+  author    = {Sankha Narayan Guria and
+               Niki Vazou and
+               Marco Guarnieri and
+               James Parker},
+  title     = {ANOSY: approximated knowledge synthesis with refinement types for declassification},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {15-30},
+}
+
+@inproceedings{DBLP:conf/pldi/SuboticBS22,
+  author    = {Pavle Subotic and
+               Uros Bojanic and
+               Milan Stojic},
+  title     = {Statically detecting data leakages in data science code},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {16-22},
+}
+
+@inproceedings{DBLP:conf/pldi/0001KLRRSSA22,
+  author    = {Albert Ziegler and
+               Eirini Kalliamvakou and
+               X. Alice Li and
+               Andrew Rice and
+               Devon Rifkin and
+               Shawn Simister and
+               Ganesh Sittampalam and
+               Edward Aftandilian},
+  title     = {Productivity assessment of neural code completion},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {21-29},
+}
+
+@inproceedings{DBLP:conf/pldi/OlivieriTARNC0S22,
+  author    = {Luca Olivieri and
+               Fabio Tagliaferro and
+               Vincenzo Arceri and
+               Marco Ruaro and
+               Luca Negrini and
+               Agostino Cortesi and
+               Pietro Ferrara and
+               Fausto Spoto and
+               Enrico Talin},
+  title     = {Ensuring determinism in blockchain software with GoLiSA: an industrial experience report},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {23-29},
+}
+
+@inproceedings{DBLP:conf/pldi/LinD22,
+  author    = {Zhitao Lin and
+               Christophe Dubach},
+  title     = {From functional to imperative: combining destination-passing style and views},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/pldi/MisuJBBA22,
+  author    = {Md Rakib Hossain Misu and
+               Aleksandar Sasa Janjanin and
+               Zhiqiang Bian and
+               Valentin-Sebastian Burlacu and
+               Naum Anteski},
+  title     = {ADA: a tool for visualizing the architectural overview of open-source repositories},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {30-35},
+}
+
+@inproceedings{DBLP:conf/pldi/TangE22,
+  author    = {Hao Tang and
+               Kevin Ellis},
+  title     = {From perception to programs: regularize, overparameterize, and amortize},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {30-39},
+}
+
+@inproceedings{DBLP:conf/pldi/SwamyRRSNMVTCG22,
+  author    = {Nikhil Swamy and
+               Tahina Ramananandro and
+               Aseem Rastogi and
+               Irina Spiridonova and
+               Haobin Ni and
+               Dmitry Malloy and
+               Juan Vazquez and
+               Michael Tang and
+               Omar Cardona and
+               Arti Gupta},
+  title     = {Hardening attack surfaces with formally proven binary format parsers},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {31-45},
+}
+
+@inproceedings{DBLP:conf/pldi/BauMBB22,
+  author    = {Guillaume Bau and
+               Antoine Miné and
+               Vincent Botbol and
+               Mehdi Bouaziz},
+  title     = {Abstract interpretation of Michelson smart-contracts},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {36-43},
+}
+
+@inproceedings{DBLP:conf/pldi/OeverGV22,
+  author    = {Meggie van den Oever and
+               Lauren E. Grimley and
+               Richard Michael Veras},
+  title     = {Using q-learning to select the best among functionally equivalent implementations},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {37-45},
+}
+
+@inproceedings{DBLP:conf/pldi/NamR0Q022,
+  author    = {Daye Nam and
+               Baishakhi Ray and
+               Seohyun Kim and
+               Xianshan Qu and
+               Satish Chandra},
+  title     = {Predictive synthesis of {API-centric} code},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {40-49},
+}
+
+@inproceedings{DBLP:conf/pldi/SlagelMBMD0W22,
+  author    = {J. Tanner Slagel and
+               César Muñoz and
+               Swee Balachandran and
+               Mariano M. Moscato and
+               Aaron Dutle and
+               Paolo Masci and
+               Lauren White},
+  title     = {Towards an implementation of differential dynamic logic in {PVS}},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {44-50},
+}
+
+@inproceedings{DBLP:conf/pldi/Hoekstra22,
+  author    = {Conor Hoekstra},
+  title     = {Combinatory logic and combinators in array languages},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {46-57},
+}
+
+@inproceedings{DBLP:conf/pldi/GrewalDH22,
+  author    = {Karuna Grewal and
+               Loris D'Antoni and
+               Justin Hsu},
+  title     = {P4BID: information flow control in p4},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {46-60},
+}
+
+@inproceedings{DBLP:conf/pldi/Armengol-Estape22,
+  author    = {Jordi Armengol-Estapé and
+               Jackson Woodruff and
+               Alexander Brauckmann and
+               José Wesley de Souza Magalhães and
+               Michael F. P. O'Boyle},
+  title     = {ExeBench: an {ML-scale} dataset of executable C functions},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {50-59},
+}
+
+@inproceedings{DBLP:conf/pldi/DolbyTH22,
+  author    = {Julian Dolby and
+               Jason Tsay and
+               Martin Hirzel},
+  title     = {Automatically debugging {AutoML} pipelines using maro: {ML} automated remediation oracle},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {60-69},
+}
+
+@inproceedings{DBLP:conf/pldi/AndersonBW22,
+  author    = {Daniel Anderson and
+               Guy E. Blelloch and
+               Yuanhao Wei},
+  title     = {Turning manual concurrent memory reclamation into automatic reference counting},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {61-75},
+}
+
+@inproceedings{DBLP:conf/pldi/Rabin0A22,
+  author    = {Md. Rafiqul Islam Rabin and
+               Aftab Hussain and
+               Mohammad Amin Alipour},
+  title     = {Syntax-guided program reduction for understanding neural code intelligence models},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {70-79},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhaoBM22,
+  author    = {Wenyu Zhao and
+               Stephen M. Blackburn and
+               Kathryn S. McKinley},
+  title     = {Low-latency, high-throughput garbage collection},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {76-91},
+}
+
+@inproceedings{DBLP:conf/pldi/MaLWQBBKX22,
+  author    = {Haoran Ma and
+               Shi Liu and
+               Chenxi Wang and
+               Yifan Qiao and
+               Michael D. Bond and
+               Stephen M. Blackburn and
+               Miryung Kim and
+               Guoqing Harry Xu},
+  title     = {Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {92-107},
+}
+
+@inproceedings{DBLP:conf/pldi/DhulipalaB0022,
+  author    = {Laxman Dhulipala and
+               Guy E. Blelloch and
+               Yan Gu and
+               Yihan Sun},
+  title     = {PaC-trees: supporting parallel and compressed purely-functional collections},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {108-121},
+}
+
+@inproceedings{DBLP:conf/pldi/GuoCT0SP22,
+  author    = {Zheng Guo and
+               David Cao and
+               Davin Tjong and
+               Jean Yang and
+               Cole Schlesinger and
+               Nadia Polikarpova},
+  title     = {Type-directed program synthesis for {RESTful} {APIs}},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {122-136},
+}
+
+@inproceedings{DBLP:conf/pldi/ChenY022,
+  author    = {Yanju Chen and
+               Xifeng Yan and
+               Yu Feng},
+  title     = {Visualization question answering using introspective program synthesis},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {137-151},
+}
+
+@inproceedings{DBLP:conf/pldi/DongHLCW22,
+  author    = {Rui Dong and
+               Zhicheng Huang and
+               Ian Iong Lam and
+               Yan Chen and
+               Xinyu Wang},
+  title     = {WebRobot: web robotic process automation using interactive programming-by-demonstration},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {152-167},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhouBCW22,
+  author    = {Xiangyu Zhou and
+               Rastislav Bodík and
+               Alvin Cheung and
+               Chenglong Wang},
+  title     = {Synthesizing analytical {SQL} queries from computation demonstration},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {168-182},
+}
+
+@inproceedings{DBLP:conf/pldi/ChaliasosSSGLM22,
+  author    = {Stefanos Chaliasos and
+               Thodoris Sotiropoulos and
+               Diomidis Spinellis and
+               Arthur Gervais and
+               Benjamin Livshits and
+               Dimitris Mitropoulos},
+  title     = {Finding typing compiler bugs},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {183-198},
+}
+
+@inproceedings{DBLP:conf/pldi/FehrNRA0G22,
+  author    = {Mathieu Fehr and
+               Jeff Niu and
+               River Riddle and
+               Mehdi Amini and
+               Zhendong Su and
+               Tobias Grosser},
+  title     = {IRDL: an {IR} definition language for {SSA} compilers},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {199-212},
+}
+
+@inproceedings{DBLP:conf/pldi/ChoLLHL22,
+  author    = {Minki Cho and
+               Sung-Hwan Lee and
+               Dongjae Lee and
+               Chung-Kil Hur and
+               Ori Lahav},
+  title     = {Sequential reasoning for optimizing compilers under weak memory concurrency},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {213-228},
+}
+
+@inproceedings{DBLP:conf/pldi/ChoiFPS22,
+  author    = {Wonhyuk Choi and
+               Bernd Finkbeiner and
+               Ruzica Piskac and
+               Mark Santolucito},
+  title     = {Can reactive synthesis and syntax-guided synthesis be friends?},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {229-243},
+}
+
+@inproceedings{DBLP:conf/pldi/FarzanLN22,
+  author    = {Azadeh Farzan and
+               Danya Lette and
+               Victor Nicolet},
+  title     = {Recursion synthesis with unrealizability witnesses},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {244-259},
+}
+
+@inproceedings{DBLP:conf/pldi/BendrissouGZ22,
+  author    = {Bachir Bendrissou and
+               Rahul Gopinath and
+               Andreas Zeller},
+  title     = {"Synthesizing input grammars": a replication study},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {260-268},
+}
+
+@inproceedings{DBLP:conf/pldi/AhrensKA22,
+  author    = {Peter Ahrens and
+               Fredrik Kjolstad and
+               Saman P. Amarasinghe},
+  title     = {Autoscheduling for sparse tensor algebra with an asymptotic cost model},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {269-285},
+}
+
+@inproceedings{DBLP:conf/pldi/YadavAK22,
+  author    = {Rohan Yadav and
+               Alex Aiken and
+               Fredrik Kjolstad},
+  title     = {DISTAL: the distributed tensor algebra compiler},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {286-300},
+}
+
+@inproceedings{DBLP:conf/pldi/ChenMA22,
+  author    = {Yishen Chen and
+               Charith Mendis and
+               Saman P. Amarasinghe},
+  title     = {All you need is superword-level parallelism: systematic control-flow vectorization with {SLP}},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {301-315},
+}
+
+@inproceedings{DBLP:conf/pldi/MorelliR22,
+  author    = {Canberk Morelli and
+               Jan Reineke},
+  title     = {Warping cache simulation of polyhedral programs},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {316-331},
+}
+
+@inproceedings{DBLP:conf/pldi/Soundarapandian22,
+  author    = {Vimala Soundarapandian and
+               Adharsh Kamath and
+               Kartik Nagar and
+               K. C. Sivaramakrishnan},
+  title     = {Certified mergeable replicated data types},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {332-347},
+}
+
+@inproceedings{DBLP:conf/pldi/HoushmandSL22,
+  author    = {Farzin Houshmand and
+               Javad Saberlatibari and
+               Mohsen Lesani},
+  title     = {Hamband: {RDMA} replicated data types},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {348-363},
+}
+
+@inproceedings{DBLP:conf/pldi/KakiPL22,
+  author    = {Gowtham Kaki and
+               Prasanth Prahladan and
+               Nicholas V. Lewchenko},
+  title     = {{RunTime-assisted} convergence in replicated data types},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {364-378},
+}
+
+@inproceedings{DBLP:conf/pldi/HonoreSKS22,
+  author    = {Wolf Honoré and
+               Ji-Yong Shin and
+               Jieung Kim and
+               Zhong Shao},
+  title     = {Adore: atomic distributed objects with certified reconfiguration},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {379-394},
+}
+
+@inproceedings{DBLP:conf/pldi/JonesOR22,
+  author    = {Eddie Jones and
+               C.-H. Luke Ong and
+               Steven J. Ramsay},
+  title     = {CycleQ: an efficient basis for cyclic equational reasoning},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {395-409},
+}
+
+@inproceedings{DBLP:conf/pldi/0002P22,
+  author    = {Daniel Lehmann and
+               Michael Pradel},
+  title     = {Finding the dwarf: recovering precise types from {WebAssembly} binaries},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {410-425},
+}
+
+@inproceedings{DBLP:conf/pldi/BruniGGR22,
+  author    = {Roberto Bruni and
+               Roberto Giacobazzi and
+               Roberta Gori and
+               Francesco Ranzato},
+  title     = {Abstract interpretation repair},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {426-441},
+}
+
+@inproceedings{DBLP:conf/pldi/ZikelicCBR22,
+  author    = {Dorde Zikelic and
+               Bor-Yuh Evan Chang and
+               Pauline Bolignano and
+               Franco Raimondi},
+  title     = {Differential cost analysis with simultaneous potentials and anti-potentials},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {442-457},
+}
+
+@inproceedings{DBLP:conf/pldi/MilanoTM22,
+  author    = {Mae Milano and
+               Joshua Turcotti and
+               Andrew C. Myers},
+  title     = {A flexible type system for fearless concurrency},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {458-473},
+}
+
+@inproceedings{DBLP:conf/pldi/ChabbiR22,
+  author    = {Milind Chabbi and
+               Murali Krishna Ramanathan},
+  title     = {A study of real-world data races in Golang},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {474-489},
+}
+
+@inproceedings{DBLP:conf/pldi/GorjiaraLLXD22,
+  author    = {Hamed Gorjiara and
+               Weiyu Luo and
+               Alex Lee and
+               Guoqing Harry Xu and
+               Brian Demsky},
+  title     = {Checking robustness to weak persistency models},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {490-505},
+}
+
+@inproceedings{DBLP:conf/pldi/FarzanKP22,
+  author    = {Azadeh Farzan and
+               Dominik Klumpp and
+               Andreas Podelski},
+  title     = {Sound sequentialization for concurrent program verification},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {506-521},
+}
+
+@inproceedings{DBLP:conf/pldi/BriggsP22,
+  author    = {Ian Briggs and
+               Pavel Panchekha},
+  title     = {Choosing mathematical function implementations for speed and accuracy},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {522-535},
+}
+
+@inproceedings{DBLP:conf/pldi/BeutnerOZ22,
+  author    = {Raven Beutner and
+               C.-H. Luke Ong and
+               Fabian Zaiser},
+  title     = {Guaranteed bounds for posterior inference in universal probabilistic programming},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {536-551},
+}
+
+@inproceedings{DBLP:conf/pldi/AanjaneyaLN22,
+  author    = {Mridul Aanjaneya and
+               Jay P. Lim and
+               Santosh Nagarakatte},
+  title     = {Progressive polynomial approximations for fast correctly rounded math libraries},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {552-565},
+}
+
+@inproceedings{DBLP:conf/pldi/SchusterB0O22,
+  author    = {Philipp Schuster and
+               Jonathan Immanuel Brachthäuser and
+               Marius Müller and
+               Klaus Ostermann},
+  title     = {A typed continuation-passing translation for lexical effect handlers},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {566-579},
+}
+
+@inproceedings{DBLP:conf/pldi/Greenman22,
+  author    = {Ben Greenman},
+  title     = {Deep and shallow types for gradual languages},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {580-593},
+}
+
+@inproceedings{DBLP:conf/pldi/0002BC22,
+  author    = {Michael Greenberg and
+               Ryan Beckett and
+               Eric Hayden Campbell},
+  title     = {Kleene algebra modulo theories: a framework for concrete {KATs}},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {594-608},
+}
+
+@inproceedings{DBLP:conf/pldi/0001MWA22,
+  author    = {Daniel Patterson and
+               Noble Mushtak and
+               Andrew Wagner and
+               Amal Ahmed},
+  title     = {Semantic soundness for language interoperability},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {609-624},
+}
+
+@inproceedings{DBLP:conf/pldi/XuLPLPHMPAAJ22,
+  author    = {Mingkuan Xu and
+               Zikun Li and
+               Oded Padon and
+               Sina Lin and
+               Jessica Pointing and
+               Auguste Hirth and
+               Henry Ma and
+               Jens Palsberg and
+               Alex Aiken and
+               Umut A. Acar and
+               Zhihao Jia},
+  title     = {Quartz: superoptimization of Quantum circuits},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {625-640},
+}
+
+@inproceedings{DBLP:conf/pldi/TaoSYLJCCG22,
+  author    = {Runzhou Tao and
+               Yunong Shi and
+               Jianan Yao and
+               Xupeng Li and
+               Ali Javadi-Abhari and
+               Andrew W. Cross and
+               Frederic T. Chong and
+               Ronghui Gu},
+  title     = {Giallar: push-button verification for the qiskit Quantum compiler},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {641-656},
+}
+
+@inproceedings{DBLP:conf/pldi/PengYW22,
+  author    = {Yuxiang Peng and
+               Mingsheng Ying and
+               Xiaodi Wu},
+  title     = {Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {657-670},
+}
+
+@inproceedings{DBLP:conf/pldi/0001TKVSH22,
+  author    = {Michael Christensen and
+               Georgios Tzimpragos and
+               Harlan Kringen and
+               Jennifer Volk and
+               Timothy Sherwood and
+               Ben Hardekopf},
+  title     = {PyLSE: a pulse-transfer level language for superconductor electronics},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {671-686},
+}
+
+@inproceedings{DBLP:conf/pldi/WoodruffAAO22,
+  author    = {Jackson Woodruff and
+               Jordi Armengol-Estapé and
+               Sam Ainsworth and
+               Michael F. P. O'Boyle},
+  title     = {Bind the gap: compiling real software to hardware {FFT} accelerators},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {687-702},
+}
+
+@inproceedings{DBLP:conf/pldi/IkarashiBRGR22,
+  author    = {Yuka Ikarashi and
+               Gilbert Louis Bernstein and
+               Alex Reinking and
+               Hasan Genc and
+               Jonathan Ragan-Kelley},
+  title     = {Exocompilation for productive programming of hardware accelerators},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {703-718},
+}
+
+@inproceedings{DBLP:conf/pldi/ZagieboyloSSM22,
+  author    = {Drew Zagieboylo and
+               Charles Sherk and
+               Gookwon Edward Suh and
+               Andrew C. Myers},
+  title     = {PDL: a high-level hardware design language for pipelined processors},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {719-732},
+}
+
+@inproceedings{DBLP:conf/pldi/KongYCGHM022,
+  author    = {Lingkun Kong and
+               Qixuan Yu and
+               Agnishom Chattopadhyay and
+               Alexis Le Glaunec and
+               Yi Huang and
+               Konstantinos Mamouras and
+               Kaiyuan Yang},
+  title     = {Software-hardware codesign for efficient in-memory regular pattern matching},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {733-748},
+}
+
+@inproceedings{DBLP:conf/pldi/FluckigerJKV22,
+  author    = {Olivier Flückiger and
+               Jan Jecmen and
+               Sebastián Krynski and
+               Jan Vitek},
+  title     = {Deoptless: speculation with dispatched on-stack replacement and specialized continuations},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {749-761},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhangHD22,
+  author    = {Chenhao Zhang and
+               Jason D. Hartline and
+               Christos Dimoulas},
+  title     = {Karp: a language for {NP} reductions},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {762-776},
+}
+
+@inproceedings{DBLP:conf/pldi/KortbeekGHCP22,
+  author    = {Vito Kortbeek and
+               Souradip Ghosh and
+               Josiah D. Hester and
+               Simone Campanoni and
+               Przemyslaw Pawelczak},
+  title     = {WARio: efficient code generation for intermittent computing},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {777-791},
+}
+
+@inproceedings{DBLP:conf/pldi/DangJCNMKD22,
+  author    = {Hoang-Hai Dang and
+               Jaehwang Jung and
+               Jaemin Choi and
+               Duc-Than Nguyen and
+               William Mansky and
+               Jeehoon Kang and
+               Derek Dreyer},
+  title     = {Compass: strong and compositional library specifications in relaxed memory separation logic},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {792-808},
+}
+
+@inproceedings{DBLP:conf/pldi/MulderKG22,
+  author    = {Ike Mulder and
+               Robbert Krebbers and
+               Herman Geuvers},
+  title     = {Diaframe: automated verification of fine-grained concurrent programs in Iris},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {809-824},
+}
+
+@inproceedings{DBLP:conf/pldi/SammlerHL0PD0S22,
+  author    = {Michael Sammler and
+               Angus Hammond and
+               Rodolphe Lepigre and
+               Brian Campbell and
+               Jean Pichon-Pharabod and
+               Derek Dreyer and
+               Deepak Garg and
+               Peter Sewell},
+  title     = {Islaris: verification of machine code against authoritative {ISA} semantics},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {825-840},
+}
+
+@inproceedings{DBLP:conf/pldi/MatsushitaDJD22,
+  author    = {Yusuke Matsushita and
+               Xavier Denis and
+               Jacques-Henri Jourdan and
+               Derek Dreyer},
+  title     = {RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {841-856},
+}
+
+@inproceedings{DBLP:conf/pldi/AhmadiDGP22,
+  author    = {Ali Ahmadi and
+               Majid Daliri and
+               Amir Kafshdar Goharshady and
+               Andreas Pavlogiannis},
+  title     = {Efficient approximations for cache-conscious data placement},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {857-871},
+}
+
+@inproceedings{DBLP:conf/pldi/TangZWJZYZ22,
+  author    = {Shizhi Tang and
+               Jidong Zhai and
+               Haojie Wang and
+               Lin Jiang and
+               Liyan Zheng and
+               Zhenhao Yuan and
+               Chen Zhang},
+  title     = {FreeTensor: a free-form {DSL} with holistic optimizations for irregular tensor programs},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {872-887},
+}
+
+@inproceedings{DBLP:conf/pldi/RochaS0GSCB22,
+  author    = {Rodrigo C. O. Rocha and
+               Dennis Sprokholt and
+               Martin Fink and
+               Redha Gouicem and
+               Tom Spink and
+               Soham Chakraborty and
+               Pramod Bhatotia},
+  title     = {Lasagne: a static binary translator for weak memory model architectures},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {888-902},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhaL022,
+  author    = {Junpeng Zha and
+               Hongjin Liang and
+               Xinyu Feng},
+  title     = {Verifying optimizations of concurrent programs in the promising semantics},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {903-917},
+}
+
+@inproceedings{DBLP:conf/pldi/Pit-ClaudelPJEC22,
+  author    = {Clément Pit-Claudel and
+               Jade Philipoom and
+               Dustin Jamner and
+               Andres Erbsen and
+               Adam Chlipala},
+  title     = {Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {918-933},
+}
+
+@inproceedings{DBLP:conf/pldi/VerbeekBFR22,
+  author    = {Freek Verbeek and
+               Joshua A. Bockenek and
+               Zhoulai Fu and
+               Binoy Ravindran},
+  title     = {Formally verified lifting of C-compiled x86-64 binaries},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {934-949},
+}
+
+@inproceedings{DBLP:conf/pldi/DoengesKSFM22,
+  author    = {Ryan Doenges and
+               Tobias Kappé and
+               John Sarracino and
+               Nate Foster and
+               Greg Morrisett},
+  title     = {Leapfrog: certified equivalence for protocol parsers},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {950-965},
+}
+
+@inproceedings{DBLP:conf/pldi/Paraskevopoulou22,
+  author    = {Zoe Paraskevopoulou and
+               Aaron Eline and
+               Leonidas Lampropoulos},
+  title     = {Computing correctly with inductive relations},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {966-980},
+}
+
+@inproceedings{DBLP:conf/pldi/PolitoDT22,
+  author    = {Guillermo Polito and
+               Stéphane Ducasse and
+               Pablo Tesone},
+  title     = {Interpreter-guided differential {JIT} compiler unit testing},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {981-992},
+}
+
+@inproceedings{DBLP:conf/pldi/ParthasarathyPK22,
+  author    = {Suresh Parthasarathy and
+               Lincy Pattanaik and
+               Anirudh Khatry and
+               Arun Shankar Iyer and
+               Arjun Radhakrishna and
+               Sriram K. Rajamani and
+               Mohammad Raza},
+  title     = {Landmarks and regions: a robust approach to data extraction},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {993-1009},
+}
+
+@inproceedings{DBLP:conf/pldi/WangLZWX022,
+  author    = {Mingzhe Wang and
+               Jie Liang and
+               Chijin Zhou and
+               Zhiyong Wu and
+               Xinyi Xu and
+               Yu Jiang},
+  title     = {Odin: on-demand instrumentation with on-the-fly recompilation},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {1010-1024},
+}
+
+@inproceedings{DBLP:conf/pldi/OConnorW22,
+  author    = {Liam O'Connor and
+               Oskar Wickström},
+  title     = {Quickstrom: property-based acceptance testing with {LTL} specifications},
+  booktitle = pldi,
+  year      = 2022,
+  pages     = {1025-1038},
+}
+
 @inproceedings{DBLP:conf/pldi/FerraraNAC21,
   author    = {Pietro Ferrara and
                Luca Negrini and
@@ -83,7 +1071,7 @@
 
 @inproceedings{DBLP:conf/pldi/ChoLRK21,
   author    = {Kyeongmin Cho and
-               Sung Hwan Lee and
+               Sung-Hwan Lee and
                Azalea Raad and
                Jeehoon Kang},
   title     = {Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8},
@@ -637,7 +1625,7 @@
 @inproceedings{DBLP:conf/pldi/StanfordVB21,
   author    = {Caleb Stanford and
                Margus Veanes and
-               Nikolaj Bjørner},
+               Nikolaj S. Bjørner},
   title     = {Symbolic Boolean derivatives for efficiently solving extended regular expression constraints},
   booktitle = pldi,
   year      = 2021,
@@ -1700,7 +2688,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Boehm20,
-  author    = {Hans-J. Boehm},
+  author    = {Hans-Juergen Boehm},
   title     = {Towards an {API} for the real numbers},
   booktitle = pldi,
   year      = 2020,
@@ -2178,7 +3166,7 @@
   author    = {Christopher Pulte and
                Jean Pichon-Pharabod and
                Jeehoon Kang and
-               Sung Hwan Lee and
+               Sung-Hwan Lee and
                Chung-Kil Hur},
   title     = {Promising-ARM/RISC-V: a simpler and faster operational concurrency model},
   booktitle = pldi,
@@ -3467,7 +4455,7 @@
                Armando Solar-Lezama and
                Nesime Tatbul and
                Michael Carbin and
-               Martin Rinard and
+               Martin C. Rinard and
                Regina Barzilay and
                Saman P. Amarasinghe and
                Joshua B. Tenenbaum and
@@ -3586,7 +4574,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/MilanoM18,
-  author    = {Matthew Milano and
+  author    = {Mae Milano and
                Andrew C. Myers},
   title     = {MixT: a language for mixing consistency in geodistributed transactions},
   booktitle = pldi,
@@ -3831,7 +4819,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Cusumano-Towner18a,
-  author    = {Marco Cusumano-Towner and
+  author    = {Marco F. Cusumano-Towner and
                Benjamin Bichsel and
                Timon Gehr and
                Martin T. Vechev and
@@ -3861,7 +4849,7 @@
                Shivam Handa and
                Alexey Radul and
                Yutian Chen and
-               Martin Rinard},
+               Martin C. Rinard},
   title     = {Probabilistic programming with programmable inference},
   booktitle = pldi,
   year      = 2018,
@@ -3869,7 +4857,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/BohrerTMMP18,
-  author    = {Brandon Bohrer and
+  author    = {Rose Bohrer and
                Yong Kiam Tan and
                Stefan Mitsch and
                Magnus O. Myreen and
@@ -5418,7 +6406,7 @@
 
 @inproceedings{DBLP:conf/pldi/GleissenthallBR16,
   author    = {Klaus von Gleissenthall and
-               Nikolaj Bjørner and
+               Nikolaj S. Bjørner and
                Andrey Rybalchenko},
   title     = {Cardinalities and universal quantifiers for verifying parameterized systems},
   booktitle = pldi,
@@ -5800,7 +6788,7 @@
   author    = {Stelios Sidiroglou-Douskos and
                Eric Lahtinen and
                Fan Long and
-               Martin Rinard},
+               Martin C. Rinard},
   title     = {Automatic error elimination by horizontal code transfer across multiple applications},
   booktitle = pldi,
   year      = 2015,
@@ -7146,7 +8134,7 @@
 
 @inproceedings{DBLP:conf/pldi/BallBGIKSSV14,
   author    = {Thomas Ball and
-               Nikolaj Bjørner and
+               Nikolaj S. Bjørner and
                Aaron Gember and
                Shachar Itzhaky and
                Aleksandr Karbyshev and
@@ -12505,7 +13493,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/BlackburnJMM02,
-  author    = {Stephen Blackburn and
+  author    = {Stephen M. Blackburn and
                Richard E. Jones and
                Kathryn S. McKinley and
                J. Eliot B. Moss},
@@ -13005,7 +13993,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/KesslerB01,
-  author    = {Christoph Keßler and
+  author    = {Christoph W. Keßler and
                Andrzej Bednarski},
   title     = {A Dynamic Programming Approach to Optimal Integrated Code Generation},
   booktitle = pldi,
@@ -13747,7 +14735,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Pugh99,
-  author    = {William Pugh},
+  author    = {William W. Pugh},
   title     = {Compressing Java Class Files},
   booktitle = pldi,
   year      = 1999,
@@ -15111,7 +16099,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Pugh94,
-  author    = {William Pugh},
+  author    = {William W. Pugh},
   title     = {Counting Solutions to Presburger Formulas: How and Why},
   booktitle = pldi,
   year      = 1994,
@@ -15709,7 +16697,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/PughW92,
-  author    = {William Pugh and
+  author    = {William W. Pugh and
                David Wonnacott},
   title     = {Eliminating False Data Dependences using the Omega Test},
   booktitle = pldi,
@@ -16148,7 +17136,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Pugh91,
-  author    = {William Pugh},
+  author    = {William W. Pugh},
   title     = {Advice to Authors of Extended Abstracts},
   booktitle = pldi,
   year      = 1991,
@@ -16252,7 +17240,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/PughW90,
-  author    = {William Pugh and
+  author    = {William W. Pugh and
                Grant E. Weddell},
   title     = {{Two-Directional} Record Layout for Multiple Inheritance},
   booktitle = pldi,

@@ -1,5 +1,1008 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/crypto/Chairattana-Apirom22,
+  author    = {Rutchathon Chairattana-Apirom and
+               Lucjan Hanzlik and
+               Julian Loss and
+               Anna Lysyanskaya and
+               Benedikt Wagner},
+  title     = {{PI-Cut-Choo} and Friends: Compact Blind Signatures via Parallel Instance {Cut-and-Choose} and More},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {3-31},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalPS22,
+  author    = {Vipul Goyal and
+               Antigoni Polychroniadou and
+               Yifan Song},
+  title     = {Sharing Transformation and Dishonest Majority {MPC} with Packed Secret Sharing},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/crypto/NiuSLL22,
+  author    = {Zhongfeng Niu and
+               Siwei Sun and
+               Yunwen Liu and
+               Chao Li},
+  title     = {Rotational {Differential-Linear} Distinguishers of {ARX} Ciphers with Arbitrary Output Linear Masks},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/crypto/CanettiJSV22,
+  author    = {Ran Canetti and
+               Palak Jain and
+               Marika Swanberg and
+               Mayank Varia},
+  title     = {Universally Composable {End-to-End} Secure Messaging},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {3-33},
+}
+
+@inproceedings{DBLP:conf/crypto/ApplebaumKP22,
+  author    = {Benny Applebaum and
+               Eliran Kachlon and
+               Arpita Patra},
+  title     = {Verifiable Relation Sharing and Multi-verifier {Zero-Knowledge} in Two Rounds: Trading {NIZKs} with Honest Majority -},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {33-56},
+}
+
+@inproceedings{DBLP:conf/crypto/RaneaVP22,
+  author    = {Adrián Ranea and
+               Joachim Vandersmissen and
+               Bart Preneel},
+  title     = {Implicit {White-Box} Implementations: {White-Boxing} {ARX} Ciphers},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {33-63},
+}
+
+@inproceedings{DBLP:conf/crypto/AlwenJM22,
+  author    = {Joël Alwen and
+               Daniel Jost and
+               Marta Mularczyk},
+  title     = {On the Insider Security of {MLS}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {34-68},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry22,
+  author    = {Mark Zhandry},
+  title     = {Augmented Random Oracles},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {35-65},
+}
+
+@inproceedings{DBLP:conf/crypto/DittmerILO22,
+  author    = {Samuel Dittmer and
+               Yuval Ishai and
+               Steve Lu and
+               Rafail Ostrovsky},
+  title     = {Authenticated Garbling from Simple Correlations},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {57-87},
+}
+
+@inproceedings{DBLP:conf/crypto/BaoGST22,
+  author    = {Zhenzhen Bao and
+               Jian Guo and
+               Danping Shi and
+               Yi Tu},
+  title     = {Superposition {Meet-in-the-Middle} Attacks: Updates on Fundamental Security of {AES-like} Hashing},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {64-93},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry22a,
+  author    = {Mark Zhandry},
+  title     = {To Label, or Not To Label (in Generic Groups)},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {66-96},
+}
+
+@inproceedings{DBLP:conf/crypto/LyubashevskyNP22,
+  author    = {Vadim Lyubashevsky and
+               Ngoc Khanh Nguyen and
+               Maxime Plançon},
+  title     = {{Lattice-Based} {Zero-Knowledge} Proofs and Applications: Shorter, Simpler, and More General},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {71-101},
+}
+
+@inproceedings{DBLP:conf/crypto/MinaudR22,
+  author    = {Brice Minaud and
+               Michael Reichle},
+  title     = {Dynamic Local Searchable Symmetric Encryption},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {91-120},
+}
+
+@inproceedings{DBLP:conf/crypto/DongGLP22,
+  author    = {Xiaoyang Dong and
+               Jian Guo and
+               Shun Li and
+               Phuong Pham},
+  title     = {Triangulating Rebound Attack on {AES-like} Hashing},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {94-124},
+}
+
+@inproceedings{DBLP:conf/crypto/HaitnerNY22,
+  author    = {Iftach Haitner and
+               Daniel Nukrai and
+               Eylon Yogev},
+  title     = {Lower Bound on {SNARGs} in the Random Oracle Model},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {97-127},
+}
+
+@inproceedings{DBLP:conf/crypto/AlbrechtCLMT22,
+  author    = {Martin R. Albrecht and
+               Valerio Cini and
+               Russell W. F. Lai and
+               Giulio Malavolta and
+               Sri Aravinda Krishnan Thyagarajan},
+  title     = {{Lattice-Based} SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable -},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {102-132},
+}
+
+@inproceedings{DBLP:conf/crypto/BoyleGIK22,
+  author    = {Elette Boyle and
+               Niv Gilboa and
+               Yuval Ishai and
+               Victor I. Kolobov},
+  title     = {Programmable Distributed Point Functions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {121-151},
+}
+
+@inproceedings{DBLP:conf/crypto/NielsenRO22,
+  author    = {Jesper Buus Nielsen and
+               João L. Ribeiro and
+               Maciej Obremski},
+  title     = {Public Randomness Extraction with Ephemeral Roles and {Worst-Case} Corruptions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {127-147},
+}
+
+@inproceedings{DBLP:conf/crypto/FreitagGK22,
+  author    = {Cody Freitag and
+               Ashrujit Ghoshal and
+               Ilan Komargodski},
+  title     = {{Time-Space} Tradeoffs for Sponge Hashing: Attacks and Limitations for Short Collisions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {131-160},
+}
+
+@inproceedings{DBLP:conf/crypto/NguyenS22,
+  author    = {Ngoc Khanh Nguyen and
+               Gregor Seiler},
+  title     = {Practical Sublinear Proofs for R1{CS} from Lattices},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {133-162},
+}
+
+@inproceedings{DBLP:conf/crypto/BallDL22,
+  author    = {Marshall Ball and
+               Dana Dachman-Soled and
+               Julian Loss},
+  title     = {(Nondeterministic) Hardness vs. Non-malleability},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {148-177},
+}
+
+@inproceedings{DBLP:conf/crypto/DuGG22,
+  author    = {Yang Du and
+               Daniel Genkin and
+               Paul Grubbs},
+  title     = {{Snapshot-Oblivious} RAMs: Sub-logarithmic Efficiency for Short Transcripts},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {152-181},
+}
+
+@inproceedings{DBLP:conf/crypto/GhoshalK22,
+  author    = {Ashrujit Ghoshal and
+               Ilan Komargodski},
+  title     = {On {Time-Space} Tradeoffs for {Bounded-Length} Collisions in Merkle-Damgård Hashing},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {161-191},
+}
+
+@inproceedings{DBLP:conf/crypto/AustrinCCFLM22,
+  author    = {Per Austrin and
+               Hao Chung and
+               Kai-Min Chung and
+               Shiuan Fu and
+               Yao-Ting Lin and
+               Mohammad Mahmoody},
+  title     = {On the Impossibility of Key Agreements from Quantum Random Oracles},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {165-194},
+}
+
+@inproceedings{DBLP:conf/crypto/ChandranKOS22,
+  author    = {Nishanth Chandran and
+               Bhavana Kanukurthi and
+               Sai Lakshmi Bhavana Obbattu and
+               Sruthi Sekar},
+  title     = {Short Leakage Resilient and Non-malleable Secret Sharing Schemes},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {178-207},
+}
+
+@inproceedings{DBLP:conf/crypto/LefevreM22,
+  author    = {Charlotte Lefevre and
+               Bart Mennink},
+  title     = {Tight Preimage Resistance of the Sponge Construction},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {185-204},
+}
+
+@inproceedings{DBLP:conf/crypto/AkshimaGL22,
+  author    = {Akshima and
+               Siyao Guo and
+               Qipeng Liu},
+  title     = {{Time-Space} Lower Bounds for Finding Collisions in Merkle-Damgård Hash Functions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {192-221},
+}
+
+@inproceedings{DBLP:conf/crypto/BartusekKLMMVVY22,
+  author    = {James Bartusek and
+               Yael Tauman Kalai and
+               Alex Lombardi and
+               Fermi Ma and
+               Giulio Malavolta and
+               Vinod Vaikuntanathan and
+               Thomas Vidick and
+               Lisa Yang},
+  title     = {Succinct Classical Verification of Quantum Computation},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {195-211},
+}
+
+@inproceedings{DBLP:conf/crypto/Gunsing22,
+  author    = {Aldo Gunsing},
+  title     = {{Block-Cipher-Based} Tree Hashing},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {205-233},
+}
+
+@inproceedings{DBLP:conf/crypto/AnanthQY22,
+  author    = {Prabhanjan Ananth and
+               Luowen Qian and
+               Henry Yuen},
+  title     = {Cryptography from Pseudorandom Quantum States},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {208-236},
+}
+
+@inproceedings{DBLP:conf/crypto/AnanthKLLZ22,
+  author    = {Prabhanjan Ananth and
+               Fatih Kaleoglu and
+               Xingjian Li and
+               Qipeng Liu and
+               Mark Zhandry},
+  title     = {On the Feasibility of Unclonable Encryption, and More},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {212-241},
+}
+
+@inproceedings{DBLP:conf/crypto/BlockiH22,
+  author    = {Jeremiah Blocki and
+               Blake Holman},
+  title     = {Sustained Space and Cumulative Complexity {Trade-Offs} for {Data-Dependent} {Memory-Hard} Functions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {222-251},
+}
+
+@inproceedings{DBLP:conf/crypto/BeyneC22,
+  author    = {Tim Beyne and
+               Yu Long Chen},
+  title     = {Provably Secure Reflection Ciphers},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {234-263},
+}
+
+@inproceedings{DBLP:conf/crypto/HirokaMNY22,
+  author    = {Taiga Hiroka and
+               Tomoyuki Morimae and
+               Ryo Nishimaki and
+               Takashi Yamakawa},
+  title     = {Certified Everlasting {Zero-Knowledge} Proof for {QMA}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {239-268},
+}
+
+@inproceedings{DBLP:conf/crypto/EspitauTWY22,
+  author    = {Thomas Espitau and
+               Mehdi Tibouchi and
+               Alexandre Wallet and
+               Yang Yu},
+  title     = {Shorter {Hash-and-Sign} {Lattice-Based} Signatures},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {245-275},
+}
+
+@inproceedings{DBLP:conf/crypto/CohenN22,
+  author    = {Shahar P. Cohen and
+               Moni Naor},
+  title     = {Low Communication Complexity Protocols, Collision Resistant Hash Functions and Secret {Key-Agreement} Protocols},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {252-281},
+}
+
+@inproceedings{DBLP:conf/crypto/DegabrieleK22,
+  author    = {Jean Paul Degabriele and
+               Vukasin Karadzic},
+  title     = {Overloading the Nonce: Rugged PRPs, {Nonce-Set} AEAD, and {Order-Resilient} Channels},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {264-295},
+}
+
+@inproceedings{DBLP:conf/crypto/MorimaeY22,
+  author    = {Tomoyuki Morimae and
+               Takashi Yamakawa},
+  title     = {Quantum Commitments and Signatures Without {One-Way} Functions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {269-295},
+}
+
+@inproceedings{DBLP:conf/crypto/BoschiniTT22,
+  author    = {Cecilia Boschini and
+               Akira Takahashi and
+               Mehdi Tibouchi},
+  title     = {MuSig-L: {Lattice-Based} Multi-signature with {Single-Round} Online Phase},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {276-305},
+}
+
+@inproceedings{DBLP:conf/crypto/SantosCS22,
+  author    = {Maria Corte-Real Santos and
+               Craig Costello and
+               Jia Shi},
+  title     = {Accelerating the {Delfs-Galbraith} Algorithm with Fast Subfield Root Detection},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {285-314},
+}
+
+@inproceedings{DBLP:conf/crypto/Shmueli22,
+  author    = {Omri Shmueli},
+  title     = {Semi-quantum Tokenized Signatures},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {296-319},
+}
+
+@inproceedings{DBLP:conf/crypto/XieZS22,
+  author    = {Tiancheng Xie and
+               Yupeng Zhang and
+               Dawn Song},
+  title     = {Orion: Zero Knowledge Proof with Linear Prover Time},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {299-328},
+}
+
+@inproceedings{DBLP:conf/crypto/PinoK22,
+  author    = {Rafaël del Pino and
+               Shuichi Katsumata},
+  title     = {A New Framework for More Efficient {Round-Optimal} {Lattice-Based} (Partially) Blind Signature via Trapdoor Sampling},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {306-336},
+}
+
+@inproceedings{DBLP:conf/crypto/NaitoSS22,
+  author    = {Yusuke Naito and
+               Yu Sasaki and
+               Takeshi Sugawara},
+  title     = {Secret Can Be Public: {Low-Memory} {AEAD} Mode for {High-Order} Masking},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {315-345},
+}
+
+@inproceedings{DBLP:conf/crypto/GarimellaRS22,
+  author    = {Gayathri Garimella and
+               Mike Rosulek and
+               Jaspal Singh},
+  title     = {{Structure-Aware} Private Set Intersection, with Applications to Fuzzy Matching},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {323-352},
+}
+
+@inproceedings{DBLP:conf/crypto/BaumBMS22,
+  author    = {Carsten Baum and
+               Lennart Braun and
+               Alexander Munch-Hansen and
+               Peter Scholl},
+  title     = {Moz$\mathbb {Z}_{2^k}$arella: Efficient Vector-OLE and Zero-Knowledge Proofs over $\mathbb {Z}_{2^k}$},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {329-358},
+}
+
+@inproceedings{DBLP:conf/crypto/FitziKPR22,
+  author    = {Matthias Fitzi and
+               Aggelos Kiayias and
+               Giorgos Panagiotakos and
+               Alexander Russell},
+  title     = {Ofelimos: Combinatorial Optimization via {Proof-of-Useful-Work} - A Provably Secure Blockchain Protocol},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {339-369},
+}
+
+@inproceedings{DBLP:conf/crypto/EsserMVW22,
+  author    = {Andre Esser and
+               Alexander May and
+               Javier A. Verbel and
+               Weiqiang Wen},
+  title     = {Partial Key Exposure Attacks on BIKE, Rainbow and {NTRU}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {346-375},
+}
+
+@inproceedings{DBLP:conf/crypto/LinL22,
+  author    = {Huijia Lin and
+               Tianren Liu},
+  title     = {{Two-Round} {MPC} Without Round Collapsing Revisited - Towards Efficient Malicious Protocols},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {353-382},
+}
+
+@inproceedings{DBLP:conf/crypto/KothapalliST22,
+  author    = {Abhiram Kothapalli and
+               Srinath Setty and
+               Ioanna Tzialla},
+  title     = {Nova: Recursive {Zero-Knowledge} Arguments from Folding Schemes},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {359-388},
+}
+
+@inproceedings{DBLP:conf/crypto/HoffmannHKKP22,
+  author    = {Charlotte Hoffmann and
+               Pavel Hubácek and
+               Chethan Kamath and
+               Karen Klein and
+               Krzysztof Pietrzak},
+  title     = {Practical {Statistically-Sound} Proofs of Exponentiation in Any Group},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {370-399},
+}
+
+@inproceedings{DBLP:conf/crypto/BaenaBCPSV22,
+  author    = {John Baena and
+               Pierre Briaud and
+               Daniel Cabarcas and
+               Ray A. Perlner and
+               Daniel Smith-Tone and
+               Javier A. Verbel},
+  title     = {Improving {Support-Minors} Rank Attacks: Applications to Gđisplaystyle {eMSS} and Rainbow},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {376-405},
+}
+
+@inproceedings{DBLP:conf/crypto/EscuderoXY22,
+  author    = {Daniel Escudero and
+               Chaoping Xing and
+               Chen Yuan},
+  title     = {More Efficient Dishonest Majority Secure Computation over $\mathbb {Z}_{2^k}$ via Galois Rings},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {383-412},
+}
+
+@inproceedings{DBLP:conf/crypto/KimLP22,
+  author    = {Allen Kim and
+               Xiao Liang and
+               Omkant Pandey},
+  title     = {A New Approach to Efficient {Non-Malleable} {Zero-Knowledge}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {389-418},
+}
+
+@inproceedings{DBLP:conf/crypto/MattNT22,
+  author    = {Christian Matt and
+               Jesper Buus Nielsen and
+               Søren Eller Thomsen},
+  title     = {Formalizing Delayed Adaptive Corruptions and the Security of Flooding Networks},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {400-430},
+}
+
+@inproceedings{DBLP:conf/crypto/KomargodskiMSW22,
+  author    = {Ilan Komargodski and
+               Shin'ichiro Matsuo and
+               Elaine Shi and
+               Ke Wu},
+  title     = {log *-Round {Game-Theoretically-Fair} Leader Election},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {409-438},
+}
+
+@inproceedings{DBLP:conf/crypto/AttemaF22,
+  author    = {Thomas Attema and
+               Serge Fehr},
+  title     = {Parallel Repetition of (k1, đots , kμ )-{Special-Sound} Multi-round Interactive Proofs},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {415-443},
+}
+
+@inproceedings{DBLP:conf/crypto/AbramDOS22,
+  author    = {Damiano Abram and
+               Ivan Damgård and
+               Claudio Orlandi and
+               Peter Scholl},
+  title     = {An Algebraic Framework for Silent Preprocessing with Trustless Setup and Active Security},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {421-452},
+}
+
+@inproceedings{DBLP:conf/crypto/WatersW22,
+  author    = {Brent Waters and
+               David J. Wu},
+  title     = {Batch Arguments for {sfNP} and More from Standard Bilinear Group Assumptions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {433-463},
+}
+
+@inproceedings{DBLP:conf/crypto/TsimosLP22,
+  author    = {Georgios Tsimos and
+               Julian Loss and
+               Charalampos Papamanthou},
+  title     = {Gossiping for {Communication-Efficient} Broadcast},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {439-469},
+}
+
+@inproceedings{DBLP:conf/crypto/Kiyoshima22,
+  author    = {Susumu Kiyoshima},
+  title     = {{Public-Coin} 3-Round {Zero-Knowledge} from Learning with Errors and Keyless {Multi-Collision-Resistant} Hash},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {444-473},
+}
+
+@inproceedings{DBLP:conf/crypto/ApplebaumIKP22,
+  author    = {Benny Applebaum and
+               Yuval Ishai and
+               Or Karni and
+               Arpita Patra},
+  title     = {Quadratic Multiparty Randomized Encodings Beyond Honest Majority and Their Applications},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {453-482},
+}
+
+@inproceedings{DBLP:conf/crypto/Beullens22,
+  author    = {Ward Beullens},
+  title     = {Breaking Rainbow Takes a Weekend on a Laptop},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {464-479},
+}
+
+@inproceedings{DBLP:conf/crypto/HolmgrenLTW22,
+  author    = {Justin Holmgren and
+               Minghao Liu and
+               LaKyah Tyner and
+               Daniel Wichs},
+  title     = {Nearly Optimal Property Preserving Hashing},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {473-502},
+}
+
+@inproceedings{DBLP:conf/crypto/HolmgrenR22,
+  author    = {Justin Holmgren and
+               Ron D. Rothblum},
+  title     = {Faster Sounder Succinct Arguments and {sfIOPs}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {474-503},
+}
+
+@inproceedings{DBLP:conf/crypto/BoudgoustGP22,
+  author    = {Katharina Boudgoust and
+               Erell Gachon and
+               Alice Pellet-Mary},
+  title     = {Some Easy Instances of {Ideal-SVP} and Implications on the Partial Vandermonde Knapsack Problem},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {480-509},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalIS22,
+  author    = {Vipul Goyal and
+               Yuval Ishai and
+               Yifan Song},
+  title     = {Tight Bounds on the Randomness Complexity of Secure Multiparty Computation},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {483-513},
+}
+
+@inproceedings{DBLP:conf/crypto/RothblumV22,
+  author    = {Ron D. Rothblum and
+               Prashant Nalini Vasudevan},
+  title     = {{Collision-Resistance} from {Multi-Collision-Resistance}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {503-529},
+}
+
+@inproceedings{DBLP:conf/crypto/NassarR22,
+  author    = {Shafik Nassar and
+               Ron D. Rothblum},
+  title     = {Succinct Interactive Oracle Proofs: Applications and Limitations},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {504-532},
+}
+
+@inproceedings{DBLP:conf/crypto/BombarCD22,
+  author    = {Maxime Bombar and
+               Alain Couvreur and
+               Thomas Debris-Alazard},
+  title     = {On Codes and Learning with Errors over Function Fields},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {513-540},
+}
+
+@inproceedings{DBLP:conf/crypto/BellareCKMTZ22,
+  author    = {Mihir Bellare and
+               Elizabeth C. Crites and
+               Chelsea Komlo and
+               Mary Maller and
+               Stefano Tessaro and
+               Chenzhi Zhu},
+  title     = {Better than Advertised Security for Non-interactive Threshold Signatures},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {517-550},
+}
+
+@inproceedings{DBLP:conf/crypto/ChiaCLY22,
+  author    = {Nai-Hui Chia and
+               Kai-Min Chung and
+               Xiao Liang and
+               Takashi Yamakawa},
+  title     = {Post-quantum Simulatable Extraction with Minimal Assumptions: {Black-Box} and {Constant-Round}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {533-563},
+}
+
+@inproceedings{DBLP:conf/crypto/Tsabary22,
+  author    = {Rotem Tsabary},
+  title     = {Candidate Witness Encryption from Lattice Techniques},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {535-559},
+}
+
+@inproceedings{DBLP:conf/crypto/FeneuilJR22,
+  author    = {Thibauld Feneuil and
+               Antoine Joux and
+               Matthieu Rivain},
+  title     = {Syndrome Decoding in the Head: Shorter Signatures from {Zero-Knowledge} Proofs},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {541-572},
+}
+
+@inproceedings{DBLP:conf/crypto/BonehK22,
+  author    = {Dan Boneh and
+               Chelsea Komlo},
+  title     = {Threshold Signatures with Private Accountability},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {551-581},
+}
+
+@inproceedings{DBLP:conf/crypto/LiMSS22,
+  author    = {Baiyu Li and
+               Daniele Micciancio and
+               Mark Schultz and
+               Jessica Sorrell},
+  title     = {Securing Approximate Homomorphic Encryption Using Differential Privacy},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {560-589},
+}
+
+@inproceedings{DBLP:conf/crypto/CaoX22,
+  author    = {Shujiao Cao and
+               Rui Xue},
+  title     = {The Gap Is Sensitive to Size of Preimages: Collapsing Property Doesn't Go Beyond Quantum {Collision-Resistance} for Preimages Bounded Hash Functions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {564-595},
+}
+
+@inproceedings{DBLP:conf/crypto/IshaiKLS22,
+  author    = {Yuval Ishai and
+               Alexis Korb and
+               Paul Lou and
+               Amit Sahai},
+  title     = {Beyond the Csiszá{r-Korner} Bound: {Best-Possible} Wiretap Coding via Obfuscation},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {573-602},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalYY22,
+  author    = {Shweta Agrawal and
+               Anshu Yadav and
+               Shota Yamada},
+  title     = {Multi-input Attribute Based Encryption and Predicate Encryption},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {590-621},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry22b,
+  author    = {Mark Zhandry},
+  title     = {New Constructions of Collapsing Hashes},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {596-624},
+}
+
+@inproceedings{DBLP:conf/crypto/BoyleCGIKRS22,
+  author    = {Elette Boyle and
+               Geoffroy Couteau and
+               Niv Gilboa and
+               Yuval Ishai and
+               Lisa Kohl and
+               Nicolas Resch and
+               Peter Scholl},
+  title     = {Correlated Pseudorandomness from {Expand-Accumulate} Codes},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {603-633},
+}
+
+@inproceedings{DBLP:conf/crypto/HulsingMS22,
+  author    = {Andreas Hülsing and
+               Matthias Meijers and
+               Pierre-Yves Strub},
+  title     = {Formal Verification of Saber's {Public-Key} Encryption Scheme in {EasyCrypt}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {622-653},
+}
+
+@inproceedings{DBLP:conf/crypto/BitanskyF22,
+  author    = {Nir Bitansky and
+               Sapir Freizeit},
+  title     = {Statistically {Sender-Private} {OT} from {LPN} and Derandomization},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {625-653},
+}
+
+@inproceedings{DBLP:conf/crypto/YangYAS22,
+  author    = {Rupeng Yang and
+               Zuoxia Yu and
+               Man Ho Au and
+               Willy Susilo},
+  title     = {{Public-Key} Watermarking Schemes for Pseudorandom Functions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {637-667},
+}
+
+@inproceedings{DBLP:conf/crypto/BitanskyBK22,
+  author    = {Nir Bitansky and
+               Zvika Brakerski and
+               Yael Tauman Kalai},
+  title     = {Constructive {Post-Quantum} Reductions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {654-683},
+}
+
+@inproceedings{DBLP:conf/crypto/Roy22,
+  author    = {Lawrence Roy},
+  title     = {SoftSpokenOT: Quieter {OT} Extension from {Small-Field} Silent {VOLE} in the Minicrypt Model},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {657-687},
+}
+
+@inproceedings{DBLP:conf/crypto/CremersNPR22,
+  author    = {Cas Cremers and
+               Moni Naor and
+               Shahar Paz and
+               Eyal Ronen},
+  title     = {{CHIP} and CRISP: Protecting All Parties Against Compromise Through {Identity-Binding} {PAKEs}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {668-698},
+}
+
+@inproceedings{DBLP:conf/crypto/BeyneR22,
+  author    = {Tim Beyne and
+               Vincent Rijmen},
+  title     = {Differential Cryptanalysis in the {Fixed-Key} Model},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {687-716},
+}
+
+@inproceedings{DBLP:conf/crypto/FernandoGKS22,
+  author    = {Rex Fernando and
+               Yuval Gelles and
+               Ilan Komargodski and
+               Elaine Shi},
+  title     = {Maliciously Secure Massively Parallel Computation for {All-but-One} Corruptions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {688-718},
+}
+
+@inproceedings{DBLP:conf/crypto/AbdallaEKKR22,
+  author    = {Michel Abdalla and
+               Thorsten Eisenhofer and
+               Eike Kiltz and
+               Sabrina Kunzweiler and
+               Doreen Riepel},
+  title     = {{Password-Authenticated} Key Exchange from Group Actions},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {699-728},
+}
+
+@inproceedings{DBLP:conf/crypto/SchrottenloherS22,
+  author    = {André Schrottenloher and
+               Marc Stevens},
+  title     = {Simplified {MITM} Modeling for Permutations: New (Quantum) Attacks},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {717-747},
+}
+
+@inproceedings{DBLP:conf/crypto/RachuriS22,
+  author    = {Rahul Rachuri and
+               Peter Scholl},
+  title     = {Le Mans: Dynamic and Fluid {MPC} for Dishonest Majority},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {719-749},
+}
+
+@inproceedings{DBLP:conf/crypto/DonFMS22,
+  author    = {Jelle Don and
+               Serge Fehr and
+               Christian Majenz and
+               Christian Schaffner},
+  title     = {Efficient {NIZKs} and Signatures from {Commit-and-Open} Protocols in the {QROM}},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {729-757},
+}
+
+@inproceedings{DBLP:conf/crypto/BeierleBFL22,
+  author    = {Christof Beierle and
+               Tim Beyne and
+               Patrick Felke and
+               Gregor Leander},
+  title     = {Constructing and Deconstructing Intentional Weaknesses in Symmetric Ciphers},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {748-778},
+}
+
+@inproceedings{DBLP:conf/crypto/LiuT22,
+  author    = {Zeyu Liu and
+               Eran Tromer},
+  title     = {Oblivious Message Retrieval},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {753-783},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalV22,
+  author    = {Rishab Goyal and
+               Vinod Vaikuntanathan},
+  title     = {Locally Verifiable Signature and Key Aggregation},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {761-791},
+}
+
+@inproceedings{DBLP:conf/crypto/CanaleLS22,
+  author    = {Federico Canale and
+               Gregor Leander and
+               Lukas Stennes},
+  title     = {Simon's Algorithm and Symmetric Crypto: Generalizations and Automatized Applications},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {779-808},
+}
+
+@inproceedings{DBLP:conf/crypto/BienstockFGMR22,
+  author    = {Alexander Bienstock and
+               Jaiden Fairoze and
+               Sanjam Garg and
+               Pratyay Mukherjee and
+               Srinivasan Raghuraman},
+  title     = {A More Complete Analysis of the Signal Double Ratchet Algorithm},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {784-813},
+}
+
+@inproceedings{DBLP:conf/crypto/NguyenGSY22,
+  author    = {Khoa Nguyen and
+               Fuchun Guo and
+               Willy Susilo and
+               Guomin Yang},
+  title     = {Multimodal Private Signatures},
+  booktitle = crypto,
+  year      = 2022,
+  pages     = {792-822},
+}
+
 @inproceedings{DBLP:conf/crypto/Teague21,
   author    = {Vanessa Teague},
   title     = {Which {E-Voting} Problems Do We Need to Solve?},
@@ -332,7 +1335,7 @@
 @inproceedings{DBLP:conf/crypto/RotemS21,
   author    = {Lior Rotem and
                Gil Segev},
-  title     = {Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for ${\{varSigma} }$-Protocols},
+  title     = {Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for $arSigma $-Protocols},
   booktitle = crypto,
   year      = 2021,
   pages     = {222-250},
@@ -792,7 +1795,7 @@
   author    = {Thomas Attema and
                Ronald Cramer and
                Lisa Kohl},
-  title     = {A Compressed $\{varSigma} $-Protocol Theory for Lattices},
+  title     = {A Compressed $arSigma $-Protocol Theory for Lattices},
   booktitle = crypto,
   year      = 2021,
   pages     = {549-579},

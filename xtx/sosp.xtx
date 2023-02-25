@@ -218,7 +218,7 @@
 
 @inproceedings{DBLP:conf/sosp/AchermannCHHHRS21,
   author    = {Reto Achermann and
-               David Cock and
+               David A. Cock and
                Roni Haecki and
                Nora Hossle and
                Lukas Humbel and
@@ -567,7 +567,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/LeeYTKZB21,
-  author    = {Seung-seob Lee and
+  author    = {Seung-Seob Lee and
                Yanpeng Yu and
                Yupeng Tang and
                Anurag Khandelwal and
@@ -614,7 +614,7 @@
                Peter Kraft and
                Akshay Agrawal and
                Srikanth Kandula and
-               Stephen Boyd and
+               Stephen P. Boyd and
                Matei Zaharia},
   title     = {Solving {Large-Scale} Granular Resource Allocation Problems Efficiently with {POP}},
   booktitle = sosp,
@@ -1120,7 +1120,7 @@
 @inproceedings{DBLP:conf/sosp/JiaPTWZA19,
   author    = {Zhihao Jia and
                Oded Padon and
-               James J. Thomas and
+               James Thomas and
                Todd Warszawski and
                Matei Zaharia and
                Alex Aiken},
@@ -1722,7 +1722,7 @@
 @inproceedings{DBLP:conf/sosp/HumbelACR17,
   author    = {Lukas Humbel and
                Reto Achermann and
-               David Cock and
+               David A. Cock and
                Timothy Roscoe},
   title     = {Towards {Correct-by-Construction} Interrupt Routing on Real Hardware},
   booktitle = sosp,
@@ -4647,7 +4647,7 @@
                Carlos Pacheco and
                Frank Sherwood and
                Stelios Sidiroglou and
-               Greg Sullivan and
+               Gregory T. Sullivan and
                Weng-Fai Wong and
                Yoav Zibin and
                Michael D. Ernst and
@@ -4750,7 +4750,7 @@
                Kevin Elphinstone and
                Gernot Heiser and
                June Andronick and
-               David Cock and
+               David A. Cock and
                Philip Derrin and
                Dhammika Elkaduwe and
                Kai Engelhardt and
@@ -5807,7 +5807,7 @@
   author    = {Dawson R. Engler and
                David Yu Chen and
                Andy Chou},
-  title     = {Bugs as Inconsistent Behavior: A General Approach to Inferring Errors in Systems Code},
+  title     = {Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code},
   booktitle = sosp,
   year      = 2001,
   pages     = {57-72},
@@ -8084,7 +8084,7 @@
 @inproceedings{DBLP:conf/sosp/SwinehartMB79,
   author    = {Daniel C. Swinehart and
                Gene McDaniel and
-               David Boggs},
+               David R. Boggs},
   title     = {WFS: A Simple Shared File System for a Distributed Environment},
   booktitle = sosp,
   year      = 1979,
@@ -8841,7 +8841,7 @@
 
 @inproceedings{DBLP:conf/sosp/KrauseSS73,
   author    = {K. L. Krause and
-               V. Y. Shen and
+               Vincent Y. Shen and
                Herbert D. Schwetman},
   title     = {A Task Scheduling Algorithm for a Multiprogramming Computer System},
   booktitle = sosp,

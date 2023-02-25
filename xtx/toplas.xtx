@@ -64,6 +64,258 @@
   pages     = {5-1},
 }
 
+@article{DBLP:journals/toplas/LamportM22,
+  author    = {Leslie Lamport and
+               Stephan Merz},
+  title     = {Prophecy Made Simple},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/toplas/Lennon-Bertrand22,
+  author    = {Meven Lennon-Bertrand and
+               Kenji Maillard and
+               Nicolas Tabareau and
+               Éric Tanter},
+  title     = {Gradualizing the Calculus of Inductive Constructions},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/toplas/LahavB22,
+  author    = {Ori Lahav and
+               Udi Boker},
+  title     = {What's Decidable About Causally Consistent Shared Memory?},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/toplas/HuSD22,
+  author    = {Qinheping Hu and
+               Rishabh Singh and
+               Loris D'Antoni},
+  title     = {Solving Program Sketches with Large Integer Values},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/ShiBS22,
+  author    = {Kensen Shi and
+               David Bieber and
+               Rishabh Singh},
+  title     = {TF-Coder: Program Synthesis for Tensor Manipulations},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/LiZR22,
+  author    = {Yuanbo Li and
+               Qirun Zhang and
+               Thomas W. Reps},
+  title     = {Fast Graph Simplification for {Interleaved-Dyck} Reachability},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/toplas/LorchCKMPQSWZ22,
+  author    = {Jacob R. Lorch and
+               Yixuan Chen and
+               Manos Kapritsos and
+               Haojun Ma and
+               Bryan Parno and
+               Shaz Qadeer and
+               Upamanyu Sharma and
+               James R. Wilcox and
+               Xueyuan Zhao},
+  title     = {Armada: Automated Verification of Concurrent Code with Sound Semantic Extensibility},
+  journal   = toplas,
+  volume    = {44},
+  number    = {2},
+  year      = 2022,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/toplas/Yoshida22,
+  author    = {Nobuko Yoshida},
+  title     = {Introduction to the Special Issue on {ESOP} 2021},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/HaslbeckL22,
+  author    = {Maximilian P. L. Haslbeck and
+               Peter Lammich},
+  title     = {For a Few Dollars More: Verified {Fine-Grained} Algorithm Analysis Down to {LLVM}},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/toplas/BaillotG22,
+  author    = {Patrick Baillot and
+               Alexis Ghyselen},
+  title     = {Types for Complexity of Parallel Computation in Pi-calculus},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/toplas/PagelZ22,
+  author    = {Jens Pagel and
+               Florian Zuleger},
+  title     = {Strong-separation Logic},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/Ish-ShalomIRS22,
+  author    = {Oren Ish-Shalom and
+               Shachar Itzhaky and
+               Noam Rinetzky and
+               Sharon Shoham},
+  title     = {Runtime Complexity Bounds Using Squeezers},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/toplas/KeizerBP22,
+  author    = {Alex C. Keizer and
+               Henning Basold and
+               Jorge A. Pérez},
+  title     = {Session Coalgebras: A Coalgebraic View on Regular and Context-free Session Types},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/toplas/DasDMP22,
+  author    = {Ankush Das and
+               Henry DeYoung and
+               Andreia Mordido and
+               Frank Pfenning},
+  title     = {Nested Session Types},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/toplas/VakarS22,
+  author    = {Matthijs Vákár and
+               Tom Smeding},
+  title     = {CHAD: Combinatory Homomorphic Automatic Differentiation},
+  journal   = toplas,
+  volume    = {44},
+  number    = {3},
+  year      = 2022,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/toplas/Steimann22,
+  author    = {Friedrich Steimann},
+  title     = {Containerless Plurals: Separating Number from Type in {Object-Oriented} Programming},
+  journal   = toplas,
+  volume    = {44},
+  number    = {4},
+  year      = 2022,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/toplas/YangW22,
+  author    = {Albert Mingkun Yang and
+               Tobias Wrigstad},
+  title     = {Deep Dive into ZGC: A Modern Garbage Collector in {OpenJDK}},
+  journal   = toplas,
+  volume    = {44},
+  number    = {4},
+  year      = 2022,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/toplas/DevriesePP22,
+  author    = {Dominique Devriese and
+               Marco Patrignani and
+               Frank Piessens},
+  title     = {Two Parametricities Versus Three Universal Types},
+  journal   = toplas,
+  volume    = {44},
+  number    = {4},
+  year      = 2022,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/toplas/ZhouZO22,
+  author    = {Yaoda Zhou and
+               Jinxu Zhao and
+               Bruno C. d. S. Oliveira},
+  title     = {Revisiting {Iso-Recursive} Subtyping},
+  journal   = toplas,
+  volume    = {44},
+  number    = {4},
+  year      = 2022,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/toplas/BanerjeeNNN22,
+  author    = {Anindya Banerjee and
+               Ramana Nagasamudram and
+               David A. Naumann and
+               Mohammad Nikouei},
+  title     = {A Relational Program Logic with Data Abstraction and Dynamic Framing},
+  journal   = toplas,
+  volume    = {44},
+  number    = {4},
+  year      = 2022,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/toplas/VasconcelosMLY22,
+  author    = {Vasco T. Vasconcelos and
+               Francisco Martins and
+               Hugo-Andrés López and
+               Nobuko Yoshida},
+  title     = {A Type Discipline for Message Passing Parallel Programs},
+  journal   = toplas,
+  volume    = {44},
+  number    = {4},
+  year      = 2022,
+  pages     = {26-1},
+}
+
 @article{DBLP:journals/toplas/PatrignaniG21,
   author    = {Marco Patrignani and
                Deepak Garg},
@@ -1034,7 +1286,7 @@
 }
 
 @article{DBLP:journals/toplas/Myers17,
-  author    = {Andrew Myers},
+  author    = {Andrew C. Myers},
   title     = {Foreword},
   journal   = toplas,
   volume    = {39},
@@ -1993,7 +2245,7 @@
 @article{DBLP:journals/toplas/SampaioSCP13,
   author    = {Diogo Sampaio and
                Rafael Martins de Souza and
-               Sylvain Collange and
+               Caroline Collange and
                Fernando Magno Quintão Pereira},
   title     = {Divergence analysis},
   journal   = toplas,
@@ -2500,7 +2752,7 @@
 }
 
 @article{DBLP:journals/toplas/KnowlesF10,
-  author    = {Kenneth Knowles and
+  author    = {Kenneth L. Knowles and
                Cormac Flanagan},
   title     = {Hybrid type checking},
   journal   = toplas,
@@ -3303,7 +3555,7 @@
 
 @article{DBLP:journals/toplas/GilPWZ08,
   author    = {Joseph Gil and
-               William Pugh and
+               William W. Pugh and
                Grant E. Weddell and
                Yoav Zibin},
   title     = {Two-dimensional bidirectional object layout},
@@ -6184,7 +6436,7 @@
 @article{DBLP:journals/toplas/BultanGP99,
   author    = {Tevfik Bultan and
                Richard Gerber and
-               William Pugh},
+               William W. Pugh},
   title     = {Model-checking concurrent systems with unbounded integer variables: symbolic representations, approximations, and experimental results},
   journal   = toplas,
   volume    = {21},
@@ -6492,7 +6744,7 @@
 }
 
 @article{DBLP:journals/toplas/PughW98,
-  author    = {William Pugh and
+  author    = {William W. Pugh and
                David Wonnacott},
   title     = {{Constraint-Based} Array Dependence Analysis},
   journal   = toplas,
@@ -8257,7 +8509,7 @@
 }
 
 @article{DBLP:journals/toplas/PughW94,
-  author    = {William Pugh and
+  author    = {William W. Pugh and
                David Wonnacott},
   title     = {Static Analysis of Upper and Lower Bounds on Dependences and Parallelism},
   journal   = toplas,

@@ -1,5 +1,211 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotstorage/MahmudZGZ22,
+  author    = {Tabassum Mahmud and
+               Duo Zhang and
+               Om Rameshwar Gatla and
+               Mai Zheng},
+  title     = {Understanding configuration dependencies of file systems},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/hotstorage/HarnikONO22,
+  author    = {Danny Harnik and
+               Effi Ofer and
+               Oded Naor and
+               Or Ozery},
+  title     = {Rethinking block storage encryption with virtual disks},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/hotstorage/MastAA22,
+  author    = {Kai Mast and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {LambdaObjects: re-aggregating storage and execution for cloud computing},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {15-22},
+}
+
+@inproceedings{DBLP:conf/hotstorage/RodriguezBSR22,
+  author    = {Liana V. Rodriguez and
+               John Bent and
+               Tim Shaffer and
+               Raju Rangaswami},
+  title     = {Infusing pub-sub storage with transactions},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {23-30},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeePPGSEL22,
+  author    = {Yongmyung Lee and
+               Jong-Hyeok Park and
+               Jonggyu Park and
+               Hyunho Gwak and
+               Dongkun Shin and
+               Young Ik Eom and
+               Sang-Won Lee},
+  title     = {When F2{FS} meets address remapping},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/hotstorage/BhardwajTPAZS22,
+  author    = {Ankit Bhardwaj and
+               Todd Thornley and
+               Vinita Pawar and
+               Reto Achermann and
+               Gerd Zellweger and
+               Ryan Stutsman},
+  title     = {Cache-coherent accelerators for persistent memory crash consistency},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {37-44},
+}
+
+@inproceedings{DBLP:conf/hotstorage/Jung22,
+  author    = {Myoungsoo Jung},
+  title     = {Hello bytes, bye blocks: {PCIe} storage meets compute express link for memory expansion (CXL-SSD)},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {45-51},
+}
+
+@inproceedings{DBLP:conf/hotstorage/DesaiSLK22,
+  author    = {Omkar Desai and
+               Seungmin Shin and
+               Eunji Lee and
+               Bryan S. Kim},
+  title     = {A principled approach for selecting block I/O traces},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {52-58},
+}
+
+@inproceedings{DBLP:conf/hotstorage/HarrisA22,
+  author    = {Bryan Harris and
+               Nihat Altiparmak},
+  title     = {When poll is more energy efficient than interrupt},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {59-64},
+}
+
+@inproceedings{DBLP:conf/hotstorage/JiaoK22,
+  author    = {Ziyang Jiao and
+               Bryan S. Kim},
+  title     = {Generating realistic wear distributions for {SSDs}},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {65-71},
+}
+
+@inproceedings{DBLP:conf/hotstorage/JiaoBK22,
+  author    = {Ziyang Jiao and
+               Janki Bhimani and
+               Bryan S. Kim},
+  title     = {Wear leveling in {SSDs} considered harmful},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {72-78},
+}
+
+@inproceedings{DBLP:conf/hotstorage/BaeKKJ22,
+  author    = {Hanyeoreum Bae and
+               Jiseon Kim and
+               Miryeong Kwon and
+               Myoungsoo Jung},
+  title     = {What you can't forget: exploiting parallelism for zoned namespaces},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {79-85},
+}
+
+@inproceedings{DBLP:conf/hotstorage/KimKW22,
+  author    = {Jieun Kim and
+               Dohyun Kim and
+               Youjip Won},
+  title     = {Fair I/O scheduler for alleviating read/write interference by forced unit access in flash memory},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {86-92},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeeLL022,
+  author    = {Hee-Rock Lee and
+               Chang-Gyu Lee and
+               Seungjin Lee and
+               Youngjae Kim},
+  title     = {Compaction-aware zone allocation for {LSM} based key-value store on {ZNS} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {93-99},
+}
+
+@inproceedings{DBLP:conf/hotstorage/JungS22,
+  author    = {Jeeyoon Jung and
+               Dongkun Shin},
+  title     = {Lifetime-leveling {LSM-tree} compaction for {ZNS} {SSD}},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {100-105},
+}
+
+@inproceedings{DBLP:conf/hotstorage/ChunLLK022,
+  author    = {Myoungjun Chun and
+               Jaeyong Lee and
+               Sanggu Lee and
+               Myungsuk Kim and
+               Jihong Kim},
+  title     = {PiF: in-flash acceleration for data-intensive applications},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {106-112},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeeKLC022,
+  author    = {Sanggu Lee and
+               Yoona Kim and
+               Dusol Lee and
+               Inhyuk Choi and
+               Jihong Kim},
+  title     = {Alohomora: protecting files from ransomware attacks using fine-grained I/O whitelisting},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {113-118},
+}
+
+@inproceedings{DBLP:conf/hotstorage/YiYTZLYJZ22,
+  author    = {Shushu Yi and
+               Yanning Yang and
+               Yunxiao Tang and
+               Zixuan Zhou and
+               Junzhe Li and
+               Chen Yue and
+               Myoungsoo Jung and
+               Jie Zhang},
+  title     = {ScalaRAID: optimizing linux software {RAID} system for next-generation storage},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {119-125},
+}
+
+@inproceedings{DBLP:conf/hotstorage/ParkE22,
+  author    = {Jonggyu Park and
+               Young Ik Eom},
+  title     = {File fragmentation from the perspective of I/O control},
+  booktitle = hotstorage,
+  year      = 2022,
+  pages     = {126-132},
+}
+
 @inproceedings{DBLP:conf/hotstorage/LiYKX21,
   author    = {Qiao Li and
                Min Ye and

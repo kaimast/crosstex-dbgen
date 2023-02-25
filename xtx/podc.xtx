@@ -1,5 +1,771 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/AguilieraRSPSW22,
+  author    = {Marcos Aguiliera and
+               Andréa W. Richa and
+               Alexander A. Schwarzmann and
+               Alessandro Panconesi and
+               Christian Scheideler and
+               Philipp Woelfel},
+  title     = {2022 Edsger W. Dijkstra Prize in Distributed Computing},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/podc/Wattenhofer22,
+  author    = {Roger Wattenhofer},
+  title     = {Graph Neural Networks as Application of Distributed Algorithms},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/podc/AfekCFGPT22,
+  author    = {Yehuda Afek and
+               Keren Censor-Hillel and
+               Pierre Fraigniaud and
+               Seth Gilbert and
+               Gopal Pandurangan and
+               Gadi Taubenfeld},
+  title     = {2022 Principles of Distributed Computing Doctoral Dissertation Award},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/podc/SongYLMGVRAWB22,
+  author    = {Weijia Song and
+               Yuting Yang and
+               Thompson Liu and
+               Andrea Merlina and
+               Thiago Garrett and
+               Roman Vitenberg and
+               Lorenzo Rosa and
+               Aahil Awatramani and
+               Zheng Wang and
+               Ken Birman},
+  title     = {Cascade: An Edge Computing Platform for Real-time Machine Intelligence},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {2-6},
+}
+
+@inproceedings{DBLP:conf/podc/Scott22,
+  author    = {Michael L. Scott},
+  title     = {How Should We Think about Persistent Data Structures?},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0KO22,
+  author    = {Alkida Balliu and
+               Mohsen Ghaffari and
+               Fabian Kuhn and
+               Dennis Olivetti},
+  title     = {Node and Edge Averaged Complexities of Local Graph Problems},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {4-14},
+}
+
+@inproceedings{DBLP:conf/podc/JohnstonV22,
+  author    = {Michael A. Johnston and
+               Vassilis Vassiliadis},
+  title     = {Towards an {Approximation-Aware} Computational Workflow Framework for Accelerating {Large-Scale} Discovery Tasks: Invited paper},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {7-14},
+}
+
+@inproceedings{DBLP:conf/podc/Gupta0LWSSNASSS22,
+  author    = {Ragini Gupta and
+               Bo Chen and
+               Shengzhong Liu and
+               Tianshi Wang and
+               Sandeep Singh Sandha and
+               Abel Souza and
+               Klara Nahrstedt and
+               Tarek F. Abdelzaher and
+               Mani B. Srivastava and
+               Prashant J. Shenoy and
+               Jeffrey Smith and
+               Maggie B. Wigness and
+               Niranjan Suri},
+  title     = {DARTS: Distributed {IoT} Architecture for Real-Time, Resilient and {AI-Compressed} Workflows},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {15-23},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0KO22a,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Fabian Kuhn and
+               Dennis Olivetti},
+  title     = {Distributed Edge Coloring in Time Polylogarithmic in Δ},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {15-25},
+}
+
+@inproceedings{DBLP:conf/podc/KhandaC022,
+  author    = {Arindam Khanda and
+               Federico Corò and
+               Sajal K. Das},
+  title     = {{Drone-Truck} Cooperated Delivery Under Time Varying Dynamics},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {24-29},
+}
+
+@inproceedings{DBLP:conf/podc/HalldorssonNT22,
+  author    = {Magnús M. Halldórsson and
+               Alexandre Nolin and
+               Tigran Tonoyan},
+  title     = {Overcoming Congestion in Distributed Coloring},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {26-36},
+}
+
+@inproceedings{DBLP:conf/podc/MaioAB22,
+  author    = {Vincenzo De Maio and
+               Atakan Aral and
+               Ivona Brandic},
+  title     = {A Roadmap To {Post-Moore} Era for Distributed Systems},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {30-34},
+}
+
+@inproceedings{DBLP:conf/podc/RistovHH22,
+  author    = {Sashko Ristov and
+               Christian Hollaus and
+               Mika Hautz},
+  title     = {Colder Than the Warm Start and Warmer Than the Cold Start! Experience the Spawn Start in {FaaS} Providers},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {35-39},
+}
+
+@inproceedings{DBLP:conf/podc/GrunauR022,
+  author    = {Christoph Grunau and
+               Václav Rozhon and
+               Sebastian Brandt},
+  title     = {The Landscape of Distributed Complexities on Trees and Beyond},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {37-47},
+}
+
+@inproceedings{DBLP:conf/podc/OglioHNT22,
+  author    = {Joseph Oglio and
+               Kendric Hood and
+               Mikhail Nesterenko and
+               Sébastien Tixeuil},
+  title     = {QUANTAS: Quantitative User-friendly Adaptable Networked Things Abstract Simulator},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {40-46},
+}
+
+@inproceedings{DBLP:conf/podc/HadjistasiNS22,
+  author    = {Theophanis Hadjistasi and
+               Nicolas Nicolaou and
+               Efstathios Stavrakis},
+  title     = {Exploring the use of Strongly Consistent Distributed Shared Memory in 3D {NVEs}},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {47-55},
+}
+
+@inproceedings{DBLP:conf/podc/TshuvaO22,
+  author    = {Eden Aldema Tshuva and
+               Rotem Oshman},
+  title     = {Brief Announcement: On {Polynomial-Time} Local Decision},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {48-50},
+}
+
+@inproceedings{DBLP:conf/podc/AugustineMP22,
+  author    = {John Augustine and
+               William K. Moses Jr. and
+               Gopal Pandurangan},
+  title     = {Brief Announcement: Distributed {MST} Computation in the Sleeping Model: {Awake-Optimal} Algorithms and Lower Bounds},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {51-53},
+}
+
+@inproceedings{DBLP:conf/podc/El-HayekH022,
+  author    = {Antoine El-Hayek and
+               Monika Henzinger and
+               Stefan Schmid},
+  title     = {Brief Announcement: Broadcasting Time in Dynamic Rooted Trees is Linear},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {54-56},
+}
+
+@inproceedings{DBLP:conf/podc/MoridiWCG22,
+  author    = {Mohammad Moridi and
+               Erica Wang and
+               Amelia Cui and
+               Wojciech M. Golab},
+  title     = {A Closer Look at Detectable Objects for Persistent Memory},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {56-64},
+}
+
+@inproceedings{DBLP:conf/podc/ElkinT22,
+  author    = {Michael Elkin and
+               Chhaya Trehan},
+  title     = {Brief Announcement: (1+ε)-Approximate Shortest Paths in Dynamic Streams},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {57-59},
+}
+
+@inproceedings{DBLP:conf/podc/0001S22,
+  author    = {Christoph Lenzen and
+               Sahar Sheikholeslami},
+  title     = {A Recursive {Early-Stopping} Phase King Protocol},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {60-69},
+}
+
+@inproceedings{DBLP:conf/podc/Palyvos-Giannas22,
+  author    = {Dimitrios Palyvos-Giannas and
+               Marina Papatriantafilou and
+               Vincenzo Gulisano},
+  title     = {Research Summary: Deterministic, Explainable and Efficient Stream Processing},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {65-69},
+}
+
+@inproceedings{DBLP:conf/podc/GhineaLW22,
+  author    = {Diana Ghinea and
+               Chen-Da Liu-Zhang and
+               Roger Wattenhofer},
+  title     = {Optimal Synchronous Approximate Agreement with Asynchronous Fallback},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {70-80},
+}
+
+@inproceedings{DBLP:conf/podc/CamenischDHPS022,
+  author    = {Jan Camenisch and
+               Manu Drijvers and
+               Timo Hanke and
+               Yvonne-Anne Pignolet and
+               Victor Shoup and
+               Dominic Williams},
+  title     = {Internet Computer Consensus},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {81-91},
+}
+
+@inproceedings{DBLP:conf/podc/AppanCC22,
+  author    = {Ananya Appan and
+               Anirudh Chandramouli and
+               Ashish Choudhury},
+  title     = {{Perfectly-Secure} Synchronous {MPC} with Asynchronous Fallback Guarantees},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {92-102},
+}
+
+@inproceedings{DBLP:conf/podc/SouzaKT22,
+  author    = {Luciano Freitas de Souza and
+               Petr Kuznetsov and
+               Andrei Tonkikh},
+  title     = {Brief Announcement: Asynchronous Randomness and Consensus without Trusted Setup},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {103-105},
+}
+
+@inproceedings{DBLP:conf/podc/ChlebusKO22,
+  author    = {Bogdan S. Chlebus and
+               Dariusz R. Kowalski and
+               Jan Olkowski},
+  title     = {Brief Announcement: Deterministic Consensus and Checkpointing with Crashes: Time and Communication Efficiency},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {106-108},
+}
+
+@inproceedings{DBLP:conf/podc/ApeldoornV22,
+  author    = {Joran van Apeldoorn and
+               Tijn de Vos},
+  title     = {A Framework for Distributed Quantum Queries in the {CONGEST} Model},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {109-119},
+}
+
+@inproceedings{DBLP:conf/podc/WuY22,
+  author    = {Xudong Wu and
+               Penghui Yao},
+  title     = {Quantum Complexity of Weighted Diameter and Radius in {CONGEST} Networks},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {120-130},
+}
+
+@inproceedings{DBLP:conf/podc/FeuilloleyBP22,
+  author    = {Laurent Feuilloley and
+               Nicolas Bousquet and
+               Théo Pierron},
+  title     = {What Can Be Certified Compactly? Compact local certification of {MSO} properties in tree-like graphs},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {131-140},
+}
+
+@inproceedings{DBLP:conf/podc/Censor-HillelCG22,
+  author    = {Keren Censor-Hillel and
+               Shir Cohen and
+               Ran Gelles and
+               Gal Sela},
+  title     = {Distributed Computations in {Fully-Defective} Networks},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {141-150},
+}
+
+@inproceedings{DBLP:conf/podc/KahalonLMS22,
+  author    = {Omri Kahalon and
+               Hung Le and
+               Lazar Milenkovic and
+               Shay Solomon},
+  title     = {Can't See the Forest for the Trees: Navigating Metric Spaces by Bounded {Hop-Diameter} Spanners},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {151-162},
+}
+
+@inproceedings{DBLP:conf/podc/Kamara22,
+  author    = {Seny Kamara},
+  title     = {Encrypted Distributed Systems},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {163},
+}
+
+@inproceedings{DBLP:conf/podc/LosS22,
+  author    = {Dimitrios Los and
+               Thomas Sauerwald},
+  title     = {Balanced Allocations with the Choice of Noise},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {164-175},
+}
+
+@inproceedings{DBLP:conf/podc/Ovens22,
+  author    = {Sean Ovens},
+  title     = {The Space Complexity of Consensus from Swap},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {176-186},
+}
+
+@inproceedings{DBLP:conf/podc/Ben-DavidB22,
+  author    = {Naama Ben-David and
+               Guy E. Blelloch},
+  title     = {Fast and Fair Randomized {Wait-Free} Locks},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {187-197},
+}
+
+@inproceedings{DBLP:conf/podc/Delporte-Gallet22,
+  author    = {Carole Delporte-Gallet and
+               Panagiota Fatourou and
+               Hugues Fauconnier and
+               Eric Ruppert},
+  title     = {When is Recoverable Consensus Harder Than Consensus?},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {198-208},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaEW22,
+  author    = {Hagit Attiya and
+               Constantin Enea and
+               Jennifer L. Welch},
+  title     = {Blunting an Adversary Against Randomized Concurrent Programs with Linearizable Implementations},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {209-219},
+}
+
+@inproceedings{DBLP:conf/podc/LiuG22,
+  author    = {Xialin Liu and
+               Wojciech M. Golab},
+  title     = {Brief Announcement: Towards a Theory of Wear Leveling in Persistent Data Structures},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {220-223},
+}
+
+@inproceedings{DBLP:conf/podc/BankhamerBBEHKK22,
+  author    = {Gregor Bankhamer and
+               Petra Berenbrink and
+               Felix Biermeier and
+               Robert Elsässer and
+               Hamed Hosseinpour and
+               Dominik Kaaser and
+               Peter Kling},
+  title     = {Population Protocols for Exact Plurality Consensus: How a small chance of failure helps to eliminate insignificant opinions},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {224-234},
+}
+
+@inproceedings{DBLP:conf/podc/KormanV22,
+  author    = {Amos Korman and
+               Robin Vacus},
+  title     = {Early Adapting to Trends: {Self-Stabilizing} Information Spread using Passive Communication},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {235-245},
+}
+
+@inproceedings{DBLP:conf/podc/AlistarhRV22,
+  author    = {Dan Alistarh and
+               Joel Rybicki and
+               Sasha Voitovych},
+  title     = {{Near-Optimal} Leader Election in Population Protocols on Graphs},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {246-256},
+}
+
+@inproceedings{DBLP:conf/podc/Leroux22,
+  author    = {Jérôme Leroux},
+  title     = {State Complexity of Protocols with Leaders},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {257-264},
+}
+
+@inproceedings{DBLP:conf/podc/TsengZ22,
+  author    = {Lewis Tseng and
+               Qinzi Zhang},
+  title     = {Brief Announcement: Computability and Anonymous {Storage-Efficient} Consensus with an Abstract {MAC} Layer},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {265-267},
+}
+
+@inproceedings{DBLP:conf/podc/Sutra22,
+  author    = {Pierre Sutra},
+  title     = {Brief Announcement: The Weakest Failure Detector for Genuine Atomic Multicast},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {268-270},
+}
+
+@inproceedings{DBLP:conf/podc/Censor-HillelLV22,
+  author    = {Keren Censor-Hillel and
+               Dean Leitersdorf and
+               David Vulakh},
+  title     = {Deterministic {Near-Optimal} Distributed Listing of Cliques},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {271-280},
+}
+
+@inproceedings{DBLP:conf/podc/0001Z22,
+  author    = {Mohsen Ghaffari and
+               Goran Zuzic},
+  title     = {{Universally-Optimal} Distributed Exact {Min-Cut}},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {281-291},
+}
+
+@inproceedings{DBLP:conf/podc/Dory0I22,
+  author    = {Michal Dory and
+               Mohsen Ghaffari and
+               Saeed Ilchi},
+  title     = {{Near-Optimal} Distributed Dominating Set in Bounded Arboricity Graphs},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {292-300},
+}
+
+@inproceedings{DBLP:conf/podc/ChangS22,
+  author    = {Yi-Jun Chang and
+               Hsin-Hao Su},
+  title     = {Narrowing the {LOCAL-CONGEST} Gaps in Sparse Networks via Expander Decompositions},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {301-312},
+}
+
+@inproceedings{DBLP:conf/podc/0001RS22,
+  author    = {Rachit Agarwal and
+               Shijin Rajakrishnan and
+               David B. Shmoys},
+  title     = {From Switch Scheduling to Datacenter Scheduling: {Matching-Coordinated} Greed is Good},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {313-323},
+}
+
+@inproceedings{DBLP:conf/podc/Parter22,
+  author    = {Merav Parter},
+  title     = {A Graph Theoretic Approach for Resilient Distributed Algorithms},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {324},
+}
+
+@inproceedings{DBLP:conf/podc/ChechikZ22,
+  author    = {Shiri Chechik and
+               Tianyi Zhang},
+  title     = {{Constant-Round} {Near-Optimal} Spanners in Congested Clique},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {325-334},
+}
+
+@inproceedings{DBLP:conf/podc/ForsterV22,
+  author    = {Sebastian Forster and
+               Tijn de Vos},
+  title     = {The Laplacian Paradigm in the Broadcast Congested Clique},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {335-344},
+}
+
+@inproceedings{DBLP:conf/podc/FischerHO22,
+  author    = {Orr Fischer and
+               Adi Horowitz and
+               Rotem Oshman},
+  title     = {Massively Parallel Computation in a Heterogeneous Regime},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {345-355},
+}
+
+@inproceedings{DBLP:conf/podc/Cohen-AddadMS22,
+  author    = {Vincent Cohen-Addad and
+               Frederik Mallmann-Trenn and
+               David Saulpic},
+  title     = {A Massively Parallel {Modularity-Maximizing} Algorithm with Provable Guarantees},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {356-365},
+}
+
+@inproceedings{DBLP:conf/podc/PaiP22,
+  author    = {Shreyas Pai and
+               Sriram V. Pemmaraju},
+  title     = {Brief Announcement: Deterministic Massively Parallel Algorithms for Ruling Sets},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {366-368},
+}
+
+@inproceedings{DBLP:conf/podc/ManoharanR22,
+  author    = {Vignesh Manoharan and
+               Vijaya Ramachandran},
+  title     = {Brief Announcement: Near Optimal Bounds for Replacement Paths and Related Problems in the {CONGEST} Model},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {369-371},
+}
+
+@inproceedings{DBLP:conf/podc/Anagnostides0HZ22,
+  author    = {Ioannis Anagnostides and
+               Christoph Lenzen and
+               Bernhard Haeupler and
+               Goran Zuzic and
+               Themis Gouleakis},
+  title     = {Brief Announcement: Almost Universally Optimal Distributed Laplacian Solver},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {372-374},
+}
+
+@inproceedings{DBLP:conf/podc/Hirose0OI22,
+  author    = {Jion Hirose and
+               Junya Nakamura and
+               Fukuhito Ooshita and
+               Michiko Inoue},
+  title     = {Brief Announcement: Gathering Despite a Linear Number of Weakly Byzantine Agents},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {375-377},
+}
+
+@inproceedings{DBLP:conf/podc/CivitP22,
+  author    = {Pierre Civit and
+               Maria Potop-Butucaru},
+  title     = {Brief Announcement: Probabilistic Dynamic Input/Output Automata},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {378-380},
+}
+
+@inproceedings{DBLP:conf/podc/AbrahamBY22,
+  author    = {Ittai Abraham and
+               Naama Ben-David and
+               Sravya Yandamuri},
+  title     = {Efficient and Adaptively Secure Asynchronous Binary Agreement via Binding Crusader Agreement},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {381-391},
+}
+
+@inproceedings{DBLP:conf/podc/AbrahamA22,
+  author    = {Ittai Abraham and
+               Gilad Asharov},
+  title     = {Gradecast in Synchrony and Reliable Broadcast in Asynchrony with Optimal Resilience, Efficiency, and Unconditional Security},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {392-398},
+}
+
+@inproceedings{DBLP:conf/podc/AlhaddadDD0VXZ22,
+  author    = {Nicolas Alhaddad and
+               Sourav Das and
+               Sisi Duan and
+               Ling Ren and
+               Mayank Varia and
+               Zhuolun Xiang and
+               Haibin Zhang},
+  title     = {Balanced Byzantine Reliable Broadcast with {Near-Optimal} Communication and Improved Computation},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {399-417},
+}
+
+@inproceedings{DBLP:conf/podc/AlhaddadDD0VXZ22a,
+  author    = {Nicolas Alhaddad and
+               Sourav Das and
+               Sisi Duan and
+               Ling Ren and
+               Mayank Varia and
+               Zhuolun Xiang and
+               Haibin Zhang},
+  title     = {Brief Announcement: Asynchronous Verifiable Information Dispersal with {Near-Optimal} Communication},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {418-420},
+}
+
+@inproceedings{DBLP:conf/podc/CohenKS22,
+  author    = {Shir Cohen and
+               Idit Keidar and
+               Alexander Spiegelman},
+  title     = {Brief Announcement: Make Every Word Count: Adaptive Byzantine Agreement with Fewer Words},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {421-423},
+}
+
+@inproceedings{DBLP:conf/podc/0001G0LTW22,
+  author    = {Nathalie Bertrand and
+               Vincent Gramoli and
+               Igor Konnov and
+               Marijana Lazic and
+               Pierre Tholoniat and
+               Josef Widder},
+  title     = {Brief Announcement: Holistic Verification of Blockchain Consensus},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {424-426},
+}
+
+@inproceedings{DBLP:conf/podc/BezerraK22,
+  author    = {João Paulo Bezerra and
+               Petr Kuznetsov},
+  title     = {Brief Announcement: How to Tame Multiple Spending in Decentralized Cryptocurrencies},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {427-429},
+}
+
+@inproceedings{DBLP:conf/podc/Catalano0G22,
+  author    = {Dario Catalano and
+               Dario Fiore and
+               Emanuele Giunta},
+  title     = {Adaptively Secure Single Secret Leader Election from {DDH}},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {430-439},
+}
+
+@inproceedings{DBLP:conf/podc/LenzenL22,
+  author    = {Christoph Lenzen and
+               Julian Loss},
+  title     = {Optimal Clock Synchronization with Signatures},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {440-449},
+}
+
+@inproceedings{DBLP:conf/podc/Ben-DavidCS22,
+  author    = {Naama Ben-David and
+               Benjamin Y. Chan and
+               Elaine Shi},
+  title     = {Revisiting the Power of {Non-Equivocation} in Distributed Protocols},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {450-459},
+}
+
+@inproceedings{DBLP:conf/podc/FraigniaudPR22,
+  author    = {Pierre Fraigniaud and
+               Ami Paz and
+               Sergio Rajsbaum},
+  title     = {A Speedup Theorem for Asynchronous Computation with Applications to Consensus and Approximate Agreement},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {460-470},
+}
+
+@inproceedings{DBLP:conf/podc/RajsbaumR22,
+  author    = {Sergio Rajsbaum and
+               Armajac Raventós-Pujol},
+  title     = {A Distributed Combinatorial Topology Approach to Arrow's Impossibility Theorem},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {471-481},
+}
+
+@inproceedings{DBLP:conf/podc/KrishnaG0C22,
+  author    = {Shankara Narayanan Krishna and
+               Adwait Godbole and
+               Roland Meyer and
+               Soham Chakraborty},
+  title     = {Parameterized Verification under Release Acquire is {PSPACE-complete}},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {482-492},
+}
+
+@inproceedings{DBLP:conf/podc/FraigniaudLR22,
+  author    = {Pierre Fraigniaud and
+               Patrick Lambein-Monette and
+               Mikaël Rabie},
+  title     = {Brief Announcement: Fault Tolerant Coloring of the Asynchronous Cycle},
+  booktitle = podc,
+  year      = 2022,
+  pages     = {493-495},
+}
+
 @inproceedings{DBLP:conf/podc/Censor-HillelFG21,
   author    = {Keren Censor-Hillel and
                Pierre Fraigniaud and
@@ -6709,7 +7475,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/FalerioRRRV12,
-  author    = {Jose M. Falerio and
+  author    = {Jose M. Faleiro and
                Sriram K. Rajamani and
                Kaushik Rajan and
                G. Ramalingam and
@@ -12089,7 +12855,7 @@
 @inproceedings{DBLP:conf/podc/HalldorssonHLM04,
   author    = {Magnús M. Halldórsson and
                Joseph Y. Halpern and
-               Erran L. Li and
+               Li (Erran) Li and
                Vahab S. Mirrokni},
   title     = {On spectrum sharing games},
   booktitle = podc,
@@ -13914,7 +14680,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/LiHBWW01,
-  author    = {Erran L. Li and
+  author    = {Li Li and
                Joseph Y. Halpern and
                Paramvir Bahl and
                Yi-Min Wang and

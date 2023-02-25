@@ -1,5 +1,3998 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/ccs/Dijk22,
+  author    = {Marten van Dijk},
+  title     = {Towards Remote Verifiable Computation without Digital Secrets},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Tippenhauer22,
+  author    = {Nils Ole Tippenhauer},
+  title     = {Déjà Vu? Challenges and Opportunities for {AM} Security from an {ICS} perspective},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ccs/Nita-Rotaru22,
+  author    = {Cristina Nita-Rotaru},
+  title     = {Dynamic Security with SDN: Opportunities, Challenges, and Lessons Learned},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/ccs/DevadasLSS022,
+  author    = {Srinivas Devadas and
+               Simon Langowski and
+               Nikola Samardzic and
+               Sacha Servan-Schreiber and
+               Daniel Sánchez},
+  title     = {Designing Hardware for Cryptography and Cryptography for Hardware},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-4},
+}
+
+@inproceedings{DBLP:conf/ccs/ChitraK22,
+  author    = {Tarun Chitra and
+               Kshitij Kulkarni},
+  title     = {Improving Proof of Stake Economic Security via {MEV} Redistribution},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/ccs/Joye022,
+  author    = {Marc Joye and
+               Michael Walter},
+  title     = {Liberating TFHE: Programmable Bootstrapping with General Quotient Polynomials},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/ccs/ContiLPX22,
+  author    = {Mauro Conti and
+               Jiaxin Li and
+               Stjepan Picek and
+               Jing Xu},
+  title     = {{Label-Only} Membership Inference Attack against {Node-Level} Graph Neural Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/ccs/GheinAS022,
+  author    = {Robbe De Ghein and
+               Bert Abrath and
+               Bjorn De Sutter and
+               Bart Coppens},
+  title     = {ApkDiff: Matching Android App Versions Based on Class Structure},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/ccs/ErbaMT22,
+  author    = {Alessandro Erba and
+               Anne Müller and
+               Nils Ole Tippenhauer},
+  title     = {Security Analysis of Vendor Implementations of the {OPC} {UA} Protocol for Industrial Control Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1-13},
+}
+
+@inproceedings{DBLP:conf/ccs/Yarom22,
+  author    = {Yuval Yarom},
+  title     = {Automating Cryptographic Code Generation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/ccs/Blackburn0R22,
+  author    = {Christopher Blackburn and
+               Xiaoguang Wang and
+               Binoy Ravindran},
+  title     = {Rave: A Modular and Extensible Framework for Program State {Re-Randomization}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3-10},
+}
+
+@inproceedings{DBLP:conf/ccs/DurlingMSMCACC22,
+  author    = {Michael R. Durling and
+               Abha Moitra and
+               Kit Y. Siu and
+               Baoluo Meng and
+               John W. Carbone and
+               Christopher C. Alexander and
+               Krystel K. Castillo-Villar and
+               Gabriela F. Ciocarlie},
+  title     = {{Model-Based} Security Analysis in Additive Manufacturing Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3-13},
+}
+
+@inproceedings{DBLP:conf/ccs/AljafarAFP22,
+  author    = {Muayad J. Aljafar and
+               Florence Azaïs and
+               Marie-Lise Flottes and
+               Samuel Pagliarini},
+  title     = {Leveraging Layout-based Effects for Locking Analog {ICs}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {5-13},
+}
+
+@inproceedings{DBLP:conf/ccs/Mazurek22,
+  author    = {Michelle L. Mazurek},
+  title     = {We Are the Experts, and We Are the Problem: The Security Advice Fiasco},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/ccs/McDaniel22,
+  author    = {Patrick Drew McDaniel},
+  title     = {Sustainability is a Security Problem},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {9-10},
+}
+
+@inproceedings{DBLP:conf/ccs/BabelB22,
+  author    = {Kushal Babel and
+               Lucas Baker},
+  title     = {Strategic Peer Selection Using Transaction Value and Latency},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/ccs/Cabrera-Arteaga22,
+  author    = {Javier Cabrera-Arteaga and
+               Pierre Laperdrix and
+               Martin Monperrus and
+               Benoit Baudry},
+  title     = {Multi-variant Execution at the Edge},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {11-22},
+}
+
+@inproceedings{DBLP:conf/ccs/HaidarLP22,
+  author    = {Calvin Abou Haidar and
+               Benoît Libert and
+               Alain Passelègue},
+  title     = {Updatable Public Key Encryption from DCR: Efficient Constructions With Stronger Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {11-22},
+}
+
+@inproceedings{DBLP:conf/ccs/KangKCC22,
+  author    = {Seoyeon Kang and
+               Jeongwoo Kim and
+               Eun-Sun Cho and
+               Seokwoo Choi},
+  title     = {Program Synthesis-based Simplification of {MBA} Obfuscated Malware with Restart Strategies},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/ccs/MaedaMN22,
+  author    = {Daisuke Maeda and
+               Koki Morimura and
+               Takashi Nishide},
+  title     = {Efficient Homomorphic Evaluation of Arbitrary Bivariate Integer Functions},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/ccs/MazzoneHHVE0P22,
+  author    = {Federico Mazzone and
+               Leander van den Heuvel and
+               Maximilian Huber and
+               Cristian Verdecchia and
+               Maarten H. Everts and
+               Florian Hahn and
+               Andreas Peter},
+  title     = {Repeated Knowledge Distillation with Confidence Masking to Mitigate Membership Inference Attacks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/ccs/MazorraRD22,
+  author    = {Bruno Mazorra and
+               Michael Reynolds and
+               Vanesa Daza},
+  title     = {Price of MEV: Towards a Game Theoretical Approach to {MEV}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {15-22},
+}
+
+@inproceedings{DBLP:conf/ccs/ChoudhariGK22,
+  author    = {Amit Choudhari and
+               Sylvain Guilley and
+               Khaled Karray},
+  title     = {SpecDefender: Transient Execution Attack Defender using Performance Counters},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {15-24},
+}
+
+@inproceedings{DBLP:conf/ccs/ZinnerPSKY22,
+  author    = {Theo Zinner and
+               Grant Parker and
+               Nima Shamsaei and
+               Wayne E. King and
+               Mark Yampolskiy},
+  title     = {Spooky Manufacturing: Probabilistic Sabotage Attack in Metal {AM} using Shielding Gas Flow Control},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {15-24},
+}
+
+@inproceedings{DBLP:conf/ccs/CrescenzoKKS22,
+  author    = {Giovanni Di Crescenzo and
+               Matluba Khodjaeva and
+               Rajesh Krishnan and
+               David Shur},
+  title     = {{Single-Server} Delegation of {Small-Exponent} Exponentiation from {Quasilinear-Time} Clients and Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/ccs/ReichenwallnerM22,
+  author    = {Benjamin Reichenwallner and
+               Peter Meerwald-Stadler},
+  title     = {Efficient Deobfuscation of Linear Mixed {Boolean-Arithmetic} Expressions},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {19-28},
+}
+
+@inproceedings{DBLP:conf/ccs/Papernot22,
+  author    = {Nicolas Papernot},
+  title     = {The Role of Randomization in Trustworthy Machine Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {23-24},
+}
+
+@inproceedings{DBLP:conf/ccs/JiaY22,
+  author    = {Ruizhe Jia and
+               Steven Yin},
+  title     = {To {EVM} or Not to EVM: Blockchain Compatibility and Network Effects},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {23-29},
+}
+
+@inproceedings{DBLP:conf/ccs/AzogaghDGK22,
+  author    = {Sofiane Azogagh and
+               Victor Delfour and
+               Sébastien Gambs and
+               Marc-Olivier Killijian},
+  title     = {PROBONITE: {PRivate} {One-Branch-Only} {Non-Interactive} decision Tree Evaluation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {23-33},
+}
+
+@inproceedings{DBLP:conf/ccs/000622,
+  author    = {Shubham Agarwal},
+  title     = {Helping or Hindering?: How Browser Extensions Undermine Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {23-37},
+}
+
+@inproceedings{DBLP:conf/ccs/Kong0C22,
+  author    = {Zhifeng Kong and
+               Amrita Roy Chowdhury and
+               Kamalika Chaudhuri},
+  title     = {Forgeability and Membership Inference Attacks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {25-31},
+}
+
+@inproceedings{DBLP:conf/ccs/Jana022,
+  author    = {Amit Jana and
+               Goutam Paul},
+  title     = {Differential Fault Attack on {PHOTON-Beetle}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {25-34},
+}
+
+@inproceedings{DBLP:conf/ccs/KoblahGFT22,
+  author    = {David Selasi Koblah and
+               Fatemeh Ganji and
+               Domenic Forte and
+               Shahin Tajik},
+  title     = {Hardware Moving Target Defenses against Physical Attacks: Design Challenges and Opportunities},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/ccs/YoginathITPJAEL22,
+  author    = {Srikanth B. Yoginath and
+               Michael D. Iannacone and
+               Varisara Tansakul and
+               Ali Passian and
+               Rob Jordan and
+               Joel Asiamah and
+               M. Nance Ericson and
+               Gavin B. Long and
+               Joel A. Dawson},
+  title     = {Stealthy Cyber Anomaly Detection On Large Noisy Multi-material 3D Printer Datasets Using Probabilistic Models},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {25-38},
+}
+
+@inproceedings{DBLP:conf/ccs/BanerjeeHOHB22,
+  author    = {Vijay Banerjee and
+               Sena Hounsinou and
+               Habeeb Olufowobi and
+               Monowar Hasan and
+               Gedare Bloom},
+  title     = {Secure Reboots for {Real-Time} {Cyber-Physical} Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {27-33},
+}
+
+@inproceedings{DBLP:conf/ccs/MilionisHAG22,
+  author    = {Jason Milionis and
+               Dean Hirsch and
+               Andy Arditi and
+               Pranav Garimidi},
+  title     = {A Framework for {Single-Item} {NFT} Auction Mechanism Design},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {31-38},
+}
+
+@inproceedings{DBLP:conf/ccs/DasuSM22,
+  author    = {Vishnu Asutosh Dasu and
+               Sumanta Sarkar and
+               Kalikinkar Mandal},
+  title     = {PROV-FL: Privacy-preserving Round Optimal Verifiable Federated Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {33-44},
+}
+
+@inproceedings{DBLP:conf/ccs/RezaeiHM22,
+  author    = {Marziyeh Rezaei and
+               Liban Hussein and
+               Sajjad Moazeni},
+  title     = {Secure {FMCW} {LiDAR} Systems with Frequency Encryption},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {35-43},
+}
+
+@inproceedings{DBLP:conf/ccs/BidehG22,
+  author    = {Pegah Nikbakht Bideh and
+               Christian Gehrmann},
+  title     = {RoSym: Robust Symmetric Key Based {IoT} Software Upgrade {Over-the-Air}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {35-46},
+}
+
+@inproceedings{DBLP:conf/ccs/ChakrabortyZ22,
+  author    = {Olive Chakraborty and
+               Martin Zuber},
+  title     = {Efficient and Accurate Homomorphic Comparisons},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {35-46},
+}
+
+@inproceedings{DBLP:conf/ccs/GhaderiJNS22,
+  author    = {Majid Ghaderi and
+               Samuel Jero and
+               Cristina Nita-Rotaru and
+               Reihaneh Safavi-Naini},
+  title     = {On Randomization in {MTD} Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {37-43},
+}
+
+@inproceedings{DBLP:conf/ccs/Faruque22,
+  author    = {Mohammad Abdullah Al Faruque},
+  title     = {{Cross-Layer} Security of Embedded and {Cyber-Physical} Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {39-40},
+}
+
+@inproceedings{DBLP:conf/ccs/McMenaminDFO22,
+  author    = {Conor McMenamin and
+               Vanesa Daza and
+               Matthias Fitzi and
+               Padraic O'Donoghue},
+  title     = {FairTraDEX: A Decentralised Exchange Preventing Value Extraction},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {39-46},
+}
+
+@inproceedings{DBLP:conf/ccs/AgrawalKSY22,
+  author    = {Shweta Agrawal and
+               Elena Kirshanova and
+               Damien Stehlé and
+               Anshu Yadav},
+  title     = {Practical, {Round-Optimal} {Lattice-Based} Blind Signatures},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {39-53},
+}
+
+@inproceedings{DBLP:conf/ccs/RetiFE0S22,
+  author    = {Daniel Reti and
+               Daniel Fraunholz and
+               Karina Elzer and
+               Daniel Schneider and
+               Hans Dieter Schotten},
+  title     = {Evaluating Deception and Moving Target Defense with Network Attack Simulation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {45-53},
+}
+
+@inproceedings{DBLP:conf/ccs/SeddighEBAS22,
+  author    = {Milad Seddigh and
+               Mahdi Esfahani and
+               Sarani Bhattacharya and
+               Mohammad Reza Aref and
+               Hadi Soleimany},
+  title     = {Breaking {KASLR} on Mobile Devices without Any Use of Cache Memory},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {45-54},
+}
+
+@inproceedings{DBLP:conf/ccs/RamakrishnaD22,
+  author    = {Raksha Ramakrishna and
+               György Dán},
+  title     = {Inferring {Class-Label} Distribution in Federated Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/ccs/InoueSY22,
+  author    = {Kotaro Inoue and
+               Takuya Suzuki and
+               Hayato Yamana},
+  title     = {Acceleration of Homomorphic Unrolled {Trace-Type} Function using AVX512 instructions},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {47-52},
+}
+
+@inproceedings{DBLP:conf/ccs/HeimbachSW22,
+  author    = {Lioba Heimbach and
+               Eric Schertenleib and
+               Roger Wattenhofer},
+  title     = {Exploring Price Accuracy on Uniswap V3 in Times of Distress},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {47-53},
+}
+
+@inproceedings{DBLP:conf/ccs/KonBC22,
+  author    = {Patrick Tser Jern Kon and
+               Diogo Barradas and
+               Ang Chen},
+  title     = {Stargaze: A {LEO} Constellation Emulator for Security Experimentation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {47-53},
+}
+
+@inproceedings{DBLP:conf/ccs/BadawiBBCEGHHKL22,
+  author    = {Ahmad Al Badawi and
+               Jack Bates and
+               Flávio Bergamaschi and
+               David Bruce Cousins and
+               Saroja Erabelli and
+               Nicholas Genise and
+               Shai Halevi and
+               Hamish Hunt and
+               Andrey Kim and
+               Yongwoo Lee and
+               Zeyu Liu and
+               Daniele Micciancio and
+               Ian Quah and
+               Yuriy Polyakov and
+               R. V. Saraswathy and
+               Kurt Rohloff and
+               Jonathan Saylor and
+               Dmitriy Suponitsky and
+               Matthew Triplett and
+               Vinod Vaikuntanathan and
+               Vincent Zucca},
+  title     = {OpenFHE: {Open-Source} Fully Homomorphic Encryption Library},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {53-63},
+}
+
+@inproceedings{DBLP:conf/ccs/ChitraAEK22,
+  author    = {Tarun Chitra and
+               Guillermo Angeris and
+               Alex Evans and
+               Hsien-Tang Kao},
+  title     = {A Note On Borrowing Constant Function Market Maker Shares},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {55-61},
+}
+
+@inproceedings{DBLP:conf/ccs/RaoGZ22,
+  author    = {Sanjeev Rao and
+               Majid Ghaderi and
+               Hongwen Zhang},
+  title     = {CloudPAD: Managed Anomaly Detection for {ICS}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {55-61},
+}
+
+@inproceedings{DBLP:conf/ccs/TebelmannWP22,
+  author    = {Lars Tebelmann and
+               Moritz Wettermann and
+               Michael Pehl},
+  title     = {{On-Chip} {Side-Channel} Analysis of the Loop {PUF}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {55-63},
+}
+
+@inproceedings{DBLP:conf/ccs/BallotMLB22,
+  author    = {Gabriel Ballot and
+               Vadim Malvone and
+               Jean Leneutre and
+               Etienne Borde},
+  title     = {Reasoning about Moving Target Defense in Attack Modeling Formalisms},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {55-65},
+}
+
+@inproceedings{DBLP:conf/ccs/AiXLCYS022,
+  author    = {Mingrui Ai and
+               Kaiping Xue and
+               Bo Luo and
+               Lutong Chen and
+               Nenghai Yu and
+               Qibin Sun and
+               Feng Wu},
+  title     = {Blacktooth: Breaking through the Defense of Bluetooth in Silence},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {55-68},
+}
+
+@inproceedings{DBLP:conf/ccs/Li000022,
+  author    = {Lin Li and
+               Chao Chen and
+               Lei Pan and
+               Jun Zhang and
+               Yang Xiang},
+  title     = {Video is All You Need: Attacking {PPG-based} Biometric Authentication},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {57-66},
+}
+
+@inproceedings{DBLP:conf/ccs/BabarH22,
+  author    = {Mohammad Fakhruddin Babar and
+               Monowar Hasan},
+  title     = {{Real-Time} Scheduling of {TrustZone-enabled} {DNN} Workloads},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {63-69},
+}
+
+@inproceedings{DBLP:conf/ccs/HashemsereshtP22,
+  author    = {Saleh Hashemseresht and
+               Mohsen Pourpouneh},
+  title     = {Concentrated Liquidity Analysis in Uniswap V3},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {63-70},
+}
+
+@inproceedings{DBLP:conf/ccs/0001PBWT22,
+  author    = {Jens Trautmann and
+               Nikolaos Patsiatzis and
+               Andreas Becher and
+               Stefan Wildermann and
+               Jürgen Teich},
+  title     = {Putting {IMT} to the Test: Revisiting and Expanding Interval Matching Techniques and their Calibration for {SCA}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {65-74},
+}
+
+@inproceedings{DBLP:conf/ccs/MaT0GWC22,
+  author    = {Duohe Ma and
+               Zhimin Tang and
+               Xiaoyan Sun and
+               Lu Guo and
+               Liming Wang and
+               Kai Chen},
+  title     = {Game Theory Approaches for Evaluating the Deception-based Moving Target Defense},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {67-77},
+}
+
+@inproceedings{DBLP:conf/ccs/MidtlidAL22,
+  author    = {Kim André Midtlid and
+               Johannes Åsheim and
+               Jingyue Li},
+  title     = {Magnitude Adversarial Spectrum Search-based Black-box Attack against Image Classification},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {67-77},
+}
+
+@inproceedings{DBLP:conf/ccs/AlwenHKM22,
+  author    = {Joël Alwen and
+               Dominik Hartmann and
+               Eike Kiltz and
+               Marta Mularczyk},
+  title     = {{Server-Aided} Continuous Group Key Agreement},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {69-82},
+}
+
+@inproceedings{DBLP:conf/ccs/MilionisMRZ22,
+  author    = {Jason Milionis and
+               Ciamac C. Moallemi and
+               Tim Roughgarden and
+               Anthony Lee Zhang},
+  title     = {Quantifying Loss in Automated Market Makers},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {71-74},
+}
+
+@inproceedings{DBLP:conf/ccs/VieraDL22,
+  author    = {Raphael Viera and
+               Jean-Max Dutertre and
+               Rodrigo Silva Lima},
+  title     = {Injecting Permanent Faults into the Flash Memory of a Microcontroller with Laser Illumination During Read Operations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {75-84},
+}
+
+@inproceedings{DBLP:conf/ccs/SavaSSB22,
+  author    = {Paul Andrei Sava and
+               Jan-Philipp Schulze and
+               Philip Sperl and
+               Konstantin Böttinger},
+  title     = {Assessing the Impact of Transformations on Physical Adversarial Attacks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {79-90},
+}
+
+@inproceedings{DBLP:conf/ccs/ShivakumarBGLP22,
+  author    = {Basavesh Ammanaghatta Shivakumar and
+               Gilles Barthe and
+               Benjamin Grégoire and
+               Vincent Laporte and
+               Swarn Priya},
+  title     = {Enforcing Fine-grained Constant-time Policies},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {83-96},
+}
+
+@inproceedings{DBLP:conf/ccs/WagnerOS22,
+  author    = {Alexander Wagner and
+               Felix Oberhansl and
+               Marc Schink},
+  title     = {To Be, or Not to Be Stateful: {Post-Quantum} Secure Boot using {Hash-Based} Signatures},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {85-94},
+}
+
+@inproceedings{DBLP:conf/ccs/Wu0SMM22,
+  author    = {Tong Wu and
+               Tianhao Wang and
+               Vikash Sehwag and
+               Saeed Mahloujifar and
+               Prateek Mittal},
+  title     = {Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {91-102},
+}
+
+@inproceedings{DBLP:conf/ccs/AydinA22,
+  author    = {Furkan Aydin and
+               Aydin Aysu},
+  title     = {Exposing {Side-Channel} Leakage of {SEAL} Homomorphic Encryption Library},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {95-100},
+}
+
+@inproceedings{DBLP:conf/ccs/AngelDHSW22,
+  author    = {Yawning Angel and
+               Benjamin Dowling and
+               Andreas Hülsing and
+               Peter Schwabe and
+               Florian Weber},
+  title     = {Post Quantum Noise},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {97-109},
+}
+
+@inproceedings{DBLP:conf/ccs/KarabulutYSPAA22,
+  author    = {Emre Karabulut and
+               Chandu Yuvarajappa and
+               Mohammed Iliyas Shaik and
+               Seetal Potluri and
+               Amro Awad and
+               Aydin Aysu},
+  title     = {{PR} Crisis: Analyzing and Fixing Partial Reconfiguration in {Multi-Tenant} Cloud {FPGAs}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {101-106},
+}
+
+@inproceedings{DBLP:conf/ccs/Maghsoudimehrabani22,
+  author    = {Mohammad Maghsoudimehrabani and
+               Amin Azmoodeh and
+               Ali Dehghantanha and
+               Behrouz Zolfaghari and
+               Gautam Srivastava},
+  title     = {Proactive Detection of Query-based Adversarial Scenarios in {NLP} Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {103-113},
+}
+
+@inproceedings{DBLP:conf/ccs/AranhaLO022,
+  author    = {Diego F. Aranha and
+               Chuanwei Lin and
+               Claudio Orlandi and
+               Mark Simkin},
+  title     = {Laconic Private {Set-Intersection} From Pairings},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {111-124},
+}
+
+@inproceedings{DBLP:conf/ccs/SakaVK22,
+  author    = {Tarini Saka and
+               Kami Vaniea and
+               Nadin Kökciyan},
+  title     = {{Context-Based} Clustering to Mitigate Phishing Attacks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {115-126},
+}
+
+@inproceedings{DBLP:conf/ccs/AsharovHIKNPTT22,
+  author    = {Gilad Asharov and
+               Koki Hamada and
+               Dai Ikarashi and
+               Ryo Kikuchi and
+               Ariel Nof and
+               Benny Pinkas and
+               Katsumi Takahashi and
+               Junichi Tomida},
+  title     = {Efficient Secure {Three-Party} Sorting with Applications to Data Analysis and Heavy Hitters},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {125-138},
+}
+
+@inproceedings{DBLP:conf/ccs/Trizna22,
+  author    = {Dmitrijs Trizna},
+  title     = {Quo Vadis: Hybrid Machine Learning {Meta-Model} Based on Contextual and Behavioral Malware Representations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {127-136},
+}
+
+@inproceedings{DBLP:conf/ccs/MillarPKR022,
+  author    = {Stuart Millar and
+               Denis Podgurskii and
+               Dan Kuykendall and
+               Jesús Martínez del Rincón and
+               Paul Miller},
+  title     = {Optimising Vulnerability Triage in {DAST} with Deep Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {137-147},
+}
+
+@inproceedings{DBLP:conf/ccs/AshurMT22,
+  author    = {Tomer Ashur and
+               Mohammad Mahzoun and
+               Dilara Toprakhisar},
+  title     = {Chaghri - A {FHE-friendly} Block Cipher},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {139-150},
+}
+
+@inproceedings{DBLP:conf/ccs/ApplebaumDDMNNP22,
+  author    = {Andy Applebaum and
+               Camron Dennler and
+               Patrick Dwyer and
+               Marina Moskowitz and
+               Harold Nguyen and
+               Nicole Nichols and
+               Nicole Park and
+               Paul Rachwalski and
+               Frank Rau and
+               Adrian Webster and
+               Melody Wolk},
+  title     = {Bridging Automated to Autonomous Cyber Defense: Foundational Analysis of Tabular {Q-Learning}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {149-159},
+}
+
+@inproceedings{DBLP:conf/ccs/AttrapadungMOST22,
+  author    = {Nuttapong Attrapadung and
+               Hiraku Morita and
+               Kazuma Ohara and
+               Jacob C. N. Schuldt and
+               Tadanori Teruya and
+               Kazunari Tozawa},
+  title     = {Secure Parallel Computation on Privately Partitioned Data and Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {151-164},
+}
+
+@inproceedings{DBLP:conf/ccs/AumayrAM22,
+  author    = {Lukas Aumayr and
+               Kasra Abbaszadeh and
+               Matteo Maffei},
+  title     = {Thora: Atomic and {Privacy-Preserving} {Multi-Channel} Updates},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {165-178},
+}
+
+@inproceedings{DBLP:conf/ccs/AumayrTMMM22,
+  author    = {Lukas Aumayr and
+               Sri Aravinda Krishnan Thyagarajan and
+               Giulio Malavolta and
+               Pedro Moreno-Sanchez and
+               Matteo Maffei},
+  title     = {Sleepy Channels: Bi-directional Payment Channels without Watchtowers},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {179-192},
+}
+
+@inproceedings{DBLP:conf/ccs/BachoL22,
+  author    = {Renas Bacho and
+               Julian Loss},
+  title     = {On the Adaptive Security of the Threshold {BLS} Signature Scheme},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {193-207},
+}
+
+@inproceedings{DBLP:conf/ccs/BadrinarayananD22,
+  author    = {Saikrishna Badrinarayanan and
+               Sourav Das and
+               Gayathri Garimella and
+               Srinivasan Raghuraman and
+               Peter Rindal},
+  title     = {{Secret-Shared} Joins with Multiplicity from Aggregation Trees},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {209-222},
+}
+
+@inproceedings{DBLP:conf/ccs/BaeC0KK22,
+  author    = {Youngjin Bae and
+               Jung Hee Cheon and
+               Wonhee Cho and
+               Jaehyung Kim and
+               Taekyung Kim},
+  title     = {META-BTS: Bootstrapping Precision Beyond the Limit},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {223-234},
+}
+
+@inproceedings{DBLP:conf/ccs/BairdM022,
+  author    = {Leemon Baird and
+               Pratyay Mukherjee and
+               Rohit Sinha},
+  title     = {i-TiRE: Incremental {Timed-Release} Encryption or How to use {Timed-Release} Encryption on Blockchains?},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {235-248},
+}
+
+@inproceedings{DBLP:conf/ccs/BalutaSHTS22,
+  author    = {Teodora Baluta and
+               Shiqi Shen and
+               S. Hitarth and
+               Shruti Tople and
+               Prateek Saxena},
+  title     = {Membership Inference Attacks and Generalization: A Causal Perspective},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {249-262},
+}
+
+@inproceedings{DBLP:conf/ccs/BartheLMR22,
+  author    = {Gilles Barthe and
+               Ugo Dal Lago and
+               Giulio Malavolta and
+               Itsaka Rakotonirina},
+  title     = {Tidy: Symbolic Verification of Timed Cryptographic Protocols},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {263-276},
+}
+
+@inproceedings{DBLP:conf/ccs/BaruaAF22,
+  author    = {Anomadarshi Barua and
+               Yonatan Gizachew Achamyeleh and
+               Mohammad Abdullah Al Faruque},
+  title     = {A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {277-291},
+}
+
+@inproceedings{DBLP:conf/ccs/BaumJOSS22,
+  author    = {Carsten Baum and
+               Robin Jadoul and
+               Emmanuela Orsini and
+               Peter Scholl and
+               Nigel P. Smart},
+  title     = {Feta: Efficient Threshold {Designated-Verifier} {Zero-Knowledge} Proofs},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {293-306},
+}
+
+@inproceedings{DBLP:conf/ccs/0001GG0M0S22,
+  author    = {James Bell and
+               Adrià Gascón and
+               Badih Ghazi and
+               Ravi Kumar and
+               Pasin Manurangsi and
+               Mariana Raykova and
+               Phillipp Schoppmann},
+  title     = {Distributed, Private, Sparse Histograms in the {Two-Server} Model},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {307-321},
+}
+
+@inproceedings{DBLP:conf/ccs/BenhamoudaHKMR22,
+  author    = {Fabrice Benhamouda and
+               Shai Halevi and
+               Hugo Krawczyk and
+               Alex Miao and
+               Tal Rabin},
+  title     = {Threshold Cryptography as a Service (in the Multiserver and {YOSO} Models)},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {323-336},
+}
+
+@inproceedings{DBLP:conf/ccs/BerkeC22,
+  author    = {Alex Berke and
+               Dan Calacci},
+  title     = {Privacy Limitations of Interest-based Advertising on The Web: A Post-mortem Empirical Analysis of Google's {FLoC}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {337-349},
+}
+
+@inproceedings{DBLP:conf/ccs/BernhardSSBH22,
+  author    = {Lukas Bernhard and
+               Tobias Scharnowski and
+               Moritz Schloegel and
+               Tim Blazytko and
+               Thorsten Holz},
+  title     = {JIT-Picking: Differential Fuzzing of {JavaScript} Engines},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {351-364},
+}
+
+@inproceedings{DBLP:conf/ccs/BhargavanCW22,
+  author    = {Karthikeyan Bhargavan and
+               Vincent Cheval and
+               Christopher A. Wood},
+  title     = {A Symbolic Analysis of Privacy for {TLS} 1.3 with Encrypted Client Hello},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {365-379},
+}
+
+@inproceedings{DBLP:conf/ccs/BloemGGHMP22,
+  author    = {Roderick Bloem and
+               Barbara Gigerl and
+               Marc Gourjon and
+               Vedad Hadzic and
+               Stefan Mangard and
+               Robert Primas},
+  title     = {Power Contracts: Provably Complete Power Leakage Models for Processors},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {381-395},
+}
+
+@inproceedings{DBLP:conf/ccs/BougonCCDDDGT22,
+  author    = {Mikael Bougon and
+               Hervé Chabanne and
+               Véronique Cortier and
+               Alexandre Debant and
+               Emmanuelle Dottax and
+               Jannik Dreier and
+               Pierrick Gaudry and
+               Mathieu Turuani},
+  title     = {Themis: An {On-Site} Voting System with Systematic Cast-as-intended Verification and Partial Accountability},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {397-410},
+}
+
+@inproceedings{DBLP:conf/ccs/BruseghiniHP22,
+  author    = {Lara Bruseghini and
+               Daniel Huigens and
+               Kenneth G. Paterson},
+  title     = {Victory by KO: Attacking {OpenPGP} Using Key Overwriting},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {411-423},
+}
+
+@inproceedings{DBLP:conf/ccs/BuiTS22,
+  author    = {Duc Bui and
+               Brian Tang and
+               Kang G. Shin},
+  title     = {Do {Opt-Outs} Really Opt Me Out?},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {425-439},
+}
+
+@inproceedings{DBLP:conf/ccs/CaiZWJW22,
+  author    = {Chengjun Cai and
+               Yichen Zang and
+               Cong Wang and
+               Xiaohua Jia and
+               Qian Wang},
+  title     = {Vizard: A Metadata-hiding Data Analytic System with {End-to-End} Policy Controls},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {441-454},
+}
+
+@inproceedings{DBLP:conf/ccs/Campanelli0HKKO22,
+  author    = {Matteo Campanelli and
+               Dario Fiore and
+               Semin Han and
+               Jihye Kim and
+               Dimitris Kolonelos and
+               Hyunok Oh},
+  title     = {Succinct {Zero-Knowledge} Batch Proofs for Set Accumulators},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {455-469},
+}
+
+@inproceedings{DBLP:conf/ccs/CasacubertaSVW22,
+  author    = {Sílvia Casacuberta and
+               Michael Shoemate and
+               Salil P. Vadhan and
+               Connor Wagaman},
+  title     = {Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {471-484},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenCMW0SLGDJX22,
+  author    = {Libo Chen and
+               Quanpu Cai and
+               Zhenbang Ma and
+               Yanhao Wang and
+               Hong Hu and
+               Minghang Shen and
+               Yue Liu and
+               Shanqing Guo and
+               Haixin Duan and
+               Kaida Jiang and
+               Zhi Xue},
+  title     = {SFuzz: Slice-based Fuzzing for {Real-Time} Operating Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {485-498},
+}
+
+@inproceedings{DBLP:conf/ccs/Chen000H022,
+  author    = {Min Chen and
+               Zhikun Zhang and
+               Tianhao Wang and
+               Michael Backes and
+               Mathias Humbert and
+               Yang Zhang},
+  title     = {Graph Unlearning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {499-513},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenTG22,
+  author    = {Zitai Chen and
+               Sam L. Thomas and
+               Flavio D. Garcia},
+  title     = {MetaEmu: An Architecture Agnostic Rehosting Framework for Automotive Firmware},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {515-529},
+}
+
+@inproceedings{DBLP:conf/ccs/ChongchitmateIL22,
+  author    = {Wutichai Chongchitmate and
+               Yuval Ishai and
+               Steve Lu and
+               Rafail Ostrovsky},
+  title     = {{PSI} from {Ring-OLE}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {531-545},
+}
+
+@inproceedings{DBLP:conf/ccs/CohenTHGKOY22,
+  author    = {Yaakov Cohen and
+               Kevin Sam Tharayil and
+               Arie Haenel and
+               Daniel Genkin and
+               Angelos D. Keromytis and
+               Yossi Oren and
+               Yuval Yarom},
+  title     = {HammerScope: Observing {DRAM} Power Consumption Using Rowhammer},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {547-561},
+}
+
+@inproceedings{DBLP:conf/ccs/Cong00P22,
+  author    = {Kelong Cong and
+               Debajyoti Das and
+               Jeongeun Park and
+               Hilder V. L. Pereira},
+  title     = {SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {563-577},
+}
+
+@inproceedings{DBLP:conf/ccs/CongHZ22,
+  author    = {Tianshuo Cong and
+               Xinlei He and
+               Yang Zhang},
+  title     = {SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {579-593},
+}
+
+@inproceedings{DBLP:conf/ccs/CorettiKMR22,
+  author    = {Sandro Coretti and
+               Aggelos Kiayias and
+               Cristopher Moore and
+               Alexander Russell},
+  title     = {The Generals' Scuttlebutt: {Byzantine-Resilient} Gossip Protocols},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {595-608},
+}
+
+@inproceedings{DBLP:conf/ccs/CouteauGKR22,
+  author    = {Geoffroy Couteau and
+               Dahmun Goudarzi and
+               Michael Klooß and
+               Michael Reichle},
+  title     = {Sharp: Short Relaxed Range Proofs},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {609-622},
+}
+
+@inproceedings{DBLP:conf/ccs/0002HCM22,
+  author    = {Ana-Maria Cretu and
+               Florimond Houssiau and
+               Antoine Cully and
+               Yves-Alexandre de Montjoye},
+  title     = {QuerySnout: Automating the Discovery of Attribute Inference Attacks against {Query-Based} Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {623-637},
+}
+
+@inproceedings{DBLP:conf/ccs/CuiZGT022,
+  author    = {Siwei Cui and
+               Gang Zhao and
+               Yifei Gao and
+               Tien Tavu and
+               Jeff Huang},
+  title     = {VRust: Automated Vulnerability Detection for Solana Smart Contracts},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {639-652},
+}
+
+@inproceedings{DBLP:conf/ccs/Dalskov0N22,
+  author    = {Anders P. K. Dalskov and
+               Daniel Escudero and
+               Ariel Nof},
+  title     = {Fast Fully Secure {Multi-Party} Computation over Any Ring with {Two-Thirds} Honest Majority},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {653-666},
+}
+
+@inproceedings{DBLP:conf/ccs/0002BRKV22,
+  author    = {Dipanjan Das and
+               Priyanka Bose and
+               Nicola Ruaro and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Understanding Security Issues in the {NFT} Ecosystem},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {667-681},
+}
+
+@inproceedings{DBLP:conf/ccs/DavidM0NT22,
+  author    = {Bernardo David and
+               Bernardo Magri and
+               Christian Matt and
+               Jesper Buus Nielsen and
+               Daniel Tschudi},
+  title     = {GearBox: Optimal-size Shard Committees by Leveraging the {Safety-Liveness} Dichotomy},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {683-696},
+}
+
+@inproceedings{DBLP:conf/ccs/DavidsonSQGLH22,
+  author    = {Alex Davidson and
+               Peter Snyder and
+               E. B. Quirk and
+               Joseph Genereux and
+               Benjamin Livshits and
+               Hamed Haddadi},
+  title     = {STAR: Secret Sharing for Private Threshold Aggregation Reporting},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {697-710},
+}
+
+@inproceedings{DBLP:conf/ccs/TronLCPZ22,
+  author    = {Alvise de Faveri Tron and
+               Stefano Longari and
+               Michele Carminati and
+               Mario Polino and
+               Stefano Zanero},
+  title     = {CANflict: Exploiting Peripheral Conflicts for {Data-Link} Layer Attacks on Automotive Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {711-723},
+}
+
+@inproceedings{DBLP:conf/ccs/PerthuisP22,
+  author    = {Paola de Perthuis and
+               David Pointcheval},
+  title     = {{Two-Client} {Inner-Product} Functional Encryption with an Application to {Money-Laundering} Detection},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {725-737},
+}
+
+@inproceedings{DBLP:conf/ccs/DengXZ0022,
+  author    = {Gelei Deng and
+               Guowen Xu and
+               Yuan Zhou and
+               Tianwei Zhang and
+               Yang Liu},
+  title     = {On the (In)Security of Secure ROS2},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {739-753},
+}
+
+@inproceedings{DBLP:conf/ccs/DengCX22,
+  author    = {Jiangyi Deng and
+               Yanjiao Chen and
+               Wenyuan Xu},
+  title     = {FenceSitter: Black-box, Content-Agnostic, and {Synchronization-Free} {Enrollment-Phase} Attacks on Speaker Recognition Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {755-767},
+}
+
+@inproceedings{DBLP:conf/ccs/DengWYLNLLYHCZ22,
+  author    = {Yunjie Deng and
+               Chenxu Wang and
+               Shunchang Yu and
+               Shiqing Liu and
+               Zhenyu Ning and
+               Kevin Leach and
+               Jin Li and
+               Shoumeng Yan and
+               Zhengyu He and
+               Jiannong Cao and
+               Fengwei Zhang},
+  title     = {StrongBox: A {GPU} {TEE} on Arm Endpoints},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {769-783},
+}
+
+@inproceedings{DBLP:conf/ccs/DengCMZXC22,
+  author    = {Zizhuang Deng and
+               Kai Chen and
+               Guozhu Meng and
+               Xiaodong Zhang and
+               Ke Xu and
+               Yao Cheng},
+  title     = {Understanding Real-world Threats to Deep Learning Models in Android Apps},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {785-799},
+}
+
+@inproceedings{DBLP:conf/ccs/DhondtPVJV22,
+  author    = {Karel Dhondt and
+               Victor Le Pochat and
+               Alexios Voulimeneas and
+               Wouter Joosen and
+               Stijn Volckaert},
+  title     = {A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {801-814},
+}
+
+@inproceedings{DBLP:conf/ccs/DhoogheS022,
+  author    = {Siemen Dhooghe and
+               Aein Rezaei Shahmirzadi and
+               Amir Moradi},
+  title     = {{Second-Order} {Low-Randomness} d + 1 Hardware Sharing of the {AES}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {815-828},
+}
+
+@inproceedings{DBLP:conf/ccs/DittmerILO22,
+  author    = {Samuel Dittmer and
+               Yuval Ishai and
+               Steve Lu and
+               Rafail Ostrovsky},
+  title     = {Improving {Line-Point} Zero Knowledge: Two Multiplications for the Price of One},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {829-841},
+}
+
+@inproceedings{DBLP:conf/ccs/DobraunigKRSZ22,
+  author    = {Christoph Dobraunig and
+               Daniel Kales and
+               Christian Rechberger and
+               Markus Schofnegger and
+               Greg Zaverucha},
+  title     = {Shorter Signatures Based on {Tailor-Made} Minimalist {Symmetric-Key} Crypto},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {843-857},
+}
+
+@inproceedings{DBLP:conf/ccs/DobraunigMP22,
+  author    = {Christoph Dobraunig and
+               Bart Mennink and
+               Robert Primas},
+  title     = {Leakage and Tamper Resilient {Permutation-Based} Cryptography},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {859-873},
+}
+
+@inproceedings{DBLP:conf/ccs/DodiaAAW22,
+  author    = {Priyanka Dodia and
+               Mashael AlSabah and
+               Omar Alrawi and
+               Tao Wang},
+  title     = {Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {875-889},
+}
+
+@inproceedings{DBLP:conf/ccs/DuLLL22,
+  author    = {Shaoyong Du and
+               Xin Liu and
+               Guoqing Lai and
+               Xiangyang Luo},
+  title     = {Watch Out for Race Condition Attacks When Using Android External Storage},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {891-904},
+}
+
+@inproceedings{DBLP:conf/ccs/DuanQZDLL22,
+  author    = {Rui Duan and
+               Zhe Qu and
+               Shangqing Zhao and
+               Leah Ding and
+               Yao Liu and
+               Zhuo Lu},
+  title     = {{Perception-Aware} Attack: Creating Adversarial Music via {Reverse-Engineering} Human Perception},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {905-919},
+}
+
+@inproceedings{DBLP:conf/ccs/DuanZPLLX022,
+  author    = {Yue Duan and
+               Xin Zhao and
+               Yu Pan and
+               Shucheng Li and
+               Minghao Li and
+               Fengyuan Xu and
+               Mu Zhang},
+  title     = {Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {921-935},
+}
+
+@inproceedings{DBLP:conf/ccs/El-Rewini0A22,
+  author    = {Zeinab El-Rewini and
+               Zhuo Zhang and
+               Yousra Aafer},
+  title     = {Poirot: Probabilistically Recommending Protections for the Android Framework},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {937-950},
+}
+
+@inproceedings{DBLP:conf/ccs/0001GPS22,
+  author    = {Daniel Escudero and
+               Vipul Goyal and
+               Antigoni Polychroniadou and
+               Yifan Song},
+  title     = {TurboPack: Honest Majority {MPC} with Constant Online Communication},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {951-964},
+}
+
+@inproceedings{DBLP:conf/ccs/FabianGP22,
+  author    = {Xaver Fabian and
+               Marco Guarnieri and
+               Marco Patrignani},
+  title     = {Automatic Detection of Speculative Execution Combinations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {965-978},
+}
+
+@inproceedings{DBLP:conf/ccs/FahrKKDLDGNPYA22,
+  author    = {Michael Fahr and
+               Hunter Kippen and
+               Andrew Kwong and
+               Thinh Dang and
+               Jacob Lichtinger and
+               Dana Dachman-Soled and
+               Daniel Genkin and
+               Alexander Nelson and
+               Ray A. Perlner and
+               Arkady Yerukhimovich and
+               Daniel Apon},
+  title     = {When Frodo Flips: {End-to-End} Key Recovery on {FrodoKEM} via Rowhammer},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {979-993},
+}
+
+@inproceedings{DBLP:conf/ccs/FanCWZLX22,
+  author    = {Xiaoyu Fan and
+               Kun Chen and
+               Guosai Wang and
+               Mingchun Zhuang and
+               Yi Li and
+               Wei Xu},
+  title     = {NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose {MPC} Platforms},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {995-1008},
+}
+
+@inproceedings{DBLP:conf/ccs/FangD022,
+  author    = {Juanru Fang and
+               Wei Dong and
+               Ke Yi},
+  title     = {Shifted Inverse: A General Mechanism for Monotonic Functions under User Differential Privacy},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1009-1022},
+}
+
+@inproceedings{DBLP:conf/ccs/FeldtkellerRSG22,
+  author    = {Jakob Feldtkeller and
+               Jan Richter-Brockmann and
+               Pascal Sasdrich and
+               Tim Güneysu},
+  title     = {{CINI} MINIS: Domain Isolation for Fault and Combined Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1023-1036},
+}
+
+@inproceedings{DBLP:conf/ccs/FilicPUV22,
+  author    = {Mia Filic and
+               Kenneth G. Paterson and
+               Anupama Unnikrishnan and
+               Fernando Virdia},
+  title     = {Adversarial Correctness and Privacy for Probabilistic Data Structures},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1037-1050},
+}
+
+@inproceedings{DBLP:conf/ccs/FioraldiMZB22,
+  author    = {Andrea Fioraldi and
+               Dominik Christian Maier and
+               Dongjia Zhang and
+               Davide Balzarotti},
+  title     = {LibAFL: A Framework to Build Modular and Reusable Fuzzers},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1051-1065},
+}
+
+@inproceedings{DBLP:conf/ccs/0001T22,
+  author    = {Dario Fiore and
+               Ida Tucker},
+  title     = {Efficient {Zero-Knowledge} Proofs on Signed Data with Applications to Verifiable Computation on Data Streams},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1067-1080},
+}
+
+@inproceedings{DBLP:conf/ccs/FitziWKKLVW22,
+  author    = {Matthias Fitzi and
+               Xuechao Wang and
+               Sreeram Kannan and
+               Aggelos Kiayias and
+               Nikos Leonardos and
+               Pramod Viswanath and
+               Gerui Wang},
+  title     = {Minotaur: {Multi-Resource} Blockchain Consensus},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1095-1108},
+}
+
+@inproceedings{DBLP:conf/ccs/Fleischhacker0Z22,
+  author    = {Nils Fleischhacker and
+               Mark Simkin and
+               Zhenfei Zhang},
+  title     = {Squirrel: Efficient Synchronized {Multi-Signatures} from Lattices},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1109-1123},
+}
+
+@inproceedings{DBLP:conf/ccs/FranzenVSTM22,
+  author    = {Daniel Franzen and
+               Saskia Nuñez von Voigt and
+               Peter Sörries and
+               Florian Tschorsch and
+               Claudia Müller-Birn},
+  title     = {Am I Private and If So, how Many?: Communicating Privacy Guarantees of Differential Privacy with Risk Communication Formats},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1125-1139},
+}
+
+@inproceedings{DBLP:conf/ccs/FultonVAM0P22,
+  author    = {Kelsey R. Fulton and
+               Daniel Votipka and
+               Desiree Abrokwa and
+               Michelle L. Mazurek and
+               Michael Hicks and
+               James Parker},
+  title     = {Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1141-1155},
+}
+
+@inproceedings{DBLP:conf/ccs/GanM0JPHY022,
+  author    = {Yuyou Gan and
+               Yuhao Mao and
+               Xuhong Zhang and
+               Shouling Ji and
+               Yuwen Pu and
+               Meng Han and
+               Jianwei Yin and
+               Ting Wang},
+  title     = {"Is your explanation stable?": A Robustness Evaluation Framework for Feature Attribution},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1157-1171},
+}
+
+@inproceedings{DBLP:conf/ccs/GaneshKS22,
+  author    = {Chaya Ganesh and
+               Bhavana Kanukurthi and
+               Girisha Shankar},
+  title     = {Secure Auctions in the Presence of Rational Adversaries},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1173-1186},
+}
+
+@inproceedings{DBLP:conf/ccs/Gao0L00Z22,
+  author    = {Yingzi Gao and
+               Yuan Lu and
+               Zhenliang Lu and
+               Qiang Tang and
+               Jing Xu and
+               Zhenfeng Zhang},
+  title     = {Dumbo-NG: Fast Asynchronous {BFT} Consensus with {Throughput-Oblivious} Latency},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1187-1201},
+}
+
+@inproceedings{DBLP:conf/ccs/Garg0JZ22,
+  author    = {Sanjam Garg and
+               Abhishek Jain and
+               Zhengzhong Jin and
+               Yinuo Zhang},
+  title     = {Succinct Zero Knowledge for Floating Point Computations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1203-1216},
+}
+
+@inproceedings{DBLP:conf/ccs/Gazi0R22,
+  author    = {Peter Gazi and
+               Ling Ren and
+               Alexander Russell},
+  title     = {Practical Settlement Bounds for {Proof-of-Work} Blockchains},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1217-1230},
+}
+
+@inproceedings{DBLP:conf/ccs/GeKC22,
+  author    = {Xinyang Ge and
+               Hsuan-Chi Kuo and
+               Weidong Cui},
+  title     = {Hecate: Lifting and Shifting {On-Premises} Workloads to an Untrusted Cloud},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1231-1242},
+}
+
+@inproceedings{DBLP:conf/ccs/GhavamniaPP22,
+  author    = {Seyedhamed Ghavamnia and
+               Tapti Palit and
+               Michalis Polychronakis},
+  title     = {C2C: Fine-grained Configuration-driven System Call Filtering},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1243-1257},
+}
+
+@inproceedings{DBLP:conf/ccs/GlaeserMMMTT22,
+  author    = {Noemi Glaeser and
+               Matteo Maffei and
+               Giulio Malavolta and
+               Pedro Moreno-Sanchez and
+               Erkan Tairi and
+               Sri Aravinda Krishnan Thyagarajan},
+  title     = {Foundations of Coin Mixing Services},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1259-1273},
+}
+
+@inproceedings{DBLP:conf/ccs/GohilGPR22,
+  author    = {Vasudev Gohil and
+               Hao Guo and
+               Satwik Patnaik and
+               Jeyavijayan Rajendran},
+  title     = {ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1275-1289},
+}
+
+@inproceedings{DBLP:conf/ccs/GomezMC22,
+  author    = {Gibran Gómez and
+               Pedro Moreno-Sanchez and
+               Juan Caballero},
+  title     = {Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through {Back-and-Forth} Exploration},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1291-1305},
+}
+
+@inproceedings{DBLP:conf/ccs/GorterKBG22,
+  author    = {Floris Gorter and
+               Koen Koning and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {DangZero: Efficient {Use-After-Free} Detection via Direct Page Table Access},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1307-1322},
+}
+
+@inproceedings{DBLP:conf/ccs/0001KLRSW22,
+  author    = {Lorenzo Grassi and
+               Dmitry Khovratovich and
+               Reinhard Lüftenegger and
+               Christian Rechberger and
+               Markus Schofnegger and
+               Roman Walch},
+  title     = {Reinforced Concrete: A Fast Hash Function for Verifiable Computation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1323-1335},
+}
+
+@inproceedings{DBLP:conf/ccs/GuneysuHLOSZ22,
+  author    = {Tim Güneysu and
+               Philip W. Hodges and
+               Georg Land and
+               Mike Ounsworth and
+               Douglas Stebila and
+               Greg Zaverucha},
+  title     = {{Proof-of-Possession} for {KEM} Certificates using Verifiable Generation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1337-1351},
+}
+
+@inproceedings{DBLP:conf/ccs/GuoWI0Y22,
+  author    = {Hanqing Guo and
+               Yuanda Wang and
+               Nikolay Ivanov and
+               Li Xiao and
+               Qiben Yan},
+  title     = {SPECPATCH: {Human-In-The-Loop} Adversarial Audio Spectrogram Patch Attack on Speech Recognition},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1353-1366},
+}
+
+@inproceedings{DBLP:conf/ccs/HammoudehL22,
+  author    = {Zayd Hammoudeh and
+               Daniel Lowd},
+  title     = {Identifying a {Training-Set} Attack's Target Using Renormalized Influence Estimation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1367-1381},
+}
+
+@inproceedings{DBLP:conf/ccs/HanXSLL22,
+  author    = {Xiao Han and
+               Junjie Xiong and
+               Wenbo Shen and
+               Zhuo Lu and
+               Yao Liu},
+  title     = {Location Heartbleeding: The Rise of {Wi-Fi} Spoofing Attack Via Geolocation {API}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1383-1397},
+}
+
+@inproceedings{DBLP:conf/ccs/HashimotoKP22,
+  author    = {Keitaro Hashimoto and
+               Shuichi Katsumata and
+               Thomas Prest},
+  title     = {How to Hide {MetaData} in {MLS-Like} Secure Group Messaging: Simple, Modular, and {Post-Quantum}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1399-1412},
+}
+
+@inproceedings{DBLP:conf/ccs/HlavacekJMSW22,
+  author    = {Tomas Hlavacek and
+               Philipp Jeitner and
+               Donika Mirdita and
+               Haya Shulman and
+               Michael Waidner},
+  title     = {Behind the Scenes of {RPKI}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1413-1426},
+}
+
+@inproceedings{DBLP:conf/ccs/Huang0S00022,
+  author    = {Hai Huang and
+               Zhikun Zhang and
+               Yun Shen and
+               Michael Backes and
+               Qi Li and
+               Yang Zhang},
+  title     = {On the Privacy Risks of {Cell-Based} {NAS} Architectures},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1427-1441},
+}
+
+@inproceedings{DBLP:conf/ccs/HuberKKL00R022,
+  author    = {Nicolas Huber and
+               Ralf Küsters and
+               Toomas Krips and
+               Julian Liedtke and
+               Johannes Müller and
+               Daniel Rausch and
+               Pascal Reisert and
+               Andreas Vogt},
+  title     = {Kryvos: Publicly {Tally-Hiding} Verifiable {E-Voting}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1443-1457},
+}
+
+@inproceedings{DBLP:conf/ccs/HumphriesMVK22,
+  author    = {Thomas Humphries and
+               Rasoul Akhavan Mahdavi and
+               Shannon Veitch and
+               Florian Kerschbaum},
+  title     = {Selective MPC: Distributed Computation of Differentially Private {Key-Value} Statistics},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1459-1472},
+}
+
+@inproceedings{DBLP:conf/ccs/HurSKL22,
+  author    = {Jaewon Hur and
+               Suhwan Song and
+               Sunwoo Kim and
+               Byoungyoung Lee},
+  title     = {SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1473-1487},
+}
+
+@inproceedings{DBLP:conf/ccs/0002NSTR22,
+  author    = {Ahmad Ibrahim and
+               Hamed Nemati and
+               Till Schlüter and
+               Nils Ole Tippenhauer and
+               Christian Rossow},
+  title     = {Microarchitectural Leakage Templates and Their Application to {Cache-Based} Side Channels},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1489-1503},
+}
+
+@inproceedings{DBLP:conf/ccs/ImolaMC22,
+  author    = {Jacob Imola and
+               Takao Murakami and
+               Kamalika Chaudhuri},
+  title     = {Differentially Private Triangle and 4-Cycle Counting in the Shuffle Model},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1505-1519},
+}
+
+@inproceedings{DBLP:conf/ccs/ItoUH22,
+  author    = {Akira Ito and
+               Rei Ueno and
+               Naofumi Homma},
+  title     = {On the Success Rate of {Side-Channel} Attacks on Masked Implementations: {Information-Theoretical} Bounds and Their Practical Usage},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1521-1535},
+}
+
+@inproceedings{DBLP:conf/ccs/JacobsBWFGG22,
+  author    = {Arthur Selle Jacobs and
+               Roman Beltiukov and
+               Walter Willinger and
+               Ronaldo A. Ferreira and
+               Arpit Gupta and
+               Lisandro Z. Granville},
+  title     = {AI/{ML} for Network Security: The Emperor has no Clothes},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1537-1551},
+}
+
+@inproceedings{DBLP:conf/ccs/JannettMMS22,
+  author    = {Louis Jannett and
+               Vladislav Mladenov and
+               Christian Mainka and
+               Jörg Schwenk},
+  title     = {DISTINCT: Identity Theft using {In-Browser} Communications in {Dual-Window} Single {Sign-On}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1553-1567},
+}
+
+@inproceedings{DBLP:conf/ccs/Jayaraman022,
+  author    = {Bargav Jayaraman and
+               David Evans},
+  title     = {Are Attribute Inference Attacks Just Imputation?},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1569-1582},
+}
+
+@inproceedings{DBLP:conf/ccs/JiangBWL022,
+  author    = {Ke Jiang and
+               Yuyan Bao and
+               Shuai Wang and
+               Zhibo Liu and
+               Tianwei Zhang},
+  title     = {Cache Refinement Type for {Side-Channel} Detection of Cryptographic Software},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1583-1597},
+}
+
+@inproceedings{DBLP:conf/ccs/JiangGHTRTEZP22,
+  author    = {Zhiyuan Jiang and
+               Shuitao Gan and
+               Adrian Herrera and
+               Flavio Toffalini and
+               Lucio Romerio and
+               Chaojing Tang and
+               Manuel Egele and
+               Chao Zhang and
+               Mathias Payer},
+  title     = {Evocatio: Conjuring Bug Capabilities from a Single {PoC}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1599-1613},
+}
+
+@inproceedings{DBLP:conf/ccs/JinMKLN22,
+  author    = {Xin Jin and
+               Sunil Manandhar and
+               Kaushal Kafle and
+               Zhiqiang Lin and
+               Adwait Nadkarni},
+  title     = {Understanding {IoT} Security from a {Market-Scale} Perspective},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1615-1629},
+}
+
+@inproceedings{DBLP:conf/ccs/JinPWL22,
+  author    = {Xin Jin and
+               Kexin Pei and
+               Jun Yeon Won and
+               Zhiqiang Lin},
+  title     = {SymLM: Predicting Function Names in Stripped Binaries via {Context-Sensitive} {Execution-Aware} Code Embeddings},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1631-1645},
+}
+
+@inproceedings{DBLP:conf/ccs/JinXFJYL22,
+  author    = {Ze Jin and
+               Luyi Xing and
+               Yiwei Fang and
+               Yan Jia and
+               Bin Yuan and
+               Qixu Liu},
+  title     = {P-Verifier: Understanding and Mitigating Security Risks in Cloud-based {IoT} Access Policies},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1647-1661},
+}
+
+@inproceedings{DBLP:conf/ccs/00010SV22,
+  author    = {Nikola Jovanovic and
+               Marc Fischer and
+               Samuel Steffen and
+               Martin T. Vechev},
+  title     = {Private and Reliable Neural Network Inference},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1663-1677},
+}
+
+@inproceedings{DBLP:conf/ccs/JungKJMN22,
+  author    = {Changhun Jung and
+               Sian Kim and
+               Rhongho Jang and
+               David Mohaisen and
+               DaeHun Nyang},
+  title     = {A Scalable and Dynamic {ACL} System for {In-Network} Defense},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1679-1693},
+}
+
+@inproceedings{DBLP:conf/ccs/KangSH22,
+  author    = {Wooseok Kang and
+               Byoungho Son and
+               Kihong Heo},
+  title     = {TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1695-1708},
+}
+
+@inproceedings{DBLP:conf/ccs/KarvandiGMZAAM022,
+  author    = {Mohammad Sina Karvandi and
+               MohammadHosein Gholamrezaei and
+               Saleh Khalaj Monfared and
+               Soroush Meghdadi Zanjani and
+               Behrooz Abbassi and
+               Ali Amini and
+               Reza Mortazavi and
+               Saeid Gorgin and
+               Dara Rahmati and
+               Michael Schwarz},
+  title     = {HyperDbg: Reinventing {Hardware-Assisted} Debugging},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1709-1723},
+}
+
+@inproceedings{DBLP:conf/ccs/KattisPV22,
+  author    = {Assimakis A. Kattis and
+               Konstantin Panarin and
+               Alexander Vlasov},
+  title     = {RedShift: Transparent {SNARKs} from List Polynomial Commitments},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1725-1737},
+}
+
+@inproceedings{DBLP:conf/ccs/KiayiasKS22,
+  author    = {Aggelos Kiayias and
+               Markulf Kohlweiss and
+               Amirreza Sarencheh},
+  title     = {PEReDi: Privacy-Enhanced, Regulated and Distributed Central Bank Digital Currencies},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1739-1752},
+}
+
+@inproceedings{DBLP:conf/ccs/KimLRJ0K22,
+  author    = {Seulbae Kim and
+               Major Liu and
+               Junghwan John Rhee and
+               Yuseok Jeon and
+               Yonghwi Kwon and
+               Chung Hwan Kim},
+  title     = {DriveFuzz: Discovering Autonomous Driving Bugs through Driving {Quality-Guided} Fuzzing},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1753-1767},
+}
+
+@inproceedings{DBLP:conf/ccs/KimPHK22,
+  author    = {Taeri Kim and
+               Noseong Park and
+               Jiwon Hong and
+               Sang-Wook Kim},
+  title     = {Phishing {URL} Detection: A Network-based Approach Robust to Evasion},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1769-1782},
+}
+
+@inproceedings{DBLP:conf/ccs/Kluczniak22,
+  author    = {Kamil Kluczniak},
+  title     = {NTRU-v-um: Secure Fully Homomorphic Encryption from {NTRU} with Small Modulus},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1783-1797},
+}
+
+@inproceedings{DBLP:conf/ccs/Knichel022,
+  author    = {David Knichel and
+               Amir Moradi},
+  title     = {{Low-Latency} Hardware Private Circuits},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1799-1812},
+}
+
+@inproceedings{DBLP:conf/ccs/KolluriBHS22,
+  author    = {Aashish Kolluri and
+               Teodora Baluta and
+               Bryan Hooi and
+               Prateek Saxena},
+  title     = {LPGNet: Link Private Graph Networks for Node Classification},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1813-1827},
+}
+
+@inproceedings{DBLP:conf/ccs/KornaropoulosMP22,
+  author    = {Evgenios M. Kornaropoulos and
+               Nathaniel Moyer and
+               Charalampos Papamanthou and
+               Alexandros Psomas},
+  title     = {Leakage Inversion: Towards Quantifying Privacy in Searchable Encryption},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1829-1842},
+}
+
+@inproceedings{DBLP:conf/ccs/KotiKPG22,
+  author    = {Nishat Koti and
+               Varsha Bhat Kukkala and
+               Arpita Patra and
+               Bhavish Raj Gopal},
+  title     = {PentaGOD: Stepping beyond Traditional {GOD} with Five Parties},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1843-1856},
+}
+
+@inproceedings{DBLP:conf/ccs/LarischALGKTWCL22,
+  author    = {James Larisch and
+               Waqar Aqeel and
+               Michael Lum and
+               Yaelle Goldschlag and
+               Leah Kannan and
+               Kasra Torshizi and
+               Yujie Wang and
+               Taejoong Chung and
+               Dave Levin and
+               Bruce M. Maggs and
+               Alan Mislove and
+               Bryan Parno and
+               Christo Wilson},
+  title     = {Hammurabi: A Framework for Pluggable, {Logic-Based} X.509 Certificate Validation Policies},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1857-1870},
+}
+
+@inproceedings{DBLP:conf/ccs/LeeCTLGVVSSA22,
+  author    = {Dayeol Lee and
+               Kevin Cheang and
+               Alexander Thomas and
+               Catherine Lu and
+               Pranav Gaddamadugu and
+               Anjo Vahldiek-Oberwagner and
+               Mona Vij and
+               Dawn Song and
+               Sanjit A. Seshia and
+               Krste Asanovic},
+  title     = {Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1871-1885},
+}
+
+@inproceedings{DBLP:conf/ccs/LiYH000022,
+  author    = {Shuai Li and
+               Zhemin Yang and
+               Nan Hua and
+               Peng Liu and
+               Xiaohan Zhang and
+               Guangliang Yang and
+               Min Yang},
+  title     = {Collect Responsibly But Deliver Arbitrarily?: A Study on {Cross-User} Privacy Leakage in Mobile Apps},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1887-1900},
+}
+
+@inproceedings{DBLP:conf/ccs/LiTLYPLZ22,
+  author    = {Yuan Li and
+               Wende Tan and
+               Zhizheng Lv and
+               Songtao Yang and
+               Mathias Payer and
+               Ying Liu and
+               Chao Zhang},
+  title     = {PACMem: Enforcing Spatial and Temporal Memory Safety via {ARM} Pointer Authentication},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1901-1915},
+}
+
+@inproceedings{DBLP:conf/ccs/LiLHY0022,
+  author    = {Zheng Li and
+               Yiyong Liu and
+               Xinlei He and
+               Ning Yu and
+               Michael Backes and
+               Yang Zhang},
+  title     = {Auditing Membership Leakages of {Multi-Exit} Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1917-1931},
+}
+
+@inproceedings{DBLP:conf/ccs/LimKYL22,
+  author    = {Jaemin Lim and
+               Kiyeon Kim and
+               Hyunwoo Yu and
+               Suk-Bok Lee},
+  title     = {Overo: Sharing Private Audio Recordings},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1933-1946},
+}
+
+@inproceedings{DBLP:conf/ccs/LinXGY22,
+  author    = {Shihan Lin and
+               Rui Xin and
+               Aayush Goel and
+               Xiaowei Yang},
+  title     = {InviCloak: An {End-to-End} Approach to Privacy and Performance in Web Content Distribution},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1947-1961},
+}
+
+@inproceedings{DBLP:conf/ccs/LinWX22,
+  author    = {Zhenpeng Lin and
+               Yuhang Wu and
+               Xinyu Xing},
+  title     = {DirtyCred: Escalating Privilege in Linux Kernel},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1963-1976},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuCCR22,
+  author    = {Chen Liu and
+               Abhishek Chakraborty and
+               Nikhil Chawla and
+               Neer Roggel},
+  title     = {Frequency Throttling {Side-Channel} Attack},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1977-1991},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuL000W22,
+  author    = {Guannan Liu and
+               Daiping Liu and
+               Shuai Hao and
+               Xing Gao and
+               Kun Sun and
+               Haining Wang},
+  title     = {Ready Raider One: Exploring the Misuse of Cloud Gaming Services},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {1993-2007},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuYZ00VZ22,
+  author    = {Han Liu and
+               Zhiyuan Yu and
+               Mingming Zha and
+               XiaoFeng Wang and
+               William Yeoh and
+               Yevgeniy Vorobeychik and
+               Ning Zhang},
+  title     = {When Evil Calls: Targeted Adversarial Voice over {IP} Network},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2009-2023},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuKTSSWLL22,
+  author    = {Jiawei Liu and
+               Yangyang Kang and
+               Di Tang and
+               Kaisong Song and
+               Changlong Sun and
+               Xiaofeng Wang and
+               Wei Lu and
+               Xiaozhong Liu},
+  title     = {Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2025-2039},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuZ22,
+  author    = {Jing Liu and
+               Liang Feng Zhang},
+  title     = {Matproofs: Maintainable Matrix Commitment with Efficient Aggregation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2041-2054},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuWLLG0T22,
+  author    = {Shunchang Liu and
+               Jiakai Wang and
+               Aishan Liu and
+               Yingwei Li and
+               Yijie Gao and
+               Xianglong Liu and
+               Dacheng Tao},
+  title     = {Harnessing Perceptual Adversarial Patches for Crowd Counting},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2055-2069},
+}
+
+@inproceedings{DBLP:conf/ccs/Liu022,
+  author    = {Yinxi Liu and
+               Wei Meng},
+  title     = {Acquirer: A Hybrid Approach to Detecting Algorithmic Complexity Vulnerabilities},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2071-2084},
+}
+
+@inproceedings{DBLP:conf/ccs/Liu00022,
+  author    = {Yiyong Liu and
+               Zhengyu Zhao and
+               Michael Backes and
+               Yang Zhang},
+  title     = {Membership Inference Attacks by Exploiting Loss Trajectory},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2085-2098},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuLNZZZ22,
+  author    = {Yulin Liu and
+               Yuxuan Lu and
+               Kartik Nayak and
+               Fan Zhang and
+               Luyao Zhang and
+               Yinhong Zhao},
+  title     = {Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2099-2113},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuJ0G22,
+  author    = {Yupei Liu and
+               Jinyuan Jia and
+               Hongbin Liu and
+               Neil Zhenqiang Gong},
+  title     = {StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2115-2128},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuLLL22,
+  author    = {Zeyan Liu and
+               Fengjun Li and
+               Zhu Li and
+               Bo Luo},
+  title     = {LoneNeuron: A {Highly-Effective} {Feature-Domain} Neural Trojan Using Invisible and Polymorphic Watermarks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2129-2143},
+}
+
+@inproceedings{DBLP:conf/ccs/LuLL0C22,
+  author    = {Jie Lu and
+               Haofeng Li and
+               Chen Liu and
+               Lian Li and
+               Kun Cheng},
+  title     = {Detecting {Missing-Permission-Check} Vulnerabilities in Distributed Cloud Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2145-2158},
+}
+
+@inproceedings{DBLP:conf/ccs/0001L022,
+  author    = {Yuan Lu and
+               Zhenliang Lu and
+               Qiang Tang},
+  title     = {{Bolt-Dumbo} Transformer: Asynchronous Consensus As Fast As the Pipelined {BFT}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2159-2173},
+}
+
+@inproceedings{DBLP:conf/ccs/Luo0022,
+  author    = {Changhua Luo and
+               Penghui Li and
+               Wei Meng},
+  title     = {TChecker: Precise Static {Inter-Procedural} Analysis for Detecting {Taint-Style} Vulnerabilities in {PHP} Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2175-2188},
+}
+
+@inproceedings{DBLP:conf/ccs/LuoAHPTW22,
+  author    = {Ning Luo and
+               Timos Antonopoulos and
+               William R. Harris and
+               Ruzica Piskac and
+               Eran Tromer and
+               Xiao Wang},
+  title     = {Proving {UNSAT} in Zero Knowledge},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2203-2217},
+}
+
+@inproceedings{DBLP:conf/ccs/LuoW022,
+  author    = {Qiyao Luo and
+               Yilei Wang and
+               Ke Yi},
+  title     = {Frequency Estimation in the Shuffle Model with Almost a Single Message},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2219-2232},
+}
+
+@inproceedings{DBLP:conf/ccs/LuoJX22,
+  author    = {Xinjian Luo and
+               Yangfan Jiang and
+               Xiaokui Xiao},
+  title     = {Feature Inference Attack on Shapley Values},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2233-2247},
+}
+
+@inproceedings{DBLP:conf/ccs/MaddockC0MJ22,
+  author    = {Samuel Maddock and
+               Graham Cormode and
+               Tianhao Wang and
+               Carsten Maple and
+               Somesh Jha},
+  title     = {Federated Boosted Decision Trees with Differential Privacy},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2249-2263},
+}
+
+@inproceedings{DBLP:conf/ccs/StoneTVHBC22,
+  author    = {Chris McMahon Stone and
+               Sam L. Thomas and
+               Mathy Vanhoef and
+               James Henderson and
+               Nicolas Bailluet and
+               Tom Chothia},
+  title     = {The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2265-2278},
+}
+
+@inproceedings{DBLP:conf/ccs/MiDS22,
+  author    = {Allen Mi and
+               Shuwen Deng and
+               Jakub Szefer},
+  title     = {Securing Reset Operations in {NISQ} Quantum Computers},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2279-2293},
+}
+
+@inproceedings{DBLP:conf/ccs/Momose022,
+  author    = {Atsuki Momose and
+               Ling Ren},
+  title     = {Constant Latency in Sleepy Consensus},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2295-2308},
+}
+
+@inproceedings{DBLP:conf/ccs/MullerMCLG22,
+  author    = {Raymond Muller and
+               Yanmao Man and
+               Z. Berkay Celik and
+               Ming Li and
+               Ryan M. Gerdes},
+  title     = {Physical Hijacking Attacks against Object Trackers},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2309-2322},
+}
+
+@inproceedings{DBLP:conf/ccs/0001S0Y22,
+  author    = {Yusuke Naito and
+               Yu Sasaki and
+               Takeshi Sugawara and
+               Kan Yasuda},
+  title     = {The {Multi-User} Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to {TDES}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2323-2336},
+}
+
+@inproceedings{DBLP:conf/ccs/NaseriHMSSC22,
+  author    = {Mohammad Naseri and
+               Yufei Han and
+               Enrico Mariconti and
+               Yun Shen and
+               Gianluca Stringhini and
+               Emiliano De Cristofaro},
+  title     = {CERBERUS: Exploring Federated Prediction of Security Events},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2337-2351},
+}
+
+@inproceedings{DBLP:conf/ccs/NewmanMT22,
+  author    = {Zachary Newman and
+               John Speed Meyers and
+               Santiago Torres-Arias},
+  title     = {Sigstore: Software Signing for Everybody},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2353-2367},
+}
+
+@inproceedings{DBLP:conf/ccs/Nguyen0S22,
+  author    = {Trung Tin Nguyen and
+               Michael Backes and
+               Ben Stock},
+  title     = {Freely Given Consent?: Studying Consent Notice of {Third-Party} Tracking and Its Violations of {GDPR} in Android Apps},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2369-2383},
+}
+
+@inproceedings{DBLP:conf/ccs/NiuPZZ22,
+  author    = {Jianyu Niu and
+               Wei Peng and
+               Xiaokuan Zhang and
+               Yinqian Zhang},
+  title     = {NARRATOR: Secure and Practical State Continuity for Trusted Execution in the Cloud},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2385-2399},
+}
+
+@inproceedings{DBLP:conf/ccs/OhKMP22,
+  author    = {ChangSeok Oh and
+               Chris Kanich and
+               Damon McCoy and
+               Paul Pearce},
+  title     = {Cart-ology: Intercepting Targeted Advertising via Ad Network Identity Entanglement},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2401-2414},
+}
+
+@inproceedings{DBLP:conf/ccs/OzmenLCCH022,
+  author    = {Muslum Ozgur Ozmen and
+               Xuansong Li and
+               Andrew Chu and
+               Z. Berkay Celik and
+               Bardh Hoxha and
+               Xiangyu Zhang},
+  title     = {Discovering {IoT} Physical Channel Vulnerabilities},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2415-2428},
+}
+
+@inproceedings{DBLP:conf/ccs/PasquiniFA22,
+  author    = {Dario Pasquini and
+               Danilo Francati and
+               Giuseppe Ateniese},
+  title     = {Eluding Secure Aggregation in Federated Learning via Model Inconsistency},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2429-2443},
+}
+
+@inproceedings{DBLP:conf/ccs/PouraliSM22,
+  author    = {Sajjad Pourali and
+               Nayanamana Samarasinghe and
+               Mohammad Mannan},
+  title     = {Hidden in Plain Sight: Exploring Encrypted Channels in Android Apps},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2445-2458},
+}
+
+@inproceedings{DBLP:conf/ccs/Rahat0T22,
+  author    = {Tamjid Al Rahat and
+               Yu Feng and
+               Yuan Tian},
+  title     = {Cerberus: Query-driven Scalable Vulnerability Detection in {OAuth} Service Provider Implementations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2459-2473},
+}
+
+@inproceedings{DBLP:conf/ccs/RameshHYCH22,
+  author    = {Soundarya Ramesh and
+               Ghozali Suhariyanto Hadi and
+               Sihun Yang and
+               Mun Choon Chan and
+               Jun Han},
+  title     = {TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2475-2489},
+}
+
+@inproceedings{DBLP:conf/ccs/RiepelW22,
+  author    = {Doreen Riepel and
+               Hoeteck Wee},
+  title     = {FABEO: Fast {Attribute-Based} Encryption with Optimal Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2491-2504},
+}
+
+@inproceedings{DBLP:conf/ccs/RaghuramanR22,
+  author    = {Srinivasan Raghuraman and
+               Peter Rindal},
+  title     = {Blazing Fast {PSI} from Improved {OKVS} and Subfield {VOLE}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2505-2517},
+}
+
+@inproceedings{DBLP:conf/ccs/0001DJLZ22,
+  author    = {Amrita Roy Chowdhury and
+               Bolin Ding and
+               Somesh Jha and
+               Weiran Liu and
+               Jingren Zhou},
+  title     = {Strengthening Order Preserving Encryption with Differential Privacy},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2519-2533},
+}
+
+@inproceedings{DBLP:conf/ccs/0001GJM22,
+  author    = {Amrita Roy Chowdhury and
+               Chuan Guo and
+               Somesh Jha and
+               Laurens van der Maaten},
+  title     = {EIFFeL: Ensuring Integrity for Federated Learning},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2535-2549},
+}
+
+@inproceedings{DBLP:conf/ccs/RuffingRJSS22,
+  author    = {Tim Ruffing and
+               Viktoria Ronge and
+               Elliott Jin and
+               Jonas Schneider-Bensch and
+               Dominique Schröder},
+  title     = {ROAST: Robust Asynchronous Schnorr Threshold Signatures},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2551-2564},
+}
+
+@inproceedings{DBLP:conf/ccs/SasyJG22,
+  author    = {Sajin Sasy and
+               Aaron Johnson and
+               Ian Goldberg},
+  title     = {Fast Fully Oblivious Compaction and Shuffling},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2565-2579},
+}
+
+@inproceedings{DBLP:conf/ccs/SchwarzDHHR22,
+  author    = {Fabian Schwarz and
+               Khue Do and
+               Gunnar Heide and
+               Lucjan Hanzlik and
+               Christian Rossow},
+  title     = {FeIDo: Recoverable FIDO2 Tokens Using Electronic {IDs}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2581-2594},
+}
+
+@inproceedings{DBLP:conf/ccs/ShahSSSCJ22,
+  author    = {Abhishek Shah and
+               Dongdong She and
+               Samanway Sadhu and
+               Krish Singal and
+               Peter Coffman and
+               Suman Jana},
+  title     = {MC2: Rigorous and Efficient Directed Greybox Fuzzing},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2595-2609},
+}
+
+@inproceedings{DBLP:conf/ccs/ShanDW0Z22,
+  author    = {Shawn Shan and
+               Wenxin Ding and
+               Emily Wenger and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked {DNN} Models},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2611-2625},
+}
+
+@inproceedings{DBLP:conf/ccs/ShenZGL0X22,
+  author    = {Junxian Shen and
+               Han Zhang and
+               Yantao Geng and
+               Jiawei Li and
+               Jilong Wang and
+               Mingwei Xu},
+  title     = {Gringotts: Fast and Accurate Internal {Denial-of-Wallet} Detection for Serverless Computing},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2627-2641},
+}
+
+@inproceedings{DBLP:conf/ccs/ShenH0CY0ZS22,
+  author    = {Yun Shen and
+               Yufei Han and
+               Zhikun Zhang and
+               Min Chen and
+               Ting Yu and
+               Michael Backes and
+               Yang Zhang and
+               Gianluca Stringhini},
+  title     = {Finding MNEMON: Reviving Memories of Node Embeddings},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2643-2657},
+}
+
+@inproceedings{DBLP:conf/ccs/Si0BCSZ022,
+  author    = {Wai Man Si and
+               Michael Backes and
+               Jeremy Blackburn and
+               Emiliano De Cristofaro and
+               Gianluca Stringhini and
+               Savvas Zannettou and
+               Yang Zhang},
+  title     = {Why So Toxic?: Measuring and Triggering Toxic Behavior in {Open-Domain} Chatbots},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2659-2673},
+}
+
+@inproceedings{DBLP:conf/ccs/SolomosINP22,
+  author    = {Konstantinos Solomos and
+               Panagiotis Ilia and
+               Nick Nikiforakis and
+               Jason Polakis},
+  title     = {Escaping the Confines of Time: Continuous Browser Extension Fingerprinting Through Ephemeral Modifications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2675-2688},
+}
+
+@inproceedings{DBLP:conf/ccs/SongWWTLRWH22,
+  author    = {Lushan Song and
+               Jiaxuan Wang and
+               Zhexuan Wang and
+               Xinyu Tu and
+               Guopeng Lin and
+               Wenqiang Ruan and
+               Haoqi Wu and
+               Weili Han},
+  title     = {pMPL: A Robust {Multi-Party} Learning Framework with a Privileged Party},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2689-2703},
+}
+
+@inproceedings{DBLP:conf/ccs/SpiegelmanGSK22,
+  author    = {Alexander Spiegelman and
+               Neil Giridharan and
+               Alberto Sonnino and
+               Lefteris Kokoris-Kogias},
+  title     = {Bullshark: {DAG} {BFT} Protocols Made Practical},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2705-2718},
+}
+
+@inproceedings{DBLP:conf/ccs/SrinivasanKBP22,
+  author    = {Shravan Srinivasan and
+               Ioanna Karantaidou and
+               Foteini Baldimtsi and
+               Charalampos Papamanthou},
+  title     = {Batching, Aggregation, and {Zero-Knowledge} Proofs in Bilinear Accumulators},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2719-2733},
+}
+
+@inproceedings{DBLP:conf/ccs/SteffenBV22,
+  author    = {Samuel Steffen and
+               Benjamin Bichsel and
+               Martin T. Vechev},
+  title     = {Zapper: Smart Contracts with Data and Identity Privacy},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2735-2749},
+}
+
+@inproceedings{DBLP:conf/ccs/TangML0022,
+  author    = {Siyuan Tang and
+               Xianghang Mi and
+               Ying Li and
+               XiaoFeng Wang and
+               Kai Chen},
+  title     = {Clues in Tweets: {Twitter-Guided} Discovery and Analysis of {SMS} Spam},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2751-2764},
+}
+
+@inproceedings{DBLP:conf/ccs/TaranovRSPH22,
+  author    = {Konstantin Taranov and
+               Benjamin Rothenberger and
+               Daniele De Sensi and
+               Adrian Perrig and
+               Torsten Hoefler},
+  title     = {NeVerMore: Exploiting {RDMA} Mistakes in {NVMe-oF} Storage Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2765-2778},
+}
+
+@inproceedings{DBLP:conf/ccs/TramerSJLJ0C22,
+  author    = {Florian Tramèr and
+               Reza Shokri and
+               Ayrton San Joaquin and
+               Hoang Le and
+               Matthew Jagielski and
+               Sanghyun Hong and
+               Nicholas Carlini},
+  title     = {Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2779-2792},
+}
+
+@inproceedings{DBLP:conf/ccs/TyagiFZBT22,
+  author    = {Nirvan Tyagi and
+               Ben Fisch and
+               Andrew Zitek and
+               Joseph Bonneau and
+               Stefano Tessaro},
+  title     = {VeRSA: Verifiable Registries with Efficient Client Audits from {RSA} Authenticated Dictionaries},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2793-2807},
+}
+
+@inproceedings{DBLP:conf/ccs/WangH0QH22,
+  author    = {Han Wang and
+               Hanbin Hong and
+               Li Xiong and
+               Zhan Qin and
+               Yuan Hong},
+  title     = {L-SRR: Local Differential Privacy for {Location-Based} Services with Staircase Randomized Response},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2809-2823},
+}
+
+@inproceedings{DBLP:conf/ccs/WangSLQ022,
+  author    = {Jianfeng Wang and
+               Shifeng Sun and
+               Tianci Li and
+               Saiyu Qi and
+               Xiaofeng Chen},
+  title     = {Practical {Volume-Hiding} Encrypted {Multi-Maps} with Optimal Overhead and Beyond},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2825-2839},
+}
+
+@inproceedings{DBLP:conf/ccs/0005DNRZ22,
+  author    = {Weili Wang and
+               Sen Deng and
+               Jianyu Niu and
+               Michael K. Reiter and
+               Yinqian Zhang},
+  title     = {ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2841-2855},
+}
+
+@inproceedings{DBLP:conf/ccs/WangH22,
+  author    = {Xian Wang and
+               Shuang Hao},
+  title     = {Don't Kick Over the Beehive: Attacks and Security Analysis on Zigbee},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2857-2870},
+}
+
+@inproceedings{DBLP:conf/ccs/WangW22,
+  author    = {Xiuling Wang and
+               Wendy Hui Wang},
+  title     = {Group Property Inference Attacks Against Graph Neural Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2871-2884},
+}
+
+@inproceedings{DBLP:conf/ccs/0005BX022,
+  author    = {Jianxin Wei and
+               Ergute Bao and
+               Xiaokui Xiao and
+               Yin Yang},
+  title     = {DPIS: An Enhanced Mechanism for Differentially Private {SGD} with Importance Sampling},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2885-2899},
+}
+
+@inproceedings{DBLP:conf/ccs/Weng0YX022,
+  author    = {Chenkai Weng and
+               Kang Yang and
+               Zhaomin Yang and
+               Xiang Xie and
+               Xiao Wang},
+  title     = {AntMan: Interactive {Zero-Knowledge} Proofs with Sublinear Communication},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2901-2914},
+}
+
+@inproceedings{DBLP:conf/ccs/WichelmannSP022,
+  author    = {Jan Wichelmann and
+               Florian Sieck and
+               Anna Pätschke and
+               Thomas Eisenbarth},
+  title     = {Microwalk-CI: Practical {Side-Channel} Analysis for {JavaScript} Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2915-2929},
+}
+
+@inproceedings{DBLP:conf/ccs/0003000DZ22,
+  author    = {Cong Wu and
+               Jing Chen and
+               Kun He and
+               Ziming Zhao and
+               Ruiying Du and
+               Chen Zhang},
+  title     = {EchoHand: High Accuracy and Presentation Attack Resistant Hand Authentication on Commodity Mobile Devices},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2931-2945},
+}
+
+@inproceedings{DBLP:conf/ccs/WustKDC22,
+  author    = {Karl Wüst and
+               Kari Kostiainen and
+               Noah Delius and
+               Srdjan Capkun},
+  title     = {Platypus: A Central Bank Digital Currency with Unlinkable Transactions and {Privacy-Preserving} Regulation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2947-2960},
+}
+
+@inproceedings{DBLP:conf/ccs/WyssGMP22,
+  author    = {Marc Wyss and
+               Giacomo Giuliari and
+               Jonas Mohler and
+               Adrian Perrig},
+  title     = {Protecting Critical {Inter-Domain} Communication through Flyover Reservations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2961-2974},
+}
+
+@inproceedings{DBLP:conf/ccs/XiaoYA0WL22,
+  author    = {Feng Xiao and
+               Zheng Yang and
+               Joey Allen and
+               Guangliang Yang and
+               Grant Williams and
+               Wenke Lee},
+  title     = {Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-platform Ecosystem},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2975-2988},
+}
+
+@inproceedings{DBLP:conf/ccs/Xie0ZXLKW022,
+  author    = {Mengyao Xie and
+               Chenggang Wu and
+               Yinqian Zhang and
+               Jiali Xu and
+               Yuanming Lai and
+               Yan Kang and
+               Wei Wang and
+               Zhe Wang},
+  title     = {CETIS: Retrofitting Intel {CET} for Generic and Efficient Intra-process Memory Isolation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {2989-3002},
+}
+
+@inproceedings{DBLP:conf/ccs/XieZCZ0JBS22,
+  author    = {Tiancheng Xie and
+               Jiaheng Zhang and
+               Zerui Cheng and
+               Fan Zhang and
+               Yupeng Zhang and
+               Yongzheng Jia and
+               Dan Boneh and
+               Dawn Song},
+  title     = {zkBridge: Trustless Cross-chain Bridges Made Practical},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3003-3017},
+}
+
+@inproceedings{DBLP:conf/ccs/YadavGHZS22,
+  author    = {Tarun Kumar Yadav and
+               Devashish Gosain and
+               Amir Herzberg and
+               Daniel Zappala and
+               Kent E. Seamons},
+  title     = {Automatic Detection of Fake Key Attacks in Secure Messaging},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3019-3032},
+}
+
+@inproceedings{DBLP:conf/ccs/YangHF22,
+  author    = {Edwin Yang and
+               Qiuye He and
+               Song Fang},
+  title     = {WINK: Wireless Inference of Numerical Keystrokes via {Zero-Training} Spatiotemporal Analysis},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3033-3047},
+}
+
+@inproceedings{DBLP:conf/ccs/YangYMTGLZD22,
+  author    = {Mingshuo Yang and
+               Yunnan Yu and
+               Xianghang Mi and
+               Shujun Tang and
+               Shanqing Guo and
+               Yilin Li and
+               Xiaofeng Zheng and
+               Haixin Duan},
+  title     = {An Extensive Study of Residential Proxies in China},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3049-3062},
+}
+
+@inproceedings{DBLP:conf/ccs/YangEZ0SL22,
+  author    = {Allen Yuqing Yang and
+               Mohamed Elsabagh and
+               Chaoshun Zuo and
+               Ryan Johnson and
+               Angelos Stavrou and
+               Zhiqiang Lin},
+  title     = {Detecting and Measuring Misconfigured Manifests in Android Apps},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3063-3077},
+}
+
+@inproceedings{DBLP:conf/ccs/Yang0L22,
+  author    = {Yuqing Yang and
+               Yue Zhang and
+               Zhiqiang Lin},
+  title     = {Cross Miniapp Request Forgery: Root Causes, Attacks, and Vulnerability Detection},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3079-3092},
+}
+
+@inproceedings{DBLP:conf/ccs/0001MMBS22,
+  author    = {Jiayuan Ye and
+               Aadyaa Maddi and
+               Sasi Kumar Murakonda and
+               Vincent Bindschaedler and
+               Reza Shokri},
+  title     = {Enhanced Membership Inference Attacks against Machine Learning Models},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3093-3106},
+}
+
+@inproceedings{DBLP:conf/ccs/YuLCFLZ22,
+  author    = {Zhiyuan Yu and
+               Zhuohang Li and
+               Yuanhaur Chang and
+               Skylar Fong and
+               Jian Liu and
+               Ning Zhang},
+  title     = {HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3107-3120},
+}
+
+@inproceedings{DBLP:conf/ccs/ZapicoBKMN022,
+  author    = {Arantxa Zapico and
+               Vitalik Buterin and
+               Dmitry Khovratovich and
+               Mary Maller and
+               Anca Nitulescu and
+               Mark Simkin},
+  title     = {Caulk: Lookup Arguments in Sublinear Time},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3121-3134},
+}
+
+@inproceedings{DBLP:conf/ccs/ZengZL22,
+  author    = {Jun Zeng and
+               Chuqi Zhang and
+               Zhenkai Liang},
+  title     = {PalanTír: Optimizing Attack Provenance with Hardware-enhanced System Observability},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3135-3149},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangD22,
+  author    = {Haibin Zhang and
+               Sisi Duan},
+  title     = {PACE: Fully Parallelizable {BFT} from Reproposable Byzantine Agreement},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3151-3164},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangSKBBCO0BSA22,
+  author    = {Penghui Zhang and
+               Zhibo Sun and
+               Sukwha Kyung and
+               Hans Walter Behrens and
+               Zion Leonahenahe Basque and
+               Haehyun Cho and
+               Adam Oest and
+               Ruoyu Wang and
+               Tiffany Bao and
+               Yan Shoshitaishvili and
+               Gail-Joon Ahn and
+               Adam Doupé},
+  title     = {I'm SPARTACUS, No, I'm SPARTACUS: Proactively Protecting Users from Phishing by Intentionally Triggering Cloaking Behavior},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3165-3179},
+}
+
+@inproceedings{DBLP:conf/ccs/0025L22,
+  author    = {Yue Zhang and
+               Zhiqiang Lin},
+  title     = {When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3181-3194},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangSZSWG22,
+  author    = {Yuncong Zhang and
+               Alan Szepieniec and
+               Ren Zhang and
+               Shifeng Sun and
+               Geng Wang and
+               Dawu Gu},
+  title     = {VOProof: Efficient {zkSNARKs} from Vector Oracle Compilers},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3195-3208},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhengZ0WC22,
+  author    = {Tengfei Zheng and
+               Tongqing Zhou and
+               Qiang Liu and
+               Kui Wu and
+               Zhiping Cai},
+  title     = {Characterizing and Detecting {Non-Consensual} Photo Sharing on Social Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3209-3222},
+}
+
+@inproceedings{DBLP:conf/ccs/Zhong0A22,
+  author    = {Ke Zhong and
+               Yiping Ma and
+               Sebastian Angel},
+  title     = {Ibex: Privacy-preserving Ad Conversion Tracking and Bidding},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3223-3237},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhouLWC22,
+  author    = {Hao Zhou and
+               Xiapu Luo and
+               Haoyu Wang and
+               Haipeng Cai},
+  title     = {Uncovering Intent based Leak of Sensitive Data in Android Framework},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3239-3252},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhouWLJL22,
+  author    = {Qingyang Zhou and
+               Qiushi Wu and
+               Dinghao Liu and
+               Shouling Ji and
+               Kangjie Lu},
+  title     = {{Non-Distinguishable} Inconsistencies as a Deterministic Oracle for Detecting Security Bugs},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3253-3267},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhouZGL022,
+  author    = {Wei Zhou and
+               Lan Zhang and
+               Le Guan and
+               Peng Liu and
+               Yuqing Zhang},
+  title     = {What Your Firmware Tells You Is Not How You Should Emulate It: A {Specification-Guided} Approach for Firmware Emulation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3269-3283},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhouGXQ22,
+  author    = {Xin'an Zhou and
+               Jiale Guan and
+               Luyi Xing and
+               Zhiyun Qian},
+  title     = {Perils and Mitigation of Security Risks of Cooperation in {Mobile-as-a-Gateway} {IoT}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3285-3299},
+}
+
+@inproceedings{DBLP:conf/ccs/AbadEPRU22,
+  author    = {Gorka Abad and
+               Oguzhan Ersoy and
+               Stjepan Picek and
+               Víctor Julio Ramírez-Durán and
+               Aitor Urbieta},
+  title     = {Poster: Backdoor Attacks on Spiking {NNs} and Neuromorphic Datasets},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3315-3317},
+}
+
+@inproceedings{DBLP:conf/ccs/AggarwalS22,
+  author    = {Akshit Aggarwal and
+               Srinibas Swain},
+  title     = {Poster: Correctness of n-parties {ECDSA} By the Claim of Byzantine Agreement},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3319-3321},
+}
+
+@inproceedings{DBLP:conf/ccs/AlkharijiDRP22,
+  author    = {Lamya Alkhariji and
+               Suparna De and
+               Omer F. Rana and
+               Charith Perera},
+  title     = {Poster: Ontology Enabled Chatbot for Applying Privacy by Design in {IoT} Systems},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3323-3325},
+}
+
+@inproceedings{DBLP:conf/ccs/000222,
+  author    = {Andrea Basso},
+  title     = {Poster: A {Post-Quantum} Oblivious {PRF} from Isogenies},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3327-3329},
+}
+
+@inproceedings{DBLP:conf/ccs/Bruggemann0SY22,
+  author    = {Andreas Brüggemann and
+               Thomas Schneider and
+               Ajith Suresh and
+               Hossein Yalame},
+  title     = {Poster: Efficient {Three-Party} Shuffling Using Precomputation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3331-3333},
+}
+
+@inproceedings{DBLP:conf/ccs/ChenDC22,
+  author    = {Niusen Chen and
+               Josh Dafoe and
+               Bo Chen},
+  title     = {Poster: Data Recovery from Ransomware Attacks via File System Forensics and Flash Translation Layer Data Extraction},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3335-3337},
+}
+
+@inproceedings{DBLP:conf/ccs/Doi022,
+  author    = {Kohei Doi and
+               Takeshi Sugawara},
+  title     = {Poster: Inaudible Acoustic Noise from Silicon Capacitors for {Voice-Command} Injection},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3339-3341},
+}
+
+@inproceedings{DBLP:conf/ccs/Ekambaranathan022,
+  author    = {Anirudh Ekambaranathan and
+               Jun Zhao and
+               Max Van Kleek},
+  title     = {Poster: An Analysis of Privacy Features in 'Expert-Approved' Kids' Apps},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3343-3345},
+}
+
+@inproceedings{DBLP:conf/ccs/FerreiraBS022,
+  author    = {Mafalda Ferreira and
+               Tiago Brito and
+               José Fragoso Santos and
+               Nuno Santos},
+  title     = {Poster: A Systems Approach to {GDPR} {Compliance-by-Design} in Web Development Stacks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3347-3349},
+}
+
+@inproceedings{DBLP:conf/ccs/0004HJMP0S22,
+  author    = {Daniel Günther and
+               Marco Holz and
+               Benjamin Judkewitz and
+               Helen Möllering and
+               Benny Pinkas and
+               Thomas Schneider and
+               Ajith Suresh},
+  title     = {Poster: {Privacy-Preserving} Epidemiological Modeling on Mobile Graphs},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3351-3353},
+}
+
+@inproceedings{DBLP:conf/ccs/Hallman22,
+  author    = {Roger A. Hallman},
+  title     = {Poster EveGAN: Using Generative Deep Learning for Cryptanalysis},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3355-3357},
+}
+
+@inproceedings{DBLP:conf/ccs/HaqueNAR22,
+  author    = {Nur Imtiazul Haque and
+               Maurice Ngouen and
+               Yazen Al-Wahadneh and
+               Mohammad Ashiqur Rahman},
+  title     = {Poster: A Novel Formal Threat Analyzer for Activity Monitoring-based Smart Home Heating, Ventilation, and Cooling Control System},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3359-3361},
+}
+
+@inproceedings{DBLP:conf/ccs/HeftrigSW22,
+  author    = {Elias Heftrig and
+               Haya Shulman and
+               Michael Waidner},
+  title     = {Poster: The Unintended Consequences of Algorithm Agility in {DNSSEC}},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3363-3365},
+}
+
+@inproceedings{DBLP:conf/ccs/HuangLLH22,
+  author    = {Can Huang and
+               Cheng Li and
+               Jiashuo Liang and
+               Xinhui Han},
+  title     = {Poster: {MSILDiffer} - A Security Patch Analysis Framework Based on Microsoft Intermediate Language for Large Software},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3367-3369},
+}
+
+@inproceedings{DBLP:conf/ccs/JangirKKPGS22,
+  author    = {Pranav Jangir and
+               Nishat Koti and
+               Varsha Bhat Kukkala and
+               Arpita Patra and
+               Bhavish Raj Gopal and
+               Somya Sangal},
+  title     = {Poster: Vogue: Faster Computation of Private Heavy Hitters},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3371-3373},
+}
+
+@inproceedings{DBLP:conf/ccs/KaklamanisYA22,
+  author    = {Ioannis Kaklamanis and
+               Lei Yang and
+               Mohammad Alizadeh},
+  title     = {Poster: Coded Broadcast for Scalable {Leader-Based} {BFT} Consensus},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3375-3377},
+}
+
+@inproceedings{DBLP:conf/ccs/KotiPPS22,
+  author    = {Nishat Koti and
+               Shravani Patil and
+               Arpita Patra and
+               Ajith Suresh},
+  title     = {Poster MPClan: : Protocol Suite for {Privacy-Conscious} Computations},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3379-3381},
+}
+
+@inproceedings{DBLP:conf/ccs/KunzSBWB22,
+  author    = {Immanuel Kunz and
+               Angelika Schneider and
+               Christian Banse and
+               Konrad Weiss and
+               Andreas Binder},
+  title     = {Poster: Patient Community - A Test Bed for Privacy Threat Analysis},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3383-3385},
+}
+
+@inproceedings{DBLP:conf/ccs/LeeOK22,
+  author    = {Kiho Lee and
+               Sanghak Oh and
+               Hyoungshick Kim},
+  title     = {Poster: Adversarial Perturbation Attacks on the {State-of-the-Art} Cryptojacking Detection System in {IoT} Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3387-3389},
+}
+
+@inproceedings{DBLP:conf/ccs/LiZ22,
+  author    = {Levi Taiji Li and
+               Mu Zhang},
+  title     = {Poster: EOSDFA: Data Flow Analysis of {EOSIO} Smart Contracts},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3391-3393},
+}
+
+@inproceedings{DBLP:conf/ccs/LiuWBZDH22,
+  author    = {Bingyu Liu and
+               Rujia Wang and
+               Zhongjie Ba and
+               Shanglin Zhou and
+               Caiwen Ding and
+               Yuan Hong},
+  title     = {Poster: Cryptographic Inferences for Video Deep Neural Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3395-3397},
+}
+
+@inproceedings{DBLP:conf/ccs/LopesMDBPVFC022,
+  author    = {Daniela Lopes and
+               Pedro Medeiros and
+               Jin-Dong Dong and
+               Diogo Barradas and
+               Bernardo Portela and
+               João Vinagre and
+               Bernardo Ferreira and
+               Nicolas Christin and
+               Nuno Santos},
+  title     = {Poster: User Sessions on Tor Onion Services: Can Colluding {ISPs} Deanonymize Them at Scale?},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3399-3401},
+}
+
+@inproceedings{DBLP:conf/ccs/LorimerFM22,
+  author    = {Anna Harbluk Lorimer and
+               Nick Feamster and
+               Prateek Mittal},
+  title     = {Poster: Investigating {QUIC's} Potential Impact on Censorship Circumvention},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3403-3405},
+}
+
+@inproceedings{DBLP:conf/ccs/LuPL22,
+  author    = {Xiaofeng Lu and
+               Renyu Pang and
+               Pietro Liò},
+  title     = {Poster: CFMAP: A Robust {CPU} Clock Fingerprint Model for Device Authentication},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3407-3409},
+}
+
+@inproceedings{DBLP:conf/ccs/LuoWC22,
+  author    = {Yunpeng Luo and
+               Ziwen Wan and
+               Qi Alfred Chen},
+  title     = {Poster: Towards Complete Computation Graph Generation for Security Assessment of {ROS} Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3411-3413},
+}
+
+@inproceedings{DBLP:conf/ccs/ManzoorGBS22,
+  author    = {Salman Manzoor and
+               Antonios Gouglidis and
+               Matthew Bradbury and
+               Neeraj Suri},
+  title     = {Poster: Effectiveness of Moving Target Defense Techniques to Disrupt Attacks in the Cloud},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3415-3417},
+}
+
+@inproceedings{DBLP:conf/ccs/ManzoorGBS22a,
+  author    = {Salman Manzoor and
+               Antonios Gouglidis and
+               Matthew Bradbury and
+               Neeraj Suri},
+  title     = {Poster: {Multi-Layer} Threat Analysis of the Cloud},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3419-3421},
+}
+
+@inproceedings{DBLP:conf/ccs/MirditaSW22,
+  author    = {Donika Mirdita and
+               Haya Shulman and
+               Michael Waidner},
+  title     = {Poster: {RPKI} Kill Switch},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3423-3425},
+}
+
+@inproceedings{DBLP:conf/ccs/NafeesSB22,
+  author    = {Muhammad Nouman Nafees and
+               Neetesh Saxena and
+               Pete Burnap},
+  title     = {Poster: {Physics-Informed} Augmentation for Contextual Anomaly Detection in Smart Grid},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3427-3429},
+}
+
+@inproceedings{DBLP:conf/ccs/NguyenMM22,
+  author    = {Chuyen Nguyen and
+               Caleb Morgan and
+               Sudip Mittal},
+  title     = {Poster CTI4AI: Threat Intelligence Generation and Sharing after Red Teaming {AI} Models},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3431-3433},
+}
+
+@inproceedings{DBLP:conf/ccs/Oak22,
+  author    = {Rajvardhan Oak},
+  title     = {Poster - Towards Authorship Obfuscation with Language Models},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3435-3437},
+}
+
+@inproceedings{DBLP:conf/ccs/ParkPCKO022,
+  author    = {Leo Hyun Park and
+               Jaewoo Park and
+               Soochang Chung and
+               Jaeuk Kim and
+               Myung Gyo Oh and
+               Taekyoung Kwon},
+  title     = {Poster: Adversarial Defense with Deep Learning Coverage on {MagNet's} Purification},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3439-3441},
+}
+
+@inproceedings{DBLP:conf/ccs/RenWTCY22,
+  author    = {Yili Ren and
+               Yichao Wang and
+               Sheng Tan and
+               Yingying Chen and
+               Jie Yang},
+  title     = {Poster: A {WiFi} Vision-based Approach to Person Re-identification},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3443-3445},
+}
+
+@inproceedings{DBLP:conf/ccs/SadeghpourV22,
+  author    = {Shadi Sadeghpour and
+               Natalija Vlajic},
+  title     = {Poster: {ReMouse} Dataset: Measuring Similarity of {Human-Generated} Trajectories as an Important Step in Dealing with {Session-Replay} Bots},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3447-3449},
+}
+
+@inproceedings{DBLP:conf/ccs/SalehiP22,
+  author    = {Mohsen Salehi and
+               Karthik Pattabiraman},
+  title     = {Poster AutoPatch: Automatic Hotpatching of {Real-Time} Embedded Devices},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3451-3453},
+}
+
+@inproceedings{DBLP:conf/ccs/SanvitoSGB22,
+  author    = {Davide Sanvito and
+               Giuseppe Siracusano and
+               Roberto Gonzalez and
+               Roberto Bifulco},
+  title     = {Poster: {MUSTARD} - Adaptive Behavioral Analysis for Ransomware Detection},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3455-3457},
+}
+
+@inproceedings{DBLP:conf/ccs/SatoHSSYC22,
+  author    = {Takami Sato and
+               Yuki Hayakawa and
+               Ryo Suzuki and
+               Yohsuke Shiiki and
+               Kentaro Yoshioka and
+               Qi Alfred Chen},
+  title     = {Poster: Towards {Large-Scale} Measurement Study on {LiDAR} Spoofing Attacks against Object Detection},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3459-3461},
+}
+
+@inproceedings{DBLP:conf/ccs/SerrorBHSN22,
+  author    = {Martin Serror and
+               Lennart Bader and
+               Martin Henze and
+               Arne Schwarze and
+               Kai Nürnberger},
+  title     = {Poster: {INSIDE} - Enhancing Network Intrusion Detection in Power Grids with Automated Facility Monitoring},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3463-3465},
+}
+
+@inproceedings{DBLP:conf/ccs/ShulmanVW22,
+  author    = {Haya Shulman and
+               Niklas Vogel and
+               Michael Waidner},
+  title     = {Poster: Insights into Global Deployment of {RPKI} Validation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3467-3469},
+}
+
+@inproceedings{DBLP:conf/ccs/ShulmanW22,
+  author    = {Haya Shulman and
+               Michael Waidner},
+  title     = {Poster: {DNS} in Routers Considered Harmful},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3471-3473},
+}
+
+@inproceedings{DBLP:conf/ccs/VisscherAKT22,
+  author    = {Leon Visscher and
+               Mohammed Alghazwi and
+               Dimka Karastoyanova and
+               Fatih Turkmen},
+  title     = {Poster: Privacy-preserving Genome Analysis using Verifiable {Off-Chain} Computation},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3475-3477},
+}
+
+@inproceedings{DBLP:conf/ccs/WangLSXC22,
+  author    = {Ningfei Wang and
+               Yunpeng Luo and
+               Takami Sato and
+               Kaidi Xu and
+               Qi Alfred Chen},
+  title     = {Poster: On the {System-Level} Effectiveness of Physical {Object-Hiding} Adversarial Attack in Autonomous Driving},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3479-3481},
+}
+
+@inproceedings{DBLP:conf/ccs/WangT22,
+  author    = {Yibo Wang and
+               Yuzhe Tang},
+  title     = {Poster: Enabling {Cost-Effective} Blockchain Applications via {Workload-Adaptive} Transaction Execution},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3483-3485},
+}
+
+@inproceedings{DBLP:conf/ccs/WangWCY22,
+  author    = {Zi Wang and
+               Yilin Wang and
+               Yingying Chen and
+               Jie Yang},
+  title     = {Poster: {Fingerprint-Face} Friction Based Earable Authentication},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3487-3489},
+}
+
+@inproceedings{DBLP:conf/ccs/XuP22,
+  author    = {Jing Xu and
+               Stjepan Picek},
+  title     = {Poster: Clean-label Backdoor Attack on Graph Neural Networks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3491-3493},
+}
+
+@inproceedings{DBLP:conf/ccs/XuSD22,
+  author    = {Yibin Xu and
+               Tijs Slaats and
+               Boris Düdder},
+  title     = {Poster: {Unanimous-Majority} - Pushing Blockchain Sharding Throughput to its Limit},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3495-3497},
+}
+
+@inproceedings{DBLP:conf/ccs/YadavHS22,
+  author    = {Tarun Kumar Yadav and
+               Justin Hales and
+               Kent E. Seamons},
+  title     = {Poster: User-controlled System-level Encryption for all Applications},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3499-3501},
+}
+
+@inproceedings{DBLP:conf/ccs/YangM0LK22,
+  author    = {Kyeongseok Yang and
+               Sudharssan Mohan and
+               Yonghwi Kwon and
+               Heejo Lee and
+               Chung Hwan Kim},
+  title     = {Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3503-3505},
+}
+
+@inproceedings{DBLP:conf/ccs/YangCH22,
+  author    = {Ruiguo Yang and
+               Jiajin Cai and
+               Xinhui Han},
+  title     = {Poster: TaintGrep: A Static Analysis Tool for Detecting Vulnerabilities of Android Apps Supporting User-defined Rules},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3507-3509},
+}
+
+@inproceedings{DBLP:conf/ccs/YaoDP22,
+  author    = {Yingao (Elaine) Yao and
+               Pritam Dash and
+               Karthik Pattabiraman},
+  title     = {Poster: May the Swarm Be With You: Sensor Spoofing Attacks Against Drone Swarms},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3511-3513},
+}
+
+@inproceedings{DBLP:conf/ccs/Kohler0SM22,
+  author    = {Sebastian Köhler and
+               Richard Baker and
+               Martin Strohmeier and
+               Ivan Martinovic},
+  title     = {Demo: {End-to-End} Wireless Disruption of {CCS} {EV} Charging},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3515-3517},
+}
+
+@inproceedings{DBLP:conf/ccs/SandholmMH22,
+  author    = {Thomas Sandholm and
+               Sayandev Mukherjee and
+               Bernardo A. Huberman},
+  title     = {Demo - SPoKE: Secure Polling and Knowledge Exchange},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3519-3521},
+}
+
+@inproceedings{DBLP:conf/ccs/ThapaC0NJ22,
+  author    = {Chandra Thapa and
+               Seyit Camtepe and
+               Raj Gaire and
+               Surya Nepal and
+               Seung Ick Jang},
+  title     = {Demo - MaLFraDA: A Machine Learning Framework with Data Airlock},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3523-3525},
+}
+
+@inproceedings{DBLP:conf/ccs/TianKWW022,
+  author    = {Xiangan Tian and
+               Vlasis Koutsos and
+               Lijia Wu and
+               Yijian Wu and
+               Dimitrios Papadopoulos},
+  title     = {Demo: {VaxPass} - A Scalable and Verifiable Platform for COVID-19 Records},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3527-3529},
+}
+
+@inproceedings{DBLP:conf/ccs/0003CR22,
+  author    = {Michael Brenner and
+               Anamaria Costache and
+               Kurt Rohloff},
+  title     = {WAHC'22: 10th Workshop on Encrypted Computing and Applied Homomorphic Cryptography},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3531-3532},
+}
+
+@inproceedings{DBLP:conf/ccs/FernandesA22,
+  author    = {Earlence Fernandes and
+               Cristina Alcaraz},
+  title     = {{CPSIoTSec} '22: 4th Workshop on {CPS} & {IoT} Security and Privacy},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3533-3534},
+}
+
+@inproceedings{DBLP:conf/ccs/Hong022,
+  author    = {Yuan Hong and
+               Lingyu Wang},
+  title     = {{WPES} '22: 21st Workshop on Privacy in the Electronic Society},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3535-3537},
+}
+
+@inproceedings{DBLP:conf/ccs/OkhraviW22,
+  author    = {Hamed Okhravi and
+               Cliff Wang},
+  title     = {{MTD} '22: 9th {ACM} Workshop on Moving Target Defense},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3539-3540},
+}
+
+@inproceedings{DBLP:conf/ccs/Dijk022,
+  author    = {Marten van Dijk and
+               Francesco Regazzoni},
+  title     = {{CCSW} '22: The 2022 Cloud Computing Security Workshop},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3541-3542},
+}
+
+@inproceedings{DBLP:conf/ccs/SoaresSV22,
+  author    = {Jorge M. Soares and
+               Dawn Song and
+               Marko Vukolic},
+  title     = {{ConsensusDay} '22: {ACM} Workshop on Developments in Consensus},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3543-3544},
+}
+
+@inproceedings{DBLP:conf/ccs/ChangFMR22,
+  author    = {Chip-Hong Chang and
+               Domenic Forte and
+               Debdeep Mukhopadhyay and
+               Ulrich Rührmair},
+  title     = {{ASHES} 2022 - 6th Workshop on Attacks and Solutions in Hardware Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3545-3547},
+}
+
+@inproceedings{DBLP:conf/ccs/DemontisCT22,
+  author    = {Ambra Demontis and
+               Xinyun Chen and
+               Florian Tramèr},
+  title     = {{AISec} '22: 15th {ACM} Workshop on Artificial Intelligence and Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3549-3551},
+}
+
+@inproceedings{DBLP:conf/ccs/RichardB22,
+  author    = {Golden G. Richard III and
+               Tim Blazytko},
+  title     = {Checkmate '22: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3553-3554},
+}
+
+@inproceedings{DBLP:conf/ccs/Torres-AriasMS22,
+  author    = {Santiago Torres-Arias and
+               Marcela Melara and
+               Laurent Simon},
+  title     = {{SCORED} '22: {ACM} Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3555-3556},
+}
+
+@inproceedings{DBLP:conf/ccs/YampolskiyY22,
+  author    = {Mark Yampolskiy and
+               Moti Yung},
+  title     = {AMSec'22: {ACM} {CCS} Workshop on Additive Manufacturing (3D Printing) Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3557-3558},
+}
+
+@inproceedings{DBLP:conf/ccs/ZhangM22,
+  author    = {Fan Zhang and
+               Patrick McCorry},
+  title     = {{DeFi} '22: {ACM} {CCS} Workshop on Decentralized Finance and Security},
+  booktitle = ccs,
+  year      = 2022,
+  pages     = {3559-3560},
+}
+
 @inproceedings{DBLP:conf/ccs/Carlini21,
   author    = {Nicholas Carlini},
   title     = {Session details: Session 1: Adversarial Machine Learning},
@@ -317,7 +4310,7 @@
   author    = {Raul Quinonez and
                Sleiman Safaoui and
                Tyler H. Summers and
-               Bhavani M. Thuraisingham and
+               Bhavani Thuraisingham and
                Alvaro A. Cárdenas},
   title     = {Shared Reality: Detecting Stealthy Attacks Against Autonomous Vehicles},
   booktitle = ccs,
@@ -1972,7 +5965,7 @@
 @inproceedings{DBLP:conf/ccs/HashimotoKPPW21,
   author    = {Keitaro Hashimoto and
                Shuichi Katsumata and
-               Eamonn Postlethwaite and
+               Eamonn W. Postlethwaite and
                Thomas Prest and
                Bas Westerbaan},
   title     = {A Concrete Treatment of Efficient Continuous Group Key Agreement via {Multi-Recipient} {PKEs}},
@@ -3725,7 +7718,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/SalazarSQC20,
-  author    = {Luis Salazar and
+  author    = {Luis E. Salazar and
                Neil Ortiz Silva and
                Xi Qin and
                Alvaro A. Cárdenas},
@@ -3932,7 +7925,7 @@
                Pei Huang and
                Linke Guo and
                Long Cheng and
-               Kuangching Wang},
+               Kuang-Ching Wang},
   title     = {AuthCTC: Defending Against Waveform Emulation Attack in Heterogeneous {IoT} Environments},
   booktitle = ccs,
   year      = 2020,
@@ -6664,7 +10657,7 @@
   author    = {Edward J. Schwartz and
                Cory F. Cohen and
                Jeffrey Gennari and
-               Stephanie M. Schwartz},
+               Stephanie Schwartz},
   title     = {A Generic Technique for Automatically Finding {Defense-Aware} Code Reuse Attacks},
   booktitle = ccs,
   year      = 2020,
@@ -7294,7 +11287,7 @@
   author    = {Wenwen Yan and
                Anmin Fu and
                Yi Mu and
-               Xia Zhe and
+               Zhe Xia and
                Shui Yu and
                Boyu Kuang},
   title     = {EAPA: Efficient Attestation Resilient to Physical Attacks for {IoT} Devices},
@@ -7948,7 +11941,7 @@
 @inproceedings{DBLP:conf/ccs/MaroofSJ19,
   author    = {Uzma Maroof and
                Arash Shaghaghi and
-               Sanjay Jha},
+               Sanjay K. Jha},
   title     = {PLAR: Towards a Pluggable Software Architecture for Securing {IoT} Devices},
   booktitle = ccs,
   year      = 2019,
@@ -8657,7 +12650,7 @@
                Zhiyun Qian and
                Chengyu Song and
                Srikanth V. Krishnamurthy and
-               Paul Yu},
+               Paul L. Yu},
   title     = {Principled Unearthing of {TCP} Side Channel Vulnerabilities},
   booktitle = ccs,
   year      = 2019,
@@ -9278,7 +13271,7 @@
   author    = {Vivek Kumar Bagaria and
                Sreeram Kannan and
                David Tse and
-               Giulia C. Fanti and
+               Giulia Fanti and
                Pramod Viswanath},
   title     = {Prism: Deconstructing the Blockchain to Approach Physical Limits},
   booktitle = ccs,
@@ -12414,7 +16407,7 @@
                Georg Osang and
                Krzysztof Pietrzak and
                Leonid Reyzin and
-               Michal Rolinek and
+               Michal Rolínek and
                Michal Rybár},
   title     = {On the {Memory-Hardness} of {Data-Independent} {Password-Hashing} Functions},
   booktitle = ccs,
@@ -13969,7 +17962,7 @@
                Zhan Tu and
                Xiangyu Zhang and
                Dongyan Xu and
-               Xinyan Xinyan},
+               Xinyan Deng},
   title     = {Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach},
   booktitle = ccs,
   year      = 2018,
@@ -17262,7 +21255,7 @@
   author    = {Thanh Hai Nguyen and
                Mason Wright and
                Michael P. Wellman and
-               Satinder Singh (Baveja)},
+               Satinder Singh},
   title     = {{Multi-Stage} Attack Graph Security Games: Heuristic Strategies, with Empirical {Game-Theoretic} Analysis},
   booktitle = ccs,
   year      = 2017,
@@ -25389,7 +29382,7 @@
 @inproceedings{DBLP:conf/ccs/ZaffaranoTH15,
   author    = {Kara Zaffarano and
                Joshua Taylor and
-               Samuel Hamilton},
+               Samuel N. Hamilton},
   title     = {A Quantitative Framework for Moving Target Defense Effectiveness Evaluation},
   booktitle = ccs,
   year      = 2015,
@@ -29327,7 +33320,7 @@
   author    = {Fei Xu and
                Michael Y. K. Kwan and
                Hayson Tse and
-               K. P. Chow},
+               Kam-Pui Chow},
   title     = {A bayesian belief network for data leakage investigation},
   booktitle = ccs,
   year      = 2014,
@@ -31226,7 +35219,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/CockGMH14,
-  author    = {David Cock and
+  author    = {David A. Cock and
                Qian Ge and
                Toby C. Murray and
                Gernot Heiser},
@@ -31284,7 +35277,7 @@
   author    = {Devin Lundberg and
                Brown Farinholt and
                Edward Sullivan and
-               Ryan Mast and
+               Ryan A. Mast and
                Stephen Checkoway and
                Stefan Savage and
                Alex C. Snoeren and
@@ -32034,7 +36027,7 @@
   author    = {Bhaswati Deka and
                Ryan M. Gerdes and
                Ming Li and
-               Kevin Heaslip},
+               Kevin P. Heaslip},
   title     = {POSTER: Analysis and Comparison of Secure Localization Schemes for Intelligent Transportation Systems},
   booktitle = ccs,
   year      = 2014,
@@ -35819,7 +39812,7 @@
 
 @inproceedings{DBLP:conf/ccs/SundaramurthyBE12,
   author    = {Sathya Chandran Sundaramurthy and
-               Sandeep Bhatt and
+               Sandeep N. Bhatt and
                Marc R. Eisenbarth},
   title     = {Examining intrusion prevention system events from worldwide networks},
   booktitle = ccs,
@@ -41703,7 +45696,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/Thuraisingham09,
-  author    = {Bhavani M. Thuraisingham},
+  author    = {Bhavani Thuraisingham},
   title     = {Assured information sharing between trustworthy, semi-trustworthy and untrustworthy coalition partners},
   booktitle = ccs,
   year      = 2009,
@@ -45412,7 +49405,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/ArdagnaCDVS06,
-  author    = {Claudio Agostino Ardagna and
+  author    = {Claudio A. Ardagna and
                Marco Cremonini and
                Ernesto Damiani and
                Sabrina De Capitani di Vimercati and
@@ -46646,6 +50639,16 @@
   pages     = {1},
 }
 
+@inproceedings{DBLP:conf/ccs/LingaGB03,
+  author    = {Prakash Linga and
+               Indranil Gupta and
+               Ken Birman},
+  title     = {A churn-resistant peer-to-peer web caching system},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {1-10},
+}
+
 @inproceedings{DBLP:conf/ccs/KaufmanPS03,
   author    = {Charlie Kaufman and
                Radia J. Perlman and
@@ -46669,6 +50672,21 @@
   pages     = {8-19},
 }
 
+@inproceedings{DBLP:conf/ccs/KeromytisPGKMNR03,
+  author    = {Angelos D. Keromytis and
+               Janak J. Parekh and
+               Philip Gross and
+               Gail E. Kaiser and
+               Vishal Misra and
+               Jason Nieh and
+               Dan Rubenstein and
+               Salvatore J. Stolfo},
+  title     = {A holistic approach to service survivability},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {11-22},
+}
+
 @inproceedings{DBLP:conf/ccs/WangR03,
   author    = {Xinyuan Wang and
                Douglas S. Reeves},
@@ -46676,6 +50694,16 @@
   booktitle = ccs,
   year      = 2003,
   pages     = {20-29},
+}
+
+@inproceedings{DBLP:conf/ccs/WangMT03,
+  author    = {Dazhi Wang and
+               Bharat B. Madan and
+               Kishor S. Trivedi},
+  title     = {Security analysis of {SITAR} intrusion tolerance system},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {23-32},
 }
 
 @inproceedings{DBLP:conf/ccs/JinWS03,
@@ -46686,6 +50714,16 @@
   booktitle = ccs,
   year      = 2003,
   pages     = {30-41},
+}
+
+@inproceedings{DBLP:conf/ccs/BozdogRD03,
+  author    = {Adrian Bozdog and
+               Robbert van Renesse and
+               Dan Dumitriu},
+  title     = {SelectCast: a scalable and self-repairing multicast overlay routing facility},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {33-42},
 }
 
 @inproceedings{DBLP:conf/ccs/DuDHV03,
@@ -46699,6 +50737,16 @@
   pages     = {42-51},
 }
 
+@inproceedings{DBLP:conf/ccs/0010LC03,
+  author    = {Ju Wang and
+               Linyuan Lu and
+               Andrew A. Chien},
+  title     = {Tolerating denial-of-service attacks using overlay networks: impact of topology},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {43-52},
+}
+
 @inproceedings{DBLP:conf/ccs/LiuN03,
   author    = {Donggang Liu and
                Peng Ning},
@@ -46706,6 +50754,19 @@
   booktitle = ccs,
   year      = 2003,
   pages     = {52-61},
+}
+
+@inproceedings{DBLP:conf/ccs/Jing0FXGL03,
+  author    = {Jiwu Jing and
+               Peng Liu and
+               Dengguo Feng and
+               Ji Xiang and
+               Neng Gao and
+               Jingqiang Lin},
+  title     = {ARECA: a highly attack resilient certification authority},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {53-63},
 }
 
 @inproceedings{DBLP:conf/ccs/ZhuSJ03,
@@ -46716,6 +50777,26 @@
   booktitle = ccs,
   year      = 2003,
   pages     = {62-72},
+}
+
+@inproceedings{DBLP:conf/ccs/ManivelAV03,
+  author    = {Vinay Manivel and
+               Mustaque Ahamad and
+               H. Venkateswaran},
+  title     = {Attack resistant cache replacement for survivable services},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {64-71},
+}
+
+@inproceedings{DBLP:conf/ccs/George0M03,
+  author    = {Selvin George and
+               David Evans and
+               Steven Marchette},
+  title     = {A biological programming model for self-healing},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {72-81},
 }
 
 @inproceedings{DBLP:conf/ccs/MurataTKH03,
@@ -46729,12 +50810,32 @@
   pages     = {73-84},
 }
 
+@inproceedings{DBLP:conf/ccs/MoreMSB03,
+  author    = {Sara Miner More and
+               Michael Malkin and
+               Jessica Staddon and
+               Dirk Balfanz},
+  title     = {Sliding-window self-healing key distribution},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {82-90},
+}
+
 @inproceedings{DBLP:conf/ccs/Crampton03,
   author    = {Jason Crampton},
   title     = {On permissions, inheritance and role hierarchies},
   booktitle = ccs,
   year      = 2003,
   pages     = {85-92},
+}
+
+@inproceedings{DBLP:conf/ccs/NaldurgC03,
+  author    = {Prasad Naldurg and
+               Roy H. Campbell},
+  title     = {Modeling insecurity: policy engineering for survivability},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {91-98},
 }
 
 @inproceedings{DBLP:conf/ccs/DamianiVJPS03,
@@ -46749,6 +50850,15 @@
   pages     = {93-102},
 }
 
+@inproceedings{DBLP:conf/ccs/ReynoldsC03,
+  author    = {James C. Reynolds and
+               Larry A. Clough},
+  title     = {Continual repair for windows using the event log},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {99-104},
+}
+
 @inproceedings{DBLP:conf/ccs/JuelsRS03,
   author    = {Ari Juels and
                Ronald L. Rivest and
@@ -46759,6 +50869,25 @@
   pages     = {103-111},
 }
 
+@inproceedings{DBLP:conf/ccs/MooreE03,
+  author    = {Andrew P. Moore and
+               Robert J. Ellison},
+  title     = {TRIAD: a framework for survivability architecting},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {105-109},
+}
+
+@inproceedings{DBLP:conf/ccs/SaidaneDN03,
+  author    = {Ayda Saïdane and
+               Yves Deswarte and
+               Vincent Nicomette},
+  title     = {An intrusion tolerant architecture for dynamic content internet servers},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {110-114},
+}
+
 @inproceedings{DBLP:conf/ccs/WatersFS03,
   author    = {Brent R. Waters and
                Edward W. Felten and
@@ -46767,6 +50896,17 @@
   booktitle = ccs,
   year      = 2003,
   pages     = {112-121},
+}
+
+@inproceedings{DBLP:conf/ccs/SaidiDLV03,
+  author    = {Hassen Saïdi and
+               Bruno Dutertre and
+               Joshua Levy and
+               Alfonso Valdes},
+  title     = {Self-regenerative software components},
+  booktitle = ccs,
+  year      = 2003,
+  pages     = {115-120},
 }
 
 @inproceedings{DBLP:conf/ccs/AhnBH03,
@@ -48639,7 +52779,7 @@
 }
 
 @inproceedings{DBLP:conf/ccs/TombakS94,
-  author    = {L. Tombak and
+  author    = {Leonid M. Tombak and
                Reihaneh Safavi-Naini},
   title     = {Authentication Codes That Are {r-Fold} Secure Against Spoofing},
   booktitle = ccs,

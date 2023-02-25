@@ -1,5 +1,682 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/FlinnDABRSTWZ22,
+  author    = {Jason Flinn and
+               Xianzheng Dou and
+               Arushi Aggarwal and
+               Alex Boyko and
+               Francois Richard and
+               Eric Sun and
+               Wendy Tobagus and
+               Nick Wolchko and
+               Fang Zhou},
+  title     = {Owl: Scale and Flexibility in Distribution of Hot Content},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/osdi/ReidysSBN022,
+  author    = {Benjamin Reidys and
+               Jinghan Sun and
+               Anirudh Badam and
+               Shadi A. Noghabi and
+               Jian Huang},
+  title     = {BlockFlex: Enabling Storage Harvesting with {Software-Defined} Flash in Modern Cloud Platforms},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {17-33},
+}
+
+@inproceedings{DBLP:conf/osdi/WangMLQEN0X22,
+  author    = {Chenxi Wang and
+               Haoran Ma and
+               Shi Liu and
+               Yifan Qiao and
+               Jonathan Eyolfson and
+               Christian Navasca and
+               Shan Lu and
+               Guoqing Harry Xu},
+  title     = {MemLiner: Lining up Tracing and Application for a {Far-Memory-Friendly} Runtime},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {35-53},
+}
+
+@inproceedings{DBLP:conf/osdi/0008WLGMYKTCLV22,
+  author    = {Yang Zhou and
+               Hassan M. G. Wassel and
+               Sihang Liu and
+               Jiaqi Gao and
+               James Mickens and
+               Minlan Yu and
+               Chris Kennelly and
+               Paul Turner and
+               David E. Culler and
+               Henry M. Levy and
+               Amin Vahdat},
+  title     = {Carbink: {Fault-Tolerant} Far Memory},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {55-71},
+}
+
+@inproceedings{DBLP:conf/osdi/HuangMMEIAZC22,
+  author    = {Lexiang Huang and
+               Matthew Magnusson and
+               Abishek Bangalore Muralikrishna and
+               Salman Estyak and
+               Rebecca Isaacs and
+               Abutalib Aghayev and
+               Timothy Zhu and
+               Aleksey Charapko},
+  title     = {Metastable Failures in the Wild},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {73-90},
+}
+
+@inproceedings{DBLP:conf/osdi/LouJ022,
+  author    = {Chang Lou and
+               Yuzhuo Jing and
+               Peng Huang},
+  title     = {Demystifying and Checking Silent Semantic Violations in Large Distributed Systems},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {91-107},
+}
+
+@inproceedings{DBLP:conf/osdi/LouC0DQYLLC22,
+  author    = {Chang Lou and
+               Cong Chen and
+               Peng Huang and
+               Yingnong Dang and
+               Si Qin and
+               Xinsheng Yang and
+               Xukun Li and
+               Qingwei Lin and
+               Murali Chintalapati},
+  title     = {RESIN: A Holistic Service for Dealing with Memory Leaks in Production Cloud Infrastructure},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {109-125},
+}
+
+@inproceedings{DBLP:conf/osdi/SethiP0MN22,
+  author    = {Utsav Sethi and
+               Haochen Pan and
+               Shan Lu and
+               Madanlal Musuvathi and
+               Suman Nath},
+  title     = {Cancellation in Systems: An Empirical Study of Task Cancellation Patterns and Failures},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {127-141},
+}
+
+@inproceedings{DBLP:conf/osdi/0013LGGAGSX22,
+  author    = {Xudong Sun and
+               Wenqing Luo and
+               Jiawei Tyler Gu and
+               Aishwarya Ganesan and
+               Ramnatthan Alagappan and
+               Michael Gasch and
+               Lalith Suresh and
+               Tianyin Xu},
+  title     = {Automatic Reliability Testing For Cluster Management Controllers},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {143-159},
+}
+
+@inproceedings{DBLP:conf/osdi/KimPKPCSN22,
+  author    = {Wonbae Kim and
+               Chanyeol Park and
+               Dongui Kim and
+               Hyeongjun Park and
+               Young-ri Choi and
+               Alan Sussman and
+               Beomseok Nam},
+  title     = {ListDB: Union of {Write-Ahead} Logs and Persistent {SkipLists} for Incremental Checkpointing on Persistent Memory},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {161-177},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhouQGYMK22,
+  author    = {Diyu Zhou and
+               Yuchen Qian and
+               Vishal Gupta and
+               Zhifei Yang and
+               Changwoo Min and
+               Sanidhya Kashyap},
+  title     = {ODINFS: Scaling {PM} Performance with Opportunistic Delegation},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {179-193},
+}
+
+@inproceedings{DBLP:conf/osdi/FuLM22,
+  author    = {Xinwei Fu and
+               Dongyoon Lee and
+               Changwoo Min},
+  title     = {DURINN: Adversarial Memory and Thread Interleaving for Detecting Durable Linearizability Bugs},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {195-211},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhengLZMY0WYZ22,
+  author    = {Ningxin Zheng and
+               Bin Lin and
+               Quanlu Zhang and
+               Lingxiao Ma and
+               Yuqing Yang and
+               Fan Yang and
+               Yang Wang and
+               Mao Yang and
+               Lidong Zhou},
+  title     = {SparTA: {Deep-Learning} Model Sparsity via {Tensor-with-Sparsity-Attribute}},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {213-232},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhuWDKLZXMXC0YZ22,
+  author    = {Hongyu Zhu and
+               Ruofan Wu and
+               Yijia Diao and
+               Shanbin Ke and
+               Haoyu Li and
+               Chen Zhang and
+               Jilong Xue and
+               Lingxiao Ma and
+               Yuqing Xia and
+               Wei Cui and
+               Fan Yang and
+               Mao Yang and
+               Lidong Zhou and
+               Asaf Cidon and
+               Gennady Pekhimenko},
+  title     = {ROLLER: Fast and Efficient Tensor Compilation for Deep Learning},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {233-248},
+}
+
+@inproceedings{DBLP:conf/osdi/LvNGJWLWYHHHSSZ22,
+  author    = {Chengfei Lv and
+               Chaoyue Niu and
+               Renjie Gu and
+               Xiaotang Jiang and
+               Zhaode Wang and
+               Bin Liu and
+               Ziqi Wu and
+               Qiulin Yao and
+               Congyu Huang and
+               Panos Huang and
+               Tao Huang and
+               Hui Shu and
+               Jinde Song and
+               Bin Zou and
+               Peng Lan and
+               Guohuan Xu and
+               Fei Wu and
+               Shaojie Tang and
+               Fan Wu and
+               Guihai Chen},
+  title     = {Walle: An End-to-End, General-Purpose, and {Large-Scale} Production System for {Device-Cloud} Collaborative Machine Learning},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {249-265},
+}
+
+@inproceedings{DBLP:conf/osdi/UngerJ0LBNRPMML22,
+  author    = {Colin Unger and
+               Zhihao Jia and
+               Wei Wu and
+               Sina Lin and
+               Mandeep Baines and
+               Carlos Efrain Quintero Narvaez and
+               Vinay Ramakrishnaiah and
+               Nirmal Prajapati and
+               Patrick S. McCormick and
+               Jamaludin Mohd-Yusof and
+               Xi Luo and
+               Dheevatsa Mudigere and
+               Jongsoo Park and
+               Misha Smelyanskiy and
+               Alex Aiken},
+  title     = {Unity: Accelerating {DNN} Training Through Joint Optimization of Algebraic Transformations and Parallelization},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {267-284},
+}
+
+@inproceedings{DBLP:conf/osdi/Gao00HL0GX22,
+  author    = {Di Gao and
+               Hao Lin and
+               Zhenhua Li and
+               Chengen Huang and
+               Yunhao Liu and
+               Feng Qian and
+               Liangyi Gong and
+               Tianyin Xu},
+  title     = {Trinity: {High-Performance} Mobile Emulation through Graphics Projection},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {285-301},
+}
+
+@inproceedings{DBLP:conf/osdi/MahgoubYSECB22,
+  author    = {Ashraf Mahgoub and
+               Edgardo Barsallo Yi and
+               Karthick Shankar and
+               Sameh Elnikety and
+               Somali Chaterji and
+               Saurabh Bagchi},
+  title     = {{ORION} and the Three Rights: Sizing, Bundling, and Prewarming for Serverless {DAGs}},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {303-320},
+}
+
+@inproceedings{DBLP:conf/osdi/Shanny022,
+  author    = {Tomer Shanny and
+               Adam Morrison},
+  title     = {Occualizer: Optimistic Concurrent Search Trees From Sequential Code},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {321-337},
+}
+
+@inproceedings{DBLP:conf/osdi/YildizCY22,
+  author    = {Eren Yildiz and
+               Lijun Chen and
+               Kasim Sinan Yildirim},
+  title     = {Immortal Threads: Multithreaded Event-driven Intermittent Computing on {Ultra-Low-Power} Microcontrollers},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {339-355},
+}
+
+@inproceedings{DBLP:conf/osdi/0001FCK22,
+  author    = {Andrew Quinn and
+               Jason Flinn and
+               Michael J. Cafarella and
+               Baris Kasikci},
+  title     = {Debugging the {OmniTable} Way},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {357-373},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhongLWZTMMYTSC22,
+  author    = {Yuhong Zhong and
+               Haoyu Li and
+               Yu Jian Wu and
+               Ioannis Zarkadas and
+               Jeffrey Tao and
+               Evan Mesterhazy and
+               Michael Makris and
+               Junfeng Yang and
+               Amy Tai and
+               Ryan Stutsman and
+               Asaf Cidon},
+  title     = {XRP: {In-Kernel} Storage Functions with {eBPF}},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {375-393},
+}
+
+@inproceedings{DBLP:conf/osdi/FengCZ0WM0C22,
+  author    = {Guanyu Feng and
+               Huanqi Cao and
+               Xiaowei Zhu and
+               Bowen Yu and
+               Yuanwei Wang and
+               Zixuan Ma and
+               Shengqi Chen and
+               Wenguang Chen},
+  title     = {TriCache: A {User-Transparent} Block Cache Enabling {High-Performance} {Out-of-Core} Processing with {In-Memory} Programs},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {395-411},
+}
+
+@inproceedings{DBLP:conf/osdi/KadekodiMAMRG22,
+  author    = {Saurabh Kadekodi and
+               Francisco Maturana and
+               Sanjith Athlur and
+               Arif Merchant and
+               K. V. Rashmi and
+               Gregory R. Ganger},
+  title     = {Tiger: {Disk-Adaptive} Redundancy Without Placement Restrictions},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {413-429},
+}
+
+@inproceedings{DBLP:conf/osdi/StamlerHRZP22,
+  author    = {Timothy Stamler and
+               Deukyeon Hwang and
+               Amanda Raybuck and
+               Wei Zhang and
+               Simon Peter},
+  title     = {zIO: Accelerating {IO-Intensive} Applications with Transparent {Zero-Copy} {IO}},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {431-445},
+}
+
+@inproceedings{DBLP:conf/osdi/ChajedTTKZ22,
+  author    = {Tej Chajed and
+               Joseph Tassarotti and
+               Mark Theng and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Verifying the {DaisyNFS} concurrent and crash-safe file system with sequential reasoning},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {447-463},
+}
+
+@inproceedings{DBLP:conf/osdi/LiLDGNSS22,
+  author    = {Xupeng Li and
+               Xuheng Li and
+               Christoffer Dall and
+               Ronghui Gu and
+               Jason Nieh and
+               Yousuf Sait and
+               Gareth Stockwell},
+  title     = {Design and Verification of the Arm Confidential Compute Architecture},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {465-484},
+}
+
+@inproceedings{DBLP:conf/osdi/YaoTGN22,
+  author    = {Jianan Yao and
+               Runzhou Tao and
+               Ronghui Gu and
+               Jason Nieh},
+  title     = {DuoAI: Fast, Automated Inference of Inductive Invariants for Verifying Distributed Protocols},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {485-501},
+}
+
+@inproceedings{DBLP:conf/osdi/AthalyeKZ22,
+  author    = {Anish Athalye and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Verifying Hardware Security Modules with {Information-Preserving} Refinement},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {503-519},
+}
+
+@inproceedings{DBLP:conf/osdi/YuJKKC22,
+  author    = {Gyeong-In Yu and
+               Joo Seong Jeong and
+               Geon-Woo Kim and
+               Soojeong Kim and
+               Byung-Gon Chun},
+  title     = {Orca: A Distributed Serving System for {Transformer-Based} Generative Models},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {521-538},
+}
+
+@inproceedings{DBLP:conf/osdi/HanZ0022,
+  author    = {Mingcong Han and
+               Hanze Zhang and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Microsecond-scale Preemption for Concurrent {GPU-accelerated} {DNN} Inferences},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {539-558},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhengLZZCHWXZXG22,
+  author    = {Lianmin Zheng and
+               Zhuohan Li and
+               Hao Zhang and
+               Yonghao Zhuang and
+               Zhifeng Chen and
+               Yanping Huang and
+               Yida Wang and
+               Yuanzhong Xu and
+               Danyang Zhuo and
+               Eric P. Xing and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {Alpa: Automating Inter- and {Intra-Operator} Parallelism for Distributed Deep Learning},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {559-578},
+}
+
+@inproceedings{DBLP:conf/osdi/MohanPKC22,
+  author    = {Jayashree Mohan and
+               Amar Phanishayee and
+               Janardhan Kulkarni and
+               Vijay Chidambaram},
+  title     = {Looking Beyond {GPUs} for {DNN} Scheduling on {Multi-Tenant} Clusters},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {579-596},
+}
+
+@inproceedings{DBLP:conf/osdi/SartakovVESP22,
+  author    = {Vasily A. Sartakov and
+               Lluís Vilanova and
+               David M. Eyers and
+               Takahiro Shinagawa and
+               Peter R. Pietzuch},
+  title     = {CAP-VMs: {Capability-Based} Isolation and Sharing in the Cloud},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {597-612},
+}
+
+@inproceedings{DBLP:conf/osdi/HuangNDHTJB22,
+  author    = {Yongzhe Huang and
+               Vikram Narayanan and
+               David Detweiler and
+               Kaiming Huang and
+               Gang Tan and
+               Trent Jaeger and
+               Anton Burtsev},
+  title     = {KSplit: Automating Device Driver Isolation},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {613-631},
+}
+
+@inproceedings{DBLP:conf/osdi/Jing022,
+  author    = {Yuzhuo Jing and
+               Peng Huang},
+  title     = {Operating System Support for Safe and Efficient Auxiliary Execution},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {633-648},
+}
+
+@inproceedings{DBLP:conf/osdi/RenZLYHWZZH22,
+  author    = {Yuxin Ren and
+               Kang Zhou and
+               Jianhai Luan and
+               Yunfeng Ye and
+               Shiyuan Hu and
+               Xu Wu and
+               Wenqin Zheng and
+               Wenfeng Zhang and
+               Xinwei Hu},
+  title     = {From Dynamic Loading to Extensible Transformation: An Infrastructure for Dynamic Library Transformation},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {649-666},
+}
+
+@inproceedings{DBLP:conf/osdi/ParkZQCKK22,
+  author    = {Sujin Park and
+               Diyu Zhou and
+               Yuchen Qian and
+               Irina Calciu and
+               Taesoo Kim and
+               Sanidhya Kashyap},
+  title     = {{Application-Informed} Kernel Synchronization Primitives},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {667-682},
+}
+
+@inproceedings{DBLP:conf/osdi/HofN22,
+  author    = {Alexander Van't Hof and
+               Jason Nieh},
+  title     = {BlackBox: A Container Security Monitor for Protecting Containers on Untrusted Operating Systems},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {683-700},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangSCPSS22,
+  author    = {Wen Zhang and
+               Eric Sheng and
+               Michael Alan Chang and
+               Aurojit Panda and
+               Mooly Sagiv and
+               Scott Shenker},
+  title     = {Blockaid: Data Access Policy Enforcement for Web Applications},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {701-718},
+}
+
+@inproceedings{DBLP:conf/osdi/VuppalapatiBK022,
+  author    = {Midhul Vuppalapati and
+               Kushal Babel and
+               Anurag Khandelwal and
+               Rachit Agarwal},
+  title     = {SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {719-734},
+}
+
+@inproceedings{DBLP:conf/osdi/BarmanKLGZ22,
+  author    = {Ludovic Barman and
+               Moshe Kol and
+               David Lazar and
+               Yossi Gilad and
+               Nickolai Zeldovich},
+  title     = {Groove: Flexible {Metadata-Private} Messaging},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {735-750},
+}
+
+@inproceedings{DBLP:conf/osdi/David0SSY0XNG22,
+  author    = {Yaniv David and
+               Xudong Sun and
+               Raphael J. Sofaer and
+               Aditya Senthilnathan and
+               Junfeng Yang and
+               Zhiqiang Zuo and
+               Guoqing Harry Xu and
+               Jason Nieh and
+               Ronghui Gu},
+  title     = {UPGRADVISOR: Early Adopting Dependency Updates Using Hybrid Program Analysis and Hardware Tracing},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {751-767},
+}
+
+@inproceedings{DBLP:conf/osdi/KallasMBKD0V22,
+  author    = {Konstantinos Kallas and
+               Tammam Mustafa and
+               Jan Bielak and
+               Dimitris Karnikis and
+               Thurston H. Y. Dang and
+               Michael Greenberg and
+               Nikos Vasilakis},
+  title     = {Practically Correct, {Just-in-Time} Shell Script Parallelization},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {769-785},
+}
+
+@inproceedings{DBLP:conf/osdi/LuoRLZJXLY22,
+  author    = {Yu Luo and
+               Kirk Rodrigues and
+               Cuiqin Li and
+               Feng Zhang and
+               Lijin Jiang and
+               Bing Xia and
+               David Lion and
+               Ding Yuan},
+  title     = {Hubble: Performance Debugging with In-Production, {Just-In-Time} Method Tracing on Android},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {787-803},
+}
+
+@inproceedings{DBLP:conf/osdi/GoelZNM22,
+  author    = {Ayush Goel and
+               Jingyuan Zhu and
+               Ravi Netravali and
+               Harsha V. Madhyastha},
+  title     = {Jawa: Web Archival in the Era of {JavaScript}},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {805-820},
+}
+
+@inproceedings{DBLP:conf/osdi/SimaFSGGLWLRAM22,
+  author    = {Chijun Sima and
+               Yao Fu and
+               Man-Kit Sit and
+               Liyi Guo and
+               Xuri Gong and
+               Feng Lin and
+               Junyu Wu and
+               Yongsheng Li and
+               Haidong Rong and
+               Pierre-Louis Aublin and
+               Luo Mai},
+  title     = {Ekko: A {Large-Scale} Deep Learning Recommender System with {Low-Latency} Model Update},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {821-839},
+}
+
+@inproceedings{DBLP:conf/osdi/ZengLNHJTW0G22,
+  author    = {Chaoliang Zeng and
+               Layong Luo and
+               Qingsong Ning and
+               Yaodong Han and
+               Yuhang Jiang and
+               Ding Tang and
+               Zilong Wang and
+               Kai Chen and
+               Chuanxiong Guo},
+  title     = {FAERY: An {FPGA-accelerated} Embedding-based Retrieval System},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {841-856},
+}
+
+@inproceedings{DBLP:conf/osdi/0001A22,
+  author    = {Xuhao Chen and
+               Arvind},
+  title     = {Efficient and Scalable Graph Pattern Mining on {GPUs}},
+  booktitle = osdi,
+  year      = 2022,
+  pages     = {857-877},
+}
+
 @inproceedings{DBLP:conf/osdi/AhmadYAAG21,
   author    = {Ishtiyaque Ahmad and
                Yuntian Yang and

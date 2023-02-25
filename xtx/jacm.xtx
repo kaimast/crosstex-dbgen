@@ -1,5 +1,98 @@
 @include journals-cs
 
+@article{DBLP:journals/jacm/Kock23,
+  author    = {Joachim Kock},
+  title     = {Whole-grain Petri Nets and Processes},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/jacm/BodirskyR23,
+  author    = {Manuel Bodirsky and
+               Jakub Rydval},
+  title     = {On the Descriptive Complexity of Temporal Constraint Satisfaction Problems},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/jacm/OrlinV23,
+  author    = {James B. Orlin and
+               László A. Végh},
+  title     = {Directed Shortest Paths via Approximate Cost Balancing},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/jacm/AsharovKLNPS23,
+  author    = {Gilad Asharov and
+               Ilan Komargodski and
+               Wei-Kai Lin and
+               Kartik Nayak and
+               Enoch Peserico and
+               Elaine Shi},
+  title     = {OptORAMa: Optimal Oblivious {RAM}},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/jacm/Jiang23,
+  author    = {Haotian Jiang},
+  title     = {Minimizing Convex Functions with Rational Minimizers},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/jacm/ChiaCL23,
+  author    = {Nai-Hui Chia and
+               Kai-Min Chung and
+               Ching-Yi Lai},
+  title     = {On the Need for Large Quantum Depth},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/jacm/FearnleyGHS23,
+  author    = {John Fearnley and
+               Paul Goldberg and
+               Alexandros Hollender and
+               Rahul Savani},
+  title     = {The Complexity of Gradient Descent: {CLS} = {PPAD} ∩ {PLS}},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/jacm/GoaocW23,
+  author    = {Xavier Goaoc and
+               Emo Welzl},
+  title     = {Convex Hulls of Random Order Types},
+  journal   = jacm,
+  volume    = {70},
+  number    = {1},
+  year      = 2023,
+  pages     = {8-1},
+}
+
 @article{DBLP:journals/jacm/KalaiRR22,
   author    = {Yael Tauman Kalai and
                Ran Raz and
@@ -94,6 +187,478 @@
   number    = {1},
   year      = 2022,
   pages     = {8-1},
+}
+
+@article{DBLP:journals/jacm/ODonnellST22,
+  author    = {Ryan O'Donnell and
+               Rocco A. Servedio and
+               Li-Yang Tan},
+  title     = {Fooling Polytopes},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/jacm/GuruswamiX22,
+  author    = {Venkatesan Guruswami and
+               Chaoping Xing},
+  title     = {Optimal Rate List Decoding over Bounded Alphabets Using Algebraic-geometric Codes},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/jacm/BlasiokGNRS22,
+  author    = {Jaroslaw Blasiok and
+               Venkatesan Guruswami and
+               Preetum Nakkiran and
+               Atri Rudra and
+               Madhu Sudan},
+  title     = {General Strong Polarization},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/jacm/HarveyH22,
+  author    = {David Harvey and
+               Joris van der Hoeven},
+  title     = {Polynomial Multiplication over Finite Fields in Time \( O (n \log n) \)},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/jacm/FulekT22,
+  author    = {Radoslav Fulek and
+               Csaba D. Tóth},
+  title     = {Atomic Embeddability, Clustered Planarity, and Thickenability},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/jacm/BonchiGKSZ22,
+  author    = {Filippo Bonchi and
+               Fabio Gadducci and
+               Aleks Kissinger and
+               Pawel Sobocinski and
+               Fabio Zanasi},
+  title     = {String Diagram Rewrite Theory I: Rewriting with Frobenius Structure},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/jacm/ChiesaFGS22,
+  author    = {Alessandro Chiesa and
+               Michael A. Forbes and
+               Tom Gur and
+               Nicholas Spooner},
+  title     = {Spatial Isolation Implies Zero Knowledge Even in a Quantum World},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/jacm/Tardos22a,
+  author    = {Éva Tardos},
+  title     = {Invited Article Foreword},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/jacm/Ben-EliezerJWY22,
+  author    = {Omri Ben-Eliezer and
+               Rajesh Jayaram and
+               David P. Woodruff and
+               Eylon Yogev},
+  title     = {A Framework for Adversarially Robust Streaming Algorithms},
+  journal   = jacm,
+  volume    = {69},
+  number    = {2},
+  year      = 2022,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/jacm/DuttaSS22,
+  author    = {Pranjal Dutta and
+               Nitin Saxena and
+               Amit Sinhababu},
+  title     = {Discovering the Roots: Uniform Closure Results for Algebraic Classes Under Factoring},
+  journal   = jacm,
+  volume    = {69},
+  number    = {3},
+  year      = 2022,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/jacm/FlemingPPR22,
+  author    = {Noah Fleming and
+               Denis Pankratov and
+               Toniann Pitassi and
+               Robert Robere},
+  title     = {Random \( \Theta (\log n) \) -{CNFs} are Hard for Cutting Planes},
+  journal   = jacm,
+  volume    = {69},
+  number    = {3},
+  year      = 2022,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/jacm/SolovievH22,
+  author    = {Matvey Soloviev and
+               Joseph Y. Halpern},
+  title     = {Information Acquisition Under Resource Limitations in a Noisy Environment},
+  journal   = jacm,
+  volume    = {69},
+  number    = {3},
+  year      = 2022,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/jacm/BalkanskiRS22,
+  author    = {Eric Balkanski and
+               Aviad Rubinstein and
+               Yaron Singer},
+  title     = {The Limitations of Optimization from Samples},
+  journal   = jacm,
+  volume    = {69},
+  number    = {3},
+  year      = 2022,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/jacm/SchweikardtSV22,
+  author    = {Nicole Schweikardt and
+               Luc Segoufin and
+               Alexandre Vigny},
+  title     = {Enumeration for {FO} Queries over Nowhere Dense Graphs},
+  journal   = jacm,
+  volume    = {69},
+  number    = {3},
+  year      = 2022,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/jacm/BeraGLSS22,
+  author    = {Suman K. Bera and
+               Lior Gishboliner and
+               Yevgeny Levanzov and
+               C. Seshadhri and
+               Asaf Shapira},
+  title     = {Counting Subgraphs in Degenerate Graphs},
+  journal   = jacm,
+  volume    = {69},
+  number    = {3},
+  year      = 2022,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/jacm/Taubenfeld22,
+  author    = {Gadi Taubenfeld},
+  title     = {Anonymous Shared Memory},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/jacm/ChenHOPRS22,
+  author    = {Lijie Chen and
+               Shuichi Hirahara and
+               Igor Carboni Oliveira and
+               Ján Pich and
+               Ninad Rajgopal and
+               Rahul Santhanam},
+  title     = {Beyond Natural Proofs: Hardness Magnification and Locality},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/jacm/BravermanEGY22,
+  author    = {Mark Braverman and
+               Klim Efremenko and
+               Ran Gelles and
+               Michael A. Yitayew},
+  title     = {Optimal {Short-Circuit} Resilient Formulas},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/jacm/ChanCMS22,
+  author    = {T.-H. Hubert Chan and
+               Kai-Min Chung and
+               Bruce M. Maggs and
+               Elaine Shi},
+  title     = {Foundations of Differentially Oblivious Algorithms},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/jacm/AlonBLMM22,
+  author    = {Noga Alon and
+               Mark Bun and
+               Roi Livni and
+               Maryanthe Malliaris and
+               Shay Moran},
+  title     = {Private and Online Learnability Are Equivalent},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/jacm/DoryP22,
+  author    = {Michal Dory and
+               Merav Parter},
+  title     = {Exponentially Faster Shortest Paths in the Congested Clique},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/jacm/RazT22,
+  author    = {Ran Raz and
+               Avishay Tal},
+  title     = {Oracle Separation of {BQP} and {PH}},
+  journal   = jacm,
+  volume    = {69},
+  number    = {4},
+  year      = 2022,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/jacm/EphraimFKP22,
+  author    = {Naomi Ephraim and
+               Cody Freitag and
+               Ilan Komargodski and
+               Rafael Pass},
+  title     = {SPARKs: Succinct Parallelizable Arguments of Knowledge},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/jacm/Rubin22,
+  author    = {Natan Rubin},
+  title     = {An Improved Bound for Weak Epsilon-nets in the Plane},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/jacm/ChiaGLLTW22,
+  author    = {Nai-Hui Chia and
+               András Pal Gilyén and
+               Tongyang Li and
+               Han-Hsuan Lin and
+               Ewin Tang and
+               Chunhao Wang},
+  title     = {Sampling-based Sublinear Low-rank Matrix Arithmetic Framework for Dequantizing Quantum Machine Learning},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/jacm/BonakdarpourFRR22,
+  author    = {Borzoo Bonakdarpour and
+               Pierre Fraigniaud and
+               Sergio Rajsbaum and
+               David A. Rosenblueth and
+               Corentin Travers},
+  title     = {Decentralized Asynchronous Crash-resilient Runtime Verification},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/jacm/ZhukM22,
+  author    = {Dmitriy Zhuk and
+               Barnaby Martin},
+  title     = {{QCSP} Monsters and the Demise of the Chen Conjecture},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {35-1},
+}
+
+@article{DBLP:journals/jacm/GargS22,
+  author    = {Sanjam Garg and
+               Akshayaram Srinivasan},
+  title     = {Two-round Multiparty Secure Computation from Minimal Assumptions},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {36-1},
+}
+
+@article{DBLP:journals/jacm/GroheL22,
+  author    = {Martin Grohe and
+               Peter Lindner},
+  title     = {Independence in Infinite Probabilistic Databases},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {37-1},
+}
+
+@article{DBLP:journals/jacm/LabradaTT22,
+  author    = {Elizabeth Labrada and
+               Matías Toro and
+               Éric Tanter},
+  title     = {Gradual System F},
+  journal   = jacm,
+  volume    = {69},
+  number    = {5},
+  year      = 2022,
+  pages     = {38-1},
+}
+
+@article{DBLP:journals/jacm/BlancLQT22,
+  author    = {Guy Blanc and
+               Jane Lange and
+               Mingda Qiao and
+               Li-Yang Tan},
+  title     = {Properly Learning Decision Trees in almost Polynomial Time},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {39-1},
+}
+
+@article{DBLP:journals/jacm/ImmorlicaSSS22,
+  author    = {Nicole Immorlica and
+               Karthik Abinav Sankararaman and
+               Robert E. Schapire and
+               Aleksandrs Slivkins},
+  title     = {Adversarial Bandits with Knapsacks},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {40-1},
+}
+
+@article{DBLP:journals/jacm/FarinaCMG22,
+  author    = {Gabriele Farina and
+               Andrea Celli and
+               Alberto Marchesi and
+               Nicola Gatti},
+  title     = {Simple Uncoupled No-regret Learning Dynamics for Extensive-form Correlated Equilibrium},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {41-1},
+}
+
+@article{DBLP:journals/jacm/HassidimKMMS22,
+  author    = {Avinatan Hassidim and
+               Haim Kaplan and
+               Yishay Mansour and
+               Yossi Matias and
+               Uri Stemmer},
+  title     = {Adversarially Robust Streaming Algorithms via Differential Privacy},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {42-1},
+}
+
+@article{DBLP:journals/jacm/DoronMOZ22,
+  author    = {Dean Doron and
+               Dana Moshkovitz and
+               Justin Oh and
+               David Zuckerman},
+  title     = {Nearly Optimal Pseudorandomness from Hardness},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {43-1},
+}
+
+@article{DBLP:journals/jacm/ChengJLW22,
+  author    = {Kuan Cheng and
+               Zhengzhong Jin and
+               Xin Li and
+               Ke Wu},
+  title     = {Deterministic Document Exchange Protocols and Almost Optimal Binary Codes for Edit Errors},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {44-1},
+}
+
+@article{DBLP:journals/jacm/FahrbachHTZ22,
+  author    = {Matthew Fahrbach and
+               Zhiyi Huang and
+               Runzhou Tao and
+               Morteza Zadimoghaddam},
+  title     = {{Edge-Weighted} Online Bipartite Matching},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {45-1},
+}
+
+@article{DBLP:journals/jacm/GroheKKL22,
+  author    = {Martin Grohe and
+               Benjamin Lucien Kaminski and
+               Joost-Pieter Katoen and
+               Peter Lindner},
+  title     = {Generative Datalog with Continuous Distributions},
+  journal   = jacm,
+  volume    = {69},
+  number    = {6},
+  year      = 2022,
+  pages     = {46-1},
 }
 
 @article{DBLP:journals/jacm/Hastad21,
@@ -996,7 +1561,7 @@
 }
 
 @article{DBLP:journals/jacm/DuditeHLSSV20,
-  author    = {Miroslav Dudíte and
+  author    = {Miroslav Dudík and
                Nika Haghtalab and
                Haipeng Luo and
                Robert E. Schapire and
@@ -2011,7 +2576,8 @@
 }
 
 @article{DBLP:journals/jacm/Tardos18c,
-  author    = {Éva Tardos},
+  author    = {É and
+               Éva Tardos},
   title     = {Invited Article Foreword},
   journal   = jacm,
   volume    = {65},
@@ -2363,7 +2929,7 @@
 
 @article{DBLP:journals/jacm/KarbyshevBIRS17,
   author    = {Aleksandr Karbyshev and
-               Nikolaj Bjørner and
+               Nikolaj S. Bjørner and
                Shachar Itzhaky and
                Noam Rinetzky and
                Sharon Shoham},
@@ -2449,7 +3015,7 @@
 
 @article{DBLP:journals/jacm/VeanesBNB17,
   author    = {Margus Veanes and
-               Nikolaj Bjørner and
+               Nikolaj S. Bjørner and
                Lev Nachmanson and
                Sergey Bereg},
   title     = {Monadic Decomposition},
@@ -20670,7 +21236,7 @@
 
 @article{DBLP:journals/jacm/KafuraS78,
   author    = {Dennis G. Kafura and
-               V. Y. Shen},
+               Vincent Y. Shen},
   title     = {An Algorithm to Design the Memory Configuration of a Computer Network},
   journal   = jacm,
   volume    = {25},
@@ -21360,7 +21926,7 @@
 
 @article{DBLP:journals/jacm/KrauseSS77,
   author    = {K. L. Krause and
-               V. Y. Shen and
+               Vincent Y. Shen and
                Herbert D. Schwetman},
   title     = {Errata: "Analysis of Several {Task-Scheduling} Algorithms for a Model of Multiprogramming Computer Systems"},
   journal   = jacm,
@@ -22738,7 +23304,7 @@
 
 @article{DBLP:journals/jacm/KrauseSS75,
   author    = {K. L. Krause and
-               V. Y. Shen and
+               Vincent Y. Shen and
                Herbert D. Schwetman},
   title     = {Analysis of Several {Task-Scheduling} Algorithms for a Model of Multiprogramming Computer Systems},
   journal   = jacm,
@@ -24217,7 +24783,7 @@
 }
 
 @article{DBLP:journals/jacm/EdmondsK72,
-  author    = {Jack R. Edmonds and
+  author    = {Jack Edmonds and
                Richard M. Karp},
   title     = {Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems},
   journal   = jacm,
@@ -26953,7 +27519,7 @@
 @article{DBLP:journals/jacm/LewisBB67,
   author    = {Peter A. W. Lewis and
                P. B. Baxendale and
-               J. L. Bennett},
+               John L. Bennett},
   title     = {Statistical Discrimination of the Synonymy/Antonymy Relationship Between Words},
   journal   = jacm,
   volume    = {14},
@@ -29851,7 +30417,7 @@
 }
 
 @article{DBLP:journals/jacm/Lombardi62,
-  author    = {Lionello Lombardi},
+  author    = {Lionello A. Lombardi},
   title     = {Mathematical Structure of Nonarithmetic Data Processing Procedures},
   journal   = jacm,
   volume    = {9},
@@ -30271,7 +30837,7 @@
 }
 
 @article{DBLP:journals/jacm/Lombardi61,
-  author    = {Lionello Lombardi},
+  author    = {Lionello A. Lombardi},
   title     = {System Handling of Functional Operators},
   journal   = jacm,
   volume    = {8},

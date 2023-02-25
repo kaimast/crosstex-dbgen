@@ -2,14 +2,11 @@
 
 import collections
 import datetime
-import errno
 import itertools
 import os
 import os.path
 import re
 import string
-import sys
-import datetime
 
 import lxml.etree
 
@@ -34,6 +31,9 @@ MONTHS = {'January': 'jan',
           'November': 'nov',
           'December': 'dec'}
 
+# These warnings are very verbose; disabled by default
+WARN_PARENTHETICALS=False
+WARN_NO_LOCATION=False
 
 numbered_author_re = re.compile(r' [0-9]{4}$')
 page_range_re = re.compile(r'(?P<start>[0-9]+)[^0-9]+(?P<end>[0-9]+)')
@@ -42,7 +42,6 @@ algorithm_re = re.compile(r'[aA]lgorithm\s+[0-9]+')
 
 
 class CitationContainer:
-
     def _normalize_author(self, author):
         if numbered_author_re.search(author):
             author = author[:-5]
@@ -120,8 +119,8 @@ class CitationContainer:
                     acronym = ''.join([w[0] for w in words[-len(substr):]]).lower()
                     if algorithm_re.search(substr) is not None:
                         acronym = substr # To make the next conditional always fail
-                    if acronym.lower() != substr.lower():
-                        print('WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs)
+                    if acronym.lower() != substr.lower() and WARN_PARENTHETICALS:
+                        print(f'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs)
                     ptr = closeparen + 1
                     if equation == stack[-1]:
                         equation = None
@@ -288,9 +287,9 @@ class Conference(CitationContainer):
             try:
                 return int(citeattrs['year'])
             except ValueError as e:
-                print('WARNING:  key "%s" has non-numeric year' % citekey)
+                print(f'WARNING:  key "{citekey}" has non-numeric year')
         else:
-            print('WARNING:  no year for "%s"' % citekey)
+            print(f'WARNING:  no year for "{citekey}"')
 
     def _extract_location(self, citekey, citeattrs):
         if citekey in MANUAL_LOCATIONS:
@@ -308,13 +307,14 @@ class Conference(CitationContainer):
                         loc = LOCATION_AMBIGUITIES[p][x]
                 if count == 1:
                     return loc
-                print('WARNING:  "%s" resolves to ambiguous location' % citekey, citeattrs)
+                print(f'WARNING:  "{citekey}" resolves to ambiguous location {citeattrs}')
                 return
             if p in LOCATIONS:
                 return p
             if p in LOCATION_ALIASES:
                 return LOCATION_ALIASES[p]
-        print('WARNING:  no location for "%s"' % citekey, citeattrs)
+        if WARN_NO_LOCATION:
+            print(f'WARNING:  no location for "{citekey}" {citeattrs}')
 
     def _extract_month(self, citekey, citeattrs):
         possible = citeattrs.get('title', '').split(' ')

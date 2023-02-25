@@ -1,5 +1,886 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/imc/ToornRSSJ22,
+  author    = {Olivier van der Toorn and
+               Roland van Rijswijk-Deij and
+               Raffaele Sommese and
+               Anna Sperotto and
+               Mattijs Jonker},
+  title     = {Saving Brian's privacy: the perils of privacy exposure through reverse {DNS}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {1-13},
+}
+
+@inproceedings{DBLP:conf/imc/AkiwateSJDcVS22,
+  author    = {Gautam Akiwate and
+               Raffaele Sommese and
+               Mattijs Jonker and
+               Zakir Durumeric and
+               kc claffy and
+               Geoffrey M. Voelker and
+               Stefan Savage},
+  title     = {Retroactive identification of targeted {DNS} infrastructure hijacking},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {14-32},
+}
+
+@inproceedings{DBLP:conf/imc/IzhikevichABDAP22,
+  author    = {Liz Izhikevich and
+               Gautam Akiwate and
+               Briana Berger and
+               Spencer Drakontaidis and
+               Anna Ascheman and
+               Paul Pearce and
+               David Adrian and
+               Zakir Durumeric},
+  title     = {ZDNS: a fast {DNS} toolkit for internet measurement},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {33-43},
+}
+
+@inproceedings{DBLP:conf/imc/KosekSMDB22,
+  author    = {Mike Kosek and
+               Luca Schumann and
+               Robin Marx and
+               Trinh Viet Doan and
+               Vaibhav Bajpai},
+  title     = {{DNS} privacy with speed?: evaluating {DNS} over {QUIC} and its impact on web performance},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {44-50},
+}
+
+@inproceedings{DBLP:conf/imc/SommesecRCDSJ22,
+  author    = {Raffaele Sommese and
+               kc claffy and
+               Roland van Rijswijk-Deij and
+               Arnab Chattopadhyay and
+               Alberto Dainotti and
+               Anna Sperotto and
+               Mattijs Jonker},
+  title     = {Investigating the impact of {DDoS} attacks on {DNS} infrastructure},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {51-64},
+}
+
+@inproceedings{DBLP:conf/imc/XiaWYLLXT22,
+  author    = {Pengcheng Xia and
+               Haoyu Wang and
+               Zhou Yu and
+               Xinyu Liu and
+               Xiapu Luo and
+               Guoai Xu and
+               Gareth Tyson},
+  title     = {Challenges in decentralized name management: the case of {ENS}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {65-82},
+}
+
+@inproceedings{DBLP:conf/imc/MahimkarGLSXYPR22,
+  author    = {Ajay Mahimkar and
+               Zihui Ge and
+               Xuan Liu and
+               Yusef Shaqalle and
+               Yu Xiang and
+               Jennifer Yates and
+               Shomik Pathak and
+               Rick Reichel},
+  title     = {Aurora: conformity-based configuration recommendation to improve LTE/5G service},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {83-97},
+}
+
+@inproceedings{DBLP:conf/imc/BaltaciCMGBOS22,
+  author    = {Aygün Baltaci and
+               Hendrik Cech and
+               Nitinder Mohan and
+               Fabien Geyer and
+               Vaibhav Bajpai and
+               Jörg Ott and
+               Dominic Schupke},
+  title     = {Analyzing real-time video delivery over cellular networks for remote piloting aerial vehicles},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {98-112},
+}
+
+@inproceedings{DBLP:conf/imc/AbdullahQQ22,
+  author    = {Muhammad Abdullah and
+               Zafar Ayyub Qazi and
+               Ihsan Ayyub Qazi},
+  title     = {Causal impact of Android go on mobile web performance},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {113-129},
+}
+
+@inproceedings{DBLP:conf/imc/MichelTGB22,
+  author    = {François Michel and
+               Martino Trevisan and
+               Danilo Giordano and
+               Olivier Bonaventure},
+  title     = {A first look at starlink performance},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {130-136},
+}
+
+@inproceedings{DBLP:conf/imc/PerdicesPTGM22,
+  author    = {Daniel Perdices and
+               Gianluca Perna and
+               Martino Trevisan and
+               Danilo Giordano and
+               Marco Mellia},
+  title     = {When satellite is all you have: watching the internet from 550 ms},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {137-150},
+}
+
+@inproceedings{DBLP:conf/imc/KassemRPS22,
+  author    = {Mohamed M. Kassem and
+               Aravindh Raman and
+               Diego Perino and
+               Nishanth Sastry},
+  title     = {A browser-side view of starlink connectivity},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {151-158},
+}
+
+@inproceedings{DBLP:conf/imc/JonkerAAcBVRS22,
+  author    = {Mattijs Jonker and
+               Gautam Akiwate and
+               Antonia Affinito and
+               kc claffy and
+               Alessio Botta and
+               Geoffrey M. Voelker and
+               Roland van Rijswijk-Deij and
+               Stefan Savage},
+  title     = {Where .ru?: assessing the impact of conflict on russian domain infrastructure},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {159-165},
+}
+
+@inproceedings{DBLP:conf/imc/JainPXSG22,
+  author    = {Akshath Jain and
+               Deepayan Patra and
+               Peijing Xu and
+               Justine Sherry and
+               Phillipa Gill},
+  title     = {The ukrainian internet under attack: an {NDT} perspective},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {166-178},
+}
+
+@inproceedings{DBLP:conf/imc/XueMVAKCE22,
+  author    = {Diwen Xue and
+               Benjamin Mixon-Baca and
+               ValdikSS and
+               Anna Ablove and
+               Beau Kujath and
+               Jedidiah R. Crandall and
+               Roya Ensafi},
+  title     = {TSPU: Russia's decentralized censorship system},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {179-194},
+}
+
+@inproceedings{DBLP:conf/imc/KaplanGMS22,
+  author    = {Levi Kaplan and
+               Nicole Gerzon and
+               Alan Mislove and
+               Piotr Sapiezynski},
+  title     = {Measurement and analysis of implied identity in ad delivery optimization},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {195-209},
+}
+
+@inproceedings{DBLP:conf/imc/ZengMKR22,
+  author    = {Eric Zeng and
+               Rachel McAmis and
+               Tadayoshi Kohno and
+               Franziska Roesner},
+  title     = {What factors affect targeting and bids in online advertising?: a field measurement study},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {210-229},
+}
+
+@inproceedings{DBLP:conf/imc/RandallSUSVSS22,
+  author    = {Audrey Randall and
+               Peter Snyder and
+               Alisha Ukani and
+               Alex C. Snoeren and
+               Geoffrey M. Voelker and
+               Stefan Savage and
+               Aaron Schulman},
+  title     = {Measuring {UID} smuggling in the wild},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {230-243},
+}
+
+@inproceedings{DBLP:conf/imc/MichelSKNR22,
+  author    = {Oliver Michel and
+               Satadal Sengupta and
+               Hyojoon Kim and
+               Ravi Netravali and
+               Jennifer Rexford},
+  title     = {Enabling passive measurement of zoom performance in production networks},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {244-260},
+}
+
+@inproceedings{DBLP:conf/imc/VarvelloCZ22,
+  author    = {Matteo Varvello and
+               Hyunseok Chang and
+               Yasir Zaki},
+  title     = {Performance characterization of videoconferencing in the wild},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {261-273},
+}
+
+@inproceedings{DBLP:conf/imc/PaulLGGB22,
+  author    = {Udit Paul and
+               Jiamo Liu and
+               Mengyang Gu and
+               Arpit Gupta and
+               Elizabeth M. Belding},
+  title     = {The importance of contextualization of crowdsourced active speed test measurements},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {274-289},
+}
+
+@inproceedings{DBLP:conf/imc/KirciVV22,
+  author    = {Ege Cem Kirci and
+               Martin Vahlensieck and
+               Laurent Vanbever},
+  title     = {"Is my internet down?": sifting through user-affecting outages with Google trends},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {290-297},
+}
+
+@inproceedings{DBLP:conf/imc/PirauxNRBD22,
+  author    = {Maxime Piraux and
+               Louis Navarre and
+               Nicolas Rybowski and
+               Olivier Bonaventure and
+               Benoit Donnet},
+  title     = {Revealing the evolution of a cloud provider through its network weather map},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {298-304},
+}
+
+@inproceedings{DBLP:conf/imc/XuC22,
+  author    = {Xiaokun Xu and
+               Mark Claypool},
+  title     = {Measurement of cloud-based game streaming system response to competing {TCP} cubic or {TCP} {BBR} flows},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {305-316},
+}
+
+@inproceedings{DBLP:conf/imc/RuthFAPTSD22,
+  author    = {Kimberly Ruth and
+               Aurore Fass and
+               Jonathan Azose and
+               Mark Pearson and
+               Emma Thomas and
+               Caitlin Sadowski and
+               Zakir Durumeric},
+  title     = {A world wide view of browsing the world wide web},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {317-336},
+}
+
+@inproceedings{DBLP:conf/imc/KupoluyiCVCHSZ22,
+  author    = {Jesutofunmi Kupoluyi and
+               Moumena Chaqfeh and
+               Matteo Varvello and
+               Russell Coke and
+               Waleed Hashmi and
+               Lakshmi Subramanian and
+               Yasir Zaki},
+  title     = {Muzeel: assessing the impact of {JavaScript} dead code elimination on mobile web performance},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {335-348},
+}
+
+@inproceedings{DBLP:conf/imc/ChaliseNV22,
+  author    = {Shekhar Chalise and
+               Hoang Dai Nguyen and
+               Phani Vadrevu},
+  title     = {Your speaker or my snooper?: measuring the effectiveness of web audio browser fingerprints},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {349-357},
+}
+
+@inproceedings{DBLP:conf/imc/HantkeS22,
+  author    = {Florian Hantke and
+               Ben Stock},
+  title     = {{HTML} violations and where to find them: a longitudinal analysis of specification violations in {HTML}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {358-373},
+}
+
+@inproceedings{DBLP:conf/imc/Ruth0WVD22,
+  author    = {Kimberly Ruth and
+               Deepak Kumar and
+               Brandon Wang and
+               Luke Valenta and
+               Zakir Durumeric},
+  title     = {Toppling top lists: evaluating the accuracy of popular website lists},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {374-387},
+}
+
+@inproceedings{DBLP:conf/imc/NyayachavadiZM22,
+  author    = {Anish Nyayachavadi and
+               Jingyuan Zhu and
+               Harsha V. Madhyastha},
+  title     = {Characterizing "permanently dead" links on Wikipedia},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {388-394},
+}
+
+@inproceedings{DBLP:conf/imc/ZirngiblSSGC22,
+  author    = {Johannes Zirngibl and
+               Lion Steger and
+               Patrick Sattler and
+               Oliver Gasser and
+               Georg Carle},
+  title     = {Rusty clusters?: dusting an IPv6 research foundation},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {395-409},
+}
+
+@inproceedings{DBLP:conf/imc/RichterGB22,
+  author    = {Philipp Richter and
+               Oliver Gasser and
+               Arthur W. Berger},
+  title     = {Illuminating large-scale IPv6 scanning in the internet},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {410-418},
+}
+
+@inproceedings{DBLP:conf/imc/ZhangHVO22,
+  author    = {Ying Zhang and
+               Nathan Hu and
+               Carl Verge and
+               Scott O'Brien},
+  title     = {Cross-layer diagnosis of optical backbone failures},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {419-432},
+}
+
+@inproceedings{DBLP:conf/imc/AndersonSBDB22,
+  author    = {Scott Anderson and
+               Loqman Salamatian and
+               Zachary S. Bischof and
+               Alberto Dainotti and
+               Paul Barford},
+  title     = {iGDB: connecting the physical and logical layers of the internet},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {433-448},
+}
+
+@inproceedings{DBLP:conf/imc/SattlerAZC22,
+  author    = {Patrick Sattler and
+               Juliane Aulbach and
+               Johannes Zirngibl and
+               Georg Carle},
+  title     = {Towards a tectonic traffic shift?: investigating Apple's new relay network},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {449-457},
+}
+
+@inproceedings{DBLP:conf/imc/WeintraubTNS22,
+  author    = {Ben Weintraub and
+               Christof Ferreira Torres and
+               Cristina Nita-Rotaru and
+               Radu State},
+  title     = {A flash(bot) in the pan: measuring maximal extractable value in private pools},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {458-471},
+}
+
+@inproceedings{DBLP:conf/imc/DavanianF22,
+  author    = {Ali Davanian and
+               Michalis Faloutsos},
+  title     = {MalNet: a binary-centric network-level profiling of {IoT} malware},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {472-487},
+}
+
+@inproceedings{DBLP:conf/imc/SaidiMGF22,
+  author    = {Said Jawad Saidi and
+               Srdjan Matic and
+               Georgios Smaragdakis and
+               Oliver Gasser and
+               Anja Feldmann},
+  title     = {Deep dive into the {IoT} backend ecosystem},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {488-503},
+}
+
+@inproceedings{DBLP:conf/imc/ChengWVC022,
+  author    = {Ruizhi Cheng and
+               Nan Wu and
+               Matteo Varvello and
+               Songqing Chen and
+               Bo Han},
+  title     = {Are we ready for metaverse?: a measurement study of social virtual reality platforms},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {504-518},
+}
+
+@inproceedings{DBLP:conf/imc/ScherrerLP022,
+  author    = {Simon Scherrer and
+               Markus Legner and
+               Adrian Perrig and
+               Stefan Schmid},
+  title     = {Model-based insights on the performance, fairness, and stability of {BBR}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {519-537},
+}
+
+@inproceedings{DBLP:conf/imc/MishraTL22,
+  author    = {Ayush Mishra and
+               Wee Han Tiu and
+               Ben Leong},
+  title     = {Are we heading towards a {BBR-dominant} internet?},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {538-550},
+}
+
+@inproceedings{DBLP:conf/imc/VargasGGB22,
+  author    = {Santiago Vargas and
+               Gautham Gunapati and
+               Anshul Gandhi and
+               Aruna Balasubramanian},
+  title     = {Are mobiles ready for BBR?},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {551-559},
+}
+
+@inproceedings{DBLP:conf/imc/MishraLL22,
+  author    = {Ayush Mishra and
+               Sherman Lim and
+               Ben Leong},
+  title     = {Understanding speciation in {QUIC} congestion control},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {560-566},
+}
+
+@inproceedings{DBLP:conf/imc/GhabashnehZLSSR22,
+  author    = {Ehab Ghabashneh and
+               Yimeng Zhao and
+               Cristian Lumezanu and
+               Neil Spring and
+               Srikanth Sundaresan and
+               Sanjay Rao},
+  title     = {A microscopic view of bursts, buffer contention, and loss in data centers},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {567-580},
+}
+
+@inproceedings{DBLP:conf/imc/EduMPPSS22,
+  author    = {Jide S. Edu and
+               Cliona Mulligan and
+               Fabio Pierazzi and
+               Jason Polakis and
+               Guillermo Suarez-Tangil and
+               Jose M. Such},
+  title     = {Exploring the security and privacy risks of chatbots in messaging services},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {581-588},
+}
+
+@inproceedings{DBLP:conf/imc/SubramaniMSVP22,
+  author    = {Karthika Subramani and
+               William Melicher and
+               Oleksii Starov and
+               Phani Vadrevu and
+               Roberto Perdisci},
+  title     = {PhishInPatterns: measuring elicited user interactions at scale on phishing websites},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {589-604},
+}
+
+@inproceedings{DBLP:conf/imc/PradeepPBDRCLVL22,
+  author    = {Amogh Pradeep and
+               Muhammad Talha Paracha and
+               Protick Bhowmick and
+               Ali Davanian and
+               Abbas Razaghpanah and
+               Taejoong Chung and
+               Martina Lindorfer and
+               Narseo Vallina-Rodriguez and
+               Dave Levin and
+               David R. Choffnes},
+  title     = {A comparative analysis of certificate pinning in Android & {iOS}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {605-618},
+}
+
+@inproceedings{DBLP:conf/imc/KarlMMJL22,
+  author    = {Manuel Karl and
+               Marius Musch and
+               Guoli Ma and
+               Martin Johns and
+               Sebastian Lekies},
+  title     = {No keys to the kingdom required: a comprehensive investigation of missing authentication vulnerabilities in the wild},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {619-632},
+}
+
+@inproceedings{DBLP:conf/imc/BennettSD22,
+  author    = {Nathaniel Bennett and
+               Rebekah Sowards and
+               Casey T. Deccio},
+  title     = {SPFail: discovering, measuring, and remediating vulnerabilities in email sender validation},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {633-646},
+}
+
+@inproceedings{DBLP:conf/imc/HorowiczSS22,
+  author    = {Eyal Horowicz and
+               Tal Shapira and
+               Yuval Shavitt},
+  title     = {A few shots traffic classification with {mini-FlowPic} augmentations},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {647-654},
+}
+
+@inproceedings{DBLP:conf/imc/ZhuVCKC22,
+  author    = {Jiangchen Zhu and
+               Kevin Vermeulen and
+               Ítalo Cunha and
+               Ethan Katz-Bassett and
+               Matt Calder},
+  title     = {The best of both worlds: high availability {CDN} routing without compromising control},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {655-663},
+}
+
+@inproceedings{DBLP:conf/imc/SinganamallaPAH22,
+  author    = {Sudheesh Singanamalla and
+               Muhammad Talha Paracha and
+               Suleman Ahmad and
+               Jonathan Hoyland and
+               Luke Valenta and
+               Yevgen Safronov and
+               Peter Wu and
+               Andrew Galloni and
+               Kurtis Heimerl and
+               Nick Sullivan and
+               Christopher A. Wood and
+               Marwan Fayed},
+  title     = {Respect the ORIGIN!: a best-case evaluation of connection coalescing in the wild},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {664-678},
+}
+
+@inproceedings{DBLP:conf/imc/SabnisS22,
+  author    = {Anirudh Sabnis and
+               Ramesh K. Sitaraman},
+  title     = {JEDI: model-driven trace generation for cache simulations},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {679-693},
+}
+
+@inproceedings{DBLP:conf/imc/VermeulenGCCK22,
+  author    = {Kevin Vermeulen and
+               Ege Gürmeriçliler and
+               Ítalo Cunha and
+               David R. Choffnes and
+               Ethan Katz-Bassett},
+  title     = {Internet scale reverse traceroute},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {694-715},
+}
+
+@inproceedings{DBLP:conf/imc/DuTFASc22,
+  author    = {Ben Du and
+               Cecilia Testart and
+               Romain Fontugne and
+               Gautam Akiwate and
+               Alex C. Snoeren and
+               kc claffy},
+  title     = {Mind your MANRS: measuring the {MANRS} ecosystem},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {716-729},
+}
+
+@inproceedings{DBLP:conf/imc/OliverALDc22,
+  author    = {Leo Oliver and
+               Gautam Akiwate and
+               Matthew Luckie and
+               Ben Du and
+               kc claffy},
+  title     = {Stop, DROP, and ROA: effectiveness of defenses through the lens of {DROP}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {730-737},
+}
+
+@inproceedings{DBLP:conf/imc/GaoM22,
+  author    = {Max Gao and
+               Ricky K. P. Mok},
+  title     = {A scalable network event detection framework for darknet traffic},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {738-739},
+}
+
+@inproceedings{DBLP:conf/imc/SommeseJc22,
+  author    = {Raffaele Sommese and
+               Mattijs Jonker and
+               kc claffy},
+  title     = {Observable KINDNS: validating {DNS} hygiene},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {740-741},
+}
+
+@inproceedings{DBLP:conf/imc/EcheverriaC22,
+  author    = {Mitziu Echeverria and
+               Omar Chowdhury},
+  title     = {Demystifying the presence of cellular network attacks and misbehaviors},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {742-743},
+}
+
+@inproceedings{DBLP:conf/imc/SethuramanBD22,
+  author    = {Manasvini Sethuraman and
+               Zachary S. Bischof and
+               Alberto Dainotti},
+  title     = {Analysis of IPv4 address space utilization with {ANT} {ISI} dataset and censys},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {744-745},
+}
+
+@inproceedings{DBLP:conf/imc/LeasIVD22,
+  author    = {Raphaël Léas and
+               Justin Iurman and
+               Eric Vyncke and
+               Benoit Donnet},
+  title     = {Measuring IPv6 extension headers survivability with James},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {746-747},
+}
+
+@inproceedings{DBLP:conf/imc/MarechalSBD22,
+  author    = {Emeline Marechal and
+               Yining Shao and
+               Marc Bruyère and
+               Benoit Donnet},
+  title     = {A first-look at segment routing deployment in a large european {ISP}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {748-749},
+}
+
+@inproceedings{DBLP:conf/imc/Gamero-GarridoB22,
+  author    = {Alexander Gamero-Garrido and
+               Elizabeth M. Belding and
+               David R. Choffnes},
+  title     = {Using reverse {IP} geolocation to identify institutional networks},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {750-751},
+}
+
+@inproceedings{DBLP:conf/imc/ArounaJL22,
+  author    = {Alfred Arouna and
+               Mattijs Jonker and
+               Ioana Livadariu},
+  title     = {On unifying diverse {DNS} data sources},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {752-753},
+}
+
+@inproceedings{DBLP:conf/imc/GirishTMV22,
+  author    = {Aniketh Girish and
+               Juan Tapiador and
+               Srdjan Matic and
+               Narseo Vallina-Rodriguez},
+  title     = {Towards an extensible privacy analysis framework for smart homes},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {754-755},
+}
+
+@inproceedings{DBLP:conf/imc/IsobeKT22,
+  author    = {Katsuki Isobe and
+               Daishi Kondo and
+               Hideki Tode},
+  title     = {A first look at the name resolution latency on handshake},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {756-757},
+}
+
+@inproceedings{DBLP:conf/imc/KastanakisGS22,
+  author    = {Savvas Kastanakis and
+               Vasileios Giotsas and
+               Neeraj Suri},
+  title     = {Understanding the confounding factors of inter-domain routing modeling},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {758-759},
+}
+
+@inproceedings{DBLP:conf/imc/HeinrichMWO22,
+  author    = {Tiago Heinrich and
+               Carlos Alberto Maziero and
+               Newton Carlos Will and
+               Rafael R. Obelheiro},
+  title     = {How {DRDoS} attacks vary across the globe?},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {760-761},
+}
+
+@inproceedings{DBLP:conf/imc/IqbalTGSC22,
+  author    = {Waleed Iqbal and
+               Gareth Tyson and
+               Vahid Ghafouri and
+               Guillermo Suarez-Tangil and
+               Ignacio Castro},
+  title     = {Exploring online manifestations of real-world inequalities},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {762-763},
+}
+
+@inproceedings{DBLP:conf/imc/AravenaBC22,
+  author    = {Lucas Torrealba Aravena and
+               Javier Bustos-Jiménez and
+               Pedro Casas},
+  title     = {PHISHWEB: a progressive, multi-layered system for phishing websites detection},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {764-765},
+}
+
+@inproceedings{DBLP:conf/imc/YanCCZHMLc22,
+  author    = {Tzu-Bin Yan and
+               Yuxuan Chen and
+               Anthea Chen and
+               Zesen Zhang and
+               Bradley Huffaker and
+               Ricky K. P. Mok and
+               Kirill Levchenko and
+               kc claffy},
+  title     = {PacketLab: tools alpha release and demo},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {766-767},
+}
+
+@inproceedings{DBLP:conf/imc/BaldassinRUL22,
+  author    = {David Baldassin and
+               Ludovic Roux and
+               Guillaume Urvoy-Keller and
+               Dino Martin López-Pacheco},
+  title     = {A practical assessment approach of the interplay between {WebRTC} and {QUIC}},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {768-769},
+}
+
+@inproceedings{DBLP:conf/imc/AlfroyHP22,
+  author    = {Thomas Alfroy and
+               Thomas Holterbach and
+               Cristel Pelsser},
+  title     = {MVP: measuring internet routing from the most valuable points},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {770-771},
+}
+
+@inproceedings{DBLP:conf/imc/EnayetH22,
+  author    = {Asma Enayet and
+               John S. Heidemann},
+  title     = {Internet outage detection using passive analysis},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {772-773},
+}
+
+@inproceedings{DBLP:conf/imc/GonzalezCFG22,
+  author    = {Gastón García González and
+               Pedro Casas and
+               Alicia Fernández and
+               Gabriel Gómez},
+  title     = {Steps towards continual learning in multivariate time-series anomaly detection using variational autoencoders},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {774-775},
+}
+
+@inproceedings{DBLP:conf/imc/Sofoluwe0P22,
+  author    = {Toyin Sofoluwe and
+               Fung Po Tso and
+               Iain W. Phillips},
+  title     = {Mitigating cyber threats at the network edge},
+  booktitle = imc,
+  year      = 2022,
+  pages     = {776-777},
+}
+
 @inproceedings{DBLP:conf/imc/Wang0LCWC21,
   author    = {Zhaohua Wang and
                Zhenyu Li and
@@ -1020,7 +1901,7 @@
 }
 
 @inproceedings{DBLP:conf/imc/MajorTM20,
-  author    = {David Major and
+  author    = {David J. Major and
                Ross Teixeira and
                Jonathan R. Mayer},
   title     = {No {WAN's} Land: Mapping U.S. Broadband Coverage with Millions of Address Queries to {ISPs}},
@@ -1077,7 +1958,7 @@
   author    = {Zinan Lin and
                Alankar Jain and
                Chen Wang and
-               Giulia C. Fanti and
+               Giulia Fanti and
                Vyas Sekar},
   title     = {Using {GANs} for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions},
   booktitle = imc,
@@ -3720,7 +4601,7 @@
                Alberto Dainotti and
                kc claffy and
                Alex C. Snoeren and
-               Michael Kallitsis},
+               Michael G. Kallitsis},
   title     = {Leveraging Internet Background Radiation for Opportunistic Network Analysis},
   booktitle = imc,
   year      = 2015,
@@ -4259,7 +5140,7 @@
 
 @inproceedings{DBLP:conf/imc/CzyzKGPBK14,
   author    = {Jakub Czyz and
-               Michael Kallitsis and
+               Michael G. Kallitsis and
                Manaf Gharaibeh and
                Christos Papadopoulos and
                Michael Bailey and
@@ -4450,7 +5331,7 @@
                Kyle Lady and
                Sam G. Miller and
                Michael Bailey and
-               Michael Kallitsis and
+               Michael G. Kallitsis and
                Manish Karir},
   title     = {Understanding IPv6 internet background radiation},
   booktitle = imc,
@@ -4817,7 +5698,7 @@
 
 @inproceedings{DBLP:conf/imc/ChenLGNKT13,
   author    = {Yung-Chih Chen and
-               Yeon-sup Lim and
+               Yeon-Sup Lim and
                Richard J. Gibbens and
                Erich M. Nahum and
                Ramin Khalili and
@@ -7714,7 +8595,7 @@
 
 @inproceedings{DBLP:conf/imc/GkantsidisMR06,
   author    = {Christos Gkantsidis and
-               John Miller and
+               John L. Miller and
                Pablo Rodriguez},
   title     = {Comprehensive view of a live network coding P2P system},
   booktitle = imc,
@@ -8835,7 +9716,7 @@
 @inproceedings{DBLP:conf/imc/KumarXLW03,
   author    = {Abhishek Kumar and
                Jun (Jim) Xu and
-               Erran L. Li and
+               Li (Erran) Li and
                Jia Wang},
   title     = {Space-code bloom filter for efficient traffic flow measurement},
   booktitle = imc,

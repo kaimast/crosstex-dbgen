@@ -1,5 +1,1044 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/McClureOSR22,
+  author    = {Sarah McClure and
+               Amy Ousterhout and
+               Scott Shenker and
+               Sylvia Ratnasamy},
+  title     = {Efficient Scheduling Policies for {Microsecond-Scale} Tasks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/nsdi/JajooHLD22,
+  author    = {Akshay Jajoo and
+               Y. Charlie Hu and
+               Xiaojun Lin and
+               Nan Deng},
+  title     = {A Case for Task Sampling based Learning for Cluster Job Scheduling},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {19-33},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenLGL22,
+  author    = {Jun Lin Chen and
+               Daniyal Liaqat and
+               Moshe Gabel and
+               Eyal de Lara},
+  title     = {Starlight: Fast Container Provisioning on the Edge and over the {WAN}},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {35-50},
+}
+
+@inproceedings{DBLP:conf/nsdi/AddankiM022,
+  author    = {Vamsi Addanki and
+               Oliver Michel and
+               Stefan Schmid},
+  title     = {PowerTCP: Pushing the Performance Limits of Datacenter Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {51-70},
+}
+
+@inproceedings{DBLP:conf/nsdi/RedaCKP22,
+  author    = {Waleed Reda and
+               Marco Canini and
+               Dejan Kostic and
+               Simon Peter},
+  title     = {{RDMA} is Turing complete, we just did not know it yet!},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShashidharaSKP22,
+  author    = {Rajath Shashidhara and
+               Tim Stamler and
+               Antoine Kaufmann and
+               Simon Peter},
+  title     = {FlexTOE: Flexible {TCP} Offload with {Fine-Grained} Parallelism},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {87-102},
+}
+
+@inproceedings{DBLP:conf/nsdi/DasariKDBS22,
+  author    = {Mallesham Dasari and
+               Kumara Kahatapitiya and
+               Samir R. Das and
+               Aruna Balasubramanian and
+               Dimitris Samaras},
+  title     = {Swift: Adaptive Video Streaming with Layered Neural Codecs},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {103-118},
+}
+
+@inproceedings{DBLP:conf/nsdi/BhardwajXAJSKHB22,
+  author    = {Romil Bhardwaj and
+               Zhengxu Xia and
+               Ganesh Ananthanarayanan and
+               Junchen Jiang and
+               Yuanchao Shu and
+               Nikolaos Karianakis and
+               Kevin Hsieh and
+               Paramvir Bahl and
+               Ion Stoica},
+  title     = {Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {119-135},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangW0022,
+  author    = {Anlan Zhang and
+               Chendong Wang and
+               Bo Han and
+               Feng Qian},
+  title     = {YuZu: {Neural-Enhanced} Volumetric Video Streaming},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {137-154},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhuWHPS022,
+  author    = {Hang Zhu and
+               Tao Wang and
+               Yi Hong and
+               Dan R. K. Ports and
+               Anirudh Sivaraman and
+               Xin Jin},
+  title     = {NetVRM: Virtual Register Memory for Programmable Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {155-170},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZenoPNKFKRRPS22,
+  author    = {Lior Zeno and
+               Dan R. K. Ports and
+               Jacob Nelson and
+               Daehyeok Kim and
+               Shir Landau Feibish and
+               Idit Keidar and
+               Arik Rinberg and
+               Alon Rashelbach and
+               Igor Lima de Paula and
+               Mark Silberstein},
+  title     = {SwiSh: Distributed Shared State Abstractions for Programmable Switches},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {171-191},
+}
+
+@inproceedings{DBLP:conf/nsdi/HoganFARW22,
+  author    = {Mary Hogan and
+               Shir Landau Feibish and
+               Mina Tahmasbi Arashloo and
+               Jennifer Rexford and
+               David Walker},
+  title     = {Modular Switch Programming Under Resource Constraints},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {193-207},
+}
+
+@inproceedings{DBLP:conf/nsdi/CangialosiAANSN22,
+  author    = {Frank Cangialosi and
+               Neil Agarwal and
+               Venkat Arun and
+               Srinivas Narayana and
+               Anand D. Sarwate and
+               Ravi Netravali},
+  title     = {Privid: Practical, {Privacy-Preserving} Video Analytics Queries},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {209-228},
+}
+
+@inproceedings{DBLP:conf/nsdi/NewmanSD22,
+  author    = {Zachary Newman and
+               Sacha Servan-Schreiber and
+               Srinivas Devadas},
+  title     = {Spectrum: High-bandwidth Anonymous Broadcast},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {229-248},
+}
+
+@inproceedings{DBLP:conf/nsdi/BrombergDFR22,
+  author    = {Yérom-David Bromberg and
+               Quentin Dufour and
+               Davide Frey and
+               Etienne Rivière},
+  title     = {Donar: Anonymous {VoIP} over Tor},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {249-265},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangWTCN22,
+  author    = {Weitao Wang and
+               Xinyu Crystal Wu and
+               Praveen Tammana and
+               Ang Chen and
+               T. S. Eugene Ng},
+  title     = {Closed-loop Network Performance Monitoring and Diagnosis with {SpiderMon}},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {267-285},
+}
+
+@inproceedings{DBLP:conf/nsdi/KongZZJYGZ22,
+  author    = {Xinhao Kong and
+               Yibo Zhu and
+               Huaping Zhou and
+               Zhuo Jiang and
+               Jianxi Ye and
+               Chuanxiong Guo and
+               Danyang Zhuo},
+  title     = {Collie: Finding Performance Anomalies in {RDMA} Subsystems},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {287-305},
+}
+
+@inproceedings{DBLP:conf/nsdi/KakarlaBMV22,
+  author    = {Siva Kesava Reddy Kakarla and
+               Ryan Beckett and
+               Todd D. Millstein and
+               George Varghese},
+  title     = {SCALE: Automatically Finding {RFC} Compliance Bugs in {DNS} Nameservers},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {307-323},
+}
+
+@inproceedings{DBLP:conf/nsdi/KrishnaswamySBR22,
+  author    = {Umesh Krishnaswamy and
+               Rachee Singh and
+               Nikolaj S. Bjørner and
+               Himanshu Raj},
+  title     = {Decentralized cloud wide-area network traffic engineering with {BLASTSHIELD}},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {325-338},
+}
+
+@inproceedings{DBLP:conf/nsdi/MiaoCGMYXCHL0022,
+  author    = {Congcong Miao and
+               Minggang Chen and
+               Arpit Gupta and
+               Zili Meng and
+               Lianjin Ye and
+               Jingyu Xiao and
+               Jie Chen and
+               Zekun He and
+               Xulong Luo and
+               Jilong Wang and
+               Heng Yu},
+  title     = {Detecting Ephemeral Optical Events with {OpTel}},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {339-353},
+}
+
+@inproceedings{DBLP:conf/nsdi/ArumugamBBBCKMM22,
+  author    = {Manikandan Arumugam and
+               Deepak Bansal and
+               Navdeep Bhatia and
+               James Boerner and
+               Simon Capper and
+               Changhoon Kim and
+               Sarah McClure and
+               Neeraj Motwani and
+               Ranga Narasimhan and
+               Urvish Panchal and
+               Tommaso Pimpo and
+               Ariff Premji and
+               Pranjal Shrivastava and
+               Rishabh Tewari},
+  title     = {Bluebird: High-performance {SDN} for Bare-metal Cloud Services},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {355-370},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiGZLLL22,
+  author    = {Yifan Li and
+               Jiaqi Gao and
+               Ennan Zhai and
+               Mengqi Liu and
+               Kun Liu and
+               Hongqiang Harry Liu},
+  title     = {Cetus: Releasing P4 Programmers from the Chore of Trial and Error Compiling},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {371-385},
+}
+
+@inproceedings{DBLP:conf/nsdi/XuTZ22,
+  author    = {Talia Xu and
+               Miguel Chávez Tapia and
+               Marco Zúñiga},
+  title     = {Exploiting Digital {Micro-Mirror} Devices for Ambient Light Communication},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {387-400},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChakrabortySKPV22,
+  author    = {Tusher Chakraborty and
+               Heping Shi and
+               Zerina Kapetanovic and
+               Bodhi Priyantha and
+               Deepak Vasisht and
+               Binh Vu and
+               Parag Pandit and
+               Prasad Pillai and
+               Yaswant Chabria and
+               Andrew Nelson and
+               Michael Daum and
+               Ranveer Chandra},
+  title     = {Whisper: {IoT} in the {TV} White Space Spectrum},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {401-418},
+}
+
+@inproceedings{DBLP:conf/nsdi/GeissdoerferZ22,
+  author    = {Kai Geissdoerfer and
+               Marco Zimmerling},
+  title     = {Learning to Communicate Effectively Between Battery-free Devices},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {419-435},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuoS0JZJL22,
+  author    = {Xiuzhen Guo and
+               Longfei Shangguan and
+               Yuan He and
+               Nan Jing and
+               Jiacheng Zhang and
+               Haotian Jiang and
+               Yunhao Liu},
+  title     = {Saiyan: Design and Implementation of a Low-power Demodulator for {LoRa} Backscatter Systems},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {437-451},
+}
+
+@inproceedings{DBLP:conf/nsdi/NajafiW22,
+  author    = {Ali Najafi and
+               Michael Wei},
+  title     = {Graham: Synchronizing Clocks by Leveraging Local Clock Properties},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {453-466},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShamisPC0FACCDK22,
+  author    = {Alex Shamis and
+               Peter R. Pietzuch and
+               Burcu Canakci and
+               Miguel Castro and
+               Cédric Fournet and
+               Edward Ashton and
+               Amaury Chamayou and
+               Sylvan Clebsch and
+               Antoine Delignat-Lavaud and
+               Matthew Kerner and
+               Julien Maffre and
+               Olga Vrousgou and
+               Christoph M. Wintersteiger and
+               Manuel Costa and
+               Mark Russinovich},
+  title     = {IA-CCF: Individual Accountability for Permissioned Ledgers},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {467-491},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangPAKT22,
+  author    = {Lei Yang and
+               Seo Jin Park and
+               Mohammad Alizadeh and
+               Sreeram Kannan and
+               David Tse},
+  title     = {DispersedLedger: {High-Throughput} Byzantine Consensus on Variable Bandwidth Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {493-512},
+}
+
+@inproceedings{DBLP:conf/nsdi/SiracusanoGSMAC22,
+  author    = {Giuseppe Siracusano and
+               Salvator Galea and
+               Davide Sanvito and
+               Mohammad Malekzadeh and
+               Gianni Antichi and
+               Paolo Costa and
+               Hamed Haddadi and
+               Roberto Bifulco},
+  title     = {Re-architecting Traffic Analysis with Neural Network Interface Cards},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {513-533},
+}
+
+@inproceedings{DBLP:conf/nsdi/Wang0LWSW22,
+  author    = {Yanshu Wang and
+               Dan Li and
+               Yuanwei Lu and
+               Jianping Wu and
+               Hua Shao and
+               Yutian Wang},
+  title     = {Elixir: A High-performance and Low-cost Approach to Managing Hardware/Software Hybrid Flow Tables Considering Flow Burstiness},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {535-550},
+}
+
+@inproceedings{DBLP:conf/nsdi/GaoD0C22,
+  author    = {Peixuan Gao and
+               Anthony Dalleggio and
+               Yang Xu and
+               H. Jonathan Chao},
+  title     = {Gearbox: A Hierarchical Packet Scheduler for Approximate Weighted Fair Queuing},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {551-565},
+}
+
+@inproceedings{DBLP:conf/nsdi/IyerAC22,
+  author    = {Rishabh R. Iyer and
+               Katerina J. Argyraki and
+               George Candea},
+  title     = {Performance Interfaces for Network Functions},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {567-584},
+}
+
+@inproceedings{DBLP:conf/nsdi/PirelliVAC22,
+  author    = {Solal Pirelli and
+               Akvile Valentukonyte and
+               Katerina J. Argyraki and
+               George Candea},
+  title     = {Automated Verification of Network Function Binaries},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {585-600},
+}
+
+@inproceedings{DBLP:conf/nsdi/0011GZH0022,
+  author    = {Peng Zhang and
+               Aaron Gember-Jacobson and
+               Yueshang Zuo and
+               Yuhao Huang and
+               Xu Liu and
+               Hao Li},
+  title     = {Differential Network Analysis},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {601-615},
+}
+
+@inproceedings{DBLP:conf/nsdi/BeckettG22,
+  author    = {Ryan Beckett and
+               Aarti Gupta},
+  title     = {Katra: Realtime Verification for Multilayer Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {617-634},
+}
+
+@inproceedings{DBLP:conf/nsdi/FengC0XLZYW022,
+  author    = {Yong Feng and
+               Zhikang Chen and
+               Haoyu Song and
+               Wenquan Xu and
+               Jiahao Li and
+               Zijian Zhang and
+               Tong Yun and
+               Ying Wan and
+               Bin Liu},
+  title     = {Enabling In-situ Programmability in Network Data Plane: From Architecture to Language},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {635-649},
+}
+
+@inproceedings{DBLP:conf/nsdi/XingHKLPKC22,
+  author    = {Jiarong Xing and
+               Kuo-Feng Hsu and
+               Matty Kadosh and
+               Alan Lo and
+               Yonatan Piasetzky and
+               Arvind Krishnamurthy and
+               Ang Chen},
+  title     = {Runtime Programmable Switches},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {651-665},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiZG0XHL22,
+  author    = {Guanyu Li and
+               Menghao Zhang and
+               Cheng Guo and
+               Han Bao and
+               Mingwei Xu and
+               Hongxin Hu and
+               Fenghua Li},
+  title     = {IMap: Fast and Scalable {In-Network} Scanning with Programmable Switches},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {667-681},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuanAFNPSCK22,
+  author    = {Yifan Yuan and
+               Omar Alama and
+               Jiawei Fei and
+               Jacob Nelson and
+               Dan R. K. Ports and
+               Amedeo Sapio and
+               Marco Canini and
+               Nam Sung Kim},
+  title     = {Unlocking the Power of Inline {Floating-Point} Operations on Programmable Switches},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {683-700},
+}
+
+@inproceedings{DBLP:conf/nsdi/MisaODRW22,
+  author    = {Chris Misa and
+               Walt O'Connor and
+               Ramakrishnan Durairajan and
+               Reza Rejaie and
+               Walter Willinger},
+  title     = {Dynamic Scheduling of Approximate Telemetry Queries},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {701-717},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalLS22,
+  author    = {Anup Agarwal and
+               Zaoxing Liu and
+               Srinivasan Seshan},
+  title     = {HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {719-741},
+}
+
+@inproceedings{DBLP:conf/nsdi/NamkungLKSS22,
+  author    = {Hun Namkung and
+               Zaoxing Liu and
+               Daehyeok Kim and
+               Vyas Sekar and
+               Peter Steenkiste},
+  title     = {SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {743-759},
+}
+
+@inproceedings{DBLP:conf/nsdi/OlteanuEDPBSNHR22,
+  author    = {Vladimir Andrei Olteanu and
+               Haggai Eran and
+               Dragos Dumitrescu and
+               Adrian Popa and
+               Cristi Baciu and
+               Mark Silberstein and
+               Georgios Nikolaidis and
+               Mark Handley and
+               Costin Raiciu},
+  title     = {An edge-queued datagram service for all datacenter traffic},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {761-777},
+}
+
+@inproceedings{DBLP:conf/nsdi/GoyalSZNAA22,
+  author    = {Prateesh Goyal and
+               Preey Shah and
+               Kevin Zhao and
+               Georgios Nikolaidis and
+               Mohammad Alizadeh and
+               Thomas E. Anderson},
+  title     = {Backpressure Flow Control},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {779-805},
+}
+
+@inproceedings{DBLP:conf/nsdi/GhasemirahniBKF22,
+  author    = {Hamid Ghasemirahni and
+               Tom Barbette and
+               Georgios P. Katsikas and
+               Alireza Farshin and
+               Amir Roozbeh and
+               Massimo Girondi and
+               Marco Chiesa and
+               Gerald Q. Maguire Jr. and
+               Dejan Kostic},
+  title     = {Packet Order Matters! Improving Application Performance by Deliberately Delaying Packets},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {807-827},
+}
+
+@inproceedings{DBLP:conf/nsdi/GaoS00ZLZ022,
+  author    = {Kaihui Gao and
+               Chen Sun and
+               Shuai Wang and
+               Dan Li and
+               Yu Zhou and
+               Hongqiang Harry Liu and
+               Lingjun Zhu and
+               Ming Zhang},
+  title     = {Buffer-based End-to-end Request Event Monitoring in the Cloud},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {829-843},
+}
+
+@inproceedings{DBLP:conf/nsdi/HuZ022,
+  author    = {Jiyao Hu and
+               Zhenyu Zhou and
+               Xiaowei Yang},
+  title     = {Characterizing {Physical-Layer} Transmission Errors in Cable Broadband Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {845-859},
+}
+
+@inproceedings{DBLP:conf/nsdi/HaeckiMSZGMBR22,
+  author    = {Roni Haecki and
+               Radhika Niranjan Mysore and
+               Lalith Suresh and
+               Gerd Zellweger and
+               Bo Gan and
+               Timothy Merrifield and
+               Sujata Banerjee and
+               Timothy Roscoe},
+  title     = {How to diagnose nanosecond network latencies in rich end-host stacks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {861-877},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiGSCJ22,
+  author    = {Chenning Li and
+               Xiuzhen Guo and
+               Longfei Shangguan and
+               Zhichao Cao and
+               Kyle Jamieson},
+  title     = {{CurvingLoRa} to Boost {LoRa} Network Throughput via Concurrent Transmission},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {879-895},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangSBGKR22,
+  author    = {Junbo Zhang and
+               Elahe Soltanaghai and
+               Artur Balanuta and
+               Reese Grimsley and
+               Swarun Kumar and
+               Anthony G. Rowe},
+  title     = {PLatter: On the Feasibility of Building-scale Power Line Backscatter},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {897-911},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiZZSYC0022,
+  author    = {Songfan Li and
+               Hui Zheng and
+               Chong Zhang and
+               Yihang Song and
+               Shen Yang and
+               Minghua Chen and
+               Li Lu and
+               Mo Li},
+  title     = {Passive DSSS: Empowering the Downlink Communication for Backscatter Systems},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {913-928},
+}
+
+@inproceedings{DBLP:conf/nsdi/EisenmanMIMKNSA22,
+  author    = {Assaf Eisenman and
+               Kiran Kumar Matam and
+               Steven Ingram and
+               Dheevatsa Mudigere and
+               Raghuraman Krishnamoorthi and
+               Krishnakumar Nair and
+               Misha Smelyanskiy and
+               Murali Annavaram},
+  title     = {Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {929-943},
+}
+
+@inproceedings{DBLP:conf/nsdi/WengXYWWHLZLD22,
+  author    = {Qizhen Weng and
+               Wencong Xiao and
+               Yinghao Yu and
+               Wei Wang and
+               Cheng Wang and
+               Jian He and
+               Yong Li and
+               Liping Zhang and
+               Wei Lin and
+               Yu Ding},
+  title     = {{MLaaS} in the Wild: Workload Analysis and Scheduling in {Large-Scale} Heterogeneous {GPU} Clusters},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {945-960},
+}
+
+@inproceedings{DBLP:conf/nsdi/0008ZYWCSW22,
+  author    = {Yang Zhou and
+               Ying Zhang and
+               Minlan Yu and
+               Guangyu Wang and
+               Dexter Cao and
+               Yu-Wei Eric Sung and
+               Starsky H. Y. Wong},
+  title     = {Evolvable Network Telemetry at Facebook},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {961-975},
+}
+
+@inproceedings{DBLP:conf/nsdi/XuC0SZHL22,
+  author    = {Jingao Xu and
+               Hao Cao and
+               Zheng Yang and
+               Longfei Shangguan and
+               Jialin Zhang and
+               Xiaowu He and
+               Yunhao Liu},
+  title     = {SwarmMap: Scaling Up Real-time Collaborative Visual {SLAM} at the Edge},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {977-993},
+}
+
+@inproceedings{DBLP:conf/nsdi/LakiGPVS22,
+  author    = {Sándor Laki and
+               Csaba Györgyi and
+               József Peto and
+               Péter Vörös and
+               Géza Szabó},
+  title     = {{In-Network} Velocity Control of Industrial Robot Arms},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {995-1009},
+}
+
+@inproceedings{DBLP:conf/nsdi/JogGMLGVH22,
+  author    = {Suraj Jog and
+               Junfeng Guan and
+               Sohrab Madani and
+               Ruochen Lu and
+               Songbin Gong and
+               Deepak Vasisht and
+               Haitham Hassanieh},
+  title     = {Enabling {IoT} {Self-Localization} Using Ambient 5G Signals},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1011-1026},
+}
+
+@inproceedings{DBLP:conf/nsdi/RomeroYLXYTSBSM22,
+  author    = {Joshua Romero and
+               Junqi Yin and
+               Nouamane Laanait and
+               Bing Xie and
+               M. Todd Young and
+               Sean Treichler and
+               Vitalii Starchenko and
+               Albina Y. Borisevich and
+               Alex Sergeev and
+               Michael A. Matheson},
+  title     = {Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1027-1040},
+}
+
+@inproceedings{DBLP:conf/nsdi/GunasekaranMTSK22,
+  author    = {Jashwant Raj Gunasekaran and
+               Cyan Subhra Mishra and
+               Prashanth Thinakaran and
+               Bikash Sharma and
+               Mahmut Taylan Kandemir and
+               Chita R. Das},
+  title     = {Cocktail: A Multidimensional Optimization for Model Serving in Cloud},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1041-1057},
+}
+
+@inproceedings{DBLP:conf/nsdi/KraftKBZ22,
+  author    = {Peter Kraft and
+               Fiodar Kazhamiaka and
+               Peter Bailis and
+               Matei Zaharia},
+  title     = {{Data-Parallel} Actors: A Programming Model for Scalable Query Serving Systems},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1059-1074},
+}
+
+@inproceedings{DBLP:conf/nsdi/DiabYH22,
+  author    = {Khaled M. Diab and
+               Parham Yassini and
+               Mohamed Hefeeda},
+  title     = {Orca: Server-assisted Multicast for Datacenter Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1075-1091},
+}
+
+@inproceedings{DBLP:conf/nsdi/DiabH22,
+  author    = {Khaled M. Diab and
+               Mohamed Hefeeda},
+  title     = {Yeti: Stateless and Generalized Multicast Forwarding},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1093-1114},
+}
+
+@inproceedings{DBLP:conf/nsdi/BhattacherjeeAJ22,
+  author    = {Debopam Bhattacherjee and
+               Waqar Aqeel and
+               Sangeetha Abdu Jyothi and
+               Ilker Nadi Bozkurt and
+               William Sentosa and
+               Muhammad Tirmazi and
+               Anthony Aguirre and
+               Balakrishnan Chandrasekaran and
+               Philip Brighten Godfrey and
+               Gregory Laughlin and
+               Bruce M. Maggs and
+               Ankit Singla},
+  title     = {cISP: A {Speed-of-Light} Internet Service Provider},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1115-1133},
+}
+
+@inproceedings{DBLP:conf/nsdi/NaseerB22,
+  author    = {Usama Naseer and
+               Theophilus A. Benson},
+  title     = {Configanator: A Data-driven Approach to Improving {CDN} Performance},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1135-1158},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangSBRS22,
+  author    = {Juncheng Yang and
+               Anirudh Sabnis and
+               Daniel S. Berger and
+               K. V. Rashmi and
+               Ramesh K. Sitaraman},
+  title     = {C2DN: How to Harness Erasure Codes at the Edge for Efficient Content Delivery},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1159-1177},
+}
+
+@inproceedings{DBLP:conf/nsdi/SharmaTBBPBKV22,
+  author    = {Harsha Sharma and
+               Parth Thakkar and
+               Sagar Bharadwaj and
+               Ranjita Bhagwan and
+               Venkata N. Padmanabhan and
+               Yogesh Bansal and
+               P. Vijay Kumar and
+               Kathleen Voelbel},
+  title     = {Optimizing Network Provisioning through Cooperation},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1179-1194},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuSL22,
+  author    = {Liangcheng Yu and
+               John Sonchack and
+               Vincent Liu},
+  title     = {OrbWeaver: Using {IDLE} Cycles in Programmable Networks for Opportunistic Coordination},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1195-1212},
+}
+
+@inproceedings{DBLP:conf/nsdi/PangPADG22,
+  author    = {Weiwu Pang and
+               Sourav Panda and
+               Muhammad Jehangir Amjad and
+               Christophe Diot and
+               Ramesh Govindan},
+  title     = {CloudCluster: Unearthing the Functional Structure of a Cloud Service},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1213-1230},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangZXYXZQXH22,
+  author    = {Qianyu Zhang and
+               Gongming Zhao and
+               Hongli Xu and
+               Zhuolong Yu and
+               Liguang Xie and
+               Yangming Zhao and
+               Chunming Qiao and
+               Ying Xiong and
+               Liusheng Huang},
+  title     = {Zeta: A Scalable and Robust {East-West} Communication Framework in {Large-Scale} Clouds},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1231-1248},
+}
+
+@inproceedings{DBLP:conf/nsdi/GibsonHLMMSWWWY22,
+  author    = {Dan Gibson and
+               Hema Hariharan and
+               Eric Lance and
+               Moray McLaren and
+               Behnam Montazeri and
+               Arjun Singh and
+               Stephen Wang and
+               Hassan M. G. Wassel and
+               Zhehua Wu and
+               Sunghwan Yoo and
+               Raghuraman Balasubramanian and
+               Prashant Chandra and
+               Michael Cutforth and
+               Peter Cuy and
+               David Decotigny and
+               Rakesh Gautam and
+               Alex Iriza and
+               Milo M. K. Martin and
+               Rick Roy and
+               Zuowei Shen and
+               Ming Tan and
+               Ye Tang and
+               Monica Wong-Chan and
+               Joe Zbiciak and
+               Amin Vahdat},
+  title     = {Aquila: A unified, low-latency fabric for datacenter networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1249-1266},
+}
+
+@inproceedings{DBLP:conf/nsdi/Wang0DRCN22,
+  author    = {Weitao Wang and
+               Dingming Wu and
+               Sushovan Das and
+               Afsaneh Rahbar and
+               Ang Chen and
+               T. S. Eugene Ng},
+  title     = {RDC: {Energy-Efficient} Data Center Network Congestion Relief with Topological Reconfigurability at the Edge},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1267-1288},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangYASP22,
+  author    = {Tao Wang and
+               Xiangrui Yang and
+               Gianni Antichi and
+               Anirudh Sivaraman and
+               Aurojit Panda},
+  title     = {Isolation Mechanisms for {High-Speed} {Packet-Processing} Pipelines},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1289-1305},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangTSC22,
+  author    = {Yiwen Zhang and
+               Yue Tan and
+               Brent E. Stephens and
+               Mosharaf Chowdhury},
+  title     = {Justitia: Software {Multi-Tenancy} in Hardware {Kernel-Bypass} Networks},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1307-1326},
+}
+
+@inproceedings{DBLP:conf/nsdi/0002ZZLCSZ22,
+  author    = {Jingrong Chen and
+               Hong Zhang and
+               Wei Zhang and
+               Liang Luo and
+               Jeffrey S. Chase and
+               Ion Stoica and
+               Danyang Zhuo},
+  title     = {NetHint: {White-Box} Networking for {Multi-Tenant} Data Centers},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1327-1343},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZengLZWLHCWLDGF22,
+  author    = {Chaoliang Zeng and
+               Layong Luo and
+               Teng Zhang and
+               Zilong Wang and
+               Luyang Li and
+               Wenchen Han and
+               Nan Chen and
+               Lebing Wan and
+               Lichao Liu and
+               Zhipeng Ding and
+               Xiongfei Geng and
+               Tao Feng and
+               Feng Ning and
+               Kai Chen and
+               Chuanxiong Guo},
+  title     = {Tiara: A Scalable and Efficient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1345-1358},
+}
+
+@inproceedings{DBLP:conf/nsdi/RashelbachRS22,
+  author    = {Alon Rashelbach and
+               Ori Rottenstreich and
+               Mark Silberstein},
+  title     = {Scaling Open {vSwitch} with a Computational Cache},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1359-1374},
+}
+
+@inproceedings{DBLP:conf/nsdi/SanaeeSAS22,
+  author    = {Alireza Sanaee and
+               Farbod Shahinfar and
+               Gianni Antichi and
+               Brent E. Stephens},
+  title     = {Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem},
+  booktitle = nsdi,
+  year      = 2022,
+  pages     = {1375-1392},
+}
+
 @inproceedings{DBLP:conf/nsdi/Shao0LYZZ21,
   author    = {Hua Shao and
                Xiaoliang Wang and
@@ -1010,7 +2049,7 @@
   author    = {Akshay Gadre and
                Revathy Narayanan and
                Anh Luong and
-               Anthony Rowe and
+               Anthony G. Rowe and
                Bob Iannucci and
                Swarun Kumar},
   title     = {Frequency Configuration for {Low-Power} {Wide-Area} Networks in a Heartbeat},
@@ -1096,7 +2135,7 @@
                Rahul Kumar and
                Chetan Bansal and
                Chandra Shekhar Maddila and
-               B. Ashok and
+               Balasubramanyan Ashok and
                Sumit Asthana and
                Christian Bird and
                Aditya Kumar},
@@ -1342,7 +2381,7 @@
                Parimarjan Negi and
                Lei Yang and
                Radhika Mittal and
-               Giulia C. Fanti and
+               Giulia Fanti and
                Mohammad Alizadeh},
   title     = {High Throughput Cryptocurrency Routing in Payment Channel Networks},
   booktitle = nsdi,
@@ -1999,7 +3038,7 @@
                Roberto Bifulco and
                Marco Bonola and
                Carmelo Cascone and
-               Marco Spaziani and
+               Marco Spaziani Brunella and
                Valerio Bruschi and
                Davide Sanvito and
                Giuseppe Siracusano and
@@ -2584,7 +3623,7 @@
 @inproceedings{DBLP:conf/nsdi/ArzaniCCZLPLO18,
   author    = {Behnaz Arzani and
                Selim Ciraci and
-               Luiz Chamon and
+               Luiz F. O. Chamon and
                Yibo Zhu and
                Hongqiang Liu and
                Jitu Padhye and
@@ -3256,7 +4295,7 @@
 
 @inproceedings{DBLP:conf/nsdi/RyzhykBCJSTV17,
   author    = {Leonid Ryzhyk and
-               Nikolaj Bjørner and
+               Nikolaj S. Bjørner and
                Marco Canini and
                Jean-Baptiste Jeannin and
                Cole Schlesinger and
@@ -4257,7 +5296,7 @@
 
 @inproceedings{DBLP:conf/nsdi/LopesBGJV15,
   author    = {Nuno P. Lopes and
-               Nikolaj Bjørner and
+               Nikolaj S. Bjørner and
                Patrice Godefroid and
                Karthick Jayaraman and
                George Varghese},
@@ -5539,7 +6578,7 @@
                Xuepeng Fan and
                Zhenyu Guo and
                Haoxiang Lin and
-               Jack Y. Li and
+               Jack Li and
                Wei Lin and
                Jingren Zhou and
                Lidong Zhou},
@@ -6270,7 +7309,7 @@
                Aditya Akella and
                Ashok Anand and
                Athula Balachandran and
-               Pushkar Chitnis and
+               Pushkar V. Chitnis and
                Chitra Muthukrishnan and
                Ramachandran Ramjee and
                George Varghese},
@@ -6439,7 +7478,7 @@
 
 @inproceedings{DBLP:conf/nsdi/LeoniniRF09,
   author    = {Lorenzo Leonini and
-               Etienne Riviere and
+               Etienne Rivière and
                Pascal Felber},
   title     = {SPLAY: Distributed Systems Evaluation Made Simple (or How to Turn Ideas into Live Systems in a Breeze)},
   booktitle = nsdi,

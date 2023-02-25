@@ -1,5 +1,492 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cloud/PavlidakisMCVB22,
+  author    = {Manos Pavlidakis and
+               Stelios Mavridis and
+               Antony Chazapis and
+               Giorgos Vasiliadis and
+               Angelos Bilas},
+  title     = {Arax: a runtime framework for decoupling applications from heterogeneous accelerators},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/cloud/WangZLJRZY0L22,
+  author    = {Ziliang Wang and
+               Shiyi Zhu and
+               Jianguo Li and
+               Wei Jiang and
+               K. K. Ramakrishnan and
+               Yangfei Zheng and
+               Meng Yan and
+               Xiaohong Zhang and
+               Alex X. Liu},
+  title     = {DeepScaling: microservices autoscaling for stable {CPU} utilization in large scale cloud systems},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {16-30},
+}
+
+@inproceedings{DBLP:conf/cloud/TangKFJWPG22,
+  author    = {Wenda Tang and
+               Yutao Ke and
+               Senbo Fu and
+               Hongliang Jiang and
+               Junjie Wu and
+               Qian Peng and
+               Feng Gao},
+  title     = {Demeter: {QoS-aware} {CPU} scheduling to reduce power consumption of multiple black-box workloads},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {31-46},
+}
+
+@inproceedings{DBLP:conf/cloud/BhardwajTWLMNS22,
+  author    = {Romil Bhardwaj and
+               Alexey Tumanov and
+               Stephanie Wang and
+               Richard Liaw and
+               Philipp Moritz and
+               Robert Nishihara and
+               Ion Stoica},
+  title     = {ESCHER: expressive scheduling with ephemeral resources},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {47-62},
+}
+
+@inproceedings{DBLP:conf/cloud/BashirFD22,
+  author    = {Hafiz Mohsin Bashir and
+               Abdullah Bin Faisal and
+               Fahad R. Dogar},
+  title     = {Network resource management as a database problem},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {63-71},
+}
+
+@inproceedings{DBLP:conf/cloud/ShinAT0YN22,
+  author    = {Jungeun Shin and
+               Diana Arroyo and
+               Asser N. Tantawi and
+               Chen Wang and
+               Alaa Youssef and
+               Rakesh Nagi},
+  title     = {Cloud-native workflow scheduling using a hybrid priority rule and dynamic task parallelism},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {72-77},
+}
+
+@inproceedings{DBLP:conf/cloud/TianLW0WY22,
+  author    = {Huangshi Tian and
+               Suyi Li and
+               Ao Wang and
+               Wei Wang and
+               Tianlong Wu and
+               Haoran Yang},
+  title     = {Owl: performance-aware scheduling for resource-efficient function-as-a-service cloud},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {78-93},
+}
+
+@inproceedings{DBLP:conf/cloud/ShiF0YHZZCG22,
+  author    = {Jiuchen Shi and
+               Kaihua Fu and
+               Quan Chen and
+               Changpeng Yang and
+               Pengfei Huang and
+               Mosong Zhou and
+               Jieru Zhao and
+               Chen Chen and
+               Minyi Guo},
+  title     = {Characterizing and orchestrating {VM} reservation in geo-distributed clouds to improve the resource efficiency},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {94-109},
+}
+
+@inproceedings{DBLP:conf/cloud/FedorovaSBLCG22,
+  author    = {Alexandra Fedorova and
+               Keith A. Smith and
+               Keith Bostic and
+               Susan J. LoVerso and
+               Michael J. Cahill and
+               Alexander Gorrod},
+  title     = {Writes hurt: lessons in cache design for optane {NVRAM}},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {110-125},
+}
+
+@inproceedings{DBLP:conf/cloud/GhoshSBN22,
+  author    = {Supriyo Ghosh and
+               Manish Shetty and
+               Chetan Bansal and
+               Suman Nath},
+  title     = {How to fight production incidents?: an empirical study on a large-scale cloud service},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {126-141},
+}
+
+@inproceedings{DBLP:conf/cloud/MelissarisNRRSC22,
+  author    = {Themis Melissaris and
+               Kunal Nabar and
+               Rares Radut and
+               Samir Rehmtulla and
+               Arthur Shi and
+               Samartha Chandrashekar and
+               Ioannis Papapanagiotou},
+  title     = {Elastic cloud services: scaling snowflake's control plane},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {142-157},
+}
+
+@inproceedings{DBLP:conf/cloud/Liu0ZD0ZSZMZYWJ22,
+  author    = {Haotian Liu and
+               Bo Tang and
+               Jiashu Zhang and
+               Yangshen Deng and
+               Xiao Yan and
+               Xinying Zheng and
+               Qiaomu Shen and
+               Dan Zeng and
+               Zunyao Mao and
+               Chaozu Zhang and
+               Zhengxin You and
+               Zhihao Wang and
+               Runzhe Jiang and
+               Fang Wang and
+               Man Lung Yiu and
+               Huan Li and
+               Mingji Han and
+               Qian Li and
+               Zhenghai Luo},
+  title     = {GHive: accelerating analytical query processing in apache hive via {CPU-GPU} heterogeneous computing},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {158-172},
+}
+
+@inproceedings{DBLP:conf/cloud/LiPSGT22,
+  author    = {Baolin Li and
+               Tirthak Patel and
+               Siddharth Samsi and
+               Vijay Gadepally and
+               Devesh Tiwari},
+  title     = {MISO: exploiting multi-instance {GPU} capability on multi-tenant {GPU} clusters},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {173-189},
+}
+
+@inproceedings{DBLP:conf/cloud/Ramasubramanian22,
+  author    = {Kamala Ramasubramanian and
+               Eliana Phillips and
+               Peter Alvaro},
+  title     = {Mining microservice design patterns},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {190-195},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangJHYDG22,
+  author    = {Jie Zhang and
+               Chen Jin and
+               Yuqi Huang and
+               Li Yi and
+               Yu Ding and
+               Fei Guo},
+  title     = {KOLE: breaking the scalability barrier for managing far edge nodes in cloud},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {196-209},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangYWCWZZDWYW22,
+  author    = {Yongkang Zhang and
+               Yinghao Yu and
+               Wei Wang and
+               Qiukai Chen and
+               Jie Wu and
+               Zuowei Zhang and
+               Jiang Zhong and
+               Tianchen Ding and
+               Qizhen Weng and
+               Lingyun Yang and
+               Cheng Wang and
+               Jian He and
+               Guodong Yang and
+               Liping Zhang},
+  title     = {Workload consolidation in alibaba clusters: the good, the bad, and the ugly},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {210-225},
+}
+
+@inproceedings{DBLP:conf/cloud/TangWTL22,
+  author    = {Chenlei Tang and
+               Jiguang Wan and
+               Zhi-hu Tan and
+               Guokuan Li},
+  title     = {Accelerating range queries of primary and secondary indices for key-value separation},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {226-239},
+}
+
+@inproceedings{DBLP:conf/cloud/HouLCY22,
+  author    = {Kaiyu Hou and
+               Sen Lin and
+               Yan Chen and
+               Vinod Yegneswaran},
+  title     = {QFaaS: accelerating and securing serverless cloud networks with {QUIC}},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {240-256},
+}
+
+@inproceedings{DBLP:conf/cloud/BhasiGSKD22,
+  author    = {Vivek M. Bhasi and
+               Jashwant Raj Gunasekaran and
+               Aakash Sharma and
+               Mahmut Taylan Kandemir and
+               Chita R. Das},
+  title     = {Cypress: input size-sensitive container provisioning and request scheduling for serverless platforms},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {257-272},
+}
+
+@inproceedings{DBLP:conf/cloud/MeiklejohnSCRM22,
+  author    = {Christopher Meiklejohn and
+               Lydia Stark and
+               Cesare Celozzi and
+               Matt Ranney and
+               Heather Miller},
+  title     = {Method overloading the circuit},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {273-288},
+}
+
+@inproceedings{DBLP:conf/cloud/KaffesYK22,
+  author    = {Kostis Kaffes and
+               Neeraja J. Yadwadkar and
+               Christos Kozyrakis},
+  title     = {Hermod: principled and practical scheduling for serverless functions},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {289-305},
+}
+
+@inproceedings{DBLP:conf/cloud/QiuMPWFKBI22,
+  author    = {Haoran Qiu and
+               Weichao Mao and
+               Archit Patke and
+               Chen Wang and
+               Hubertus Franke and
+               Zbigniew T. Kalbarczyk and
+               Tamer Basar and
+               Ravishankar K. Iyer},
+  title     = {SIMPPO: a scalable and incremental online learning framework for serverless resource management},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {306-322},
+}
+
+@inproceedings{DBLP:conf/cloud/RistovHHP22,
+  author    = {Sashko Ristov and
+               Mika Hautz and
+               Christian Hollaus and
+               Radu Prodan},
+  title     = {SimLess: simulate serverless workflows and their twins and siblings in federated {FaaS}},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {323-339},
+}
+
+@inproceedings{DBLP:conf/cloud/WangDJ22,
+  author    = {Haodong Wang and
+               Kuntai Du and
+               Junchen Jiang},
+  title     = {Minimizing packet retransmission for real-time video analytics},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {340-347},
+}
+
+@inproceedings{DBLP:conf/cloud/GaoS0022,
+  author    = {Wei Gao and
+               Peng Sun and
+               Yonggang Wen and
+               Tianwei Zhang},
+  title     = {Titan: a scheduler for foundation model fine-tuning workloads},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {348-354},
+}
+
+@inproceedings{DBLP:conf/cloud/LuoXYXZY022,
+  author    = {Shutian Luo and
+               Huanle Xu and
+               Kejiang Ye and
+               Guoyao Xu and
+               Liping Zhang and
+               Guodong Yang and
+               Chengzhong Xu},
+  title     = {The power of prediction: microservice auto scaling via workload learning},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {355-369},
+}
+
+@inproceedings{DBLP:conf/cloud/JiangWLL22,
+  author    = {Zhifeng Jiang and
+               Wei Wang and
+               Baochun Li and
+               Bo Li},
+  title     = {Pisces: efficient federated learning via guided asynchronous training},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {370-385},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhouQLAIA22,
+  author    = {Amelie Chi Zhou and
+               Ruibo Qiu and
+               Thomas Lambert and
+               Tristan Allard and
+               Shadi Ibrahim and
+               Amr El Abbadi},
+  title     = {PGPregel: an end-to-end system for privacy-preserving graph processing in geo-distributed data centers},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {386-402},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangD0W022,
+  author    = {Shiwei Zhang and
+               Lansong Diao and
+               Chuan Wu and
+               Siyu Wang and
+               Wei Lin},
+  title     = {Accelerating large-scale distributed neural network training with {SPMD} parallelism},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {403-418},
+}
+
+@inproceedings{DBLP:conf/cloud/DavidsonM22,
+  author    = {Thomas Davidson and
+               Jonathan Mace},
+  title     = {See it to believe it?: the role of visualisation in systems research},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {419-428},
+}
+
+@inproceedings{DBLP:conf/cloud/ChenQHZDZ22,
+  author    = {Wuhui Chen and
+               Xiaoyu Qiu and
+               Zicong Hong and
+               Zibin Zheng and
+               Hong-Ning Dai and
+               Jianting Zhang},
+  title     = {Proactive look-ahead control of transaction flows for high-throughput payment channel network},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {429-444},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangWGN22,
+  author    = {Kuo Zhang and
+               Peijian Wang and
+               Ning Gu and
+               Thu D. Nguyen},
+  title     = {GreenDRL: managing green datacenters using deep reinforcement learning},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {445-460},
+}
+
+@inproceedings{DBLP:conf/cloud/WuWLXH0022,
+  author    = {Yuewen Wu and
+               Heng Wu and
+               Diaohan Luo and
+               Yuanjia Xu and
+               Yi Hu and
+               Wenbo Zhang and
+               Hua Zhong},
+  title     = {Serving unseen deep learning models with near-optimal configurations: a fast adaptive search approach},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {461-476},
+}
+
+@inproceedings{DBLP:conf/cloud/JiaZSLD22,
+  author    = {Weiwei Jia and
+               Jiyuan Zhang and
+               Jianchen Shan and
+               Jing Li and
+               Xiaoning Ding},
+  title     = {Achieving low latency in public edges by hiding workloads mutual interference},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {477-492},
+}
+
+@inproceedings{DBLP:conf/cloud/WangLLVGR22,
+  author    = {Jianfeng Wang and
+               Tamás Lévai and
+               Zhuojin Li and
+               Marcos A. M. Vieira and
+               Ramesh Govindan and
+               Barath Raghavan},
+  title     = {Quadrant: a cloud-deployable {NF} virtualization platform},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {493-509},
+}
+
+@inproceedings{DBLP:conf/cloud/GainSHM22,
+  author    = {Gaulthier Gain and
+               Cyril Soldani and
+               Felipe Huici and
+               Laurent Mathy},
+  title     = {Want more unikernels?: inflate them!},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {510-525},
+}
+
+@inproceedings{DBLP:conf/cloud/WaddingtonHSD22,
+  author    = {Daniel G. Waddington and
+               Moshik Hershcovitch and
+               Swaminathan Sundararaman and
+               Clem Dickey},
+  title     = {A case for using cache line deltas for high frequency {VM} snapshotting},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {526-539},
+}
+
+@inproceedings{DBLP:conf/cloud/IqbalLBBH22,
+  author    = {Syed M. Iqbal and
+               Haley Li and
+               Shane Bergsma and
+               Ivan Beschastnikh and
+               Alan J. Hu},
+  title     = {CoSpot: a cooperative {VM} allocation framework for increased revenue from spot instances},
+  booktitle = socc,
+  year      = 2022,
+  pages     = {540-556},
+}
+
 @inproceedings{DBLP:conf/cloud/RomeroZYK21,
   author    = {Francisco Romero and
                Mark Zhao and
@@ -656,7 +1143,7 @@
 }
 
 @inproceedings{DBLP:conf/cloud/ChakraborttiL20,
-  author    = {Chandranil Chakrabortti and
+  author    = {Chandranil Chakraborttii and
                Heiner Litz},
   title     = {Improving the accuracy, adaptability, and interpretability of {SSD} failure prediction models},
   booktitle = socc,
@@ -1559,7 +2046,7 @@
   author    = {Andrea Segalini and
                Dino Lopez Pacheco and
                Guillaume Urvoy-Keller and
-               F. Hermenier and
+               Fabien Hermenier and
                Quentin Jacquemart},
   title     = {Hy-FiX: Fast In-place upgrade of {KVM} hypervisors},
   booktitle = socc,
@@ -2155,7 +2642,7 @@
 }
 
 @inproceedings{DBLP:conf/cloud/ChakraborttiSL18,
-  author    = {Chandranil Chakrabortti and
+  author    = {Chandranil Chakraborttii and
                Vikas Sinha and
                Heiner Litz},
   title     = {{SSD} {QoS} Improvements through Machine Learning},
@@ -2676,7 +3163,7 @@
                Huan Ke and
                Tanakorn Leesatapornwongsa and
                Bo Fu and
-               Daniar H. Kurniawan and
+               Daniar Heri Kurniawan and
                Vincentius Martin and
                Maheswara Rao G. Uma and
                Haryadi S. Gunawi},
@@ -3040,7 +3527,7 @@
   author    = {Sagar Jha and
                Jonathan Behrens and
                Theo Gkountouvas and
-               Matthew Milano and
+               Mae Milano and
                Weijia Song and
                Edward Tremel and
                Sydney Zink and
@@ -3609,7 +4096,7 @@
 @inproceedings{DBLP:conf/cloud/ChengSEHRKA16,
   author    = {Raymond Cheng and
                William Scott and
-               Paul Ellenbogen and
+               Paul M. Ellenbogen and
                Jon Howell and
                Franziska Roesner and
                Arvind Krishnamurthy and

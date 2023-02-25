@@ -1,5 +1,489 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cidr/0001BBCLL22,
+  author    = {Qizhen Zhang and
+               Philip A. Bernstein and
+               Daniel S. Berger and
+               Badrish Chandramouli and
+               Vincent Liu and
+               Boon Thau Loo},
+  title     = {CompuCache: Remote Computable Caching using Spot {VMs}},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/0003KIK22,
+  author    = {Rihan Hai and
+               Christos Koutras and
+               Andra Ionescu and
+               Asterios Katsifodimos},
+  title     = {Amalur: Next-generation Data Integration in Data Lakes},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/0027KKSKLCGKKSS22,
+  author    = {Qian Li and
+               Peter Kraft and
+               Kostis Kaffes and
+               Athinagoras Skiadopoulos and
+               Deeptaanshu Kumar and
+               Jason Li and
+               Michael J. Cafarella and
+               Goetz Graefe and
+               Jeremy Kepner and
+               Christos Kozyrakis and
+               Michael Stonebraker and
+               Lalith Suresh and
+               Matei Zaharia},
+  title     = {A Progress Report on DBOS: A Database-oriented Operating System},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/AndersonLZCCDGH22,
+  author    = {Michael R. Anderson and
+               Yuze Lou and
+               Jiayun Zou and
+               Michael J. Cafarella and
+               Sarah E. Chasins and
+               Doug Downey and
+               Tian Gao and
+               Kexin Huang and
+               Dinghao Shen and
+               Jenny M. Vo-Phamhi and
+               Yitong Wang and
+               Yuning Wang and
+               Anna Zeng},
+  title     = {Building a Shared Conceptual Model of Complex, Heterogeneous Data Systems: A Demonstration},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/AngCTLHLH22,
+  author    = {Jie Liang Ang and
+               Jefferson Chu and
+               Hieu Le Trung and
+               Jiajun Liu and
+               Jiong He and
+               Qian Lin and
+               Bingsheng He},
+  title     = {Micro-architectural Analysis of {OLAP} Systems on Persistent Memory},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/BehmP22,
+  author    = {Alexander Behm and
+               Shoumik Palkar},
+  title     = {Photon: A {High-Performance} Query Engine for the Lakehouse},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/BensonR22,
+  author    = {Lawrence Benson and
+               Tilmann Rabl},
+  title     = {Darwin: {Scale-In} Stream Processing},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/BlacherGLKL22,
+  author    = {Mark Blacher and
+               Joachim Giesen and
+               Sören Laue and
+               Julien Klaus and
+               Viktor Leis},
+  title     = {Machine Learning, Linear Algebra, and More: Is {SQL} All You Need?},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/CrottyLP22,
+  author    = {Andrew Crotty and
+               Viktor Leis and
+               Andrew Pavlo},
+  title     = {Are You Sure You Want to Use {MMAP} in Your Database Management System?},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/DammeBB0BCDDEFG22,
+  author    = {Patrick Damme and
+               Marius Birkenbach and
+               Constantinos Bitsakos and
+               Matthias Boehm and
+               Philippe Bonnet and
+               Florina M. Ciorba and
+               Mark Dokter and
+               Pawel Dowgiallo and
+               Ahmed Eleliemy and
+               Christian Faerber and
+               Georgios I. Goumas and
+               Dirk Habich and
+               Niclas Hedam and
+               Marlies Hofer and
+               Wenjun Huang and
+               Kevin Innerebner and
+               Vasileios Karakostas and
+               Roman Kern and
+               Tomaz Kosar and
+               Alexander Krause and
+               Daniel Krems and
+               Andreas Laber and
+               Wolfgang Lehner and
+               Eric Mier and
+               Marcus Paradies and
+               Bernhard Peischl and
+               Gabrielle Poerwawinata and
+               Stratos Psomadakis and
+               Tilmann Rabl and
+               Piotr Ratuszniak and
+               Pedro Silva and
+               Nikolai Skuppin and
+               Andreas Starzacher and
+               Benjamin Steinwender and
+               Ilin Tolovski and
+               Pinar Tözün and
+               Wojciech Ulatowski and
+               Yuanyuan Wang and
+               Izajasz P. Wrosz and
+               Ales Zamuda and
+               Ce Zhang and
+               Xiaoxiang Zhu},
+  title     = {DAPHNE: An Open and Extensible System Infrastructure for Integrated Data Analysis Pipelines},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/DaumZHBHKCW22,
+  author    = {Maureen Daum and
+               Enhao Zhang and
+               Dong He and
+               Magdalena Balazinska and
+               Brandon Haynes and
+               Ranjay Krishna and
+               Apryle Craig and
+               Aaron Wirsing},
+  title     = {VOCAL: Video Organization and Interactive Compositional {AnaLytics}},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/Ding22,
+  author    = {Qiaoyi Ding},
+  title     = {Runtime Encoding Execution in AnalyticDB: Efficient Query Executor for Cloud-native Database},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/FlachsMM22,
+  author    = {Daniel Flachs and
+               Magnus Müller and
+               Guido Moerkotte},
+  title     = {The 3D Hash Join: Building On {Non-Unique} Join Attributes},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/GathaniHGHD22,
+  author    = {Sneha Gathani and
+               Madelon Hulsebos and
+               James Gale and
+               Peter J. Haas and
+               Çagatay Demiralp},
+  title     = {Augmenting Decision Making via Interactive {What-If} Analysis},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/Helland22,
+  author    = {Pat Helland},
+  title     = {Decoupled Transactions: Low Tail Latency Online Transactions Atop Jittery Servers},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/HerlihyCA22,
+  author    = {Anna Herlihy and
+               Periklis Chrysogelos and
+               Anastasia Ailamaki},
+  title     = {Boosting Efficiency of External Pipelines by Blurring Application Boundaries},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/HilprechtB22,
+  author    = {Benjamin Hilprecht and
+               Carsten Binnig},
+  title     = {One Model to Rule them All: Towards {Zero-Shot} Learning for Databases},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/HuangI0X22,
+  author    = {Kaisong Huang and
+               Darien Imai and
+               Tianzheng Wang and
+               Dong Xie},
+  title     = {{SSDs} Striking Back: The Storage Jungle and Its Implications to Persistent Indexes},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/HulsebosGGDGD22,
+  author    = {Madelon Hulsebos and
+               Sneha Gathani and
+               James Gale and
+               Isil Dillig and
+               Paul Groth and
+               Çagatay Demiralp},
+  title     = {Making Table Understanding Work in Practice},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/JinAS22,
+  author    = {Guodong Jin and
+               Nafisa Anzum and
+               Semih Salihoglu},
+  title     = {GRainDB: A Relational-core {Graph-Relational} {DBMS}},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/KangRBKZ22,
+  author    = {Daniel Kang and
+               Francisco Romero and
+               Peter D. Bailis and
+               Christos Kozyrakis and
+               Matei Zaharia},
+  title     = {VIVA: An {End-to-End} System for Interactive Video Analytics},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/KlabeDHS22,
+  author    = {Steffen Kläbe and
+               Robert DeSantis and
+               Stefan Hagedorn and
+               Kai-Uwe Sattler},
+  title     = {Accelerating Python {UDFs} in Vectorized Query Execution},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/KorolijaKKTMA22,
+  author    = {Dario Korolija and
+               Dimitrios Koutsoukos and
+               Kimberly Keeton and
+               Konstantin Taranov and
+               Dejan S. Milojicic and
+               Gustavo Alonso},
+  title     = {Farview: Disaggregated Memory with Operator Off-loading for Database Engines},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/KossmannNLP22,
+  author    = {Jan Kossmann and
+               Felix Naumann and
+               Daniel Lindner and
+               Thorsten Papenbrock},
+  title     = {Workload-driven, Lazy Discovery of Data Dependencies for Query Optimization},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/LandgrafLW022,
+  author    = {Lukas Landgraf and
+               Wolfgang Lehner and
+               Florian Wolf and
+               Alexander Boehm},
+  title     = {Memory Efficient Scheduling of Query Pipeline Execution},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/LissandriniMHP22,
+  author    = {Matteo Lissandrini and
+               Davide Mottin and
+               Katja Hose and
+               Torben Bach Pedersen},
+  title     = {Knowledge Graph Exploration Systems: are we lost?},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/MaddenDKSCMT22,
+  author    = {Samuel Madden and
+               Jialin Ding and
+               Tim Kraska and
+               Sivaprasad Sudhir and
+               David Cohen and
+               Timothy G. Mattson and
+               Nesime Tatbul},
+  title     = {{Self-Organizing} Data Containers},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/OrrGR22,
+  author    = {Laurel J. Orr and
+               Karan Goel and
+               Christopher Ré},
+  title     = {Data Management Opportunities for Foundation Models},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/PrammerRCP22,
+  author    = {Martin Prammer and
+               Suryadev Sahadevan Rajesh and
+               Junda Chen and
+               Jignesh M. Patel},
+  title     = {Introducing a Query Acceleration Path for Analytics in SQLite3},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/PurandareWLF22,
+  author    = {Devashish R. Purandare and
+               Peter Wilcox and
+               Heiner Litz and
+               Shel Finkelstein},
+  title     = {Append is Near: Log-based Data Management on {ZNS} {SSDs}},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/RezigBFPVBMG22,
+  author    = {El Kindi Rezig and
+               Anshul Bhandari and
+               Anna Fariha and
+               Benjamin Price and
+               Allan Vanterpool and
+               Andrew Bowne and
+               Lindsey McEvoy and
+               Vijay Gadepally},
+  title     = {Examples are All You Need: Iterative Data Discovery by Example in Data Lakes},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/RyserLFC22,
+  author    = {André Ryser and
+               Alberto Lerner and
+               Alex Forencich and
+               Philippe Cudré-Mauroux},
+  title     = {D-RDMA: Bringing {Zero-Copy} {RDMA} to Database Systems},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/SchelterGGSK022,
+  author    = {Sebastian Schelter and
+               Stefan Grafberger and
+               Shubha Guha and
+               Olivier Sprangers and
+               Bojan Karlas and
+               Ce Zhang},
+  title     = {Screening Native Machine Learning Pipelines with {ArgusEyes}},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/ShankarP22,
+  author    = {Shreya Shankar and
+               Aditya G. Parameswaran},
+  title     = {Towards Observability for Machine Learning Pipelines},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/SollezaCKTZ22,
+  author    = {Franco Solleza and
+               Andrew Crotty and
+               Suman Karumuri and
+               Nesime Tatbul and
+               Stan Zdonik},
+  title     = {Mach: A Pluggable Metrics Storage Engine for the Age of Observability},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/StanfordKA22,
+  author    = {Caleb Stanford and
+               Konstantinos Kallas and
+               Rajeev Alur},
+  title     = {Correctness in Stream Processing: Challenges and Opportunities},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/TaoSBCS22,
+  author    = {Wenbo Tao and
+               Adam Sah and
+               Leilani Battle and
+               Remco Chang and
+               Michael Stonebraker},
+  title     = {Kyrix-J: Visual Discovery of Connected Datasets in a Data Lake},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/Trummer22,
+  author    = {Immanuel Trummer},
+  title     = {Towards {NLP-Enhanced} Data Profiling Tools},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/WangL22,
+  author    = {Anduo Wang and
+               Fangping Lan},
+  title     = {A Network Use for Incomplete Knowledge Management},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/WaterVKQM22,
+  author    = {Robin Van De Water and
+               Francesco Ventura and
+               Zoi Kaoudi and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Volker Markl},
+  title     = {DataFarm: Farm Your {ML-based} Query Optimizer's Food! - {Human-Guided} Training Data Generation -},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/WuYYZHLLZZ22,
+  author    = {Ziniu Wu and
+               Pei Yu and
+               Peilun Yang and
+               Rong Zhu and
+               Yuxing Han and
+               Yaliang Li and
+               Defu Lian and
+               Kai Zeng and
+               Jingren Zhou},
+  title     = {A Unified Transferable Model for {ML-Enhanced} {DBMS}},
+  booktitle = cidr,
+  year      = 2022,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhangCPR22,
+  author    = {Yunjia Zhang and
+               Yannis Chronis and
+               Jignesh M. Patel and
+               Theodoros Rekatsinas},
+  title     = {Can Transfer Learning be used to build a Query Optimizer?},
+  booktitle = cidr,
+  year      = 2022,
+}
+
 @inproceedings{DBLP:conf/cidr/0001NZLGN21,
   author    = {Arun Kumar and
                Supun Nakandala and
@@ -60,7 +544,7 @@
   author    = {Alvin Cheung and
                Natacha Crooks and
                Joseph M. Hellerstein and
-               Matthew Milano},
+               Mae Milano},
   title     = {New Directions in Cloud Programming},
   booktitle = cidr,
   year      = 2021,
@@ -135,7 +619,7 @@
                Ayushi Gupta and
                Karthik Ramachandra and
                Carlo Curino and
-               Andreas Mueller and
+               Andreas Müller and
                Wentao Wu and
                Hiren Patel},
   title     = {Magpie: Python at Speed and Scale using Cloud Backends},
@@ -254,7 +738,7 @@
                Thomas Lemmin and
                Tian Li and
                Yang Li and
-               Xi Rao and
+               Susie Xi Rao and
                Johannes Rausch and
                Cédric Renggli and
                Luka Rimanic and
@@ -500,7 +984,7 @@
 @inproceedings{DBLP:conf/cidr/AlonsoRCEKKSW20,
   author    = {Gustavo Alonso and
                Timothy Roscoe and
-               David Cock and
+               David A. Cock and
                Mohsen Ewaida and
                Kaan Kara and
                Dario Korolija and
@@ -973,7 +1457,7 @@
                Pascal Barbry and
                Marc Antonini and
                Olivier Madderson and
-               Paul Freemont and
+               Paul S. Freemont and
                James McDonald and
                Thomas Heinis},
   title     = {OligoArchive: Using {DNA} in the {DBMS} storage hierarchy},
@@ -1885,7 +2369,7 @@
 
 @inproceedings{DBLP:conf/cidr/PalkarTSSAZ17,
   author    = {Shoumik Palkar and
-               James J. Thomas and
+               James Thomas and
                Anil Shanbhag and
                Malte Schwarzkopf and
                Saman P. Amarasinghe and
@@ -3820,7 +4304,7 @@
                Sailesh Krishnamurthy and
                Neil Conway and
                Alan Li and
-               Alex Russakovsky and
+               Alexander Russakovsky and
                Neil Thombre},
   title     = {Continuous Analytics: Rethinking Query Processing in a {Network-Effect} World},
   booktitle = cidr,

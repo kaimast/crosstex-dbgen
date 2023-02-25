@@ -1,5 +1,384 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pods/VandevoortK0N22,
+  author    = {Brecht Vandevoort and
+               Bas Ketsman and
+               Christoph Koch and
+               Frank Neven},
+  title     = {Robustness Against Read Committed: A Free Transactional Lunch},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/pods/AjtaiBJSSWZ22,
+  author    = {Miklós Ajtai and
+               Vladimir Braverman and
+               T. S. Jayram and
+               Sandeep Silwal and
+               Alec Sun and
+               David P. Woodruff and
+               Samson Zhou},
+  title     = {The {White-Box} Adversarial Data Stream Model},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {15-27},
+}
+
+@inproceedings{DBLP:conf/pods/JayaramWZ22,
+  author    = {Rajesh Jayaram and
+               David P. Woodruff and
+               Samson Zhou},
+  title     = {Truly Perfect Samplers for Data Streams and Sliding Windows},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {29-40},
+}
+
+@inproceedings{DBLP:conf/pods/Meel0V22,
+  author    = {Kuldeep S. Meel and
+               Sourav Chakraborty and
+               N. V. Vinodchandran},
+  title     = {Estimation of the Size of Union of Delphic Sets: Achieving Independence from Stream Size},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {41-52},
+}
+
+@inproceedings{DBLP:conf/pods/KhamisCKO22,
+  author    = {Mahmoud Abo Khamis and
+               George Chichirim and
+               Antonia Kormpa and
+               Dan Olteanu},
+  title     = {The Complexity of Boolean Conjunctive Queries with Intersection Joins},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {53-65},
+}
+
+@inproceedings{DBLP:conf/pods/Wang022,
+  author    = {Yilei Wang and
+               Ke Yi},
+  title     = {Query Evaluation by Circuits},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {67-78},
+}
+
+@inproceedings{DBLP:conf/pods/SchmidS22,
+  author    = {Markus L. Schmid and
+               Nicole Schweikardt},
+  title     = {Query Evaluation over {SLP-Represented} Document Databases with Complex Document Editing},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {79-89},
+}
+
+@inproceedings{DBLP:conf/pods/Lanzinger22,
+  author    = {Matthias Lanzinger},
+  title     = {The Complexity of Conjunctive Queries with Degree 2},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {91-102},
+}
+
+@inproceedings{DBLP:conf/pods/BenderBR22,
+  author    = {Michael Bender and
+               Michael Benedikt and
+               Sudeepa Roy},
+  title     = {2022 {ACM} {PODS} Alberto O. Mendelzon {Test-of-Time} Award},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {103-104},
+}
+
+@inproceedings{DBLP:conf/pods/Khamis0PSW22,
+  author    = {Mahmoud Abo Khamis and
+               Hung Q. Ngo and
+               Reinhard Pichler and
+               Dan Suciu and
+               Yisu Remy Wang},
+  title     = {Convergence of Datalog over (Pre-) Semirings},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {105-117},
+}
+
+@inproceedings{DBLP:conf/pods/NelsonY22,
+  author    = {Jelani Nelson and
+               Huacheng Yu},
+  title     = {Optimal Bounds for Approximate Counting},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {119-127},
+}
+
+@inproceedings{DBLP:conf/pods/Tao22,
+  author    = {Yufei Tao},
+  title     = {Algorithmic Techniques for Independent Query Sampling},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {129-138},
+}
+
+@inproceedings{DBLP:conf/pods/SchmidS22a,
+  author    = {Markus L. Schmid and
+               Nicole Schweikardt},
+  title     = {Document Spanners - A Brief Overview of Concepts, Results, and Recent Developments},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {139-150},
+}
+
+@inproceedings{DBLP:conf/pods/Chierichetti0L22,
+  author    = {Flavio Chierichetti and
+               Ravi Kumar and
+               Silvio Lattanzi},
+  title     = {The {Gibbs-Rand} Model},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {151-163},
+}
+
+@inproceedings{DBLP:conf/pods/MartensP22,
+  author    = {Wim Martens and
+               Tina Popp},
+  title     = {The Complexity of Regular Trail and Simple Path Queries on Undirected Graphs},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {165-174},
+}
+
+@inproceedings{DBLP:conf/pods/LuMNT22,
+  author    = {Shangqi Lu and
+               Wim Martens and
+               Matthias Niewerth and
+               Yufei Tao},
+  title     = {Optimal Algorithms for Multiway Search on Partial Orders},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {175-187},
+}
+
+@inproceedings{DBLP:conf/pods/FigueiraJL22,
+  author    = {Diego Figueira and
+               Artur Jez and
+               Anthony W. Lin},
+  title     = {Data Path Queries over Embedded Graph Databases},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {189-201},
+}
+
+@inproceedings{DBLP:conf/pods/FigueiraR22,
+  author    = {Diego Figueira and
+               Varun Ramanathan},
+  title     = {When is the Evaluation of Extended {CRPQ} Tractable?},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {203-212},
+}
+
+@inproceedings{DBLP:conf/pods/Dong022,
+  author    = {Wei Dong and
+               Ke Yi},
+  title     = {A Nearly Instance-optimal Differentially Private Mechanism for Conjunctive Queries},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {213-225},
+}
+
+@inproceedings{DBLP:conf/pods/HuNX022,
+  author    = {Lijie Hu and
+               Shuo Ni and
+               Hanshen Xiao and
+               Di Wang},
+  title     = {High Dimensional Differentially Private Stochastic Optimization with Heavy-tailed Data},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {227-236},
+}
+
+@inproceedings{DBLP:conf/pods/OhrimenkoWW22,
+  author    = {Olga Ohrimenko and
+               Anthony Wirth and
+               Hao Wu},
+  title     = {Randomize the Future: Asymptotically Optimal Locally Private Frequency Estimation Protocol for Longitudinal Data},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {237-249},
+}
+
+@inproceedings{DBLP:conf/pods/LiL22,
+  author    = {Yi Li and
+               Mingmou Liu},
+  title     = {Lower Bounds for Sparse Oblivious Subspace Embeddings},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {251-260},
+}
+
+@inproceedings{DBLP:conf/pods/Martens22,
+  author    = {Wim Martens},
+  title     = {Towards Theory for {Real-World} Data},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {261-276},
+}
+
+@inproceedings{DBLP:conf/pods/LutzP22,
+  author    = {Carsten Lutz and
+               Marcin Przybylko},
+  title     = {Efficiently Enumerating Answers to {Ontology-Mediated} Queries},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {277-289},
+}
+
+@inproceedings{DBLP:conf/pods/AmarilliJMR22,
+  author    = {Antoine Amarilli and
+               Louis Jachiet and
+               Martin Muñoz and
+               Cristian Riveros},
+  title     = {Efficient Enumeration for Annotated Grammars},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {291-300},
+}
+
+@inproceedings{DBLP:conf/pods/KobayashiKW22,
+  author    = {Yasuaki Kobayashi and
+               Kazuhiro Kurita and
+               Kunihiro Wasa},
+  title     = {{Linear-Delay} Enumeration for Minimal Steiner Problems},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {301-313},
+}
+
+@inproceedings{DBLP:conf/pods/FockeGRZ22,
+  author    = {Jacob Focke and
+               Leslie Ann Goldberg and
+               Marc Roth and
+               Stanislav Zivný},
+  title     = {Approximately Counting Answers to Conjunctive Queries with Disequalities and Negations},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {315-324},
+}
+
+@inproceedings{DBLP:conf/pods/GottlobLOP22,
+  author    = {Georg Gottlob and
+               Matthias Lanzinger and
+               Cem Okulmus and
+               Reinhard Pichler},
+  title     = {Fast Parallel Hypertree Decompositions in Logarithmic Recursion Depth},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {325-336},
+}
+
+@inproceedings{DBLP:conf/pods/BergeremGR22,
+  author    = {Steffen van Bergerem and
+               Martin Grohe and
+               Martin Ritzert},
+  title     = {On the Parameterized Complexity of Learning {First-Order} Logic},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {337-346},
+}
+
+@inproceedings{DBLP:conf/pods/KwiecienMO22,
+  author    = {Jaroslaw Kwiecien and
+               Jerzy Marcinkowski and
+               Piotr Ostropolski-Nalewaja},
+  title     = {Determinacy of Real Conjunctive Queries. The Boolean Case},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {347-358},
+}
+
+@inproceedings{DBLP:conf/pods/Ostropolski-Nalewaja22,
+  author    = {Piotr Ostropolski-Nalewaja and
+               Jerzy Marcinkowski and
+               David Carral and
+               Sebastian Rudolph},
+  title     = {A Journey to the Frontiers of Query Rewritability},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {359-367},
+}
+
+@inproceedings{DBLP:conf/pods/CalauttiGP22,
+  author    = {Marco Calautti and
+               Georg Gottlob and
+               Andreas Pieris},
+  title     = {{Non-Uniformly} Terminating Chase: Size and Complexity},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {369-378},
+}
+
+@inproceedings{DBLP:conf/pods/BienvenuCG22,
+  author    = {Meghyn Bienvenu and
+               Gianluca Cima and
+               Víctor Gutiérrez-Basulto},
+  title     = {LACE: A Logical Approach to Collective Entity Resolution},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {379-391},
+}
+
+@inproceedings{DBLP:conf/pods/CalauttiLPS22,
+  author    = {Marco Calautti and
+               Ester Livshits and
+               Andreas Pieris and
+               Markus Schneider},
+  title     = {Uniform Operational Consistent Query Answering},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {393-402},
+}
+
+@inproceedings{DBLP:conf/pods/CalauttiLPS22a,
+  author    = {Marco Calautti and
+               Ester Livshits and
+               Andreas Pieris and
+               Markus Schneider},
+  title     = {Counting Database Repairs Entailing a Query: The Case of Functional Dependencies},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {403-412},
+}
+
+@inproceedings{DBLP:conf/pods/Fichtenberger022,
+  author    = {Hendrik Fichtenberger and
+               Pan Peng},
+  title     = {Approximately Counting Subgraphs in Data Streams},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {413-425},
+}
+
+@inproceedings{DBLP:conf/pods/BringmannCM22,
+  author    = {Karl Bringmann and
+               Nofar Carmeli and
+               Stefan Mengel},
+  title     = {Tight {Fine-Grained} Bounds for Direct Access on Join Queries},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {427-436},
+}
+
+@inproceedings{DBLP:conf/pods/HannulaW22,
+  author    = {Miika Hannula and
+               Jef Wijsen},
+  title     = {A Dichotomy in Consistent Query Answering for Primary Keys and Unary Foreign Keys},
+  booktitle = pods,
+  year      = 2022,
+  pages     = {437-449},
+}
+
 @inproceedings{DBLP:conf/pods/AlurHIKMNSTX21,
   author    = {Rajeev Alur and
                Phillip Hilliard and
@@ -225,7 +604,7 @@
 @inproceedings{DBLP:conf/pods/PavanVBM21,
   author    = {Aduri Pavan and
                N. V. Vinodchandran and
-               Arnab Bhattacharya and
+               Arnab Bhattacharyya and
                Kuldeep S. Meel},
   title     = {Model Counting meets F0 Estimation},
   booktitle = pods,
@@ -5998,7 +6377,7 @@
 }
 
 @inproceedings{DBLP:conf/pods/GutierrezHM04,
-  author    = {Claudio Gutiérrez and
+  author    = {Claudio Gutierrez and
                Carlos A. Hurtado and
                Alberto O. Mendelzon},
   title     = {Foundations of Semantic Web Databases},
@@ -12211,7 +12590,7 @@
 
 @inproceedings{DBLP:conf/pods/AbiteboulSS83,
   author    = {Serge Abiteboul and
-               M. Spyratos and
+               Michael Spyratos and
                Nicolas Spyratos},
   title     = {Information Theoretic Aspects of Data Bases},
   booktitle = pods,
@@ -12375,7 +12754,7 @@
 
 @inproceedings{DBLP:conf/pods/FischerM82,
   author    = {Michael J. Fischer and
-               A. Michael},
+               Alan Michael},
   title     = {Sacrificing Serializability to Attain High Availability of Data},
   booktitle = pods,
   year      = 1982,

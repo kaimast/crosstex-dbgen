@@ -1,5 +1,3274 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/uss/AgarwalRG22,
+  author    = {Sharad Agarwal and
+               Awais Rashid and
+               Joseph Gardiner},
+  title     = {Old {MacDonald} had a smart farm: Building a testbed to study cybersecurity in smart dairy farming},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1-9},
+}
+
+@inproceedings{DBLP:conf/uss/LeeAMRKC22,
+  author    = {Hyeonmin Lee and
+               Md. Ishtiaq Ashiq and
+               Moritz Müller and
+               Roland van Rijswijk-Deij and
+               Ted Taekyoung Kwon and
+               Taejoong Chung},
+  title     = {Under the Hood of {DANE} Mismanagement in {SMTP}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/uss/StrohmeierTGL22,
+  author    = {Martin Strohmeier and
+               Giorgio Tresoldi and
+               Leeloo Granger and
+               Vincent Lenders},
+  title     = {Building an Avionics Laboratory for Cybersecurity Testing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {10-18},
+}
+
+@inproceedings{DBLP:conf/uss/ChenTYZ0LT022,
+  author    = {Yi Chen and
+               Di Tang and
+               Yepeng Yao and
+               Mingming Zha and
+               XiaoFeng Wang and
+               Xiaozhong Liu and
+               Haixu Tang and
+               Dongfang Zhao},
+  title     = {Seeing the Forest for the Trees: Understanding Security Hazards in the 3{GPP} Ecosystem through Intelligent Analysis on Change Requests},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {17-34},
+}
+
+@inproceedings{DBLP:conf/uss/WenPY22,
+  author    = {Zhixin Wen and
+               Harsh Sanjay Pacherkar and
+               Guanhua Yan},
+  title     = {VET5G: A Virtual {End-to-End} Testbed for 5G Network Security Experimentation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {19-29},
+}
+
+@inproceedings{DBLP:conf/uss/Petullo22,
+  author    = {W. Michael Petullo},
+  title     = {Courses as Code: The Aquinas Learning System},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {30-38},
+}
+
+@inproceedings{DBLP:conf/uss/Liu0W022,
+  author    = {Guannan Liu and
+               Xing Gao and
+               Haining Wang and
+               Kun Sun},
+  title     = {Exploring the Unchartered Space of Container Registry Typosquatting},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {35-51},
+}
+
+@inproceedings{DBLP:conf/uss/KarapoolaSRV22,
+  author    = {Sareena Karapoola and
+               Nikhilesh Singh and
+               Chester Rebeiro and
+               Kamakoti Veezhinathan},
+  title     = {JUGAAD: Comprehensive Malware {Behavior-as-a-Service}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {39-48},
+}
+
+@inproceedings{DBLP:conf/uss/ZemanekHW0HS22,
+  author    = {Sven Zemanek and
+               Immanuel Hacker and
+               Konrad Wolsing and
+               Eric Wagner and
+               Martin Henze and
+               Martin Serror},
+  title     = {PowerDuck: A {GOOSE} Data Set of Cyberattacks in Substations},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {49-53},
+}
+
+@inproceedings{DBLP:conf/uss/KondrackiSN22,
+  author    = {Brian Kondracki and
+               Johnny So and
+               Nick Nikiforakis},
+  title     = {Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {53-70},
+}
+
+@inproceedings{DBLP:conf/uss/ChoiSLYM22,
+  author    = {Seungoh Choi and
+               Hyeok-Ki Shin and
+               Woomyo Lee and
+               Jeong-Han Yun and
+               Byung-Gil Min},
+  title     = {Dataflow-based Control Process Identification for {ICS} Dataset Development},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {54-58},
+}
+
+@inproceedings{DBLP:conf/uss/ArdiAKDHTS22,
+  author    = {Calvin Ardi and
+               Connor Aubry and
+               Brian Kocoloski and
+               Dave DeAngelis and
+               Alefiya Hussain and
+               Matthew Troglia and
+               Stephen Schwab},
+  title     = {The {DARPA} {SEARCHLIGHT} Dataset of Application Network Traffic},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {59-64},
+}
+
+@inproceedings{DBLP:conf/uss/BalensonBEE0MT22,
+  author    = {David Balenson and
+               Terry Benzel and
+               Eric Eide and
+               David Emmerich and
+               David Johnson and
+               Jelena Mirkovic and
+               Laura Tinnel},
+  title     = {Toward Findable, Accessible, Interoperable, and Reusable Cybersecurity Artifacts},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {65-70},
+}
+
+@inproceedings{DBLP:conf/uss/ThorpeSHCTRD22,
+  author    = {Jamie Thorpe and
+               Laura P. Swiler and
+               Seth Hanson and
+               Gerardo Cruz and
+               Thomas D. Tarman and
+               Trevor Rollins and
+               Bert J. Debusschere},
+  title     = {Verification of Cyber Emulation Experiments Through Virtual Machine and Host Metrics},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {71-80},
+}
+
+@inproceedings{DBLP:conf/uss/ZengCCXDSB22,
+  author    = {Kyle Zeng and
+               Yueqi Chen and
+               Haehyun Cho and
+               Xinyu Xing and
+               Adam Doupé and
+               Yan Shoshitaishvili and
+               Tiffany Bao},
+  title     = {Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {71-88},
+}
+
+@inproceedings{DBLP:conf/uss/FarhatDS22,
+  author    = {Amir Farhat and
+               Samuel DeLaughter and
+               Karen R. Sollins},
+  title     = {Measuring and Analyzing {DoS} Flooding Experiments},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {81-90},
+}
+
+@inproceedings{DBLP:conf/uss/YooPKKK22,
+  author    = {Sungbae Yoo and
+               Jinbum Park and
+               Seolheui Kim and
+               Yeji Kim and
+               Taesoo Kim},
+  title     = {{In-Kernel} {Control-Flow} Integrity on Commodity {OSes} using {ARM} Pointer Authentication},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {89-106},
+}
+
+@inproceedings{DBLP:conf/uss/DeLaughterS22,
+  author    = {Samuel DeLaughter and
+               Karen R. Sollins},
+  title     = {Context Matters: Accurately Measuring the Efficacy of {Denial-of-Service} Mitigations},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {91-99},
+}
+
+@inproceedings{DBLP:conf/uss/DeAngelisHKAS22,
+  author    = {David DeAngelis and
+               Alefiya Hussain and
+               Brian Kocoloski and
+               Calvin Ardi and
+               Stephen Schwab},
+  title     = {Generating Representative Video Teleconferencing Traffic},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {100-104},
+}
+
+@inproceedings{DBLP:conf/uss/PurushothamanTA22,
+  author    = {Jegan Purushothaman and
+               Ethan Thompson and
+               AbdelRahman Abdou},
+  title     = {Position Paper: Certificate Root Stores - An Area of Unity or Disparity?},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {105-110},
+}
+
+@inproceedings{DBLP:conf/uss/BhattacharyyaTP22,
+  author    = {Atri Bhattacharyya and
+               Uros Tesic and
+               Mathias Payer},
+  title     = {Midas: Systematic Kernel {TOCTTOU} Protection},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {107-124},
+}
+
+@inproceedings{DBLP:conf/uss/AgadaJF22,
+  author    = {Omoche Cheche Agada and
+               James H. Jones Jr. and
+               Kevin D. Fairbanks},
+  title     = {The Distributed Digital Body Farm: Enabling the Analysis of Deleted File Decay Patterns},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {111-119},
+}
+
+@inproceedings{DBLP:conf/uss/KochOCAEW22,
+  author    = {Luke Koch and
+               Sean Oesch and
+               Amul Chaulagain and
+               Mary Adkisson and
+               Samantha Erwin and
+               Brian Weber},
+  title     = {Toward the Detection of Polyglot Files},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {120-128},
+}
+
+@inproceedings{DBLP:conf/uss/LiuYCSQY22,
+  author    = {Jian Liu and
+               Lin Yi and
+               Weiteng Chen and
+               Chengyu Song and
+               Zhiyun Qian and
+               Qiuping Yi},
+  title     = {LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {125-142},
+}
+
+@inproceedings{DBLP:conf/uss/SchulteBF22,
+  author    = {Eric Schulte and
+               Michael D. Brown and
+               Vlad Folts},
+  title     = {A Broad Comparative Evaluation of x86-64 Binary Rewriters},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {129-144},
+}
+
+@inproceedings{DBLP:conf/uss/LiKHC22,
+  author    = {Song Li and
+               Mingqing Kang and
+               Jianwei Hou and
+               Yinzhi Cao},
+  title     = {Mining Node.js Vulnerabilities via Object Dependence Graph and Query},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {143-160},
+}
+
+@inproceedings{DBLP:conf/uss/LazarineZSSZ22,
+  author    = {Ben Lazarine and
+               Zhong Zhang and
+               Agrim Sachdeva and
+               Sagar Samtani and
+               Hongyi Zhu},
+  title     = {Exploring the Propagation of Vulnerabilities from {GitHub} Repositories Hosted by Major Technology Organizations},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {145-150},
+}
+
+@inproceedings{DBLP:conf/uss/KasturiFSCR0S22,
+  author    = {Ranjita Pai Kasturi and
+               Jonathan Fuller and
+               Yiting Sun and
+               Omar Chabklo and
+               Andres Rodriguez and
+               Jeman Park and
+               Brendan Saltaformaggio},
+  title     = {Mistrust Plugins You Must: A {Large-Scale} Study Of Malicious Plugins In {WordPress} Marketplaces},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {161-178},
+}
+
+@inproceedings{DBLP:conf/uss/MirheidariGOKC22,
+  author    = {Seyed Ali Mirheidari and
+               Matteo Golinelli and
+               Kaan Onarlioglu and
+               Engin Kirda and
+               Bruno Crispo},
+  title     = {Web Cache Deception Escalates!},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {179-196},
+}
+
+@inproceedings{DBLP:conf/uss/ParkKJS22,
+  author    = {Sunnyeo Park and
+               Daejun Kim and
+               Suman Jana and
+               Sooel Son},
+  title     = {FUGIO: Automatic Exploit Generation for {PHP} Object Injection Vulnerabilities},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {197-214},
+}
+
+@inproceedings{DBLP:conf/uss/MaehrenNHMSS22,
+  author    = {Marcel Maehren and
+               Philipp Nieting and
+               Sven Hebrok and
+               Robert Merget and
+               Juraj Somorovsky and
+               Jörg Schwenk},
+  title     = {TLS-Anvil: Adapting Combinatorial Testing for {TLS} Libraries},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {215-232},
+}
+
+@inproceedings{DBLP:conf/uss/SullivanSHW22,
+  author    = {George Arnold Sullivan and
+               Jackson Sippe and
+               Nadia Heninger and
+               Eric Wustrow},
+  title     = {Open to a fault: On the passive compromise of {TLS} keys via transient errors},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {233-250},
+}
+
+@inproceedings{DBLP:conf/uss/ShakevskyRW22,
+  author    = {Alon Shakevsky and
+               Eyal Ronen and
+               Avishai Wool},
+  title     = {Trust Dies in Darkness: Shedding Light on Samsung's {TrustZone} Keymaster Design},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {251-268},
+}
+
+@inproceedings{DBLP:conf/uss/AlbrechtEP22,
+  author    = {Martin R. Albrecht and
+               Raphael Eikenberg and
+               Kenneth G. Paterson},
+  title     = {Breaking Bridgefy, again: Adopting libsignal is not enough},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {269-286},
+}
+
+@inproceedings{DBLP:conf/uss/CoopamootooMT22,
+  author    = {Kovila P. L. Coopamootoo and
+               Maryam Mehrnezhad and
+               Ehsan Toreini},
+  title     = {"I feel invaded, annoyed, anxious and I may protect myself": Individuals' Feelings about Online Tracking and their Protective Behaviour across Gender and Country},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {287-304},
+}
+
+@inproceedings{DBLP:conf/uss/GeengHRR22,
+  author    = {Christine Geeng and
+               Mike Harris and
+               Elissa M. Redmiles and
+               Franziska Roesner},
+  title     = {"Like Lesbians Walking the Perimeter": Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {305-322},
+}
+
+@inproceedings{DBLP:conf/uss/SlupskaCBAPB22,
+  author    = {Julia Slupska and
+               Selina Cho and
+               Marissa Begonia and
+               Ruba Abu-Salma and
+               Nayanatara Prakash and
+               Mallika Balakrishnan},
+  title     = {"They Look at Vulnerability and Use That to Abuse You": Participatory Threat Modelling with Migrant Domestic Workers},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {323-340},
+}
+
+@inproceedings{DBLP:conf/uss/SlupskaS22,
+  author    = {Julia Slupska and
+               Angelika Strohmayer},
+  title     = {Networks of Care: Tech Abuse Advocates' Digital Security Practices},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {341-358},
+}
+
+@inproceedings{DBLP:conf/uss/AlexopoulosBWGM22,
+  author    = {Nikolaos Alexopoulos and
+               Manuel Brack and
+               Jan Philipp Wagner and
+               Tim Grube and
+               Max Mühlhäuser},
+  title     = {How Long Do Vulnerabilities Live in the Code? A {Large-Scale} Empirical Measurement Study on {FOSS} Vulnerability Lifetimes},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {359-376},
+}
+
+@inproceedings{DBLP:conf/uss/SuciuNLBD22,
+  author    = {Octavian Suciu and
+               Connor Nelson and
+               Zhuoer Lyu and
+               Tiffany Bao and
+               Tudor Dumitras},
+  title     = {Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {377-394},
+}
+
+@inproceedings{DBLP:conf/uss/WuXLL22,
+  author    = {Qiushi Wu and
+               Yue Xiao and
+               Xiaojing Liao and
+               Kangjie Lu},
+  title     = {{OS-Aware} Vulnerability Prioritization via Differential Severity Analysis},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {395-412},
+}
+
+@inproceedings{DBLP:conf/uss/VadayathEZWMFBD22,
+  author    = {Jayakrishna Vadayath and
+               Moritz Eckert and
+               Kyle Zeng and
+               Nicolaas Weideman and
+               Gokulkrishna Praveen Menon and
+               Yanick Fratantonio and
+               Davide Balzarotti and
+               Adam Doupé and
+               Tiffany Bao and
+               Ruoyu Wang and
+               Christophe Hauser and
+               Yan Shoshitaishvili},
+  title     = {Arbiter: Bridging the Static and Dynamic Divide in Vulnerability Discovery on Binary Programs},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {413-430},
+}
+
+@inproceedings{DBLP:conf/uss/HiesgenNKDSW22,
+  author    = {Raphael Hiesgen and
+               Marcin Nawrocki and
+               Alistair King and
+               Alberto Dainotti and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {431-448},
+}
+
+@inproceedings{DBLP:conf/uss/BhaskarP22,
+  author    = {Abhishek Bhaskar and
+               Paul Pearce},
+  title     = {Many Roads Lead To Rome: How Packet Headers Influence {DNS} Censorship Measurement},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {449-464},
+}
+
+@inproceedings{DBLP:conf/uss/Harrity0SL22,
+  author    = {Michael Harrity and
+               Kevin Bock and
+               Frederick Sell and
+               Dave Levin},
+  title     = {{GET} /out: Automated Discovery of {Application-Layer} Censorship Evasion Strategies},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {465-483},
+}
+
+@inproceedings{DBLP:conf/uss/XueRJ0HCE22,
+  author    = {Diwen Xue and
+               Reethika Ramesh and
+               Arham Jain and
+               Michalis Kallitsis and
+               J. Alex Halderman and
+               Jedidiah R. Crandall and
+               Roya Ensafi},
+  title     = {{OpenVPN} is Open to {VPN} Fingerprinting},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {483-500},
+}
+
+@inproceedings{DBLP:conf/uss/GadottiHAM22,
+  author    = {Andrea Gadotti and
+               Florimond Houssiau and
+               Meenatchi Sundaram Muthu Selva Annamalai and
+               Yves-Alexandre de Montjoye},
+  title     = {Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {501-518},
+}
+
+@inproceedings{DBLP:conf/uss/WuCJG22,
+  author    = {Yongji Wu and
+               Xiaoyu Cao and
+               Jinyuan Jia and
+               Neil Zhenqiang Gong},
+  title     = {Poisoning Attacks to Local Differential Privacy Protocols for {Key-Value} Data},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {519-536},
+}
+
+@inproceedings{DBLP:conf/uss/ImolaMC22,
+  author    = {Jacob Imola and
+               Takao Murakami and
+               Kamalika Chaudhuri},
+  title     = {{Communication-Efficient} Triangle Counting under Local Differential Privacy},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {537-554},
+}
+
+@inproceedings{DBLP:conf/uss/DotanTZG22,
+  author    = {Maya Dotan and
+               Saar Tochner and
+               Aviv Zohar and
+               Yossi Gilad},
+  title     = {Twilight: A Differentially Private Payment Channel Network},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {555-570},
+}
+
+@inproceedings{DBLP:conf/uss/BurgessGFC22,
+  author    = {Ben Burgess and
+               Avi Ginsberg and
+               Edward W. Felten and
+               Shaanan Cohney},
+  title     = {Watching the watchers: bias and vulnerability in remote proctoring software},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {571-588},
+}
+
+@inproceedings{DBLP:conf/uss/Halderman22,
+  author    = {J. Alex Halderman},
+  title     = {The Antrim County 2020 Election Incident: An Independent Forensic Investigation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {589-605},
+}
+
+@inproceedings{DBLP:conf/uss/PochatEGJML22,
+  author    = {Victor Le Pochat and
+               Laura Edelson and
+               Tom van Goethem and
+               Wouter Joosen and
+               Damon McCoy and
+               Tobias Lauinger},
+  title     = {An Audit of Facebook's Political Ad Policy Enforcement},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {607-624},
+}
+
+@inproceedings{DBLP:conf/uss/XieTZLLD022,
+  author    = {Qinge Xie and
+               Shujun Tang and
+               Xiaofeng Zheng and
+               Qingran Lin and
+               Baojun Liu and
+               Haixin Duan and
+               Frank Li},
+  title     = {Building an Open, Robust, and Stable {Voting-Based} Domain Top List},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {625-642},
+}
+
+@inproceedings{DBLP:conf/uss/LippG022,
+  author    = {Moritz Lipp and
+               Daniel Gruss and
+               Michael Schwarz},
+  title     = {{AMD} Prefetch Attacks through Power and Time},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {643-660},
+}
+
+@inproceedings{DBLP:conf/uss/HanCATZ22,
+  author    = {Yi Han and
+               Matthew Chan and
+               Zahra Aref and
+               Nils Ole Tippenhauer and
+               Saman A. Zonouz},
+  title     = {Hiding in Plain Sight? On the Efficacy of Power Side {Channel-Based} Control Flow Monitoring},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {661-678},
+}
+
+@inproceedings{DBLP:conf/uss/WangPHSFK22,
+  author    = {Yingchen Wang and
+               Riccardo Paccagnella and
+               Elizabeth Tang He and
+               Hovav Shacham and
+               Christopher W. Fletcher and
+               David Kohlbrenner},
+  title     = {Hertzbleed: Turning Power {Side-Channel} Attacks Into Remote Timing Attacks on x86},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {679-697},
+}
+
+@inproceedings{DBLP:conf/uss/Zhao0FT22,
+  author    = {Zirui Neil Zhao and
+               Adam Morrison and
+               Christopher W. Fletcher and
+               Josep Torrellas},
+  title     = {Binoculars: {Contention-Based} {Side-Channel} Attacks Exploiting the Page Walker},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {699-716},
+}
+
+@inproceedings{DBLP:conf/uss/SolomosIKNP22,
+  author    = {Konstantinos Solomos and
+               Panagiotis Ilia and
+               Soroush Karami and
+               Nick Nikiforakis and
+               Jason Polakis},
+  title     = {The Dangers of Human Touch: Fingerprinting Browser Extensions through User Actions},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {717-733},
+}
+
+@inproceedings{DBLP:conf/uss/KaramiKZMTISDP22,
+  author    = {Soroush Karami and
+               Faezeh Kalantari and
+               Mehrnoosh Zaeifi and
+               Xavier J. Maso and
+               Erik Trickel and
+               Panagiotis Ilia and
+               Yan Shoshitaishvili and
+               Adam Doupé and
+               Jason Polakis},
+  title     = {Unleash the Simulacrum: Shifting Browser Realities for Robust {Extension-Fingerprinting} Prevention},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {735-752},
+}
+
+@inproceedings{DBLP:conf/uss/CherubinJT22,
+  author    = {Giovanni Cherubin and
+               Rob Jansen and
+               Carmela Troncoso},
+  title     = {Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {753-770},
+}
+
+@inproceedings{DBLP:conf/uss/SmithDMP22,
+  author    = {Jean-Pierre Smith and
+               Luca Dolfi and
+               Prateek Mittal and
+               Adrian Perrig},
+  title     = {QCSD: A {QUIC} {Client-Side} {Website-Fingerprinting} Defence Framework},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {771-789},
+}
+
+@inproceedings{DBLP:conf/uss/KelkarL0S22,
+  author    = {Mahimna Kelkar and
+               Phi Hung Le and
+               Mariana Raykova and
+               Karn Seth},
+  title     = {Secure Poisson Regression},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {791-808},
+}
+
+@inproceedings{DBLP:conf/uss/HuangLHD22,
+  author    = {Zhicong Huang and
+               Wen-jie Lu and
+               Cheng Hong and
+               Jiansheng Ding},
+  title     = {Cheetah: Lean and Fast Secure {Two-Party} Deep Neural Network Inference},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {809-826},
+}
+
+@inproceedings{DBLP:conf/uss/WatsonWP22,
+  author    = {Jean-Luc Watson and
+               Sameer Wagh and
+               Raluca Ada Popa},
+  title     = {Piranha: A {GPU} Platform for Secure Computation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {827-844},
+}
+
+@inproceedings{DBLP:conf/uss/BernsteinBCT22,
+  author    = {Daniel J. Bernstein and
+               Billy Bob Brumley and
+               Ming-Shing Chen and
+               Nicola Tuveri},
+  title     = {OpenSSLNTRU: Faster post-quantum {TLS} key exchange},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {845-862},
+}
+
+@inproceedings{DBLP:conf/uss/LiuJTLX22,
+  author    = {Yijing Liu and
+               Yan Jia and
+               Qingyin Tan and
+               Zheli Liu and
+               Luyi Xing},
+  title     = {How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {863-880},
+}
+
+@inproceedings{DBLP:conf/uss/Moju-IgbeneALD22,
+  author    = {Eyitemi Moju-Igbene and
+               Hanan Abdi and
+               Alan Lu and
+               Sauvik Das},
+  title     = {"How Do You Not Lose Friends?": Synthesizing a Design Space of Social Controls for Securing Shared Digital Resources Via Participatory Design Jams},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {881-898},
+}
+
+@inproceedings{DBLP:conf/uss/KacsmarTMK22,
+  author    = {Bailey Kacsmar and
+               Kyle Tilbury and
+               Miti Mazmudar and
+               Florian Kerschbaum},
+  title     = {Caring about Sharing: User Perceptions of Multiparty Data Sharing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {899-916},
+}
+
+@inproceedings{DBLP:conf/uss/KoushkiHRB22,
+  author    = {Masoud Mehrabi Koushki and
+               Yue Huang and
+               Julia Rubin and
+               Konstantin Beznosov},
+  title     = {Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User {Access-Control} Solutions on Smartphones},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {917-935},
+}
+
+@inproceedings{DBLP:conf/uss/SchrammelWSM22,
+  author    = {David Schrammel and
+               Samuel Weiser and
+               Richard Sadek and
+               Stefan Mangard},
+  title     = {Jenny: Securing Syscalls for {PKU-based} Memory Isolation Systems},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {936-952},
+}
+
+@inproceedings{DBLP:conf/uss/DayanikliSMGFM22,
+  author    = {Gökçen Yilmaz Dayanikli and
+               Sourav Sinha and
+               Devaprakash Muniraj and
+               Ryan M. Gerdes and
+               Mazen Farhood and
+               Mani Mina},
+  title     = {{Physical-Layer} Attacks Against Pulse Width {Modulation-Controlled} Actuators},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {953-970},
+}
+
+@inproceedings{DBLP:conf/uss/BarberisFMBG22,
+  author    = {Enrico Barberis and
+               Pietro Frigo and
+               Marius Muench and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {Branch History Injection: On the Effectiveness of Hardware Mitigations Against {Cross-Privilege} Spectre-v2 Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {971-988},
+}
+
+@inproceedings{DBLP:conf/uss/TatarTGB22,
+  author    = {Andrei Tatar and
+               Daniël Trujillo and
+               Cristiano Giuffrida and
+               Herbert Bos},
+  title     = {TLB;DR: Enhancing {TLB-based} Attacks with {TLB} Desynchronized Reverse Engineering},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {989-1007},
+}
+
+@inproceedings{DBLP:conf/uss/KimKHSLL22,
+  author    = {Sunwoo Kim and
+               Young Min Kim and
+               Jaewon Hur and
+               Suhwan Song and
+               Gwangmu Lee and
+               Byoungyoung Lee},
+  title     = {FuzzOrigin: Detecting {UXSS} vulnerabilities in Browsers through Origin Fuzzing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1008-1023},
+}
+
+@inproceedings{DBLP:conf/uss/GarbeliniB0SK22,
+  author    = {Matheus E. Garbelini and
+               Vaibhav Bedi and
+               Sudipta Chattopadhyay and
+               Sumei Sun and
+               Ernest Kurniawan},
+  title     = {BrakTooth: Causing Havoc on Bluetooth Link Manager via Directed Fuzzing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1025-1042},
+}
+
+@inproceedings{DBLP:conf/uss/KruppGR22,
+  author    = {Johannes Krupp and
+               Ilya Grishchenko and
+               Christian Rossow},
+  title     = {AmpFuzz: Fuzzing for Amplification {DDoS} Vulnerabilities},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1043-1060},
+}
+
+@inproceedings{DBLP:conf/uss/JabiyevSGIOK22,
+  author    = {Bahruz Jabiyev and
+               Steven Sprecher and
+               Anthony Gavazzi and
+               Tommaso Innocenti and
+               Kaan Onarlioglu and
+               Engin Kirda},
+  title     = {FRAMESHIFTER: Security Implications of HTTP/2-to-HTTP/1 Conversion Anomalies},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1061-1075},
+}
+
+@inproceedings{DBLP:conf/uss/MengLPDBSZ022,
+  author    = {Yan Meng and
+               Jiachun Li and
+               Matthew Pillari and
+               Arjun Deopujari and
+               Liam Brennan and
+               Hafsah Shamsie and
+               Haojin Zhu and
+               Yuan Tian},
+  title     = {Your Microphone Array Retains Your Identity: A Robust Voice Liveness Detection System for Smart Speakers},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1077-1094},
+}
+
+@inproceedings{DBLP:conf/uss/SharmaSRS22,
+  author    = {Rahul Anand Sharma and
+               Elahe Soltanaghaei and
+               Anthony Rowe and
+               Vyas Sekar},
+  title     = {Lumos: Identifying and Localizing Diverse Hidden {IoT} Devices in an Unfamiliar Environment},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1095-1112},
+}
+
+@inproceedings{DBLP:conf/uss/YoungL0HD22,
+  author    = {Jeffrey Young and
+               Song Liao and
+               Long Cheng and
+               Hongxin Hu and
+               Huixing Deng},
+  title     = {SkillDetective: Automated {Policy-Violation} Detection of Voice Assistant Applications in the Wild},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1113-1130},
+}
+
+@inproceedings{DBLP:conf/uss/He0LCX22,
+  author    = {Ruiwen He and
+               Xiaoyu Ji and
+               Xinfeng Li and
+               Yushi Cheng and
+               Wenyuan Xu},
+  title     = {"OK, Siri" or "Hey, Google": Evaluating Voiceprint Distinctiveness via Content-based {PROLE} Score},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1131-1148},
+}
+
+@inproceedings{DBLP:conf/uss/BouwmanPFGGMTJE22,
+  author    = {Xander Bouwman and
+               Victor Le Pochat and
+               Pawel Foremski and
+               Tom van Goethem and
+               Carlos Hernandez Gañán and
+               Giovane C. M. Moura and
+               Samaneh Tajalizadehkhoob and
+               Wouter Joosen and
+               Michel van Eeten},
+  title     = {Helping hands: Measuring the impact of a large threat intelligence sharing community},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1149-1165},
+}
+
+@inproceedings{DBLP:conf/uss/ShenVS22,
+  author    = {Yun Shen and
+               Pierre-Antoine Vervier and
+               Gianluca Stringhini},
+  title     = {A Large-scale Temporal Measurement of Android Malicious Apps: Persistence, Migration, and Lessons Learned},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1167-1184},
+}
+
+@inproceedings{DBLP:conf/uss/WangSGZZ0LZDLP22,
+  author    = {Chuhan Wang and
+               Kaiwen Shen and
+               Minglei Guo and
+               Yuxuan Zhao and
+               Mingming Zhang and
+               Jianjun Chen and
+               Baojun Liu and
+               Xiaofeng Zheng and
+               Haixin Duan and
+               Yanzhong Lin and
+               Qingfeng Pan},
+  title     = {A Large-scale and Longitudinal Measurement Study of {DKIM} Deployment},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1185-1201},
+}
+
+@inproceedings{DBLP:conf/uss/KumarVR0E22,
+  author    = {Renuka Kumar and
+               Apurva Virkud and
+               Ram Sundara Raman and
+               Atul Prakash and
+               Roya Ensafi},
+  title     = {A Large-scale Investigation into Geodifferences in Mobile Apps},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1203-1220},
+}
+
+@inproceedings{DBLP:conf/uss/BulekovDHE22,
+  author    = {Alexander Bulekov and
+               Bandan Das and
+               Stefan Hajnoczi and
+               Manuel Egele},
+  title     = {Morphuzz: Bending (Input) Space to Fuzz Virtual Devices},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1221-1238},
+}
+
+@inproceedings{DBLP:conf/uss/ScharnowskiBSGM22,
+  author    = {Tobias Scharnowski and
+               Nils Bars and
+               Moritz Schloegel and
+               Eric Gustafson and
+               Marius Muench and
+               Giovanni Vigna and
+               Christopher Kruegel and
+               Thorsten Holz and
+               Ali Abbasi},
+  title     = {Fuzzware: Using Precise {MMIO} Modeling for Effective Firmware Fuzzing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1239-1256},
+}
+
+@inproceedings{DBLP:conf/uss/MyungLL22,
+  author    = {Cheolwoo Myung and
+               Gwangmu Lee and
+               Byoungyoung Lee},
+  title     = {MundoFuzz: Hypervisor Fuzzing with Statistical Coverage Testing and Grammar Inference},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1257-1274},
+}
+
+@inproceedings{DBLP:conf/uss/ShenRD22,
+  author    = {Zekun Shen and
+               Ritik Roongta and
+               Brendan Dolan-Gavitt},
+  title     = {Drifuzz: Harvesting Bugs in Device Drivers from Golden Seeds},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1275-1290},
+}
+
+@inproceedings{DBLP:conf/uss/KotuliakELRC22,
+  author    = {Martin Kotuliak and
+               Simon Erni and
+               Patrick Leu and
+               Marc Röschlin and
+               Srdjan Capkun},
+  title     = {LTrack: Stealthy Tracking of Mobile Phones in {LTE}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1291-1306},
+}
+
+@inproceedings{DBLP:conf/uss/BaeSKPLSK22,
+  author    = {Sangwook Bae and
+               Mincheol Son and
+               Dongkwan Kim and
+               CheolJun Park and
+               Jiho Lee and
+               Sooel Son and
+               Yongdae Kim},
+  title     = {Watching the Watchers: Practical Video Identification Attack in {LTE} Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1307-1324},
+}
+
+@inproceedings{DBLP:conf/uss/ParkBOLLYK22,
+  author    = {CheolJun Park and
+               Sangwook Bae and
+               Beomseok Oh and
+               Jiho Lee and
+               Eunkyu Lee and
+               Insu Yun and
+               Yongdae Kim},
+  title     = {DoLTEst: In-depth Downlink Negative Testing Framework for {LTE} Devices},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1325-1342},
+}
+
+@inproceedings{DBLP:conf/uss/LeuCHRAHCC22,
+  author    = {Patrick Leu and
+               Giovanni Camurati and
+               Alexander Heinrich and
+               Marc Roeschlin and
+               Claudio Anliker and
+               Matthias Hollick and
+               Srdjan Capkun and
+               Jiska Classen},
+  title     = {Ghost Peak: Practical Distance Reduction Attacks Against {HRP} {UWB} Ranging},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1343-1359},
+}
+
+@inproceedings{DBLP:conf/uss/Chandran0OS22,
+  author    = {Nishanth Chandran and
+               Divya Gupta and
+               Sai Lakshmi Bhavana Obbattu and
+               Akash Shah},
+  title     = {SIMC: {ML} Inference Secure Against Malicious Clients at {Semi-Honest} Cost},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1361-1378},
+}
+
+@inproceedings{DBLP:conf/uss/StevensSVRCN22,
+  author    = {Timothy Stevens and
+               Christian Skalka and
+               Christelle Vincent and
+               John Ring and
+               Samuel Clark and
+               Joseph P. Near},
+  title     = {Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1379-1395},
+}
+
+@inproceedings{DBLP:conf/uss/Fu0JCWG0L022,
+  author    = {Chong Fu and
+               Xuhong Zhang and
+               Shouling Ji and
+               Jinyin Chen and
+               Jingzheng Wu and
+               Shanqing Guo and
+               Jun Zhou and
+               Alex X. Liu and
+               Ting Wang},
+  title     = {Label Inference Attacks Against Vertical Federated Learning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1397-1414},
+}
+
+@inproceedings{DBLP:conf/uss/NguyenRCYMFMMMZ22,
+  author    = {Thien Duc Nguyen and
+               Phillip Rieger and
+               Huili Chen and
+               Hossein Yalame and
+               Helen Möllering and
+               Hossein Fereidooni and
+               Samuel Marchal and
+               Markus Miettinen and
+               Azalia Mirhoseini and
+               Shaza Zeitouni and
+               Farinaz Koushanfar and
+               Ahmad-Reza Sadeghi and
+               Thomas Schneider},
+  title     = {FLAME: Taming Backdoors in Federated Learning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1415-1432},
+}
+
+@inproceedings{DBLP:conf/uss/TangMSSNHM22,
+  author    = {Xinyu Tang and
+               Saeed Mahloujifar and
+               Liwei Song and
+               Virat Shejwalkar and
+               Milad Nasr and
+               Amir Houmansadr and
+               Prateek Mittal},
+  title     = {Mitigating Membership Inference Attacks by {Self-Distillation} Through a Novel Ensemble Architecture},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1433-1450},
+}
+
+@inproceedings{DBLP:conf/uss/StadlerOT22,
+  author    = {Theresa Stadler and
+               Bristena Oprisanu and
+               Carmela Troncoso},
+  title     = {Synthetic Data - Anonymisation Groundhog Day},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1451-1468},
+}
+
+@inproceedings{DBLP:conf/uss/Cohen22,
+  author    = {Aloni Cohen},
+  title     = {Attacks on Deidentification's Defenses},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1469-1486},
+}
+
+@inproceedings{DBLP:conf/uss/0004HLWJ022,
+  author    = {Xiaojie Guo and
+               Ye Han and
+               Zheli Liu and
+               Ding Wang and
+               Yan Jia and
+               Jin Li},
+  title     = {Birds of a Feather Flock Together: How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1487-1504},
+}
+
+@inproceedings{DBLP:conf/uss/ZaheriOC22,
+  author    = {Mojtaba Zaheri and
+               Yossi Oren and
+               Reza Curtmola},
+  title     = {Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1505-1523},
+}
+
+@inproceedings{DBLP:conf/uss/GorskiTEC22,
+  author    = {Sigmund Albert Gorski III and
+               Seaver Thorn and
+               William Enck and
+               Haining Chen},
+  title     = {FReD: Identifying File {Re-Delegation} in Android System Services},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1525-1542},
+}
+
+@inproceedings{DBLP:conf/uss/WangMY0SX22,
+  author    = {Kai Wang and
+               Richard Mitev and
+               Chen Yan and
+               Xiaoyu Ji and
+               Ahmad-Reza Sadeghi and
+               Wenyuan Xu},
+  title     = {GhostTouch: Targeted Attacks on Touchscreens without Physical Touch},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1543-1559},
+}
+
+@inproceedings{DBLP:conf/uss/ImranFICB22,
+  author    = {Abdullah Imran and
+               Habiba Farrukh and
+               Muhammad Ibrahim and
+               Z. Berkay Celik and
+               Antonio Bianchi},
+  title     = {SARA: Secure Android Remote Authorization},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1561-1578},
+}
+
+@inproceedings{DBLP:conf/uss/LiZWL0ZM22,
+  author    = {Jianfeng Li and
+               Hao Zhou and
+               Shuohan Wu and
+               Xiapu Luo and
+               Ting Wang and
+               Xian Zhan and
+               Xiaobo Ma},
+  title     = {FOAP: {Fine-Grained} {Open-World} Android App Fingerprinting},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1579-1596},
+}
+
+@inproceedings{DBLP:conf/uss/0096ZLC0C0Y022,
+  author    = {Lei Zhang and
+               Zhibo Zhang and
+               Ancong Liu and
+               Yinzhi Cao and
+               Xiaohan Zhang and
+               Yanjun Chen and
+               Yuan Zhang and
+               Guangliang Yang and
+               Min Yang},
+  title     = {Identity Confusion in {WebView-based} Mobile App-in-app Ecosystems},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1597-1613},
+}
+
+@inproceedings{DBLP:conf/uss/Herley22,
+  author    = {Cormac Herley},
+  title     = {Automated Detection of Automated Traffic},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1615-1632},
+}
+
+@inproceedings{DBLP:conf/uss/Liu0YNDD22,
+  author    = {Ruofan Liu and
+               Yun Lin and
+               Xianglin Yang and
+               Siang Hwee Ng and
+               Dinil Mon Divakaran and
+               Jin Song Dong},
+  title     = {Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1633-1650},
+}
+
+@inproceedings{DBLP:conf/uss/LinISP22,
+  author    = {Xu Lin and
+               Panagiotis Ilia and
+               Saumya Solanki and
+               Jason Polakis},
+  title     = {Phish in Sheep's Clothing: Exploring the Authentication Pitfalls of Browser Fingerprinting},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1651-1668},
+}
+
+@inproceedings{DBLP:conf/uss/MinkLBF0022,
+  author    = {Jaron Mink and
+               Licheng Luo and
+               Natã M. Barbosa and
+               Olivia Figueira and
+               Yang Wang and
+               Gang Wang},
+  title     = {DeepPhish: Understanding User Trust Towards Artificially Generated Profiles in Online Social Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1669-1686},
+}
+
+@inproceedings{DBLP:conf/uss/CardaioliCCMPS22,
+  author    = {Matteo Cardaioli and
+               Stefano Cecconello and
+               Mauro Conti and
+               Simone Milani and
+               Stjepan Picek and
+               Eugen Saraci},
+  title     = {Hand Me Your PIN! Inferring {ATM} {PINs} of Users Typing with a Covered Hand},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1687-1704},
+}
+
+@inproceedings{DBLP:conf/uss/KulshresthaM22,
+  author    = {Anunay Kulshrestha and
+               Jonathan R. Mayer},
+  title     = {Estimating Incidental Collection in Foreign Intelligence Surveillance: {Large-Scale} Multiparty Private Set Intersection with Union and Sum},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1705-1722},
+}
+
+@inproceedings{DBLP:conf/uss/MahdaviK22,
+  author    = {Rasoul Akhavan Mahdavi and
+               Florian Kerschbaum},
+  title     = {Constant-weight PIR: Single-round Keyword {PIR} via Constant-weight Equality Operators},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1723-1740},
+}
+
+@inproceedings{DBLP:conf/uss/0001ZRA22,
+  author    = {Yiping Ma and
+               Ke Zhong and
+               Tal Rabin and
+               Sebastian Angel},
+  title     = {Incremental Offline/Online {PIR}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1741-1758},
+}
+
+@inproceedings{DBLP:conf/uss/0004HP022,
+  author    = {Daniel Günther and
+               Maurice Heymann and
+               Benny Pinkas and
+               Thomas Schneider},
+  title     = {{GPU-accelerated} {PIR} with {Client-Independent} Preprocessing for {Large-Scale} Applications},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1759-1776},
+}
+
+@inproceedings{DBLP:conf/uss/HuaNCNR22,
+  author    = {Yiqing Hua and
+               Armin Namavari and
+               Kaishuo Cheng and
+               Mor Naaman and
+               Thomas Ristenpart},
+  title     = {Increasing Adversarial Uncertainty to Scale Private Similarity Testing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1777-1794},
+}
+
+@inproceedings{DBLP:conf/uss/SudhodananP22,
+  author    = {Avinash Sudhodanan and
+               Andrew Paverd},
+  title     = {Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1795-1812},
+}
+
+@inproceedings{DBLP:conf/uss/SenolAHB22,
+  author    = {Asuman Senol and
+               Gunes Acar and
+               Mathias Humbert and
+               Frederik J. Zuiderveen Borgesius},
+  title     = {Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1813-1830},
+}
+
+@inproceedings{DBLP:conf/uss/PalIBSVWWR022,
+  author    = {Bijeeta Pal and
+               Mazharul Islam and
+               Marina Sanusi Bohuk and
+               Nick Sullivan and
+               Luke Valenta and
+               Tara Whalen and
+               Christopher A. Wood and
+               Thomas Ristenpart and
+               Rahul Chatterjee},
+  title     = {Might I Get Pwned: A Second Generation Compromised Credential Checking Service},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1831-1848},
+}
+
+@inproceedings{DBLP:conf/uss/MayerMMA22,
+  author    = {Peter Mayer and
+               Collins W. Munyendo and
+               Michelle L. Mazurek and
+               Adam J. Aviv},
+  title     = {Why Users (Don't) Use Password Managers at a Large Educational Institution},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1849-1866},
+}
+
+@inproceedings{DBLP:conf/uss/BohukIASR022,
+  author    = {Marina Sanusi Bohuk and
+               Mazharul Islam and
+               Suleman Ahmad and
+               Michael M. Swift and
+               Thomas Ristenpart and
+               Rahul Chatterjee},
+  title     = {Gossamer: Securely Measuring Password-based Logins},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1867-1884},
+}
+
+@inproceedings{DBLP:conf/uss/ZhouYSS22,
+  author    = {Ce Zhou and
+               Qiben Yan and
+               Yan Shi and
+               Lichao Sun},
+  title     = {DoubleStar: {Long-Range} Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1885-1902},
+}
+
+@inproceedings{DBLP:conf/uss/HallyburtonLCMP22,
+  author    = {R. Spencer Hallyburton and
+               Yupei Liu and
+               Yulong Cao and
+               Z. Morley Mao and
+               Miroslav Pajic},
+  title     = {Security Analysis of {Camera-LiDAR} Fusion Against {Black-Box} Attacks on Autonomous Vehicles},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1903-1920},
+}
+
+@inproceedings{DBLP:conf/uss/0001LLZLYLZG22,
+  author    = {Lei Xue and
+               Yangyang Liu and
+               Tianqi Li and
+               Kaifa Zhao and
+               Jianfeng Li and
+               Le Yu and
+               Xiapu Luo and
+               Yajin Zhou and
+               Guofei Gu},
+  title     = {SAID: State-aware Defense Against Injection Attacks on In-vehicle Network},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1921-1938},
+}
+
+@inproceedings{DBLP:conf/uss/YuLJL0ZZ0GNW22,
+  author    = {Le Yu and
+               Yangyang Liu and
+               Pengfei Jing and
+               Xiapu Luo and
+               Lei Xue and
+               Kaifa Zhao and
+               Yajin Zhou and
+               Ting Wang and
+               Guofei Gu and
+               Sen Nie and
+               Shi Wu},
+  title     = {Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1939-1956},
+}
+
+@inproceedings{DBLP:conf/uss/YanXY0X22,
+  author    = {Chen Yan and
+               Zhijian Xu and
+               Zhanyuan Yin and
+               Xiaoyu Ji and
+               Wenyuan Xu},
+  title     = {Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1957-1974},
+}
+
+@inproceedings{DBLP:conf/uss/BosamiyaLP22,
+  author    = {Jay Bosamiya and
+               Wen Shih Lim and
+               Bryan Parno},
+  title     = {{Provably-Safe} Multilingual Software Sandboxing using {WebAssembly}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1975-1992},
+}
+
+@inproceedings{DBLP:conf/uss/Shi0LMCWZH022,
+  author    = {Youkun Shi and
+               Yuan Zhang and
+               Tianhan Luo and
+               Xiangyu Mao and
+               Yinzhi Cao and
+               Ziwen Wang and
+               Yudi Zhao and
+               Zongan Huang and
+               Min Yang},
+  title     = {Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {1993-2010},
+}
+
+@inproceedings{DBLP:conf/uss/Chen0C0FF22,
+  author    = {Yunang Chen and
+               Yue Gao and
+               Nick Ceccio and
+               Rahul Chatterjee and
+               Kassem Fawaz and
+               Earlence Fernandes},
+  title     = {Experimental Security Analysis of the App Model in Business Collaboration Platforms},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2011-2028},
+}
+
+@inproceedings{DBLP:conf/uss/Chinprutthiwong22,
+  author    = {Phakpoom Chinprutthiwong and
+               Jianwei Huang and
+               Guofei Gu},
+  title     = {SWAPP: A New Programmable Playground for Web Application Security},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2029-2046},
+}
+
+@inproceedings{DBLP:conf/uss/RothCWRS22,
+  author    = {Sebastian Roth and
+               Stefano Calzavara and
+               Moritz Wilhelm and
+               Alvise Rabitti and
+               Ben Stock},
+  title     = {The Security Lottery: Measuring {Client-Side} Web Security Inconsistencies},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2047-2064},
+}
+
+@inproceedings{DBLP:conf/uss/0001MM22,
+  author    = {Chong Xiang and
+               Saeed Mahloujifar and
+               Prateek Mittal},
+  title     = {PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2065-2082},
+}
+
+@inproceedings{DBLP:conf/uss/VaishnaviER22,
+  author    = {Pratik Vaishnavi and
+               Kevin Eykholt and
+               Amir Rahmati},
+  title     = {Transferring Adversarial Robustness Through Robust Representation Matching},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2083-2098},
+}
+
+@inproceedings{DBLP:conf/uss/MarcelliGUFMB22,
+  author    = {Andrea Marcelli and
+               Mariano Graziano and
+               Xabier Ugarte-Pedrero and
+               Yanick Fratantonio and
+               Mohamad Mansouri and
+               Davide Balzarotti},
+  title     = {How Machine Learning Is Solving the Binary Function Similarity Problem},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2099-2116},
+}
+
+@inproceedings{DBLP:conf/uss/LiSWZ0Z22,
+  author    = {Huiying Li and
+               Shawn Shan and
+               Emily Wenger and
+               Jiayun Zhang and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {Blacklight: Scalable Defense for Neural Networks against {Query-Based} {Black-Box} Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2117-2134},
+}
+
+@inproceedings{DBLP:conf/uss/WuKTBX22,
+  author    = {Ruoyu Wu and
+               Taegyu Kim and
+               Dave (Jing) Tian and
+               Antonio Bianchi and
+               Dongyan Xu},
+  title     = {DnD: A {Cross-Architecture} Deep Neural Network Decompiler},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2135-2152},
+}
+
+@inproceedings{DBLP:conf/uss/CuevasMSCW22,
+  author    = {Alejandro Cuevas and
+               Fieke Miedema and
+               Kyle Soska and
+               Nicolas Christin and
+               Rolf van Wegberg},
+  title     = {Measurement by Proxy: On the Accuracy of Online Marketplace Measurements},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2153-2170},
+}
+
+@inproceedings{DBLP:conf/uss/ChuAOC22,
+  author    = {Andrew Chu and
+               Arjun Arunasalam and
+               Muslum Ozgur Ozmen and
+               Z. Berkay Celik},
+  title     = {Behind the Tube: Exploitative Monetization of Content on {YouTube}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2171-2188},
+}
+
+@inproceedings{DBLP:conf/uss/DambraSBB22,
+  author    = {Savino Dambra and
+               Iskander Sánchez-Rola and
+               Leyla Bilge and
+               Davide Balzarotti},
+  title     = {When Sally Met Trackers: Web Tracking From the Users' Perspective},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2189-2206},
+}
+
+@inproceedings{DBLP:conf/uss/KapposYSRHM22,
+  author    = {George Kappos and
+               Haaroon Yousaf and
+               Rainer Stütz and
+               Sofia Rollet and
+               Bernhard Haslhofer and
+               Sarah Meiklejohn},
+  title     = {How to Peel a Million: Validating and Expanding Bitcoin Clusters},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2207-2223},
+}
+
+@inproceedings{DBLP:conf/uss/HeZ0L0000022,
+  author    = {Yi He and
+               Zhenhua Zou and
+               Kun Sun and
+               Zhuotao Liu and
+               Ke Xu and
+               Qian Wang and
+               Chao Shen and
+               Zhi Wang and
+               Qi Li},
+  title     = {RapidPatch: Firmware Hotpatching for {Real-Time} Embedded Devices},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2225-2242},
+}
+
+@inproceedings{DBLP:conf/uss/AliajNT22,
+  author    = {Esmerald Aliaj and
+               Ivan De Oliveira Nunes and
+               Gene Tsudik},
+  title     = {GAROTA: Generalized Active {Root-Of-Trust} Architecture (for Tiny Embedded Devices)},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2243-2260},
+}
+
+@inproceedings{DBLP:conf/uss/CerdeiraM0022,
+  author    = {David Cerdeira and
+               José Martins and
+               Nuno Santos and
+               Sandro Pinto},
+  title     = {ReZone: Disarming {TrustZone} with {TEE} Privilege Reduction},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2261-2279},
+}
+
+@inproceedings{DBLP:conf/uss/DuSD0WC22,
+  author    = {Yufei Du and
+               Zhuojia Shen and
+               Komail Dharsee and
+               Jie Zhou and
+               Robert J. Walls and
+               John Criswell},
+  title     = {Holistic {Control-Flow} Protection on {Real-Time} Embedded Systems with Kage},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2281-2298},
+}
+
+@inproceedings{DBLP:conf/uss/TyagiLMR22,
+  author    = {Nirvan Tyagi and
+               Julia Len and
+               Ian Miers and
+               Thomas Ristenpart},
+  title     = {Orca: Blocklisting in {Sender-Anonymous} Messaging},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2299-2316},
+}
+
+@inproceedings{DBLP:conf/uss/Jain0M22,
+  author    = {Shubham Jain and
+               Ana-Maria Cretu and
+               Yves-Alexandre de Montjoye},
+  title     = {Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2317-2334},
+}
+
+@inproceedings{DBLP:conf/uss/IssaAV22,
+  author    = {Rawane Issa and
+               Nicolas Alhaddad and
+               Mayank Varia},
+  title     = {Hecate: Abuse Reporting in Secure Messengers with Sealed Sender},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2335-2352},
+}
+
+@inproceedings{DBLP:conf/uss/001800Y22,
+  author    = {Long Chen and
+               Ya-Nan Li and
+               Qiang Tang and
+               Moti Yung},
+  title     = {{End-to-Same-End} Encryption: Modularly Augmenting an App with an Efficient, Portable, and Blind Cloud Storage},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2353-2370},
+}
+
+@inproceedings{DBLP:conf/uss/0001C22,
+  author    = {Jiafan Wang and
+               Sherman S. M. Chow},
+  title     = {Omnes pro uno: Practical {Multi-Writer} Encrypted Database},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2371-2388},
+}
+
+@inproceedings{DBLP:conf/uss/HoangW022,
+  author    = {Viet Tung Hoang and
+               Cong Wu and
+               Xin Yuan},
+  title     = {Faster Yet Safer: Logging System Via {Fixed-Key} Blockcipher},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2389-2406},
+}
+
+@inproceedings{DBLP:conf/uss/OyaK22,
+  author    = {Simon Oya and
+               Florian Kerschbaum},
+  title     = {IHOP: Improved Statistical Query Recovery against Searchable Symmetric Encryption through Quadratic Optimization},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2407-2424},
+}
+
+@inproceedings{DBLP:conf/uss/Chamani0KD22,
+  author    = {Javad Ghareh Chamani and
+               Dimitrios Papadopoulos and
+               Mohammadamin Karbasforushan and
+               Ioannis Demertzis},
+  title     = {Dynamic Searchable Encryption with Optimal Search in the Presence of Deletions},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2425-2442},
+}
+
+@inproceedings{DBLP:conf/uss/DattaPI0E22,
+  author    = {Pubali Datta and
+               Isaac Polinsky and
+               Muhammad Adil Inam and
+               Adam Bates and
+               William Enck},
+  title     = {ALASTOR: Reconstructing the Provenance of Serverless Intrusions},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2443-2460},
+}
+
+@inproceedings{DBLP:conf/uss/Fang0LAJ0YLX22,
+  author    = {Pengcheng Fang and
+               Peng Gao and
+               Changlin Liu and
+               Erman Ayday and
+               Kangkook Jee and
+               Ting Wang and
+               Yanfang (Fanny) Ye and
+               Zhuotao Liu and
+               Xusheng Xiao},
+  title     = {{Back-Propagating} System Dependency Impact for Attack Investigation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2461-2478},
+}
+
+@inproceedings{DBLP:conf/uss/PangZYM022,
+  author    = {Chengbin Pang and
+               Tiantai Zhang and
+               Ruotong Yu and
+               Bing Mao and
+               Jun Xu},
+  title     = {Ground Truth for Binary Disassembly is Not Easy},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2479-2495},
+}
+
+@inproceedings{DBLP:conf/uss/He0S0L22,
+  author    = {Liang He and
+               Hong Hu and
+               Purui Su and
+               Yan Cai and
+               Zhenkai Liang},
+  title     = {FreeWill: Automatically Diagnosing Use-after-free Bugs via Reference Miscounting Detection on Binaries},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2497-2512},
+}
+
+@inproceedings{DBLP:conf/uss/Li0LC22,
+  author    = {Wen Li and
+               Jiang Ming and
+               Xiapu Luo and
+               Haipeng Cai},
+  title     = {PolyCruise: A {Cross-Language} Dynamic Information Flow Analysis},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2513-2530},
+}
+
+@inproceedings{DBLP:conf/uss/ChenHYZSLYS22,
+  author    = {Ju Chen and
+               Wookhyun Han and
+               Mingjun Yin and
+               Haochen Zeng and
+               Chengyu Song and
+               Byoungyoung Lee and
+               Heng Yin and
+               Insik Shin},
+  title     = {SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2531-2548},
+}
+
+@inproceedings{DBLP:conf/uss/SoltGR22,
+  author    = {Flavien Solt and
+               Ben Gras and
+               Kaveh Razavi},
+  title     = {CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in {RTL}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2549-2566},
+}
+
+@inproceedings{DBLP:conf/uss/JiZJLCSR22,
+  author    = {Kaihang Ji and
+               Jun Zeng and
+               Yuancheng Jiang and
+               Zhenkai Liang and
+               Zheng Leong Chua and
+               Prateek Saxena and
+               Abhik Roychoudhury},
+  title     = {FlowMatrix: {GPU-Assisted} {Information-Flow} Analysis through {Matrix-Based} Representation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2567-2584},
+}
+
+@inproceedings{DBLP:conf/uss/XingHQYLC22,
+  author    = {Jiarong Xing and
+               Kuo-Feng Hsu and
+               Yiming Qiu and
+               Ziyang Yang and
+               Hongyi Liu and
+               Ang Chen},
+  title     = {Bedrock: Programmable Network Support for Secure {RDMA} Systems},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2585-2600},
+}
+
+@inproceedings{DBLP:conf/uss/Birge-LeeWCK0WM22,
+  author    = {Henry Birge-Lee and
+               Joel Wanner and
+               Grace H. Cimaszewski and
+               Jonghoon Kwon and
+               Liang Wang and
+               François Wirz and
+               Prateek Mittal and
+               Adrian Perrig and
+               Yixin Sun},
+  title     = {Creating a Secure Underlay for the Internet},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2601-2618},
+}
+
+@inproceedings{DBLP:conf/uss/Feng00QZKF022,
+  author    = {Xuewei Feng and
+               Qi Li and
+               Kun Sun and
+               Zhiyun Qian and
+               Gang Zhao and
+               Xiaohui Kuang and
+               Chuanpu Fu and
+               Ke Xu},
+  title     = {{Off-Path} Network Traffic Manipulation via Revitalized {ICMP} Redirect Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2619-2636},
+}
+
+@inproceedings{DBLP:conf/uss/KohlsD22,
+  author    = {Katharina Kohls and
+               Claudia Díaz},
+  title     = {VerLoc: Verifiable Localization in Decentralized Systems},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2637-2654},
+}
+
+@inproceedings{DBLP:conf/uss/AhmedSPF22,
+  author    = {Shimaa Ahmed and
+               Ilia Shumailov and
+               Nicolas Papernot and
+               Kassem Fawaz},
+  title     = {Towards More Robust Keyword Spotting for Voice Assistants},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2655-2672},
+}
+
+@inproceedings{DBLP:conf/uss/LiWJ0XG022,
+  author    = {Changjiang Li and
+               Li Wang and
+               Shouling Ji and
+               Xuhong Zhang and
+               Zhaohan Xi and
+               Shanqing Guo and
+               Ting Wang},
+  title     = {Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2673-2690},
+}
+
+@inproceedings{DBLP:conf/uss/BlueWAGVOBT22,
+  author    = {Logan Blue and
+               Kevin Warren and
+               Hadi Abdullah and
+               Cassidy Gibson and
+               Luis Vargas and
+               Jessica O'Dell and
+               Kevin R. B. Butler and
+               Patrick Traynor},
+  title     = {Who Are You (I Really Wanna Know)? Detecting Audio {DeepFakes} Through Vocal Tract Reconstruction},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2691-2708},
+}
+
+@inproceedings{DBLP:conf/uss/YuQHY22,
+  author    = {Sheng Yu and
+               Yu Qu and
+               Xunchao Hu and
+               Heng Yin},
+  title     = {DeepDi: Learning a Relational Graph Convolutional Network Model on Instructions for Fast and Accurate Disassembly},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2709-2725},
+}
+
+@inproceedings{DBLP:conf/uss/MantovaniAFB22,
+  author    = {Alessandro Mantovani and
+               Simone Aonzo and
+               Yanick Fratantonio and
+               Davide Balzarotti},
+  title     = {RE-Mind: a First Look Inside the Mind of a Reverse Engineer},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2727-2745},
+}
+
+@inproceedings{DBLP:conf/uss/KoishybayevNZMR22,
+  author    = {Igibek Koishybayev and
+               Aleksandr Nahapetyan and
+               Raima Zachariah and
+               Siddharth Muralee and
+               Bradley Reaves and
+               Alexandros Kapravelos and
+               Aravind Machiry},
+  title     = {Characterizing the Security of Github {CI} Workflows},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2747-2763},
+}
+
+@inproceedings{DBLP:conf/uss/BurkPKV22,
+  author    = {Kevin Burk and
+               Fabio Pagani and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Decomperson: How Humans Decompile and What We Can Learn From It},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2765-2782},
+}
+
+@inproceedings{DBLP:conf/uss/AlAhmadiAM22,
+  author    = {Bushra A. AlAhmadi and
+               Louise Axon and
+               Ivan Martinovic},
+  title     = {99% False Positives: A Qualitative Study of {SOC} Analysts' Perspectives on Security Alarms},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2783-2800},
+}
+
+@inproceedings{DBLP:conf/uss/AldayaB22,
+  author    = {Alejandro Cabrera Aldaya and
+               Billy Bob Brumley},
+  title     = {HyperDegrade: From {GHz} to {MHz} Effective {CPU} Frequencies},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2801-2818},
+}
+
+@inproceedings{DBLP:conf/uss/MehtaAVBD022,
+  author    = {Aastha Mehta and
+               Mohamed Alzayat and
+               Roberta De Viti and
+               Björn B. Brandenburg and
+               Peter Druschel and
+               Deepak Garg},
+  title     = {Pacer: Comprehensive Network {Side-Channel} Mitigation in the Cloud},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2819-2838},
+}
+
+@inproceedings{DBLP:conf/uss/TownleyAL0E22,
+  author    = {Daniel Townley and
+               Kerem Arikan and
+               Yu David Liu and
+               Dmitry Ponomarev and
+               Oguz Ergin},
+  title     = {Composable Cachelets: Protecting Enclaves from Cache {Side-Channel} Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2839-2856},
+}
+
+@inproceedings{DBLP:conf/uss/DaiPGMY22,
+  author    = {Miles Dai and
+               Riccardo Paccagnella and
+               Miguel Gomez-Garcia and
+               John D. McCalpin and
+               Mengjia Yan},
+  title     = {Don't Mesh Around: {Side-Channel} Attacks and Mitigations on Mesh Interconnects},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2857-2874},
+}
+
+@inproceedings{DBLP:conf/uss/SibyIEST22,
+  author    = {Sandra Siby and
+               Umar Iqbal and
+               Steven Englehardt and
+               Zubair Shafiq and
+               Carmela Troncoso},
+  title     = {WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2875-2892},
+}
+
+@inproceedings{DBLP:conf/uss/BollingerKCB22,
+  author    = {Dino Bollinger and
+               Karel Kubícek and
+               Carlos Cotrini and
+               David A. Basin},
+  title     = {Automating Cookie Consent and {GDPR} Violation Detection},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2893-2910},
+}
+
+@inproceedings{DBLP:conf/uss/IqbalWNES22,
+  author    = {Umar Iqbal and
+               Charlie Wolfe and
+               Charles Nguyen and
+               Steven Englehardt and
+               Zubair Shafiq},
+  title     = {Khaleesi: Breaker of Advertising and Tracking Request Chains},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2911-2928},
+}
+
+@inproceedings{DBLP:conf/uss/ChenAS0F22,
+  author    = {Yunang Chen and
+               Mohannad Alhanahnah and
+               Andrei Sabelfeld and
+               Rahul Chatterjee and
+               Earlence Fernandes},
+  title     = {Practical Data Access Minimization in {Trigger-Action} Platforms},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2929-2945},
+}
+
+@inproceedings{DBLP:conf/uss/JiaSZDG22,
+  author    = {Yanxue Jia and
+               Shifeng Sun and
+               Hong-Sheng Zhou and
+               Jiajun Du and
+               Dawu Gu},
+  title     = {Shuffle-based Private Set Union: Faster and More Secure},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2947-2964},
+}
+
+@inproceedings{DBLP:conf/uss/ZhangXHSZ22,
+  author    = {Jiaheng Zhang and
+               Tiancheng Xie and
+               Thang Hoang and
+               Elaine Shi and
+               Yupeng Zhang},
+  title     = {Polynomial Commitment with a {One-to-Many} Prover and Applications},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2965-2982},
+}
+
+@inproceedings{DBLP:conf/uss/LuoJAPW22,
+  author    = {Ning Luo and
+               Samuel Judson and
+               Timos Antonopoulos and
+               Ruzica Piskac and
+               Xiao Wang},
+  title     = {ppSAT: Towards {Two-Party} Private {SAT} Solving},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {2983-3000},
+}
+
+@inproceedings{DBLP:conf/uss/SrinivasanCPT022,
+  author    = {Shravan Srinivasan and
+               Alexander Chepurnoy and
+               Charalampos Papamanthou and
+               Alin Tomescu and
+               Yupeng Zhang},
+  title     = {Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3001-3018},
+}
+
+@inproceedings{DBLP:conf/uss/GuGLPLYG22,
+  author    = {Fangming Gu and
+               Qingli Guo and
+               Lian Li and
+               Zhiniang Peng and
+               Wei Lin and
+               Xiaobo Yang and
+               Xiaorui Gong},
+  title     = {COMRace: Detecting Data Race Vulnerabilities in {COM} Objects},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3019-3036},
+}
+
+@inproceedings{DBLP:conf/uss/WooHCL22,
+  author    = {Seunghoon Woo and
+               Hyunji Hong and
+               Eunjin Choi and
+               Heejo Lee},
+  title     = {MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified {Open-Source} Software Components},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3037-3053},
+}
+
+@inproceedings{DBLP:conf/uss/SchlogelBCABH022,
+  author    = {Moritz Schloegel and
+               Tim Blazytko and
+               Moritz Contag and
+               Cornelius Aschermann and
+               Julius Basler and
+               Thorsten Holz and
+               Ali Abbasi},
+  title     = {Loki: Hardening Code Obfuscation Against Automated Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3055-3073},
+}
+
+@inproceedings{DBLP:conf/uss/RohlmannMMS22,
+  author    = {Simon Rohlmann and
+               Christian Mainka and
+               Vladislav Mladenov and
+               Jörg Schwenk},
+  title     = {Oops... Code Execution and Content Spoofing: The First Comprehensive Analysis of {OpenDocument} Signatures},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3075-3092},
+}
+
+@inproceedings{DBLP:conf/uss/ZuoL22,
+  author    = {Chaoshun Zuo and
+               Zhiqiang Lin},
+  title     = {Playing Without Paying: Detecting Vulnerable Payment Verification in Native Binaries of Unity Mobile Games},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3093-3110},
+}
+
+@inproceedings{DBLP:conf/uss/GinerKC0G22,
+  author    = {Lukas Giner and
+               Andreas Kogler and
+               Claudio Canella and
+               Michael Schwarz and
+               Daniel Gruss},
+  title     = {Repurposing Segmentation as a Practical {LVI-NULL} Mitigation in {SGX}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3111-3127},
+}
+
+@inproceedings{DBLP:conf/uss/0001ZLLX022,
+  author    = {Jinyu Gu and
+               Bojun Zhu and
+               Mingyu Li and
+               Wentai Li and
+               Yubin Xia and
+               Haibo Chen},
+  title     = {A {Hardware-Software} Co-design for Efficient {Intra-Enclave} Isolation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3129-3145},
+}
+
+@inproceedings{DBLP:conf/uss/CloostersWHD22,
+  author    = {Tobias Cloosters and
+               Johannes Willbold and
+               Thorsten Holz and
+               Lucas Davi},
+  title     = {SGXFuzz: Efficiently Synthesizing Nested Structures for {SGX} Enclave Fuzzing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3147-3164},
+}
+
+@inproceedings{DBLP:conf/uss/TaramRVT22,
+  author    = {Mohammadkazem Taram and
+               Xida Ren and
+               Ashish Venkat and
+               Dean M. Tullsen},
+  title     = {SecSMT: Securing {SMT} Processors against {Contention-Based} Covert Channels},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3165-3182},
+}
+
+@inproceedings{DBLP:conf/uss/WuY0C22,
+  author    = {Shujiang Wu and
+               Jianjia Yu and
+               Min Yang and
+               Yinzhi Cao},
+  title     = {Rendering Contention Channel Made Practical in Web Browsers},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3183-3199},
+}
+
+@inproceedings{DBLP:conf/uss/ZouLCZQ22,
+  author    = {Xiaochen Zou and
+               Guoren Li and
+               Weiteng Chen and
+               Hang Zhang and
+               Zhiyun Qian},
+  title     = {SyzScope: Revealing {High-Risk} Security Impacts of {Fuzzer-Exposed} Bugs in Linux kernel},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3201-3217},
+}
+
+@inproceedings{DBLP:conf/uss/KandeCPJSTR22,
+  author    = {Rahul Kande and
+               Addison Crump and
+               Garrett Persyn and
+               Patrick Jauernig and
+               Ahmad-Reza Sadeghi and
+               Aakash Tyagi and
+               Jeyavijayan Rajendran},
+  title     = {TheHuzz: Instruction Fuzzing of Processors Using {Golden-Reference} Models for Finding {Software-Exploitable} Vulnerabilities},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3219-3236},
+}
+
+@inproceedings{DBLP:conf/uss/TrippelSCKRH22,
+  author    = {Timothy Trippel and
+               Kang G. Shin and
+               Alex Chernyakhovsky and
+               Garret Kelly and
+               Dominic Rizzo and
+               Matthew Hicks},
+  title     = {Fuzzing Hardware Like Software},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3237-3254},
+}
+
+@inproceedings{DBLP:conf/uss/BaBMR22,
+  author    = {Jinsheng Ba and
+               Marcel Böhme and
+               Zahra Mirzamomen and
+               Abhik Roychoudhury},
+  title     = {Stateful Greybox Fuzzing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3255-3272},
+}
+
+@inproceedings{DBLP:conf/uss/ZhaoLQMYZT022,
+  author    = {Bodong Zhao and
+               Zheming Li and
+               Shisong Qin and
+               Zheyu Ma and
+               Ming Yuan and
+               Wenyu Zhu and
+               Zhihong Tian and
+               Chao Zhang},
+  title     = {StateFuzz: System {Call-Based} {State-Aware} Linux Driver Fuzzing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3273-3289},
+}
+
+@inproceedings{DBLP:conf/uss/AlbertiniDGKLS22,
+  author    = {Ange Albertini and
+               Thai Duong and
+               Shay Gueron and
+               Stefan Kölbl and
+               Atul Luykx and
+               Sophie Schmieg},
+  title     = {How to Abuse and Fix Authenticated Encryption Without Key Commitment},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3291-3308},
+}
+
+@inproceedings{DBLP:conf/uss/MadathilSSSV22,
+  author    = {Varun Madathil and
+               Alessandra Scafuro and
+               István András Seres and
+               Omer Shlomovits and
+               Denis Varlakov},
+  title     = {Private Signaling},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3309-3326},
+}
+
+@inproceedings{DBLP:conf/uss/AlbabIVG22,
+  author    = {Kinan Dak Albab and
+               Rawane Issa and
+               Mayank Varia and
+               Kalman Graffi},
+  title     = {Batched Differentially Private Information Retrieval},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3327-3344},
+}
+
+@inproceedings{DBLP:conf/uss/RoyLJR22,
+  author    = {Lawrence Roy and
+               Stanislav Lyakhov and
+               Yeongjin Jang and
+               Mike Rosulek},
+  title     = {Practical {Privacy-Preserving} Authentication for {SSH}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3345-3362},
+}
+
+@inproceedings{DBLP:conf/uss/GkountounaDXCK22,
+  author    = {Olga Gkountouna and
+               Katerina Doka and
+               Mingqiang Xue and
+               Jianneng Cao and
+               Panagiotis Karras},
+  title     = {One-off Disclosure Control by Heterogeneous Generalization},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3363-3377},
+}
+
+@inproceedings{DBLP:conf/uss/SharmaM22,
+  author    = {Vandit Sharma and
+               Mainack Mondal},
+  title     = {Understanding and Improving Usability of Data Dashboards for Simplified Privacy Control of Voice Assistant Data},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3379-3395},
+}
+
+@inproceedings{DBLP:conf/uss/BalashWGRA22,
+  author    = {David G. Balash and
+               Xiaoyuan Wu and
+               Miles Grant and
+               Irwin Reyes and
+               Adam J. Aviv},
+  title     = {Security and Privacy Perceptions of {Third-Party} Application Access for Google Accounts},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3397-3414},
+}
+
+@inproceedings{DBLP:conf/uss/MinaeiMK22,
+  author    = {Mohsen Minaei and
+               Mainack Mondal and
+               Aniket Kate},
+  title     = {Empirical Understanding of Deletion Privacy: Experiences, Expectations, and Measures},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3415-3432},
+}
+
+@inproceedings{DBLP:conf/uss/BinkhorstFKPL22,
+  author    = {Veroniek Binkhorst and
+               Tobias Fiebig and
+               Katharina Krombholz and
+               Wolter Pieters and
+               Katsiaryna Labunets},
+  title     = {Security at the End of the Tunnel: The Anatomy of {VPN} Mental Models Among Experts and {Non-Experts} in a Corporate Context},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3433-3450},
+}
+
+@inproceedings{DBLP:conf/uss/Dutkowska-ZukHM22,
+  author    = {Agnieszka Dutkowska-Zuk and
+               Austin Hounsel and
+               Amy Morrill and
+               Andre Xiong and
+               Marshini Chetty and
+               Nick Feamster},
+  title     = {How and Why People Use Virtual Private Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3451-3465},
+}
+
+@inproceedings{DBLP:conf/uss/WangYYCY22,
+  author    = {Zhiwei Wang and
+               Yihui Yan and
+               Yueli Yan and
+               Huangxun Chen and
+               Zhice Yang},
+  title     = {CamShield: Securing Smart Cameras through Physical Replication and Isolation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3467-3484},
+}
+
+@inproceedings{DBLP:conf/uss/PetziYDTPK22,
+  author    = {Lukas Petzi and
+               Ala Eddine Ben Yahya and
+               Alexandra Dmitrienko and
+               Gene Tsudik and
+               Thomas Prantl and
+               Samuel Kounev},
+  title     = {SCRAPS: Scalable Collective Remote Attestation for {Pub-Sub} {IoT} Networks with Untrusted Proxy Verifier},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3485-3501},
+}
+
+@inproceedings{DBLP:conf/uss/SathayeSLR22,
+  author    = {Harshad Sathaye and
+               Martin Strohmeier and
+               Vincent Lenders and
+               Aanjhan Ranganathan},
+  title     = {An Experimental Study of {GPS} Spoofing and Takeover Attacks on {UAVs}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3503-3520},
+}
+
+@inproceedings{DBLP:conf/uss/ManandharKASN22,
+  author    = {Sunil Manandhar and
+               Kaushal Kafle and
+               Benjamin Andow and
+               Kapil Singh and
+               Adwait Nadkarni},
+  title     = {Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3521-3538},
+}
+
+@inproceedings{DBLP:conf/uss/ShekariCB22,
+  author    = {Tohid Shekari and
+               Alvaro A. Cárdenas and
+               Raheem Beyah},
+  title     = {{MaDIoT} 2.0: Modern {High-Wattage} {IoT} Botnet Attacks and Defenses},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3539-3556},
+}
+
+@inproceedings{DBLP:conf/uss/FuD00022,
+  author    = {Qi-An Fu and
+               Yinpeng Dong and
+               Hang Su and
+               Jun Zhu and
+               Chao Zhang},
+  title     = {AutoDA: Automated Decision-based Iterative Adversarial Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3557-3574},
+}
+
+@inproceedings{DBLP:conf/uss/ShanB0Z22,
+  author    = {Shawn Shan and
+               Arjun Nitin Bhagoji and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3575-3592},
+}
+
+@inproceedings{DBLP:conf/uss/000100022,
+  author    = {Yufei Chen and
+               Chao Shen and
+               Cong Wang and
+               Yang Zhang},
+  title     = {Teacher Model Fingerprinting Attacks Against Transfer Learning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3593-3610},
+}
+
+@inproceedings{DBLP:conf/uss/PanZSZ022,
+  author    = {Xudong Pan and
+               Mi Zhang and
+               Beina Sheng and
+               Jiaming Zhu and
+               Min Yang},
+  title     = {Hidden Trigger Backdoor Attack on {NLP} Models via Linguistic Style Manipulation},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3611-3628},
+}
+
+@inproceedings{DBLP:conf/uss/0005JG22,
+  author    = {Hongbin Liu and
+               Jinyuan Jia and
+               Neil Zhenqiang Gong},
+  title     = {PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3629-3645},
+}
+
+@inproceedings{DBLP:conf/uss/PurnalTV22,
+  author    = {Antoon Purnal and
+               Furkan Turan and
+               Ingrid Verbauwhede},
+  title     = {Double Trouble: Combined Heterogeneous Attacks on {Non-Inclusive} Cache Hierarchies},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3647-3664},
+}
+
+@inproceedings{DBLP:conf/uss/MaiyyaISAALTZ22,
+  author    = {Sujaya Maiyya and
+               Seif Ibrahim and
+               Caitlin Scarberry and
+               Divyakant Agrawal and
+               Amr El Abbadi and
+               Huijia Lin and
+               Stefano Tessaro and
+               Victor Zakhary},
+  title     = {QuORAM: A {Quorum-Replicated} Fault Tolerant {ORAM} Datastore},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3665-3682},
+}
+
+@inproceedings{DBLP:conf/uss/BosRV22,
+  author    = {Joppe W. Bos and
+               Joost Renes and
+               Christine van Vredendaal},
+  title     = {{Post-Quantum} Cryptography with Contemporary Co-Processors: Beyond Kronecker, Schö{nhage-Strassen} & Nussbaumer},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3683-3697},
+}
+
+@inproceedings{DBLP:conf/uss/ZhangP0W22,
+  author    = {Zenong Zhang and
+               Zach Patterson and
+               Michael Hicks and
+               Shiyi Wei},
+  title     = {FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3699-3715},
+}
+
+@inproceedings{DBLP:conf/uss/IsmailQJJM22,
+  author    = {Mohannad Ismail and
+               Andrew Quach and
+               Christopher Jelesnianski and
+               Yeongjin Jang and
+               Changwoo Min},
+  title     = {Tightly Seal Your Sensitive Pointers with {PACTight}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3717-3734},
+}
+
+@inproceedings{DBLP:conf/uss/PrunsterMZ22,
+  author    = {Bernd Prünster and
+               Alexander Marsalek and
+               Thomas Zefferer},
+  title     = {Total Eclipse of the Heart - Disrupting the {InterPlanetary} File System},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3735-3752},
+}
+
+@inproceedings{DBLP:conf/uss/WangKNPSS0LS22,
+  author    = {Lun Wang and
+               Usmann Khan and
+               Joseph P. Near and
+               Qi Pang and
+               Jithendaraa Subramanian and
+               Neel Somani and
+               Peng Gao and
+               Andrew Low and
+               Dawn Song},
+  title     = {PrivGuard: Privacy Regulation Compliance Made Easier},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3753-3770},
+}
+
+@inproceedings{DBLP:conf/uss/ClaryTOJ22,
+  author    = {Kaleigh Clary and
+               Emma Tosch and
+               Jeremiah Onaolapo and
+               David D. Jensen},
+  title     = {Stick It to The Man: Correcting for {Non-Cooperative} Behavior of Subjects in Experiments on Social Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3771-3788},
+}
+
+@inproceedings{DBLP:conf/uss/TrimanandaLCHSM22,
+  author    = {Rahmadi Trimananda and
+               Hieu Le and
+               Hao Cui and
+               Janice Tran Ho and
+               Anastasia Shuba and
+               Athina Markopoulou},
+  title     = {OVRseen: Auditing Network Traffic and Privacy Policies in Oculus {VR}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3789-3806},
+}
+
+@inproceedings{DBLP:conf/uss/KoglerJQKLBSNG22,
+  author    = {Andreas Kogler and
+               Jonas Juffinger and
+               Salman Qazi and
+               Yoongu Kim and
+               Moritz Lipp and
+               Nicolas Boichat and
+               Eric Shiu and
+               Mattias Nissler and
+               Daniel Gruss},
+  title     = {Half-Double: Hammering From the Next Row Over},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3807-3824},
+}
+
+@inproceedings{DBLP:conf/uss/WiknerR22,
+  author    = {Johannes Wikner and
+               Kaveh Razavi},
+  title     = {RETBLEED: Arbitrary Speculative Code Execution with Return Instructions},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3825-3842},
+}
+
+@inproceedings{DBLP:conf/uss/GrisafiARC22,
+  author    = {Michele Grisafi and
+               Mahmoud Ammar and
+               Marco Roveri and
+               Bruno Crispo},
+  title     = {PISTIS: Trusted Computing Architecture for Low-end Embedded Systems},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3843-3860},
+}
+
+@inproceedings{DBLP:conf/uss/Easdon0SG22,
+  author    = {Catherine Easdon and
+               Michael Schwarz and
+               Martin Schwarzl and
+               Daniel Gruss},
+  title     = {Rapid Prototyping for Microarchitectural Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3861-3877},
+}
+
+@inproceedings{DBLP:conf/uss/0046WNA0XP22,
+  author    = {Fei Wang and
+               Jianliang Wu and
+               Yuhong Nan and
+               Yousra Aafer and
+               Xiangyu Zhang and
+               Dongyan Xu and
+               Mathias Payer},
+  title     = {ProFactory: Improving {IoT} Security via Formalized Protocol Customization},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3879-3896},
+}
+
+@inproceedings{DBLP:conf/uss/PatelYSMAS22,
+  author    = {Yuvraj Patel and
+               Chenhao Ye and
+               Akshat Sinha and
+               Abigail Matthews and
+               Andrea C. Arpaci-Dusseau and
+               Michael M. Swift},
+  title     = {Using Trātṛ to tame Adversarial Synchronization},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3897-3916},
+}
+
+@inproceedings{DBLP:conf/uss/BorrelloKSLG022,
+  author    = {Pietro Borrello and
+               Andreas Kogler and
+               Martin Schwarzl and
+               Moritz Lipp and
+               Daniel Gruss and
+               Michael Schwarz},
+  title     = {Æ{PIC} Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3917-3934},
+}
+
+@inproceedings{DBLP:conf/uss/ChevalJKK22,
+  author    = {Vincent Cheval and
+               Charlie Jacomme and
+               Steve Kremer and
+               Robert Künnemann},
+  title     = {SAPIC+: protocol verifiers of the world, unite!},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3935-3952},
+}
+
+@inproceedings{DBLP:conf/uss/PangXJL022,
+  author    = {Ren Pang and
+               Zhaohan Xi and
+               Shouling Ji and
+               Xiapu Luo and
+               Ting Wang},
+  title     = {On the Security Risks of {AutoML}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3953-3970},
+}
+
+@inproceedings{DBLP:conf/uss/ArpQPWPWCR22,
+  author    = {Daniel Arp and
+               Erwin Quiring and
+               Feargus Pendlebury and
+               Alexander Warnecke and
+               Fabio Pierazzi and
+               Christian Wressnegger and
+               Lorenzo Cavallaro and
+               Konrad Rieck},
+  title     = {Dos and Don'ts of Machine Learning in Computer Security},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3971-3988},
+}
+
+@inproceedings{DBLP:conf/uss/PanZYZY22,
+  author    = {Xudong Pan and
+               Mi Zhang and
+               Yifan Yan and
+               Jiaming Zhu and
+               Zhemin Yang},
+  title     = {Exploring the Security Boundary of Data Reconstruction via Neuron Exclusivity Analysis},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {3989-4006},
+}
+
+@inproceedings{DBLP:conf/uss/ThudiJSP22,
+  author    = {Anvith Thudi and
+               Hengrui Jia and
+               Ilia Shumailov and
+               Nicolas Papernot},
+  title     = {On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4007-4022},
+}
+
+@inproceedings{DBLP:conf/uss/MunyendoMNGKUA22,
+  author    = {Collins W. Munyendo and
+               Philipp Markert and
+               Alexandra Nisenoff and
+               Miles Grant and
+               Elena Korkes and
+               Blase Ur and
+               Adam J. Aviv},
+  title     = {"The Same PIN, Just Longer": On the (In)Security of Upgrading {PINs} from 4 to 6 Digits},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4023-4040},
+}
+
+@inproceedings{DBLP:conf/uss/KaurAVAF22,
+  author    = {Harjot Kaur and
+               Sabrina Amft and
+               Daniel Votipka and
+               Yasemin Acar and
+               Sascha Fahl},
+  title     = {Where to Recruit for Security Development Studies: Comparing Six Software Developer Samples},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4041-4058},
+}
+
+@inproceedings{DBLP:conf/uss/MarkyG0KFM22,
+  author    = {Karola Marky and
+               Paul Gerber and
+               Sebastian Günther and
+               Mohamed Khamis and
+               Maximilian Fries and
+               Max Mühlhäuser},
+  title     = {Investigating {State-of-the-Art} Practices for Fostering Subjective Trust in Online Voting through Interviews},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4059-4076},
+}
+
+@inproceedings{DBLP:conf/uss/OwensARK22,
+  author    = {Kentrell Owens and
+               Anita Alem and
+               Franziska Roesner and
+               Tadayoshi Kohno},
+  title     = {Electronic Monitoring Smartphone Apps: An Analysis of Risks from Technical, Human-Centered, and Legal Perspectives},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4077-4094},
+}
+
+@inproceedings{DBLP:conf/uss/ChenZ22,
+  author    = {Guoxing Chen and
+               Yinqian Zhang},
+  title     = {MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4095-4110},
+}
+
+@inproceedings{DBLP:conf/uss/YuSCS22,
+  author    = {Jason Zhijingcheng Yu and
+               Shweta Shinde and
+               Trevor E. Carlson and
+               Prateek Saxena},
+  title     = {Elasticlave: An Efficient Memory Model for Enclaves},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4111-4128},
+}
+
+@inproceedings{DBLP:conf/uss/ChenLXZ00022,
+  author    = {Yuan Chen and
+               Jiaqi Li and
+               Guorui Xu and
+               Yajin Zhou and
+               Zhi Wang and
+               Cong Wang and
+               Kui Ren},
+  title     = {SGXLock: Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for {SGX}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4129-4146},
+}
+
+@inproceedings{DBLP:conf/uss/KoglerG022,
+  author    = {Andreas Kogler and
+               Daniel Gruss and
+               Michael Schwarz},
+  title     = {Minefield: A Software-only Protection for {SGX} Enclaves against {DVFS} Attacks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4147-4164},
+}
+
+@inproceedings{DBLP:conf/uss/TuronovaHHLVV22,
+  author    = {Lenka Turonová and
+               Lukás Holík and
+               Ivan Homoliak and
+               Ondrej Lengál and
+               Margus Veanes and
+               Tomás Vojnar},
+  title     = {Counting in Regexes Considered Harmful: Exposing {ReDoS} Vulnerability of Nonbacktracking Matchers},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4165-4182},
+}
+
+@inproceedings{DBLP:conf/uss/LiS0CLLCC0X22,
+  author    = {Yeting Li and
+               Yecheng Sun and
+               Zhiwu Xu and
+               Jialun Cao and
+               Yuekang Li and
+               Rongchen Li and
+               Haiming Chen and
+               Shing-Chi Cheung and
+               Yang Liu and
+               Yang Xiao},
+  title     = {RegexScalpel: Regular Expression Denial of Service (ReDoS) Defense by {Localize-and-Fix}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4183-4200},
+}
+
+@inproceedings{DBLP:conf/uss/RizviBCH22,
+  author    = {A. S. M. Rizvi and
+               Leandro M. Bertholdo and
+               João M. Ceron and
+               John S. Heidemann},
+  title     = {Anycast Agility: Network Playbooks to Fight {DDoS}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4201-4218},
+}
+
+@inproceedings{DBLP:conf/uss/McLaughlinPSKV22,
+  author    = {Robert McLaughlin and
+               Fabio Pagani and
+               Noah Spahn and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Regulator: Dynamic Analysis to Detect {ReDoS}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4219-4235},
+}
+
+@inproceedings{DBLP:conf/uss/LeungG0RZ22,
+  author    = {Derek Leung and
+               Yossi Gilad and
+               Sergey Gorbunov and
+               Leonid Reyzin and
+               Nickolai Zeldovich},
+  title     = {Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4237-4254},
+}
+
+@inproceedings{DBLP:conf/uss/GrubbsAZBW22,
+  author    = {Paul Grubbs and
+               Arasu Arun and
+               Ye Zhang and
+               Joseph Bonneau and
+               Michael Walfish},
+  title     = {{Zero-Knowledge} Middleboxes},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4255-4272},
+}
+
+@inproceedings{DBLP:conf/uss/AngelBIW22,
+  author    = {Sebastian Angel and
+               Andrew J. Blumberg and
+               Eleftherios Ioannidis and
+               Jess Woods},
+  title     = {Efficient Representation of Numerical Optimization Problems for {SNARKs}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4273-4290},
+}
+
+@inproceedings{DBLP:conf/uss/OzdemirB22,
+  author    = {Alex Ozdemir and
+               Dan Boneh},
+  title     = {Experimenting with Collaborative zk-SNARKs: {Zero-Knowledge} Proofs for Distributed Secrets},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4291-4308},
+}
+
+@inproceedings{DBLP:conf/uss/LiangL022,
+  author    = {Yu Liang and
+               Song Liu and
+               Hong Hu},
+  title     = {Detecting Logical Bugs of {DBMS} with Coverage-based Guidance},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4309-4326},
+}
+
+@inproceedings{DBLP:conf/uss/ChenLSGNV22,
+  author    = {Qibin Chen and
+               Jeremy Lacomis and
+               Edward J. Schwartz and
+               Claire Le Goues and
+               Graham Neubig and
+               Bogdan Vasilescu},
+  title     = {Augmenting Decompiler Output with Learned Variable Names and Types},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4327-4343},
+}
+
+@inproceedings{DBLP:conf/uss/ZhangPPT022,
+  author    = {Yuchen Zhang and
+               Chengbin Pang and
+               Georgios Portokalidis and
+               Nikos Triandopoulos and
+               Jun Xu},
+  title     = {Debloating Address Sanitizer},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4345-4363},
+}
+
+@inproceedings{DBLP:conf/uss/ZhouYQ000022,
+  author    = {Shunfan Zhou and
+               Zhemin Yang and
+               Dan Qiao and
+               Peng Liu and
+               Min Yang and
+               Zhe Wang and
+               Chenggang Wu},
+  title     = {Ferry: {State-Aware} Symbolic Execution for Exploring {State-Dependent} Program Paths},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4365-4382},
+}
+
+@inproceedings{DBLP:conf/uss/MaiaXLGZ22,
+  author    = {Henrique Teles Maia and
+               Chang Xiao and
+               Dingzeyu Li and
+               Eitan Grinspun and
+               Changxi Zheng},
+  title     = {Can one hear the shape of a neural network?: Snooping the {GPU} via Magnetic Side Channel},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4383-4400},
+}
+
+@inproceedings{DBLP:conf/uss/NassiPSSEZ22,
+  author    = {Ben Nassi and
+               Yaron Pirutin and
+               Raz Swisa and
+               Adi Shamir and
+               Yuval Elovici and
+               Boris Zadov},
+  title     = {Lamphone: Passive Sound Recovery from a Desk Lamp's Light Bulb Vibrations},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4401-4417},
+}
+
+@inproceedings{DBLP:conf/uss/YuanP022,
+  author    = {Yuanyuan Yuan and
+               Qi Pang and
+               Shuai Wang},
+  title     = {Automated Side Channel Analysis of Media Software with Manifold Learning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4419-4436},
+}
+
+@inproceedings{DBLP:conf/uss/GenkinNST22,
+  author    = {Daniel Genkin and
+               Noam Nissan and
+               Roei Schuster and
+               Eran Tromer},
+  title     = {Lend Me Your Ear: Passive Remote Physical Side Channels on {PCs}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4437-4454},
+}
+
+@inproceedings{DBLP:conf/uss/HlavacekJMSW22,
+  author    = {Tomas Hlavacek and
+               Philipp Jeitner and
+               Donika Mirdita and
+               Haya Shulman and
+               Michael Waidner},
+  title     = {Stalloris: {RPKI} Downgrade Attack},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4455-4471},
+}
+
+@inproceedings{DBLP:conf/uss/JeitnerSTW22,
+  author    = {Philipp Jeitner and
+               Haya Shulman and
+               Lucas Teichmann and
+               Michael Waidner},
+  title     = {{XDRI} Attacks - and - How to Enhance Resilience of Residential Routers},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4473-4490},
+}
+
+@inproceedings{DBLP:conf/uss/KoisserJTS22,
+  author    = {David Koisser and
+               Patrick Jauernig and
+               Gene Tsudik and
+               Ahmad-Reza Sadeghi},
+  title     = {V'CER: Efficient Certificate Validation in Constrained Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4491-4508},
+}
+
+@inproceedings{DBLP:conf/uss/QinLLW22,
+  author    = {Lancheng Qin and
+               Dan Li and
+               Ruifeng Li and
+               Kang Wang},
+  title     = {Themis: Accelerating the Detection of Route Origin Hijacking by Distinguishing Legitimate and Illegitimate {MOAS}},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4509-4524},
+}
+
+@inproceedings{DBLP:conf/uss/LiuWH000CF022,
+  author    = {Yugeng Liu and
+               Rui Wen and
+               Xinlei He and
+               Ahmed Salem and
+               Zhikun Zhang and
+               Michael Backes and
+               Emiliano De Cristofaro and
+               Mario Fritz and
+               Yang Zhang},
+  title     = {ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4525-4542},
+}
+
+@inproceedings{DBLP:conf/uss/000100S022,
+  author    = {Zhikun Zhang and
+               Min Chen and
+               Michael Backes and
+               Yun Shen and
+               Yang Zhang},
+  title     = {Inference Attacks Against Graph Neural Networks},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4543-4560},
+}
+
+@inproceedings{DBLP:conf/uss/Yuan022,
+  author    = {Xiaoyong Yuan and
+               Lan Zhang},
+  title     = {Membership Inference Attacks and Defenses in Neural Network Pruning},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4561-4578},
+}
+
+@inproceedings{DBLP:conf/uss/MehnazDKLB22,
+  author    = {Shagufta Mehnaz and
+               Sayanton V. Dibbo and
+               Ehsanul Kabir and
+               Ninghui Li and
+               Elisa Bertino},
+  title     = {Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models},
+  booktitle = usenixsec,
+  year      = 2022,
+  pages     = {4579-4596},
+}
+
 @inproceedings{DBLP:conf/uss/000121,
   author    = {Susan Landau},
   title     = {Susan Landau, Tufts University},
@@ -606,7 +3875,7 @@
                Georgios Vasilakis and
                Kit Murdock and
                Edward Dean and
-               David Oswald and
+               David F. Oswald and
                Flavio D. Garcia},
   title     = {VoltPillager: Hardware-based fault injection attacks against Intel {SGX} Enclaves using the {SVID} voltage scaling interface},
   booktitle = usenixsec,
@@ -7001,7 +10270,7 @@
 @inproceedings{DBLP:conf/uss/SchoonoverMHGRT18,
   author    = {Kevin Schoonover and
                Eric Michalak and
-               Sean Harris and
+               Sean N. Harris and
                Adam Gausmann and
                Hannah Reinbolt and
                Daniel R. Tauritz and
@@ -18292,7 +21561,7 @@
 
 @inproceedings{DBLP:conf/usenix/BalanG92,
   author    = {Ramesh Balan and
-               Kurt Gollhardt},
+               Kurt D. Gollhardt},
   title     = {A Scalable Implementation of Virtual Memory {HAT} Layer for Shared Memory Multiprocessor Machines},
   booktitle = usenixsec,
   year      = 1992,
@@ -18926,7 +22195,7 @@
 }
 
 @inproceedings{DBLP:conf/usenix/Lampen91,
-  author    = {A. Lampen},
+  author    = {Andreas Lampen},
   title     = {Advancing Files to Attributed Software Objects},
   booktitle = usenixsec,
   year      = 1991,

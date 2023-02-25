@@ -1,5 +1,122 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/DiavastosC22,
+  author    = {Andreas Diavastos and
+               Trevor E. Carlson},
+  title     = {Efficient Instruction Scheduling Using Real-time Load Delay Tracking},
+  journal   = tocs,
+  volume    = {40},
+  year      = 2022,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/Biswas22,
+  author    = {Arnab Kumar Biswas},
+  title     = {Using Pattern of {On-Off} Routers and Links and Router Delays to Protect {Network-on-Chip} Intellectual Property},
+  journal   = tocs,
+  volume    = {40},
+  year      = 2022,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/LyerlyBMRR22,
+  author    = {Robert Lyerly and
+               Carlos Bilbao and
+               Changwoo Min and
+               Christopher J. Rossbach and
+               Binoy Ravindran},
+  title     = {An {OpenMP} Runtime for Transparent Work Sharing across {Cache-Incoherent} Heterogeneous Nodes},
+  journal   = tocs,
+  volume    = {39},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/ChenZWCZVMLFXC22,
+  author    = {Lei Chen and
+               Jiacheng Zhao and
+               Chenxi Wang and
+               Ting Cao and
+               John N. Zigman and
+               Haris Volos and
+               Onur Mutlu and
+               Fang Lv and
+               Xiaobing Feng and
+               Guoqing Harry Xu and
+               Huimin Cui},
+  title     = {Unified Holistic Memory Management Supporting Multiple Big Data Processing Frameworks over Hybrid Memories},
+  journal   = tocs,
+  volume    = {39},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/BoroujerdianGKD22,
+  author    = {Behzad Boroujerdian and
+               Hasan Genc and
+               Srivatsan Krishnan and
+               Bardienus Pieter Duisterhof and
+               Brian Plancher and
+               Kayvan Mansoorshahi and
+               Marcelino Almeida and
+               Wenzhi Cui and
+               Aleksandra Faust and
+               Vijay Janapa Reddi},
+  title     = {The Role of Compute in Autonomous Micro Aerial Vehicles: Optimizing for Mission Time and Energy Efficiency},
+  journal   = tocs,
+  volume    = {39},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/BlocherCKECA22,
+  author    = {Marcel Blöcher and
+               Emilio Coppa and
+               Pascal Kleber and
+               Patrick Eugster and
+               William Culhane and
+               Masoud Saeida Ardekani},
+  title     = {ROME: All Overlays Lead to Aggregation, but Some Are Faster than Others},
+  journal   = tocs,
+  volume    = {39},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/XingBOKWR22,
+  author    = {Tong Xing and
+               Antonio Barbalace and
+               Pierre Olivier and
+               Mohamed Lamine Karaoui and
+               Wei Wang and
+               Binoy Ravindran},
+  title     = {H-Container: Enabling {Heterogeneous-ISA} Container Migration in Edge Computing},
+  journal   = tocs,
+  volume    = {39},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tocs/XiaDHZCG22,
+  author    = {Yubin Xia and
+               Dong Du and
+               Zhichao Hua and
+               Binyu Zang and
+               Haibo Chen and
+               Haibing Guan},
+  title     = {Boosting Inter-process Communication with Architectural Support},
+  journal   = tocs,
+  volume    = {39},
+  number    = {1-4},
+  year      = 2021,
+  pages     = {6-1},
+}
+
 @article{DBLP:journals/tocs/RuaroSJM21,
   author    = {Marcelo Ruaro and
                Anderson Camargo Sant'Ana and
@@ -9,8 +126,98 @@
   journal   = tocs,
   volume    = {38},
   number    = {1-2},
-  year      = 2021,
+  year      = 2020,
   pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/MarkussenKHKSG21,
+  author    = {Jonas Markussen and
+               Lars Bjørlykke Kristiansen and
+               Pål Halvorsen and
+               Halvor Kielland-Gyrud and
+               Håkon Kvale Stensland and
+               Carsten Griwodz},
+  title     = {SmartIO: Zero-overhead Device Sharing through {PCIe} Networking},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2020,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/KatsikasBKMS21,
+  author    = {Georgios P. Katsikas and
+               Tom Barbette and
+               Dejan Kostic and
+               Gerald Q. Maguire Jr. and
+               Rebecca Steinert},
+  title     = {Metron: High-performance {NFV} Service Chaining Even in the Presence of Blackboxes},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2020,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/ZuoWHSZLDWLWX21,
+  author    = {Zhiqiang Zuo and
+               Kai Wang and
+               Aftab Hussain and
+               Ardalan Amiri Sani and
+               Yiyu Zhang and
+               Shenming Lu and
+               Wensheng Dou and
+               Linzhang Wang and
+               Xuandong Li and
+               Chenxi Wang and
+               Guoqing Harry Xu},
+  title     = {Systemizing Interprocedural Static Analysis of Large-scale Systems Code with Graspan},
+  journal   = tocs,
+  volume    = {38},
+  number    = {1-2},
+  year      = 2020,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/SongYESKLLU0C20,
+  author    = {Won Wook Song and
+               Youngseok Yang and
+               Jeongyoon Eo and
+               Jangho Seo and
+               Joo Yeon Kim and
+               Sanha Lee and
+               Gyewon Lee and
+               Taegeon Um and
+               Haeyoon Cho and
+               Byung-Gon Chun},
+  title     = {Apache Nemo: A Framework for Optimizing Distributed Data Processing},
+  journal   = tocs,
+  volume    = {38},
+  number    = {3-4},
+  year      = 2020,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tocs/CanakciR20,
+  author    = {Burcu Canakci and
+               Robbert van Renesse},
+  title     = {Scaling Membership of Byzantine Consensus},
+  journal   = tocs,
+  volume    = {38},
+  number    = {3-4},
+  year      = 2020,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tocs/0003G20,
+  author    = {Rakesh Kumar and
+               Boris Grot},
+  title     = {Shooting Down the Server {Front-End} Bottleneck},
+  journal   = tocs,
+  volume    = {38},
+  number    = {3-4},
+  year      = 2020,
+  pages     = {7-1},
 }
 
 @article{DBLP:journals/tocs/SadrosadatiMHEF21,
@@ -28,23 +235,8 @@
   journal   = tocs,
   volume    = {37},
   number    = {1-4},
-  year      = 2021,
+  year      = 2019,
   pages     = {1-1},
-}
-
-@article{DBLP:journals/tocs/MarkussenKHKSG21,
-  author    = {Jonas Markussen and
-               Lars Bjørlykke Kristiansen and
-               Pål Halvorsen and
-               Halvor Kielland-Gyrud and
-               Håkon Kvale Stensland and
-               Carsten Griwodz},
-  title     = {SmartIO: Zero-overhead Device Sharing through {PCIe} Networking},
-  journal   = tocs,
-  volume    = {38},
-  number    = {1-2},
-  year      = 2021,
-  pages     = {2-1},
 }
 
 @article{DBLP:journals/tocs/ZhangZWYXC21,
@@ -58,22 +250,8 @@
   journal   = tocs,
   volume    = {37},
   number    = {1-4},
-  year      = 2021,
+  year      = 2019,
   pages     = {2-1},
-}
-
-@article{DBLP:journals/tocs/KatsikasBKMS21,
-  author    = {Georgios P. Katsikas and
-               Tom Barbette and
-               Dejan Kostic and
-               Gerald Q. Maguire Jr. and
-               Rebecca Steinert},
-  title     = {Metron: High-performance {NFV} Service Chaining Even in the Presence of Blackboxes},
-  journal   = tocs,
-  volume    = {38},
-  number    = {1-2},
-  year      = 2021,
-  pages     = {3-1},
 }
 
 @article{DBLP:journals/tocs/RichinsDBNPPDDI21,
@@ -93,7 +271,7 @@
   journal   = tocs,
   volume    = {37},
   number    = {1-4},
-  year      = 2021,
+  year      = 2019,
   pages     = {3-1},
 }
 
@@ -109,27 +287,7 @@
   journal   = tocs,
   volume    = {37},
   number    = {1-4},
-  year      = 2021,
-  pages     = {4-1},
-}
-
-@article{DBLP:journals/tocs/ZuoWHSZLDWLWX21,
-  author    = {Zhiqiang Zuo and
-               Kai Wang and
-               Aftab Hussain and
-               Ardalan Amiri Sani and
-               Yiyu Zhang and
-               Shenming Lu and
-               Wensheng Dou and
-               Linzhang Wang and
-               Xuandong Li and
-               Chenxi Wang and
-               Guoqing Harry Xu},
-  title     = {Systemizing Interprocedural Static Analysis of Large-scale Systems Code with Graspan},
-  journal   = tocs,
-  volume    = {38},
-  number    = {1-2},
-  year      = 2021,
+  year      = 2019,
   pages     = {4-1},
 }
 
@@ -146,7 +304,7 @@
   journal   = tocs,
   volume    = {37},
   number    = {1-4},
-  year      = 2021,
+  year      = 2019,
   pages     = {5-1},
 }
 
@@ -159,82 +317,8 @@
   journal   = tocs,
   volume    = {37},
   number    = {1-4},
-  year      = 2021,
+  year      = 2019,
   pages     = {6-1},
-}
-
-@article{DBLP:journals/tocs/BaiLH20,
-  author    = {Jia-Ju Bai and
-               Julia Lawall and
-               Shi-Min Hu},
-  title     = {Effective Detection of Sleep-in-atomic-context Bugs in the Linux Kernel},
-  journal   = tocs,
-  volume    = {36},
-  number    = {4},
-  year      = 2020,
-  pages     = {10-1},
-}
-
-@article{DBLP:journals/tocs/MalkhiT20,
-  author    = {Dahlia Malkhi and
-               Dan Tsafrir},
-  title     = {Introduction to the Special Issue on the Award Papers of {USENIX} {ATC} 2019},
-  journal   = tocs,
-  volume    = {36},
-  number    = {4},
-  year      = 2020,
-  pages     = {11-1},
-}
-
-@article{DBLP:journals/tocs/BalmauDZGCD20,
-  author    = {Oana Balmau and
-               Florin Dinu and
-               Willy Zwaenepoel and
-               Karan Gupta and
-               Ravishankar Chandhiramoorthi and
-               Diego Didona},
-  title     = {SILK+ Preventing Latency Spikes in {Log-Structured} Merge {Key-Value} Stores Running Heterogeneous Workloads},
-  journal   = tocs,
-  volume    = {36},
-  number    = {4},
-  year      = 2020,
-  pages     = {12-1},
-}
-
-@article{DBLP:journals/tocs/Leesatapornwongsa20,
-  author    = {Tanakorn Leesatapornwongsa and
-               Aritra Sengupta and
-               Masoud Saeida Ardekani and
-               Gustavo Petri and
-               Cesar A. Stuardo},
-  title     = {Transactuations: Where Transactions Meet the Physical World},
-  journal   = tocs,
-  volume    = {36},
-  number    = {4},
-  year      = 2020,
-  pages     = {13-1},
-}
-
-@article{DBLP:journals/tocs/SpinkWF20,
-  author    = {Tom Spink and
-               Harry Wagstaff and
-               Björn Franke},
-  title     = {A Retargetable System-level {DBT} Hypervisor},
-  journal   = tocs,
-  volume    = {36},
-  number    = {4},
-  year      = 2020,
-  pages     = {14-1},
-}
-
-@article{DBLP:journals/tocs/Jha20,
-  author    = {Sagar Jha},
-  title     = {Corrigendum to "Derecho: Fast State Machine Replication for Cloud Services, " by Jha et al., {ACM} Transactions on Computer Systems (TOCS) Volume 36, Issue 2, Article No. 4},
-  journal   = tocs,
-  volume    = {36},
-  number    = {4},
-  year      = 2020,
-  pages     = {15-1},
 }
 
 @article{DBLP:journals/tocs/GuerraouiGLQT19,
@@ -247,7 +331,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {1},
-  year      = 2019,
+  year      = 2018,
   pages     = {1-1},
 }
 
@@ -266,7 +350,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {1},
-  year      = 2019,
+  year      = 2018,
   pages     = {2-1},
 }
 
@@ -284,7 +368,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {1},
-  year      = 2019,
+  year      = 2018,
   pages     = {3-1},
 }
 
@@ -292,7 +376,7 @@
   author    = {Sagar Jha and
                Jonathan Behrens and
                Theo Gkountouvas and
-               Matthew Milano and
+               Mae Milano and
                Weijia Song and
                Edward Tremel and
                Robbert van Renesse and
@@ -302,7 +386,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {2},
-  year      = 2019,
+  year      = 2018,
   pages     = {4-1},
 }
 
@@ -315,7 +399,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {2},
-  year      = 2019,
+  year      = 2018,
   pages     = {5-1},
 }
 
@@ -330,7 +414,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {2},
-  year      = 2019,
+  year      = 2018,
   pages     = {6-1},
 }
 
@@ -345,7 +429,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {3},
-  year      = 2019,
+  year      = 2018,
   pages     = {7-1},
 }
 
@@ -356,7 +440,7 @@
   journal   = tocs,
   volume    = {36},
   number    = {3},
-  year      = 2019,
+  year      = 2018,
   pages     = {8-1},
 }
 
@@ -376,48 +460,82 @@
   journal   = tocs,
   volume    = {36},
   number    = {3},
-  year      = 2019,
+  year      = 2018,
   pages     = {9-1},
 }
 
-@article{DBLP:journals/tocs/MaceRF18,
-  author    = {Jonathan Mace and
-               Ryan Roelke and
-               Rodrigo Fonseca},
-  title     = {Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems},
+@article{DBLP:journals/tocs/BaiLH20,
+  author    = {Jia-Ju Bai and
+               Julia Lawall and
+               Shi-Min Hu},
+  title     = {Effective Detection of Sleep-in-atomic-context Bugs in the Linux Kernel},
   journal   = tocs,
-  volume    = {35},
+  volume    = {36},
+  number    = {4},
+  year      = 2018,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tocs/MalkhiT20,
+  author    = {Dahlia Malkhi and
+               Dan Tsafrir},
+  title     = {Introduction to the Special Issue on the Award Papers of {USENIX} {ATC} 2019},
+  journal   = tocs,
+  volume    = {36},
   number    = {4},
   year      = 2018,
   pages     = {11-1},
 }
 
-@article{DBLP:journals/tocs/ZhangSSKP18,
-  author    = {Irene Zhang and
-               Naveen Kr. Sharma and
-               Adriana Szekeres and
-               Arvind Krishnamurthy and
-               Dan R. K. Ports},
-  title     = {Building Consistent Transactions with Inconsistent Replication},
+@article{DBLP:journals/tocs/BalmauDZGCD20,
+  author    = {Oana Balmau and
+               Florin Dinu and
+               Willy Zwaenepoel and
+               Karan Gupta and
+               Ravishankar Chandhiramoorthi and
+               Diego Didona},
+  title     = {SILK+ Preventing Latency Spikes in {Log-Structured} Merge {Key-Value} Stores Running Heterogeneous Workloads},
   journal   = tocs,
-  volume    = {35},
+  volume    = {36},
   number    = {4},
   year      = 2018,
   pages     = {12-1},
 }
 
-@article{DBLP:journals/tocs/HuntZXPW18,
-  author    = {Tyler Hunt and
-               Zhiting Zhu and
-               Yuanzhong Xu and
-               Simon Peter and
-               Emmett Witchel},
-  title     = {Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data},
+@article{DBLP:journals/tocs/Leesatapornwongsa20,
+  author    = {Tanakorn Leesatapornwongsa and
+               Aritra Sengupta and
+               Masoud Saeida Ardekani and
+               Gustavo Petri and
+               Cesar A. Stuardo},
+  title     = {Transactuations: Where Transactions Meet the Physical World},
   journal   = tocs,
-  volume    = {35},
+  volume    = {36},
   number    = {4},
   year      = 2018,
   pages     = {13-1},
+}
+
+@article{DBLP:journals/tocs/SpinkWF20,
+  author    = {Tom Spink and
+               Harry Wagstaff and
+               Björn Franke},
+  title     = {A Retargetable System-level {DBT} Hypervisor},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2018,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tocs/Jha20,
+  author    = {Sagar Jha},
+  title     = {Corrigendum to "Derecho: Fast State Machine Replication for Cloud Services" by Jha et al., {ACM} Transactions on Computer Systems (TOCS) Volume 36, Issue 2, Article No. 4},
+  journal   = tocs,
+  volume    = {36},
+  number    = {4},
+  year      = 2018,
+  pages     = {15-1},
 }
 
 @article{DBLP:journals/tocs/ZhuR17,
@@ -613,6 +731,18 @@
   pages     = {11-1},
 }
 
+@article{DBLP:journals/tocs/MaceRF18,
+  author    = {Jonathan Mace and
+               Ryan Roelke and
+               Rodrigo Fonseca},
+  title     = {Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems},
+  journal   = tocs,
+  volume    = {35},
+  number    = {4},
+  year      = 2017,
+  pages     = {11-1},
+}
+
 @article{DBLP:journals/tocs/ZahediFFCL17,
   author    = {Seyed Majid Zahedi and
                Songchun Fan and
@@ -625,6 +755,34 @@
   number    = {4},
   year      = 2017,
   pages     = {12-1},
+}
+
+@article{DBLP:journals/tocs/ZhangSSKP18,
+  author    = {Irene Zhang and
+               Naveen Kr. Sharma and
+               Adriana Szekeres and
+               Arvind Krishnamurthy and
+               Dan R. K. Ports},
+  title     = {Building Consistent Transactions with Inconsistent Replication},
+  journal   = tocs,
+  volume    = {35},
+  number    = {4},
+  year      = 2017,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tocs/HuntZXPW18,
+  author    = {Tyler Hunt and
+               Zhiting Zhu and
+               Yuanzhong Xu and
+               Simon Peter and
+               Emmett Witchel},
+  title     = {Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data},
+  journal   = tocs,
+  volume    = {35},
+  number    = {4},
+  year      = 2017,
+  pages     = {13-1},
 }
 
 @article{DBLP:journals/tocs/HeiserE16,
@@ -1150,7 +1308,7 @@
   volume    = {31},
   number    = {1},
   year      = 2013,
-  pages     = {1-1},
+  pages     = {1},
 }
 
 @article{DBLP:journals/tocs/GovindanWSU13,
@@ -1163,7 +1321,7 @@
   volume    = {31},
   number    = {1},
   year      = 2013,
-  pages     = {2-1},
+  pages     = {2},
 }
 
 @article{DBLP:journals/tocs/RasmussenPCMMPV13,
@@ -1179,7 +1337,7 @@
   volume    = {31},
   number    = {1},
   year      = 2013,
-  pages     = {3-1},
+  pages     = {3},
 }
 
 @article{DBLP:journals/tocs/JayaramEJ13,
@@ -1191,7 +1349,7 @@
   volume    = {31},
   number    = {2},
   year      = 2013,
-  pages     = {4-1},
+  pages     = {4},
 }
 
 @article{DBLP:journals/tocs/SmaldoneGHIS13,
@@ -1205,7 +1363,7 @@
   volume    = {31},
   number    = {2},
   year      = 2013,
-  pages     = {5-1},
+  pages     = {5},
 }
 
 @article{DBLP:journals/tocs/LeeABXLBA13,
@@ -1221,7 +1379,7 @@
   volume    = {31},
   number    = {3},
   year      = 2013,
-  pages     = {6-1},
+  pages     = {6},
 }
 
 @article{DBLP:journals/tocs/GamageKXK13,
@@ -1234,7 +1392,7 @@
   volume    = {31},
   number    = {3},
   year      = 2013,
-  pages     = {7-1},
+  pages     = {7},
 }
 
 @article{DBLP:journals/tocs/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW13,
@@ -1269,7 +1427,7 @@
   volume    = {31},
   number    = {3},
   year      = 2013,
-  pages     = {8-1},
+  pages     = {8},
 }
 
 @article{DBLP:journals/tocs/Mowry13,
@@ -1279,7 +1437,7 @@
   volume    = {31},
   number    = {4},
   year      = 2013,
-  pages     = {9-1},
+  pages     = {9},
 }
 
 @article{DBLP:journals/tocs/BalakrishnanMDPWW13,
@@ -1294,7 +1452,7 @@
   volume    = {31},
   number    = {4},
   year      = 2013,
-  pages     = {10-1},
+  pages     = {10},
 }
 
 @article{DBLP:journals/tocs/BojnordiI13,
@@ -1305,7 +1463,7 @@
   volume    = {31},
   number    = {4},
   year      = 2013,
-  pages     = {11-1},
+  pages     = {11},
 }
 
 @article{DBLP:journals/tocs/DelimitrouK13,
@@ -1316,7 +1474,7 @@
   volume    = {31},
   number    = {4},
   year      = 2013,
-  pages     = {12-1},
+  pages     = {12},
 }
 
 @article{DBLP:journals/tocs/Mowry12,

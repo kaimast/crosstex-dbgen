@@ -1,5 +1,144 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/mobicom/AggarwalSSK22,
+  author    = {Shivang Aggarwal and
+               Ramanujan K. Sheshadri and
+               Karthikeyan Sundaresan and
+               Dimitrios Koutsonikolas},
+  title     = {Is wifi 802.11mc fine time measurement ready for prime-time localization?},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/mobicom/FlueratoruLN22,
+  author    = {Laura Flueratoru and
+               Elena Simona Lohan and
+               Dragos Niculescu},
+  title     = {Challenges in platform-independent {UWB} ranging and localization systems},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {9-15},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChoudhuryKSR22,
+  author    = {Shalini Choudhury and
+               Jakub Kolodziejski and
+               Ivan Seskar and
+               Dipankar Raychaudhuri},
+  title     = {Experimental evaluation of virtual reality applications running on next-gen network scenarios with edge cloud assistance},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {16-23},
+}
+
+@inproceedings{DBLP:conf/mobicom/BusaccaMTPR22,
+  author    = {Fabio Busacca and
+               Stefano Mangione and
+               Ilenia Tinnirello and
+               Sergio Palazzo and
+               Francesco Restuccia},
+  title     = {SDR-LoRa: dissecting and implementing {LoRa} on software-defined radios to advance experimental {IoT} research},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {24-31},
+}
+
+@inproceedings{DBLP:conf/mobicom/Shahid00QGBIZKZ22,
+  author    = {Mukaram Shahid and
+               Sarath Babu and
+               Hongwei Zhang and
+               Daji Qiao and
+               Yong Guan and
+               Joshua Ofori Boateng and
+               Taimoor Ul Islam and
+               Guoying Zu and
+               Ahmed E. Kamal and
+               Mai Zheng},
+  title     = {Wireless guard for trustworthy spectrum management},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {32-39},
+}
+
+@inproceedings{DBLP:conf/mobicom/NasimSIRS22,
+  author    = {Imtiaz Nasim and
+               Panagiotis Skrimponis and
+               Ahmed S. Ibrahim and
+               Sundeep Rangan and
+               Ivan Seskar},
+  title     = {Reinforcement learning of millimeter wave beamforming tracking over {COSMOS} platform},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {40-44},
+}
+
+@inproceedings{DBLP:conf/mobicom/VillaMJBM22,
+  author    = {Davide Villa and
+               Miead Tehrani Moayyed and
+               Pedram Johari and
+               Stefano Basagni and
+               Tommaso Melodia},
+  title     = {CaST: a toolchain for creating and characterizing realistic wireless network emulation scenarios},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {45-52},
+}
+
+@inproceedings{DBLP:conf/mobicom/SevaniSAK022,
+  author    = {Vishal Sevani and
+               Purushothaman Saravanan and
+               S. V. R. Anand and
+               Joy Kuri and
+               Anurag Kumar},
+  title     = {Time-slicing high throughput wifi networks using centralized queueing and scheduling},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {53-60},
+}
+
+@inproceedings{DBLP:conf/mobicom/KousiasRCABNN0B22,
+  author    = {Konstantinos Kousias and
+               Mohammad Rajiullah and
+               Giuseppe Caso and
+               Özgü Alay and
+               Anna Brunstorm and
+               Luca De Nardis and
+               Marco Neri and
+               Usman Ali and
+               Maria-Gabriella Di Benedetto},
+  title     = {Coverage and performance analysis of 5G non-standalone deployments},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {61-68},
+}
+
+@inproceedings{DBLP:conf/mobicom/RossaneseMGSAC22a,
+  author    = {Marco Rossanese and
+               Placido Mursia and
+               Andres Garcia-Saavedra and
+               Vincenzo Sciancalepore and
+               Arash Asadi and
+               Xavier Costa-Pérez},
+  title     = {Designing, building, and characterizing {RF} switch-based reconfigurable intelligent surfaces},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {69-76},
+}
+
+@inproceedings{DBLP:conf/mobicom/dOreyG0RS022,
+  author    = {Pedro M. d'Orey and
+               Miguel Gutiérrez Gaitán and
+               Pedro M. Santos and
+               Manuel Ribeiro and
+               João B. Sousa and
+               Luís Almeida},
+  title     = {Empirical evaluation of short-range wifi vessel-to-shore overwater communications},
+  booktitle = mobicom,
+  year      = 2022,
+  pages     = {77-84},
+}
+
 @inproceedings{DBLP:conf/mobicom/ChenMSKGPRZS21,
   author    = {Tingjun Chen and
                Prasanthi Maddala and

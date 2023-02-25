@@ -1,5 +1,395 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fc/BartolettiCL22,
+  author    = {Massimo Bartoletti and
+               James Hsin-yu Chiang and
+               Alberto Lluch-Lafuente},
+  title     = {Maximizing Extractable Value from Automated Market Makers},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {3-19},
+}
+
+@inproceedings{DBLP:conf/fc/GamaCPSA22,
+  author    = {Mariana Botelho da Gama and
+               John Cartlidge and
+               Antigoni Polychroniadou and
+               Nigel P. Smart and
+               Younes Talibi Alaoui},
+  title     = {Kicking-the-Bucket: Fast {Privacy-Preserving} Trading Using Buckets},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {20-37},
+}
+
+@inproceedings{DBLP:conf/fc/WangQMG22,
+  author    = {Zhipeng Wang and
+               Kaihua Qin and
+               Duc Vu Minh and
+               Arthur Gervais},
+  title     = {Speculative Multipliers on DeFi: Quantifying {On-Chain} Leverage Risks},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {38-56},
+}
+
+@inproceedings{DBLP:conf/fc/HanzlikK22,
+  author    = {Lucjan Hanzlik and
+               Kamil Kluczniak},
+  title     = {Explainable Arguments},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {59-79},
+}
+
+@inproceedings{DBLP:conf/fc/NguyenT22,
+  author    = {Duong Tung Nguyen and
+               Ni Trieu},
+  title     = {MPCCache: {Privacy-Preserving} {Multi-Party} Cooperative Cache Sharing at the Edge},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {80-99},
+}
+
+@inproceedings{DBLP:conf/fc/AbadiDMT22,
+  author    = {Aydin Abadi and
+               Changyu Dong and
+               Steven J. Murdoch and
+               Sotirios Terzis},
+  title     = {Multi-party Updatable Delegated Private Set Intersection},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {100-119},
+}
+
+@inproceedings{DBLP:conf/fc/SeresPB22,
+  author    = {István András Seres and
+               Balázs Pejó and
+               Péter Burcsi},
+  title     = {The Effect of False Positives: Why Fuzzy Message Detection Leads to Fuzzy Privacy Guarantees?},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {123-148},
+}
+
+@inproceedings{DBLP:conf/fc/ChitraAE22,
+  author    = {Tarun Chitra and
+               Guillermo Angeris and
+               Alex Evans},
+  title     = {Differential Privacy in Constant Function Market Makers},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {149-178},
+}
+
+@inproceedings{DBLP:conf/fc/SildeS22,
+  author    = {Tjerand Silde and
+               Martin Strand},
+  title     = {Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {179-199},
+}
+
+@inproceedings{DBLP:conf/fc/GaillyMN22,
+  author    = {Nicolas Gailly and
+               Mary Maller and
+               Anca Nitulescu},
+  title     = {SnarkPack: Practical {SNARK} Aggregation},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {203-229},
+}
+
+@inproceedings{DBLP:conf/fc/CascudoG22,
+  author    = {Ignacio Cascudo and
+               Emanuele Giunta},
+  title     = {On Interactive Oracle Proofs for Boolean R1{CS} Statements},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {230-247},
+}
+
+@inproceedings{DBLP:conf/fc/SinghDP22,
+  author    = {Nitin Singh and
+               Pankaj Dayama and
+               Vinayaka Pandit},
+  title     = {Zero Knowledge Proofs Towards Verifiable Decentralized {AI} Pipelines},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {248-275},
+}
+
+@inproceedings{DBLP:conf/fc/CohenGKLMSS22,
+  author    = {Shir Cohen and
+               Rati Gelashvili and
+               Eleftherios Kokoris-Kogias and
+               Zekun Li and
+               Dahlia Malkhi and
+               Alberto Sonnino and
+               Alexander Spiegelman},
+  title     = {Be Aware of Your Leaders},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {279-295},
+}
+
+@inproceedings{DBLP:conf/fc/GelashviliKSSX22,
+  author    = {Rati Gelashvili and
+               Lefteris Kokoris-Kogias and
+               Alberto Sonnino and
+               Alexander Spiegelman and
+               Zhuolun Xiang},
+  title     = {Jolteon and Ditto: {Network-Adaptive} Efficient Consensus with Asynchronous Fallback},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {296-315},
+}
+
+@inproceedings{DBLP:conf/fc/CachinMSZ22,
+  author    = {Christian Cachin and
+               Jovana Micic and
+               Nathalie Steinhauer and
+               Luca Zanolini},
+  title     = {Quick Order Fairness},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {316-333},
+}
+
+@inproceedings{DBLP:conf/fc/BiryukovNT22,
+  author    = {Alex Biryukov and
+               Gleb Naumenko and
+               Sergei Tikhomirov},
+  title     = {Analysis and Probing of Parallel Channels in the Lightning Network},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {337-357},
+}
+
+@inproceedings{DBLP:conf/fc/AvarikiotiPSSTY22,
+  author    = {Zeta Avarikioti and
+               Krzysztof Pietrzak and
+               Iosif Salem and
+               Stefan Schmid and
+               Samarth Tiwari and
+               Michelle Yeo},
+  title     = {Hide & Seek: {Privacy-Preserving} Rebalancing on Payment Channel Networks},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {358-373},
+}
+
+@inproceedings{DBLP:conf/fc/ZabkaFDS22,
+  author    = {Philipp Zabka and
+               Klaus-Tycho Förster and
+               Christian Decker and
+               Stefan Schmid},
+  title     = {Short Paper: A Centrality Analysis of the Lightning Network},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {374-385},
+}
+
+@inproceedings{DBLP:conf/fc/MoserN22,
+  author    = {Malte Möser and
+               Arvind Narayanan},
+  title     = {Resurrecting Address Clustering in Bitcoin},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {386-403},
+}
+
+@inproceedings{DBLP:conf/fc/ChenCDHR22,
+  author    = {Hongyin Chen and
+               Yukun Cheng and
+               Xiaotie Deng and
+               Wenhan Huang and
+               Linxuan Rong},
+  title     = {ABSNFT: Securitization and Repurchase Scheme for {Non-Fungible} Tokens Based on Game Theoretical Analysis},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {407-425},
+}
+
+@inproceedings{DBLP:conf/fc/AzouviH22,
+  author    = {Sarah Azouvi and
+               Alexander Hicks},
+  title     = {Decentralisation Conscious Players and System Reliability},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {426-443},
+}
+
+@inproceedings{DBLP:conf/fc/GongMSK22,
+  author    = {Tiantian Gong and
+               Mohsen Minaei and
+               Wenhai Sun and
+               Aniket Kate},
+  title     = {Towards Overcoming the Undercutting Problem},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {444-463},
+}
+
+@inproceedings{DBLP:conf/fc/WangLSW22,
+  author    = {Yuheng Wang and
+               Jiliang Li and
+               Zhou Su and
+               Yuyi Wang},
+  title     = {Arbitrage Attack: Miners of the World, Unite!},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {464-487},
+}
+
+@inproceedings{DBLP:conf/fc/AvarikiotiL22,
+  author    = {Zeta Avarikioti and
+               Orfeas Stefanos Thyfronitis Litos},
+  title     = {Suborn Channels: Incentives Against Timelock Bribes},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {488-511},
+}
+
+@inproceedings{DBLP:conf/fc/LotemAMZ22,
+  author    = {Ayelet Lotem and
+               Sarah Azouvi and
+               Patrick McCorry and
+               Aviv Zohar},
+  title     = {Sliding Window Challenge Process for Congestion Detection},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {512-530},
+}
+
+@inproceedings{DBLP:conf/fc/GelashviliGS22,
+  author    = {Rati Gelashvili and
+               Guy Goren and
+               Alexander Spiegelman},
+  title     = {Short Paper: On {Game-Theoretically-Fair} Leader Election},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {531-538},
+}
+
+@inproceedings{DBLP:conf/fc/NeuTT22,
+  author    = {Joachim Neu and
+               Ertem Nusret Tas and
+               David Tse},
+  title     = {The {Availability-Accountability} Dilemma and Its Resolution via Accountability Gadgets},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {541-559},
+}
+
+@inproceedings{DBLP:conf/fc/Schwarz-Schilling22,
+  author    = {Caspar Schwarz-Schilling and
+               Joachim Neu and
+               Barnabé Monnot and
+               Aditya Asgaonkar and
+               Ertem Nusret Tas and
+               David Tse},
+  title     = {Three Attacks on {Proof-of-Stake} Ethereum},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {560-576},
+}
+
+@inproceedings{DBLP:conf/fc/Terner22,
+  author    = {Benjamin Terner},
+  title     = {Permissionless Consensus in the Resource Model},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {577-593},
+}
+
+@inproceedings{DBLP:conf/fc/VeselyGSGJKOOT22,
+  author    = {Psi Vesely and
+               Kobi Gurkan and
+               Michael Straka and
+               Ariel Gabizon and
+               Philipp Jovanovic and
+               Georgios Konstantopoulos and
+               Asa Oines and
+               Marek Olszewski and
+               Eran Tromer},
+  title     = {Plumo: An Ultralight Blockchain Client},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {597-614},
+}
+
+@inproceedings{DBLP:conf/fc/ChatzigiannisBC22,
+  author    = {Panagiotis Chatzigiannis and
+               Foteini Baldimtsi and
+               Konstantinos Chalkias},
+  title     = {SoK: Blockchain Light Clients},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {615-641},
+}
+
+@inproceedings{DBLP:conf/fc/HegdeSGGV22,
+  author    = {Parikshit Hegde and
+               Robert Streit and
+               Yanni Georghiades and
+               Chaya Ganesh and
+               Sriram Vishwanath},
+  title     = {Achieving Almost All Blockchain Functionalities with Polylogarithmic Storage},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {642-660},
+}
+
+@inproceedings{DBLP:conf/fc/BaekNOTK22,
+  author    = {Seungjin Baek and
+               Hocheol Nam and
+               Yongwoo Oh and
+               Muoi Tran and
+               Min Suk Kang},
+  title     = {Short Paper: On the Claims of Weak Block Synchronization in Bitcoin},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {663-671},
+}
+
+@inproceedings{DBLP:conf/fc/TiwariAJDDRG22,
+  author    = {Pratyush Ranjan Tiwari and
+               Dhruv Agarwal and
+               Prakhar Jain and
+               Swagam Dasgupta and
+               Preetha Datta and
+               Vineet Reddy and
+               Debayan Gupta},
+  title     = {India's "Aadhaar" Biometric ID: Structure, Security, and Vulnerabilities},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {672-693},
+}
+
+@inproceedings{DBLP:conf/fc/GrundmannABH22,
+  author    = {Matthias Grundmann and
+               Hedwig Amberg and
+               Max Baumstark and
+               Hannes Hartenstein},
+  title     = {Short Paper: What Peer Announcements Tell Us About the Size of the Bitcoin P2P Network},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {694-704},
+}
+
+@inproceedings{DBLP:conf/fc/TindellMSW22,
+  author    = {Richard Tindell and
+               Alex Mitchell and
+               Nathan Sprague and
+               Xunhua Wang},
+  title     = {An Empirical Study of Two Bitcoin Artifacts Through Deep Learning},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {705-724},
+}
+
 @inproceedings{DBLP:conf/fc/SwamboP21,
   author    = {Jacob Swambo and
                Antoine Poinsot},
@@ -1896,7 +2286,7 @@
 }
 
 @inproceedings{DBLP:conf/fc/FantiKORVW19,
-  author    = {Giulia C. Fanti and
+  author    = {Giulia Fanti and
                Leonid Kogan and
                Sewoong Oh and
                Kathleen Ruan and
@@ -7896,7 +8286,7 @@
 
 @inproceedings{DBLP:conf/fc/MungamuruW08,
   author    = {Bob Mungamuru and
-               Stephen Weis},
+               Stephen A. Weis},
   title     = {Competition and Fraud in Online Advertising Markets},
   booktitle = fc,
   year      = 2008,
@@ -8065,7 +8455,7 @@
                Clay Woolam and
                Greg Hellings and
                Latifur Khan and
-               Bhavani M. Thuraisingham},
+               Bhavani Thuraisingham},
   title     = {Making Quantitative Measurements of Privacy/Analysis Tradeoffs Inherent to Packet Trace Anonymization},
   booktitle = fc,
   year      = 2008,
