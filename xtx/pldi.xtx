@@ -1,5 +1,166 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pldi/CowardCD23,
+  author    = {Samuel Coward and
+               George A. Constantinides and
+               Theo Drane},
+  title     = {Combining {E-Graphs} with Abstract Interpretation},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/pldi/Valero-LaraV23,
+  author    = {Pedro Valero-Lara and
+               Jeffrey S. Vetter},
+  title     = {A {MultiGPU} {Performance-Portable} Solution for Array Programming Based on Kokkos},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/pldi/NegriniSU23,
+  author    = {Luca Negrini and
+               Guruprerana Shabadi and
+               Caterina Urban},
+  title     = {Static Analysis of Data Transformations in Jupyter Notebooks},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {8-13},
+}
+
+@inproceedings{DBLP:conf/pldi/LisperK23,
+  author    = {Björn Lisper and
+               Linus Källberg},
+  title     = {HERO-ML: A Very {High-Level} Array Language for Executable Modelling of Data Parallel Algorithms},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {13-21},
+}
+
+@inproceedings{DBLP:conf/pldi/ArceriDZ23,
+  author    = {Vincenzo Arceri and
+               Greta Dolcetti and
+               Enea Zaffanella},
+  title     = {Speeding up Static Analysis with the Split Operator},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {14-19},
+}
+
+@inproceedings{DBLP:conf/pldi/0007EVSS23,
+  author    = {Michael Schwarz and
+               Julian Erhard and
+               Vesal Vojdani and
+               Simmo Saan and
+               Helmut Seidl},
+  title     = {When Long Jumps Fall Short: {Control-Flow} Tracking and Misuse Detection for Non-local Jumps in C},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {20-26},
+}
+
+@inproceedings{DBLP:conf/pldi/HsuS23,
+  author    = {Aaron W. Hsu and
+               Rodrigo Girão Serrão},
+  title     = {{U-Net} {CNN} in APL: Exploring Zero-Framework, {Zero-Library} Machine Learning},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {22-35},
+}
+
+@inproceedings{DBLP:conf/pldi/HohentannerKA23,
+  author    = {Konrad Hohentanner and
+               Florian Kasten and
+               Lukas Auer},
+  title     = {HWASanIO: Detecting C/C++ Intra-object Overflows with Memory Shading},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {27-33},
+}
+
+@inproceedings{DBLP:conf/pldi/MiltenbergerA23,
+  author    = {Marc Miltenberger and
+               Steven Arzt},
+  title     = {Extensible and Scalable Architecture for Hybrid Analysis},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {34-39},
+}
+
+@inproceedings{DBLP:conf/pldi/ColacoPP23,
+  author    = {Jean-Louis Colaço and
+               Baptiste Pauget and
+               Marc Pouzet},
+  title     = {Polymorphic Types with Polynomial Sizes},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {36-49},
+}
+
+@inproceedings{DBLP:conf/pldi/LiblitLMT023,
+  author    = {Ben Liblit and
+               Yingjun Lyu and
+               Rajdeep Mukherjee and
+               Omer Tripp and
+               Yanjun Wang},
+  title     = {{User-Assisted} Code Query Optimization},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {40-46},
+}
+
+@inproceedings{DBLP:conf/pldi/ReinhardF023,
+  author    = {Tobias Reinhard and
+               Justus Fasse and
+               Bart Jacobs},
+  title     = {Completeness Thresholds for Memory Safety of Array Traversing Programs},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {47-54},
+}
+
+@inproceedings{DBLP:conf/pldi/SpampinatoJZY23,
+  author    = {Daniele G. Spampinato and
+               Denis Jelovina and
+               Jiawei Zhuang and
+               Albert-Jan Nicholas Yzelman},
+  title     = {Towards Structured Algebraic Programming},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {50-61},
+}
+
+@inproceedings{DBLP:conf/pldi/LeeLKS23,
+  author    = {Sangrok Lee and
+               Jieun Lee and
+               Jaeyong Ko and
+               Jaewoo Shim},
+  title     = {Crosys: Cross Architectural Dynamic Analysis},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {55-62},
+}
+
+@inproceedings{DBLP:conf/pldi/Sengul23,
+  author    = {Andrew Sengul},
+  title     = {Faster {APL} with Lazy Extensions},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {62-74},
+}
+
+@inproceedings{DBLP:conf/pldi/WangSSO23,
+  author    = {Michael Wang and
+               Shashank Srikant and
+               Malavika Samak and
+               Una-May O'Reilly},
+  title     = {RaceInjector: Injecting Races to Evaluate and Learn Dynamic Race Detection Algorithms},
+  booktitle = pldi,
+  year      = 2023,
+  pages     = {63-70},
+}
+
 @inproceedings{DBLP:conf/pldi/LagunaLG22,
   author    = {Ignacio Laguna and
                Xinyi Li and
@@ -18146,7 +18307,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Lam88,
-  author    = {Monica S. Lam},
+  author    = {Monica Lam},
   title     = {Software Pipelining: An Effective Scheduling Technique for {VLIW} Machines},
   booktitle = pldi,
   year      = 1988,

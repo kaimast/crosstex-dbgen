@@ -1,5 +1,439 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fast/Warfield23,
+  author    = {Andy Warfield},
+  title     = {Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3)},
+  booktitle = fast,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/fast/KadekodiSCM23,
+  author    = {Saurabh Kadekodi and
+               Shashwat Silas and
+               David Clausen and
+               Arif Merchant},
+  title     = {Practical Design Considerations for Wide Locally Recoverable Codes (LRCs)},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/fast/0002CTLH0LW23,
+  author    = {Xiaolu Li and
+               Keyun Cheng and
+               Kaicheng Tang and
+               Patrick P. C. Lee and
+               Yuchong Hu and
+               Dan Feng and
+               Jie Li and
+               Ting-Yi Wu},
+  title     = {ParaRC: Embracing {Sub-Packetization} for Repair Parallelization in {MSR-Coded} Storage},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {17-32},
+}
+
+@inproceedings{DBLP:conf/fast/KotlarskaJLWDI23,
+  author    = {Iwona Kotlarska and
+               Andrzej Jackowski and
+               Krzysztof Lichota and
+               Michal Welnicki and
+               Cezary Dubnicki and
+               Konrad Iwanicki},
+  title     = {InftyDedup: Scalable and {Cost-Effective} Cloud Tiering with Deduplication},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {33-48},
+}
+
+@inproceedings{DBLP:conf/fast/LuX0ZZWZXS0W23,
+  author    = {Ruiming Lu and
+               Erci Xu and
+               Yiming Zhang and
+               Fengyi Zhu and
+               Zhaosheng Zhu and
+               Mengtian Wang and
+               Zongpeng Zhu and
+               Guangtao Xue and
+               Jiwu Shu and
+               Minglu Li and
+               Jiesheng Wu},
+  title     = {Perseus: A {Fail-Slow} Detection Framework for Cloud Storage Systems},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {49-64},
+}
+
+@inproceedings{DBLP:conf/fast/YuNCX23,
+  author    = {Jinghuan Yu and
+               Sam H. Noh and
+               Young-ri Choi and
+               Chun Jason Xue},
+  title     = {ADOC: Automatically Harmonizing Dataflow Between Components in {Log-Structured} {Key-Value} Stores for Improved Performance},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {65-80},
+}
+
+@inproceedings{DBLP:conf/fast/ShenZLY0ZL23,
+  author    = {Jiacheng Shen and
+               Pengfei Zuo and
+               Xuchuan Luo and
+               Tianyi Yang and
+               Yuxin Su and
+               Yangfan Zhou and
+               Michael R. Lyu},
+  title     = {FUSEE: A Fully {Memory-Disaggregated} {Key-Value} Store},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {81-98},
+}
+
+@inproceedings{DBLP:conf/fast/Li0ZCS23,
+  author    = {Pengfei Li and
+               Yu Hua and
+               Pengfei Zuo and
+               Zhangyu Chen and
+               Jiajie Sheng},
+  title     = {ROLEX: A Scalable {RDMA-oriented} Learned {Key-Value} Store for Disaggregated Memory Systems},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {99-114},
+}
+
+@inproceedings{DBLP:conf/fast/YangMYR23,
+  author    = {Juncheng Yang and
+               Ziming Mao and
+               Yao Yue and
+               K. V. Rashmi},
+  title     = {GL-Cache: Group-level learning for efficient and high-performance caching},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {115-134},
+}
+
+@inproceedings{DBLP:conf/fast/KhanYFPJJ0B23,
+  author    = {Redwan Ibne Seraj Khan and
+               Ahmad Hossein Yazdani and
+               Yuqi Fu and
+               Arnab K. Paul and
+               Bo Ji and
+               Xun Jian and
+               Yue Cheng and
+               Ali Raza Butt},
+  title     = {SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {135-152},
+}
+
+@inproceedings{DBLP:conf/fast/LiuDC23,
+  author    = {Lei Liu and
+               Xinglei Dou and
+               Yuetao Chen},
+  title     = {Intelligent Resource Scheduling for Co-located Latency-critical Services: A {Multi-Model} Collaborative Learning Approach},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {153-166},
+}
+
+@inproceedings{DBLP:conf/fast/OhYNMW23,
+  author    = {Joontaek Oh and
+               Seung Won Yoo and
+               Hojin Nam and
+               Changwoo Min and
+               Youjip Won},
+  title     = {CJFS: Concurrent Journaling for Better Scalability},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {167-182},
+}
+
+@inproceedings{DBLP:conf/fast/BasuSQJ23,
+  author    = {Aditya Basu and
+               John Sampson and
+               Zhiyun Qian and
+               Trent Jaeger},
+  title     = {Unsafe at Any Copy: Name Collisions from Mixing Case Sensitivities},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {183-198},
+}
+
+@inproceedings{DBLP:conf/fast/MahmudGZLBZ23,
+  author    = {Tabassum Mahmud and
+               Om Rameshwar Gatla and
+               Duo Zhang and
+               Carson Love and
+               Ryan Bumann and
+               Mai Zheng},
+  title     = {ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {199-214},
+}
+
+@inproceedings{DBLP:conf/fast/HeYGXCSCLXC23,
+  author    = {Xiaobin He and
+               Bin Yang and
+               Jie Gao and
+               Wei Xiao and
+               Qi Chen and
+               Shupeng Shi and
+               Dexun Chen and
+               Weiguo Liu and
+               Wei Xue and
+               Zuoning Chen},
+  title     = {HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {215-230},
+}
+
+@inproceedings{DBLP:conf/fast/LiC0HXDYHYLZWQL23,
+  author    = {Qiang Li and
+               Lulu Chen and
+               Xiaoliang Wang and
+               Shuo Huang and
+               Qiao Xiang and
+               Yuanyuan Dong and
+               Wenhui Yao and
+               Minfei Huang and
+               Puyuan Yang and
+               Shanyang Liu and
+               Zhaosheng Zhu and
+               Huayong Wang and
+               Haonan Qiu and
+               Derui Liu and
+               Shaozong Liu and
+               Yujie Zhou and
+               Yaohui Wu and
+               Zhiwu Wu and
+               Shang Gao and
+               Chao Han and
+               Zicheng Luo and
+               Yuchao Shao and
+               Gexiao Tian and
+               Zhongjie Wu and
+               Zheng Cao and
+               Jinbo Wu and
+               Jiwu Shu and
+               Jie Wu and
+               Jiesheng Wu},
+  title     = {Fisc: A Large-scale Cloud-native-oriented File System},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {231-246},
+}
+
+@inproceedings{DBLP:conf/fast/RamanathanZKKKM23,
+  author    = {Madhava Krishnan Ramanathan and
+               Diyu Zhou and
+               Wook-Hee Kim and
+               Sudarsun Kannan and
+               Sanidhya Kashyap and
+               Changwoo Min},
+  title     = {TENET: Memory Safe and Fault Tolerant Persistent Transactional Memory},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {247-264},
+}
+
+@inproceedings{DBLP:conf/fast/ZhongYHQAAS23,
+  author    = {Shawn Zhong and
+               Chenhao Ye and
+               Guanzhou Hu and
+               Suyan Qu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Michael M. Swift},
+  title     = {MadFS: {Per-File} Virtualization for Userspace Persistent Memory Filesystems},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {265-280},
+}
+
+@inproceedings{DBLP:conf/fast/WooHHNN23,
+  author    = {Hobin Woo and
+               Daegyu Han and
+               Seungjoon Ha and
+               Sam H. Noh and
+               Beomseok Nam},
+  title     = {On Stacking a Persistent Memory File System on Legacy File Systems},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {281-296},
+}
+
+@inproceedings{DBLP:conf/fast/GaoLX0S23,
+  author    = {Jian Gao and
+               Youyou Lu and
+               Minhui Xie and
+               Qing Wang and
+               Jiwu Shu},
+  title     = {Citron: Distributed Range Lock Management with One-sided {RDMA}},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {297-314},
+}
+
+@inproceedings{DBLP:conf/fast/YanL0XS23,
+  author    = {Bin Yan and
+               Youyou Lu and
+               Qing Wang and
+               Minhui Xie and
+               Jiwu Shu},
+  title     = {Patronus: {High-Performance} and Protective Remote Memory},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {315-330},
+}
+
+@inproceedings{DBLP:conf/fast/LiXWSWYDZHZWLCW23,
+  author    = {Qiang Li and
+               Qiao Xiang and
+               Yuxin Wang and
+               Haohao Song and
+               Ridi Wen and
+               Wenhui Yao and
+               Yuanyuan Dong and
+               Shuqi Zhao and
+               Shuo Huang and
+               Zhaosheng Zhu and
+               Huayong Wang and
+               Shanyang Liu and
+               Lulu Chen and
+               Zhiwu Wu and
+               Haonan Qiu and
+               Derui Liu and
+               Gexiao Tian and
+               Chao Han and
+               Shaozong Liu and
+               Yaohui Wu and
+               Zicheng Luo and
+               Yuchao Shao and
+               Junping Wu and
+               Zheng Cao and
+               Zhongjie Wu and
+               Jiaji Zhu and
+               Jinbo Wu and
+               Jiwu Shu and
+               Jiesheng Wu},
+  title     = {More Than Capacity: Performance-oriented Evolution of Pangu in Alibaba},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {331-346},
+}
+
+@inproceedings{DBLP:conf/fast/YangLLCLHS23,
+  author    = {Zhe Yang and
+               Youyou Lu and
+               Xiaojian Liao and
+               Youmin Chen and
+               Junru Li and
+               Siyu He and
+               Jiwu Shu},
+  title     = {λ-IO: A Unified {IO} Stack for Computational Storage},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {347-362},
+}
+
+@inproceedings{DBLP:conf/fast/SuLC0ZYX23,
+  author    = {Jingbo Su and
+               Jiahao Li and
+               Luofan Chen and
+               Cheng Li and
+               Kai Zhang and
+               Liang Yang and
+               Sam H. Noh and
+               Yinlong Xu},
+  title     = {Revitalizing the Forgotten {On-Chip} {DMA} to Expedite Data Movement in {NVM-based} Storage Systems},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {363-378},
+}
+
+@inproceedings{DBLP:conf/fast/KimSLJKK23,
+  author    = {Sang-Hoon Kim and
+               Jaehoon Shim and
+               Euidong Lee and
+               Seong-Yeob Jeong and
+               Ilkueon Kang and
+               Jin-Soo Kim},
+  title     = {NVMeVirt: A Versatile Software-defined Virtual {NVMe} Device},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {379-394},
+}
+
+@inproceedings{DBLP:conf/fast/ZhouXWDCFLWWSWF23,
+  author    = {Su Zhou and
+               Erci Xu and
+               Hao Wu and
+               Yu Du and
+               Jiacheng Cui and
+               Wanyu Fu and
+               Chang Liu and
+               Yingni Wang and
+               Wenbo Wang and
+               Shouqu Sun and
+               Xianfei Wang and
+               Bo Feng and
+               Biyun Zhu and
+               Xin Tong and
+               Weikang Kong and
+               Linyan Liu and
+               Zhongjie Wu and
+               Jinbo Wu and
+               Qingchao Luo and
+               Jiesheng Wu},
+  title     = {SMRSTORE: A Storage Engine for Cloud Object Storage on {HM-SMR} Drives},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {395-408},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangHNLWLHGK23,
+  author    = {Yuqi Zhang and
+               Wenwen Hao and
+               Ben Niu and
+               Kangkang Liu and
+               Shuyang Wang and
+               Na Liu and
+               Xing He and
+               Yongwong Gwon and
+               Chankyu Koh},
+  title     = {Multi-view Feature-based {SSD} Failure Prediction: What, When, and Why},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {409-424},
+}
+
+@inproceedings{DBLP:conf/fast/Ryu0SK23,
+  author    = {Junhee Ryu and
+               Dongeun Lee and
+               Kang G. Shin and
+               Kyungtae Kang},
+  title     = {Fast Application Launch on Personal Computing/Communication Devices},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {425-440},
+}
+
+@inproceedings{DBLP:conf/fast/KimCPL0023,
+  author    = {Yoona Kim and
+               Inhyuk Choi and
+               Juhyung Park and
+               Jaeheon Lee and
+               Sungjin Lee and
+               Jihong Kim},
+  title     = {Integrated {Host-SSD} Mapping Table Management for Improving User Experience of Smartphones},
+  booktitle = fast,
+  year      = 2023,
+  pages     = {441-456},
+}
+
 @inproceedings{DBLP:conf/fast/Arpaci-Dusseau22,
   author    = {Remzi H. Arpaci-Dusseau},
   title     = {25 Years of Storage Research and Education: A Retrospective},
@@ -5340,7 +5774,7 @@
   author    = {Ethan L. Miller and
                Darrell D. E. Long and
                William E. Freeman and
-               Benjamin Reed},
+               Benjamin C. Reed},
   title     = {Strong Security for {Network-Attached} Storage},
   booktitle = fast,
   year      = 2002,

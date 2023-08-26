@@ -1,5 +1,452 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/Wattenhofer23,
+  author    = {Roger Wattenhofer},
+  title     = {From Distributed Algorithms to Machine Learning and Back},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/podc/YokotaSOM23,
+  author    = {Daisuke Yokota and
+               Yuichi Sudo and
+               Fukuhito Ooshita and
+               Toshimitsu Masuzawa},
+  title     = {A Near Time-optimal Population Protocol for Self-stabilizing Leader Election on Rings with a Poly-logarithmic Number of States},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {2-12},
+}
+
+@inproceedings{DBLP:conf/podc/AmirABBHKL23,
+  author    = {Talley Amir and
+               James Aspnes and
+               Petra Berenbrink and
+               Felix Biermeier and
+               Christopher Hahn and
+               Dominik Kaaser and
+               John Lazarsfeld},
+  title     = {Fast Convergence of {k-Opinion} Undecided State Dynamics in the Population Protocol Model},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {13-23},
+}
+
+@inproceedings{DBLP:conf/podc/CossonMV23,
+  author    = {Romain Cosson and
+               Laurent Massoulié and
+               Laurent Viennot},
+  title     = {Brief Announcement: Efficient Collaborative Tree Exploration with {Breadth-First} {Depth-Next}},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {24-27},
+}
+
+@inproceedings{DBLP:conf/podc/Czerner23,
+  author    = {Philipp Czerner},
+  title     = {Brief Announcement: Population Protocols Decide Double-exponential Thresholds},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {28-31},
+}
+
+@inproceedings{DBLP:conf/podc/ChangL23,
+  author    = {Yi-Jun Chang and
+               Zeyong Li},
+  title     = {The Complexity of Distributed Approximation of Packing and Covering Integer Linear Programs},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {32-43},
+}
+
+@inproceedings{DBLP:conf/podc/HuangS23,
+  author    = {Shang-En Huang and
+               Hsin-Hao Su},
+  title     = {(1-ϵ)-Approximate Maximum Weighted Matching in poly(1/ϵ, log n) Time in the Distributed and Parallel Settings},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {44-54},
+}
+
+@inproceedings{DBLP:conf/podc/Chang23,
+  author    = {Yi-Jun Chang},
+  title     = {Efficient Distributed Decomposition and Routing Algorithms in {Minor-Free} Networks and Their Applications},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {55-66},
+}
+
+@inproceedings{DBLP:conf/podc/DouGHSW23,
+  author    = {Jinfeng Dou and
+               Thorsten Götte and
+               Henning Hillebrandt and
+               Christian Scheideler and
+               Julian Werthmann},
+  title     = {Brief Announcement: Distributed Construction of {Near-Optimal} Compact Routing Schemes for Planar Graphs},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {67-70},
+}
+
+@inproceedings{DBLP:conf/podc/Vos23,
+  author    = {Tijn de Vos},
+  title     = {Brief Announcement: Minimum Cost Maximum Flow in the {CONGEST} Model},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {71-74},
+}
+
+@inproceedings{DBLP:conf/podc/ForsterV23,
+  author    = {Sebastian Forster and
+               Tijn de Vos},
+  title     = {Brief Announcement: The Laplacian Paradigm in Deterministic Congested Clique},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {75-78},
+}
+
+@inproceedings{DBLP:conf/podc/ChanGW23,
+  author    = {David Yu Cheng Chan and
+               George Giakkoupis and
+               Philipp Woelfel},
+  title     = {{Word-Size} {RMR} Tradeoffs for Recoverable Mutual Exclusion},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {79-89},
+}
+
+@inproceedings{DBLP:conf/podc/CastanedaR23,
+  author    = {Armando Castañeda and
+               Gilde Valeria Rodríguez},
+  title     = {Asynchronous {Wait-Free} Runtime Verification and Enforcement of Linearizability},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {90-101},
+}
+
+@inproceedings{DBLP:conf/podc/SheffiP23,
+  author    = {Gali Sheffi and
+               Erez Petrank},
+  title     = {The {ERA} Theorem for Safe Memory Reclamation},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {102-112},
+}
+
+@inproceedings{DBLP:conf/podc/BashariJW23,
+  author    = {Benyamin Bashari and
+               Ali Jamadi and
+               Philipp Woelfel},
+  title     = {Efficient Bounded Timestamping from Standard Synchronization Primitives},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {113-123},
+}
+
+@inproceedings{DBLP:conf/podc/NaderibeniR23,
+  author    = {Hossein Naderibeni and
+               Eric Ruppert},
+  title     = {A Wait-free Queue with Polylogarithmic Step Complexity},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {124-134},
+}
+
+@inproceedings{DBLP:conf/podc/DufoulonMP23,
+  author    = {Fabien Dufoulon and
+               William K. Moses Jr. and
+               Gopal Pandurangan},
+  title     = {Distributed {MIS} in O(log log n) Awake Complexity},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {135-145},
+}
+
+@inproceedings{DBLP:conf/podc/0001P23,
+  author    = {Mohsen Ghaffari and
+               Julian Portmann},
+  title     = {Distributed {MIS} with Low Energy and Time Complexities},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {146-156},
+}
+
+@inproceedings{DBLP:conf/podc/MausPU23,
+  author    = {Yannic Maus and
+               Saku Peltonen and
+               Jara Uitto},
+  title     = {Distributed Symmetry Breaking on Power Graphs via Sparsification},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {157-167},
+}
+
+@inproceedings{DBLP:conf/podc/Robinson23,
+  author    = {Peter Robinson},
+  title     = {Brief Announcement: What Can We Compute in a Single Round of the Congested Clique?},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {168-171},
+}
+
+@inproceedings{DBLP:conf/podc/AgrawalAPR23,
+  author    = {Akanksha Agrawal and
+               John Augustine and
+               David Peleg and
+               Srikkanth Ramachandran},
+  title     = {Brief Announcement: Local Problems in the {SUPPORTED} Model},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {172-175},
+}
+
+@inproceedings{DBLP:conf/podc/LunaV23,
+  author    = {Giuseppe Antonio Di Luna and
+               Giovanni Viglietta},
+  title     = {Brief Announcement: Efficient Computation in Congested Anonymous Dynamic Networks},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {176-179},
+}
+
+@inproceedings{DBLP:conf/podc/0001T23,
+  author    = {Mohsen Ghaffari and
+               Anton Trygub},
+  title     = {A {Near-Optimal} Deterministic Distributed Synchronizer},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {180-189},
+}
+
+@inproceedings{DBLP:conf/podc/IzumiEWM23,
+  author    = {Taisuke Izumi and
+               Yuval Emek and
+               Tadashi Wadayama and
+               Toshimitsu Masuzawa},
+  title     = {Deterministic {Fault-Tolerant} Connectivity Labeling Scheme},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {190-199},
+}
+
+@inproceedings{DBLP:conf/podc/ArapinisKLM023,
+  author    = {Myrto Arapinis and
+               Ábel Kocsis and
+               Nikolaos Lamprou and
+               Liam Medley and
+               Thomas Zacharias},
+  title     = {Universally Composable Simultaneous Broadcast against a Dishonest Majority and Applications},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {200-210},
+}
+
+@inproceedings{DBLP:conf/podc/BerenbrinkCGMMR23,
+  author    = {Petra Berenbrink and
+               Colin Cooper and
+               Cristina Gava and
+               David Kohan Marzagão and
+               Frederik Mallmann-Trenn and
+               Tomasz Radzik and
+               Nicolas Rivera},
+  title     = {Distributed Averaging in Opinion Dynamics},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {211-221},
+}
+
+@inproceedings{DBLP:conf/podc/ZuzicHR23,
+  author    = {Goran Zuzic and
+               Bernhard Haeupler and
+               Antti Roeyskoe},
+  title     = {Sparse {Semi-Oblivious} Routing: Few Random Paths Suffice},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {222-232},
+}
+
+@inproceedings{DBLP:conf/podc/GiridharanSDHAC23,
+  author    = {Neil Giridharan and
+               Florian Suri-Payer and
+               Matthew Ding and
+               Heidi Howard and
+               Ittai Abraham and
+               Natacha Crooks},
+  title     = {BeeGees: Stayin' Alive in Chained {BFT}},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {233-243},
+}
+
+@inproceedings{DBLP:conf/podc/AlpturerHM23,
+  author    = {Kaya Alpturer and
+               Joseph Y. Halpern and
+               Ron van der Meyden},
+  title     = {Optimal Eventual Byzantine Agreement Protocols with Omission Failures},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {244-252},
+}
+
+@inproceedings{DBLP:conf/podc/WanM0SX23,
+  author    = {Jun Wan and
+               Atsuki Momose and
+               Ling Ren and
+               Elaine Shi and
+               Zhuolun Xiang},
+  title     = {On the Amortized Communication Complexity of Byzantine Broadcast},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {253-261},
+}
+
+@inproceedings{DBLP:conf/podc/FischerP23,
+  author    = {Orr Fischer and
+               Merav Parter},
+  title     = {Distributed {CONGEST} Algorithms against Mobile Adversaries},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {262-273},
+}
+
+@inproceedings{DBLP:conf/podc/BazziP23,
+  author    = {Rida A. Bazzi and
+               Sara Tucci Piergiovanni},
+  title     = {Brief Announcement: Breaking the f + 1 Barrier: Executing Payment Transactions in Parallel with Less than f + 1 Validations},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {274-277},
+}
+
+@inproceedings{DBLP:conf/podc/CooperRS23,
+  author    = {Colin Cooper and
+               Tomasz Radzik and
+               Takeharu Shiraga},
+  title     = {Brief Announcement: Discrete Incremental Voting},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {278-281},
+}
+
+@inproceedings{DBLP:conf/podc/DepresMPR23,
+  author    = {Mathilde Déprés and
+               Achour Mostéfaoui and
+               Matthieu Perrin and
+               Michel Raynal},
+  title     = {Brief Announcement: The {MBroadcast} Abstraction},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {282-285},
+}
+
+@inproceedings{DBLP:conf/podc/HajiaghayiKO23,
+  author    = {MohammadTaghi Hajiaghayi and
+               Dariusz Rafal Kowalski and
+               Jan Olkowski},
+  title     = {Brief Announcement: Improved Consensus in Quantum Networks},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {286-289},
+}
+
+@inproceedings{DBLP:conf/podc/Davies23,
+  author    = {Peter Davies},
+  title     = {Uniting {General-Graph} and {Geometric-Based} Radio Networks via Independence Number Parametrization},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {290-299},
+}
+
+@inproceedings{DBLP:conf/podc/Davies23a,
+  author    = {Peter Davies},
+  title     = {Optimal {Message-Passing} with Noisy Beeps},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {300-309},
+}
+
+@inproceedings{DBLP:conf/podc/GiakkoupisZ23,
+  author    = {George Giakkoupis and
+               Isabella Ziccardi},
+  title     = {Distributed {Self-Stabilizing} {MIS} with Few States and Weak Communication},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {310-320},
+}
+
+@inproceedings{DBLP:conf/podc/0001GLZ23,
+  author    = {Tobias Friedrich and
+               Hans Gawendowicz and
+               Pascal Lenzner and
+               Arthur Zahn},
+  title     = {The Impact of Cooperation in Bilateral Network Creation},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {321-331},
+}
+
+@inproceedings{DBLP:conf/podc/CivitGGKV23,
+  author    = {Pierre Civit and
+               Seth Gilbert and
+               Rachid Guerraoui and
+               Jovan Komatovic and
+               Manuel Vidigueira},
+  title     = {On the Validity of Consensus},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {332-343},
+}
+
+@inproceedings{DBLP:conf/podc/ChlebusKO23,
+  author    = {Bogdan S. Chlebus and
+               Dariusz Rafal Kowalski and
+               Jan Olkowski},
+  title     = {Deterministic {Fault-Tolerant} Distributed Computing in Linear Time and Communication},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {344-354},
+}
+
+@inproceedings{DBLP:conf/podc/Kutten0T023,
+  author    = {Shay Kutten and
+               Peter Robinson and
+               Ming Ming Tan and
+               Xianbin Zhu},
+  title     = {Improved Tradeoffs for Leader Election},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {355-365},
+}
+
+@inproceedings{DBLP:conf/podc/JayantiJJ23,
+  author    = {Prasad Jayanti and
+               Siddhartha Visveswara Jayanti and
+               Sucharita Jayanti},
+  title     = {Brief Announcement: Efficient Recoverable {Writable-CAS}},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {366-369},
+}
+
+@inproceedings{DBLP:conf/podc/TranT23,
+  author    = {Anh Tran and
+               Edward Talmage},
+  title     = {Brief Announcement: Improved, {Partially-Tight} Multiplicity Queue Lower Bounds},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {370-373},
+}
+
+@inproceedings{DBLP:conf/podc/CadambeL23,
+  author    = {Viveck R. Cadambe and
+               Shihang Lyu},
+  title     = {Brief Announcement: CausalEC: A Causally Consistent Data Storage Algorithm based on {Cross-Object} Erasure Coding},
+  booktitle = podc,
+  year      = 2023,
+  pages     = {374-377},
+}
+
 @inproceedings{DBLP:conf/podc/AguilieraRSPSW22,
   author    = {Marcos Aguiliera and
                Andréa W. Richa and
@@ -746,7 +1193,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/KrishnaG0C22,
-  author    = {Shankara Narayanan Krishna and
+  author    = {Shankaranarayanan Krishna and
                Adwait Godbole and
                Roland Meyer and
                Soham Chakraborty},
@@ -5774,7 +6221,7 @@
                Hugues Fauconnier and
                Petr Kuznetsov and
                Eric Ruppert},
-  title     = {On the Space Complexity of Set Agreement?},
+  title     = {On the Space Complexity of Set Agreement},
   booktitle = podc,
   year      = 2015,
   pages     = {271-280},
@@ -9451,7 +9898,7 @@
 
 @inproceedings{DBLP:conf/podc/JunqueiraR09,
   author    = {Flavio Paiva Junqueira and
-               Benjamin Reed},
+               Benjamin C. Reed},
   title     = {The life and times of a zookeeper},
   booktitle = podc,
   year      = 2009,
@@ -17548,7 +17995,7 @@
 
 @inproceedings{DBLP:conf/podc/SamadaniK95,
   author    = {Mehrdad Samadani and
-               Erich Kaltofen},
+               Erich L. Kaltofen},
   title     = {Prediction Based Task Scheduling in Distributed Computing},
   booktitle = podc,
   year      = 1995,
@@ -19951,7 +20398,7 @@
 @inproceedings{DBLP:conf/podc/LiskovL86,
   author    = {Barbara Liskov and
                Rivka Ladin},
-  title     = {{Highly-Available} Distributed Service and {Fault-Tolerant} Distributed Garbage Collection},
+  title     = {{Highly-Available} Distributed Services and {Fault-Tolerant} Distributed Garbage Collection},
   booktitle = podc,
   year      = 1986,
   pages     = {29-39},

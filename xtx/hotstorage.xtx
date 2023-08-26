@@ -1,5 +1,203 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotstorage/LimY0LYH23,
+  author    = {Jinyeong Lim and
+               Juncheol Ye and
+               Jaehong Kim and
+               Hwijoon Lim and
+               Hyunho Yeo and
+               Dongsu Han},
+  title     = {Neural Cloud Storage: Innovative Cloud Storage Solution for Cold Video},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/hotstorage/PrakriyaYMHC23,
+  author    = {Neha Prakriya and
+               Yu Yang and
+               Baharan Mirzasoleiman and
+               Cho-Jui Hsieh and
+               Jason Cong},
+  title     = {NeSSA: {Near-Storage} Data Selection for Accelerated Machine Learning Training},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {8-15},
+}
+
+@inproceedings{DBLP:conf/hotstorage/HongLYPH23,
+  author    = {Uitaek Hong and
+               Hwijoon Lim and
+               Hyunho Yeo and
+               Jinwoo Park and
+               Dongsu Han},
+  title     = {SAND: A Storage Abstraction for Video-based Deep Learning},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {16-23},
+}
+
+@inproceedings{DBLP:conf/hotstorage/KwonLJ23,
+  author    = {Miryeong Kwon and
+               Sangwon Lee and
+               Myoungsoo Jung},
+  title     = {Cache in Hand: {Expander-Driven} {CXL} Prefetcher for Next Generation {CXL-SSD}},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {24-30},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeeCL0023,
+  author    = {Dusol Lee and
+               Inhyuk Choi and
+               Chanyoung Lee and
+               Sungjin Lee and
+               Jihong Kim},
+  title     = {P2Cache: An {Application-Directed} Page Cache for Improving Performance of {Data-Intensive} Applications},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LinCA0S23,
+  author    = {Zhen Lin and
+               Lianjie Cao and
+               Faraz Ahmed and
+               Hui Lu and
+               Puneet Sharma},
+  title     = {When Caching Systems Meet Emerging Storage Devices: A Case Study},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {37-43},
+}
+
+@inproceedings{DBLP:conf/hotstorage/WhitakerSHA23,
+  author    = {Caeden Whitaker and
+               Sidharth Sundar and
+               Bryan Harris and
+               Nihat Altiparmak},
+  title     = {Do we still need {IO} schedulers for low-latency disks?},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {44-50},
+}
+
+@inproceedings{DBLP:conf/hotstorage/SheldonZABIR23,
+  author    = {Jennifer Sheldon and
+               Weidong Zhu and
+               Adnan Abdullah and
+               Kevin R. B. Butler and
+               Md Jahidul Islam and
+               Sara Rampazzi},
+  title     = {Deep Note: Can Acoustic Interference Damage the Availability of Hard Disk Storage in Underwater Data Centers?},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {51-57},
+}
+
+@inproceedings{DBLP:conf/hotstorage/SundarSHWHA23,
+  author    = {Sidharth Sundar and
+               William Simpson and
+               Jacob Higdon and
+               Caeden Whitaker and
+               Bryan Harris and
+               Nihat Altiparmak},
+  title     = {Energy Implications of {IO} Interface Design Choices},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {58-64},
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangPCK23,
+  author    = {Xiangqun Zhang and
+               Shuyi Pei and
+               Jongmoo Choi and
+               Bryan S. Kim},
+  title     = {Excessive {SSD-Internal} Parallelism Considered Harmful},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {65-72},
+}
+
+@inproceedings{DBLP:conf/hotstorage/DangYWL23,
+  author    = {Hongyang Dang and
+               Xiangyu Yao and
+               Zheng Wan and
+               Qiao Li},
+  title     = {A Study of Invalid Programming in 3D {QLC} {NAND} Flash Memories},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {73-79},
+}
+
+@inproceedings{DBLP:conf/hotstorage/RaquibuzzamanMR23,
+  author    = {Md Raquibuzzaman and
+               Aleksandar Milenkovic and
+               Biswajit Ray},
+  title     = {Hide-and-Seek: Hiding Secrets in Threshold Voltage Distributions of {NAND} Flash Memory Cells},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {80-86},
+}
+
+@inproceedings{DBLP:conf/hotstorage/SongHLZS23,
+  author    = {Yunpeng Song and
+               Yiyang Huang and
+               Yina Lv and
+               Yi Zhang and
+               Liang Shi},
+  title     = {When F2{FS} Meets {Compression-Based} SSD!},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {87-92},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiuAKSZ23,
+  author    = {Yifei Liu and
+               Gautam Ahuja and
+               Geoff Kuenning and
+               Scott A. Smolka and
+               Erez Zadok},
+  title     = {Input and Output Coverage Needed in File System Testing},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {93-101},
+}
+
+@inproceedings{DBLP:conf/hotstorage/SeoCLBD23,
+  author    = {Dongjoo Seo and
+               Ping-Xiang Chen and
+               Huaicheng Li and
+               Matias Bjørling and
+               Nikil D. Dutt},
+  title     = {Is Garbage Collection Overhead Gone? Case study of F2{FS} on {ZNS} {SSDs}},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {102-108},
+}
+
+@inproceedings{DBLP:conf/hotstorage/ByeonRJK023,
+  author    = {Sungjin Byeon and
+               Joseph Ro and
+               Safdar Jamil and
+               Jeong-Uk Kang and
+               Youngjae Kim},
+  title     = {A {Free-Space} Adaptive Runtime {Zone-Reset} Algorithm for Enhanced {ZNS} Efficiency},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {109-115},
+}
+
+@inproceedings{DBLP:conf/hotstorage/LeeSK23,
+  author    = {Euidong Lee and
+               Ikjoon Son and
+               Jin-Soo Kim},
+  title     = {An Efficient {Order-Preserving} Recovery for F2{FS} with {ZNS} {SSD}},
+  booktitle = hotstorage,
+  year      = 2023,
+  pages     = {116-122},
+}
+
 @inproceedings{DBLP:conf/hotstorage/MahmudZGZ22,
   author    = {Tabassum Mahmud and
                Duo Zhang and

@@ -1,5 +1,377 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cidr/00010PT0L23,
+  author    = {Lukas Vogel and
+               Daniel Ritter and
+               Danica Porobic and
+               Pinar Tözün and
+               Tianzheng Wang and
+               Alberto Lerner},
+  title     = {Data Pipes: Declarative Control over Data Movement},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/0001BLB23,
+  author    = {Tobias Ziegler and
+               Philip A. Bernstein and
+               Viktor Leis and
+               Carsten Binnig},
+  title     = {Is Scalable {OLTP} in the Cloud a Solved Problem?},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/0001KPDSZ23,
+  author    = {Paras Jain and
+               Peter Kraft and
+               Conor Power and
+               Tathagata Das and
+               Ion Stoica and
+               Matei Zaharia},
+  title     = {Analyzing and Comparing Lakehouse Storage Systems},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/0001P0BLC23,
+  author    = {Jinwoo Jeong and
+               Kibin Park and
+               Sangjin Lee and
+               Philippe Bonnet and
+               Alberto Lerner and
+               Philippe Cudré-Mauroux},
+  title     = {Far-and-Near: {Co-Designed} Storage Reliability Between Database and {SSDs}},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/0001W00L23,
+  author    = {Qizhen Zhang and
+               Jiacheng Wu and
+               Ang Chen and
+               Vincent Liu and
+               Boon Thau Loo},
+  title     = {Templating Shuffles},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/0027KCDGKSSZ23,
+  author    = {Qian Li and
+               Peter Kraft and
+               Michael J. Cafarella and
+               Çagatay Demiralp and
+               Goetz Graefe and
+               Christos Kozyrakis and
+               Michael Stonebraker and
+               Lalith Suresh and
+               Matei Zaharia},
+  title     = {Transactions Make Debugging Easy},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/ChasialisVCA23,
+  author    = {Konstantinos Chasialis and
+               Srinivas Karthik Venkatesh and
+               Bikash Chandra and
+               Anastasia Ailamaki},
+  title     = {Predicting Query Execution Time for {JIT} Compiled Database Engines},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/ChattopadhyayPA23,
+  author    = {Biswapesh Chattopadhyay and
+               Pedro Pedreira and
+               Sameer Agarwal and
+               Yutian Sun and
+               Suketu Vakharia and
+               Peng Li and
+               Weiran Liu and
+               Sundaram Narayanan},
+  title     = {Shared Foundations: Modernizing Meta's Data Lakehouse},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/ChenG0FM023,
+  author    = {Zui Chen and
+               Zihui Gu and
+               Lei Cao and
+               Ju Fan and
+               Samuel Madden and
+               Nan Tang},
+  title     = {Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/ChengHXBB023,
+  author    = {Chaoyi Cheng and
+               Mingzhe Han and
+               Nuo Xu and
+               Spyros Blanas and
+               Michael D. Bond and
+               Yang Wang},
+  title     = {Developer's Responsibility or Database's Responsibility? Rethinking Concurrency Control in Databases},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/CongGFJD23,
+  author    = {Tianji Cong and
+               James Gale and
+               Jason Frantz and
+               H. V. Jagadish and
+               Çagatay Demiralp},
+  title     = {WarpGate: A Semantic Join Discovery System for Cloud Data Warehouses},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/GandhiAFGZSCCI23,
+  author    = {Apurva Gandhi and
+               Yuki Asada and
+               Victor Fu and
+               Advitya Gemawat and
+               Lihao Zhang and
+               Rathijit Sen and
+               Carlo Curino and
+               Jesús Camacho-Rodríguez and
+               Matteo Interlandi},
+  title     = {The Tensor Data Platform: Towards an {AI-centric} Database System},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/GeyerKHL23,
+  author    = {Andreas Geyer and
+               Alexander Krause and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {Pipeline Group Optimization on Disaggregated Systems},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/GrulichLNPMZM23,
+  author    = {Philipp M. Grulich and
+               Aljoscha P. Lepping and
+               Dwi Prasetyo Adi Nugroho and
+               Varun Pandey and
+               Bonaventura Del Monte and
+               Steffen Zeuch and
+               Volker Markl},
+  title     = {Towards Unifying Query Interpretation and Compilation},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/GuptaAS23,
+  author    = {Suyash Gupta and
+               Mohammad Javad Amiri and
+               Mohammad Sadoghi},
+  title     = {Chemistry behind Agreement},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/HaffnerD23,
+  author    = {Immanuel Haffner and
+               Jens Dittrich},
+  title     = {mutable: A Modern {DBMS} for Research and Fast Prototyping},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/Hambardzumyan23,
+  author    = {Sasun Hambardzumyan},
+  title     = {Deep Lake: A Lakehouse for Deep Learning},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/HirnG23,
+  author    = {Denis Hirn and
+               Torsten Grust},
+  title     = {A Fix for the Fixation on Fixpoints},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/JinFCLS23,
+  author    = {Guodong Jin and
+               Xiyang Feng and
+               Ziyi Chen and
+               Chang Liu and
+               Semih Salihoglu},
+  title     = {KÙ{ZU} Graph Database Management System},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/LimBZC0XGP23,
+  author    = {Wan Shen Lim and
+               Matthew Butrovich and
+               William Zhang and
+               Andrew Crotty and
+               Lin Ma and
+               Peijing Xu and
+               Johannes Gehrke and
+               Andrew Pavlo},
+  title     = {Database Gyms},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/Low23,
+  author    = {Yucheng Low and
+               Rajat Arya and
+               Ajit Banerjee and
+               Ann Huang and
+               Brian Ronan and
+               Hoyt Koepke and
+               Joseph Godlewski and
+               Zach Nation},
+  title     = {Git Is For Data},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/May0DFD23,
+  author    = {Norman May and
+               Daniel Ritter and
+               Andre Dossinger and
+               Christian Faerber and
+               Süleyman Sirri Demirsoy},
+  title     = {DASH: Asynchronous Hardware Data Processing Services},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/MilnerCZ0SJS23,
+  author    = {Henry Milner and
+               Yihua Cheng and
+               Jibin Zhan and
+               Hui Zhang and
+               Vyas Sekar and
+               Junchen Jiang and
+               Ion Stoica},
+  title     = {Raising the Level of Abstraction for {Time-State} Analytics With the Timeline Framework},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/NicholsonRCA23,
+  author    = {Hamish Nicholson and
+               Aunn Raza and
+               Periklis Chrysogelos and
+               Anastasia Ailamaki},
+  title     = {HetCache: Synergising {NVMe} Storage and {GPU} acceleration for {Memory-Efficient} Analytics},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/OusterhoutMDFRT23,
+  author    = {Amy Ousterhout and
+               Steven McCanne and
+               Henri Dubois-Ferrière and
+               Silvery Fu and
+               Sylvia Ratnasamy and
+               Noah Treuhaft},
+  title     = {Zed: Leveraging Data Types to Process Eclectic Data},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/Papakonstantinou23,
+  author    = {Michael Armbrust and
+               Ali Ghodsi and
+               Reynold Xin and
+               Vuk Ercegovac and
+               Sourav Chatterji and
+               Eun-Gyu Kim and
+               Paul Lappas and
+               Yannis Papakonstantinou and
+               Yingyi Bu and
+               Yuhong Chen and
+               Yijia Cui and
+               Rahul Govind and
+               Aakash Japi and
+               Kiavash Kianfar and
+               Xi Liang and
+               Jon Mio and
+               Mukul Murthy and
+               Supun Nakandala and
+               Andreas Neumann and
+               Nitin Sharma and
+               Yannis Sismanis and
+               Justin Tang and
+               Joseph Torres and
+               Min Yang and
+               Li Zhang and
+               Bilal Aslam},
+  title     = {Making Data Engineering Declarative},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/PsarakisZFSK23,
+  author    = {Kyriakos Psarakis and
+               Wouter Zorgdrager and
+               Marios Fragkoulis and
+               Guido Salvaneschi and
+               Asterios Katsifodimos},
+  title     = {Stateful Entities: Object-oriented Cloud Applications as Distributed Dataflows},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/Schelter23,
+  author    = {Sebastian Schelter},
+  title     = {Reconstructing and Querying {ML} Pipeline Intermediates},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/SchuhknechtH23,
+  author    = {Felix Martin Schuhknecht and
+               Justus Henneberg},
+  title     = {Towards Adaptive Storage Views in Virtual Memory},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/WoldeSSB23,
+  author    = {Daniel ten Wolde and
+               Tavneet Singh and
+               Gábor Szárnyas and
+               Peter A. Boncz},
+  title     = {DuckPGQ: Efficient Property Graph Queries in an analytical {RDBMS}},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/YadavR23,
+  author    = {Ritwik Yadav and
+               Anirban Rahut},
+  title     = {FlexiRaft: Flexible Quorums with Raft},
+  booktitle = cidr,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhouYGS23,
+  author    = {Xinjing Zhou and
+               Xiangyao Yu and
+               Goetz Graefe and
+               Michael Stonebraker},
+  title     = {Two is Better Than One: The Case for 2-Tree for Skewed Data Sets},
+  booktitle = cidr,
+  year      = 2023,
+}
+
 @inproceedings{DBLP:conf/cidr/0001BBCLL22,
   author    = {Qizhen Zhang and
                Philip A. Bernstein and
@@ -321,7 +693,7 @@
                Jialin Ding and
                Tim Kraska and
                Sivaprasad Sudhir and
-               David Cohen and
+               David E. Cohen and
                Timothy G. Mattson and
                Nesime Tatbul},
   title     = {{Self-Organizing} Data Containers},
@@ -2371,6 +2743,8 @@
   author    = {Shoumik Palkar and
                James Thomas and
                Anil Shanbhag and
+               Deepak Narayanan and
+               Holger Pirk and
                Malte Schwarzkopf and
                Saman P. Amarasinghe and
                Matei Zaharia},
@@ -4475,7 +4849,7 @@
                Edward Bortnikov and
                Khaled Elmeleegy and
                Flavio Junqueira and
-               Benjamin Reed},
+               Benjamin C. Reed},
   title     = {Interactive Analysis of {Web-Scale} Data},
   booktitle = cidr,
   year      = 2009,

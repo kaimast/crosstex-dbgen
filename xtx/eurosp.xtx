@@ -1,5 +1,1490 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosp/RacitiB23,
+  author    = {Mario Raciti and
+               Giampaolo Bella},
+  title     = {A Threat Model for Soft Privacy on Smart Cars},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/eurosp/RuggiaPMNA23,
+  author    = {Antonio Ruggia and
+               Andrea Possemato and
+               Alessio Merlo and
+               Dario Nisi and
+               Simone Aonzo},
+  title     = {Android, Notify Me When It Is Time To Go Phishing},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/eurosp/KalogiannisHP23,
+  author    = {Konstantinos Kalogiannis and
+               Andreas Henriksson and
+               Panos Papadimitratos},
+  title     = {Vulnerability Analysis of Vehicular Coordinated Maneuvers},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/eurosp/LiuPVP23,
+  author    = {Jienan Liu and
+               Pooja Pun and
+               Phani Vadrevu and
+               Roberto Perdisci},
+  title     = {Understanding, Measuring, and Detecting Modern Technical Support Scams},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {18-38},
+}
+
+@inproceedings{DBLP:conf/eurosp/BenedettiVM23,
+  author    = {Giacomo Benedetti and
+               Luca Verderame and
+               Alessio Merlo},
+  title     = {A Preliminary Study of Privilege Life Cycle in Software Management Platform Automation Workflows},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {21-28},
+}
+
+@inproceedings{DBLP:conf/eurosp/GuoB23,
+  author    = {Yuejun Guo and
+               Seifeddine Bettaieb},
+  title     = {An Investigation of Quality Issues in Vulnerability Detection Datasets},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {29-33},
+}
+
+@inproceedings{DBLP:conf/eurosp/KrakerVH23,
+  author    = {Wesley de Kraker and
+               Harald Vranken and
+               Arjen Hommmersom},
+  title     = {GLICE: Combining Graph Neural Networks and Program Slicing to Improve Software Vulnerability Detection},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {34-41},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChenWE23,
+  author    = {Wentao Chen and
+               Fuzhou Wang and
+               Matthew Edwards},
+  title     = {Active Countermeasures for Email Fraud},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {39-55},
+}
+
+@inproceedings{DBLP:conf/eurosp/BaiWWL23,
+  author    = {Weiheng Bai and
+               Kefu Wu and
+               Qiushi Wu and
+               Kangjie Lu},
+  title     = {Guiding Directed Fuzzing with Feasibility},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {42-49},
+}
+
+@inproceedings{DBLP:conf/eurosp/LlamasPJ23,
+  author    = {Javier Martínez Llamas and
+               Davy Preuveneers and
+               Wouter Joosen},
+  title     = {Effective Machine Learning-based Access Control Administration through Unlearning},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {50-57},
+}
+
+@inproceedings{DBLP:conf/eurosp/NairS23,
+  author    = {Vivek Nair and
+               Dawn Song},
+  title     = {{Multi-Factor} Credential Hashing for Asymmetric {Brute-Force} Attack Resistance},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {56-72},
+}
+
+@inproceedings{DBLP:conf/eurosp/AparoBLLM23,
+  author    = {Carmelo Aparo and
+               Cinzia Bernardeschi and
+               Giuseppe Lettieri and
+               Fabio Lucattini and
+               Salvatore Montanarella},
+  title     = {An Analysis System to Test Security of Software on Continuous {Integration-Continuous} Delivery Pipeline},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {58-67},
+}
+
+@inproceedings{DBLP:conf/eurosp/LykousasP23,
+  author    = {Nikolaos Lykousas and
+               Constantinos Patsakis},
+  title     = {Tales from the Git: Automating the detection of secrets on code and assessing developers' passwords choices},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {68-75},
+}
+
+@inproceedings{DBLP:conf/eurosp/NatarajanLDD23,
+  author    = {Deepika Natarajan and
+               Andrew D. Loveless and
+               Wei Dai and
+               Ronald G. Dreslinski},
+  title     = {Chex-Mix: Combining Homomorphic Encryption with Trusted Execution Environments for Oblivious Inference in the Cloud},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {73-91},
+}
+
+@inproceedings{DBLP:conf/eurosp/GebauerMLGP23,
+  author    = {Michael Gebauer and
+               Faraz Maschhur and
+               Nicola Leschke and
+               Elias Grünewald and
+               Frank Pallas},
+  title     = {A 'Human-in-the-Loop' approach for Information Extraction from Privacy Policies under Data Scarcity},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {76-83},
+}
+
+@inproceedings{DBLP:conf/eurosp/ReichertS23,
+  author    = {Leonie Reichert and
+               Björn Scheuermann},
+  title     = {An Analysis of Requirements and Privacy Threats in Mobile Data Donations},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {84-93},
+}
+
+@inproceedings{DBLP:conf/eurosp/MillwoodPPMGK23,
+  author    = {Owen Millwood and
+               Meltem Kurt Pehlivanoglu and
+               Aryan Mohammadi Pasikhani and
+               Jack Miskelly and
+               Prosanta Gope and
+               Elif Bilge Kavun},
+  title     = {A Generic Obfuscation Framework for Preventing {ML-Attacks} on {Strong-PUFs} through Exploitation of {DRAM-PUFs}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {92-106},
+}
+
+@inproceedings{DBLP:conf/eurosp/JainRAS23,
+  author    = {Akshath Jain and
+               David Rodriguez and
+               José M. del Álamo and
+               Norman M. Sadeh},
+  title     = {ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {94-107},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChevalMR23,
+  author    = {Vincent Cheval and
+               José Moreira and
+               Mark Ryan},
+  title     = {Automatic verification of transparency protocols},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {107-121},
+}
+
+@inproceedings{DBLP:conf/eurosp/MorelF23,
+  author    = {Victor Morel and
+               Simone Fischer-Hübner},
+  title     = {Automating privacy decisions -where to draw the line?},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {108-116},
+}
+
+@inproceedings{DBLP:conf/eurosp/GhaiYR23,
+  author    = {Tanmay Ghai and
+               Yixiang Yao and
+               Srivatsan Ravi},
+  title     = {Lessons Learned: Building a {Privacy-Preserving} Entity Resolution Adaptation of {PPJoin} using {End-to-End} Homomorphic Encryption},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {117-124},
+}
+
+@inproceedings{DBLP:conf/eurosp/ErnstbergerLEZSCMGS23,
+  author    = {Jens Ernstberger and
+               Jan Lauinger and
+               Fatima Elsheimy and
+               Liyi Zhou and
+               Sebastian Steinhorst and
+               Ran Canetti and
+               Andrew Miller and
+               Arthur Gervais and
+               Dawn Song},
+  title     = {SoK: Data Sovereignty},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {122-143},
+}
+
+@inproceedings{DBLP:conf/eurosp/KunzX23,
+  author    = {Immanuel Kunz and
+               Shuqian Xu},
+  title     = {Privacy as an Architectural Quality: A Definition and an Architectural View},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {125-132},
+}
+
+@inproceedings{DBLP:conf/eurosp/MarquetMPKAV23,
+  author    = {Enzo Marquet and
+               Jerico Moeyersons and
+               Erik Pohle and
+               Michiel Van Kenhove and
+               Aysajan Abidin and
+               Bruno Volckaert},
+  title     = {Secure Key Management for {Multi-Party} Computation in {MOZAIK}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {133-140},
+}
+
+@inproceedings{DBLP:conf/eurosp/ReisingerWB23,
+  author    = {Thomas Reisinger and
+               Isabel Wagner and
+               Eerke A. Boiten},
+  title     = {Unified Communication: What do Digital Activists need?},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {141-149},
+}
+
+@inproceedings{DBLP:conf/eurosp/IslamPMBN23,
+  author    = {Nafis Tanveer Islam and
+               Gonzalo De La Torre Parra and
+               Dylan Manuel and
+               Elias Bou-Harb and
+               Peyman Najafirad},
+  title     = {An Unbiased Transformer Source Code Learning with Semantic Vulnerability Graph},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {144-159},
+}
+
+@inproceedings{DBLP:conf/eurosp/RodriguezJAS23,
+  author    = {David Rodriguez and
+               Akshath Jain and
+               José M. del Álamo and
+               Norman Sadeh},
+  title     = {Comparing Privacy Label Disclosures of Apps Published in both the App Store and Google Play Stores},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {150-157},
+}
+
+@inproceedings{DBLP:conf/eurosp/SiuH23,
+  author    = {Gilberto Atondo Siu and
+               Alice Hutchings},
+  title     = {"Get a higher return on your savings!": Comparing adverts for cryptocurrency investment scams across platforms},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {158-169},
+}
+
+@inproceedings{DBLP:conf/eurosp/EspositoSB23,
+  author    = {Sergio Esposito and
+               Daniele Sgandurra and
+               Giampaolo Bella},
+  title     = {Protecting {Voice-Controllable} Devices Against {Self-Issued} Voice Commands},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {160-174},
+}
+
+@inproceedings{DBLP:conf/eurosp/ManatovaCFKSK23,
+  author    = {Dalyapraz Manatova and
+               L. Jean Camp and
+               Julia R. Fox and
+               Sandra Kübler and
+               Maria A Shardakova and
+               Inna Kouper},
+  title     = {An Argument for Linguistic Expertise in Cyberthreat Analysis: {LOLSec} in Russian Language {eCrime} Landscape},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {170-176},
+}
+
+@inproceedings{DBLP:conf/eurosp/BoenischDSSSP23,
+  author    = {Franziska Boenisch and
+               Adam Dziedzic and
+               Roei Schuster and
+               Ali Shahin Shamsabadi and
+               Ilia Shumailov and
+               Nicolas Papernot},
+  title     = {When the Curious Abandon Honesty: Federated Learning Is Not Private},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {175-199},
+}
+
+@inproceedings{DBLP:conf/eurosp/ConnollyBAK23,
+  author    = {Lena Yuryna Connolly and
+               Hervé Borrion and
+               Budi Arief and
+               Sanna Kaddoura},
+  title     = {Applying Neutralisation Theory to Better Understand Ransomware Offenders},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {177-182},
+}
+
+@inproceedings{DBLP:conf/eurosp/HughesH23,
+  author    = {Jack Hughes and
+               Alice Hutchings},
+  title     = {Digital Drift and the Evolution of a Large Cybercrime Forum},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {183-193},
+}
+
+@inproceedings{DBLP:conf/eurosp/JacobsRSES23,
+  author    = {Jay Jacobs and
+               Sasha Romanosky and
+               Octavian Suciuo and
+               Benjamin Edwards and
+               Armin Sarabi},
+  title     = {Enhancing Vulnerability Prioritization: {Data-Driven} Exploit Predictions with {Community-Driven} Insights},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {194-206},
+}
+
+@inproceedings{DBLP:conf/eurosp/QuLW23,
+  author    = {Wenjie Qu and
+               Youqi Li and
+               Binghui Wang},
+  title     = {A Certified {Radius-Guided} Attack Framework to Image Segmentation Models},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {200-220},
+}
+
+@inproceedings{DBLP:conf/eurosp/MorinM23,
+  author    = {Andrew Morin and
+               Tyler Moore},
+  title     = {How Cryptocurrency Exchange Interruptions Create Arbitrage Opportunities},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {207-215},
+}
+
+@inproceedings{DBLP:conf/eurosp/RomanoskyS23,
+  author    = {Sasha Romanosky and
+               Peter Schirmer},
+  title     = {Mapping the Cyberstalking Landscape: An Empirical Analysis of Federal U.S Crimes},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {216-226},
+}
+
+@inproceedings{DBLP:conf/eurosp/NadeemVCPDBV23,
+  author    = {Azqa Nadeem and
+               Daniël Vos and
+               Clinton Cao and
+               Luca Pajola and
+               Simon Dieck and
+               Robert Baumgartner and
+               Sicco Verwer},
+  title     = {SoK: Explainable Machine Learning for Computer Security Applications},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {221-240},
+}
+
+@inproceedings{DBLP:conf/eurosp/HajizadaM23,
+  author    = {Abulfaz Hajizada and
+               Tyler Moore},
+  title     = {On Gaps in Enterprise Cyber Attack Reporting},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {227-231},
+}
+
+@inproceedings{DBLP:conf/eurosp/BurdaAAZ23,
+  author    = {Pavlo Burda and
+               Abdul Malek Altawekji and
+               Luca Allodi and
+               Nicola Zannone},
+  title     = {The Peculiar Case of Tailored Phishing against SMEs: Detection and Collective {DefenseMechanisms} at a Small {IT} Company},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {232-243},
+}
+
+@inproceedings{DBLP:conf/eurosp/BoenischDSSSP23a,
+  author    = {Franziska Boenisch and
+               Adam Dziedzic and
+               Roei Schuster and
+               Ali Shahin Shamsabadi and
+               Ilia Shumailov and
+               Nicolas Papernot},
+  title     = {Reconstructing Individual Data Points in Federated Learning Hardened with Differential Privacy and Secure Aggregation},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {241-257},
+}
+
+@inproceedings{DBLP:conf/eurosp/BurroughsTS23,
+  author    = {James Burroughs and
+               Michal Tereszkowski-Kaminski and
+               Guillermo Suarez-Tangil},
+  title     = {Visualizing {Cyber-Threats} in Underground Forums},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {244-258},
+}
+
+@inproceedings{DBLP:conf/eurosp/JainGPM23,
+  author    = {Vijayanta Jain and
+               Sepideh Ghanavati and
+               Sai Teja Peddinti and
+               Collin McMillan},
+  title     = {Towards {Fine-Grained} Localization of Privacy Behaviors},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {258-277},
+}
+
+@inproceedings{DBLP:conf/eurosp/PolychronouTPB23,
+  author    = {Nikolaos Foivos Polychronou and
+               Pierre-Henri Thevenon and
+               Maxime Puys and
+               Vincent Beroulle},
+  title     = {A Hybrid Solution for Constrained Devices to Detect Microarchitectural Attacks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {259-269},
+}
+
+@inproceedings{DBLP:conf/eurosp/HarrisonTM23,
+  author    = {Joshua Harrison and
+               Ehsan Toreini and
+               Maryam Mehrnezhad},
+  title     = {A Practical Deep {Learning-Based} Acoustic Side Channel Attack on Keyboards},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {270-280},
+}
+
+@inproceedings{DBLP:conf/eurosp/hammeGPJ23,
+  author    = {Tim Van hamme and
+               Giuseppe Garofalo and
+               Davy Preuveneers and
+               Wouter Joosen},
+  title     = {Masterkey attacks against free-text keystroke dynamics and security implications of demographic factors},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {278-291},
+}
+
+@inproceedings{DBLP:conf/eurosp/FellahToutaBL23,
+  author    = {Anis Fellah-Touta and
+               Lilian Bossuet and
+               Carlos Andres Lara-Nino},
+  title     = {Combined Internal Attacks on SoC-FPGAs: Breaking {AES} with Remote Power Analysis and Frequency-based Covert Channels},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {281-286},
+}
+
+@inproceedings{DBLP:conf/eurosp/BossuetGL23,
+  author    = {Lilian Bossuet and
+               Vincent Grosso and
+               Carlos Andres Lara-Nino},
+  title     = {Emulating Side Channel Attacks on gem5: lessons learned},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {287-295},
+}
+
+@inproceedings{DBLP:conf/eurosp/TiemannBEL23,
+  author    = {Thore Tiemann and
+               Sebastian Berndt and
+               Thomas Eisenbarth and
+               Maciej Liskiewicz},
+  title     = {"Act natural!": Exchanging Private Messages on Public Blockchains},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {292-308},
+}
+
+@inproceedings{DBLP:conf/eurosp/DurmazKOUJYS23,
+  author    = {Fatih Durmaz and
+               Nureddin Kamadan and
+               Melih Taha Öz and
+               Musa Sadik Unal and
+               Arsalan Javeed and
+               Cemal Yilmaz and
+               Erkay Savas},
+  title     = {TimeInspector: A Static Analysis Approach for Detecting Timing Attacks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {296-303},
+}
+
+@inproceedings{DBLP:conf/eurosp/GaudinHBCGHLW23,
+  author    = {Nicolas Gaudin and
+               Jean-Loup Hatchikian-Houdot and
+               Frédéric Besson and
+               Pascal Cotret and
+               Guy Gogniat and
+               Guillaume Hiet and
+               Vianney Lapotre and
+               Pierre Wilke},
+  title     = {Work in Progress: Thwarting Timing Attacks in Microcontrollers using Fine-grained Hardware Protections},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {304-310},
+}
+
+@inproceedings{DBLP:conf/eurosp/SolomonWA23,
+  author    = {Ravital Solomon and
+               Rick Weber and
+               Ghada Almashaqbeh},
+  title     = {smartFHE: {Privacy-Preserving} Smart Contracts from Fully Homomorphic Encryption},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {309-331},
+}
+
+@inproceedings{DBLP:conf/eurosp/GiraudB23,
+  author    = {Vincent Giraud and
+               Guillaume Bouffard},
+  title     = {Faulting original {McEliece's} implementations is possible How to mitigate this risk?},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {311-319},
+}
+
+@inproceedings{DBLP:conf/eurosp/ShahbiGAR23,
+  author    = {Feras Shahbi and
+               Joseph Gardiner and
+               Sridhar Adepu and
+               Awais Rashid},
+  title     = {A Digital Forensic Taxonomy For Programmable Logic Controller Data Artefacts},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {320-328},
+}
+
+@inproceedings{DBLP:conf/eurosp/LenardCNG23,
+  author    = {Teri Lenard and
+               Anastasija Collen and
+               Niels A. Nijdam and
+               Béla Genge},
+  title     = {A Key to Embedded System Security: Locking and Unlocking Secrets with a Trusted Platform Module},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {329-335},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChenWZDTWL23,
+  author    = {Jiaqi Chen and
+               Yibo Wang and
+               Yuxuan Zhou and
+               Wanning Ding and
+               Yuzhe Tang and
+               XiaoFeng Wang and
+               Kai Li},
+  title     = {Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {332-351},
+}
+
+@inproceedings{DBLP:conf/eurosp/YangZ23,
+  author    = {Yunhe Yang and
+               Mu Zhang},
+  title     = {From Tactics to Techniques: A Systematic Attack Modeling for Advanced Persistent Threats in Industrial Control Systems},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {336-344},
+}
+
+@inproceedings{DBLP:conf/eurosp/BorcherdingGFB23,
+  author    = {Anne Borcherding and
+               Mark Giraud and
+               Ian Fitzgerald and
+               Jürgen Beyerer},
+  title     = {The Bandit's States: Modeling State Selection for Stateful Network Fuzzing as Multi-armed Bandit Problem},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {345-350},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChowdhuryDS23,
+  author    = {Samin Yasar Chowdhury and
+               Brandon Dudley and
+               Ruimin Sun},
+  title     = {The Case for Virtual {PLC-enabled} Honeypot Design},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {351-357},
+}
+
+@inproceedings{DBLP:conf/eurosp/XuYZF23,
+  author    = {Rongwu Xu and
+               Sen Yang and
+               Fan Zhang and
+               Zhixuan Fang},
+  title     = {MISO: Legacy-compatible Privacy-preserving Single Sign-on using Trusted Execution Environments},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {352-372},
+}
+
+@inproceedings{DBLP:conf/eurosp/DerbyshireMSGH23,
+  author    = {Richard Derbyshire and
+               Sam Maesschalck and
+               Alexander Staves and
+               Benjamin Green and
+               David Hutchison},
+  title     = {To me, to you: Towards Secure {PLC} Programming through a {Community-Driven} {Open-Source} Initiative},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {358-362},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZhengWCSL23,
+  author    = {Xu Zheng and
+               Tianchun Wang and
+               Samin Yasar Chowdhury and
+               Ruimin Sun and
+               Dongsheng Luo},
+  title     = {Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {363-369},
+}
+
+@inproceedings{DBLP:conf/eurosp/AsiriSB23,
+  author    = {Mohammed Asiri and
+               Neetesh Saxena and
+               Pete Burnap},
+  title     = {ARCSG: Advancing Resilience of {Cyber-Physical} Smart Grid: An Integrated {Co-Simulation} Approach Incorporating Indicators of Compromise},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {370-378},
+}
+
+@inproceedings{DBLP:conf/eurosp/LiuAJMHVS23,
+  author    = {Enze Liu and
+               Gautam Akiwate and
+               Mattijs Jonker and
+               Ariana Mirian and
+               Grant Ho and
+               Geoffrey M. Voelker and
+               Stefan Savage},
+  title     = {Forward Pass: On the Security Implications of Email Forwarding Mechanism and Policy},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {373-391},
+}
+
+@inproceedings{DBLP:conf/eurosp/PottebaumRSAFCBG23,
+  author    = {Jens Pottebaum and
+               Jost Rossel and
+               Juraj Somorovsky and
+               Yasemin Acar and
+               René Fahr and
+               Patricia Arias Cabarcos and
+               Eric Bodden and
+               Iris Gräßler},
+  title     = {{Re-Envisioning} Industrial Control Systems Security by Considering Human Factors as a Core Element of {Defense-in-Depth}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {379-385},
+}
+
+@inproceedings{DBLP:conf/eurosp/FeldeRL23,
+  author    = {Hendrik Meyer zum Felde and
+               Jean-Luc Reding and
+               Michael Lux},
+  title     = {D-GATE: Decentralized Geolocation and Time Enforcement for Usage Control},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {386-395},
+}
+
+@inproceedings{DBLP:conf/eurosp/AkimotoFAS23,
+  author    = {Yoshimasa Akimoto and
+               Kazuto Fukuchi and
+               Youhei Akimoto and
+               Jun Sakuma},
+  title     = {Privformer: Privacy-preserving Transformer with {MPC}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {392-410},
+}
+
+@inproceedings{DBLP:conf/eurosp/RodriguezVinasOM23,
+  author    = {Javier Rodriguez-Viñas and
+               Ines Ortega-Fernandez and
+               Eva Sotos Martínez},
+  title     = {Hexanonymity: a scalable geo-positioned data clustering algorithm for anonymisation purposes},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {396-404},
+}
+
+@inproceedings{DBLP:conf/eurosp/DehaeneWLN23,
+  author    = {Toon Dehaene and
+               Michiel Willocx and
+               Bert Lagaisse and
+               Vincent Naessens},
+  title     = {Masking Location Streams in the Presence of Colluding Service Providers},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {405-414},
+}
+
+@inproceedings{DBLP:conf/eurosp/RenY23,
+  author    = {Mengxia Ren and
+               Chuan Yue},
+  title     = {Coverage and Secure Use Analysis of Content Security Policies via Clustering},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {411-428},
+}
+
+@inproceedings{DBLP:conf/eurosp/GibertPLZ23,
+  author    = {Daniel Gibert and
+               Jordi Planes and
+               Quan Le and
+               Giulio Zizzo},
+  title     = {A Wolf in Sheep's Clothing: {Query-Free} Evasion Attacks Against Machine {Learning-Based} Malware Detectors with Generative Adversarial Networks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {415-426},
+}
+
+@inproceedings{DBLP:conf/eurosp/ReichenwallnerM23,
+  author    = {Benjamin Reichenwallner and
+               Peter Meerwald-Stadler},
+  title     = {Simplification of General Mixed {Boolean-Arithmetic} Expressions: {GAMBA}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {427-438},
+}
+
+@inproceedings{DBLP:conf/eurosp/ErwigFRS23,
+  author    = {Andreas Erwig and
+               Sebastian Faust and
+               Siavash Riahi and
+               Tobias Stöckert},
+  title     = {{CommiTEE} : An Efficient and Secure {Commit-Chain} Protocol using {TEEs}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {429-448},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZolaBG23,
+  author    = {Francesco Zola and
+               Jan Lukas Bruse and
+               Mikel Galar},
+  title     = {Temporal Analysis of Distribution Shifts in Malware Classification for Digital Forensics},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {439-450},
+}
+
+@inproceedings{DBLP:conf/eurosp/RodlerPLBHKD23,
+  author    = {Michael Rodler and
+               David Paaßen and
+               Wenting Li and
+               Lukas Bernhard and
+               Thorsten Holz and
+               Ghassan Karame and
+               Lucas Davi},
+  title     = {EF↯CF: High Performance Smart Contract Fuzzing for Exploit Generation},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {449-471},
+}
+
+@inproceedings{DBLP:conf/eurosp/SharmaSAD23,
+  author    = {Megha Sharma and
+               Kuldeep Singh and
+               Palvi Aggarwal and
+               Varun Dutt},
+  title     = {How well does {GPT} phish people? An investigation involving cognitive biases and feedback},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {451-457},
+}
+
+@inproceedings{DBLP:conf/eurosp/MalloyG23,
+  author    = {Tyler Malloy and
+               Cleotilde Gonzalez},
+  title     = {Learning to Defend by Attacking (and Vice-Versa): Transfer of Learning in Cybersecurity Games},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {458-464},
+}
+
+@inproceedings{DBLP:conf/eurosp/RetiAS23,
+  author    = {Daniel Reti and
+               Tillmann Angeli and
+               Hans D. Schotten},
+  title     = {Honey Infiltrator: Injecting Honeytoken Using Netfilter},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {465-469},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZirngiblSC23,
+  author    = {Johannes Zirngibl and
+               Patrick Sattler and
+               Georg Carle},
+  title     = {A First Look at {SVCB} and {HTTPS} {DNS} Resource Records in the Wild},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {470-474},
+}
+
+@inproceedings{DBLP:conf/eurosp/KhanZKXBT23,
+  author    = {Arslan Khan and
+               Muqi Zou and
+               Kyungtae Kim and
+               Dongyan Xu and
+               Antonio Bianchi and
+               Dave Jing Tian},
+  title     = {Fuzzing {SGX} Enclaves via Host Program Mutations},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {472-488},
+}
+
+@inproceedings{DBLP:conf/eurosp/AndersonM23,
+  author    = {Blake Anderson and
+               David A. McGrew},
+  title     = {Assessing and Exploiting Domain Name Misinformation},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {475-486},
+}
+
+@inproceedings{DBLP:conf/eurosp/HaqASJN23,
+  author    = {Muhammad Yasir Muzayan Haq and
+               Abhishta Abhishta and
+               Raffaele Sommese and
+               Mattijs Jonker and
+               Lambert J. M. Nieuwenhuis},
+  title     = {Assessing Network Operator Actions to Enhance Digital Sovereignty and Strengthen Network Resilience: A Longitudinal Analysis during the {Russia-Ukraine} Conflict},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {487-494},
+}
+
+@inproceedings{DBLP:conf/eurosp/DunlapTER23,
+  author    = {Trevor Dunlap and
+               Seaver Thorn and
+               William Enck and
+               Bradley Reaves},
+  title     = {Finding Fixed Vulnerabilities with {Off-the-Shelf} Static Analysis},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {489-505},
+}
+
+@inproceedings{DBLP:conf/eurosp/UrpiBricolleCB23,
+  author    = {Marcel Urpí-Bricollé and
+               Ismael Castell-Uroz and
+               Pere Barlet-Ros},
+  title     = {Detecting and Analyzing Mouse Tracking in the Wild},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {495-500},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChiapponiDT23,
+  author    = {Elisa Chiapponi and
+               Marc Dacier and
+               Olivier Thonnard},
+  title     = {Inside Residential {IP} Proxies: Lessons Learned from Large Measurement Campaigns},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {501-512},
+}
+
+@inproceedings{DBLP:conf/eurosp/SunejaZZLMK23,
+  author    = {Sahil Suneja and
+               Yufan Zhuang and
+               Yunhui Zheng and
+               Jim Laredo and
+               Alessandro Morari and
+               Udayan Khurana},
+  title     = {Code Vulnerability Detection via {Signal-Aware} Learning},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {506-523},
+}
+
+@inproceedings{DBLP:conf/eurosp/ValentimDMC23,
+  author    = {Rodolfo V. Valentim and
+               Idilio Drago and
+               Marco Mellia and
+               Federico Cerutti},
+  title     = {Lost in Translation: {AI-based} Generator of {Cross-Language} Sound-squatting},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {513-520},
+}
+
+@inproceedings{DBLP:conf/eurosp/PhilippaertsPJ23,
+  author    = {Pieter Philippaerts and
+               Davy Preuveneers and
+               Wouter Joosen},
+  title     = {Revisiting {OAuth} 2.0 Compliance: A {Two-Year} {Follow-Up} Study},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {521-525},
+}
+
+@inproceedings{DBLP:conf/eurosp/GanzRHR23,
+  author    = {Tom Ganz and
+               Philipp Rall and
+               Martin Härterich and
+               Konrad Rieck},
+  title     = {Hunting for Truth: Analyzing Explanation Methods in Learning-based Vulnerability Discovery},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {524-541},
+}
+
+@inproceedings{DBLP:conf/eurosp/MankowskiWM23,
+  author    = {Dimitri Mankowski and
+               Thom Wiggers and
+               Veelasha Moonsamy},
+  title     = {{TLS} → {Post-Quantum} TLS: Inspecting the {TLS} landscape for {PQC} adoption on Android},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {526-538},
+}
+
+@inproceedings{DBLP:conf/eurosp/LloydGT23,
+  author    = {Siôn Lloyd and
+               Carlos Hernandez Gañán and
+               Samaneh Tajalizadehkhoob},
+  title     = {Towards more rigorous domain-based metrics: quantifying the prevalence and implications of "Active" Domains},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {539-545},
+}
+
+@inproceedings{DBLP:conf/eurosp/MillerBWSZ23,
+  author    = {Rhys Miller and
+               Ioana Boureanu and
+               Stephan Wesemeyer and
+               Zhili Sun and
+               Hemant Zope},
+  title     = {Systematic Improvement of {Access-Stratum} Security in Mobile Networks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {542-557},
+}
+
+@inproceedings{DBLP:conf/eurosp/NosykHFDK23,
+  author    = {Yevheniya Nosyk and
+               Olivier Hureau and
+               Simon Fernandez and
+               Andrzej Duda and
+               Maciej Korczynski},
+  title     = {Unveiling the Weak Links: Exploring {DNS} Infrastructure Vulnerabilities and Fortifying Defenses},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {546-557},
+}
+
+@inproceedings{DBLP:conf/eurosp/GonzalezCF23,
+  author    = {Gastón García González and
+               Pedro Casas and
+               Alicia Fernández},
+  title     = {Fake it till you Detect it: Continual Anomaly Detection in Multivariate {Time-Series} using Generative {AI}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {558-566},
+}
+
+@inproceedings{DBLP:conf/eurosp/BushartR23,
+  author    = {Jonas Bushart and
+               Christian Rossow},
+  title     = {Anomaly-based Filtering of {Application-Layer} {DDoS} Against {DNS} Authoritatives},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {558-575},
+}
+
+@inproceedings{DBLP:conf/eurosp/CollinsHS23,
+  author    = {M. Patrick Collins and
+               Alefiya Hussain and
+               Stephen Schwab},
+  title     = {Identifying and Differentiating Acknowledged Scanners in Network Traffic},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {567-574},
+}
+
+@inproceedings{DBLP:conf/eurosp/ErinolaBFYS23,
+  author    = {Ahmet Erinola and
+               Annalina Buckmann and
+               Jennifer Friedauer and
+               Asli Yardim and
+               M. Angela Sasse},
+  title     = {"As Usual, I Needed Assistance of a Seeing Person": Experiences and Challenges of People with Disabilities and Authentication Methods},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {575-593},
+}
+
+@inproceedings{DBLP:conf/eurosp/NawrockiKHKSW23,
+  author    = {Marcin Nawrocki and
+               John Kristoff and
+               Raphael Hiesgen and
+               Chris Kanich and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {SoK: A Data-driven View on Methods to Detect Reflective Amplification {DDoS} Attacks Using Honeypots},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {576-591},
+}
+
+@inproceedings{DBLP:conf/eurosp/ApruzzeseLS23,
+  author    = {Giovanni Apruzzese and
+               Pavel Laskov and
+               Johannes Schneider},
+  title     = {SoK: Pragmatic Assessment of Machine Learning for Network Intrusion Detection},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {592-614},
+}
+
+@inproceedings{DBLP:conf/eurosp/SharevskiLJDP23,
+  author    = {Filipo Sharevski and
+               Jennifer Vander Loop and
+               Peter Jachim and
+               Amy Devine and
+               Emma Pieroni},
+  title     = {Talking Abortion (Mis)information with {ChatGPT} on {TikTok}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {594-608},
+}
+
+@inproceedings{DBLP:conf/eurosp/HuB23,
+  author    = {Wei Hu and
+               Diogo Barradas},
+  title     = {Work in Progress: A Glance at Social Media {Self-Censorship} in North America},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {609-618},
+}
+
+@inproceedings{DBLP:conf/eurosp/AgiolloBCLLO23,
+  author    = {Andrea Agiollo and
+               Enkeleda Bardhi and
+               Mauro Conti and
+               Riccardo Lazzeretti and
+               Eleonora Losiouk and
+               Andrea Omicini},
+  title     = {GNN4IFA: Interest Flooding Attack Detection With Graph Neural Networks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {615-630},
+}
+
+@inproceedings{DBLP:conf/eurosp/LeesakulM23,
+  author    = {Natalie Leesakul and
+               Charles Morisset},
+  title     = {Position Paper: The role of law in achieving privacy and security measures in smart buildings from the {GDPR} context},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {619-626},
+}
+
+@inproceedings{DBLP:conf/eurosp/FerazzaMMC23,
+  author    = {Francesco Ferazza and
+               Cosimo Melella and
+               Konstantinos Mersinas and
+               Antonio Calcara},
+  title     = {Divided We Hack: Exploring the Degree of {Sino-Russian} Coordination in Cyberspace During the Ukraine War},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {627-640},
+}
+
+@inproceedings{DBLP:conf/eurosp/HoltrydMS23,
+  author    = {Nadja Ramhöj Holtryd and
+               Madhavan Manivannan and
+               Per Stenström},
+  title     = {SoK: Analysis of Root Causes and Defense Strategies for Attacks on Microarchitectural Optimizations},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {631-650},
+}
+
+@inproceedings{DBLP:conf/eurosp/AbahTMM23,
+  author    = {Naoom Abu Abah and
+               Nick Taylor and
+               Charles Morisset and
+               Maryam Mehrnezhad},
+  title     = {U-Sense: Feasibility Study of "Human as a Sensor" in Incident Reporting Systems in a Smart Campus},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {641-652},
+}
+
+@inproceedings{DBLP:conf/eurosp/BognarWBP23,
+  author    = {Marton Bognar and
+               Hans Winderix and
+               Jo Van Bulck and
+               Frank Piessens},
+  title     = {MicroProfiler: Principled {Side-Channel} Mitigation through Microarchitectural Profiling},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {651-670},
+}
+
+@inproceedings{DBLP:conf/eurosp/WakeBY23,
+  author    = {Patrick Wake and
+               Sue Black and
+               Jonathan Young},
+  title     = {Work in Progress: Evaluation of Security Standards through a Cyber Range using Hackers' Tactics, Techniques and Procedures},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {653-658},
+}
+
+@inproceedings{DBLP:conf/eurosp/NgBC23,
+  author    = {Magdalene Ng and
+               Maria Bada and
+               Kovila P. L. Coopamootoo},
+  title     = {What We Do in the Shadows: How does Experiencing Cybercrime Affect Response Actions & Protective Practices?},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {659-672},
+}
+
+@inproceedings{DBLP:conf/eurosp/MilburnSK23,
+  author    = {Alyssa Milburn and
+               Ke Sun and
+               Henrique Kawakami},
+  title     = {You Cannot Always Win the Race: Analyzing mitigations for branch target prediction attacks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {671-686},
+}
+
+@inproceedings{DBLP:conf/eurosp/ErataPMS23,
+  author    = {Ferhat Erata and
+               Ruzica Piskac and
+               Víctor Mateu and
+               Jakub Szefer},
+  title     = {Towards Automated Detection of {Single-Trace} {Side-Channel} Vulnerabilities in {Constant-Time} Cryptographic Code},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {687-706},
+}
+
+@inproceedings{DBLP:conf/eurosp/BragaKSFB23,
+  author    = {Daniel De Almeida Braga and
+               Natalia Kulatova and
+               Mohamed Sabt and
+               Pierre-Alain Fouque and
+               Karthikeyan Bhargavan},
+  title     = {From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {707-723},
+}
+
+@inproceedings{DBLP:conf/eurosp/AbadiMZ23,
+  author    = {Aydin Abadi and
+               Steven J. Murdoch and
+               Thomas Zacharias},
+  title     = {Recurring Contingent Service Payment},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {724-756},
+}
+
+@inproceedings{DBLP:conf/eurosp/YuLKM23,
+  author    = {Albert Yu and
+               Donghang Lu and
+               Aniket Kate and
+               Hemanta K. Maji},
+  title     = {SIM: Secure Interval Membership Testing and Applications to Secure Comparison},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {757-772},
+}
+
+@inproceedings{DBLP:conf/eurosp/GuntherM23,
+  author    = {Felix Günther and
+               Marc Ilunga Tshibumbu Mukendi},
+  title     = {Careful with MAc-then-SIGn: A Computational Analysis of the {EDHOC} Lightweight Authenticated Key Exchange Protocol},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {773-796},
+}
+
+@inproceedings{DBLP:conf/eurosp/FangJTYCDCP23,
+  author    = {Congyu Fang and
+               Hengrui Jia and
+               Anvith Thudi and
+               Mohammad Yaghini and
+               Christopher A. Choquette-Choo and
+               Natalie Dullerud and
+               Varun Chandrasekaran and
+               Nicolas Papernot},
+  title     = {{Proof-of-Learning} is Currently More Broken Than You Think},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {797-816},
+}
+
+@inproceedings{DBLP:conf/eurosp/PletinckxNFKV23,
+  author    = {Stijn Pletinckx and
+               Thanh-Dat Nguyen and
+               Tobias Fiebig and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Certifiably Vulnerable: Using Certificate Transparency Logs for Target Reconnaissance},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {817-831},
+}
+
+@inproceedings{DBLP:conf/eurosp/MorenoVT23,
+  author    = {José Miguel Moreno and
+               Narseo Vallina-Rodriguez and
+               Juan Tapiador},
+  title     = {Chrowned by an Extension: Abusing the Chrome {DevTools} Protocol through the Debugger {API}},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {832-846},
+}
+
+@inproceedings{DBLP:conf/eurosp/KirkmanVW23,
+  author    = {Daniel Kirkman and
+               Kami Vaniea and
+               Daniel W. Woods},
+  title     = {DarkDialogs: Automated detection of 10 dark patterns on cookie dialogs},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {847-867},
+}
+
+@inproceedings{DBLP:conf/eurosp/SinghalLPTKSN23,
+  author    = {Mohit Singhal and
+               Chen Ling and
+               Pujan Paudel and
+               Poojitha Thota and
+               Nihal Kumarswamy and
+               Gianluca Stringhini and
+               Shirin Nilizadeh},
+  title     = {SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {868-895},
+}
+
+@inproceedings{DBLP:conf/eurosp/MaC23,
+  author    = {Jack P. K. Ma and
+               Sherman S. M. Chow},
+  title     = {{SMART} Credentials in the Multi-queue of Slackness (or Secure Management of Anonymous Reputation Traits without Global Halting)},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {896-912},
+}
+
+@inproceedings{DBLP:conf/eurosp/IoannouA23,
+  author    = {Pantelina Ioannou and
+               Elias Athanasopoulos},
+  title     = {Been Here Already? Detecting Synchronized Browsers in the Wild},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {913-927},
+}
+
+@inproceedings{DBLP:conf/eurosp/FrymannGM23,
+  author    = {Nick Frymann and
+               Daniel Gardham and
+               Mark Manulis},
+  title     = {Asynchronous Remote Key Generation for {Post-Quantum} Cryptosystems from Lattices},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {928-941},
+}
+
+@inproceedings{DBLP:conf/eurosp/ArxTV23,
+  author    = {Theo von Arx and
+               Muoi Tran and
+               Laurent Vanbever},
+  title     = {Revelio: A {Network-Level} Privacy Attack in the Lightning Network},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {942-957},
+}
+
+@inproceedings{DBLP:conf/eurosp/TalapatraPM23,
+  author    = {Debadrita Talapatra and
+               Sikhar Patranabis and
+               Debdeep Mukhopadhyay},
+  title     = {Conjunctive Searchable Symmetric Encryption from Hard Lattices},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {958-978},
+}
+
+@inproceedings{DBLP:conf/eurosp/CastellanosMCSZ23,
+  author    = {John Henry Castellanos and
+               Mohamed Maghenem and
+               Alvaro A. Cárdenas and
+               Ricardo G. Sanfelice and
+               Jianying Zhou},
+  title     = {Provable Adversarial Safety in {Cyber-Physical} Systems},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {979-1012},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChakrabortiR23,
+  author    = {Anrin Chakraborti and
+               Michael K. Reiter},
+  title     = {Privately Evaluating Region Overlaps with Applications to Collaborative Sensor Output Validation},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1013-1029},
+}
+
+@inproceedings{DBLP:conf/eurosp/LeWYFHST23,
+  author    = {Tu Le and
+               Alan Wang and
+               Yaxing Yao and
+               Yuanyuan Feng and
+               Arsalan Heydarian and
+               Norman M. Sadeh and
+               Yuan Tian},
+  title     = {Exploring Smart Commercial Building Occupants' Perceptions and Notification Preferences of Internet of Things Data Collection in the United States},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1030-1046},
+}
+
+@inproceedings{DBLP:conf/eurosp/IbrahimCB23,
+  author    = {Muhammad Ibrahim and
+               Andrea Continella and
+               Antonio Bianchi},
+  title     = {{AoT} - Attack on Things: A security analysis of {IoT} firmware updates},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1047-1064},
+}
+
+@inproceedings{DBLP:conf/eurosp/BaderSLSVHFPH23,
+  author    = {Lennart Bader and
+               Martin Serror and
+               Olav Lamberts and
+               Ömer Sen and
+               Dennis van der Velde and
+               Immanuel Hacker and
+               Julian Filter and
+               Elmar Padilla and
+               Martin Henze},
+  title     = {Comprehensively Analyzing the Impact of Cyberattacks on Power Grids},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1065-1081},
+}
+
+@inproceedings{DBLP:conf/eurosp/XuHDLLZ23,
+  author    = {Yuan Xu and
+               Xingshuo Han and
+               Gelei Deng and
+               Jiwei Li and
+               Yang Liu and
+               Tianwei Zhang},
+  title     = {SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1082-1100},
+}
+
+@inproceedings{DBLP:conf/eurosp/CasselWJ23,
+  author    = {Darion Cassel and
+               Wai Tuck Wong and
+               Limin Jia},
+  title     = {NodeMedic: {End-to-End} Analysis of Node.js Vulnerabilities with Provenance Graphs},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1101-1127},
+}
+
+@inproceedings{DBLP:conf/eurosp/JacobWBS23,
+  author    = {Hans Niklas Jacob and
+               Christian Werling and
+               Robert Buhren and
+               Jean-Pierre Seifert},
+  title     = {faulTPM: Exposing {AMD} fTPMs' Deepest Secrets},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1128-1142},
+}
+
+@inproceedings{DBLP:conf/eurosp/StrydonckNJDVOPD23,
+  author    = {Thomas Van Strydonck and
+               Job Noorman and
+               Jennifer Jackson and
+               Leonardo Alves Dias and
+               Robin Vanderstraeten and
+               David F. Oswald and
+               Frank Piessens and
+               Dominique Devriese},
+  title     = {CHERI-TrEE: Flexible enclaves on capability machines},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1143-1159},
+}
+
+@inproceedings{DBLP:conf/eurosp/AhsanRA23,
+  author    = {Muhammad Ahsan and
+               Muhammad Haris Rais and
+               Irfan Ahmed},
+  title     = {SOK: Side Channel Monitoring for Additive Manufacturing - Bridging Cybersecurity and Quality Assurance Communities},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1160-1178},
+}
+
+@inproceedings{DBLP:conf/eurosp/XuKEP23,
+  author    = {Jing Xu and
+               Stefanos Koffas and
+               Oguzhan Ersoy and
+               Stjepan Picek},
+  title     = {Watermarking Graph Neural Networks based on Backdoor Attacks},
+  booktitle = eurosp,
+  year      = 2023,
+  pages     = {1179-1197},
+}
+
 @inproceedings{DBLP:conf/eurosp/Bongard-Blanchy22,
   author    = {Kerstin Bongard-Blanchy and
                Jean-Louis Sterckx and
@@ -304,7 +1789,7 @@
 
 @inproceedings{DBLP:conf/eurosp/CozarRAG22,
   author    = {Miguel Cozar and
-               David Rodriguez and
+               David Rodríguez Torrado and
                José M. del Álamo and
                Danny S. Guamán},
   title     = {Reliability of {IP} Geolocation Services for Assessing the Compliance of International Data Transfers},
@@ -758,7 +2243,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosp/HossenH22,
-  author    = {Imran Hossen and
+  author    = {Md. Imran Hossen and
                Xiali Hei},
   title     = {aaeCAPTCHA: The Design and Implementation of Audio Adversarial {CAPTCHA}},
   booktitle = eurosp,
@@ -2959,7 +4444,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosp/TurkPC20,
-  author    = {Kieron Turk and
+  author    = {Kieron Ivy Turk and
                Sergio Pastrana and
                Ben Collier},
   title     = {A tight scrape: methodological approaches to cybercrime research data collection in adversarial environments},

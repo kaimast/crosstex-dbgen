@@ -1,5 +1,831 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/GuptaDKPZK23,
+  author    = {Vishal Gupta and
+               Kumar Kartikeya Dwivedi and
+               Yugesh Kothari and
+               Yueyang Pan and
+               Diyu Zhou and
+               Sanidhya Kashyap},
+  title     = {Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with {TCLOCKS}},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/osdi/LoLHLFLHL023,
+  author    = {Shiwu Lo and
+               Han-Ting Lin and
+               Yao-Hung Hsieh and
+               Chao-Ting Lin and
+               Yu-Hsueh Fang and
+               Ching-Shen Lin and
+               Ching-Chun (Jim) Huang and
+               Kam-Yiu Lam and
+               Yuan-Hao Chang},
+  title     = {RON: {One-Way} Circular Shortest Routing to Achieve Efficient and Bounded-waiting Spinlocks},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {17-31},
+}
+
+@inproceedings{DBLP:conf/osdi/0001BWZ023,
+  author    = {Zhe Zhou and
+               Yanxiang Bi and
+               Junpeng Wan and
+               Yangfan Zhou and
+               Zhou Li},
+  title     = {Userspace Bypass: Accelerating Syscall-intensive Applications},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {33-49},
+}
+
+@inproceedings{DBLP:conf/osdi/BergerSP23,
+  author    = {Emery D. Berger and
+               Sam Stern and
+               Juan Altmayer Pizzorno},
+  title     = {Triangulating Python Performance Issues with {SCALENE}},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {51-64},
+}
+
+@inproceedings{DBLP:conf/osdi/RenWJLCX023,
+  author    = {Xiang (Jenny) Ren and
+               Sitao Wang and
+               Zhuqi Jin and
+               David Lion and
+               Adrian Chiu and
+               Tianyin Xu and
+               Ding Yuan},
+  title     = {Relational Debugging - Pinpointing Root Causes of Performance Problems},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {65-80},
+}
+
+@inproceedings{DBLP:conf/osdi/DautermanLCM23,
+  author    = {Emma Dauterman and
+               Danny Lin and
+               Henry Corrigan-Gibbs and
+               David Mazières},
+  title     = {Accountable authentication with privacy protection: The Larch system for universal login},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {81-98},
+}
+
+@inproceedings{DBLP:conf/osdi/AlbabSAKJPASS23,
+  author    = {Kinan Dak Albab and
+               Ishan Sharma and
+               Justus Adam and
+               Benjamin Kilimnik and
+               Aaron R. Jeyaraj and
+               Raj Paul and
+               Artem Agvanian and
+               Leonhard F. Spiegelberg and
+               Malte Schwarzkopf},
+  title     = {K9db: {Privacy-Compliant} Storage For Web Applications By Construction},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {99-116},
+}
+
+@inproceedings{DBLP:conf/osdi/LiZC0L0MX0023,
+  author    = {Mingyu Li and
+               Xuyang Zhao and
+               Le Chen and
+               Cheng Tan and
+               Huorong Li and
+               Sheng Wang and
+               Zeyu Mi and
+               Yubin Xia and
+               Feifei Li and
+               Haibo Chen},
+  title     = {Encrypted Databases Made Secure Yet Maintainable},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {117-133},
+}
+
+@inproceedings{DBLP:conf/osdi/LiB00XL23,
+  author    = {Chenxing Li and
+               Sidi Mohamed Beillahi and
+               Guang Yang and
+               Ming Wu and
+               Wei Xu and
+               Fan Long},
+  title     = {LVMT: An Efficient Authenticated Storage for Blockchain},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {135-153},
+}
+
+@inproceedings{DBLP:conf/osdi/MaiZZZL0WC0K23,
+  author    = {Haohui Mai and
+               Jiacheng Zhao and
+               Hongren Zheng and
+               Yiyang Zhao and
+               Zibin Liu and
+               Mingyu Gao and
+               Cong Wang and
+               Huimin Cui and
+               Xiaobing Feng and
+               Christos Kozyrakis},
+  title     = {Honeycomb: Secure and Efficient {GPU} Executions via Static Validation},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {155-172},
+}
+
+@inproceedings{DBLP:conf/osdi/AhmadSL023,
+  author    = {Adil Ahmad and
+               Alex Schultz and
+               Byoungyoung Lee and
+               Pedro Fonseca},
+  title     = {An Extensible Orchestration and Protection Framework for Confidential Cloud Computing},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {173-191},
+}
+
+@inproceedings{DBLP:conf/osdi/AngelBCJLSS23,
+  author    = {Sebastian Angel and
+               Aditya Basu and
+               Weidong Cui and
+               Trent Jaeger and
+               Stella Lau and
+               Srinath T. V. Setty and
+               Sudheesh Singanamalla},
+  title     = {Nimble: Rollback Protection for Confidential Cloud Services},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {193-208},
+}
+
+@inproceedings{DBLP:conf/osdi/ChenLMLZG023,
+  author    = {Jiahao Chen and
+               Dingji Li and
+               Zeyu Mi and
+               Yuxuan Liu and
+               Binyu Zang and
+               Haibing Guan and
+               Haibo Chen},
+  title     = {Security and Performance in the Delegated User-level Virtualization},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {209-226},
+}
+
+@inproceedings{DBLP:conf/osdi/SajalMLZPMNZDMM23,
+  author    = {Sultan Mahmud Sajal and
+               Luke Marshall and
+               Beibin Li and
+               Shandan Zhou and
+               Abhisek Pan and
+               Konstantina Mellou and
+               Deepak Narayanan and
+               Timothy Zhu and
+               David Dion and
+               Thomas Moscibroda and
+               Ishai Menache},
+  title     = {Kerveros: Efficient and Scalable Cloud Admission Control},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {227-245},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhouSCGPB23,
+  author    = {Ziqiao Zhou and
+               Yizhou Shan and
+               Weidong Cui and
+               Xinyang Ge and
+               Marcus Peinado and
+               Andrew Baumann},
+  title     = {Core slicing: closing the gap between leaky confidential {VMs} and bare-metal cloud},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {247-267},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhuangWLCS23,
+  author    = {Siyuan Zhuang and
+               Stephanie Wang and
+               Eric Liang and
+               Yi Cheng and
+               Ion Stoica},
+  title     = {ExoFlow: A Universal Workflow System for {Exactly-Once} {DAGs}},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {269-286},
+}
+
+@inproceedings{DBLP:conf/osdi/LyuYIJNSMSMHSRW23,
+  author    = {Jialun Lyu and
+               Marisa You and
+               Celine Irvene and
+               Mark Jung and
+               Tyler Narmore and
+               Jacob Shapiro and
+               Luke Marshall and
+               Savyasachi Samal and
+               Ioannis Manousakis and
+               Lisa Hsu and
+               Preetha Subbarayalu and
+               Ashish Raniwala and
+               Brijesh Warrier and
+               Ricardo Bianchini and
+               Bianca Schroeder and
+               Daniel S. Berger},
+  title     = {Hyrax: {Fail-in-Place} Server Operation in Cloud Platforms},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {287-304},
+}
+
+@inproceedings{DBLP:conf/osdi/Lu00L23,
+  author    = {Haonan Lu and
+               Shuai Mu and
+               Siddhartha Sen and
+               Wyatt Lloyd},
+  title     = {NCC: Natural Concurrency Control for Strictly Serializable Datastores by Avoiding the {Timestamp-Inversion} Pitfall},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {305-323},
+}
+
+@inproceedings{DBLP:conf/osdi/GrubicWPYJCCKDY23,
+  author    = {Boris Grubic and
+               Yang Wang and
+               Tyler Petrochko and
+               Ran Yaniv and
+               Brad Jones and
+               David Callies and
+               Matt Clarke-Lauer and
+               Dan Kelley and
+               Soteris Demetriou and
+               Kenny Yu and
+               Chunqiang Tang},
+  title     = {Conveyor: {One-Tool-Fits-All} Continuous Software Deployment at Meta},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {325-342},
+}
+
+@inproceedings{DBLP:conf/osdi/EldeebXBCY23,
+  author    = {Tamer Eldeeb and
+               Xincheng Xie and
+               Philip A. Bernstein and
+               Asaf Cidon and
+               Junfeng Yang},
+  title     = {Chardonnay: Fast and General Datacenter Transactions for {On-Disk} Databases},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {343-360},
+}
+
+@inproceedings{DBLP:conf/osdi/MehdiH0A23,
+  author    = {Syed Akbar Mehdi and
+               Deukyeon Hwang and
+               Simon Peter and
+               Lorenzo Alvisi},
+  title     = {ScaleDB: A Scalable, Asynchronous {In-Memory} Database},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {361-376},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangXCSXCCH00Y23,
+  author    = {Qianxi Zhang and
+               Shuotao Xu and
+               Qi Chen and
+               Guoxin Sui and
+               Jiadong Xie and
+               Zhizhen Cai and
+               Yaoqi Chen and
+               Yinxuan He and
+               Yuqing Yang and
+               Fan Yang and
+               Mao Yang and
+               Lidong Zhou},
+  title     = {VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {377-395},
+}
+
+@inproceedings{DBLP:conf/osdi/JiangLR023,
+  author    = {Zu-Ming Jiang and
+               Si Liu and
+               Manuel Rigger and
+               Zhendong Su},
+  title     = {Detecting Transactional Bugs in Database Engines via {Graph-Based} Oracle Construction},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {397-417},
+}
+
+@inproceedings{DBLP:conf/osdi/ChengCLCCHSY23,
+  author    = {Audrey Cheng and
+               David Chu and
+               Terrance Li and
+               Jason Chan and
+               Natacha Crooks and
+               Joseph M. Hellerstein and
+               Ion Stoica and
+               Xiangyao Yu},
+  title     = {Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {419-439},
+}
+
+@inproceedings{DBLP:conf/osdi/0031LWS23,
+  author    = {Qing Wang and
+               Youyou Lu and
+               Jing Wang and
+               Jiwu Shu},
+  title     = {Replicating Persistent Memory {Key-Value} Stores with Efficient {RDMA} Abstraction},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {441-459},
+}
+
+@inproceedings{DBLP:conf/osdi/MinZ0K23,
+  author    = {Jaehong Min and
+               Chenxingyu Zhao and
+               Ming Liu and
+               Arvind Krishnamurthy},
+  title     = {eZNS: An Elastic Zoned Namespace for Commodity {ZNS} {SSDs}},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {461-477},
+}
+
+@inproceedings{DBLP:conf/osdi/WangHYLY23,
+  author    = {Chao Wang and
+               Junliang Hu and
+               Tsun-Yu Yang and
+               Yuhong Liang and
+               Ming-Chang Yang},
+  title     = {SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {479-495},
+}
+
+@inproceedings{DBLP:conf/osdi/WeiLW0Y0023,
+  author    = {Xingda Wei and
+               Fangming Lu and
+               Tianxia Wang and
+               Jinyu Gu and
+               Yuhan Yang and
+               Rong Chen and
+               Haibo Chen},
+  title     = {No Provisioned Concurrency: Fast {RDMA-codesigned} Remote Fork for Serverless Computing},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {497-517},
+}
+
+@inproceedings{DBLP:conf/osdi/LepersZ23,
+  author    = {Baptiste Lepers and
+               Willy Zwaenepoel},
+  title     = {Johnny Cache: the End of {DRAM} Cache Conflicts (in Tiered Main Memory Systems)},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {519-534},
+}
+
+@inproceedings{DBLP:conf/osdi/GopalSFL23,
+  author    = {Amogha Udupa Shankaranarayana Gopal and
+               Raveendra Soori and
+               Michael Ferdman and
+               Dongyoon Lee},
+  title     = {TAILCHECK: A Lightweight Heap Overflow Detection Mechanism with Page Protection and Tagged Pointers},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {535-552},
+}
+
+@inproceedings{DBLP:conf/osdi/LuoZSG0LZ23,
+  author    = {Xuchuan Luo and
+               Pengfei Zuo and
+               Jiacheng Shen and
+               Jiazhen Gu and
+               Xin Wang and
+               Michael R. Lyu and
+               Yangfan Zhou},
+  title     = {SMART: A {High-Performance} Adaptive Radix Tree for Disaggregated Memory},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {553-571},
+}
+
+@inproceedings{DBLP:conf/osdi/SartakovVGESP23,
+  author    = {Vasily A. Sartakov and
+               Lluís Vilanova and
+               Munir Geden and
+               David M. Eyers and
+               Takahiro Shinagawa and
+               Peter R. Pietzuch},
+  title     = {ORC: Increasing Cloud Memory Density via Object Reuse with Capabilities},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {573-587},
+}
+
+@inproceedings{DBLP:conf/osdi/EriksenVABCCKSL23,
+  author    = {Marius Eriksen and
+               Kaushik Veeraraghavan and
+               Yusuf Abdulghani and
+               Andrew Birchall and
+               Po-Yen Chou and
+               Richard Cornew and
+               Adela Kabiljo and
+               Ranjith Kumar S. and
+               Maroo Lieuw and
+               Justin Meza and
+               Scott Michelson and
+               Thomas Rohloff and
+               Hayley Russell and
+               Jeff Qin and
+               Chunqiang Tang},
+  title     = {Global Capacity Management With Flux},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {589-606},
+}
+
+@inproceedings{DBLP:conf/osdi/MezaGEICYUDNTSL23,
+  author    = {Justin Meza and
+               Thote Gowda and
+               Ahmed Eid and
+               Tomiwa Ijaware and
+               Dmitry Chernyshev and
+               Yi Yu and
+               Md Nazim Uddin and
+               Rohan Das and
+               Chad Nachiappan and
+               Sari Tran and
+               Shuyang Shi and
+               Tina Luo and
+               David Ke Hong and
+               Sankaralingam Panneerselvam and
+               Hans Ragas and
+               Svetlin Manavski and
+               Weidong Wang and
+               Francois Richard},
+  title     = {Defcon: Preventing Overload with Graceful Feature Degradation},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {607-622},
+}
+
+@inproceedings{DBLP:conf/osdi/BhardwajKBGH0JS23,
+  author    = {Romil Bhardwaj and
+               Kirthevasan Kandasamy and
+               Asim Biswal and
+               Wenshuo Guo and
+               Benjamin Hindman and
+               Joseph Gonzalez and
+               Michael I. Jordan and
+               Ion Stoica},
+  title     = {Cilantro: {Performance-Aware} Resource Allocation for General Objectives via Online Feedback},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {623-643},
+}
+
+@inproceedings{DBLP:conf/osdi/VuppalapatiF0CK23,
+  author    = {Midhul Vuppalapati and
+               Giannis Fikioris and
+               Rachit Agarwal and
+               Asaf Cidon and
+               Anurag Khandelwal and
+               Éva Tardos},
+  title     = {Karma: Resource Allocation for Dynamic Demands},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {645-662},
+}
+
+@inproceedings{DBLP:conf/osdi/LiZZL00HCZGS23,
+  author    = {Zhuohan Li and
+               Lianmin Zheng and
+               Yinmin Zhong and
+               Vincent Liu and
+               Ying Sheng and
+               Xin Jin and
+               Yanping Huang and
+               Zhifeng Chen and
+               Hao Zhang and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {663-679},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangMXSM0Z0Y23,
+  author    = {Chen Zhang and
+               Lingxiao Ma and
+               Jilong Xue and
+               Yining Shi and
+               Ziming Miao and
+               Fan Yang and
+               Jidong Zhai and
+               Zhi Yang and
+               Mao Yang},
+  title     = {Cocktailer: Analyzing and Optimizing Dynamic Control Flow in Deep Learning},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {681-699},
+}
+
+@inproceedings{DBLP:conf/osdi/00010XMXMG0Z23,
+  author    = {Yining Shi and
+               Zhi Yang and
+               Jilong Xue and
+               Lingxiao Ma and
+               Yuqing Xia and
+               Ziming Miao and
+               Yuxiao Guo and
+               Fan Yang and
+               Lidong Zhou},
+  title     = {Welder: Scheduling Deep Learning Memory Access via Tile-graph},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {701-718},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaoFDLWYLX23,
+  author    = {Jie Zhao and
+               Siyuan Feng and
+               Xiaoqiang Dan and
+               Fei Liu and
+               Chengke Wang and
+               Sheng Yuan and
+               Wenyuan Lv and
+               Qikai Xie},
+  title     = {Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their {Domain-Specific} Accelerators},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {719-737},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhengWZHMWHMTHJ23,
+  author    = {Liyan Zheng and
+               Haojie Wang and
+               Jidong Zhai and
+               Muyan Hu and
+               Zixuan Ma and
+               Tuowei Wang and
+               Shuhong Huang and
+               Xupeng Miao and
+               Shizhi Tang and
+               Kezhao Huang and
+               Zhihao Jia},
+  title     = {EINNET: Optimizing Tensor Programs with {Derivation-Based} Transformations},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {739-755},
+}
+
+@inproceedings{DBLP:conf/osdi/Hu0ZC00023,
+  author    = {Qinghao Hu and
+               Zhisheng Ye and
+               Meng Zhang and
+               Qiaoling Chen and
+               Peng Sun and
+               Yonggang Wen and
+               Tianwei Zhang},
+  title     = {Hydro: {Surrogate-Based} Hyperparameter Tuning Service in Datacenters},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {757-777},
+}
+
+@inproceedings{DBLP:conf/osdi/WangFWGB0D23,
+  author    = {Yuke Wang and
+               Boyuan Feng and
+               Zheng Wang and
+               Tong Geng and
+               Kevin J. Barker and
+               Ang Li and
+               Yufei Ding},
+  title     = {MGG: Accelerating Graph Neural Networks with {Fine-Grained} {Intra-Kernel} {Communication-Computation} Pipelining on {Multi-GPU} Platforms},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {779-795},
+}
+
+@inproceedings{DBLP:conf/osdi/CuiHOWZM00XQZ0T23,
+  author    = {Weihao Cui and
+               Zhenhua Han and
+               Lingji Ouyang and
+               Yichuan Wang and
+               Ningxin Zheng and
+               Lingxiao Ma and
+               Yuqing Yang and
+               Fan Yang and
+               Jilong Xue and
+               Lili Qiu and
+               Lidong Zhou and
+               Quan Chen and
+               Haisheng Tan and
+               Minyi Guo},
+  title     = {Optimizing Dynamic Neural Networks with Brainstorm},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {797-815},
+}
+
+@inproceedings{DBLP:conf/osdi/LaiZLTWHDHPLCWR23,
+  author    = {Fan Lai and
+               Wei Zhang and
+               Rui Liu and
+               William Tsai and
+               Xiaohan Wei and
+               Yuxi Hu and
+               Sabin Devkota and
+               Jianyu Huang and
+               Jongsoo Park and
+               Xing Liu and
+               Zeliang Chen and
+               Ellie Wen and
+               Paul Rivera and
+               Jie You and
+               Chun-cheng Jason Chen and
+               Mosharaf Chowdhury},
+  title     = {AdaEmbed: Adaptive Embedding for {Large-Scale} Recommendation Models},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {817-831},
+}
+
+@inproceedings{DBLP:conf/osdi/WangTFBSLLVH023,
+  author    = {Jiawei Wang and
+               Bohdan Trach and
+               Ming Fu and
+               Diogo Behrens and
+               Jonathan Schwender and
+               Yutao Liu and
+               Jitang Lei and
+               Viktor Vafeiadis and
+               Hermann Härtig and
+               Haibo Chen},
+  title     = {BWoS: Formally Verified Block-based Work Stealing for Parallel Processing},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {833-850},
+}
+
+@inproceedings{DBLP:conf/osdi/LiLQGN23,
+  author    = {Xupeng Li and
+               Xuheng Li and
+               Wei Qiang and
+               Ronghui Gu and
+               Jason Nieh},
+  title     = {Spoq: Scaling {Machine-Checkable} Systems Verification in Coq},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {851-869},
+}
+
+@inproceedings{DBLP:conf/osdi/Chang0STKZ23,
+  author    = {Yun-Sheng Chang and
+               Ralf Jung and
+               Upamanyu Sharma and
+               Joseph Tassarotti and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Verifying vMVCC, a high-performance transaction library using multi-version concurrency control},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {871-886},
+}
+
+@inproceedings{DBLP:conf/osdi/DingWS0023,
+  author    = {Haoran Ding and
+               Zhaoguo Wang and
+               Zhuohao Shen and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Automated Verification of Idempotence for Stateful Serverless Applications},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {887-910},
+}
+
+@inproceedings{DBLP:conf/osdi/HanceZLACSZHHP23,
+  author    = {Travis Hance and
+               Yi Zhou and
+               Andrea Lattuada and
+               Reto Achermann and
+               Alex Conway and
+               Ryan Stutsman and
+               Gerd Zellweger and
+               Chris Hawblitzel and
+               Jon Howell and
+               Bryan Parno},
+  title     = {Sharding the State Machine: Automated Modular Reasoning for Complex Concurrent Systems},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {911-929},
+}
+
+@inproceedings{DBLP:conf/osdi/LiG0QLLXFZLDTLL23,
+  author    = {Qiang Li and
+               Yixiao Gao and
+               Xiaoliang Wang and
+               Haonan Qiu and
+               Yanfang Le and
+               Derui Liu and
+               Qiao Xiang and
+               Fei Feng and
+               Peng Zhang and
+               Bo Li and
+               Jianbo Dong and
+               Lingbo Tang and
+               Hongqiang Harry Liu and
+               Shaozong Liu and
+               Weijie Li and
+               Rui Miao and
+               Yaohui Wu and
+               Zhiwu Wu and
+               Chao Han and
+               Lei Yan and
+               Zheng Cao and
+               Zhongjie Wu and
+               Chen Tian and
+               Guihai Chen and
+               Dennis Cai and
+               Jinbo Wu and
+               Jiaji Zhu and
+               Jiesheng Wu and
+               Jiwu Shu},
+  title     = {Flor: An Open High Performance {RDMA} Framework Over Heterogeneous {RNICs}},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {931-948},
+}
+
+@inproceedings{DBLP:conf/osdi/Pismenny0T23,
+  author    = {Boris Pismenny and
+               Adam Morrison and
+               Dan Tsafrir},
+  title     = {ShRing: Networking with Shared Receive Rings},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {949-968},
+}
+
+@inproceedings{DBLP:conf/osdi/SaokarDMKKL0KT23,
+  author    = {Harshit Saokar and
+               Soteris Demetriou and
+               Nick Magerko and
+               Max Kontorovich and
+               Josh Kirstein and
+               Margot Leibold and
+               Dimitrios Skarlatos and
+               Hitesh Khandelwal and
+               Chunqiang Tang},
+  title     = {ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {969-985},
+}
+
+@inproceedings{DBLP:conf/osdi/WeiCY0023,
+  author    = {Xingda Wei and
+               Rongxin Chen and
+               Yuhan Yang and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Characterizing Off-path {SmartNIC} for Accelerating Distributed Systems},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {987-1004},
+}
+
+@inproceedings{DBLP:conf/osdi/SadokAZBHPSW23,
+  author    = {Hugo Sadok and
+               Nirav Atre and
+               Zhipeng Zhao and
+               Daniel S. Berger and
+               James C. Hoe and
+               Aurojit Panda and
+               Justine Sherry and
+               Ren Wang},
+  title     = {Ensō: A Streaming Interface for {NIC-Application} Communication},
+  booktitle = osdi,
+  year      = 2023,
+  pages     = {1005-1025},
+}
+
 @inproceedings{DBLP:conf/osdi/FlinnDABRSTWZ22,
   author    = {Jason Flinn and
                Xianzheng Dou and

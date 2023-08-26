@@ -1,5 +1,922 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/usenix/LiMJTZG023,
+  author    = {Dingji Li and
+               Zeyu Mi and
+               Chenhui Ji and
+               Yifan Tan and
+               Binyu Zang and
+               Haibing Guan and
+               Haibo Chen},
+  title     = {Bifrost: Analysis and Optimization of Network I/O Tax in Confidential Virtual Machines},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/usenix/MaZFZWFTYZW23,
+  author    = {Junming Ma and
+               Yancheng Zheng and
+               Jun Feng and
+               Derun Zhao and
+               Haoqi Wu and
+               Wenjing Fang and
+               Jin Tan and
+               Chaofan Yu and
+               Benyu Zhang and
+               Lei Wang},
+  title     = {SecretFlow-SPU: A Performant and {User-Friendly} Framework for {Privacy-Preserving} Machine Learning},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {17-33},
+}
+
+@inproceedings{DBLP:conf/usenix/LaddVVFMWS23,
+  author    = {Watson Ladd and
+               Tanya Verma and
+               Marloes Venema and
+               Armando Faz-Hernández and
+               Brendan McMillion and
+               Avani Wildani and
+               Nick Sullivan},
+  title     = {Portunus: Re-imagining Access Control in Distributed Systems},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {35-52},
+}
+
+@inproceedings{DBLP:conf/usenix/LaiYWLMSLZYQ00C23,
+  author    = {Longbin Lai and
+               Yufan Yang and
+               Zhibin Wang and
+               Yuxuan Liu and
+               Haotian Ma and
+               Sijie Shen and
+               Bingqing Lyu and
+               Xiaoli Zhou and
+               Wenyuan Yu and
+               Zhengping Qian and
+               Chen Tian and
+               Sheng Zhong and
+               Yeh-Ching Chung and
+               Jingren Zhou},
+  title     = {GLogS: Interactive Graph Pattern Matching Query At Large Scale},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {53-69},
+}
+
+@inproceedings{DBLP:conf/usenix/GuiL0023,
+  author    = {Chuangyi Gui and
+               Xiaofei Liao and
+               Long Zheng and
+               Hai Jin},
+  title     = {Cyclosa: {Redundancy-Free} Graph Pattern Mining via Set Dataflow},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/usenix/00130HTZF023,
+  author    = {Yutong Wu and
+               Zhan Shi and
+               Shicai Huang and
+               Zhipeng Tian and
+               Pengwei Zuo and
+               Peng Fang and
+               Dan Feng},
+  title     = {SOWalker: An I/{O-Optimized} {Out-of-Core} Graph Processing System for {Second-Order} Random Walks},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {87-100},
+}
+
+@inproceedings{DBLP:conf/usenix/QiuPXHWZL023,
+  author    = {Jiansheng Qiu and
+               Yanqi Pan and
+               Wen Xia and
+               Xiaojia Huang and
+               Wenjun Wu and
+               Xiangyu Zou and
+               Shiyi Li and
+               Yu Hua},
+  title     = {Light-Dedup: A Light-weight Inline Deduplication Framework for {Non-Volatile} Memory File Systems},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {101-116},
+}
+
+@inproceedings{DBLP:conf/usenix/OhLJYBWCY23,
+  author    = {Myoungwon Oh and
+               Sungmin Lee and
+               Samuel Just and
+               Youngjin Yu and
+               Duck-Ho Bae and
+               Sage A. Weil and
+               Sangyeun Cho and
+               Heon Y. Yeom},
+  title     = {TiDedup: A New Distributed Deduplication Architecture for Ceph},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {117-131},
+}
+
+@inproceedings{DBLP:conf/usenix/Zhang00JQ023,
+  author    = {Yucheng Zhang and
+               Hong Jiang and
+               Dan Feng and
+               Nan Jiang and
+               Taorong Qiu and
+               Wei Huang},
+  title     = {LoopDelta: Embedding Locality-aware Opportunistic Delta Compression in Inline Deduplication for Highly Efficient Data Reduction},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {133-148},
+}
+
+@inproceedings{DBLP:conf/usenix/WangFWHD23,
+  author    = {Yuke Wang and
+               Boyuan Feng and
+               Zheng Wang and
+               Guyue Huang and
+               Yufei Ding},
+  title     = {TC-GNN: Bridging Sparse {GNN} Computation and Dense Tensor Cores on {GPUs}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {149-164},
+}
+
+@inproceedings{DBLP:conf/usenix/SunSSSWWZLYZW23,
+  author    = {Jie Sun and
+               Li Su and
+               Zuocheng Shi and
+               Wenting Shen and
+               Zeke Wang and
+               Lei Wang and
+               Jie Zhang and
+               Yong Li and
+               Wenyuan Yu and
+               Jingren Zhou and
+               Fei Wu},
+  title     = {Legion: Automatically Pushing the Envelope of {Multi-GPU} System for {Billion-Scale} {GNN} Training},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {165-179},
+}
+
+@inproceedings{DBLP:conf/usenix/ShenYSWLTS0Y0ZZ23,
+  author    = {Sijie Shen and
+               Zihang Yao and
+               Lin Shi and
+               Lei Wang and
+               Longbin Lai and
+               Qian Tao and
+               Li Su and
+               Rong Chen and
+               Wenyuan Yu and
+               Haibo Chen and
+               Binyu Zang and
+               Jingren Zhou},
+  title     = {Bridging the Gap between Relational {OLTP} and Graph-based {OLAP}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {181-196},
+}
+
+@inproceedings{DBLP:conf/usenix/RubambizaCRAMW23,
+  author    = {Gloire Rubambiza and
+               Shiang-Wan Chin and
+               Mueed Rehman and
+               Sachille Atapattu and
+               José F. Martínez and
+               Hakim Weatherspoon},
+  title     = {Comosum: An Extensible, Reconfigurable, and {Fault-Tolerant} {IoT} Platform for Digital Agriculture},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {197-214},
+}
+
+@inproceedings{DBLP:conf/usenix/BartolomeoYBHMO23,
+  author    = {Giovanni Bartolomeo and
+               Mehdi Yosofie and
+               Simon Bäurle and
+               Oliver Haluszczynski and
+               Nitinder Mohan and
+               Jörg Ott},
+  title     = {Oakestra: A Lightweight Hierarchical Orchestration Framework for Edge Computing},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {215-231},
+}
+
+@inproceedings{DBLP:conf/usenix/ShanCW23,
+  author    = {Yingdi Shan and
+               Kang Chen and
+               Yongwei Wu},
+  title     = {Explore Data Placement Algorithm for Balanced Recovery Load Distribution},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {233-240},
+}
+
+@inproceedings{DBLP:conf/usenix/HeinlothWS23,
+  author    = {Bernhard Heinloth and
+               Peter Wägemann and
+               Wolfgang Schröder-Preikschat},
+  title     = {Luci: Loader-based Dynamic Software Updates for Off-the-shelf Shared Objects},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {241-256},
+}
+
+@inproceedings{DBLP:conf/usenix/Tollner0ORL23,
+  author    = {Dominik Töllner and
+               Christian Dietrich and
+               Illia Ostapyshyn and
+               Florian Rommel and
+               Daniel Lohmann},
+  title     = {MELF: Multivariant Executables for a Heterogeneous World},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {257-273},
+}
+
+@inproceedings{DBLP:conf/usenix/000123,
+  author    = {Sangho Lee},
+  title     = {APRON: Authenticated and Progressive System Image Renovation},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {275-292},
+}
+
+@inproceedings{DBLP:conf/usenix/YasukataTAI23,
+  author    = {Kenichi Yasukata and
+               Hajime Tazaki and
+               Pierre-Louis Aublin and
+               Kenta Ishiguro},
+  title     = {zpoline: a system call hook mechanism based on binary rewriting},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {293-300},
+}
+
+@inproceedings{DBLP:conf/usenix/SongUEJC23,
+  author    = {Won Wook Song and
+               Taegeon Um and
+               Sameh Elnikety and
+               Myeongjae Jeon and
+               Byung-Gon Chun},
+  title     = {Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {301-314},
+}
+
+@inproceedings{DBLP:conf/usenix/BrookerDGP23,
+  author    = {Marc Brooker and
+               Mike Danilov and
+               Chris Greenwood and
+               Phil Piwonka},
+  title     = {On-demand Container Loading in {AWS} Lambda},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {315-328},
+}
+
+@inproceedings{DBLP:conf/usenix/ArutyunyanBBDDE23,
+  author    = {Maksym Arutyunyan and
+               Andriy Berestovskyy and
+               Adam Bratschi-Kaye and
+               Ulan Degenbaev and
+               Manu Drijvers and
+               Islam El-Ashi and
+               Stefan Kaestle and
+               Roman Kashitsyn and
+               Maciej Kot and
+               Yvonne-Anne Pignolet and
+               Rostislav Rumenov and
+               Dimitris Sarlis and
+               Alin Sinpalean and
+               Alexandru Uta and
+               Bogdan Warinschi and
+               Alexandra Zapuc},
+  title     = {Decentralized and Stateful Serverless Computing on the Internet Computer Blockchain},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {329-343},
+}
+
+@inproceedings{DBLP:conf/usenix/HaoHWWZWZ23,
+  author    = {Zongyin Hao and
+               Quanfeng Huang and
+               Chengpeng Wang and
+               Jianfeng Wang and
+               Yushan Zhang and
+               Rongxin Wu and
+               Charles Zhang},
+  title     = {Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {345-358},
+}
+
+@inproceedings{DBLP:conf/usenix/DoggaBCJNZ23,
+  author    = {Pradeep Dogga and
+               Chetan Bansal and
+               Richard Costleigh and
+               Gopinath Jayagopal and
+               Suman Nath and
+               Xuchao Zhang},
+  title     = {AutoARTS: Taxonomy, Insights and Tools for Root Cause Labelling of Incidents in Microsoft Azure},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {359-372},
+}
+
+@inproceedings{DBLP:conf/usenix/DuplyakinRISJTM23,
+  author    = {Dmitry Duplyakin and
+               Nikhil Ramesh and
+               Carina Imburgia and
+               Hamza Fathallah Al Sheikh and
+               Semil Jain and
+               Prikshit Tekta and
+               Aleksander Maricq and
+               Gary Wong and
+               Robert Ricci},
+  title     = {Avoiding the Ordering Trap in Systems Performance Measurement},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {373-386},
+}
+
+@inproceedings{DBLP:conf/usenix/QiuM0FYKBI23,
+  author    = {Haoran Qiu and
+               Weichao Mao and
+               Chen Wang and
+               Hubertus Franke and
+               Alaa Youssef and
+               Zbigniew T. Kalbarczyk and
+               Tamer Basar and
+               Ravishankar K. Iyer},
+  title     = {AWARE: Automate Workload Autoscaling with Reinforcement Learning in Production Cloud Systems},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {387-402},
+}
+
+@inproceedings{DBLP:conf/usenix/ShiZT0FG23,
+  author    = {Jiuchen Shi and
+               Hang Zhang and
+               Zhixin Tong and
+               Quan Chen and
+               Kaihua Fu and
+               Minyi Guo},
+  title     = {Nodens: Enabling Resource Efficient and Fast {QoS} Recovery of Dynamic Microservice Applications in Datacenters},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {403-417},
+}
+
+@inproceedings{DBLP:conf/usenix/HuyeSS23,
+  author    = {Darby Huye and
+               Yuri Shkuro and
+               Raja R. Sambasivan},
+  title     = {Lifting the veil on Meta's microservice architecture: Analyses of topology and request workflows},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {419-432},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhaoPAWXNKPTAWB23,
+  author    = {Mark Zhao and
+               Satadru Pan and
+               Niket Agarwal and
+               Zhaoduo Wen and
+               David Xu and
+               Anand Natarajan and
+               Pavan Kumar and
+               Shiva Shankar P. and
+               Ritesh Tijoriwala and
+               Karan Asher and
+               Hao Wu and
+               Aarti Basant and
+               Daniel Ford and
+               Delia David and
+               Nezih Yigitbasi and
+               Pratap Singh and
+               Carole-Jean Wu},
+  title     = {Tectonic-Shift: A Composite Storage Fabric for {Large-Scale} {ML} Training},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {433-449},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhouZCXWWLZW23,
+  author    = {Yuanhui Zhou and
+               Jian Zhou and
+               Shuning Chen and
+               Peng Xu and
+               Peng Wu and
+               Yanguang Wang and
+               Xian Liu and
+               Ling Zhan and
+               Jiguang Wan},
+  title     = {Calcspar: A {Contract-Aware} {LSM} Store for Cloud Storage with Low Latency Spikes},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {451-465},
+}
+
+@inproceedings{DBLP:conf/usenix/GuLDWLFBWSCW0C23,
+  author    = {Rong Gu and
+               Simian Li and
+               Haipeng Dai and
+               Hancheng Wang and
+               Yili Luo and
+               Bin Fan and
+               Ran Ben Basat and
+               Ke Wang and
+               Zhenyu Song and
+               Shouwei Chen and
+               Beinan Wang and
+               Yihua Huang and
+               Guihai Chen},
+  title     = {Adaptive Online Cache Capacity Optimization via Lightweight Working Set Size Estimation at Scale},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {467-484},
+}
+
+@inproceedings{DBLP:conf/usenix/IvanovRDCHP23,
+  author    = {Andrei Ivanov and
+               Benjamin Rothenberger and
+               Arnaud Dethise and
+               Marco Canini and
+               Torsten Hoefler and
+               Adrian Perrig},
+  title     = {SAGE: Software-based Attestation for {GPU} Execution},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {485-499},
+}
+
+@inproceedings{DBLP:conf/usenix/VaswaniVFDGVWCK23,
+  author    = {Kapil Vaswani and
+               Stavros Volos and
+               Cédric Fournet and
+               Antonio Nino Diaz and
+               Ken Gordon and
+               Balaji Vembu and
+               Sam Webster and
+               David Chisnall and
+               Saurabh Kulkarni and
+               Graham Cunningham and
+               Richard Osborne and
+               Dan Wilkinson},
+  title     = {Confidential Computing within an {AI} Accelerator},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {501-518},
+}
+
+@inproceedings{DBLP:conf/usenix/JiangJLP23,
+  author    = {Chenhao Jiang and
+               Anand Jayarajan and
+               Hao Lu and
+               Gennady Pekhimenko},
+  title     = {Arbitor: A Numerically Accurate Hardware Emulation Tool for {DNN} Accelerators},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {519-536},
+}
+
+@inproceedings{DBLP:conf/usenix/BiXYZ23,
+  author    = {Pengqiang Bi and
+               Mengbai Xiao and
+               Dongxiao Yu and
+               Guanghui Zhang},
+  title     = {oBBR: Optimize Retransmissions of {BBR} Flows on the Internet},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {537-551},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhangZDZRMXLHY023,
+  author    = {Jia Zhang and
+               Yixuan Zhang and
+               Enhuan Dong and
+               Yan Zhang and
+               Shaorui Ren and
+               Zili Meng and
+               Mingwei Xu and
+               Xiaotian Li and
+               Zongzhi Hou and
+               Zhicheng Yang and
+               Xiaoming Fu},
+  title     = {Bridging the Gap between {QoE} and {QoS} in Congestion Control: A Large-scale Mobile Web Service Perspective},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {553-569},
+}
+
+@inproceedings{DBLP:conf/usenix/ShengP00L23,
+  author    = {Siyuan Sheng and
+               Huancheng Puyang and
+               Qun Huang and
+               Lu Tang and
+               Patrick P. C. Lee},
+  title     = {FarReach: Write-back Caching in Programmable Switches},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {571-584},
+}
+
+@inproceedings{DBLP:conf/usenix/JangCBLKJ23,
+  author    = {Junhyeok Jang and
+               Hanjin Choi and
+               Hanyeoreum Bae and
+               Seungjun Lee and
+               Miryeong Kwon and
+               Myoungsoo Jung},
+  title     = {CXL-ANNS: {Software-Hardware} Collaborative Memory Disaggregation and Computation for {Billion-Scale} Approximate Nearest Neighbor Search},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {585-600},
+}
+
+@inproceedings{DBLP:conf/usenix/YangKNPCNLLK23,
+  author    = {Shao-Peng Yang and
+               Minjae Kim and
+               Sanghyun Nam and
+               Juhyung Park and
+               Jin-Yong Choi and
+               Eyee Hyun Nam and
+               Eunji Lee and
+               Sungjin Lee and
+               Bryan S. Kim},
+  title     = {Overcoming the Memory Wall with {CXL-Enabled} {SSDs}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {601-617},
+}
+
+@inproceedings{DBLP:conf/usenix/JiMSYHKSK23,
+  author    = {Houxiang Ji and
+               Mark Mansi and
+               Yan Sun and
+               Yifan Yuan and
+               Jinghan Huang and
+               Reese Kuper and
+               Michael M. Swift and
+               Nam Sung Kim},
+  title     = {STYX: Exploiting {SmartNIC} Capability to Reduce Datacenter Memory Tax},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {619-633},
+}
+
+@inproceedings{DBLP:conf/usenix/Al-FaresBGGHHLL23,
+  author    = {Mohammad Al-Fares and
+               Virginia Beauregard and
+               Kevin Grant and
+               Angus Griffith and
+               Jahangir Hasan and
+               Chen Huang and
+               Quan Leng and
+               Jiayao Li and
+               Alexander Lin and
+               Zhuotao Liu and
+               Ahmed Mansy and
+               Bill Martinusen and
+               Nikil Mehta and
+               Jeffrey C. Mogul and
+               Andrew Narver and
+               Anshul Nigham and
+               Melanie Obenberger and
+               Sean Smith and
+               Kurt Steinkraus and
+               Sheng Sun and
+               Edward Thiele and
+               Amin Vahdat},
+  title     = {Change Management in Physical Network Lifecycle Automation},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {635-653},
+}
+
+@inproceedings{DBLP:conf/usenix/YangLL0MZJMYXWW23,
+  author    = {Kaicheng Yang and
+               Yuanpeng Li and
+               Sheng Long and
+               Tong Yang and
+               Ruijie Miao and
+               Yikai Zhao and
+               Chaoyang Ji and
+               Penghui Mi and
+               Guodong Yang and
+               Qiong Xie and
+               Hao Wang and
+               Yinhua Wang and
+               Bo Deng and
+               Zhiqiang Liao and
+               Chengqiang Huang and
+               Yongqiang Yang and
+               Xiang Huang and
+               Wei Sun and
+               Xiaoping Zhu},
+  title     = {AAsclepius: Monitoring, Diagnosing, and Detouring at the Internet Peering Edge},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {655-671},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhuSXSFMCWWLYCL23,
+  author    = {Lingjun Zhu and
+               Yifan Shen and
+               Erci Xu and
+               Bo Shi and
+               Ting Fu and
+               Shu Ma and
+               Shuguang Chen and
+               Zhongyu Wang and
+               Haonan Wu and
+               Xingyu Liao and
+               Zhendan Yang and
+               Zhongqing Chen and
+               Wei Lin and
+               Yijun Hou and
+               Rong Liu and
+               Chao Shi and
+               Jiaji Zhu and
+               Jiesheng Wu},
+  title     = {Deploying User-space {TCP} at Cloud Scale with {LUNA}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {673-687},
+}
+
+@inproceedings{DBLP:conf/usenix/LiJCRZLC23,
+  author    = {Haoyu Li and
+               Sheng Jiang and
+               Chen Chen and
+               Ashwini Raina and
+               Xingyu Zhu and
+               Changxu Luo and
+               Asaf Cidon},
+  title     = {RubbleDB: {CPU-Efficient} Replication with {NVMe-oF}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {689-703},
+}
+
+@inproceedings{DBLP:conf/usenix/IdziorekKLPRSTV23,
+  author    = {Joseph Idziorek and
+               Alex Keyes and
+               Colin Lazier and
+               Somu Perianayagam and
+               Prithvi Ramanathan and
+               James Christopher Sorenson III and
+               Doug Terry and
+               Akshat Vig},
+  title     = {Distributed Transactions at Scale in Amazon {DynamoDB}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {705-717},
+}
+
+@inproceedings{DBLP:conf/usenix/KaufmanH023,
+  author    = {Adi Kaufman and
+               Moshik Hershcovitch and
+               Adam Morrison},
+  title     = {Prefix Siphoning: Exploiting {LSM-Tree} Range Filters For Information Disclosure},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {719-733},
+}
+
+@inproceedings{DBLP:conf/usenix/JinAK23,
+  author    = {Di Jin and
+               Vaggelis Atlidakis and
+               Vasileios P. Kemerlis},
+  title     = {EPF: Evil Packet Filter},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {735-751},
+}
+
+@inproceedings{DBLP:conf/usenix/BergmanSSPV23,
+  author    = {Shai Bergman and
+               Mark Silberstein and
+               Takahiro Shinagawa and
+               Peter R. Pietzuch and
+               Lluís Vilanova},
+  title     = {Translation {Pass-Through} for {Near-Native} Paging Performance in {VMs}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {753-768},
+}
+
+@inproceedings{DBLP:conf/usenix/WangLS23,
+  author    = {Yaohui Wang and
+               Ben Luo and
+               Yibin Shen},
+  title     = {Efficient Memory Overcommitment for I/O Passthrough Enabled {VMs} via Fine-grained Page Meta-data Management},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {769-783},
+}
+
+@inproceedings{DBLP:conf/usenix/PengGYG23,
+  author    = {Bo Peng and
+               Cheng Guo and
+               Jianguo Yao and
+               Haibing Guan},
+  title     = {LPNS: Scalable and {Latency-Predictable} Local Storage Virtualization for Unpredictable {NVMe} {SSDs} in Clouds},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {785-800},
+}
+
+@inproceedings{DBLP:conf/usenix/LinXR023,
+  author    = {Zhen Lin and
+               Lingfeng Xiang and
+               Jia Rao and
+               Hui Lu},
+  title     = {P2CACHE: Exploring Tiered Memory for {In-Kernel} File Systems Caching},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {801-815},
+}
+
+@inproceedings{DBLP:conf/usenix/WangL0ZS23,
+  author    = {Jing Wang and
+               Youyou Lu and
+               Qing Wang and
+               Yuhao Zhang and
+               Jiwu Shu},
+  title     = {Revisiting Secondary Indexing in {LSM-based} Storage Systems with Persistent Memory},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {817-832},
+}
+
+@inproceedings{DBLP:conf/usenix/HodgkinsXSI23,
+  author    = {George Hodgkins and
+               Yi Xu and
+               Steven Swanson and
+               Joseph Izraelevitz},
+  title     = {Zhuque: Failure is Not an Option, it's an Exception},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {833-849},
+}
+
+@inproceedings{DBLP:conf/usenix/ChoiKAJK23,
+  author    = {Sangjin Choi and
+               Inhoe Koo and
+               Jeongseob Ahn and
+               Myeongjae Jeon and
+               Youngjin Kwon},
+  title     = {EnvPipe: Performance-preserving {DNN} Training Framework for Saving Energy},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {851-864},
+}
+
+@inproceedings{DBLP:conf/usenix/SungCNGRS23,
+  author    = {Hsin-Hsuan Sung and
+               Jou-An Chen and
+               Wei Niu and
+               Jiexiong Guan and
+               Bin Ren and
+               Xipeng Shen},
+  title     = {Decentralized {Application-Level} Adaptive Scheduling for {Multi-Instance} {DNNs} on Open Mobile Devices},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {865-877},
+}
+
+@inproceedings{DBLP:conf/usenix/SadeghianESHS23,
+  author    = {Ghazal Sadeghian and
+               Mohamed Elsakhawy and
+               Mohanna Shahrad and
+               Joe Hattori and
+               Mohammad Shahrad},
+  title     = {UnFaaSener: Latency and Cost Aware Offloading of Functions from Serverless Platforms},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {879-896},
+}
+
+@inproceedings{DBLP:conf/usenix/WrengerRHDL23,
+  author    = {Lars Wrenger and
+               Florian Rommel and
+               Alexander Halbuer and
+               Christian Dietrich and
+               Daniel Lohmann},
+  title     = {LLFree: Scalable and {Optionally-Persistent} {Page-Frame} Allocation},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {897-914},
+}
+
+@inproceedings{DBLP:conf/usenix/GuoLLLZS23,
+  author    = {Hao Guo and
+               Youyou Lu and
+               Wenhao Lv and
+               Xiaojian Liao and
+               Shaoxun Zeng and
+               Jiwu Shu},
+  title     = {SingularFS: A {Billion-Scale} Distributed File System Using a Single Metadata Server},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {915-928},
+}
+
+@inproceedings{DBLP:conf/usenix/000123a,
+  author    = {Yanyan Jiang},
+  title     = {The Hitchhiker's Guide to Operating Systems},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {929-943},
+}
+
+@inproceedings{DBLP:conf/usenix/LiJZ0X23,
+  author    = {Jiamin Li and
+               Yimin Jiang and
+               Yibo Zhu and
+               Cong Wang and
+               Hong Xu},
+  title     = {Accelerating Distributed {MoE} Training and Inference with Lina},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {945-959},
+}
+
+@inproceedings{DBLP:conf/usenix/ZhaiHMZZZ23,
+  author    = {Mingshu Zhai and
+               Jiaao He and
+               Zixuan Ma and
+               Zan Zong and
+               Runqing Zhang and
+               Jidong Zhai},
+  title     = {SmartMoE: Efficiently Training {Sparsely-Activated} Models through Combining Offline and Online Parallelization},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {961-975},
+}
+
+@inproceedings{DBLP:conf/usenix/Zhu0CCCS0PC23,
+  author    = {Huanzhou Zhu and
+               Bo Zhao and
+               Gang Chen and
+               Weifeng Chen and
+               Yijie Chen and
+               Liang Shi and
+               Yaodong Yang and
+               Peter R. Pietzuch and
+               Lei Chen},
+  title     = {MSRL: Distributed Reinforcement Learning with Dataflow Fragments},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {977-993},
+}
+
+@inproceedings{DBLP:conf/usenix/WengYY0TYZ23,
+  author    = {Qizhen Weng and
+               Lingyun Yang and
+               Yinghao Yu and
+               Wei Wang and
+               Xiaochuan Tang and
+               Guodong Yang and
+               Liping Zhang},
+  title     = {Beware of Fragmentation: Scheduling {GPU-Sharing} Workloads with Fragmentation Gradient Descent},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {995-1008},
+}
+
+@inproceedings{DBLP:conf/usenix/ShovonGMK23,
+  author    = {Ahmedur Rahman Shovon and
+               Thomas Gilray and
+               Kristopher K. Micinski and
+               Sidharth Kumar},
+  title     = {Towards Iterative Relational Algebra on the {GPU}},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {1009-1016},
+}
+
+@inproceedings{DBLP:conf/usenix/GinzburgSF23,
+  author    = {Samuel Ginzburg and
+               Mohammad Shahrad and
+               Michael J. Freedman},
+  title     = {VectorVisor: A Binary Translation Scheme for {Throughput-Oriented} {GPU} Acceleration},
+  booktitle = atc,
+  year      = 2023,
+  pages     = {1017-1037},
+}
+
 @inproceedings{DBLP:conf/usenix/Brewer22,
   author    = {Eric A. Brewer},
   title     = {Eric Brewer, {VP} Infrastructure, Google Fellow and Professor Emeritus, {UC} Berkeley},
@@ -696,7 +1613,7 @@
 }
 
 @inproceedings{DBLP:conf/usenix/KhrabrovPSL22,
-  author    = {Alexy Khrabrov and
+  author    = {Alexey Khrabrov and
                Marius Pirvu and
                Vijay Sundaresan and
                Eyal de Lara},
@@ -7679,7 +8596,7 @@
 
 @inproceedings{DBLP:conf/usenix/ShraerRMJ12,
   author    = {Alexander Shraer and
-               Benjamin Reed and
+               Benjamin C. Reed and
                Dahlia Malkhi and
                Flavio Paiva Junqueira},
   title     = {Dynamic Reconfiguration of Primary/Backup Clusters},
@@ -7780,7 +8697,7 @@
 
 @inproceedings{DBLP:conf/usenix/ChawlaRJS11,
   author    = {Ashish Chawla and
-               Benjamin Reed and
+               Benjamin C. Reed and
                Karl Juhnke and
                Ghousuddin Syed},
   title     = {Semantics of Caching with SPOCA: A Stateless, Proportional, {Optimally-Consistent} Addressing Algorithm},
@@ -8139,7 +9056,7 @@
   author    = {Patrick Hunt and
                Mahadev Konar and
                Flavio Paiva Junqueira and
-               Benjamin Reed},
+               Benjamin C. Reed},
   title     = {ZooKeeper: Wait-free Coordination for Internet-scale Systems},
   booktitle = atc,
   year      = 2010,
@@ -8793,7 +9710,7 @@
 
 @inproceedings{DBLP:conf/usenix/OlstonRSS08,
   author    = {Christopher Olston and
-               Benjamin Reed and
+               Benjamin C. Reed and
                Adam Silberstein and
                Utkarsh Srivastava},
   title     = {Automatic Optimization of Parallel Dataflow Programs},
@@ -10128,7 +11045,7 @@
 
 @inproceedings{DBLP:conf/usenix/BinkleyM05,
   author    = {James R. Binkley and
-               Barton C. Massey},
+               Bart Massey},
   title     = {Ourmon and Network Monitoring Performance},
   booktitle = atc,
   year      = 2005,
@@ -12774,7 +13691,7 @@
 }
 
 @inproceedings{DBLP:conf/usenix/Engelschall00,
-  author    = {Ralf S. Engelschall},
+  author    = {Ralf Sascha Engelschall},
   title     = {Portable {Multithreading-The} Signal Stack Trick for {User-Space} Thread Creation},
   booktitle = atc,
   year      = 2000,

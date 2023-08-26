@@ -41,4 +41,3 @@ That's it.
 ## Adding new content
 
 First, add the conference/journal/workshop to the bottom of dblpparse.py. Then run `make clean && make xtx`
-

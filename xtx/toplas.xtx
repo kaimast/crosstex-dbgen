@@ -1,5 +1,174 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/Danvy23,
+  author    = {Olivier Danvy},
+  title     = {The Tortoise and the Hare Algorithm for Finite Lists, Compositionally},
+  journal   = toplas,
+  volume    = {45},
+  number    = {1},
+  year      = 2023,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/HuLHKCS23,
+  author    = {Jingmei Hu and
+               Eric Lu and
+               David A. Holland and
+               Ming Kawaguchi and
+               Stephen Chong and
+               Margo I. Seltzer},
+  title     = {Towards Porting Operating Systems with Program Synthesis},
+  journal   = toplas,
+  volume    = {45},
+  number    = {1},
+  year      = 2023,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/RungeSPS23,
+  author    = {Tobias Runge and
+               Marco Servetto and
+               Alex Potanin and
+               Ina Schaefer},
+  title     = {Immutability and Encapsulation for Sound {OO} Information Flow Control},
+  journal   = toplas,
+  volume    = {45},
+  number    = {1},
+  year      = 2023,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/GreenmanDF23,
+  author    = {Ben Greenman and
+               Christos Dimoulas and
+               Matthias Felleisen},
+  title     = {{Typed-Untyped} Interactions: A Comparative Analysis},
+  journal   = toplas,
+  volume    = {45},
+  number    = {1},
+  year      = 2023,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/ChargueraudCEG23,
+  author    = {Arthur Charguéraud and
+               Adam Chlipala and
+               Andres Erbsen and
+               Samuel Gruetter},
+  title     = {Omnisemantics: Smooth Handling of Nondeterminism},
+  journal   = toplas,
+  volume    = {45},
+  number    = {1},
+  year      = 2023,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/toplas/FanSH23,
+  author    = {Hongyu Fan and
+               Zhihang Sun and
+               Fei He},
+  title     = {Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and {PSO} Memory Models},
+  journal   = toplas,
+  volume    = {45},
+  number    = {1},
+  year      = 2023,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/toplas/MuraliPLM23,
+  author    = {Adithya Murali and
+               Lucas Peña and
+               Christof Löding and
+               P. Madhusudan},
+  title     = {A First-order Logic with Frames},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/toplas/ToroDANAOT23,
+  author    = {Matías Toro and
+               David Darais and
+               Chike Abuah and
+               Joseph P. Near and
+               Damián Árquez and
+               Federico Olmedo and
+               Éric Tanter},
+  title     = {Contextual Linear Types for Differential Privacy},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/toplas/JiaKT23,
+  author    = {Xiaodong Jia and
+               Ashish Kumar and
+               Gang Tan},
+  title     = {A Derivative-based Parser Generator for Visibly Pushdown Grammars},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/BassoPRB23,
+  author    = {Matteo Basso and
+               Aleksandar Prokopec and
+               Andrea Rosà and
+               Walter Binder},
+  title     = {{Optimization-Aware} {Compiler-Level} Event Profiling},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/YipGRB23,
+  author    = {Eugene Yip and
+               Alain Girault and
+               Partha S. Roop and
+               Morteza Biglari-Abhari},
+  title     = {Synchronous Deterministic Parallel Programming for {Multi-Cores} with {ForeC}},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/toplas/SanchezSternFZKBR23,
+  author    = {Alex Sanchez-Stern and
+               Emily First and
+               Timothy Zhou and
+               Zhanna Kaufman and
+               Yuriy Brun and
+               Talia Ringer},
+  title     = {Passport: Improving Automated Formal Verification Using Identifiers},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/toplas/SoaresCP23,
+  author    = {Luigi Soares and
+               Michael Canesche and
+               Fernando Magno Quintão Pereira},
+  title     = {Side-channel Elimination via Partial Control-flow Linearization},
+  journal   = toplas,
+  volume    = {45},
+  number    = {2},
+  year      = 2023,
+  pages     = {13-1},
+}
+
 @article{DBLP:journals/toplas/InversoTFTP22,
   author    = {Omar Inverso and
                Ermenegildo Tomasco and
@@ -3235,7 +3404,7 @@
 @article{DBLP:journals/toplas/BartolettiDFZ09,
   author    = {Massimo Bartoletti and
                Pierpaolo Degano and
-               Gian Luigi Ferrari and
+               Gian-Luigi Ferrari and
                Roberto Zunino},
   title     = {Local policies for resource usage analysis},
   journal   = toplas,
@@ -8077,7 +8246,7 @@
 }
 
 @article{DBLP:journals/toplas/SekarR95,
-  author    = {R. C. Sekar and
+  author    = {R. Sekar and
                I. V. Ramakrishnan},
   title     = {Fast Strictness Analysis Based on Demand Propagation},
   journal   = toplas,

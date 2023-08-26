@@ -1,5 +1,233 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/aft/KellerB22,
+  author    = {Patrik Keller and
+               Rainer Böhme},
+  title     = {Parallel {Proof-of-Work} with Concrete Bounds},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/aft/ErsoyDKR22,
+  author    = {Oguzhan Ersoy and
+               Jérémie Decouchant and
+               Satwik Prabhu Kumble and
+               Stefanie Roos},
+  title     = {SyncPCN/PSyncPCN: Payment Channel Networks without Blockchain Synchrony},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {16-29},
+}
+
+@inproceedings{DBLP:conf/aft/Werner0GKHK22,
+  author    = {Sam Werner and
+               Daniel Perez and
+               Lewis Gudgeon and
+               Ariah Klages-Mundt and
+               Dominik Harz and
+               William J. Knottenbelt},
+  title     = {SoK: Decentralized Finance (DeFi)},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {30-46},
+}
+
+@inproceedings{DBLP:conf/aft/HeimbachW22,
+  author    = {Lioba Heimbach and
+               Roger Wattenhofer},
+  title     = {SoK: Preventing Transaction Reordering Manipulations in Decentralized Finance},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {47-60},
+}
+
+@inproceedings{DBLP:conf/aft/KiayiasL22,
+  author    = {Aggelos Kiayias and
+               Philip Lazos},
+  title     = {SoK: Blockchain Governance},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {61-73},
+}
+
+@inproceedings{DBLP:conf/aft/GanWRL22,
+  author    = {Rundong Gan and
+               Le Wang and
+               Xiangyu Ruan and
+               Xiaodong Lin},
+  title     = {Understanding {Flash-Loan-based} Wash Trading},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {74-88},
+}
+
+@inproceedings{DBLP:conf/aft/HeimbachSW22,
+  author    = {Lioba Heimbach and
+               Eric Schertenleib and
+               Roger Wattenhofer},
+  title     = {Risks and Returns of Uniswap V3 Liquidity Providers},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {89-101},
+}
+
+@inproceedings{DBLP:conf/aft/FritschKW22,
+  author    = {Robin Fritsch and
+               Samuel Käser and
+               Roger Wattenhofer},
+  title     = {The Economics of Automated Market Makers},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {102-110},
+}
+
+@inproceedings{DBLP:conf/aft/GorenMS22,
+  author    = {Guy Goren and
+               Yoram Moses and
+               Alexander Spiegelman},
+  title     = {Probabilistic Indistinguishability and the Quality of Validity in Byzantine Agreement},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {111-125},
+}
+
+@inproceedings{DBLP:conf/aft/NeuSYTA22,
+  author    = {Joachim Neu and
+               Srivatsan Sridhar and
+               Lei Yang and
+               David Tse and
+               Mohammad Alizadeh},
+  title     = {Longest Chain Consensus Under Bandwidth Constraint},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {126-147},
+}
+
+@inproceedings{DBLP:conf/aft/NarayanamRVN22,
+  author    = {Krishnasuri Narayanam and
+               Venkatraman Ramakrishna and
+               Dhinakaran Vinayagamurthy and
+               Sandeep Nishad},
+  title     = {Atomic cross-chain exchanges of shared assets},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {148-160},
+}
+
+@inproceedings{DBLP:conf/aft/EngelX22,
+  author    = {Daniel Engel and
+               Yingjie Xue},
+  title     = {Transferable {Cross-Chain} Options},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {161-179},
+}
+
+@inproceedings{DBLP:conf/aft/NazirkhanovaNT22,
+  author    = {Kamilla Nazirkhanova and
+               Joachim Neu and
+               David Tse},
+  title     = {Information Dispersal with Provable Retrievability for Rollups},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {180-197},
+}
+
+@inproceedings{DBLP:conf/aft/HanYZ22,
+  author    = {Runchao Han and
+               Jiangshan Yu and
+               Ren Zhang},
+  title     = {Analysing and Improving Shard Allocation Protocols for Sharded Blockchains},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {198-216},
+}
+
+@inproceedings{DBLP:conf/aft/TiwariYASP022,
+  author    = {Samarth Tiwari and
+               Michelle Yeo and
+               Zeta Avarikioti and
+               Iosif Salem and
+               Krzysztof Pietrzak and
+               Stefan Schmid},
+  title     = {Wiser: Increasing Throughput in Payment Channel Networks with Transaction Aggregation},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {217-231},
+}
+
+@inproceedings{DBLP:conf/aft/0001LK22,
+  author    = {Suhyeon Lee and
+               Donghwan Lee and
+               Seungjoo Kim},
+  title     = {Block {Double-Submission} Attack: Block Withholding Can Be {Self-Destructive}},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {232-243},
+}
+
+@inproceedings{DBLP:conf/aft/Guo022,
+  author    = {Dongning Guo and
+               Ling Ren},
+  title     = {Bitcoin's {Latency-Security} Analysis Made Simple},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {244-253},
+}
+
+@inproceedings{DBLP:conf/aft/StutzSMHM22,
+  author    = {Rainer Stütz and
+               Johann Stockinger and
+               Pedro Moreno-Sanchez and
+               Bernhard Haslhofer and
+               Matteo Maffei},
+  title     = {Adoption and Actual Privacy of Decentralized {CoinJoin} Implementations in Bitcoin},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {254-267},
+}
+
+@inproceedings{DBLP:conf/aft/BirmpasKLO22,
+  author    = {Georgios Birmpas and
+               Lyudmila Kovalchuk and
+               Philip Lazos and
+               Roman Oliynykov},
+  title     = {Parallel Contests for Crowdsourcing Reviews: Existence and Quality of Equilibria},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {268-280},
+}
+
+@inproceedings{DBLP:conf/aft/KarakostasK022,
+  author    = {Dimitris Karakostas and
+               Aggelos Kiayias and
+               Thomas Zacharias},
+  title     = {Blockchain Nash Dynamics and the Pursuit of Compliance},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {281-293},
+}
+
+@inproceedings{DBLP:conf/aft/XiaoMK22,
+  author    = {Yunming Xiao and
+               Sarit Markovich and
+               Aleksandar Kuzmanovic},
+  title     = {Blockchain Mining: Optimal Resource Allocation},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {294-307},
+}
+
+@inproceedings{DBLP:conf/aft/MangipudiK22,
+  author    = {Easwar Vivek Mangipudi and
+               Aniket Kate},
+  title     = {D-KODE: Distributed Mechanism to Manage a Billion Discrete-log Keys},
+  booktitle = aft,
+  year      = 2022,
+  pages     = {308-325},
+}
+
 @inproceedings{DBLP:conf/aft/McMenaminDP21,
   author    = {Conor McMenamin and
                Vanesa Daza and

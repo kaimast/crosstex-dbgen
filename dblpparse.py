@@ -1,5 +1,7 @@
 #! /usr/bin/python3
 
+#pylint: disable=line-too-long
+
 import collections
 import datetime
 import itertools
@@ -634,7 +636,7 @@ d.add_conference('atc',         'ATC', 'USENIX Annual Technical Conference', nam
 d.add_conference('aft',         'AFT', 'Advances in Financial Technologies')
 d.add_conference('ccs',         'CCS', 'Computer and Communications Security')
 d.add_conference('crypto',      'CRYPTO', 'Annual International Cryptology Conference')
-#d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques', names=('EUROCRYPT',))
+d.add_conference('eurocrypt',   'Eurocrypt', 'Annual International Conference on the Theory and Applications of Cryptographic Techniques', names=('EUROCRYPT',))
 d.add_conference('eurosp',      'Euro S&P', 'European Symposium on Security and Privacy', names=('{IEEE} European Symposium on Security and Privacy', 'EuroS&P', 'EuroS&P Workshops'), prefixes=('conf/eurosp',))
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
 d.add_conference('fc',          'FC', 'Financial Cryptography and Data Security', names=('Financial Cryptography',))
@@ -652,7 +654,7 @@ d.add_conference('podc',        'PODC', 'ACM Symposium on Principles of Distribu
 d.add_conference('pods',        'PODS', 'Symposium on Principles of Database Systems')
 d.add_conference('popl',        'POPL', 'Symposium on Principles of Programming Languages')
 d.add_conference('sigcomm',     'SIGCOMM', 'SIGCOMM Conference')
-d.add_conference('sigmod',      'SIGMOD', 'SIGMOD International Conference on Management of Data', names=('SIGMOD Conference',))
+d.add_conference('sigmod',      'SIGMOD', 'SIGMOD International Conference on Management of Data', names=('SIGMOD conference',))
 d.add_conference('socc',        'SoCC', 'Symposium on Cloud Computing', prefixes=('conf/cloud',))
 d.add_conference('sosp',        'SOSP', 'Symposium on Operating Systems Principles')
 d.add_conference('oakland',     'IEEE S&P', 'IEEE Symposium on Security and Privacy', prefixes=('conf/sp',))
@@ -699,6 +701,7 @@ d.add_journal('login',          ';login:', )
 d.add_journal('mms',            'Multimedia Systems Journal', names=('Multimedia Syst.',))
 #d.add_journal('scp',            'Science of Computer Programming', names=('Sci. Comput. Program.',))
 d.add_journal('pvldb',          'PVLDB', 'Proceedings of the VLDB Endowment', names=('The VLDB Journal', 'Proc. VLDB Endow.'))
+d.add_journal('sigmodr',        'SIGMOD Record', prefixes=('journals/sigmod',), names=('ACM SIGMOD Record', 'SIGMOD Rec.'))
 
 #TODO
 #d.add_conference('hicss',       'HICSS', 'Hawaii International International Conference on Systems')

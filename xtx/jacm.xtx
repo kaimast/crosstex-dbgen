@@ -93,6 +93,180 @@
   pages     = {8-1},
 }
 
+@article{DBLP:journals/jacm/BauwensZ23,
+  author    = {Bruno Bauwens and
+               Marius Zimand},
+  title     = {Universal almost Optimal Compression and Slepian-wolf Coding in Probabilistic Polynomial Time},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/jacm/BubeckS23,
+  author    = {Sébastien Bubeck and
+               Mark Sellke},
+  title     = {A Universal Law of Robustness via Isoperimetry},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/jacm/Wang23,
+  author    = {Haitao Wang},
+  title     = {A New Algorithm for Euclidean Shortest Paths in the Plane},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/jacm/CharalampopoulosGLMPWW23,
+  author    = {Panagiotis Charalampopoulos and
+               Pawel Gawrychowski and
+               Yaowei Long and
+               Shay Mozes and
+               Seth Pettie and
+               Oren Weimann and
+               Christian Wulff-Nilsen},
+  title     = {Almost Optimal Exact Distance Oracles for Planar Graphs},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/jacm/GeffnerH23,
+  author    = {Ivan Geffner and
+               Joseph Y. Halpern},
+  title     = {Lower Bounds on Implementing Mediators in Asynchronous Systems with Rational and Malicious Agents},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/jacm/Lichter23,
+  author    = {Moritz Lichter},
+  title     = {Separating Rank Logic from Polynomial Time},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/jacm/BruniGGR23,
+  author    = {Roberto Bruni and
+               Roberto Giacobazzi and
+               Roberta Gori and
+               Francesco Ranzato},
+  title     = {A Correctness and Incorrectness Program Logic},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/jacm/AfshaniC23,
+  author    = {Peyman Afshani and
+               Pingan Cheng},
+  title     = {Lower Bounds for Semialgebraic Range Searching and Stabbing Problems},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/jacm/RinbergK23,
+  author    = {Arik Rinberg and
+               Idit Keidar},
+  title     = {Intermediate Value Linearizability: A Quantitative Correctness Criterion},
+  journal   = jacm,
+  volume    = {70},
+  number    = {2},
+  year      = 2023,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/jacm/RutschmannW23,
+  author    = {Daniel Rutschmann and
+               Manuel Wettstein},
+  title     = {Chains, Koch Chains, and Point Sets with Many Triangulations},
+  journal   = jacm,
+  volume    = {70},
+  number    = {3},
+  year      = 2023,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/jacm/JagadeesanWWJS23,
+  author    = {Meena Jagadeesan and
+               Alexander Wei and
+               Yixin Wang and
+               Michael I. Jordan and
+               Jacob Steinhardt},
+  title     = {Learning Equilibria in Matching Markets with Bandit Feedback},
+  journal   = jacm,
+  volume    = {70},
+  number    = {3},
+  year      = 2023,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/jacm/GaitondeT23,
+  author    = {Jason Gaitonde and
+               Éva Tardos},
+  title     = {The Price of Anarchy of Strategic Queuing Systems},
+  journal   = jacm,
+  volume    = {70},
+  number    = {3},
+  year      = 2023,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/jacm/LiuM23,
+  author    = {Allen Liu and
+               Ankur Moitra},
+  title     = {Robustly Learning General Mixtures of Gaussians},
+  journal   = jacm,
+  volume    = {70},
+  number    = {3},
+  year      = 2023,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/jacm/ChenDRS23,
+  author    = {Ho-Lin Chen and
+               David Doty and
+               Wyatt Reeves and
+               David Soloveichik},
+  title     = {Rate-independent Computation in Continuous Chemical Reaction Networks},
+  journal   = jacm,
+  volume    = {70},
+  number    = {3},
+  year      = 2023,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/jacm/Doyen23,
+  author    = {Laurent Doyen},
+  title     = {Stochastic Games with Synchronization Objectives},
+  journal   = jacm,
+  volume    = {70},
+  number    = {3},
+  year      = 2023,
+  pages     = {23-1},
+}
+
 @article{DBLP:journals/jacm/KalaiRR22,
   author    = {Yael Tauman Kalai and
                Ran Raz and
@@ -2576,8 +2750,7 @@
 }
 
 @article{DBLP:journals/jacm/Tardos18c,
-  author    = {É and
-               Éva Tardos},
+  author    = {Éva Tardos},
   title     = {Invited Article Foreword},
   journal   = jacm,
   volume    = {65},
@@ -11462,7 +11635,7 @@
 }
 
 @article{DBLP:journals/jacm/SekarRM97,
-  author    = {R. C. Sekar and
+  author    = {R. Sekar and
                I. V. Ramakrishnan and
                Prateek Mishra},
   title     = {On the power and limitations of strictness analysis},
@@ -15379,7 +15552,7 @@
 }
 
 @article{DBLP:journals/jacm/Kaltofen88,
-  author    = {Erich Kaltofen},
+  author    = {Erich L. Kaltofen},
   title     = {Greatest common divisors of polynomials given by straight-line programs},
   journal   = jacm,
   volume    = {35},
@@ -17599,7 +17772,7 @@
 
 @article{DBLP:journals/jacm/BoyerM84,
   author    = {Robert S. Boyer and
-               J. Strother Moore},
+               J Strother Moore},
   title     = {A Mechanical Proof of the Unsolvability of the Halting Problem},
   journal   = jacm,
   volume    = {31},
@@ -17947,9 +18120,9 @@
 }
 
 @article{DBLP:journals/jacm/LordKK83,
-  author    = {R. E. Lord and
-               J. S. Kowalik and
-               S. P. Kumar},
+  author    = {Robert E. Lord and
+               Janusz S. Kowalik and
+               Swarn P. Kumar},
   title     = {Solving Linear Algebraic Equations on an {MIMD} Computer},
   journal   = jacm,
   volume    = {30},
@@ -22890,7 +23063,7 @@
 
 @article{DBLP:journals/jacm/BoyerM75,
   author    = {Robert S. Boyer and
-               J. Strother Moore},
+               J Strother Moore},
   title     = {Proving Theorems about {LISP} Functions},
   journal   = jacm,
   volume    = {22},

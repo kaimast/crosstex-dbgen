@@ -1,5 +1,358 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pods/Leskovec23,
+  author    = {Jure Leskovec},
+  title     = {Databases as Graphs: Predictive Queries for Declarative Machine Learning},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/pods/ArenasFN23,
+  author    = {Marcelo Arenas and
+               Wenfei Fan and
+               Frank Neven},
+  title     = {The {ACM} {PODS} Alberto O. Mendelzon {Test-of-Time} Award 2023},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {3-4},
+}
+
+@inproceedings{DBLP:conf/pods/Cormode23,
+  author    = {Graham Cormode},
+  title     = {Applications of Sketching and Pathways to Impact},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {5-10},
+}
+
+@inproceedings{DBLP:conf/pods/LibkinP23,
+  author    = {Leonid Libkin and
+               Liat Peterfreund},
+  title     = {{SQL} Nulls and {Two-Valued} Logic},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/pods/AlvianoLMP23,
+  author    = {Mario Alviano and
+               Matthias Lanzinger and
+               Michael Morak and
+               Andreas Pieris},
+  title     = {Generative Datalog with Stable Negation},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {21-32},
+}
+
+@inproceedings{DBLP:conf/pods/BenediktPW23,
+  author    = {Michael Benedikt and
+               Cécilia Pradic and
+               Christoph Wernhard},
+  title     = {Synthesizing Nested Relational Queries from Implicit Specifications},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {33-45},
+}
+
+@inproceedings{DBLP:conf/pods/BaccaertK23,
+  author    = {Tim Baccaert and
+               Bas Ketsman},
+  title     = {Distributed Consistency Beyond Queries},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {47-58},
+}
+
+@inproceedings{DBLP:conf/pods/ZhaoDK23,
+  author    = {Hangdong Zhao and
+               Shaleen Deep and
+               Paraschos Koutris},
+  title     = {{Space-Time} Tradeoffs for Conjunctive Queries with Access Patterns},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {59-68},
+}
+
+@inproceedings{DBLP:conf/pods/VandevoortKN23,
+  author    = {Brecht Vandevoort and
+               Bas Ketsman and
+               Frank Neven},
+  title     = {Allocating Isolation Levels to Transactions in a Multiversion Setting},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {69-78},
+}
+
+@inproceedings{DBLP:conf/pods/LebedaT23,
+  author    = {Christian Janos Lebeda and
+               Jakub Tetek},
+  title     = {Better Differentially Private Approximate Histograms and Heavy Hitters using the {Misra-Gries} Sketch},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {79-88},
+}
+
+@inproceedings{DBLP:conf/pods/CateDFL23,
+  author    = {Balder ten Cate and
+               Victor Dalmau and
+               Maurice Funk and
+               Carsten Lutz},
+  title     = {Extremal Fitting Problems for Conjunctive Queries},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {89-98},
+}
+
+@inproceedings{DBLP:conf/pods/DengL023,
+  author    = {Shiyuan Deng and
+               Shangqi Lu and
+               Yufei Tao},
+  title     = {On Join Sampling and the Hardness of Combinatorial {Output-Sensitive} Join Algorithms},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {99-111},
+}
+
+@inproceedings{DBLP:conf/pods/KimH0H23,
+  author    = {Kyoungmin Kim and
+               Jaehyun Ha and
+               George Fletcher and
+               Wook-Shin Han},
+  title     = {Guaranteeing the Õ(AGM/OUT) Runtime for Uniform Sampling and Size Estimation over Joins},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {113-125},
+}
+
+@inproceedings{DBLP:conf/pods/Khanna0A23,
+  author    = {Sanjeev Khanna and
+               Christian Konrad and
+               Cezar-Mihail Alexandru},
+  title     = {Set Cover in the One-pass Edge-arrival Streaming Model},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {127-139},
+}
+
+@inproceedings{DBLP:conf/pods/AssadiCGS23,
+  author    = {Sepehr Assadi and
+               Amit Chakrabarti and
+               Prantar Ghosh and
+               Manuel Stoeckl},
+  title     = {Coloring in Graph Streams via Deterministic and Adversarially Robust Algorithms},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {141-153},
+}
+
+@inproceedings{DBLP:conf/pods/HildebrantLTV23,
+  author    = {Ryan Hildebrant and
+               Quoc-Tung Le and
+               Duy-Hoang Ta and
+               Hoa T. Vu},
+  title     = {Towards Better Bounds for Finding {Quasi-Identifiers}},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {155-167},
+}
+
+@inproceedings{DBLP:conf/pods/BessaDFMMSZ23,
+  author    = {Aline Bessa and
+               Majid Daliri and
+               Juliana Freire and
+               Cameron Musco and
+               Christopher Musco and
+               Aécio S. R. Santos and
+               Haoxiang Zhang},
+  title     = {Weighted Minwise Hashing Beats Linear Sketching for Inner Product Estimation},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {169-181},
+}
+
+@inproceedings{DBLP:conf/pods/KalemajRST23,
+  author    = {Iden Kalemaj and
+               Sofya Raskhodnikova and
+               Adam D. Smith and
+               Charalampos E. Tsourakakis},
+  title     = {{Node-Differentially} Private Estimation of the Number of Connected Components},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {183-194},
+}
+
+@inproceedings{DBLP:conf/pods/DongY23,
+  author    = {Wei Dong and
+               Ke Yi},
+  title     = {Universal Private Estimators},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {195-206},
+}
+
+@inproceedings{DBLP:conf/pods/GhaziH0M23,
+  author    = {Badih Ghazi and
+               Xiao Hu and
+               Ravi Kumar and
+               Pasin Manurangsi},
+  title     = {Differentially Private Data Release over Multiple Tables},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {207-219},
+}
+
+@inproceedings{DBLP:conf/pods/DillingerFTW23,
+  author    = {Peter C. Dillinger and
+               Martin Farach-Colton and
+               Guido Tagliavini and
+               Stefan Walzer},
+  title     = {Optimal Uncoordinated Unique {IDs}},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {221-230},
+}
+
+@inproceedings{DBLP:conf/pods/Figueira023,
+  author    = {Diego Figueira and
+               Miguel Romero},
+  title     = {Conjunctive Regular Path Queries under Injective Semantics},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {231-240},
+}
+
+@inproceedings{DBLP:conf/pods/FrancisGGLMMMPR23,
+  author    = {Nadime Francis and
+               Amélie Gheerbrant and
+               Paolo Guagliardo and
+               Leonid Libkin and
+               Victor Marsault and
+               Wim Martens and
+               Filip Murlak and
+               Liat Peterfreund and
+               Alexandra Rogova and
+               Domagoj Vrgoc},
+  title     = {GPC: A Pattern Calculus for Property Graphs},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {241-250},
+}
+
+@inproceedings{DBLP:conf/pods/BonevaGHMS23,
+  author    = {Iovka Boneva and
+               Benoît Groz and
+               Jan Hidders and
+               Filip Murlak and
+               Slawek Staworko},
+  title     = {Static Analysis of Graph Database Transformations},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {251-261},
+}
+
+@inproceedings{DBLP:conf/pods/Lu023,
+  author    = {Shangqi Lu and
+               Yufei Tao},
+  title     = {Indexing for Keyword Search with Structured Constraints},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {263-275},
+}
+
+@inproceedings{DBLP:conf/pods/CarmeliS23,
+  author    = {Nofar Carmeli and
+               Luc Segoufin},
+  title     = {Conjunctive Queries With Self-Joins, Towards a {Fine-Grained} Enumeration Complexity Analysis},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {277-289},
+}
+
+@inproceedings{DBLP:conf/pods/BagetMR23,
+  author    = {Jean-François Baget and
+               Marie-Laure Mugnier and
+               Sebastian Rudolph},
+  title     = {Bounded Treewidth and the Infinite Core Chase: Complications and Workarounds toward Decidable Querying},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {291-302},
+}
+
+@inproceedings{DBLP:conf/pods/TziavelisCGKR23,
+  author    = {Nikolaos Tziavelis and
+               Nofar Carmeli and
+               Wolfgang Gatterbauer and
+               Benny Kimelfeld and
+               Mirek Riedewald},
+  title     = {Efficient Computation of Quantiles over Joins},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {303-315},
+}
+
+@inproceedings{DBLP:conf/pods/WangP23,
+  author    = {Dingyu Wang and
+               Seth Pettie},
+  title     = {Better Cardinality Estimators for HyperLogLog, PCSA, and Beyond},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {317-327},
+}
+
+@inproceedings{DBLP:conf/pods/KenigW23,
+  author    = {Batya Kenig and
+               Nir Weinberger},
+  title     = {Quantifying the Loss of Acyclic Join Dependencies},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {329-338},
+}
+
+@inproceedings{DBLP:conf/pods/BremenM23,
+  author    = {Timothy van Bremen and
+               Kuldeep S. Meel},
+  title     = {Probabilistic Query Evaluation: The Combined {FPRAS} Landscape},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {339-347},
+}
+
+@inproceedings{DBLP:conf/pods/ConsoleLP23,
+  author    = {Marco Console and
+               Leonid Libkin and
+               Liat Peterfreund},
+  title     = {Querying Incomplete Numerical Data: Between Certain and Possibile Answers},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {349-358},
+}
+
+@inproceedings{DBLP:conf/pods/Canonne23,
+  author    = {Clément L. Canonne},
+  title     = {Corrigendum: Are Few Bins Enough: Testing Histogram Distributions},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {359},
+}
+
+@inproceedings{DBLP:conf/pods/Cohen23,
+  author    = {Edith Cohen},
+  title     = {Sampling Big Ideas in Query Optimization},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {361-371},
+}
+
+@inproceedings{DBLP:conf/pods/Geerts23,
+  author    = {Floris Geerts},
+  title     = {A Query Language Perspective on Graph Learning},
+  booktitle = pods,
+  year      = 2023,
+  pages     = {373-379},
+}
+
 @inproceedings{DBLP:conf/pods/VandevoortK0N22,
   author    = {Brecht Vandevoort and
                Bas Ketsman and

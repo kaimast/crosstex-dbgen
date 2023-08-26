@@ -1,5 +1,798 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/0001ZZKS023,
+  author    = {Xianghong Xu and
+               Zhibing Zhao and
+               Tieying Zhang and
+               Rong Kang and
+               Luming Sun and
+               Jianjun Chen},
+  title     = {COOOL: A {Learning-To-Rank} Approach for {SQL} Hint Recommendations},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/00060K23,
+  author    = {Christian Winter and
+               Thomas Neumann and
+               Alfons Kemper},
+  title     = {{Relation-Based} {In-Database} Stream Processing},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/AdoniHG23,
+  author    = {Vijay Adoni and
+               Sajad Fathi Hafshejani and
+               Daya Ram Gaur},
+  title     = {Empirical Evaluation of A Quantum Accelerated Approach for The Central Path Method in Linear Programming},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/AlonsoKKW23,
+  author    = {Gustavo Alonso and
+               Ana Klimovic and
+               Tom Kuchler and
+               Michael Wawrzoniak},
+  title     = {Rethinking Serverless Computing: from the Programming Model to the Platform Design},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Aramburu23,
+  author    = {Felipe Aramburú},
+  title     = {Using Multiple Composable, {Hardware-Accelerated} Executors (Lightning Talk)},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/AzzaliniCCST23,
+  author    = {Fabio Azzalini and
+               Cinzia Cappiello and
+               Chiara Criscuolo and
+               Camilla Sancricca and
+               Letizia Tanca},
+  title     = {Data Quality and Data Ethics: Towards a Trade-off Evaluation},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/BensonER23,
+  author    = {Lawrence Benson and
+               Richard Ebeling and
+               Tilmann Rabl},
+  title     = {Evaluating {SIMD} {Compiler-Intrinsics} for Database Systems},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/BergHCJSNN23,
+  author    = {Jessica Berg and
+               Muhammad Haseeb and
+               Haiming Chen and
+               Yaojia Ju and
+               Anirudh Sivaraman and
+               Ravi Netravali and
+               Srinivas Narayana},
+  title     = {QuEST: Fast, Expressive, and Cheap Analytics for Distributed Traces Using Cloud Storage},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/BussMTT0L23,
+  author    = {Christopher Buss and
+               Jasmin Mosavi and
+               Mikhail Tokarev and
+               Arash Termehchy and
+               David Maier and
+               Stefan Lee},
+  title     = {Generating Data Augmentation Queries Using Large Language Models},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Cappiello0SZ23,
+  author    = {Cinzia Cappiello and
+               Federico Cerutti and
+               Camilla Sancricca and
+               Riccardo Zanelli},
+  title     = {About the Effects of Data Imputation Techniques on {ML} Uncertainty},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/CappielloGV23,
+  author    = {Cinzia Cappiello and
+               Sandra Geisler and
+               Maria-Esther Vidal},
+  title     = {Preface {DEco}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/ChengCZCHCQLLWZ23,
+  author    = {Miaomiao Cheng and
+               Jiujian Chen and
+               Cheng Zhao and
+               Cheng Chen and
+               Yongmin Hu and
+               Xiaoliang Cong and
+               Liang Qin and
+               Hexiang Lin and
+               Ronghua Li and
+               Guoren Wang and
+               Shuai Zhang and
+               Lei Zhang},
+  title     = {ByteGAP: A Non-continuous Distributed Graph Computing System using Persistent Memory},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/ChrysostomakiSE23,
+  author    = {Eva Chrysostomaki and
+               Maria Stratigi and
+               Vasilis Efthymiou and
+               Kostas Stefanidis and
+               Dimitris Plexousakis},
+  title     = {Fair Sequential Group Recommendations in {SQUIRREL} Movies},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Damme23,
+  author    = {Patrick Damme},
+  title     = {Holistic Extensibility for Integrated Data Analysis Pipelines in {DAPHNE}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/EfthymiouHJS23,
+  author    = {Vasilis Efthymiou and
+               Oktie Hassanzadeh and
+               Ernesto Jiménez-Ruiz and
+               Kavitha Srinivas},
+  title     = {Preface {TaDA}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/EhrlingerHIN23,
+  author    = {Lisa Ehrlinger and
+               Hazar Harmouch and
+               Ihab F. Ilyas and
+               Felix Naumann},
+  title     = {Preface {QDB}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Erling23,
+  author    = {Orri Erling},
+  title     = {Horizons of Composability},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/FerreiraCP23,
+  author    = {Luís Meruje Ferreira and
+               Fábio Coelho and
+               José Orlando Pereira},
+  title     = {Towards {MRAM} {Byte-Addressable} Persistent Memory in Edge Database Systems},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/GhasemitaheriHG23,
+  author    = {Shadi Ghasemitaheri and
+               Amelia Holcomb and
+               Lukasz Golab and
+               Srinivasan Keshav},
+  title     = {On the Data Quality of Remotely Sensed Forest Maps},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/GruenwaldWCGG23,
+  author    = {Le Gruenwald and
+               Tobias Winker and
+               Umut Çalikyilmaz and
+               Jinghua Groppe and
+               Sven Groppe},
+  title     = {Index Tuning with Machine Learning on Quantum Computers for {Large-Scale} Database Applications},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/GrulichZM23,
+  author    = {Philipp M. Grulich and
+               Steffen Zeuch and
+               Volker Markl},
+  title     = {Towards Efficient and Secure {UDF} Execution with {BabelfishLib} (Lightning Talk)},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/HimmelsbachMDH23,
+  author    = {Timo Himmelsbach and
+               Yongli Mou and
+               Stefan Decker and
+               Armin Heinzl},
+  title     = {Towards Federated Machine Learning and Distributed Ledger Technology-based Data Monetization},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/HuynhCT23,
+  author    = {Viet-Phi Huynh and
+               Yoan Chabot and
+               Raphaël Troncy},
+  title     = {Towards Generative Semantic Table Interpretation},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/IgescuSZA23,
+  author    = {Stefan Igescu and
+               Viktor Sanca and
+               Eleni Zapridou and
+               Anastasia Ailamaki},
+  title     = {Improving K-means Clustering Using Speculation},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/JalanA23,
+  author    = {Aditya Jalan and
+               Muthu Annamalai},
+  title     = {Composable Gateway for Database (Lightning Talk)},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Jarke23,
+  author    = {Matthias Jarke},
+  title     = {Culture Data Space: A Case Study in Federated Data Ecosystems},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/KanzaMSSW23,
+  author    = {Yaron Kanza and
+               Rajat Malik and
+               Divesh Srivastava and
+               Caroline Stone and
+               Gordon Woodhull},
+  title     = {Data Quality in Data Streams by Modular Change Point Detection},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Kennedy23,
+  author    = {Adam Kennedy},
+  title     = {Polygraph - An Arrow Format for Large Apache Calcite Query Plans and {Multi-Language} Data Systems (Lightning Talk)},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Kogan23,
+  author    = {Eugene Kogan},
+  title     = {Innovating with Storage Formats to Push The Limits in A Hybrid Database},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/KohnenKZS23,
+  author    = {Christoph Köhnen and
+               Stefan Klessinger and
+               Jens Zumbrägel and
+               Stefanie Scherzinger},
+  title     = {A Plaque Test for Redundancies in Relational Data},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/KolevaRT23,
+  author    = {Aneta Koleva and
+               Martin Ringsquandl and
+               Volker Tresp},
+  title     = {Adversarial Attacks on Tables with Entity Swap},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/KoriniB23,
+  author    = {Keti Korini and
+               Christian Bizer},
+  title     = {Column Type Annotation using {ChatGPT}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/KumarMWFDJ23,
+  author    = {Vijay S. Kumar and
+               Varish Mulwad and
+               Jenny Weisenberg Williams and
+               Tim Finin and
+               Sharad Dixit and
+               Anupam Joshi},
+  title     = {Knowledge Graph-driven Tabular Data Discovery from Scientific Documents},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/LiuEFCSC23,
+  author    = {Xinyu Liu and
+               K. Venkatesh Emani and
+               Avrilia Floratou and
+               Joyce Cahoon and
+               Philip Seamark and
+               Carlo Curino},
+  title     = {PolySem: Efficient Polyglot Analytics on Semantic Data},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Lu23,
+  author    = {Jimmy Lu},
+  title     = {Techniques in Accelerating Query Processing on {GPU}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/LyuKPHGK23,
+  author    = {Xi Lyu and
+               Andreas Kipf and
+               Pascal Pfeil and
+               Dominik Horn and
+               Jana Giceva and
+               Tim Kraska},
+  title     = {CorBit: Leveraging Correlations for Compressing Bitmap Indexes},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/MahlingR0R23,
+  author    = {Fabian Mahling and
+               Paul Rößler and
+               Thomas Bodner and
+               Tilmann Rabl},
+  title     = {BabelMR: A Polyglot Framework for Serverless {MapReduce}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Marcus23,
+  author    = {Ryan Marcus},
+  title     = {Learned Query Superoptimization},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/MehtaAIALM23,
+  author    = {Bhavana Mehta and
+               Neelesh C. A and
+               Prashanth S. Iyer and
+               Mohammad Javad Amiri and
+               Boon Thau Loo and
+               Ryan Marcus},
+  title     = {Towards Adaptive {Fault-Tolerant} Sharded Databases},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/MirabiB23,
+  author    = {Meghdad Mirabi and
+               Carsten Binnig},
+  title     = {QFilter: Towards a {Fine-Grained} Access Control for Aggregation Query Processing over Secret Shared Data},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/MirzaeiR23,
+  author    = {Hamed Mirzaei and
+               Davood Rafiei},
+  title     = {Table Union Search with Preferences},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/MousavT23,
+  author    = {Jasmin Mousav and
+               Arash Termehchy},
+  title     = {Towards Consistent Language Models Using Declarative Constraints},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Moustafa23,
+  author    = {Walaa Eldin Moustafa},
+  title     = {The Rise of Open Table Formats: Diving into the Next Decade of Data Lakes},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/OnGDR23,
+  author    = {Thinh On and
+               Subhodeep Ghosh and
+               Mengnan Du and
+               Senjuti Basu Roy},
+  title     = {Proportionate Diversification of Top-k {LLM} Results using Database Queries},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/OzsuX23,
+  author    = {M. Tamer Özsu and
+               Xun Xue},
+  title     = {Preface {SDA}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/PasumanskyW23,
+  author    = {Mosha Pasumansky and
+               Benjamin Wagner},
+  title     = {Unbundling of the {DBMS} stack},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/PedrosoSSASPCCR23,
+  author    = {Marcel Pedroso and
+               Rebecca Salles and
+               Raphael de Freitas Saldanha and
+               Vinicius Kreischer de Almeida and
+               Gabriel Souto and
+               Balthazar Paixão and
+               Sérgio Ricardo de Borba Cruz and
+               Carlos Cardoso and
+               Víctor Ribeiro and
+               Raquel Gritz and
+               Carmen Bonifácio and
+               Matheus Miloski and
+               Carlos Augusto de Sousa and
+               Gizelton Pereira Alencar and
+               Ariane Alves and
+               Nelson Niero Neto and
+               Letícia Sabbadini and
+               Eduardo S. Ogasawara and
+               Christovam Barcellos and
+               Fábio Porto and
+               Lucas Zinato Carraro and
+               Jefferson Lima},
+  title     = {Data Science Platform Applied to Health in Contribution to the Brazilian Unified Health System},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/RafieiNO23,
+  author    = {Davood Rafiei and
+               Arash Dargahi Nobari and
+               Soroush Omidvartehrani},
+  title     = {Discovering and Integrating Tabular Data},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/ReukersTAHBPS23,
+  author    = {Matthijs A. Reukers and
+               Yongding Tian and
+               Zaid Al-Ars and
+               H. Peter Hofstee and
+               Matthijs Brobbel and
+               Johan Peltenburg and
+               Jeroen van Straten},
+  title     = {An Intermediate Representation for Composable Typed Streaming Dataflow Designs},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/RiedlFB023,
+  author    = {Adrian Riedl and
+               Philipp Fent and
+               Maximilian Bandle and
+               Thomas Neumann},
+  title     = {Exploiting Code Generation for Efficient {LIKE} Pattern Matching},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/SancaA23,
+  author    = {Viktor Sanca and
+               Anastasia Ailamaki},
+  title     = {{Post-Moore's} Law Fusion: {High-Bandwidth} Memory, Accelerators, and Native {Half-Precision} Processing for {CPU-Local} Analytics},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/SancaA23a,
+  author    = {Viktor Sanca and
+               Anastasia Ailamaki},
+  title     = {E-Scan: Consuming Contextual Data with Model Plugins},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/SchinkeHAGHSR23,
+  author    = {Lennart Schinke and
+               Martin Hoppen and
+               Alexander Atanasyan and
+               Xuebilian Gong and
+               Frank Heinze and
+               Kathrin Stollenwerk and
+               Jürgen Roßmann},
+  title     = {Trustful Data Sharing in the Forest-based Sector - Opportunities and Challenges for a Data Trustee},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/SchonbergerTM23,
+  author    = {Manuel Schönberger and
+               Immanuel Trummer and
+               Wolfgang Mauerer},
+  title     = {Quantum Optimisation of General Join Trees},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Shamgunov23,
+  author    = {Nikita Shamgunov},
+  title     = {Taking Postgres into the 21st Century},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/ShankaranGCYKRT23,
+  author    = {Akash Shankaran and
+               George Gu and
+               Weiting Chen and
+               Binwei Yang and
+               Chidamber Kulkarni and
+               Mark Rambacher and
+               Nesime Tatbul and
+               David E. Cohen},
+  title     = {The Gluten {Open-Source} Software Project: Modernizing Java-based Query Engines for the Lakehouse Era},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/SpiegelbergKS23,
+  author    = {Leonhard F. Spiegelberg and
+               Tim Kraska and
+               Malte Schwarzkopf},
+  title     = {Hyperspecialized Compilation for Serverless Data Analytics},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/TagliabueGB23,
+  author    = {Jacopo Tagliabue and
+               Ciro Greco and
+               Luca Bigon},
+  title     = {Building a Serverless Data Lakehouse from Spare Parts},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Tigani23,
+  author    = {Jordan Tigani},
+  title     = {Hybrid Query Execution; What is a database client, anyway?},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/TjandraS23,
+  author    = {Yozef Tjandra and
+               Hendrik Santoso Sugiarto},
+  title     = {An Evolutionary Algorithm Design for Pauli-based Quantum Kernel Classification},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/UotilaGGLM23,
+  author    = {Valter Uotila and
+               Sven Groppe and
+               Le Gruenwald and
+               Jiaheng Lu and
+               Wolfgang Mauerer},
+  title     = {Preface {QDSM}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/UstaS23,
+  author    = {Arif Usta and
+               Semih Salihoglu},
+  title     = {To Join or Not to Join: An Analysis on the Usefulness of Joining Tables in Open Government Data Portals},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/VallurZ23,
+  author    = {Satyanarayana R. Vallur and
+               Mohamed Zaït},
+  title     = {Preface {CDMS}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/VogelB23,
+  author    = {Liane Vogel and
+               Carsten Binnig},
+  title     = {WikiDBs: A Corpus of Relational Databases From Wikidata},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/WawrzoniakBKA23,
+  author    = {Michael Wawrzoniak and
+               Rodrigo Bruno and
+               Ana Klimovic and
+               Gustavo Alonso},
+  title     = {Ephemeral Per-query Engines for Serverless Analytics},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/XieKR23,
+  author    = {Xincheng Xie and
+               Junyoung Kim and
+               Kenneth A. Ross},
+  title     = {GAMUT: Matrix {Multiplication-Like} Tasks on {GPUs}},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Xu23,
+  author    = {Xianghong Xu},
+  title     = {Wisent: An {In-Memory} Serialization Format for Leafy Trees},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/YamadaOSN23,
+  author    = {Hiroyuki Yamada and
+               Akihiro Okuno and
+               Toshihiro Suzuki and
+               Jun Nemoto},
+  title     = {Towards a Practical {HTAP} Engine for Polystores},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/YamadaSGKON23,
+  author    = {Hiroyuki Yamada and
+               Toshihiro Suzuk and
+               Vincent Guilpain and
+               Mitsunori Komatsu and
+               Akihiro Okuno and
+               Jun Nemoto},
+  title     = {The Case for Decoupled Transaction Managers (Lightning Talk)},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/YuanLCWYYL023,
+  author    = {Gongsheng Yuan and
+               Jiaheng Lu and
+               Yuxing Chen and
+               Sai Wu and
+               Chang Yao and
+               Zhengtong Yan and
+               Tuodu Li and
+               Gang Chen},
+  title     = {Quantum Computing for Databases: A Short Survey and Vision},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/ZhengTDK23,
+  author    = {Yunjia Zheng and
+               Yuxuan Tian and
+               Joseph Vinish D'silva and
+               Bettina Kemme},
+  title     = {DBMLSched: Scheduling In-database Machine Learning Jobs},
+  booktitle = vldb,
+  year      = 2023,
+}
+
+@inproceedings{DBLP:conf/vldb/Tziavelis23,
+  author    = {Nikolaos Tziavelis},
+  title     = {Efficient Ranked Access over Joins},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {1-4},
+}
+
+@inproceedings{DBLP:conf/vldb/Rieger23,
+  author    = {Maximilian Rieger},
+  title     = {Considering Distributed Processing in the Query Optimizer},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {5-8},
+}
+
+@inproceedings{DBLP:conf/vldb/Makhija23,
+  author    = {Neha Makhija},
+  title     = {Discovering Dichotomies for Problems in Database Theory},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {9-12},
+}
+
+@inproceedings{DBLP:conf/vldb/Weintraub23,
+  author    = {Grisha Weintraub},
+  title     = {Optimizing Cloud Data Lakes Queries},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {13-16},
+}
+
+@inproceedings{DBLP:conf/vldb/Zhu23,
+  author    = {Zichen Zhu},
+  title     = {SHaMBa: Reducing Bloom Filter Overhead in {LSM} Trees},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {17-20},
+}
+
+@inproceedings{DBLP:conf/vldb/Hirn23,
+  author    = {Denis Hirn},
+  title     = {Data is Data and Control Should be Data, Too},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {21-24},
+}
+
+@inproceedings{DBLP:conf/vldb/Battiston23,
+  author    = {Ilaria Battiston},
+  title     = {Improving Data Minimization through Decentralized Data Architectures},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {25-28},
+}
+
+@inproceedings{DBLP:conf/vldb/Gorres23,
+  author    = {Andreas Görres},
+  title     = {Computing Provenance Using the Negated Chase},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {29-32},
+}
+
+@inproceedings{DBLP:conf/vldb/Horchidan23,
+  author    = {Sonia Horchidan},
+  title     = {Query Optimization for {Inference-Based} Graph Databases},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {33-36},
+}
+
+@inproceedings{DBLP:conf/vldb/Andre23,
+  author    = {Maxime André},
+  title     = {Automated Database Schema Evolution in Microservices},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {37-40},
+}
+
+@inproceedings{DBLP:conf/vldb/Haller23,
+  author    = {David Haller},
+  title     = {A {Query-Driven} Approach for {SHACL} Type Inference},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {41-44},
+}
+
+@inproceedings{DBLP:conf/vldb/Zajac23,
+  author    = {Markus Zajac},
+  title     = {Encoding and Provisioning Data in different Data Models for Quantum Computing},
+  booktitle = vldb,
+  year      = 2023,
+  pages     = {45-48},
+}
+
 @inproceedings{DBLP:conf/vldb/Alsudais22,
   author    = {Sadeem Alsudais},
   title     = {Drove: Tracking Execution Results of Workflows on Large Data},
@@ -729,7 +1522,7 @@
 
 @inproceedings{DBLP:conf/vldb/ZhangMKP20,
   author    = {Chi Zhang and
-               Ryan C. Marcus and
+               Ryan Marcus and
                Anat Kleiman and
                Olga Papaemmanouil},
   title     = {Buffer Pool Aware Query Scheduling via Deep Reinforcement Learning},
@@ -3415,7 +4208,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/DessiMAZ13,
-  author    = {Andrea Dessì and
+  author    = {Andrea Dessi and
                Andrea Maxia and
                Maurizio Atzori and
                Carlo Zaniolo},
@@ -14814,7 +15607,7 @@
                Carlo Batini and
                Michael Eitan and
                Valerie Gregg and
-               D. B. Phatak},
+               Deepak B. Phatak},
   title     = {Social, Educational, and Governmental Change Enabled through Information Technology},
   booktitle = vldb,
   year      = 2000,

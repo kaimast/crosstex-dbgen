@@ -1,5 +1,1196 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosys/Chen0C023,
+  author    = {Chen Chen and
+               Lars Nagel and
+               Lin Cui and
+               Fung Po Tso},
+  title     = {S-Cache: Function Caching for Serverless Edge Computing},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/eurosys/WuBBH23,
+  author    = {Ming-Chuan Wu and
+               Manuel Bähr and
+               Nils Braun and
+               Katrin Honauer},
+  title     = {Actionable Data Insights for Machine Learning},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChouCB0ML23,
+  author    = {Eugene Chou and
+               Leo Conrad-Shah and
+               Austen Barker and
+               Andrew Quinn and
+               Ethan L. Miller and
+               Darrell D. E. Long},
+  title     = {Lethe: Secure Deletion by Addition},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/eurosys/FernandesB23,
+  author    = {Pedro Henrique Fernandes and
+               Carlos Baquero},
+  title     = {Probabilistic Causal Contexts for Scalable {CRDTs}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/eurosys/WengH0NY23,
+  author    = {Lingmei Weng and
+               Yigong Hu and
+               Peng Huang and
+               Jason Nieh and
+               Junfeng Yang},
+  title     = {Effective Performance Issue Diagnosis with {Value-Assisted} Cost Profiling},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChoB23,
+  author    = {Kenjiro Cho and
+               Jean-François Baffier},
+  title     = {An Autonomous Resource Management Model towards Cloud Morphing},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/eurosys/BotherSGK23,
+  author    = {Maximilian Böther and
+               Foteini Strati and
+               Viktor Gsteiger and
+               Ana Klimovic},
+  title     = {Towards A Platform and Benchmark Suite for Model Training on Dynamic Datasets},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {8-17},
+}
+
+@inproceedings{DBLP:conf/eurosys/NeamtuNR23,
+  author    = {Natalie Neamtu and
+               Haobin Ni and
+               Robbert van Renesse},
+  title     = {Trees and Turtles: Modular Abstractions for State Machine Replication Protocols},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {9-15},
+}
+
+@inproceedings{DBLP:conf/eurosys/LoganLSK23,
+  author    = {Luke Logan and
+               Jay F. Lofstead and
+               Xian-He Sun and
+               Anthony Kougkas},
+  title     = {An Evaluation of {DAOS} for Simulation and Deep Learning {HPC} Workloads},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/eurosys/RobertB0E23,
+  author    = {Kevin Röbert and
+               Heiko Bornholdt and
+               Mathias Fischer and
+               Janick Edinger},
+  title     = {{Latency-Aware} Scheduling for {Real-Time} Application Support in Edge Computing},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/eurosys/ManeLR23,
+  author    = {Sushant Mane and
+               Fangmin Lyu and
+               Benjamin C. Reed},
+  title     = {Verify, And Then Trust: Data Inconsistency Detection in {ZooKeeper}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {16-22},
+}
+
+@inproceedings{DBLP:conf/eurosys/WunscheKKBS23,
+  author    = {Johannes Wünsche and
+               Sajad Karim and
+               Michael Kuhn and
+               David Broneske and
+               Gunter Saake},
+  title     = {Intelligent Data Migration Policies in a {Write-Optimized} {Copy-on-Write} Tiered Storage Stack},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {17-26},
+}
+
+@inproceedings{DBLP:conf/eurosys/Yousefzadeh-Asl-Miandoab23,
+  author    = {Ehsan Yousefzadeh-Asl-Miandoab and
+               Ties Robroek and
+               Pinar Tözün},
+  title     = {Profiling and Monitoring Deep Learning Training Tasks},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {18-25},
+}
+
+@inproceedings{DBLP:conf/eurosys/CastanheiraSB23,
+  author    = {Lucas Castanheira and
+               Alberto Schaeffer-Filho and
+               Theophilus A. Benson},
+  title     = {Foxhound: {Server-Grade} Observability for {Network-Augmented} Applications},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {18-32},
+}
+
+@inproceedings{DBLP:conf/eurosys/ElkhatibP23,
+  author    = {Yehia Elkhatib and
+               Jose Povedano Poyato},
+  title     = {An Evaluation of Service Mesh Frameworks for Edge Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/eurosys/LawniczakAD23,
+  author    = {Laura Lawniczak and
+               Marco Ammon and
+               Tobias Distler},
+  title     = {Generic Checkpointing Support for Stream-based {State-Machine} Replication},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {23-29},
+}
+
+@inproceedings{DBLP:conf/eurosys/AhmadiAJPR23,
+  author    = {Amirhossein Ahmadi and
+               Hazem A. Abdelhafez and
+               Shashwat Jaiswal and
+               Karthik Pattabiraman and
+               Matei Ripeanu},
+  title     = {Hot Under the Hood: An Analysis of Ambient Temperature Impact on Heterogeneous Edge Platforms},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/eurosys/HeSY23,
+  author    = {Guoliang He and
+               Zak Singh and
+               Eiko Yoneki},
+  title     = {MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {26-33},
+}
+
+@inproceedings{DBLP:conf/eurosys/RolonB23,
+  author    = {Sebastian Rolon and
+               Oana Balmau},
+  title     = {Is Bare-metal I/O Performance with User-defined Storage Drives Inside {VMs} Possible?: Benchmarking libvfio-user vs. Common Storage Virtualization Configurations},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {27-34},
+}
+
+@inproceedings{DBLP:conf/eurosys/SoaresR23,
+  author    = {Rafael Soares and
+               Luís E. T. Rodrigues},
+  title     = {Performance Trade-offs in Transactional Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {30-36},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangSPB23,
+  author    = {Minghe Wang and
+               Trever Schirmer and
+               Tobias Pfandzelter and
+               David Bermbach},
+  title     = {Lotus: Serverless {In-Transit} Data Processing for Edge-based Pub/Sub},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {31-35},
+}
+
+@inproceedings{DBLP:conf/eurosys/LepersGZL23,
+  author    = {Baptiste Lepers and
+               Josselin Giet and
+               Willy Zwaenepoel and
+               Julia Lawall},
+  title     = {OFence: Pairing Barriers to Find Concurrency Bugs in the Linux Kernel},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {33-45},
+}
+
+@inproceedings{DBLP:conf/eurosys/DhasadeKPSV23,
+  author    = {Akash Dhasade and
+               Anne-Marie Kermarrec and
+               Rafael Pires and
+               Rishi Sharma and
+               Milos Vujasinovic},
+  title     = {Decentralized Learning Made Easy with {DecentralizePy}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {34-41},
+}
+
+@inproceedings{DBLP:conf/eurosys/RenT23,
+  author    = {Zebin Ren and
+               Animesh Trivedi},
+  title     = {Performance Characterization of Modern Storage Stacks: {POSIX} I/O, libaio, SPDK, and io_uring},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {35-45},
+}
+
+@inproceedings{DBLP:conf/eurosys/DashKHTWCKM23,
+  author    = {Pranab Dash and
+               Z. Jonny Kong and
+               Y. Charlie Hu and
+               Chris Turner and
+               Dell Wolfensparger and
+               Mun Gi Choi and
+               Abhinav Kshitij and
+               Viviane E. McLandrich},
+  title     = {How to Pipeline Frame Transfer and Server Inference in Edge-assisted {AR} to Optimize {AR} Task Accuracy?},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {36-41},
+}
+
+@inproceedings{DBLP:conf/eurosys/YanakievaBB23,
+  author    = {Elena Yanakieva and
+               Philipp Bird and
+               Annette Bieniusa},
+  title     = {A Study of Semantics for {CRDT-based} Collaborative Spreadsheets},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {37-43},
+}
+
+@inproceedings{DBLP:conf/eurosys/LugerAB23,
+  author    = {Daniel Luger and
+               Atakan Aral and
+               Ivona Brandic},
+  title     = {{Cost-Aware} Neural Network Splitting and Dynamic Rescheduling for Edge Intelligence},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {42-47},
+}
+
+@inproceedings{DBLP:conf/eurosys/CaiWYWLX23,
+  author    = {Dongqi Cai and
+               Yaozong Wu and
+               Haitao Yuan and
+               Shangguang Wang and
+               Felix Xiaozhu Lin and
+               Mengwei Xu},
+  title     = {Towards Practical Few-shot Federated {NLP}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {42-48},
+}
+
+@inproceedings{DBLP:conf/eurosys/JefferyM23,
+  author    = {Andrew Jeffery and
+               Richard Mortier},
+  title     = {AMC: Towards Trustworthy and Explorable {CRDT} Applications with the Automerge Model Checker},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {44-50},
+}
+
+@inproceedings{DBLP:conf/eurosys/ParkBG23,
+  author    = {Misun Park and
+               Ketan Bhardwaj and
+               Ada Gavrilovska},
+  title     = {Pocket: {ML} Serving from the Edge},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {46-62},
+}
+
+@inproceedings{DBLP:conf/eurosys/GourtaniM23,
+  author    = {Saeed Khalilian Gourtani and
+               Nirvana Meratnia},
+  title     = {ESCEPE: {Early-Exit} Network {Section-Wise} Model Compression Using Self-distillation and Weight Clustering},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {48-53},
+}
+
+@inproceedings{DBLP:conf/eurosys/TouatB23,
+  author    = {Ousmane Touat and
+               Sara Bouchenak},
+  title     = {Towards Robust and Bias-free Federated Learning},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {49-55},
+}
+
+@inproceedings{DBLP:conf/eurosys/BauwensPB23,
+  author    = {Jim Bauwens and
+               Kevin De Porre and
+               Elisa Gonzalez Boix},
+  title     = {[Short paper] Towards improved collaborative text editing {CRDTs} by using Natural Language Processing},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {51-55},
+}
+
+@inproceedings{DBLP:conf/eurosys/PourrezaN23,
+  author    = {Maryam Pourreza and
+               Priya Narasimhan},
+  title     = {An Empirical Study of {Resource-Stressing} Faults in {Edge-Computing} Applications},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {54-59},
+}
+
+@inproceedings{DBLP:conf/eurosys/WeidnerPGM23,
+  author    = {Matthew Weidner and
+               Ria Pradeep and
+               Benito Geordie and
+               Heather Miller},
+  title     = {{For-Each} Operations in Collaborative Apps},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {56-62},
+}
+
+@inproceedings{DBLP:conf/eurosys/MaQBL23,
+  author    = {Chenyang Ma and
+               Xinchi Qiu and
+               Daniel J. Beutel and
+               Nicholas D. Lane},
+  title     = {Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {56-63},
+}
+
+@inproceedings{DBLP:conf/eurosys/JacobH23,
+  author    = {Florian Jacob and
+               Hannes Hartenstein},
+  title     = {On {Extend-Only} Directed Posets and Derived {Byzantine-Tolerant} Replicated Data Types},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {63-69},
+}
+
+@inproceedings{DBLP:conf/eurosys/YildizAIHY23,
+  author    = {Eren Yildiz and
+               Saad Ahmed and
+               Bashima Islam and
+               Josiah D. Hester and
+               Kasim Sinan Yildirim},
+  title     = {Efficient and Safe I/O Operations for Intermittent Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {63-78},
+}
+
+@inproceedings{DBLP:conf/eurosys/ShiRY23,
+  author    = {Hongrui Shi and
+               Valentin Radu and
+               Po Yang},
+  title     = {Distributed Training for Speech Recognition using Local Knowledge Aggregation and Knowledge Distillation in Heterogeneous Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {64-70},
+}
+
+@inproceedings{DBLP:conf/eurosys/SantosS0P23,
+  author    = {Nuno M. Santos and
+               Luís M. Silva and
+               João Leitão and
+               Nuno M. Preguiça},
+  title     = {Data Management for mobile applications dependent on geo-located data},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {70-76},
+}
+
+@inproceedings{DBLP:conf/eurosys/DarlowJADWB23,
+  author    = {Luke Nicholas Darlow and
+               Artjom Joosen and
+               Martin Asenov and
+               Qiwen Deng and
+               Jianfeng Wang and
+               Adam Barker},
+  title     = {FoldFormer: sequence folding and seasonal attention for fine-grained long-term {FaaS} forecasting},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {71-77},
+}
+
+@inproceedings{DBLP:conf/eurosys/GuarnieriC23,
+  author    = {Joshua Guarnieri and
+               Aleksey Charapko},
+  title     = {Linearizable Low-latency Reads at the Edge},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {77-83},
+}
+
+@inproceedings{DBLP:conf/eurosys/SalmaniGSRMDJS23,
+  author    = {Mehran Salmani and
+               Saeid Ghafouri and
+               Alireza Sanaee and
+               Kamran Razavi and
+               Max Mühlhäuser and
+               Joseph Doyle and
+               Pooyan Jamshidi and
+               Mohsen Sharifi},
+  title     = {Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {78-86},
+}
+
+@inproceedings{DBLP:conf/eurosys/Li0AZSX23,
+  author    = {Changlong Li and
+               Yu Liang and
+               Rachata Ausavarungnirun and
+               Zongwei Zhu and
+               Liang Shi and
+               Chun Jason Xue},
+  title     = {ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {79-93},
+}
+
+@inproceedings{DBLP:conf/eurosys/SabihYHTC23,
+  author    = {Muhammad Sabih and
+               Mikail Yayla and
+               Frank Hannig and
+               Jürgen Teich and
+               Jian-Jia Chen},
+  title     = {Robust and Tiny Binary Neural Networks using Gradient-based Explainability Methods},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {87-93},
+}
+
+@inproceedings{DBLP:conf/eurosys/Benson23,
+  author    = {Theophilus A. Benson},
+  title     = {Illuminating the hidden challenges of data-driven {CDNs}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {94-103},
+}
+
+@inproceedings{DBLP:conf/eurosys/JeongJLLSK23,
+  author    = {Dae R. Jeong and
+               Minkyu Jung and
+               Yoochan Lee and
+               Byoungyoung Lee and
+               Insik Shin and
+               Youngjin Kwon},
+  title     = {Diagnosing Kernel Concurrency Failures with {AITIA}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {94-110},
+}
+
+@inproceedings{DBLP:conf/eurosys/SchulteWRBH23,
+  author    = {Christoph Schulte and
+               Sven Wagner and
+               Armin Runge and
+               Dimitrios Bariamis and
+               Barbara Hammer},
+  title     = {Best of both, Structured and Unstructured Sparsity in Neural Networks},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {104-108},
+}
+
+@inproceedings{DBLP:conf/eurosys/DarlowJADWB23a,
+  author    = {Luke Nicholas Darlow and
+               Artjom Joosen and
+               Martin Asenov and
+               Qiwen Deng and
+               Jianfeng Wang and
+               Adam Barker},
+  title     = {TSMix: time series data augmentation by mixing sources},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {109-114},
+}
+
+@inproceedings{DBLP:conf/eurosys/Stoica0MN23,
+  author    = {Bogdan Alexandru Stoica and
+               Shan Lu and
+               Madanlal Musuvathi and
+               Suman Nath},
+  title     = {WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {111-126},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChristofidiPD23,
+  author    = {Georgia Christofidi and
+               Konstantinos Papaioannou and
+               Thaleia Dimitra Doudali},
+  title     = {Toward Pattern-based Model Selection for Cloud Resource Forecasting},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {115-122},
+}
+
+@inproceedings{DBLP:conf/eurosys/AlballaC23,
+  author    = {Norah Alballa and
+               Marco Canini},
+  title     = {A First Look at the Impact of Distillation {Hyper-Parameters} in Federated Knowledge Distillation},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {123-130},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangDGWW023,
+  author    = {Dong Wang and
+               Wensheng Dou and
+               Yu Gao and
+               Chenao Wu and
+               Jun Wei and
+               Tao Huang},
+  title     = {Model Checking Guided Testing for Distributed Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {127-143},
+}
+
+@inproceedings{DBLP:conf/eurosys/IacobGL23,
+  author    = {Alex Iacob and
+               Pedro Porto Buarque de Gusmão and
+               Nicholas D. Lane},
+  title     = {Can Fair Federated Learning Reduce the need for Personalisation?},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {131-139},
+}
+
+@inproceedings{DBLP:conf/eurosys/PaleyesL23,
+  author    = {Andrei Paleyes and
+               Neil David Lawrence},
+  title     = {Causal fault localisation in dataflow systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {140-147},
+}
+
+@inproceedings{DBLP:conf/eurosys/WaleffeMRV23,
+  author    = {Roger Waleffe and
+               Jason Mohoney and
+               Theodoros Rekatsinas and
+               Shivaram Venkataraman},
+  title     = {MariusGNN: {Resource-Efficient} {Out-of-Core} Training of Graph Neural Networks},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {144-161},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeA23,
+  author    = {Minh Tri Le and
+               Julyan Arbel},
+  title     = {{TinyMLOps} for real-time ultra-low power {MCUs} applied to frame-based event classification},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {148-153},
+}
+
+@inproceedings{DBLP:conf/eurosys/SinghMS23,
+  author    = {Ravi Kumar Singh and
+               Mayank Mishra and
+               Rekha Singhal},
+  title     = {Scalable {High-Performance} Architecture for Evolving Recommender System},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {154-162},
+}
+
+@inproceedings{DBLP:conf/eurosys/Jamshidi0V23,
+  author    = {Kasra Jamshidi and
+               Harry Xu and
+               Keval Vora},
+  title     = {Accelerating Graph Mining Systems with Subgraph Morphing},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {162-181},
+}
+
+@inproceedings{DBLP:conf/eurosys/SinghMS23a,
+  author    = {Ravi Kumar Singh and
+               Mayank Mishra and
+               Rekha Singhal},
+  title     = {Accelerating Model Training: Performance Antipatterns Eliminator Framework},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {163-170},
+}
+
+@inproceedings{DBLP:conf/eurosys/HuanSP0LLHCJW23,
+  author    = {Chengying Huan and
+               Shuaiwen Leon Song and
+               Santosh Pandey and
+               Hang Liu and
+               Yongchao Liu and
+               Baptiste Lepers and
+               Changhua He and
+               Kang Chen and
+               Jinlei Jiang and
+               Yongwei Wu},
+  title     = {TEA: A {General-Purpose} Temporal Graph Random Walk Engine},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {182-198},
+}
+
+@inproceedings{DBLP:conf/eurosys/XuXPWWWDXCWC23,
+  author    = {Zhiying Xu and
+               Jiafan Xu and
+               Hongding Peng and
+               Wei Wang and
+               Xiaoliang Wang and
+               Haoran Wan and
+               Haipeng Dai and
+               Yixu Xu and
+               Hao Cheng and
+               Kun Wang and
+               Guihai Chen},
+  title     = {ALT: Breaking the Wall between Data Layout and Loop Optimizations for Deep Learning Compilation},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {199-214},
+}
+
+@inproceedings{DBLP:conf/eurosys/AbdelmoniemSCF23,
+  author    = {Ahmed M. Abdelmoniem and
+               Atal Narayan Sahu and
+               Marco Canini and
+               Suhaib A. Fahmy},
+  title     = {REFL: {Resource-Efficient} Federated Learning},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {215-232},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangCTG23,
+  author    = {Yiding Wang and
+               Kai Chen and
+               Haisheng Tan and
+               Kun Guo},
+  title     = {Tabi: An Efficient {Multi-Level} Inference System for Large Language Models},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {233-248},
+}
+
+@inproceedings{DBLP:conf/eurosys/JeongBA23,
+  author    = {Jinwoo Jeong and
+               Seungsu Baek and
+               Jeongseob Ahn},
+  title     = {Fast and Efficient Model Serving Using {Multi-GPUs} with {Direct-Host-Access}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {249-265},
+}
+
+@inproceedings{DBLP:conf/eurosys/YoonOOMK23,
+  author    = {Wonsup Yoon and
+               Jisu Ok and
+               Jinyoung Oh and
+               Sue Moon and
+               Youngjin Kwon},
+  title     = {DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {266-282},
+}
+
+@inproceedings{DBLP:conf/eurosys/ShaLL0W23,
+  author    = {Sai Sha and
+               Chuandong Li and
+               Yingwei Luo and
+               Xiaolin Wang and
+               Zhenlin Wang},
+  title     = {vTMM: Tiered Memory Management for Virtual Machines},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {283-297},
+}
+
+@inproceedings{DBLP:conf/eurosys/00010SD23,
+  author    = {Weiwei Jia and
+               Jiyuan Zhang and
+               Jianchen Shan and
+               Xiaoning Ding},
+  title     = {Making Dynamic Page Coalescing Effective on Virtualized Clouds},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {298-313},
+}
+
+@inproceedings{DBLP:conf/eurosys/NgHC23,
+  author    = {Harald Ng and
+               Seif Haridi and
+               Paris Carbone},
+  title     = {Omni-Paxos: Breaking the Barriers of Partial Connectivity},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {314-330},
+}
+
+@inproceedings{DBLP:conf/eurosys/0002WLZCSZXWX23,
+  author    = {Yiduo Wang and
+               Yufei Wu and
+               Cheng Li and
+               Pengfei Zheng and
+               Biao Cao and
+               Yan Sun and
+               Fei Zhou and
+               Yinlong Xu and
+               Yao Wang and
+               Guangjun Xie},
+  title     = {CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {331-346},
+}
+
+@inproceedings{DBLP:conf/eurosys/0002SL0023,
+  author    = {Ruobing Chen and
+               Haosen Shi and
+               Yusen Li and
+               Xiaoguang Liu and
+               Gang Wang},
+  title     = {OLPart: Online Learning based Resource Partitioning for Colocating Multiple {Latency-Critical} Jobs on Commodity Computers},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {347-364},
+}
+
+@inproceedings{DBLP:conf/eurosys/AbdiGLFCGBBF23,
+  author    = {Mania Abdi and
+               Samuel Ginzburg and
+               Xiayue Charles Lin and
+               Jose M. Faleiro and
+               Gohar Irfan Chaudhry and
+               Iñigo Goiri and
+               Ricardo Bianchini and
+               Daniel S. Berger and
+               Rodrigo Fonseca},
+  title     = {Palette Load Balancing: Locality Hints for Serverless Functions},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {365-380},
+}
+
+@inproceedings{DBLP:conf/eurosys/0007CF023,
+  author    = {Muhammad Bilal and
+               Marco Canini and
+               Rodrigo Fonseca and
+               Rodrigo Rodrigues},
+  title     = {With Great Freedom Comes Great Opportunity: Rethinking Resource Allocation for Serverless Functions},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {381-397},
+}
+
+@inproceedings{DBLP:conf/eurosys/AlzayatMD023,
+  author    = {Mohamed Alzayat and
+               Jonathan Mace and
+               Peter Druschel and
+               Deepak Garg},
+  title     = {Groundhog: Efficient Request Isolation in {FaaS}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {398-415},
+}
+
+@inproceedings{DBLP:conf/eurosys/LuXYXZY023,
+  author    = {Chengzhi Lu and
+               Huanle Xu and
+               Kejiang Ye and
+               Guoyao Xu and
+               Liping Zhang and
+               Guodong Yang and
+               Chengzhong Xu},
+  title     = {Understanding and Optimizing Workloads for Unified Resource Management in Large Cloud Platforms},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {416-432},
+}
+
+@inproceedings{DBLP:conf/eurosys/TangBZKJGX23,
+  author    = {Lilia Tang and
+               Chaitanya Bhandari and
+               Yongle Zhang and
+               Anna Karanika and
+               Shuyang Ji and
+               Indranil Gupta and
+               Tianyin Xu},
+  title     = {Fail through the Cracks: {Cross-System} Interaction Failures in Modern Cloud Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {433-451},
+}
+
+@inproceedings{DBLP:conf/eurosys/WeiZ00ZSWJ23,
+  author    = {Junyu Wei and
+               Guangyan Zhang and
+               Junchao Chen and
+               Yang Wang and
+               Weimin Zheng and
+               Tingtao Sun and
+               Jiesheng Wu and
+               Jiangwei Jiang},
+  title     = {LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {452-468},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChuangMXBOHR23,
+  author    = {Ho-Ren Chuang and
+               Karim Manaouil and
+               Tong Xing and
+               Antonio Barbalace and
+               Pierre Olivier and
+               Balvansh Heerekar and
+               Binoy Ravindran},
+  title     = {Aggregate VM: Why Reduce or Evict {VM's} Resources When You Can Borrow Them From Other Nodes?},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {469-487},
+}
+
+@inproceedings{DBLP:conf/eurosys/BerlakovichB23,
+  author    = {Felix Berlakovich and
+               Stefan Brunthaler},
+  title     = {R2C: {AOCR-Resilient} Diversity with Reactive and Reflective Camouflage},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {488-504},
+}
+
+@inproceedings{DBLP:conf/eurosys/ParkL23,
+  author    = {Heejin Park and
+               Felix Xiaozhu Lin},
+  title     = {Safe and Practical {GPU} Computation in {TrustZone}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {505-520},
+}
+
+@inproceedings{DBLP:conf/eurosys/GuptaRPCS23,
+  author    = {Suyash Gupta and
+               Sajjad Rahnama and
+               Shubham Pandey and
+               Natacha Crooks and
+               Mohammad Sadoghi},
+  title     = {Dissecting {BFT} Consensus: In Trusted Components we Trust!},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {521-539},
+}
+
+@inproceedings{DBLP:conf/eurosys/GramoliGLNV23,
+  author    = {Vincent Gramoli and
+               Rachid Guerraoui and
+               Andrei Lebedev and
+               Chris Natoli and
+               Gauthier Voron},
+  title     = {Diablo: A Benchmark Suite for Blockchains},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {540-556},
+}
+
+@inproceedings{DBLP:conf/eurosys/QiuYZLMCYX23,
+  author    = {Ziyue Qiu and
+               Juncheng Yang and
+               Juncheng Zhang and
+               Cheng Li and
+               Xiaosong Ma and
+               Qi Chen and
+               Mao Yang and
+               Yinlong Xu},
+  title     = {{FrozenHot} Cache: Rethinking Cache Management for Modern Hardware},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {557-573},
+}
+
+@inproceedings{DBLP:conf/eurosys/LupuANBPDR23,
+  author    = {Costin Lupu and
+               Andrei Albisoru and
+               Radu Nichita and
+               Doru-Florin Blânzeanu and
+               Mihai Pogonaru and
+               Razvan Deaconescu and
+               Costin Raiciu},
+  title     = {Nephele: Extending Virtualization Environments for Cloning Unikernel-based {VMs}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {574-589},
+}
+
+@inproceedings{DBLP:conf/eurosys/0003UBMSDJOW0AK23,
+  author    = {Ali Raza and
+               Thomas Unger and
+               Matthew Boyd and
+               Eric B. Munson and
+               Parul Sohal and
+               Ulrich Drepper and
+               Richard Jones and
+               Daniel Bristot de Oliveira and
+               Larry Woodman and
+               Renato Mancuso and
+               Jonathan Appavoo and
+               Orran Krieger},
+  title     = {Unikernel Linux (UKL)},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {590-605},
+}
+
+@inproceedings{DBLP:conf/eurosys/Lim0CJ0H23,
+  author    = {Hwijoon Lim and
+               Jaehong Kim and
+               Inho Cho and
+               Keon Jang and
+               Wei Bai and
+               Dongsu Han},
+  title     = {FlexPass: A Case for Flexible Credit-based Transport for Datacenter Networks},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {606-622},
+}
+
+@inproceedings{DBLP:conf/eurosys/KatebzadehCG23,
+  author    = {M. R. Siavash Katebzadeh and
+               Paolo Costa and
+               Boris Grot},
+  title     = {Saba: Rethinking Datacenter Network Allocation from Application's Perspective},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {623-638},
+}
+
+@inproceedings{DBLP:conf/eurosys/Li0LXZLW23,
+  author    = {Zhaoyi Li and
+               Jiawei Huang and
+               Yijun Li and
+               Aikun Xu and
+               Shengwen Zhou and
+               Jingling Liu and
+               Jianxin Wang},
+  title     = {A2TP: Aggregator-aware In-network Aggregation for Multi-tenant Learning},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {639-653},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangJMT23,
+  author    = {Jian Zhang and
+               Ye Ji and
+               Shuai Mu and
+               Cheng Tan},
+  title     = {Viper: A Fast Snapshot Isolation Checker},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {654-671},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangBG23,
+  author    = {Yu Chen Wang and
+               Angela Demke Brown and
+               Ashvin Goel},
+  title     = {Integrating {Non-Volatile} Main Memory in a Deterministic Database},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {672-686},
+}
+
+@inproceedings{DBLP:conf/eurosys/0001SHAC23,
+  author    = {Matthew Burke and
+               Florian Suri-Payer and
+               Jeffrey Helt and
+               Lorenzo Alvisi and
+               Natacha Crooks},
+  title     = {Morty: Scaling Concurrency Control with {Re-Execution}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {687-702},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiaoYS23,
+  author    = {Xiaojian Liao and
+               Zhe Yang and
+               Jiwu Shu},
+  title     = {RIO: {Order-Preserving} and {CPU-Efficient} Remote Storage Access},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {703-717},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeBlancPEDBC23,
+  author    = {Hayley LeBlanc and
+               Shankara Pailoor and
+               Om Saran K. R. E and
+               Isil Dillig and
+               James Bornholt and
+               Vijay Chidambaram},
+  title     = {Chipmunk: Investigating {Crash-Consistency} in {Persistent-Memory} File Systems},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {718-733},
+}
+
+@inproceedings{DBLP:conf/eurosys/GoncalvesM023,
+  author    = {João Gonçalves and
+               Miguel Matos and
+               Rodrigo Rodrigues},
+  title     = {Mumak: Efficient and {Black-Box} Bug Detection for Persistent Memory},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {734-750},
+}
+
+@inproceedings{DBLP:conf/eurosys/SeneviratneS0K23,
+  author    = {Yasas Seneviratne and
+               Korakit Seemakhupt and
+               Sihang Liu and
+               Samira Manabi Khan},
+  title     = {NearPM: A {Near-Data} Processing System for {Storage-Class} Applications},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {751-767},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeeMPS0YU0LC23,
+  author    = {Gyewon Lee and
+               Jaewoo Maeng and
+               Jinsol Park and
+               Jangho Seo and
+               Haeyoon Cho and
+               Youngseok Yang and
+               Taegeon Um and
+               Jongsung Lee and
+               Jae W. Lee and
+               Byung-Gon Chun},
+  title     = {FlowKV: A {Semantic-Aware} Store for {Large-Scale} State Management of Stream Processing Engines},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {768-783},
+}
+
+@inproceedings{DBLP:conf/eurosys/KooBYOKPLKL23,
+  author    = {Jinhyung Koo and
+               Jinwook Bae and
+               Minjeong Yuk and
+               Seonggyun Oh and
+               Jungwoo Kim and
+               Jung-Soo Park and
+               Eunji Lee and
+               Bryan S. Kim and
+               Sungjin Lee},
+  title     = {{All-Flash} Array {Key-Value} Cache for Large Objects},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {784-799},
+}
+
+@inproceedings{DBLP:conf/eurosys/YangYYNC23,
+  author    = {Jin Yang and
+               Heejin Yoon and
+               Gyeongchan Yun and
+               Sam H. Noh and
+               Young-ri Choi},
+  title     = {DyTIS: A Dynamic Dataset Targeted Index Structure Simultaneously Efficient for Search, Insert, and Scan},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {800-816},
+}
+
+@inproceedings{DBLP:conf/eurosys/NarayananDHB23,
+  author    = {Vikram Narayanan and
+               David Detweiler and
+               Tianjiao Huang and
+               Anton Burtsev},
+  title     = {DRAMHiT: A Hash Table Architected for the Speed of {DRAM}},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {817-834},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiXZLGW23,
+  author    = {Jiamin Li and
+               Hong Xu and
+               Yibo Zhu and
+               Zherui Liu and
+               Chuanxiong Guo and
+               Cong Wang},
+  title     = {Lyra: Elastic Scheduling for Deep Learning Clusters},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {835-850},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangSCLC23,
+  author    = {Yiding Wang and
+               Decang Sun and
+               Kai Chen and
+               Fan Lai and
+               Mosharaf Chowdhury},
+  title     = {Egeria: Efficient {DNN} Training with {Knowledge-Guided} Layer Freezing},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {851-866},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangLZN23,
+  author    = {Zhuang Wang and
+               Haibin Lin and
+               Yibo Zhu and
+               T. S. Eugene Ng},
+  title     = {{Hi-Speed} {DNN} Training with Espresso: Unleashing the Full Potential of Gradient Compression with {Near-Optimal} Usage Strategies},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {867-882},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhaoHYZ0YZL0QZZ23,
+  author    = {Hanyu Zhao and
+               Zhenhua Han and
+               Zhi Yang and
+               Quanlu Zhang and
+               Mingxia Li and
+               Fan Yang and
+               Qianxi Zhang and
+               Binyang Li and
+               Yuqing Yang and
+               Lili Qiu and
+               Lintao Zhang and
+               Lidong Zhou},
+  title     = {SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters},
+  booktitle = eurosys,
+  year      = 2023,
+  pages     = {883-898},
+}
+
 @inproceedings{DBLP:conf/eurosys/ZilicMAB22,
   author    = {Josip Zilic and
                Vincenzo De Maio and
@@ -1530,7 +2721,7 @@
 
 @inproceedings{DBLP:conf/eurosys/KimLKPM21,
   author    = {Jae-Yun Kim and
-               Jun-Mo Lee and
+               Junmo Lee and
                Yeon-Jae Koo and
                Sang-Hyeon Park and
                Soo-Mook Moon},
@@ -1822,7 +3013,7 @@
   author    = {Alex Markuze and
                Shay Vargaftik and
                Gil Kupfer and
-               Boris Pismeny and
+               Boris Pismenny and
                Nadav Amit and
                Adam Morrison and
                Dan Tsafrir},

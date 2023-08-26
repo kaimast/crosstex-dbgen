@@ -345,12 +345,225 @@
   author    = {Eduardo Romero and
                Christopher Stewart and
                Angela Li and
-               Kyle Hale and
+               Kyle C. Hale and
                Nathaniel Morris},
   title     = {Bolt: Fast Inference for Random Forests},
   booktitle = middleware,
   year      = 2022,
   pages     = {94-106},
+}
+
+@inproceedings{DBLP:conf/middleware/CoxCD22,
+  author    = {Bart Cox and
+               Lydia Y. Chen and
+               Jérémie Decouchant},
+  title     = {Aergia: leveraging heterogeneity in federated learning systems},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {107-120},
+}
+
+@inproceedings{DBLP:conf/middleware/GalanouGKF22,
+  author    = {Anna Galanou and
+               Franz Gregor and
+               Rüdiger Kapitza and
+               Christof Fetzer},
+  title     = {MATEE: multimodal attestation for trusted execution environments},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {121-134},
+}
+
+@inproceedings{DBLP:conf/middleware/LebrunBAB22,
+  author    = {Thomas Lebrun and
+               Antoine Boutet and
+               Jan Aalmoes and
+               Adrien Baud},
+  title     = {MixNN: protection of federated learning against inference attacks by mixing neural network layers},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {135-147},
+}
+
+@inproceedings{DBLP:conf/middleware/ArtigasE22,
+  author    = {Marc Sánchez Artigas and
+               Germán T. Eizaguirre},
+  title     = {A seer knows best: optimized object storage shuffling for serverless analytics},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {148-160},
+}
+
+@inproceedings{DBLP:conf/middleware/ZandbergBYBT22,
+  author    = {Koen Zandberg and
+               Emmanuel Baccelli and
+               Shenghao Yuan and
+               Frédéric Besson and
+               Jean-Pierre Talpin},
+  title     = {Femto-containers: lightweight virtualization and fault isolation for small software functions on low-power {IoT} microcontrollers},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {161-173},
+}
+
+@inproceedings{DBLP:conf/middleware/Schwarz-RuschBB22,
+  author    = {Signe Schwarz-Rüsch and
+               Michael Behlendorf and
+               Markus Horst Becker and
+               René Kudlek and
+               Hesham Hosney Elsayed Mohamed and
+               Felix Schoenitz and
+               Leander Jehl and
+               Rüdiger Kapitza},
+  title     = {EventChain: a blockchain framework for secure, privacy-preserving event verification},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {174-187},
+}
+
+@inproceedings{DBLP:conf/middleware/GuoG0WLCECN22,
+  author    = {Hongpeng Guo and
+               Haotian Gu and
+               Zhe Yang and
+               Xiaoyang Wang and
+               Eun Kyung Lee and
+               Nandhini Chandramoorthy and
+               Tamar Eilam and
+               Deming Chen and
+               Klara Nahrstedt},
+  title     = {BoFL: bayesian optimized local training pace control for energy efficient federated learning},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {188-201},
+}
+
+@inproceedings{DBLP:conf/middleware/ChoiUKK22,
+  author    = {Wonil Choi and
+               Bhuvan Urgaonkar and
+               Mahmut Taylan Kandemir and
+               George Kesidis},
+  title     = {Multi-resource fair allocation for consolidated flash-based caching systems},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {202-215},
+}
+
+@inproceedings{DBLP:conf/middleware/SunSCPLD22,
+  author    = {Diansen Sun and
+               Yunlong Song and
+               Yunpeng Chai and
+               Baoling Peng and
+               Fangzhou Lu and
+               Xiang Deng},
+  title     = {Light-GC: a lightweight and efficient garbage collection scheme for embedded file systems},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {216-227},
+}
+
+@inproceedings{DBLP:conf/middleware/DhakalRKSC22,
+  author    = {Aditya Dhakal and
+               K. K. Ramakrishnan and
+               Sameer G. Kulkarni and
+               Puneet Sharma and
+               Junguk Cho},
+  title     = {Slice-Tune: a system for high performance {DNN} autotuning},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {228-240},
+}
+
+@inproceedings{DBLP:conf/middleware/MarkovRA22,
+  author    = {Ilia Markov and
+               Hamidreza Ramezani-Kebrya and
+               Dan Alistarh},
+  title     = {CGX: adaptive system support for communication-efficient deep learning},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {241-254},
+}
+
+@inproceedings{DBLP:conf/middleware/PanQXMYLX22,
+  author    = {Lichen Pan and
+               Jun Qian and
+               Wei Xia and
+               Hangyu Mao and
+               Jun Yao and
+               Pengze Li and
+               Zhen Xiao},
+  title     = {Optimizing communication in deep reinforcement learning with {XingTian}},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {255-268},
+}
+
+@inproceedings{DBLP:conf/middleware/Ji00X22,
+  author    = {Yang Ji and
+               Cheng Xu and
+               Ce Zhang and
+               Jianliang Xu},
+  title     = {DCert: towards secure, efficient, and versatile blockchain light clients},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {269-280},
+}
+
+@inproceedings{DBLP:conf/middleware/Zhang0KMLP22,
+  author    = {Shungeng Zhang and
+               Qingyang Wang and
+               Yasuhiko Kanemasa and
+               Julius Michaelis and
+               Jianshu Liu and
+               Calton Pu},
+  title     = {ShadowSync: latency long tail caused by hidden synchronization in real-time {LSM-tree} based stream processing systems},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {281-294},
+}
+
+@inproceedings{DBLP:conf/middleware/MaoLJ22,
+  author    = {Yunhao Mao and
+               Zongxin Liu and
+               Hans-Arno Jacobsen},
+  title     = {Reversible conflict-free replicated data types},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {295-307},
+}
+
+@inproceedings{DBLP:conf/middleware/PascoalDV22,
+  author    = {Túlio A. Pascoal and
+               Jérémie Decouchant and
+               Marcus Völp},
+  title     = {Secure and distributed assessment of privacy-preserving {GWAS} releases},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {308-321},
+}
+
+@inproceedings{DBLP:conf/middleware/CaoYXSGKR22,
+  author    = {Difei Cao and
+               Jinsun Yoo and
+               Zhuangdi Xu and
+               Enrique Saurez and
+               Harshit Gupta and
+               Tushar Krishna and
+               Umakishore Ramachandran},
+  title     = {MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {322-334},
+}
+
+@inproceedings{DBLP:conf/middleware/MessaoudMNS22,
+  author    = {Aghiles Ait Messaoud and
+               Sonia Ben Mokhtar and
+               Vlad Nitu and
+               Valerio Schiavoni},
+  title     = {Shielding federated learning systems against inference attacks with {ARM} {TrustZone}},
+  booktitle = middleware,
+  year      = 2022,
+  pages     = {335-348},
 }
 
 @inproceedings{DBLP:conf/middleware/LiuRGDEH21,
@@ -947,7 +1160,7 @@
 @inproceedings{DBLP:conf/middleware/LykhenkoSR21,
   author    = {Taras Lykhenko and
                Rafael Soares and
-               Luis Rodrigues},
+               Luís Rodrigues},
   title     = {FaaSTCC: efficient transactional causal consistency for serverless computing},
   booktitle = middleware,
   year      = 2021,
@@ -6339,7 +6552,7 @@
 @inproceedings{DBLP:conf/middleware/GraceBPS14,
   author    = {Paul Grace and
                Justan Barbosa and
-               J. Brian Pickering and
+               John Brian Pickering and
                Mike Surridge},
   title     = {Taming the interoperability challenges of complex {IoT} systems},
   booktitle = middleware,
@@ -11434,7 +11647,7 @@
                Zhen Liu and
                Anton Riabov and
                Fan Ye},
-  title     = {CLASP: Collaborating,},
+  title     = {CLASP: Collaborating, Autonomous Stream Processing Systems},
   booktitle = middleware,
   year      = 2007,
   pages     = {348-367},

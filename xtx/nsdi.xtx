@@ -1,5 +1,1372 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/WangLNZLWXFCGWL23,
+  author    = {Zilong Wang and
+               Layong Luo and
+               Qingsong Ning and
+               Chaoliang Zeng and
+               Wenxue Li and
+               Xinchen Wan and
+               Peng Xie and
+               Tao Feng and
+               Ke Cheng and
+               Xiongfei Geng and
+               Tianhao Wang and
+               Weicheng Ling and
+               Kejia Huo and
+               Pingbo An and
+               Kui Ji and
+               Shideng Zhang and
+               Bin Xu and
+               Ruiqing Feng and
+               Tao Ding and
+               Kai Chen and
+               Chuanxiong Guo},
+  title     = {SRNIC: A Scalable Architecture for {RDMA} {NICs}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/nsdi/0004J0WZT0023,
+  author    = {Kefei Liu and
+               Zhuo Jiang and
+               Jiao Zhang and
+               Haoran Wei and
+               Xiaolong Zhong and
+               Lizhuang Tan and
+               Tian Pan and
+               Tao Huang},
+  title     = {Hostping: Diagnosing Intra-host Network Bottlenecks in {RDMA} Servers},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {15-29},
+}
+
+@inproceedings{DBLP:conf/nsdi/Kong0BXERPLZ23,
+  author    = {Xinhao Kong and
+               Jingrong Chen and
+               Wei Bai and
+               Yechen Xu and
+               Mahmoud Elhaddad and
+               Shachar Raindel and
+               Jitendra Padhye and
+               Alvin R. Lebeck and
+               Danyang Zhuo},
+  title     = {Understanding {RDMA} Microarchitecture Resources for Performance Isolation},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {31-48},
+}
+
+@inproceedings{DBLP:conf/nsdi/BaiAAABBBBCCCCE23,
+  author    = {Wei Bai and
+               Shanim Sainul Abdeen and
+               Ankit Agrawal and
+               Krishan Kumar Attre and
+               Paramvir Bahl and
+               Ameya Bhagat and
+               Gowri Bhaskara and
+               Tanya Brokhman and
+               Lei Cao and
+               Ahmad Cheema and
+               Rebecca Chow and
+               Jeff Cohen and
+               Mahmoud Elhaddad and
+               Vivek Ette and
+               Igal Figlin and
+               Daniel Firestone and
+               Mathew George and
+               Ilya German and
+               Lakhmeet Ghai and
+               Eric Green and
+               Albert G. Greenberg and
+               Manish Gupta and
+               Randy Haagens and
+               Matthew Hendel and
+               Ridwan Howlader and
+               Neetha John and
+               Julia Johnstone and
+               Tom Jolly and
+               Greg Kramer and
+               David Kruse and
+               Ankit Kumar and
+               Erica Lan and
+               Ivan Lee and
+               Avi Levy and
+               Marina Lipshteyn and
+               Xin Liu and
+               Chen Liu and
+               Guohan Lu and
+               Yuemin Lu and
+               Xiakun Lu and
+               Vadim Makhervaks and
+               Ulad Malashanka and
+               David A. Maltz and
+               Ilias Marinos and
+               Rohan Mehta and
+               Sharda Murthi and
+               Anup Namdhari and
+               Aaron Ogus and
+               Jitendra Padhye and
+               Madhav Pandya and
+               Douglas Phillips and
+               Adrian Power and
+               Suraj Puri and
+               Shachar Raindel and
+               Jordan Rhee and
+               Anthony Russo and
+               Maneesh Sah and
+               Ali Sheriff and
+               Chris Sparacino and
+               Ashutosh Srivastava and
+               Weixiang Sun and
+               Nick Swanson and
+               Fuhou Tian and
+               Lukasz Tomczyk and
+               Vamsi Vadlamuri and
+               Alec Wolman and
+               Ying Xie and
+               Joyce Yom and
+               Lihua Yuan and
+               Yanzhao Zhang and
+               Brian Zill},
+  title     = {Empowering Azure Storage with {RDMA}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {49-67},
+}
+
+@inproceedings{DBLP:conf/nsdi/WuZBL023,
+  author    = {Bingyang Wu and
+               Zili Zhang and
+               Zhihao Bai and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Transparent {GPU} Sharing in Container Clouds for Deep Learning Workloads},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {69-85},
+}
+
+@inproceedings{DBLP:conf/nsdi/HwangP0Q0X23,
+  author    = {Changho Hwang and
+               KyoungSoo Park and
+               Ran Shu and
+               Xinyuan Qu and
+               Peng Cheng and
+               Yongqiang Xiong},
+  title     = {ARK: {GPU-driven} Code Execution for Distributed Deep Learning},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {87-101},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuC00ZHPCCG23,
+  author    = {Tianfeng Liu and
+               Yangrui Chen and
+               Dan Li and
+               Chuan Wu and
+               Yibo Zhu and
+               Jun He and
+               Yanghua Peng and
+               Hongzheng Chen and
+               Hongzhi Chen and
+               Chuanxiong Guo},
+  title     = {BGL: {GPU-Efficient} {GNN} Training by Optimizing Graph Data I/O and Preprocessing},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {103-118},
+}
+
+@inproceedings{DBLP:conf/nsdi/YouCC23,
+  author    = {Jie You and
+               Jae-Won Chung and
+               Mosharaf Chowdhury},
+  title     = {Zeus: Understanding and Optimizing {GPU} Energy Consumption of {DNN} Training},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {119-139},
+}
+
+@inproceedings{DBLP:conf/nsdi/0002WLXKALYZ23,
+  author    = {Jingrong Chen and
+               Yongji Wu and
+               Shihan Lin and
+               Yechen Xu and
+               Xinhao Kong and
+               Thomas Anderson and
+               Matthew Lentz and
+               Xiaowei Yang and
+               Danyang Zhuo},
+  title     = {Remote Procedure Call as a Managed System Service},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {141-159},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangQMLCNKX23,
+  author    = {Chenxi Wang and
+               Yifan Qiao and
+               Haoran Ma and
+               Shi Liu and
+               Wenguang Chen and
+               Ravi Netravali and
+               Miryung Kim and
+               Guoqing Harry Xu},
+  title     = {Canvas: Isolated and Adaptive Swapping for {Multi-Applications} on Remote Memory},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {161-179},
+}
+
+@inproceedings{DBLP:conf/nsdi/QiaoWRBL0KX23,
+  author    = {Yifan Qiao and
+               Chenxi Wang and
+               Zhenyuan Ruan and
+               Adam Belay and
+               Qingda Lu and
+               Yiying Zhang and
+               Miryung Kim and
+               Guoqing Harry Xu},
+  title     = {Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via {Feedback-Directed} Asynchrony},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {181-198},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoWX23,
+  author    = {Bohan Zhao and
+               Wenfei Wu and
+               Wei Xu},
+  title     = {NetRPC: Enabling {In-Network} Computation in Remote Procedure Calls},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {199-217},
+}
+
+@inproceedings{DBLP:conf/nsdi/ArslanL0D23,
+  author    = {Serhat Arslan and
+               Yuliang Li and
+               Gautam Kumar and
+               Nandita Dukkipati},
+  title     = {Bolt: {Sub-RTT} Congestion Control for {Ultra-Low} Latency},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {219-236},
+}
+
+@inproceedings{DBLP:conf/nsdi/SharafzadehAG23,
+  author    = {Erfan Sharafzadeh and
+               Sepehr Abdous and
+               Soudeh Ghorbani},
+  title     = {Understanding the impact of host networking elements on traffic bursts},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {237-254},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangML0NCD23,
+  author    = {Weitao Wang and
+               Masoud Moshref and
+               Yuliang Li and
+               Gautam Kumar and
+               T. S. Eugene Ng and
+               Neal Cardwell and
+               Nandita Dukkipati},
+  title     = {Poseidon: Efficient, Robust, and Practical Datacenter {CC} via Deployable {INT}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {255-274},
+}
+
+@inproceedings{DBLP:conf/nsdi/KimNGKYP23,
+  author    = {Taehyun Kim and
+               Deondre Martin Ng and
+               Junzhi Gong and
+               Youngjin Kwon and
+               Minlan Yu and
+               KyoungSoo Park},
+  title     = {Rearchitecting the {TCP} Stack for I/{O-Offloaded} Content Delivery},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {275-292},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChoiMLP023,
+  author    = {Inho Choi and
+               Ellis Michael and
+               Yunfan Li and
+               Dan R. K. Ports and
+               Jialin Li},
+  title     = {Hydra: {Serialization-Free} Network Ordering for Strongly Consistent Distributed Applications},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {293-320},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangXAVM23,
+  author    = {Lei Zhang and
+               Zhiqiang Xie and
+               Vaastav Anand and
+               Ymir Vigfusson and
+               Jonathan Mace},
+  title     = {The Benefit of Hindsight: Tracing {Edge-Cases} in Distributed Systems},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {321-339},
+}
+
+@inproceedings{DBLP:conf/nsdi/MustafaKDV23,
+  author    = {Tammam Mustafa and
+               Konstantinos Kallas and
+               Pratyush Das and
+               Nikos Vasilakis},
+  title     = {DiSh: Dynamic {Shell-Script} Distribution},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {341-356},
+}
+
+@inproceedings{DBLP:conf/nsdi/AlimadadiMCFM023,
+  author    = {Mohammadreza Alimadadi and
+               Hieu Mai and
+               Shenghsun Cho and
+               Michael Ferdman and
+               Peter A. Milder and
+               Shuai Mu},
+  title     = {Waverunner: An Elegant Approach to Hardware Acceleration of State Machine Replication},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {357-374},
+}
+
+@inproceedings{DBLP:conf/nsdi/KludzeG23,
+  author    = {Atsutse Kludze and
+               Yasaman Ghasempour},
+  title     = {LeakyScatter: A {Frequency-Agile} Directional Backscatter Network Above 100 {GHz}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {375-388},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiFWZXC23,
+  author    = {Xinyi Li and
+               Chao Feng and
+               Xiaojing Wang and
+               Yangfan Zhang and
+               Yaxiong Xie and
+               Xiaojiang Chen},
+  title     = {RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {389-404},
+}
+
+@inproceedings{DBLP:conf/nsdi/GongKY23,
+  author    = {Junzhi Gong and
+               Anuj Kalia and
+               Minlan Yu},
+  title     = {Scalable Distributed Massive {MIMO} Baseband Processing},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {405-417},
+}
+
+@inproceedings{DBLP:conf/nsdi/Sentosa0GHM23,
+  author    = {William Sentosa and
+               Balakrishnan Chandrasekaran and
+               Philip Brighten Godfrey and
+               Haitham Hassanieh and
+               Bruce M. Maggs},
+  title     = {DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {419-436},
+}
+
+@inproceedings{DBLP:conf/nsdi/YangWLCBKZLMSS23,
+  author    = {Zongheng Yang and
+               Zhanghao Wu and
+               Michael Luo and
+               Wei-Lin Chiang and
+               Romil Bhardwaj and
+               Woosuk Kwon and
+               Siyuan Zhuang and
+               Frank Sifei Luan and
+               Gautam Mittal and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {SkyPilot: An Intercloud Broker for Sky Computing},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {437-455},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalNGSB23,
+  author    = {Anup Agarwal and
+               Shadi A. Noghabi and
+               Íñigo Goiri and
+               Srinivasan Seshan and
+               Anirudh Badam},
+  title     = {Unlocking unallocated cloud capacity for long, uninterruptible workloads},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {457-478},
+}
+
+@inproceedings{DBLP:conf/nsdi/McClureMBJNPRST23,
+  author    = {Sarah McClure and
+               Zeke Medley and
+               Deepak Bansal and
+               Karthick Jayaraman and
+               Ashok Narayanan and
+               Jitendra Padhye and
+               Sylvia Ratnasamy and
+               Anees Shaikh and
+               Rishabh Tewari},
+  title     = {Invisinets: Removing Networking from Cloud Networks},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {479-496},
+}
+
+@inproceedings{DBLP:conf/nsdi/ThorpeZEQJZNX23,
+  author    = {John Thorpe and
+               Pengzhan Zhao and
+               Jonathan Eyolfson and
+               Yifan Qiao and
+               Zhihao Jia and
+               Minjia Zhang and
+               Ravi Netravali and
+               Guoqing Harry Xu},
+  title     = {Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large {DNNs}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {497-513},
+}
+
+@inproceedings{DBLP:conf/nsdi/KrishnaswamySMB23,
+  author    = {Umesh Krishnaswamy and
+               Rachee Singh and
+               Paul Mattes and
+               Paul-Andre C. Bissonnette and
+               Nikolaj S. Bjørner and
+               Zahira Nasrin and
+               Sonal Kothari and
+               Prabhakar Reddy and
+               John Abeln and
+               Srikanth Kandula and
+               Himanshu Raj and
+               Luis Irún-Briz and
+               Jamie Gaudette and
+               Erica Lan},
+  title     = {{OneWAN} is better than two: Unifying a split {WAN} architecture},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {515-529},
+}
+
+@inproceedings{DBLP:conf/nsdi/DuanFL0BP23,
+  author    = {Huayi Duan and
+               Rubén Fischer and
+               Jie Lou and
+               Si Liu and
+               David A. Basin and
+               Adrian Perrig},
+  title     = {RHINE: Robust and High-performance Internet Naming with E2E Authenticity},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {531-553},
+}
+
+@inproceedings{DBLP:conf/nsdi/TahirM23,
+  author    = {Ammar Tahir and
+               Radhika Mittal},
+  title     = {Enabling Users to Control their Internet},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {555-573},
+}
+
+@inproceedings{DBLP:conf/nsdi/WirtgenRCRBVLB23,
+  author    = {Thomas Wirtgen and
+               Tom Rousseaux and
+               Quentin De Coninck and
+               Nicolas Rybowski and
+               Randy Bush and
+               Laurent Vanbever and
+               Axel Legay and
+               Olivier Bonaventure},
+  title     = {xBGP: Faster Innovation in Routing Protocols},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {575-592},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShahCCMMMNS23,
+  author    = {Aashaka Shah and
+               Vijay Chidambaram and
+               Meghan Cowan and
+               Saeed Maleki and
+               Madan Musuvathi and
+               Todd Mytkowicz and
+               Jacob Nelson and
+               Olli Saarikivi},
+  title     = {TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {593-612},
+}
+
+@inproceedings{DBLP:conf/nsdi/QiuB023,
+  author    = {Yiming Qiu and
+               Ryan Beckett and
+               Ang Chen},
+  title     = {Synthesizing Runtime Programmable Switch Updates},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {613-628},
+}
+
+@inproceedings{DBLP:conf/nsdi/Ramanathan0GMWY23,
+  author    = {Sivaramakrishnan Ramanathan and
+               Ying Zhang and
+               Mohab Gawish and
+               Yogesh Mundada and
+               Zhaodong Wang and
+               Sangki Yun and
+               Eric Lippert and
+               Walid Taha and
+               Minlan Yu and
+               Jelena Mirkovic},
+  title     = {Practical Intent-driven Routing Configuration Synthesis},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {629-644},
+}
+
+@inproceedings{DBLP:conf/nsdi/ArashlooB023,
+  author    = {Mina Tahmasbi Arashloo and
+               Ryan Beckett and
+               Rachit Agarwal},
+  title     = {Formal Methods for Network Performance Analysis},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {645-661},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoZCZWZ23,
+  author    = {Shizhen Zhao and
+               Qizhou Zhang and
+               Peirui Cao and
+               Xiao Zhang and
+               Xinbing Wang and
+               Chenghu Zhou},
+  title     = {Flattened Clos: Designing High-performance Deadlock-free Expander Data Center Networks Using Graph Contraction},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {663-683},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoGAA23,
+  author    = {Kevin Zhao and
+               Prateesh Goyal and
+               Mohammad Alizadeh and
+               Thomas E. Anderson},
+  title     = {Scalable Tail Latency Estimation for Data Center Networks},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {685-702},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhengPKVA23,
+  author    = {Pengfei Zheng and
+               Rui Pan and
+               Tarannum Khan and
+               Shivaram Venkataraman and
+               Aditya Akella},
+  title     = {Shockwave: Fair and Efficient Cluster Scheduling for Dynamic Adaptation in Machine Learning},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {703-723},
+}
+
+@inproceedings{DBLP:conf/nsdi/Cho0PAB23,
+  author    = {Inho Cho and
+               Ahmed Saeed and
+               Seo Jin Park and
+               Mohammad Alizadeh and
+               Adam Belay},
+  title     = {Protego: Overload Control for Applications with Unpredictable Lock Contention},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {725-738},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangKZGJM0K23,
+  author    = {Weiyang Wang and
+               Moein Khazraee and
+               Zhizhen Zhong and
+               Manya Ghobadi and
+               Zhihao Jia and
+               Dheevatsa Mudigere and
+               Ying Zhang and
+               Anthony Kewitsch},
+  title     = {TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {739-767},
+}
+
+@inproceedings{DBLP:conf/nsdi/LaiDMC23,
+  author    = {Fan Lai and
+               Yinwei Dai and
+               Harsha V. Madhyastha and
+               Mosharaf Chowdhury},
+  title     = {ModelKeeper: Accelerating {DNN} Training via Automated Training Warmup},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {769-785},
+}
+
+@inproceedings{DBLP:conf/nsdi/0025TKS23,
+  author    = {Hong Zhang and
+               Yupeng Tang and
+               Anurag Khandelwal and
+               Ion Stoica},
+  title     = {SHEPHERD: Serving {DNNs} in the Wild},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {787-808},
+}
+
+@inproceedings{DBLP:conf/nsdi/MahajanC0A23,
+  author    = {Kshiteej Mahajan and
+               Ching-Hsiang Chu and
+               Srinivas Sridharan and
+               Aditya Akella},
+  title     = {Better Together: Jointly Optimizing {ML} Collective Scheduling and Execution Planning using {SYNDICATE}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {809-824},
+}
+
+@inproceedings{DBLP:conf/nsdi/Zhong0MA23,
+  author    = {Ke Zhong and
+               Yiping Ma and
+               Yifeng Mao and
+               Sebastian Angel},
+  title     = {Addax: A fast, private, and accountable ad exchange infrastructure},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {825-848},
+}
+
+@inproceedings{DBLP:conf/nsdi/RamseyerGM23,
+  author    = {Geoffrey Ramseyer and
+               Ashish Goel and
+               David Mazières},
+  title     = {SPEEDEX: A Scalable, Parallelizable, and Economically Efficient Decentralized {EXchange}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {849-875},
+}
+
+@inproceedings{DBLP:conf/nsdi/00020C0XWWL023,
+  author    = {Peipei Jiang and
+               Qian Wang and
+               Jianhao Cheng and
+               Cong Wang and
+               Lei Xu and
+               Xinyu Wang and
+               Yihao Wu and
+               Xiaoyuan Li and
+               Kui Ren},
+  title     = {Boomerang: {Metadata-Private} Messaging under Hardware Trust},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {877-899},
+}
+
+@inproceedings{DBLP:conf/nsdi/LovejoyVFKBN23,
+  author    = {James Lovejoy and
+               Madars Virza and
+               Cory Fields and
+               Kevin Karwaski and
+               Anders Brownworth and
+               Neha Narula},
+  title     = {Hamilton: A {High-Performance} Transaction Processor for Central Bank Digital Currencies},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {901-915},
+}
+
+@inproceedings{DBLP:conf/nsdi/KhaniAHJNSAB23,
+  author    = {Mehrdad Khani and
+               Ganesh Ananthanarayanan and
+               Kevin Hsieh and
+               Junchen Jiang and
+               Ravi Netravali and
+               Yuanchao Shu and
+               Mohammad Alizadeh and
+               Victor Bahl},
+  title     = {RECL: Responsive {Resource-Efficient} Continuous Learning for Video Analytics},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {917-932},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalN23,
+  author    = {Neil Agarwal and
+               Ravi Netravali},
+  title     = {Boggart: Towards {General-Purpose} Acceleration of Retrospective Video Analytics},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {933-951},
+}
+
+@inproceedings{DBLP:conf/nsdi/RudowYKAER23,
+  author    = {Michael Rudow and
+               Francis Y. Yan and
+               Abhishek Kumar and
+               Ganesh Ananthanarayanan and
+               Martin Ellis and
+               K. V. Rashmi},
+  title     = {Tambur: Efficient loss recovery for videoconferencing via streaming codes},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {953-971},
+}
+
+@inproceedings{DBLP:conf/nsdi/PadmanabhanAIAS23,
+  author    = {Arthi Padmanabhan and
+               Neil Agarwal and
+               Anand P. Iyer and
+               Ganesh Ananthanarayanan and
+               Yuanchao Shu and
+               Nikolaos Karianakis and
+               Guoqing Harry Xu and
+               Ravi Netravali},
+  title     = {Gemel: Model Merging for Memory-Efficient, {Real-Time} Video Analytics at the Edge},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {973-994},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangJTL023,
+  author    = {Zili Zhang and
+               Chao Jin and
+               Linpeng Tang and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Fast, Approximate Vector Queries on Very Large Unstructured Datasets},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {995-1011},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhuWL23,
+  author    = {Zeying Zhu and
+               Kan Wu and
+               Zaoxing Liu},
+  title     = {Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1013-1030},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiagourisKFV23,
+  author    = {John Liagouris and
+               Vasiliki Kalavri and
+               Muhammad Faisal and
+               Mayank Varia},
+  title     = {SECRECY: Secure collaborative analytics in untrusted clouds},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1031-1056},
+}
+
+@inproceedings{DBLP:conf/nsdi/0001CWYH023,
+  author    = {Junxue Zhang and
+               Xiaodian Cheng and
+               Wei Wang and
+               Liu Yang and
+               Jinbin Hu and
+               Kai Chen},
+  title     = {FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1057-1079},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiangFXYLZYZ23,
+  author    = {Chieh-Jan Mike Liang and
+               Zilin Fang and
+               Yuqing Xie and
+               Fan Yang and
+               Zhao Lucis Li and
+               Li Lyna Zhang and
+               Mao Yang and
+               Lidong Zhou},
+  title     = {On Modular Learning of Distributed Systems for Predicting {End-to-End} Latency},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1081-1095},
+}
+
+@inproceedings{DBLP:conf/nsdi/KarthikeyanNSZB23,
+  author    = {Ajaykrishna Karthikeyan and
+               Nagarajan Natarajan and
+               Gagan Somashekar and
+               Lei Zhao and
+               Ranjita Bhagwan and
+               Rodrigo Fonseca and
+               Tatiana Racheva and
+               Yogesh Bansal},
+  title     = {SelfTune: Tuning Cluster Managers},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1097-1114},
+}
+
+@inproceedings{DBLP:conf/nsdi/AlomarHNAAS23,
+  author    = {Abdullah Alomar and
+               Pouya Hamadanian and
+               Arash Nasr-Esfahany and
+               Anish Agarwal and
+               Mohammad Alizadeh and
+               Devavrat Shah},
+  title     = {CausalSim: A Causal Framework for Unbiased {Trace-Driven} Simulation},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1115-1147},
+}
+
+@inproceedings{DBLP:conf/nsdi/SongCSABCJJSG23,
+  author    = {Zhenyu Song and
+               Kevin Chen and
+               Nuikhil Sarda and
+               Deniz Altinbüken and
+               Eugene Brevdo and
+               Jimmy Coleman and
+               Xiao Ju and
+               Pawel Jurczyk and
+               Richard Schooler and
+               Ramki Gummadi},
+  title     = {HALP: Heuristic Aided Learned Preference Eviction Policy for {YouTube} Content Delivery Network},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1149-1163},
+}
+
+@inproceedings{DBLP:conf/nsdi/MishraKSKC023,
+  author    = {Manan Mishra and
+               Daniel Jay Koch and
+               Muhammad Osama Shahid and
+               Bhuvana Krishnaswamy and
+               Krishna Chintalapudi and
+               Suman Banerjee},
+  title     = {OpenLoRa: Validating {LoRa} Implementations through an Extensible and Open-sourced Framework},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1165-1183},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangH0W23,
+  author    = {Yi Zhang and
+               Weiying Hou and
+               Zheng Yang and
+               Chenshu Wu},
+  title     = {VeCare: Statistical Acoustic Sensing for Automotive {In-Cabin} Monitoring},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1185-1200},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoW0ZL23,
+  author    = {Renjie Zhao and
+               Kejia Wang and
+               Kai Zheng and
+               Xinyu Zhang and
+               Vincent Leung},
+  title     = {SlimWiFi: {Ultra-Low-Power} {IoT} Radio Architecture Enabled by Asymmetric Communication},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1201-1219},
+}
+
+@inproceedings{DBLP:conf/nsdi/0002Z0W23,
+  author    = {Zheng Yang and
+               Yi Zhang and
+               Kun Qian and
+               Chenshu Wu},
+  title     = {SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1221-1236},
+}
+
+@inproceedings{DBLP:conf/nsdi/ScazzarielloCGB23,
+  author    = {Mariano Scazzariello and
+               Tommaso Caiazzi and
+               Hamid Ghasemirahni and
+               Tom Barbette and
+               Dejan Kostic and
+               Marco Chiesa},
+  title     = {A {High-Speed} Stateful Packet Processing Approach for Tbps Programmable Switches},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1237-1255},
+}
+
+@inproceedings{DBLP:conf/nsdi/KimSS23,
+  author    = {Daehyeok Kim and
+               Vyas Sekar and
+               Srinivasan Seshan},
+  title     = {ExoPlane: An Operating System for {On-Rack} Switch Resource Augmentation},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1257-1272},
+}
+
+@inproceedings{DBLP:conf/nsdi/NamkungLKSS23,
+  author    = {Hun Namkung and
+               Zaoxing Liu and
+               Daehyeok Kim and
+               Vyas Sekar and
+               Peter Steenkiste},
+  title     = {Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1273-1292},
+}
+
+@inproceedings{DBLP:conf/nsdi/LinCKRSWA23,
+  author    = {Jiaxin Lin and
+               Adney Cardoza and
+               Tarannum Khan and
+               Yeonju Ro and
+               Brent E. Stephens and
+               Hassan M. G. Wassel and
+               Aditya Akella},
+  title     = {RingLeader: Efficiently Offloading {Intra-Server} Orchestration to {NICs}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1293-1308},
+}
+
+@inproceedings{DBLP:conf/nsdi/LaiLDW0LLLLW23,
+  author    = {Zeqi Lai and
+               Hewu Li and
+               Yangtao Deng and
+               Qian Wu and
+               Jun Liu and
+               Yuanjie Li and
+               Jihao Li and
+               Lixin Liu and
+               Weisen Liu and
+               Jianping Wu},
+  title     = {StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1309-1324},
+}
+
+@inproceedings{DBLP:conf/nsdi/Ni0LCM0W0LX23,
+  author    = {Yunzhe Ni and
+               Feng Qian and
+               Taide Liu and
+               Yihua Cheng and
+               Zhiyao Ma and
+               Jing Wang and
+               Zhongfeng Wang and
+               Gang Huang and
+               Xuanzhe Liu and
+               Chenren Xu},
+  title     = {POLYCORN: Data-driven Cross-layer Multipath Networking for High-speed Railway through Composable Schedulerlets},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1325-1340},
+}
+
+@inproceedings{DBLP:conf/nsdi/BoroushakiLDEA23,
+  author    = {Tara Boroushaki and
+               Maisy Lam and
+               Laura Dodds and
+               Aline Eid and
+               Fadel Adib},
+  title     = {Augmenting Augmented Reality with {Non-Line-of-Sight} Perception},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1341-1358},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangWYW0QLXY23,
+  author    = {Yongzhao Zhang and
+               Yezhou Wang and
+               Lanqing Yang and
+               Mei Wang and
+               Yi-Chao Chen and
+               Lili Qiu and
+               Yihong Liu and
+               Guangtao Xue and
+               Jiadi Yu},
+  title     = {Acoustic Sensing and Communication Using Metasurface},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1359-1374},
+}
+
+@inproceedings{DBLP:conf/nsdi/0001KWPGS23,
+  author    = {Paras Jain and
+               Sam Kumar and
+               Sarah Wooders and
+               Shishir G. Patil and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {Skyplane: Optimizing Transfer Cost and Throughput Using {Cloud-Aware} Overlays},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1375-1389},
+}
+
+@inproceedings{DBLP:conf/nsdi/0008WDY23,
+  author    = {Yang Zhou and
+               Zezhou Wang and
+               Sowmya Dharanipragada and
+               Minlan Yu},
+  title     = {Electrode: Accelerating Distributed Protocols with {eBPF}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1391-1407},
+}
+
+@inproceedings{DBLP:conf/nsdi/RuanPABS23,
+  author    = {Zhenyuan Ruan and
+               Seo Jin Park and
+               Marcos K. Aguilera and
+               Adam Belay and
+               Malte Schwarzkopf},
+  title     = {Nu: Achieving {Microsecond-Scale} Resource Fungibility with Logical Processes},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1409-1427},
+}
+
+@inproceedings{DBLP:conf/nsdi/MengW00XHLAHW23,
+  author    = {Zili Meng and
+               Tingfeng Wang and
+               Yixin Shen and
+               Bo Wang and
+               Mingwei Xu and
+               Rui Han and
+               Honghao Liu and
+               Venkat Arun and
+               Hongxin Hu and
+               Xue Wei},
+  title     = {Enabling High Quality {Real-Time} Communications with Adaptive {Frame-Rate}},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1429-1450},
+}
+
+@inproceedings{DBLP:conf/nsdi/0011DSLS023,
+  author    = {Hao Li and
+               Yihan Dang and
+               Guangda Sun and
+               Guyue Liu and
+               Danfeng Shan and
+               Peng Zhang},
+  title     = {LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1451-1468},
+}
+
+@inproceedings{DBLP:conf/nsdi/BansalDTZGGBDSA23,
+  author    = {Deepak Bansal and
+               Gerald DeGrace and
+               Rishabh Tewari and
+               Michal Zygmunt and
+               James Grantham and
+               Silvano Gai and
+               Mario Baldi and
+               Krishna Doddapaneni and
+               Arun Selvarajan and
+               Arunkumar Arumugam and
+               Balakrishnan Raman and
+               Avijit Gupta and
+               Sachin Jain and
+               Deven Jagasia and
+               Evan Langlais and
+               Pranjal Srivastava and
+               Rishiraj Hazarika and
+               Neeraj Motwani and
+               Soumya Tiwari and
+               Stewart Grant and
+               Ranveer Chandra and
+               Srikanth Kandula},
+  title     = {Disaggregating Stateful Network Functions},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1469-1487},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuC0C23,
+  author    = {Minchen Yu and
+               Tingjia Cao and
+               Wei Wang and
+               Ruichuan Chen},
+  title     = {Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1489-1504},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuLNB23,
+  author    = {David H. Liu and
+               Amit Levy and
+               Shadi A. Noghabi and
+               Sebastian Burckhardt},
+  title     = {Doing More with Less: Orchestrating Serverless Applications without an Orchestrator},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1505-1519},
+}
+
+@inproceedings{DBLP:conf/nsdi/BuhlerJPV23,
+  author    = {Tobias Bühler and
+               Romain Jacob and
+               Ingmar Poese and
+               Laurent Vanbever},
+  title     = {Enhancing Global Network Monitoring with Magnifier},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1521-1539},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenLKZWZDYRML23,
+  author    = {Yu Chen and
+               Liqun Li and
+               Yu Kang and
+               Boyang Zheng and
+               Yehan Wang and
+               More Zhou and
+               Yuchao Dai and
+               Zhenguo Yang and
+               Brad Rutkowski and
+               Jeff Mealiffe and
+               Qingwei Lin},
+  title     = {NetPanel: Traffic Measurement of Exchange Online Service},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1541-1555},
+}
+
+@inproceedings{DBLP:conf/nsdi/PerryFHKMST23,
+  author    = {Yarin Perry and
+               Felipe Vieira Frujeri and
+               Chaim Hoch and
+               Srikanth Kandula and
+               Ishai Menache and
+               Michael Schapira and
+               Aviv Tamar},
+  title     = {DOTE: Rethinking (Predictive) {WAN} Traffic Engineering},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1557-1581},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiXNJ23,
+  author    = {Zhuqi Li and
+               Yaxiong Xie and
+               Ravi Netravali and
+               Kyle Jamieson},
+  title     = {Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1583-1599},
+}
+
+@inproceedings{DBLP:conf/nsdi/TanZDL23,
+  author    = {Zhaowei Tan and
+               Jinghao Zhao and
+               Boyan Ding and
+               Songwu Lu},
+  title     = {CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1601-1619},
+}
+
+@inproceedings{DBLP:conf/nsdi/LuoFCHMRS23,
+  author    = {Zhihong Luo and
+               Silvery Fu and
+               Natacha Crooks and
+               Shaddi Hasan and
+               Christian Maciocco and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {LOCA: A {Location-Oblivious} Cellular Architecture},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1621-1646},
+}
+
+@inproceedings{DBLP:conf/nsdi/Cho0GAJ23,
+  author    = {Kun Woo Cho and
+               Mohammad Hossein Mazaheri and
+               Jeremy Gummeson and
+               Omid Abari and
+               Kyle Jamieson},
+  title     = {mmWall: A Steerable, Transflective Metamaterial Surface for {NextG} {mmWave} Networks},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1647-1665},
+}
+
+@inproceedings{DBLP:conf/nsdi/HasanPDRKGSYABB23,
+  author    = {Shaddi Hasan and
+               Amar Padmanabhan and
+               Bruce Davie and
+               Jennifer Rexford and
+               Ulas Kozat and
+               Hunter Gatewood and
+               Shruti Sanadhya and
+               Nick Yurchenko and
+               Tariq Al-Khasib and
+               Oriol Batalla and
+               Marie Bremner and
+               Andrei Lee and
+               Evgeniy Makeev and
+               Scott Moeller and
+               Alex Rodriguez and
+               Pravin Shelar and
+               Karthik Subraveti and
+               Sudarshan Kandi and
+               Alejandro Xoconostle and
+               Praveen Kumar Ramakrishnan and
+               Xiaochen Tian and
+               Anoop Tomar},
+  title     = {Building Flexible, {Low-Cost} Wireless Access Networks With Magma},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1667-1681},
+}
+
+@inproceedings{DBLP:conf/nsdi/DongLLWGZ023,
+  author    = {Wei Dong and
+               Borui Li and
+               Haoyu Li and
+               Hao Wu and
+               Kaijie Gong and
+               Wenzhao Zhang and
+               Yi Gao},
+  title     = {{LinkLab} 2.0: A Multi-tenant Programmable {IoT} Testbed for Experimentation with {Edge-Cloud} Integration},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1683-1699},
+}
+
+@inproceedings{DBLP:conf/nsdi/Chen0NYX23,
+  author    = {Yinfang Chen and
+               Xudong Sun and
+               Suman Nath and
+               Ze Yang and
+               Tianyin Xu},
+  title     = {{Push-Button} Reliability Testing for {Cloud-Backed} Applications with Rainmaker},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1701-1716},
+}
+
+@inproceedings{DBLP:conf/nsdi/XuDBMW23,
+  author    = {Xieyang Xu and
+               Weixin Deng and
+               Ryan Beckett and
+               Ratul Mahajan and
+               David Walker},
+  title     = {Test Coverage for Network Configurations},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1717-1732},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenT0D0MTZYCCZ23,
+  author    = {Yanqing Chen and
+               Bingchuan Tian and
+               Chen Tian and
+               Li Dai and
+               Yu Zhou and
+               Mengjing Ma and
+               Ming Tang and
+               Hao Zheng and
+               Zhewen Yang and
+               Guihai Chen and
+               Dennis Cai and
+               Ennan Zhai},
+  title     = {Norma: Towards Practical Network Load Testing},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1733-1749},
+}
+
+@inproceedings{DBLP:conf/nsdi/Song0WZZYHL23,
+  author    = {Yihang Song and
+               Li Lu and
+               Jiliang Wang and
+               Chong Zhang and
+               Hui Zheng and
+               Shen Yang and
+               Jinsong Han and
+               Jian Li},
+  title     = {μMote: Enabling Passive Chirp De-spreading and μW-level {Long-Range} Downlink for Backscatter Devices},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1751-1766},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenYHM23,
+  author    = {Yongzhou Chen and
+               Ruihao Yao and
+               Haitham Hassanieh and
+               Radhika Mittal},
+  title     = {{Channel-Aware} 5G {RAN} Slicing with Customizable Schedulers},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1767-1782},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiangWZGZGZL0X23,
+  author    = {Bo Liang and
+               Purui Wang and
+               Renjie Zhao and
+               Heyu Guo and
+               Pengyu Zhang and
+               Junchen Guo and
+               Shunmin Zhu and
+               Hongqiang Harry Liu and
+               Xinyu Zhang and
+               Chenren Xu},
+  title     = {RF-Chord: Towards Deployable {RFID} Localization System for Logistic Networks},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1783-1799},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuXS0V23,
+  author    = {Zikun Liu and
+               Changming Xu and
+               Emerson Sie and
+               Gagandeep Singh and
+               Deepak Vasisht},
+  title     = {Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems},
+  booktitle = nsdi,
+  year      = 2023,
+  pages     = {1801-1817},
+}
+
 @inproceedings{DBLP:conf/nsdi/McClureOSR22,
   author    = {Sarah McClure and
                Amy Ousterhout and

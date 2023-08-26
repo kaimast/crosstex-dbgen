@@ -1,5 +1,13 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fc/Linus22,
+  author    = {Robin Linus},
+  title     = {Stakechain: A {Bitcoin-Backed} {Proof-of-Stake}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {3-14},
+}
+
 @inproceedings{DBLP:conf/fc/BartolettiCL22,
   author    = {Massimo Bartoletti and
                James Hsin-yu Chiang and
@@ -8,6 +16,14 @@
   booktitle = fc,
   year      = 2022,
   pages     = {3-19},
+}
+
+@inproceedings{DBLP:conf/fc/McCook22,
+  author    = {Hass McCook},
+  title     = {Drivers of Bitcoin Energy Use and Emissions},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {15-33},
 }
 
 @inproceedings{DBLP:conf/fc/GamaCPSA22,
@@ -22,6 +38,14 @@
   pages     = {20-37},
 }
 
+@inproceedings{DBLP:conf/fc/Abel22,
+  author    = {Cal Abel},
+  title     = {Integrated Power Plant and Bitcoin Mining Economics},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {34-54},
+}
+
 @inproceedings{DBLP:conf/fc/WangQMG22,
   author    = {Zhipeng Wang and
                Kaihua Qin and
@@ -33,6 +57,15 @@
   pages     = {38-56},
 }
 
+@inproceedings{DBLP:conf/fc/CrossB22,
+  author    = {Troy Cross and
+               Andrew M. Bailey},
+  title     = {{Carbon-Neutral} Bitcoin for Nation States},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {55-65},
+}
+
 @inproceedings{DBLP:conf/fc/HanzlikK22,
   author    = {Lucjan Hanzlik and
                Kamil Kluczniak},
@@ -42,6 +75,27 @@
   pages     = {59-79},
 }
 
+@inproceedings{DBLP:conf/fc/IkenoAP22,
+  author    = {Yusuke Ikeno and
+               James Angel and
+               Sabitra Sankalp Panigrahi},
+  title     = {Soundness of Stablecoins},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {66-73},
+}
+
+@inproceedings{DBLP:conf/fc/JudmayerSSW22,
+  author    = {Aljosha Judmayer and
+               Nicholas Stifter and
+               Philipp Schindler and
+               Edgar R. Weippl},
+  title     = {Estimating (Miner) Extractable Value is Hard, Let's Go Shopping!},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {74-92},
+}
+
 @inproceedings{DBLP:conf/fc/NguyenT22,
   author    = {Duong Tung Nguyen and
                Ni Trieu},
@@ -49,6 +103,22 @@
   booktitle = fc,
   year      = 2022,
   pages     = {80-99},
+}
+
+@inproceedings{DBLP:conf/fc/Kopeliovich22,
+  author    = {Yaacov Kopeliovich},
+  title     = {Teaching {PoW} Algorithm to a Classroom Environment},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {93-96},
+}
+
+@inproceedings{DBLP:conf/fc/Blemus22,
+  author    = {Stéphane Blemus},
+  title     = {The Compatibility of {CBDCs} with "DeFi" Protocols: A Governance Rather Than a Technological Issue to Comply with Financial Crime Regulations},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {97-105},
 }
 
 @inproceedings{DBLP:conf/fc/AbadiDMT22,
@@ -62,6 +132,26 @@
   pages     = {100-119},
 }
 
+@inproceedings{DBLP:conf/fc/ChalkiasCJ22,
+  author    = {Konstantinos Chalkias and
+               Panagiotis Chatzigiannis and
+               Yan Ji},
+  title     = {Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {106-117},
+}
+
+@inproceedings{DBLP:conf/fc/KazmiLM22,
+  author    = {Raza Ali Kazmi and
+               Duc-Phong Le and
+               Cyrus Minwalla},
+  title     = {{Privacy-Preserving} Post-quantum Credentials for Digital Payments},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {118-137},
+}
+
 @inproceedings{DBLP:conf/fc/SeresPB22,
   author    = {István András Seres and
                Balázs Pejó and
@@ -70,6 +160,18 @@
   booktitle = fc,
   year      = 2022,
   pages     = {123-148},
+}
+
+@inproceedings{DBLP:conf/fc/BosEKKT22,
+  author    = {Matthijs van den Bos and
+               Victor Ermolaev and
+               Scott King and
+               Alexey Koren and
+               Gamze Tillem},
+  title     = {ZKFlow: Private Transactions in Corda with {ZKP}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {138-163},
 }
 
 @inproceedings{DBLP:conf/fc/ChitraAE22,
@@ -82,6 +184,16 @@
   pages     = {149-178},
 }
 
+@inproceedings{DBLP:conf/fc/GhesmatiFW22,
+  author    = {Simin Ghesmati and
+               Walid Fdhila and
+               Edgar R. Weippl},
+  title     = {{User-Perceived} Privacy in Blockchain},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {164-194},
+}
+
 @inproceedings{DBLP:conf/fc/SildeS22,
   author    = {Tjerand Silde and
                Martin Strand},
@@ -89,6 +201,15 @@
   booktitle = fc,
   year      = 2022,
   pages     = {179-199},
+}
+
+@inproceedings{DBLP:conf/fc/XuX22,
+  author    = {Teng Andrea Xu and
+               Jiahua Xu},
+  title     = {A Short Survey on Business Models of Decentralized Finance (DeFi) Protocols},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {197-206},
 }
 
 @inproceedings{DBLP:conf/fc/GaillyMN22,
@@ -101,6 +222,24 @@
   pages     = {203-229},
 }
 
+@inproceedings{DBLP:conf/fc/SchlegelM22,
+  author    = {Jan Christoph Schlegel and
+               Akaki Mamageishvili},
+  title     = {{On-Chain} Auctions with Deposits},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {207-224},
+}
+
+@inproceedings{DBLP:conf/fc/VidalesS22,
+  author    = {Marc Sabate Vidales and
+               David Siska},
+  title     = {The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {225-237},
+}
+
 @inproceedings{DBLP:conf/fc/CascudoG22,
   author    = {Ignacio Cascudo and
                Emanuele Giunta},
@@ -108,6 +247,17 @@
   booktitle = fc,
   year      = 2022,
   pages     = {230-247},
+}
+
+@inproceedings{DBLP:conf/fc/BergFHW22,
+  author    = {Jan Arvid Berg and
+               Robin Fritsch and
+               Lioba Heimbach and
+               Roger Wattenhofer},
+  title     = {An Empirical Study of Market Inefficiencies in Uniswap and {SushiSwap}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {238-249},
 }
 
 @inproceedings{DBLP:conf/fc/SinghDP22,
@@ -118,6 +268,29 @@
   booktitle = fc,
   year      = 2022,
   pages     = {248-275},
+}
+
+@inproceedings{DBLP:conf/fc/BaumCDFG22,
+  author    = {Carsten Baum and
+               James Hsin-yu Chiang and
+               Bernardo David and
+               Tore Kasper Frederiksen and
+               Lorenzo Gentile},
+  title     = {SoK: Mitigation of {Front-Running} in Decentralized Finance},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {250-271},
+}
+
+@inproceedings{DBLP:conf/fc/KitzlerVSH22,
+  author    = {Stefan Kitzler and
+               Friedhelm Victor and
+               Pietro Saggese and
+               Bernhard Haslhofer},
+  title     = {A Systematic Investigation of {DeFi} Compositions in Ethereum},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {272-279},
 }
 
 @inproceedings{DBLP:conf/fc/CohenGKLMSS22,
@@ -134,6 +307,16 @@
   pages     = {279-295},
 }
 
+@inproceedings{DBLP:conf/fc/AgarwalCM22,
+  author    = {Amit Agarwal and
+               Angelo De Caro and
+               Andrew Miller},
+  title     = {Short Paper: Privacy Preserving Decentralized Netting},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {280-298},
+}
+
 @inproceedings{DBLP:conf/fc/GelashviliKSSX22,
   author    = {Rati Gelashvili and
                Lefteris Kokoris-Kogias and
@@ -144,6 +327,25 @@
   booktitle = fc,
   year      = 2022,
   pages     = {296-315},
+}
+
+@inproceedings{DBLP:conf/fc/WachterJRR22,
+  author    = {Victor von Wachter and
+               Johannes Rude Jensen and
+               Ferdinand Regner and
+               Omri Ross},
+  title     = {{NFT} Wash Trading - Quantifying Suspicious Behaviour in {NFT} Markets},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {299-311},
+}
+
+@inproceedings{DBLP:conf/fc/Pereira22,
+  author    = {Olivier Pereira},
+  title     = {Individual Verifiability and Revoting in the Estonian Internet Voting System},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {315-324},
 }
 
 @inproceedings{DBLP:conf/fc/CachinMSZ22,
@@ -157,6 +359,26 @@
   pages     = {316-333},
 }
 
+@inproceedings{DBLP:conf/fc/Muller22,
+  author    = {Johannes Müller},
+  title     = {Breaking and Fixing Vote Privacy of the Estonian {E-Voting} Protocol {IVXV}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {325-334},
+}
+
+@inproceedings{DBLP:conf/fc/KulykVFBK22,
+  author    = {Oksana Kulyk and
+               Melanie Volkamer and
+               Niklas Fuhrberg and
+               Benjamin Berens and
+               Robert Krimmer},
+  title     = {German Voters' Attitudes Towards Voting Online with a Verifiable System},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {335-350},
+}
+
 @inproceedings{DBLP:conf/fc/BiryukovNT22,
   author    = {Alex Biryukov and
                Gleb Naumenko and
@@ -165,6 +387,19 @@
   booktitle = fc,
   year      = 2022,
   pages     = {337-357},
+}
+
+@inproceedings{DBLP:conf/fc/BroadrickMMMVZ22,
+  author    = {Oliver Broadrick and
+               Sarah Morin and
+               Grant McClearn and
+               Neal McBurnett and
+               Poorvi L. Vora and
+               Filip Zagórski},
+  title     = {Simulations of Ballot Polling {Risk-Limiting} Audits},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {351-365},
 }
 
 @inproceedings{DBLP:conf/fc/AvarikiotiPSSTY22,
@@ -180,6 +415,17 @@
   pages     = {358-373},
 }
 
+@inproceedings{DBLP:conf/fc/BlomSTV22,
+  author    = {Michelle L. Blom and
+               Peter J. Stuckey and
+               Vanessa Teague and
+               Damjan Vukcevic},
+  title     = {A First Approach to {Risk-Limiting} Audits for Single Transferable Vote Elections},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {366-380},
+}
+
 @inproceedings{DBLP:conf/fc/ZabkaFDS22,
   author    = {Philipp Zabka and
                Klaus-Tycho Förster and
@@ -191,6 +437,14 @@
   pages     = {374-385},
 }
 
+@inproceedings{DBLP:conf/fc/Silde22,
+  author    = {Tjerand Silde},
+  title     = {Short Paper: Verifiable Decryption for {BGV}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {381-390},
+}
+
 @inproceedings{DBLP:conf/fc/MoserN22,
   author    = {Malte Möser and
                Arvind Narayanan},
@@ -198,6 +452,16 @@
   booktitle = fc,
   year      = 2022,
   pages     = {386-403},
+}
+
+@inproceedings{DBLP:conf/fc/CrimminsRH22,
+  author    = {Braden L. Crimmins and
+               Marshall Rhea and
+               J. Alex Halderman},
+  title     = {{RemoteVote} and {SAFE} Vote: Towards Usable {End-to-End} Verification for {Vote-by-Mail}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {391-406},
 }
 
 @inproceedings{DBLP:conf/fc/ChenCDHR22,
@@ -210,6 +474,15 @@
   booktitle = fc,
   year      = 2022,
   pages     = {407-425},
+}
+
+@inproceedings{DBLP:conf/fc/JivanyanF22,
+  author    = {Aram Jivanyan and
+               Aaron Feickert},
+  title     = {Lelantus Spark: Secure and Flexible Private Transactions},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {409-447},
 }
 
 @inproceedings{DBLP:conf/fc/AzouviH22,
@@ -232,6 +505,16 @@
   pages     = {444-463},
 }
 
+@inproceedings{DBLP:conf/fc/NabiAS22,
+  author    = {Mahmudun Nabi and
+               Sepideh Avizheh and
+               Reihaneh Safavi-Naini},
+  title     = {Fides: A System for Verifiable Computation Using Smart Contracts},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {448-480},
+}
+
 @inproceedings{DBLP:conf/fc/WangLSW22,
   author    = {Yuheng Wang and
                Jiliang Li and
@@ -243,6 +526,17 @@
   pages     = {464-487},
 }
 
+@inproceedings{DBLP:conf/fc/MuthGHT22,
+  author    = {Robert Muth and
+               Tarek Galal and
+               Jonathan Heiss and
+               Florian Tschorsch},
+  title     = {Towards Smart {Contract-Based} Verification of Anonymous Credentials},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {481-498},
+}
+
 @inproceedings{DBLP:conf/fc/AvarikiotiL22,
   author    = {Zeta Avarikioti and
                Orfeas Stefanos Thyfronitis Litos},
@@ -250,6 +544,15 @@
   booktitle = fc,
   year      = 2022,
   pages     = {488-511},
+}
+
+@inproceedings{DBLP:conf/fc/ElSheikhY22,
+  author    = {Muhammad ElSheikh and
+               Amr M. Youssef},
+  title     = {{Dispute-Free} Scalable Open Vote Network Using {zk-SNARKs}},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {499-515},
 }
 
 @inproceedings{DBLP:conf/fc/LotemAMZ22,
@@ -263,6 +566,15 @@
   pages     = {512-530},
 }
 
+@inproceedings{DBLP:conf/fc/FrowisB22,
+  author    = {Michael Fröwis and
+               Rainer Böhme},
+  title     = {Not All Code are Create2 Equal},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {516-538},
+}
+
 @inproceedings{DBLP:conf/fc/GelashviliGS22,
   author    = {Rati Gelashvili and
                Guy Goren and
@@ -273,6 +585,16 @@
   pages     = {531-538},
 }
 
+@inproceedings{DBLP:conf/fc/SalehiCM22,
+  author    = {Mehdi Salehi and
+               Jeremy Clark and
+               Mohammad Mannan},
+  title     = {Not so Immutable: Upgradeability of Smart Contracts on Ethereum},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {539-554},
+}
+
 @inproceedings{DBLP:conf/fc/NeuTT22,
   author    = {Joachim Neu and
                Ertem Nusret Tas and
@@ -281,6 +603,16 @@
   booktitle = fc,
   year      = 2022,
   pages     = {541-559},
+}
+
+@inproceedings{DBLP:conf/fc/FalcaoMV22,
+  author    = {Afonso Falcão and
+               Andreia Mordido and
+               Vasco T. Vasconcelos},
+  title     = {{Protocol-Based} Smart Contract Generation},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {555-582},
 }
 
 @inproceedings{DBLP:conf/fc/Schwarz-Schilling22,
@@ -304,6 +636,18 @@
   pages     = {577-593},
 }
 
+@inproceedings{DBLP:conf/fc/XuSDDW22,
+  author    = {Yibin Xu and
+               Tijs Slaats and
+               Boris Düdder and
+               Søren Debois and
+               Haiqin Wu},
+  title     = {Distributed and Adversarial Resistant Workflow Execution on the Algorand Blockchain},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {583-597},
+}
+
 @inproceedings{DBLP:conf/fc/VeselyGSGJKOOT22,
   author    = {Psi Vesely and
                Kobi Gurkan and
@@ -320,6 +664,15 @@
   pages     = {597-614},
 }
 
+@inproceedings{DBLP:conf/fc/MoosaviC22,
+  author    = {Mahsa Moosavi and
+               Jeremy Clark},
+  title     = {Lissy: Experimenting with {On-Chain} Order Books},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {598-614},
+}
+
 @inproceedings{DBLP:conf/fc/ChatzigiannisBC22,
   author    = {Panagiotis Chatzigiannis and
                Foteini Baldimtsi and
@@ -328,6 +681,14 @@
   booktitle = fc,
   year      = 2022,
   pages     = {615-641},
+}
+
+@inproceedings{DBLP:conf/fc/Zindros22,
+  author    = {Dionysis Zindros},
+  title     = {Hours of Horus: Keyless Cryptocurrency Wallets},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {615-644},
 }
 
 @inproceedings{DBLP:conf/fc/HegdeSGGV22,
@@ -340,6 +701,16 @@
   booktitle = fc,
   year      = 2022,
   pages     = {642-660},
+}
+
+@inproceedings{DBLP:conf/fc/GoodellTA22,
+  author    = {Geoffrey Goodell and
+               D. R. Toliver and
+               Hazem Danny Al-Nakib},
+  title     = {A Scalable Architecture for Electronic Payments},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {645-678},
 }
 
 @inproceedings{DBLP:conf/fc/BaekNOTK22,
@@ -366,6 +737,16 @@
   booktitle = fc,
   year      = 2022,
   pages     = {672-693},
+}
+
+@inproceedings{DBLP:conf/fc/BarbaraSS22,
+  author    = {Fadi Barbàra and
+               Alessandro Sanino and
+               Claudio Schifanella},
+  title     = {UTS: The Universal Token Swapper},
+  booktitle = fc,
+  year      = 2022,
+  pages     = {679-687},
 }
 
 @inproceedings{DBLP:conf/fc/GrundmannABH22,
@@ -1427,7 +1808,7 @@
 
 @inproceedings{DBLP:conf/fc/FranzoniAD20,
   author    = {Federico Franzoni and
-               Ivan Abellan and
+               Iván Abellán Álvarez and
                Vanesa Daza},
   title     = {Leveraging Bitcoin Testnet for Bidirectional Botnet Command and Control Systems},
   booktitle = fc,

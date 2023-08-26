@@ -1,14 +1,285 @@
 @include conferences-cs
 
-@inproceedings{DBLP:conf/sigcomm/IslamHGW22,
-  author    = {Safiqul Islam and
-               Kristian A. Hiorth and
-               Carsten Griwodz and
-               Michael Welzl},
-  title     = {Is it really necessary to go beyond a fairness metric for next-generation congestion control?},
+@inproceedings{DBLP:conf/sigcomm/LiGWY23,
+  author    = {Zhouyu Li and
+               Huayue Gu and
+               Xiaojian Wang and
+               Ruozhou Yu},
+  title     = {Dynamic Queuing Analysis and Buffer Management for Entanglement Swapping Buffers with Noise},
   booktitle = sigcomm,
-  year      = 2022,
-  pages     = {1-1},
+  year      = 2023,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HinzAGJ023,
+  author    = {Jörn-Thorben Hinz and
+               Vamsi Addanki and
+               Csaba Györgyi and
+               Theo Jepsen and
+               Stefan Schmid},
+  title     = {{TCP's} Third Eye: Leveraging {eBPF} for {Telemetry-Powered} Congestion Control},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BuckleyCO0SE23,
+  author    = {Anita Buckley and
+               Pavel Chuprikov and
+               Rodrigo Otoni and
+               Robert Rand and
+               Robert Soulé and
+               Patrick Eugster},
+  title     = {Towards an Algebraic Specification of Quantum Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WustrichSBKGPC23,
+  author    = {Lars Wüstrich and
+               Markus Schacherbauer and
+               Markus Budeus and
+               Dominik Freiherr von Künßberg and
+               Sebastian Gallenmüller and
+               Marc-Oliver Pahl and
+               Georg Carle},
+  title     = {Network Profiles for Detecting {Application-Characteristic} Behavior Using Linux {eBPF}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {8-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PouryousefSST23,
+  author    = {Shahrooz Pouryousef and
+               Hassan Shapourian and
+               Alireza Shabani and
+               Don Towsley},
+  title     = {Quantum Network Planning for Utility Maximization},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZadehMBKG23,
+  author    = {Sepehr Abbasi Zadeh and
+               Ali Munir and
+               Mahmoud Mohamed Bahnasy and
+               Shiva Ketabi and
+               Yashar Ganjali},
+  title     = {On Augmenting TCP/{IP} Stack via {eBPF}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {15-20},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KenemerCFCB23,
+  author    = {Keith Kenemer and
+               Michelle Chalupnik and
+               Michelle Fernandez and
+               Michael Cubeddu and
+               Eric G. Brown},
+  title     = {Scheduling Compact Error Correcting Codes in Entanglement Distribution Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SommersRD23,
+  author    = {Joel Sommers and
+               Nolan Rudolph and
+               Ramakrishnan Durairajan},
+  title     = {Schooling {NOOBs} with {eBPF}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {21-27},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TeramotoHSMN23,
+  author    = {Kentaro Teramoto and
+               Michal Hajdusek and
+               Toshihiko Sasaki and
+               Rodney Van Meter and
+               Shota Nagayama},
+  title     = {{RuleSet-based} Recursive Quantum Internetworking},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Wang0C23,
+  author    = {Yutian Wang and
+               Dan Li and
+               Li Chen},
+  title     = {Seeing the Invisible: Auditing {eBPF} Programs in Hypervisor with {HyperBee}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {28-34},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MongaSKHW23,
+  author    = {Inder Monga and
+               Erhan Saglamyurek and
+               Ezra Kissel and
+               Hartmut Haffner and
+               Wenji Wu},
+  title     = {QUANT-NET: A testbed for quantum networking research over deployed fiber},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {31-37},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DejaeghereGPR23,
+  author    = {Jules Dejaeghere and
+               Bolaji Gbadamosi and
+               Tobias Pulls and
+               Florentin Rochet},
+  title     = {Comparing Security in {eBPF} and {WebAssembly}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {35-41},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GauthierVW23,
+  author    = {Scarlett Gauthier and
+               Gayane Vardoyan and
+               Stephanie Wehner},
+  title     = {A Control Architecture for Entanglement Generation Switches in Quantum Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {38-44},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LimHP23,
+  author    = {Soo-Yee Lim and
+               Xueyuan Han and
+               Thomas Pasquier},
+  title     = {Unleashing Unprivileged {eBPF} Potential with Dynamic Sandboxing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {42-48},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhouGL23,
+  author    = {Ruilin Zhou and
+               Yuhang Gan and
+               Yi Liu},
+  title     = {Towards Flow Scheduling in A Quantum Data Center},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {45-50},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SahuW23,
+  author    = {Raj Sahu and
+               Dan Williams},
+  title     = {Enabling {BPF} Runtime policies for better {BPF} management},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {49-55},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Mao0023,
+  author    = {Yingling Mao and
+               Yu Liu and
+               Yuanyuan Yang},
+  title     = {Probability-aware {Qubit-to-Processor} Mapping in Distributed Quantum Computing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {51-56},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HeLZW23,
+  author    = {Wanning He and
+               Hongyi Lu and
+               Fengwei Zhang and
+               Shuai Wang},
+  title     = {RingGuard: Guard io_uring with {eBPF}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {56-62},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LyssenkoK23,
+  author    = {Dmitry Lyssenko and
+               Olufemi Komolafe},
+  title     = {Leveraging Quantum Key Distribution for Securing {MACsec} Communications},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {57-61},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GaoZ23,
+  author    = {Xiangyu Gao and
+               Eddy Z. Zhang},
+  title     = {Key Generation and Identity Verification using Quantum Teleportation},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {62-66},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CraunOW23,
+  author    = {Milo Craun and
+               Adam Oswald and
+               Dan Williams},
+  title     = {Enabling {eBPF} on Embedded Systems Through Decoupled Verification},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {63-69},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LevaiKR23,
+  author    = {Tamás Lévai and
+               Balázs Edvárd Kreith and
+               Gábor Rétvári},
+  title     = {Supercharge WebRTC: Accelerate {TURN} Services with eBPF/{XDP}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {70-76},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YangK23,
+  author    = {Rui Yang and
+               Marios Kogias},
+  title     = {HEELS: A {Host-Enabled} {eBPF-Based} Load Balancing Scheme},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {77-83},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JiaL0WJ23,
+  author    = {Jinghao Jia and
+               Michael V. Le and
+               Salman Ahmed and
+               Dan Williams and
+               Hani Jamjoom},
+  title     = {Practical and Flexible Kernel {CFI} Enforcement using {eBPF}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {84-85},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ScheichCBM23,
+  author    = {Christian Scheich and
+               Marius Corici and
+               Hauke Buhr and
+               Thomas Magedanz},
+  title     = {{eXpress} Data Path Extensions for {High-Capacity} 5G User Plane Functions},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {86-88},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DayalanWGTZ23,
+  author    = {Udhaya Kumar Dayalan and
+               Ziyan Wu and
+               Gaurav Gautam and
+               Feng Tian and
+               Zhi-Li Zhang},
+  title     = {PRAVEGA: Scaling Private 5G {RAN} via eBPF/{XDP}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {89-91},
 }
 
 @inproceedings{DBLP:conf/sigcomm/KolkmanRGB22,
@@ -77,35 +348,6 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {1-18},
-}
-
-@inproceedings{DBLP:conf/sigcomm/EvangAEB22,
-  author    = {Jan Marius Evang and
-               Azza H. Ahmed and
-               Ahmed Elmokashfi and
-               Haakon Bryhni},
-  title     = {Crosslayer network outage classification using machine learning},
-  booktitle = sigcomm,
-  year      = 2022,
-  pages     = {2-1},
-}
-
-@inproceedings{DBLP:conf/sigcomm/MartinK22,
-  author    = {Aitor Martín and
-               Naeem Khademi},
-  title     = {On the suitability of {BBR} congestion control for {QUIC} over {GEO} {SATCOM} networks},
-  booktitle = sigcomm,
-  year      = 2022,
-  pages     = {3-1},
-}
-
-@inproceedings{DBLP:conf/sigcomm/EghbalL22,
-  author    = {Nooshin Eghbal and
-               Paul Lu},
-  title     = {Priority-aware forward error correction for {HTTP}},
-  booktitle = sigcomm,
-  year      = 2022,
-  pages     = {4-1},
 }
 
 @inproceedings{DBLP:conf/sigcomm/LangeGZPL0V22,
@@ -6559,7 +6801,7 @@
                Chin Guok and
                Franck Le and
                John MacAuley and
-               Harvey Newman and
+               Harvey B. Newman and
                Yang Richard Yang},
   title     = {Fine-Grained, {Multi-Domain} Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences},
   booktitle = sigcomm,
@@ -6611,7 +6853,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/ZhaoTMCW18,
-  author    = {Jianxin R. Zhao and
+  author    = {Jianxin Zhao and
                Tudor Tiplea and
                Richard Mortier and
                Jon Crowcroft and
@@ -7229,7 +7471,7 @@
                Chin Guok and
                Franck Le and
                John MacAuley and
-               Harvey Newman and
+               Harvey B. Newman and
                Yang Richard Yang},
   title     = {SFP: Toward Interdomain Routing for {SDN} Networks},
   booktitle = sigcomm,
@@ -9849,7 +10091,7 @@
                Marco Zennaro and
                Freddy Rondón and
                Ermanno Pietrosemoli and
-               David Johnson},
+               David L. Johnson},
   title     = {Open and regionalised spectrum repositories for emerging countries},
   booktitle = sigcomm,
   year      = 2016,
