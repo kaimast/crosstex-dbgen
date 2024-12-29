@@ -1,5 +1,669 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/Santoro24,
+  author    = {Nicola Santoro},
+  title     = {Keynote: Time is not a Healer: Before and After},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/podc/Roughgarden24,
+  author    = {Tim Roughgarden},
+  title     = {Keynote: Provable Slashing Guarantees},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/podc/Ovens24,
+  author    = {Sean Ovens},
+  title     = {Determining Recoverable Consensus Numbers},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {3-13},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaBFOS24,
+  author    = {Hagit Attiya and
+               Michael A. Bender and
+               Martín Farach-Colton and
+               Rotem Oshman and
+               Noa Schiller},
+  title     = {{History-Independent} Concurrent Objects},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {14-24},
+}
+
+@inproceedings{DBLP:conf/podc/JayantiJJ24,
+  author    = {Prasad Jayanti and
+               Siddhartha Jayanti and
+               Sucharita Jayanti},
+  title     = {MemSnap: A Fast Adaptive Snapshot Algorithm for {RMWable} {Shared-Memory}},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {25-35},
+}
+
+@inproceedings{DBLP:conf/podc/MostefaouiPW24,
+  author    = {Achour Mostéfaoui and
+               Matthieu Perrin and
+               Julien Weibel},
+  title     = {Brief Announcement: Randomized Consensus: Common Coins Are not the Holy Grail!},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {36-39},
+}
+
+@inproceedings{DBLP:conf/podc/AlistarhCKL24,
+  author    = {Dan Alistarh and
+               Krishnendu Chatterjee and
+               Mehrdad Karrabi and
+               John Lazarsfeld},
+  title     = {Game Dynamics and Equilibrium Computation in the Population Protocol Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {40-49},
+}
+
+@inproceedings{DBLP:conf/podc/KaaserL24,
+  author    = {Dominik Kaaser and
+               Maximilian Lohmann},
+  title     = {Dynamic Size Counting in the Population Protocol Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {50-60},
+}
+
+@inproceedings{DBLP:conf/podc/LuchsingerDS24,
+  author    = {Austin Luchsinger and
+               David Doty and
+               David Soloveichik},
+  title     = {Brief Announcement: Optimally Encoding Information in Chemical Reaction Networks},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {61-64},
+}
+
+@inproceedings{DBLP:conf/podc/PadalkinS24,
+  author    = {Andreas Padalkin and
+               Christian Scheideler},
+  title     = {Polylogarithmic Time Algorithms for Shortest Path Forests in Programmable Matter},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {65-75},
+}
+
+@inproceedings{DBLP:conf/podc/FuggerNR24,
+  author    = {Matthias Függer and
+               Thomas Nowak and
+               Joel Rybicki},
+  title     = {Majority Consensus Thresholds in Competitive {Lotka-Volterra} Populations},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {76-86},
+}
+
+@inproceedings{DBLP:conf/podc/GiakkoupisTZ24,
+  author    = {George Giakkoupis and
+               Volker Turau and
+               Isabella Ziccardi},
+  title     = {Brief Announcement: {Self-Stabilizing} {MIS} Computation in the Beeping Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {87-90},
+}
+
+@inproceedings{DBLP:conf/podc/DArchivioV24,
+  author    = {Niccolò D'Archivio and
+               Robin Vacus},
+  title     = {Brief Announcement: On the Limits of Information Spread by Memory-less Agents},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {91-94},
+}
+
+@inproceedings{DBLP:conf/podc/BalliuB0O24,
+  author    = {Alkida Balliu and
+               Thomas Boudier and
+               Sebastian Brandt and
+               Dennis Olivetti},
+  title     = {Tight Lower Bounds in the Supported {LOCAL} Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {95-105},
+}
+
+@inproceedings{DBLP:conf/podc/ChangMNYY24,
+  author    = {Yi-Jun Chang and
+               Gopinath Mishra and
+               Hung Thuan Nguyen and
+               Mingyang Yang and
+               Yu-Cheng Yeh},
+  title     = {A Tight Lower Bound for 3-Coloring Grids in the {Online-LOCAL} Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {106-116},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0K0ORS24,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Fabian Kuhn and
+               Krzysztof Nowicki and
+               Dennis Olivetti and
+               Eva Rotenberg and
+               Jukka Suomela},
+  title     = {Brief Announcement: Local Advice and Local Decompression},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {117-120},
+}
+
+@inproceedings{DBLP:conf/podc/JacobsT0ZASRH24,
+  author    = {Sam Ade Jacobs and
+               Masahiro Tanaka and
+               Chengming Zhang and
+               Minjia Zhang and
+               Reza Yazdani Aminadabi and
+               Shuaiwen Leon Song and
+               Samyam Rajbhandari and
+               Yuxiong He},
+  title     = {System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {121-130},
+}
+
+@inproceedings{DBLP:conf/podc/FarhadkhaniGGP24,
+  author    = {Sadegh Farhadkhani and
+               Rachid Guerraoui and
+               Nirupam Gupta and
+               Rafael Pinot},
+  title     = {Brief Announcement: A Case for Byzantine Machine Learning},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {131-134},
+}
+
+@inproceedings{DBLP:conf/podc/Lewis-PyeMNN24,
+  author    = {Andrew Lewis-Pye and
+               Dahlia Malkhi and
+               Oded Naor and
+               Kartik Nayak},
+  title     = {Lumiere: Making Optimal {BFT} for Partial Synchrony Practical},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {135-144},
+}
+
+@inproceedings{DBLP:conf/podc/CivitDGGKV24,
+  author    = {Pierre Civit and
+               Muhammad Ayaz Dzulfikar and
+               Seth Gilbert and
+               Rachid Guerraoui and
+               Jovan Komatovic and
+               Manuel Vidigueira},
+  title     = {{DARE} to Agree: Byzantine Agreement With Optimal Resilience and Adaptive Communication},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {145-156},
+}
+
+@inproceedings{DBLP:conf/podc/CivitGGKPV24,
+  author    = {Pierre Civit and
+               Seth Gilbert and
+               Rachid Guerraoui and
+               Jovan Komatovic and
+               Anton Paramonov and
+               Manuel Vidigueira},
+  title     = {All Byzantine Agreement Problems Are Expensive},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {157-169},
+}
+
+@inproceedings{DBLP:conf/podc/AvelasHADB24,
+  author    = {Diogo Avelas and
+               Hasan Heydari and
+               Eduardo Alchieri and
+               Tobias Distler and
+               Alysson Bessani},
+  title     = {Probabilistic Byzantine Fault Tolerance},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {170-181},
+}
+
+@inproceedings{DBLP:conf/podc/ManoharanR24,
+  author    = {Vignesh Manoharan and
+               Vijaya Ramachandran},
+  title     = {Computing Minimum Weight Cycle in the {CONGEST} Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {182-193},
+}
+
+@inproceedings{DBLP:conf/podc/ChangHS24,
+  author    = {Yi-Jun Chang and
+               Shang-En Huang and
+               Hsin-Hao Su},
+  title     = {Deterministic Expander Routing: Faster and More Versatile},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {194-204},
+}
+
+@inproceedings{DBLP:conf/podc/FominF0RT24,
+  author    = {Fedor V. Fomin and
+               Pierre Fraigniaud and
+               Pedro Montealegre and
+               Ivan Rapaport and
+               Ioan Todinca},
+  title     = {Brief Announcement: Distributed Model Checking on Graphs of Bounded Treedepth},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {205-208},
+}
+
+@inproceedings{DBLP:conf/podc/FraigniaudLMT24,
+  author    = {Pierre Fraigniaud and
+               Maël Luce and
+               Frédéric Magniez and
+               Ioan Todinca},
+  title     = {{Even-Cycle} Detection in the Randomized and Quantum {CONGEST} Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {209-219},
+}
+
+@inproceedings{DBLP:conf/podc/HasegawaKN24,
+  author    = {Atsuya Hasegawa and
+               Srijita Kundu and
+               Harumichi Nishimura},
+  title     = {On the Power of Quantum Distributed Proofs},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {220-230},
+}
+
+@inproceedings{DBLP:conf/podc/BenderFGKY24,
+  author    = {Michael A. Bender and
+               Jeremy T. Fineman and
+               Seth Gilbert and
+               John Kuszmaul and
+               Maxwell Young},
+  title     = {Fully {Energy-Efficient} Randomized Backoff: Slow Feedback Loops Yield Fast Contention Resolution},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {231-242},
+}
+
+@inproceedings{DBLP:conf/podc/Charron-BostL24,
+  author    = {Bernadette Charron-Bost and
+               Patrick Lambein-Monette},
+  title     = {Brief Announcement: Know Your Audience: Communication model and computability in anonymous networks},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {243-246},
+}
+
+@inproceedings{DBLP:conf/podc/DAmatoLZ24,
+  author    = {Francesco D'Amato and
+               Giuliano Losa and
+               Luca Zanolini},
+  title     = {{Asynchrony-Resilient} Sleepy {Total-Order} Broadcast Protocols},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {247-256},
+}
+
+@inproceedings{DBLP:conf/podc/YuLW24,
+  author    = {Qianyu Yu and
+               Giuliano Losa and
+               Xuechao Wang},
+  title     = {TetraBFT: Reducing Latency of Unauthenticated, Responsive {BFT} Consensus},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {257-267},
+}
+
+@inproceedings{DBLP:conf/podc/ChatterjeeEKPYZ24,
+  author    = {Krishnendu Chatterjee and
+               Amirali Ebrahim-Zadeh and
+               Mehrdad Karrabi and
+               Krzysztof Pietrzak and
+               Michelle Yeo and
+               Dorde Zikelic},
+  title     = {Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {268-278},
+}
+
+@inproceedings{DBLP:conf/podc/RamseyerG24,
+  author    = {Geoffrey Ramseyer and
+               Ashish Goel},
+  title     = {Brief Announcement: Fair Ordering via Streaming Social Choice Theory},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {279-282},
+}
+
+@inproceedings{DBLP:conf/podc/TonkikhS24,
+  author    = {Andrei Tonkikh and
+               Luciano Freitas de Souza},
+  title     = {Swiper: a new paradigm for efficient weighted distributed protocols},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {283-294},
+}
+
+@inproceedings{DBLP:conf/podc/BazziP24,
+  author    = {Rida A. Bazzi and
+               Sara Tucci Piergiovanni},
+  title     = {The Fractional Spending Problem: Executing Payment transactions in parallel with less than f+1 validations},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {295-305},
+}
+
+@inproceedings{DBLP:conf/podc/Avarikioti0T24,
+  author    = {Zeta Avarikioti and
+               Stefan Schmid and
+               Samarth Tiwari},
+  title     = {Brief Announcement: Musketeer - {Incentive-Compatible} Rebalancing for Payment Channel Networks},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {306-309},
+}
+
+@inproceedings{DBLP:conf/podc/Delporte-Gallet24,
+  author    = {Carole Delporte-Gallet and
+               Hugues Fauconnier and
+               Pierre Fraigniaud and
+               Sergio Rajsbaum and
+               Corentin Travers},
+  title     = {The Computational Power of Distributed {Shared-Memory} Models with {Bounded-Size} Registers},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {310-320},
+}
+
+@inproceedings{DBLP:conf/podc/HajiaghayiKO24,
+  author    = {Mohammad Hajiaghayi and
+               Dariusz R. Kowalski and
+               Jan Olkowski},
+  title     = {{Nearly-Optimal} Consensus Tolerating Adaptive Omissions: Why a Lot of Randomness is Needed?},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {321-331},
+}
+
+@inproceedings{DBLP:conf/podc/BravermanOR24,
+  author    = {Mark Braverman and
+               Rotem Oshman and
+               Tal Roth},
+  title     = {{Multi-Party} Set Disjointness and Intersection with Bounded Dependence},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {332-342},
+}
+
+@inproceedings{DBLP:conf/podc/GayMP24,
+  author    = {Sylvain Gay and
+               Achour Mostéfaoui and
+               Matthieu Perrin},
+  title     = {Brief Announcement: No Broadcast Abstraction Characterizes {k-Set-Agreement} in {Message-Passing} Systems},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {343-346},
+}
+
+@inproceedings{DBLP:conf/podc/Reiter24,
+  author    = {Fabian Reiter},
+  title     = {A {LOCAL} View of the Polynomial Hierarchy},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {347-357},
+}
+
+@inproceedings{DBLP:conf/podc/FerreiraASS24,
+  author    = {Miguel Alves Ferreira and
+               Nirav Atre and
+               Justine Sherry and
+               João Luis Sobrinho},
+  title     = {Impossibility Results for {Data-Center} Routing with Congestion Control and Unsplittable Flows},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {358-368},
+}
+
+@inproceedings{DBLP:conf/podc/Balliu0KOS24,
+  author    = {Alkida Balliu and
+               Sebastian Brandt and
+               Fabian Kuhn and
+               Dennis Olivetti and
+               Gustav Schmid},
+  title     = {Completing the {Node-Averaged} Complexity Landscape of {LCLs} on Trees},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {369-379},
+}
+
+@inproceedings{DBLP:conf/podc/ChangHLS24,
+  author    = {Yi-Jun Chang and
+               Oren Hecht and
+               Dean Leitersdorf and
+               Philipp Schneider},
+  title     = {Universally Optimal Information Dissemination and Shortest Paths in the {HYBRID} Distributed Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {380-390},
+}
+
+@inproceedings{DBLP:conf/podc/BuiCCDL24,
+  author    = {Hong Duc Bui and
+               Shashwat Chandra and
+               Yi-Jun Chang and
+               Michal Dory and
+               Dean Leitersdorf},
+  title     = {Improved {All-Pairs} Approximate Shortest Paths in Congested Clique},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {391-400},
+}
+
+@inproceedings{DBLP:conf/podc/0001T24,
+  author    = {Mohsen Ghaffari and
+               Anton Trygub},
+  title     = {A {Near-Optimal} {Low-Energy} Deterministic Distributed {SSSP} with Ramifications on Congestion and {APSP}},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {401-411},
+}
+
+@inproceedings{DBLP:conf/podc/ChangDH24,
+  author    = {Yi-Jun Chang and
+               Varsha Dani and
+               Thomas P. Hayes},
+  title     = {Brief Announcement: {Low-Distortion} Clustering in Bounded Growth Graphs},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {412-415},
+}
+
+@inproceedings{DBLP:conf/podc/FlinM24,
+  author    = {Maxime Flin and
+               Parth Mittal},
+  title     = {(Δ+1) Vertex Coloring in O(n) Communication},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {416-424},
+}
+
+@inproceedings{DBLP:conf/podc/FuchsK24,
+  author    = {Marc Fuchs and
+               Fabian Kuhn},
+  title     = {Brief Announcement: Simpler and More General Distributed Coloring Based on Simple List Defective Coloring Algorithms},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {425-428},
+}
+
+@inproceedings{DBLP:conf/podc/BousquetFZ24,
+  author    = {Nicolas Bousquet and
+               Laurent Feuilloley and
+               Sébastien Zeitoun},
+  title     = {Brief Announcement: Global certification via perfect hashing},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {429-431},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaCE24,
+  author    = {Hagit Attiya and
+               Armando Castañeda and
+               Constantin Enea},
+  title     = {Strong Linearizability using Primitives with Consensus Number 2},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {432-442},
+}
+
+@inproceedings{DBLP:conf/podc/Naderi-Semiromi24,
+  author    = {Fatemeh Naderi-Semiromi and
+               Philipp Woelfel},
+  title     = {Strongly Linearizable LL/{SC} from {CAS}},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {443-453},
+}
+
+@inproceedings{DBLP:conf/podc/BencivengaGW24,
+  author    = {Dante Bencivenga and
+               George Giakkoupis and
+               Philipp Woelfel},
+  title     = {Faster Randomized Repeated Choice and {DCAS}},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {454-464},
+}
+
+@inproceedings{DBLP:conf/podc/LosaG24,
+  author    = {Giuliano Losa and
+               Eli Gafni},
+  title     = {Brief Announcement: Understanding {Read-Write} {Wait-Free} Coverings in the {Fully-Anonymous} {Shared-Memory} Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {465-468},
+}
+
+@inproceedings{DBLP:conf/podc/0001L024,
+  author    = {Hanwen Feng and
+               Zhenliang Lu and
+               Qiang Tang},
+  title     = {Dragon: Decentralization at the cost of Representation after Arbitrary Grouping and Its Applications to Sub-cubic {DKG} and Interactive Consistency},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {469-479},
+}
+
+@inproceedings{DBLP:conf/podc/BartusekBKMP24,
+  author    = {James Bartusek and
+               Thiago Bergamaschi and
+               Seri Khoury and
+               Saachi Mutreja and
+               Orr Paradise},
+  title     = {On the Communication Complexity of Secure {Multi-Party} Computation With Aborts},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {480-491},
+}
+
+@inproceedings{DBLP:conf/podc/GhineaLW24,
+  author    = {Diana Ghinea and
+               Chen-Da Liu-Zhang and
+               Roger Wattenhofer},
+  title     = {Brief Announcement: {Communication-Optimal} Convex Agreement},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {492-495},
+}
+
+@inproceedings{DBLP:conf/podc/CzumajMM24,
+  author    = {Artur Czumaj and
+               Gopinath Mishra and
+               Anish Mukherjee},
+  title     = {Streaming Graph Algorithms in the Massively Parallel Computation Model},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {496-507},
+}
+
+@inproceedings{DBLP:conf/podc/LatypovMPU24,
+  author    = {Rustam Latypov and
+               Yannic Maus and
+               Shreyas Pai and
+               Jara Uitto},
+  title     = {Adaptive Massively Parallel Coloring in Sparse Graphs},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {508-518},
+}
+
+@inproceedings{DBLP:conf/podc/Liu024,
+  author    = {Quanquan C. Liu and
+               C. Seshadhri},
+  title     = {Brief Announcement: Improved Massively Parallel Triangle Counting in O(1) Rounds},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {519-522},
+}
+
+@inproceedings{DBLP:conf/podc/GilibertiP24,
+  author    = {Jeff Giliberti and
+               Zahra Parsaeian},
+  title     = {Brief Announcement: Massively Parallel Ruling Set Made Deterministic},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {523-526},
+}
+
+@inproceedings{DBLP:conf/podc/AltisenCDD24,
+  author    = {Karine Altisen and
+               Alain Cournier and
+               Geoffrey Defalque and
+               Stéphane Devismes},
+  title     = {On Self-stabilizing Leader Election in Directed Networks},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {527-537},
+}
+
+@inproceedings{DBLP:conf/podc/JohnenDMI24,
+  author    = {Colette Johnen and
+               Stéphane Devismes and
+               Frédéric Mazoit and
+               David Ilcinkas},
+  title     = {Asynchronous Self-stabilization Made Fast, Simple, and Energy-efficient},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {538-548},
+}
+
+@inproceedings{DBLP:conf/podc/FreiGGN24,
+  author    = {Fabian Frei and
+               Ran Gelles and
+               Ahmed Ghazy and
+               Alexandre Nolin},
+  title     = {Brief Announcement: {Content-Oblivious} Leader Election on Rings},
+  booktitle = podc,
+  year      = 2024,
+  pages     = {549-552},
+}
+
 @inproceedings{DBLP:conf/podc/Wattenhofer23,
   author    = {Roger Wattenhofer},
   title     = {From Distributed Algorithms to Machine Learning and Back},
@@ -1334,7 +1998,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/Clementi0GN21,
-  author    = {Andrea E. F. Clementi and
+  author    = {Andrea Clementi and
                Francesco D'Amore and
                George Giakkoupis and
                Emanuele Natale},
@@ -4691,7 +5355,7 @@
 
 @inproceedings{DBLP:conf/podc/BerenbrinkCEKMN17,
   author    = {Petra Berenbrink and
-               Andrea E. F. Clementi and
+               Andrea Clementi and
                Robert Elsässer and
                Peter Kling and
                Frederik Mallmann-Trenn and
@@ -7756,7 +8420,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/ClementiST12,
-  author    = {Andrea E. F. Clementi and
+  author    = {Andrea Clementi and
                Riccardo Silvestri and
                Luca Trevisan},
   title     = {Information spreading in dynamic graphs},
@@ -9695,7 +10359,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/ClementiMS10,
-  author    = {Andrea E. F. Clementi and
+  author    = {Andrea Clementi and
                Angelo Monti and
                Riccardo Silvestri},
   title     = {Fast flooding over Manhattan},
@@ -10113,7 +10777,7 @@
 @inproceedings{DBLP:conf/podc/PanditP09,
   author    = {Saurav Pandit and
                Sriram V. Pemmaraju},
-  title     = {Return of the primal-dual: distributed metric facilitylocation},
+  title     = {Return of the primal-dual: distributed metric facility location},
   booktitle = podc,
   year      = 2009,
   pages     = {180-189},

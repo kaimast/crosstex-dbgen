@@ -1,5 +1,308 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fast/Yang0LLHS24,
+  author    = {Zhe Yang and
+               Qing Wang and
+               Xiaojian Liao and
+               Youyou Lu and
+               Keji Huang and
+               Jiwu Shu},
+  title     = {TeRM: Extending {RDMA-Attached} Memory with {SSD}},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/fast/QianVFDLIFXB24,
+  author    = {Yingjin Qian and
+               Marc-André Vef and
+               Patrick Farrell and
+               Andreas Dilger and
+               Xi Li and
+               Shuichi Ihara and
+               Yinjin Fu and
+               Wei Xue and
+               André Brinkmann},
+  title     = {Combining Buffered I/O and Direct I/O in Distributed File Systems},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {17-33},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangRNMK24,
+  author    = {Jian Zhang and
+               Yujie Ren and
+               Marie Nguyen and
+               Changwoo Min and
+               Sudarsun Kannan},
+  title     = {OmniCache: Collaborative Caching for Near-storage Accelerators},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {35-50},
+}
+
+@inproceedings{DBLP:conf/fast/DaiLAA24,
+  author    = {Yifan Dai and
+               Jing Liu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Symbiosis: The Art of Application and Kernel Cache Cooperation},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {51-69},
+}
+
+@inproceedings{DBLP:conf/fast/Liu0LLGMH024,
+  author    = {Yubo Liu and
+               Yuxin Ren and
+               Mingrui Liu and
+               Hongbo Li and
+               Hanjun Guo and
+               Xie Miao and
+               Xinwei Hu and
+               Haibo Chen},
+  title     = {Optimizing File Systems on Heterogeneous Memory by Integrating {DRAM} Cache with Virtual Memory Management},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {71-87},
+}
+
+@inproceedings{DBLP:conf/fast/ShakibaSS24,
+  author    = {Kia Shakiba and
+               Sari Sultan and
+               Michael Stumm},
+  title     = {Kosmo: Efficient Online Miss Ratio Curve Generation for Eviction Policy Evaluation},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {89-105},
+}
+
+@inproceedings{DBLP:conf/fast/JoshiG0KRGLA24,
+  author    = {Kanchan Joshi and
+               Anuj Gupta and
+               Javier González and
+               Ankit Kumar and
+               Krishna Kanth Reddy and
+               Arun George and
+               Simon Andreas Frimann Lund and
+               Jens Axboe},
+  title     = {I/O Passthru: Upstreaming a flexible and efficient I/O Path in Linux},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {107-121},
+}
+
+@inproceedings{DBLP:conf/fast/LiuAHKLSSZ24,
+  author    = {Yifei Liu and
+               Manish Adkar and
+               Gerard J. Holzmann and
+               Geoff Kuenning and
+               Pei Liu and
+               Scott A. Smolka and
+               Wei Su and
+               Erez Zadok},
+  title     = {Metis: File System Model Checking via Versatile Input and State Exploration},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {123-140},
+}
+
+@inproceedings{DBLP:conf/fast/ChoCKK24,
+  author    = {Kyu-Jin Cho and
+               Jaewon Choi and
+               Hyungjoon Kwon and
+               Jin-Soo Kim},
+  title     = {RFUSE: Modernizing Userspace Filesystem Framework through Scalable {Kernel-Userspace} Communication},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {141-157},
+}
+
+@inproceedings{DBLP:conf/fast/JiaoZSCK24,
+  author    = {Ziyang Jiao and
+               Xiangqun Zhang and
+               Hojin Shin and
+               Jongmoo Choi and
+               Bryan S. Kim},
+  title     = {The Design and Implementation of a {Capacity-Variant} Storage System},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {159-176},
+}
+
+@inproceedings{DBLP:conf/fast/Curtis-MauryKRM24,
+  author    = {Matthew Curtis-Maury and
+               Ram Kesavan and
+               Bharadwaj V. R. and
+               Nikhil Mattankot and
+               Vania Fang and
+               Yash Trivedi and
+               Kesari Mishra and
+               Qin Li},
+  title     = {I/O in a Flash: Evolution of {ONTAP} to {Low-Latency} {SSDs}},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {177-192},
+}
+
+@inproceedings{DBLP:conf/fast/JunPKKS24,
+  author    = {Yuhun Jun and
+               Shin-Hyun Park and
+               Jeong-Uk Kang and
+               Sang-Hoon Kim and
+               Euiseong Seo},
+  title     = {We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash {SSDs}},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {193-208},
+}
+
+@inproceedings{DBLP:conf/fast/ZhuZL24,
+  author    = {Zeying Zhu and
+               Yibo Zhao and
+               Zaoxing Liu},
+  title     = {{In-Memory} {Key-Value} Store Live Migration with {NetMigrate}},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {209-224},
+}
+
+@inproceedings{DBLP:conf/fast/XuZ0CJGA24,
+  author    = {Yi Xu and
+               Henry Zhu and
+               Prashant Pandey and
+               Alex Conway and
+               Rob Johnson and
+               Aishwarya Ganesan and
+               Ramnatthan Alagappan},
+  title     = {IONIA: {High-Performance} Replication for Modern Disk-based {KV} Stores},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {225-241},
+}
+
+@inproceedings{DBLP:conf/fast/LeviSSY24,
+  author    = {Asaf Levi and
+               Philip Shilane and
+               Sarai Sheinvald and
+               Gala Yadgar},
+  title     = {Physical vs. Logical Indexing with IDEA: Inverted {Deduplication-Aware} Index},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {243-258},
+}
+
+@inproceedings{DBLP:conf/fast/OhKHK0N24,
+  author    = {Seonggyun Oh and
+               Jeeyun Kim and
+               Soyoung Han and
+               Jaeho Kim and
+               Sungjin Lee and
+               Sam H. Noh},
+  title     = {MIDAS: Minimizing Write Amplification in {Log-Structured} Systems through Adaptive Group Number and Size Configuration},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {259-275},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangXWZGLODPXZ24,
+  author    = {Weidong Zhang and
+               Erci Xu and
+               Qiuping Wang and
+               Xiaolu Zhang and
+               Yuesheng Gu and
+               Zhenwei Lu and
+               Tao Ouyang and
+               Guanqun Dai and
+               Wenwen Peng and
+               Zhe Xu and
+               Shuo Zhang and
+               Dong Wu and
+               Yilei Peng and
+               Tianyun Wang and
+               Haoran Zhang and
+               Jiasheng Wang and
+               Wenyuan Yan and
+               Yuanyuan Dong and
+               Wenhui Yao and
+               Zhongjie Wu and
+               Lingjun Zhu and
+               Chao Shi and
+               Yinhu Wang and
+               Rong Liu and
+               Junping Wu and
+               Jiaji Zhu and
+               Jiesheng Wu},
+  title     = {What's the Story in {EBS} Glory: Evolutions and Lessons in Building Cloud Block Store},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {277-291},
+}
+
+@inproceedings{DBLP:conf/fast/RenR0HLL24,
+  author    = {Yanjing Ren and
+               Yuanming Ren and
+               Xiaolu Li and
+               Yuchong Hu and
+               Jingwei Li and
+               Patrick P. C. Lee},
+  title     = {ELECT: Enabling Erasure Coding Tiering for {LSM-tree-based} Storage},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {293-310},
+}
+
+@inproceedings{DBLP:conf/fast/Li0ZXL24,
+  author    = {Tao Li and
+               Yongkun Li and
+               Wenzhe Zhu and
+               Yinlong Xu and
+               John C. S. Lui},
+  title     = {MinFlow: High-performance and Cost-efficient Data Passing for I/O-intensive Stateful Serverless Analytics},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {311-327},
+}
+
+@inproceedings{DBLP:conf/fast/000700X24,
+  author    = {Ce Zhang and
+               Cheng Xu and
+               Haibo Hu and
+               Jianliang Xu},
+  title     = {COLE: A Column-based Learned Storage for Blockchain Systems},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {329-345},
+}
+
+@inproceedings{DBLP:conf/fast/WongWMGLKSBBG24,
+  author    = {Daniel Lin-Kit Wong and
+               Hao Wu and
+               Carson Molder and
+               Sathya Gunasekar and
+               Jimmy Lu and
+               Snehal Khandkar and
+               Abhinav Sharma and
+               Daniel S. Berger and
+               Nathan Beckmann and
+               Gregory R. Ganger},
+  title     = {Baleen: {ML} Admission & Prefetching for Flash Caches},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {347-371},
+}
+
+@inproceedings{DBLP:conf/fast/YangCLY24,
+  author    = {Tsun-Yu Yang and
+               Yizou Chen and
+               Yuhong Liang and
+               Ming-Chang Yang},
+  title     = {Seraph: Towards Scalable and Efficient Fully-external Graph Computation via On-demand Processing},
+  booktitle = fast,
+  year      = 2024,
+  pages     = {373-387},
+}
+
 @inproceedings{DBLP:conf/fast/Warfield23,
   author    = {Andy Warfield},
   title     = {Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3)},
@@ -1896,7 +2199,7 @@
                Vinayak Ramkumar and
                Bhagyashree Puranik and
                Ganesh R. Kini and
-               Elita Lobo and
+               Elita A. Lobo and
                Birenjith Sasidharan and
                P. Vijay Kumar and
                Alexander Barg and
@@ -2373,7 +2676,7 @@
 
 @inproceedings{DBLP:conf/fast/BjorlingGB17,
   author    = {Matias Bjørling and
-               Javier Gonzalez and
+               Javier González and
                Philippe Bonnet},
   title     = {LightNVM: The Linux {Open-Channel} {SSD} Subsystem},
   booktitle = fast,
@@ -3601,7 +3904,7 @@
 
 @inproceedings{DBLP:conf/fast/ZhengTQL13,
   author    = {Mai Zheng and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Feng Qin and
                Mark Lillibridge},
   title     = {Understanding the robustness of {SSDS} under power fault},
@@ -3666,7 +3969,7 @@
 @inproceedings{DBLP:conf/fast/YangMH12,
   author    = {Jisoo Yang and
                Dave B. Minturn and
-               Frank Hady},
+               Frank T. Hady},
   title     = {When poll is better than interrupt},
   booktitle = fast,
   year      = 2012,
@@ -5008,7 +5311,7 @@
   author    = {Michael P. Mesnier and
                Matthew Wachs and
                Raja R. Sambasivan and
-               Julio César López-Hernández and
+               Julio López and
                James Hendricks and
                Gregory R. Ganger and
                David R. O'Hallaron},

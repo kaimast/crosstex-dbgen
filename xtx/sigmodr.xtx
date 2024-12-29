@@ -1,5 +1,423 @@
 @include journals-cs
 
+@article{DBLP:journals/sigmod/Cormode24,
+  author    = {Graham Cormode},
+  title     = {Technical Perspective on 'Better Differentially Private Approximate Histograms and Heavy Hitters using the {Misra-Gries} Sketch'},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {6},
+}
+
+@article{DBLP:journals/sigmod/TziavelisGR24,
+  author    = {Nikolaos Tziavelis and
+               Wolfgang Gatterbauer and
+               Mirek Riedewald},
+  title     = {Ranked Enumeration for Database Queries},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {3},
+  year      = 2024,
+  pages     = {6-19},
+}
+
+@article{DBLP:journals/sigmod/AmarilliC24,
+  author    = {Antoine Amarilli and
+               Florent Capelli},
+  title     = {Tractable Circuits in Database Theory},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {6-20},
+}
+
+@article{DBLP:journals/sigmod/LebedaT24,
+  author    = {Christian Janos Lebeda and
+               Jakub Tetek},
+  title     = {Better Differentially Private Approximate Histograms and Heavy Hitters using the {Misra-Gries} Sketch},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {7-14},
+}
+
+@article{DBLP:journals/sigmod/Fekete24,
+  author    = {Alan D. Fekete},
+  title     = {Technical Perspective: Allocating Isolation Levels to Transactions in a Multiversion Setting},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {15},
+}
+
+@article{DBLP:journals/sigmod/VandevoortKN24,
+  author    = {Brecht Vandevoort and
+               Bas Ketsman and
+               Frank Neven},
+  title     = {Allocating Isolation Levels to Transactions in a Multiversion Setting},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {16-23},
+}
+
+@article{DBLP:journals/sigmod/WuW24,
+  author    = {Wentao Wu and
+               Chi Wang},
+  title     = {Budget-aware Query Tuning: An {AutoML} Perspective},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {3},
+  year      = 2024,
+  pages     = {20-26},
+}
+
+@article{DBLP:journals/sigmod/StonebrakerP24,
+  author    = {Michael Stonebraker and
+               Andrew Pavlo},
+  title     = {What Goes Around Comes Around... And Around},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {21-37},
+}
+
+@article{DBLP:journals/sigmod/Neumann24,
+  author    = {Thomas Neumann},
+  title     = {Technical Perspective: From Binary Join to Free Join},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {24},
+}
+
+@article{DBLP:journals/sigmod/WangWS24,
+  author    = {Yisu Remy Wang and
+               Max Willsey and
+               Dan Suciu},
+  title     = {From Binary Join to Free Join},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {25-31},
+}
+
+@article{DBLP:journals/sigmod/Graefe24,
+  author    = {Goetz Graefe},
+  title     = {Reminiscences on Influential Papers},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {3},
+  year      = 2024,
+  pages     = {27-31},
+}
+
+@article{DBLP:journals/sigmod/Neumann24a,
+  author    = {Thomas Neumann},
+  title     = {Technical Perspective: Efficient and Reusable Lazy Sampling},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {32},
+}
+
+@article{DBLP:journals/sigmod/Ranu24,
+  author    = {Sayan Ranu},
+  title     = {The Road to Explainable Graph Neural Networks},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {3},
+  year      = 2024,
+  pages     = {32-34},
+}
+
+@article{DBLP:journals/sigmod/SancaCA24,
+  author    = {Viktor Sanca and
+               Periklis Chrysogelos and
+               Anastasia Ailamaki},
+  title     = {Efficient and Reusable Lazy Sampling},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {33-42},
+}
+
+@article{DBLP:journals/sigmod/MiedemaAAFMT24,
+  author    = {Daphne Miedema and
+               Efthimia Aivaloglou and
+               Sihem Amer-Yahia and
+               George Fletcher and
+               Michael Mior and
+               Toni Taipalus},
+  title     = {Report on the Second International Workshop on {DataSystems} Education ({DataEd} '23)},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {3},
+  year      = 2024,
+  pages     = {35-39},
+}
+
+@article{DBLP:journals/sigmod/KakaraparthyP24,
+  author    = {Aarati Kakaraparthy and
+               Jignesh M. Patel},
+  title     = {{Fine-Grained} Hardware Profiling - Are You Using the Right Tools?},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {38-43},
+}
+
+@article{DBLP:journals/sigmod/Doan24,
+  author    = {AnHai Doan},
+  title     = {Technical Perspective: Unicorn: A Unified {Multi-Tasking} Matching Model},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {43},
+}
+
+@article{DBLP:journals/sigmod/Tozun24,
+  author    = {Pinar Tözün},
+  title     = {Reminiscences on Influential Papers},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {44-47},
+}
+
+@article{DBLP:journals/sigmod/FanTLWDJGT24,
+  author    = {Ju Fan and
+               Jianhong Tu and
+               Guoliang Li and
+               Peng Wang and
+               Xiaoyong Du and
+               Xiaofeng Jia and
+               Song Gao and
+               Nan Tang},
+  title     = {Unicorn: A Unified {Multi-Tasking} Matching Model},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {44-53},
+}
+
+@article{DBLP:journals/sigmod/Bonifati24,
+  author    = {Angela Bonifati},
+  title     = {The Long and Winding Road to {Mid-Career} Academia},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {48-51},
+}
+
+@article{DBLP:journals/sigmod/Li24,
+  author    = {Hui Li},
+  title     = {{Technology-Enabled} Database Education: Challenges {andOpportunities}},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {52-53},
+}
+
+@article{DBLP:journals/sigmod/Ferrari24,
+  author    = {Elena Ferrari},
+  title     = {Technical Perspective: Graph Theory for Data Privacy: A New Approach for Complex Data Flows},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {54},
+}
+
+@article{DBLP:journals/sigmod/BikakisPCPAFFHLMSSS24,
+  author    = {Nikos Bikakis and
+               George Papastefanatos and
+               Panos K. Chrysanthis and
+               Olga Papemmanuil and
+               David Auber and
+               Steffen Frey and
+               Issei Fujishiro and
+               Hanna Hauptmann and
+               Shixia Liu and
+               Kwan-Liu Ma and
+               Tobias Schreck and
+               Michael Sedlmair and
+               Mohamed A. Sharaf},
+  title     = {Visualizing, Exploring and Analyzing Big Data: A 6-Year Story},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {54-57},
+}
+
+@article{DBLP:journals/sigmod/FilipczukGK24,
+  author    = {Dorota Filipczuk and
+               Enrico H. Gerding and
+               George Konstantinidis},
+  title     = {Graph Theory for Consent Management: A New Approach for Complex Data Flows},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {55-63},
+}
+
+@article{DBLP:journals/sigmod/KondylakisSR24,
+  author    = {Haridimos Kondylakis and
+               Kostas Stefanidis and
+               Praveen Rao},
+  title     = {Report on the Fifth International Workshop on Health Data Management in the Era of {AI} ({HeDAI} 2023)},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {58-62},
+}
+
+@article{DBLP:journals/sigmod/AmerYahiaAABBCCCCCAFFIK24,
+  author    = {Sihem Amer-Yahia and
+               Divyakant Agrawal and
+               Yael Amsterdamer and
+               Sourav S. Bhowmick and
+               Renata Borovica-Gajic and
+               Jesús Camacho-Rodríguez and
+               Jinli Cao and
+               Barbara Catania and
+               Panos K. Chrysanthis and
+               Carlo Curino and
+               Amr El Abbadi and
+               Avrilia Floratou and
+               Juliana Freire and
+               Stratos Idreos and
+               Vana Kalogeraki and
+               Sujaya Maiyya and
+               Alexandra Meliou and
+               Madhulika Mohanty and
+               Fatma Özcan and
+               Liat Peterfreund and
+               Soror Sahri and
+               Sana Sellami and
+               Roee Shraga and
+               Utku Sirin and
+               Wang-Chiew Tan and
+               Bhavani Thuraisingham and
+               Yuanyuan Tian and
+               Genoveva Vargas-Solar and
+               Meihui Zhang and
+               Wenjie Zhang},
+  title     = {Diversity, Equity and Inclusion Activities in Database Conferences: A 2023 Report},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {63-67},
+}
+
+@article{DBLP:journals/sigmod/He24,
+  author    = {Xi He},
+  title     = {Technical Perspective: Synthetic Data Needs a Reproducibility Benchmark},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {64},
+}
+
+@article{DBLP:journals/sigmod/RosenblattHHLLMRSHS24,
+  author    = {Lucas Rosenblatt and
+               Bernease Herman and
+               Anastasia Holovenko and
+               Wonkwon Lee and
+               Joshua R. Loftus and
+               Elizabeth McKinnie and
+               Taras Rumezhak and
+               Andrii Stadnik and
+               Bill Howe and
+               Julia Stoyanovich},
+  title     = {Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {65-74},
+}
+
+@article{DBLP:journals/sigmod/BhowmickH24,
+  author    = {Sourav S. Bhowmick and
+               Katja Hose},
+  title     = {Data-driven {PC-chair-in-the-loop} Formation of Program Committees: An {EDBT} 2023 Experience},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {2},
+  year      = 2024,
+  pages     = {68-74},
+}
+
+@article{DBLP:journals/sigmod/Hellerstein24,
+  author    = {Joseph M. Hellerstein},
+  title     = {Learning to Restructure Tables Automatically},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {75},
+}
+
+@article{DBLP:journals/sigmod/LiHYWC24,
+  author    = {Peng Li and
+               Yeye He and
+               Cong Yan and
+               Yue Wang and
+               Surajit Chaudhuri},
+  title     = {Auto-Tables: Relationalize Tables without Using Examples},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {76-85},
+}
+
+@article{DBLP:journals/sigmod/Olteanu24,
+  author    = {Dan Olteanu},
+  title     = {Technical Perspective: A Fresh Look at Stream Computation through {DSP} Glasses},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {86},
+}
+
+@article{DBLP:journals/sigmod/BudiuCMRT24,
+  author    = {Mihai Budiu and
+               Tej Chajed and
+               Frank McSherry and
+               Leonid Ryzhyk and
+               Val Tannen},
+  title     = {DBSP: Incremental Computation on Streams and Its Applications to Databases},
+  journal   = sigmodr,
+  volume    = {53},
+  number    = {1},
+  year      = 2024,
+  pages     = {87-95},
+}
+
 @article{DBLP:journals/sigmod/Salem23,
   author    = {Kenneth Salem},
   title     = {{TECHNICAL} PERSPECTIVE: Ad Hoc Transactions: What They Are and Why We Should Care},
@@ -8,6 +426,43 @@
   number    = {1},
   year      = 2023,
   pages     = {6},
+}
+
+@article{DBLP:journals/sigmod/BertossiKLM23,
+  author    = {Leopoldo E. Bertossi and
+               Benny Kimelfeld and
+               Ester Livshits and
+               Mikaël Monet},
+  title     = {The Shapley Value in Database Management},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {6-17},
+}
+
+@article{DBLP:journals/sigmod/DongY23,
+  author    = {Wei Dong and
+               Ke Yi},
+  title     = {Query Evaluation under Differential Privacy},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {6-17},
+}
+
+@article{DBLP:journals/sigmod/CateFJL23,
+  author    = {Balder ten Cate and
+               Maurice Funk and
+               Jean Christoph Jung and
+               Carsten Lutz},
+  title     = {Fitting Algorithms for Conjunctive Queries},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {4},
+  year      = 2023,
+  pages     = {6-18},
 }
 
 @article{DBLP:journals/sigmod/TangWZYZG023,
@@ -48,6 +503,41 @@
   pages     = {17-25},
 }
 
+@article{DBLP:journals/sigmod/Khan23,
+  author    = {Arijit Khan},
+  title     = {Knowledge Graphs Querying},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {18-29},
+}
+
+@article{DBLP:journals/sigmod/SeufitelliBFSM23,
+  author    = {Danilo B. Seufitelli and
+               Michele A. Brandão and
+               Ayane C. A. Fernandes and
+               Kayque M. Siqueira and
+               Mirella M. Moro},
+  title     = {Where do Databases and Digital Forensics meet? A Comprehensive Survey and Taxonomy},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {18-29},
+}
+
+@article{DBLP:journals/sigmod/SiddiquiW23,
+  author    = {Tarique Siddiqui and
+               Wentao Wu},
+  title     = {{ML-Powered} Index Tuning: An Overview of Recent Progress and Open Challenges},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {4},
+  year      = 2023,
+  pages     = {19-30},
+}
+
 @article{DBLP:journals/sigmod/Binnig23,
   author    = {Carsten Binnig},
   title     = {Technical Perspective for Skeena: Efficient and Consistent {Cross-Engine} Transactions},
@@ -71,6 +561,52 @@
   pages     = {27-34},
 }
 
+@article{DBLP:journals/sigmod/Aboulnaga23,
+  author    = {Ashraf Aboulnaga},
+  title     = {Reminiscences on Influential Papers},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {30-31},
+}
+
+@article{DBLP:journals/sigmod/BeedkarCGKMPQ23,
+  author    = {Kaustubh Beedkar and
+               Bertty Contreras-Rojas and
+               Haralampos Gavriilidis and
+               Zoi Kaoudi and
+               Volker Markl and
+               Rodrigo Pardo-Meza and
+               Jorge-Arnulfo Quiané-Ruiz},
+  title     = {Apache Wayang: A Unified Data Analytics Framework},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {30-35},
+}
+
+@article{DBLP:journals/sigmod/Bhowmick23,
+  author    = {Sourav S. Bhowmick},
+  title     = {Reminiscences on Influential Papers},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {4},
+  year      = 2023,
+  pages     = {31-35},
+}
+
+@article{DBLP:journals/sigmod/Luo23,
+  author    = {Qiong Luo},
+  title     = {{Mid-Career} Academics: What I Have Learned or Wish I Had Known},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {32-35},
+}
+
 @article{DBLP:journals/sigmod/Fekete23,
   author    = {Alan D. Fekete},
   title     = {Technical Perspective: When is it safe to run a transactional workload under Read Committed?},
@@ -79,6 +615,36 @@
   number    = {1},
   year      = 2023,
   pages     = {35},
+}
+
+@article{DBLP:journals/sigmod/Crooks23,
+  author    = {Natacha Crooks},
+  title     = {Efficient Data Sharing across Trust Domains},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {36-37},
+}
+
+@article{DBLP:journals/sigmod/BorovicaGajic23,
+  author    = {Renata Borovica-Gajic},
+  title     = {Reminiscences on Influential Papers},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {36-38},
+}
+
+@article{DBLP:journals/sigmod/Catarci23,
+  author    = {Tiziana Catarci},
+  title     = {Once upon a Time, in a Computer Engineering Department},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {4},
+  year      = 2023,
+  pages     = {36-38},
 }
 
 @article{DBLP:journals/sigmod/VandevoortK0N23,
@@ -92,6 +658,121 @@
   number    = {1},
   year      = 2023,
   pages     = {36-43},
+}
+
+@article{DBLP:journals/sigmod/AmerYahiaAABBBCCCCDDAFFJKMMMOOPR23,
+  author    = {Sihem Amer-Yahia and
+               Divyakant Agrawal and
+               Yael Amsterdamer and
+               Sourav S. Bhowmick and
+               Angela Bonifati and
+               Renata Borovica-Gajic and
+               Jesús Camacho-Rodríguez and
+               Barbara Catania and
+               Panos K. Chrysanthis and
+               Carlo Curino and
+               Jérôme Darmont and
+               Gillian Dobbie and
+               Amr El Abbadi and
+               Avrilia Floratou and
+               Juliana Freire and
+               Alekh Jindal and
+               Vana Kalogeraki and
+               Sujaya Maiyya and
+               Alexandra Meliou and
+               Madhulika Mohanty and
+               Behrooz Omidvar-Tehrani and
+               Fatma Özcan and
+               Liat Peterfreund and
+               Wenny Rahayu and
+               Shazia Sadiq and
+               Sana Sellami and
+               Utku Sirin and
+               Wang-Chiew Tan and
+               Bhavani Thuraisingham and
+               Yuanyuan Tian and
+               Pinar Tözün and
+               Genoveva Vargas-Solar and
+               Neeraja J. Yadwadkar and
+               Victor Zakhary and
+               Meihui Zhang},
+  title     = {Diversity, Equity and Inclusion Activities in Database Conferences: A 2022 Report},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {38-42},
+}
+
+@article{DBLP:journals/sigmod/Salihoglu23,
+  author    = {Semih Salihoglu},
+  title     = {Kùzu: A Database Management System For "Beyond Relational" Workloads},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {39-40},
+}
+
+@article{DBLP:journals/sigmod/Wang23,
+  author    = {Tianzheng Wang},
+  title     = {Future Database Engine Development: You Will Only Need One Programming Language},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {4},
+  year      = 2023,
+  pages     = {39-40},
+}
+
+@article{DBLP:journals/sigmod/MeliouBAABBGLS23,
+  author    = {Alexandra Meliou and
+               Sourav S. Bhowmick and
+               Karl Aberer and
+               Divy Agrawal and
+               Angela Bonifati and
+               Vanessa Braganholo and
+               Floris Geerts and
+               Wolfgang Lehner and
+               Divesh Srivastava},
+  title     = {{Peer-Reviewing} Processes and Incentives: Data Management Community Survey Results},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {4},
+  year      = 2023,
+  pages     = {41-46},
+}
+
+@article{DBLP:journals/sigmod/PoppeCLL23,
+  author    = {Olga Poppe and
+               Pablo Castro and
+               Willis Lang and
+               Jyoti Leeka},
+  title     = {Proactive Resource Allocation Policy for Microsoft Azure Cognitive Search},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {41-48},
+}
+
+@article{DBLP:journals/sigmod/AngelisMPMSZBFCLW23,
+  author    = {Andrea De Angelis and
+               Maurizio Mazzei and
+               Federico Piai and
+               Paolo Merialdo and
+               Giovanni Simonini and
+               Luca Zecchini and
+               Sonia Bergamaschi and
+               Donatella Firmani and
+               Xu Chu and
+               Peng Li and
+               Renzhi Wu},
+  title     = {Experiences and Lessons Learned from the {SIGMOD} Entity Resolution Programming Contests},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {43-47},
 }
 
 @article{DBLP:journals/sigmod/Kraska23,
@@ -116,6 +797,36 @@
   pages     = {45-52},
 }
 
+@article{DBLP:journals/sigmod/MildenbergerBRVS23,
+  author    = {Thoralf Mildenberger and
+               Martin Braschler and
+               Andreas Ruckstuhl and
+               Robert S. Vorburger and
+               Kurt Stockinger},
+  title     = {The Role of Data Scientists in Modern Enterprises - Experience from Data Science Education},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {48-52},
+}
+
+@article{DBLP:journals/sigmod/AmerYahiaBCLSXY23,
+  author    = {Sihem Amer-Yahia and
+               Angela Bonifati and
+               Lei Chen and
+               Guoliang Li and
+               Kyuseok Shim and
+               Jianliang Xu and
+               Xiaochun Yang},
+  title     = {From Large Language Models to Databases and Back: A Discussion on Research and Education},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {3},
+  year      = 2023,
+  pages     = {49-56},
+}
+
 @article{DBLP:journals/sigmod/Vansummeren23,
   author    = {Stijn Vansummeren},
   title     = {Technical Perspective: Conjunctive Queries with Comparisons},
@@ -124,6 +835,16 @@
   number    = {1},
   year      = 2023,
   pages     = {53},
+}
+
+@article{DBLP:journals/sigmod/Olteanu23,
+  author    = {Dan Olteanu},
+  title     = {Report on the Workshop on Factorized Databases},
+  journal   = sigmodr,
+  volume    = {52},
+  number    = {2},
+  year      = 2023,
+  pages     = {53-56},
 }
 
 @article{DBLP:journals/sigmod/0001023,
@@ -5438,7 +6159,7 @@
                Stefan Manegold and
                Matias Bjørling and
                Wei Cao and
-               Javier Gonzalez and
+               Javier González and
                Joel A. Granados and
                Nancy Hall and
                Stratos Idreos and
@@ -19091,7 +19812,7 @@
 }
 
 @article{DBLP:journals/sigmod/Narasimhalua89,
-  author    = {A. Desai Narasimhalu},
+  author    = {Arcot Desai Narasimhalu},
   title     = {Database Group at {ISS}},
   journal   = sigmodr,
   volume    = {18},
@@ -20184,7 +20905,7 @@
 }
 
 @article{DBLP:journals/sigmod/Furtado84,
-  author    = {Antonio L. Furtado},
+  author    = {António L. Furtado},
   title     = {An Informal Approach to Formal Specifications},
   journal   = sigmodr,
   volume    = {14},
@@ -20378,7 +21099,7 @@
 }
 
 @article{DBLP:journals/sigmod/Furtado83,
-  author    = {Antonio L. Furtado},
+  author    = {António L. Furtado},
   title     = {An Informal Approach to Formal Specifications},
   journal   = sigmodr,
   volume    = {13},
@@ -21284,7 +22005,7 @@
 }
 
 @article{DBLP:journals/sigmod/Furtado81,
-  author    = {Antonio L. Furtado},
+  author    = {António L. Furtado},
   title     = {Horizontal Decomposition to Improve a {Non-BCNF} Scheme},
   journal   = sigmodr,
   volume    = {12},

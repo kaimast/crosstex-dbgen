@@ -1,5 +1,143 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/GiallorenzoMP24,
+  author    = {Saverio Giallorenzo and
+               Fabrizio Montesi and
+               Marco Peressotti},
+  title     = {Choral: Object-oriented Choreographic Programming},
+  journal   = toplas,
+  volume    = {46},
+  number    = {1},
+  year      = 2024,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/HaasMYBM24,
+  author    = {Julian Haas and
+               Ragnar Mogk and
+               Elena Yanakieva and
+               Annette Bieniusa and
+               Mira Mezini},
+  title     = {LoRe: A Programming Model for Verifiably Safe Local-first Software},
+  journal   = toplas,
+  volume    = {46},
+  number    = {1},
+  year      = 2024,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/DinHHJPT24,
+  author    = {Crystal Chang Din and
+               Reiner Hähnle and
+               Ludovic Henrio and
+               Einar Broch Johnsen and
+               Violet Ka I Pun and
+               Silvia Lizeth Tapia Tarifa},
+  title     = {Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages},
+  journal   = toplas,
+  volume    = {46},
+  number    = {1},
+  year      = 2024,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/SteinCS24,
+  author    = {Benno Stein and
+               Bor-Yuh Evan Chang and
+               Manu Sridharan},
+  title     = {Interactive Abstract Interpretation with Demanded Summarization},
+  journal   = toplas,
+  volume    = {46},
+  number    = {1},
+  year      = 2024,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/GiacobazziMP24,
+  author    = {Roberto Giacobazzi and
+               Isabella Mastroeni and
+               Elia Perantoni},
+  title     = {Adversities in Abstract Interpretation - Accommodating Robustness by Abstract Interpretation},
+  journal   = toplas,
+  volume    = {46},
+  number    = {2},
+  year      = 2024,
+  pages     = {5},
+}
+
+@article{DBLP:journals/toplas/NougrahiyaN24,
+  author    = {Aman Nougrahiya and
+               V. Krishna Nandivada},
+  title     = {Homeostasis: Design and Implementation of a {Self-Stabilizing} Compiler},
+  journal   = toplas,
+  volume    = {46},
+  number    = {2},
+  year      = 2024,
+  pages     = {6},
+}
+
+@article{DBLP:journals/toplas/SistlaCR24,
+  author    = {Meghana Aparna Sistla and
+               Swarat Chaudhuri and
+               Thomas W. Reps},
+  title     = {CFLOBDDs: {Context-Free-Language} Ordered Binary Decision Diagrams},
+  journal   = toplas,
+  volume    = {46},
+  number    = {2},
+  year      = 2024,
+  pages     = {7},
+}
+
+@article{DBLP:journals/toplas/JiZXWZH24,
+  author    = {Ruyi Ji and
+               Yuwei Zhao and
+               Yingfei Xiong and
+               Di Wang and
+               Lu Zhang and
+               Zhenjiang Hu},
+  title     = {Decomposition-based Synthesis for Applying {Divide-and-Conquer-like} Algorithmic Paradigms},
+  journal   = toplas,
+  volume    = {46},
+  number    = {2},
+  year      = 2024,
+  pages     = {8},
+}
+
+@article{DBLP:journals/toplas/BoerJPT24,
+  author    = {Frank S. de Boer and
+               Einar Broch Johnsen and
+               Violet Ka I Pun and
+               Silvia Lizeth Tapia Tarifa},
+  title     = {Proving Correctness of Parallel Implementations of Transition System Models},
+  journal   = toplas,
+  volume    = {46},
+  number    = {3},
+  year      = 2024,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/Rasch24,
+  author    = {Ari Rasch},
+  title     = {(De/Re)-Composition of {Data-Parallel} Computations via {Multi-Dimensional} Homomorphisms},
+  journal   = toplas,
+  volume    = {46},
+  number    = {3},
+  year      = 2024,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/AscariBG24,
+  author    = {Flavio Ascari and
+               Roberto Bruni and
+               Roberta Gori},
+  title     = {Limits and Difficulties in the Design of {Under-Approximation} Abstract Domains},
+  journal   = toplas,
+  volume    = {46},
+  number    = {3},
+  year      = 2024,
+  pages     = {11-1},
+}
+
 @article{DBLP:journals/toplas/Danvy23,
   author    = {Olivier Danvy},
   title     = {The Tortoise and the Hare Algorithm for Finite Lists, Compositionally},
@@ -167,6 +305,129 @@
   number    = {2},
   year      = 2023,
   pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/ScottJW23,
+  author    = {Elizabeth Scott and
+               Adrian Johnstone and
+               Robert Walsh},
+  title     = {Multiple Input Parsing and Lexical Analysis},
+  journal   = toplas,
+  volume    = {45},
+  number    = {3},
+  year      = 2023,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/toplas/HaselwarterRMWASHMS23,
+  author    = {Philipp G. Haselwarter and
+               Exequiel Rivas and
+               Antoine Van Muylder and
+               Théo Winterhalter and
+               Carmine Abate and
+               Nikolaj Sidorenco and
+               Catalin Hritcu and
+               Kenji Maillard and
+               Bas Spitters},
+  title     = {SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq},
+  journal   = toplas,
+  volume    = {45},
+  number    = {3},
+  year      = 2023,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/toplas/LeeLOY23,
+  author    = {DongKwon Lee and
+               Woosuk Lee and
+               Hakjoo Oh and
+               Kwangkeun Yi},
+  title     = {Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Time-bounded Exhaustive Search},
+  journal   = toplas,
+  volume    = {45},
+  number    = {3},
+  year      = 2023,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/RichterKWSFM23,
+  author    = {David Richter and
+               David Kretzler and
+               Pascal Weisenburger and
+               Guido Salvaneschi and
+               Sebastian Faust and
+               Mira Mezini},
+  title     = {Prisma : A Tierless Language for Enforcing Contract-client Protocols in Decentralized Applications},
+  journal   = toplas,
+  volume    = {45},
+  number    = {3},
+  year      = 2023,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/toplas/HietalaRLHWH23,
+  author    = {Kesha Hietala and
+               Robert Rand and
+               Liyi Li and
+               Shih-Han Hung and
+               Xiaodi Wu and
+               Michael Hicks},
+  title     = {A Verified Optimizer for Quantum Circuits},
+  journal   = toplas,
+  volume    = {45},
+  number    = {3},
+  year      = 2023,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/toplas/ChiariMPP23,
+  author    = {Michele Chiari and
+               Dino Mandrioli and
+               Francesco Pontiggia and
+               Matteo Pradella},
+  title     = {A Model Checker for Operator Precedence Languages},
+  journal   = toplas,
+  volume    = {45},
+  number    = {3},
+  year      = 2023,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/toplas/VukasovicP23,
+  author    = {Maja Vukasovic and
+               Aleksandar Prokopec},
+  title     = {Exploiting Partially Context-sensitive Profiles to Improve Performance of Hot Code},
+  journal   = toplas,
+  volume    = {45},
+  number    = {4},
+  year      = 2023,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/toplas/BoruchGruszeckiOLLB23,
+  author    = {Aleksander Boruch-Gruszecki and
+               Martin Odersky and
+               Edward Lee and
+               Ondrej Lhoták and
+               Jonathan Immanuel Brachthäuser},
+  title     = {Capturing Types},
+  journal   = toplas,
+  volume    = {45},
+  number    = {4},
+  year      = 2023,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/toplas/EconomouKD23,
+  author    = {Dimitrios J. Economou and
+               Neel Krishnaswami and
+               Jana Dunfield},
+  title     = {Focusing on Refinement Typing},
+  journal   = toplas,
+  volume    = {45},
+  number    = {4},
+  year      = 2023,
+  pages     = {22-1},
 }
 
 @article{DBLP:journals/toplas/InversoTFTP22,
@@ -4134,7 +4395,7 @@
                Gavin M. Bierman and
                Peter Sewell and
                Iulian Neamtiu},
-  title     = {Mutatis Mutandis: Safe and predictable dynamic software updating},
+  title     = {Mutatis Mutandis},
   journal   = toplas,
   volume    = {29},
   number    = {4},
@@ -10832,7 +11093,7 @@
 
 @article{DBLP:journals/toplas/BicL87,
   author    = {Lubomir Bic and
-               Craig Lee},
+               Craig A. Lee},
   title     = {A {Data-Driven} Model for a Subset of Logic Programming},
   journal   = toplas,
   volume    = {9},

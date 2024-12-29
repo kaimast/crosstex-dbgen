@@ -1,5 +1,143 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/LuoLYXZYXX24,
+  author    = {Shutian Luo and
+               Chenyu Lin and
+               Kejiang Ye and
+               Guoyao Xu and
+               Liping Zhang and
+               Guodong Yang and
+               Huanle Xu and
+               Cheng-Zhong Xu},
+  title     = {Optimizing Resource Management for Shared Microservices: A Scalable System Design},
+  journal   = tocs,
+  volume    = {42},
+  number    = {1-2},
+  year      = 2024,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/ZhaoCYZQLB24,
+  author    = {Laiping Zhao and
+               Yushuai Cui and
+               Yanan Yang and
+               Xiaobo Zhou and
+               Tie Qiu and
+               Keqiu Li and
+               Yungang Bao},
+  title     = {Component-distinguishable Co-location and Resource Reclamation for High-throughput Computing},
+  journal   = tocs,
+  volume    = {42},
+  number    = {1-2},
+  year      = 2024,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/KappesA24,
+  author    = {Giorgos Kappes and
+               Stergios V. Anastasiadis},
+  title     = {Diciclo: Flexible User-level Services for Efficient Multitenant Isolation},
+  journal   = tocs,
+  volume    = {42},
+  number    = {1-2},
+  year      = 2024,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/ShaLWWL24,
+  author    = {Sai Sha and
+               Chuandong Li and
+               Xiaolin Wang and
+               Zhenlin Wang and
+               Yingwei Luo},
+  title     = {{Hardware-Software} Collaborative {Tiered-Memory} Management Framework for Virtualization},
+  journal   = tocs,
+  volume    = {42},
+  number    = {1-2},
+  year      = 2024,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/AlkhatibUQAAADA23,
+  author    = {Basil Alkhatib and
+               Sreeharsha Udayashankar and
+               Sara Qunaibi and
+               Ahmed Alquraan and
+               Mohammed Alfatafta and
+               Wael Al-Manasrah and
+               Alex Depoutovitch and
+               Samer Al-Kiswany},
+  title     = {Partial Network Partitioning},
+  journal   = tocs,
+  volume    = {41},
+  year      = 2023,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/SheffWBNRM23,
+  author    = {Isaac C. Sheff and
+               Xinwen Wang and
+               Kushal Babel and
+               Haobin Ni and
+               Robbert van Renesse and
+               Andrew C. Myers},
+  title     = {Charlotte: Reformulating Blockchains into a Web of Composable Attested Data Structures for {Cross-Domain} Applications},
+  journal   = tocs,
+  volume    = {41},
+  year      = 2023,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/ParkE23,
+  author    = {Jonggyu Park and
+               Young Ik Eom},
+  title     = {Filesystem Fragmentation on Modern Storage Systems},
+  journal   = tocs,
+  volume    = {41},
+  year      = 2023,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/PellauerCBCJLOPTTKE23,
+  author    = {Michael Pellauer and
+               Jason Clemons and
+               Vignesh Balaji and
+               Neal Clayton Crago and
+               Aamer Jaleel and
+               Donghyuk Lee and
+               Mike O'Connor and
+               Anghsuman Parashar and
+               Sean Treichler and
+               Po-An Tsai and
+               Stephen W. Keckler and
+               Joel S. Emer},
+  title     = {Symphony: Orchestrating Sparse and Dense Tensors with Hierarchical Heterogeneous Processing},
+  journal   = tocs,
+  volume    = {41},
+  year      = 2023,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/ZhaoXDNHYYGZLGJ23,
+  author    = {Jie Zhao and
+               Jinchen Xu and
+               Peng Di and
+               Wang Nie and
+               Jiahui Hu and
+               Yanzhi Yi and
+               Sijia Yang and
+               Zhen Geng and
+               Renwei Zhang and
+               Bojie Li and
+               Zhiliang Gan and
+               Xuefeng Jin},
+  title     = {Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers Using Affine Relations},
+  journal   = tocs,
+  volume    = {41},
+  year      = 2023,
+  pages     = {5-1},
+}
+
 @article{DBLP:journals/tocs/DiavastosC22,
   author    = {Andreas Diavastos and
                Trevor E. Carlson},
@@ -702,7 +840,7 @@
 
 @article{DBLP:journals/tocs/ZhengTQLZY17,
   author    = {Mai Zheng and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Feng Qin and
                Mark Lillibridge and
                Bill W. Zhao and
@@ -2291,7 +2429,7 @@
 
 @article{DBLP:journals/tocs/QinTZS07,
   author    = {Feng Qin and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Yuanyuan Zhou and
                Jagadeesan Sundaresan},
   title     = {Rx: Treating bugs as allergies - a safe method to survive software failures},

@@ -1,5 +1,1488 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigcomm/LiWZWX024,
+  author    = {Xiao Li and
+               Shicheng Wang and
+               Menghao Zhang and
+               Zhiliang Wang and
+               Mingwei Xu and
+               Jiahai Yang},
+  title     = {POSTER: {RDMA} Network Performance Anomalies Diagnosis with Hawkeye},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {1-3},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CaoGQGXDFCZ24,
+  author    = {Jiamin Cao and
+               Yu Guan and
+               Kun Qian and
+               Jiaqi Gao and
+               Wencong Xiao and
+               Jianbo Dong and
+               Binzhang Fu and
+               Dennis Cai and
+               Ennan Zhai},
+  title     = {Crux: {GPU-Efficient} Communication Scheduling for Deep Learning Training},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MarchiLBX24,
+  author    = {Federico De Marchi and
+               Jialong Li and
+               Wei Bai and
+               Yiting Xia},
+  title     = {POSTER: Opportunistic {Credit-Based} Transport for Reconfigurable Data Center Networks with Tidal},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {4-6},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CarisimoWBB24,
+  author    = {Esteban Carisimo and
+               Mia Weaver and
+               Fabián E. Bustamante and
+               Paul Barford},
+  title     = {Poster: Beyond Proximity: Exploring Remote Cloud Peering},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {7-9},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ThiagarajanCB24,
+  author    = {Kedar Thiagarajan and
+               Esteban Carisimo and
+               Fabián E. Bustamante},
+  title     = {POSTER: Revealing Hidden Secrets: Decoding {DNS} {PTR} records with Large Language Models},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {10-12},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RohlRWC24,
+  author    = {Alexander Rohl and
+               Matthew Roughan and
+               Martin White and
+               Alexander Chambers},
+  title     = {POSTER: Packet Field Tree: a hybrid approach, open database and evaluation methodology for Automated Protocol {Reverse-Engineering}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {13-15},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0008L0LY24,
+  author    = {Ziming Zhao and
+               Zhaoxuan Li and
+               Fan Zhang and
+               Tingting Li and
+               Jianwei Yin},
+  title     = {Poster: Combine Topology and Traffic to Calibrate P2P Botnet Identification in {Large-Scale} Network},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {16-18},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuAKZ0CKM24,
+  author    = {Xuting Liu and
+               Behnaz Arzani and
+               Siva Kesava Reddy Kakarla and
+               Liangyu Zhao and
+               Vincent Liu and
+               Miguel Castro and
+               Srikanth Kandula and
+               Luke Marshall},
+  title     = {Rethinking Machine Learning Collective Communication as a {Multi-Commodity} Flow Problem},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {16-37},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DingLNC024,
+  author    = {Wenlong Ding and
+               Jianqiang Li and
+               Zhixiong Niu and
+               Huangxun Chen and
+               Hong Xu},
+  title     = {Poster: Automating Network Configuration with Natural Language Intents},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {19-21},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuLZYSWRY24,
+  author    = {Xinzhe Liu and
+               Yahui Li and
+               Han Zhang and
+               Xia Yin and
+               Xingang Shi and
+               Zhiliang Wang and
+               Gang Ren and
+               Jiangyuan Yao},
+  title     = {Poster: Scalable and Interpretable Multilayer Overlay Network Checking via Ensemble Verification},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {22-24},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AziziONKBG24,
+  author    = {Shayan Azizi and
+               Norihiro Okui and
+               Masataka Nakahara and
+               Ayumu Kubota and
+               Gustavo Batista and
+               Hassan Habibi Gharakheili},
+  title     = {Poster: Understanding and Managing Changes in {IoT} Device Behaviors for Reliable Network Traffic Inference},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {25-27},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DangX024,
+  author    = {Yihan Dang and
+               Ze Xia and
+               Hao Li},
+  title     = {POSTER: Bring {I-Cache} to Light in Data Plane Applications},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {28-30},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Zhang0M24,
+  author    = {Xiao Zhang and
+               Li Xiao and
+               Matt W. Mutka},
+  title     = {POSTER: Holographic Optical Tag enabled Omnidirectional {IoT} Connection},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {31-32},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Pokhrel24,
+  author    = {Shiva Raj Pokhrel},
+  title     = {Poster: Orbital ZTA! Secure Satellite Communication Networks with Zero Trust Architecture},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {33-35},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HaseebGBHDS24,
+  author    = {Muhammad Haseeb and
+               Jinkun Geng and
+               Ulysses Butler and
+               Xiyu Hao and
+               Daniel Duclos-Cavalcanti and
+               Anirudh Sivaraman},
+  title     = {POSTER: Jasper, A Scalable and Fair Multicast for Financial Exchanges in the Cloud},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {36-38},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuLCRHZDY0AMHH24,
+  author    = {Yuhan Liu and
+               Hanchen Li and
+               Yihua Cheng and
+               Siddhant Ray and
+               Yuyang Huang and
+               Qizheng Zhang and
+               Kuntai Du and
+               Jiayi Yao and
+               Shan Lu and
+               Ganesh Ananthanarayanan and
+               Michael Maire and
+               Henry Hoffmann and
+               Ari Holtzman and
+               Junchen Jiang},
+  title     = {CacheGen: {KV} Cache Compression and Streaming for Fast Large Language Model Serving},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {38-56},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DengYZX24,
+  author    = {Haotian Deng and
+               Yuan Yang and
+               Menghao Zhang and
+               Mingwei Xu},
+  title     = {POSTER: CAVER: Enhancing {RDMA} Load Balancing by Hunting {Less-Congested} Paths},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {39-41},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MishraGKBJL24,
+  author    = {Ayush Mishra and
+               Harsh Gondaliya and
+               Lingesh Kumaar and
+               Archit Bhatnagar and
+               Raj Joshi and
+               Ben Leong},
+  title     = {POSTER: Expanding the Design Space for {in-Network} Congestion Control on the Internet},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {42-44},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuoWMY0LXZ24,
+  author    = {Jiahao Guo and
+               Dongxu Wu and
+               Chongxi Ma and
+               Hongfang Yu and
+               Gang Sun and
+               Long Luo and
+               Yanwei Xu and
+               Nicholas Zhang},
+  title     = {Poster: A Hybrid {Virtual-Real} Emulation Platform for Computer Network Education},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {45-47},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MuktaPHPK24,
+  author    = {Rahma Mukta and
+               Shantanu Pal and
+               Michael Hitchens and
+               Hye-Young Paik and
+               Salil S. Kanhere},
+  title     = {Poster: Zero Trust Driven Architecture for {Blockchain-Based} Access Control Delegation},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {48-50},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangFT024,
+  author    = {Junye Zhang and
+               Honglin Fang and
+               Can Tan and
+               Peng Yu},
+  title     = {POSTER: {Hybrid-Granularity} Network Load balancing for Distributed {AI} Model Training},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {51-53},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SchlomerPSM24,
+  author    = {Alexis Schlomer and
+               Adithya Abraham Philip and
+               Justine Sherry and
+               Zili Meng},
+  title     = {POSTER: {User-Controllable} Congestion Mitigation for {Low-Latency} Applications},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {54-56},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SrivastavaS24,
+  author    = {Milind Srivastava and
+               Vyas Sekar},
+  title     = {Poster: Circa: Re-imagining Network Telemetry from an {Approximation-First} Perspective},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {57-59},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GangidiMZBGMPRS24,
+  author    = {Adithya Gangidi and
+               Rui Miao and
+               Shengbao Zheng and
+               Sai Jayesh Bondu and
+               Guilherme Goes and
+               Hany Morsy and
+               Rohit Puri and
+               Mohammad Riftadi and
+               Ashmitha Jeevaraj Shetty and
+               Jingyi Yang and
+               Shuqiang Zhang and
+               Mikel Jimenez Fernandez and
+               Shashidhar Gandham and
+               Hongyi Zeng},
+  title     = {{RDMA} over Ethernet for Distributed Training at Meta Scale},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Wang0ZZGAJT24,
+  author    = {Ruikun Wang and
+               Jiawei Zhang and
+               Qiaolun Zhang and
+               Bojun Zhang and
+               Zhiqun Gu and
+               Aryanaz Attarpour and
+               Yuefeng Ji and
+               Massimo Tornatore},
+  title     = {Poster: Flexible Scheduling of Network and Computing Resources for Distributed {AI} Tasks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {60-62},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ParkM24,
+  author    = {Hyun Hu Park and
+               Zili Meng},
+  title     = {Poster: Controlling {TCP} Socket Queueing Delay},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {63-65},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiM24,
+  author    = {Wei Li and
+               Zili Meng},
+  title     = {Poster: Content-aware Retransmission for Ultra-low-latency Video Streaming},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {66-68},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiZZW24,
+  author    = {Xingyi Li and
+               Yiran Zhang and
+               Hu Zhang and
+               Shangguang Wang},
+  title     = {POSTER: Adaptive Load Balancing with Flow Block for {LLM}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {69-71},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuiWLCGMW24,
+  author    = {Fei Gui and
+               Songtao Wang and
+               Dan Li and
+               Li Chen and
+               Kaihui Gao and
+               Congcong Min and
+               Yi Wang},
+  title     = {RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RoutrayB24,
+  author    = {Kasturi Routray and
+               Padmalochan Bera},
+  title     = {Poster: {Fine-Grained} Access Control with Efficient Range Comparison for Outsourced Data},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {72-74},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhongLLDZC24,
+  author    = {Jianqiang Zhong and
+               Yihong Li and
+               Shuo Liu and
+               Jingpu Duan and
+               Xiaoxi Zhang and
+               Xu Chen},
+  title     = {POSTER: In-network Model Inference for Distributed Systems via Programmable Switches},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {75-77},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MedarangaSKV24,
+  author    = {Pramuka Medaranga and
+               Dhairya Shah and
+               Savitha Viswanadh Kandala and
+               Ambuj Varshney},
+  title     = {POSTER: Simplifying the Networking of Wireless Embedded Systems using a Large Language Model},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {78-80},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangCZXHZ024,
+  author    = {Shiguang Zhang and
+               Jiahao Cao and
+               Menghao Zhang and
+               Mingwei Xu and
+               Wei Han and
+               Yanbin Zhai and
+               Zhiming Zhang},
+  title     = {POSTER: Co4U: Efficient and Robust {HTTP} Message Compression for Edge Computing Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {81-82},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhuXZY0W24,
+  author    = {Zuo Zhu and
+               Ruolin Xing and
+               Yiran Zhang and
+               Chaoxin Yu and
+               Ao Zhou and
+               Shangguang Wang},
+  title     = {POSTER: An {End-to-End} Study on Performance and Reliability of {LEO} {Satellite-Terrestrial} Data Links},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {83-85},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LeiMJL0X24,
+  author    = {Yiming Lei and
+               Federico De Marchi and
+               Raj Joshi and
+               Jialong Li and
+               Balakrishnan Chandrasekaran and
+               Yiting Xia},
+  title     = {DEMO: An Open Research Framework for Optical Data Center Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {86-88},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AlQiamYWA0R0T24,
+  author    = {Abd AlRhman AlQiam and
+               Yuanjun Yao and
+               Zhaodong Wang and
+               Satyajeet Singh Ahuja and
+               Ying Zhang and
+               Sanjay G. Rao and
+               Bruno Ribeiro and
+               Mohit Tawarmalani},
+  title     = {Transferable Neural {WAN} {TE} for Changing Topologies},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {86-102},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0006W0X24,
+  author    = {Chenhao Wu and
+               Youdong Wang and
+               Jun Huang and
+               Guoliang Xing},
+  title     = {Demo: Enabling Efficient Perception Sharing via {Infrastructure-to-Road} Beamforming},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {89-91},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BogahawattaHKST24,
+  author    = {Niruth Bogahawatta and
+               Gerry How and
+               Yasiru Karunanayake and
+               Suranga Seneviratne and
+               Kanchana Thilakarathna and
+               Salil Kahere and
+               Rahat Masood and
+               Aruna Seneviratne},
+  title     = {{DEMO} : Passive Identification of {WiFi} Devices in {Real-Time}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {92-94},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MitsakisBH24,
+  author    = {Nikolaos Mitsakis and
+               Andreas Blenk and
+               Oliver Hohlfeld},
+  title     = {DEMO: P4PLC: How Dynamic {In-Network} Control Enables an Interruption-free Migration of {vPLCs}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {95-97},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LaiZZY24,
+  author    = {Zhongzheng Lai and
+               Chenghao Zhang and
+               Yu Zhang and
+               Dong Yuan},
+  title     = {DEMO: {Real-Time} Simulation of Wireless Signal Propagation for Dynamic Environment Through {GPU-Based} Ray Tracing},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {98-100},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Duan0CW24,
+  author    = {Yingli Duan and
+               Weizhi Meng and
+               Wei-Yang Chiu and
+               Yu Wang},
+  title     = {DEMO: Towards A Novel Ultrasonic Side-channel Attack on Mobile Devices},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {101-103},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MiaoZXYZJBLGHWZ24,
+  author    = {Congcong Miao and
+               Zhizhen Zhong and
+               Yunming Xiao and
+               Feng Yang and
+               Senkuo Zhang and
+               Yinan Jiang and
+               Zizhuo Bai and
+               Chaodong Lu and
+               Jingyi Geng and
+               Zekun He and
+               Yachen Wang and
+               Xianneng Zou and
+               Chuanchuan Yang},
+  title     = {MegaTE: Extending {WAN} Traffic Engineering to Millions of Endpoints in Virtualized Cloud},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {103-116},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MadarasinghaDTS24,
+  author    = {Chamara Madarasingha and
+               Thilini Dahanayaka and
+               Kanchana Thilakarathna and
+               Suranga Seneviratne and
+               Young Choon Lee and
+               Salil S. Kanhere and
+               Aruna Seneviratne and
+               Phil Ridley},
+  title     = {Demo: P4Xtnd: P4 Programmability on Resource Constrained Environments with Extended Network Functionalities},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {104-106},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NguyenFN24,
+  author    = {Nhu Long Nguyen and
+               Nickolas J. G. Falkner and
+               Hung Nguyen},
+  title     = {Demo: Synthesizing Realistic Enterprise Active Directory Attack Graphs with {ADSynth}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {107-109},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Varghese0DAR24,
+  author    = {Manu Jo Varghese and
+               Frank Jiang and
+               Robin Doss and
+               Adnan Anwar and
+               Abdur Rakib},
+  title     = {DEMO: Adaptive Fuzz Testing for Automotive ECUs: A Modular Testbed Approach for Enhanced Vulnerability Detection},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {110-112},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GongHFYDSL24,
+  author    = {Kecheng Gong and
+               Yichen He and
+               Yifan Feng and
+               Hongfang Yu and
+               Jingshan Duan and
+               Jian Sun and
+               Long Luo},
+  title     = {Demo: Klonet-sat: A Comprehensive Platform for Satellite Network Education},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {113-115},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KingNKL24,
+  author    = {Jayden King and
+               Ngoc Nguyen and
+               Isac Kim and
+               Young Choon Lee},
+  title     = {DEMO: The Carbon Conscious Traveller},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {116-118},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuZCW24,
+  author    = {Ximeng Liu and
+               Shizhen Zhao and
+               Yong Cui and
+               Xinbing Wang},
+  title     = {FIGRET: {Fine-Grained} {Robustness-Enhanced} Traffic Engineering},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {117-135},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangKJBJP24,
+  author    = {Shuo Wang and
+               Jonathan Kua and
+               Jiong Jin and
+               Jason But and
+               Prem Prakash Jayaraman and
+               Suresh Palanisamy},
+  title     = {Demo: An {SDN-driven} Active Queue Management Architecture for Assisting {Mission-Critical} Traffic Flows in Industrial Automation Systems},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {119-121},
+}
+
+@inproceedings{DBLP:conf/sigcomm/VogtRCLRPP24,
+  author    = {Francisco Germano Vogt and
+               Fabricio Rodriguez and
+               Filipo Gabert Costa and
+               Marcelo Caggiani Luizelli and
+               Christian Esteve Rothenberg and
+               Gyanesh Patra and
+               Gergely Pongrácz},
+  title     = {DEMO: P4 Replay (P4R): Reproducing Packet Traces and Stateful Connections at {Line-Rate} on Your P4-capable Hardware},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {122-124},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PandeyAVZ24,
+  author    = {Ayush Pandey and
+               Rohail Asim and
+               Matteo Varvello and
+               Yasir Zaki},
+  title     = {Demo: Connecting the Unconnected Using {FM} Radio},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {125-126},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PandeyAVSZ24,
+  author    = {Ayush Pandey and
+               Rohail Asim and
+               Matteo Varvello and
+               Lakshmi Subramanian and
+               Yasir Zaki},
+  title     = {Demo: Towards Faster Web in Developing Regions},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {127-129},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AsimBSZ24,
+  author    = {Rohail Asim and
+               Ankit Bhardwaj and
+               Lakshmi Subramanian and
+               Yasir Zaki},
+  title     = {Demo: Enabling High Bandwidth Applications over 5G Environments},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {130-131},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MishraRJL24,
+  author    = {Ayush Mishra and
+               Lakshay Rastogi and
+               Raj Joshi and
+               Ben Leong},
+  title     = {Keeping an Eye on Congestion Control in the Wild with Nebby},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {136-150},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Arghavani0EA24,
+  author    = {Mahdi Arghavani and
+               Haibo Zhang and
+               David M. Eyers and
+               Abbas Arghavani},
+  title     = {SUSS: Improving {TCP} Performance by Speeding Up {Slow-Start}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {151-165},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BrownAC0ABFKKSS24,
+  author    = {Lloyd Brown and
+               Albert Gran Alcoz and
+               Frank Cangialosi and
+               Akshay Narayan and
+               Mohammad Alizadeh and
+               Hari Balakrishnan and
+               Eric J. Friedman and
+               Ethan Katz-Bassett and
+               Arvind Krishnamurthy and
+               Michael Schapira and
+               Scott Shenker},
+  title     = {Principles for Internet Congestion Management},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {166-180},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WarePHKSS24,
+  author    = {Ranysha Ware and
+               Adithya Abraham Philip and
+               Nicholas Hungria and
+               Yash Kothari and
+               Justine Sherry and
+               Srinivasan Seshan},
+  title     = {CCAnalyzer: An Efficient and {Nearly-Passive} Congestion Control Classifier},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {181-196},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangZG24,
+  author    = {Dan Wang and
+               Peng Zhang and
+               Aaron Gember-Jacobson},
+  title     = {Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {197-212},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XuYKKM0Z24,
+  author    = {Xieyang Xu and
+               Yifei Yuan and
+               Zachary Kincaid and
+               Arvind Krishnamurthy and
+               Ratul Mahajan and
+               David Walker and
+               Ennan Zhai},
+  title     = {Relational Network Verification},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {213-227},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiYY0YYGMZXCZ24,
+  author    = {Ruihan Li and
+               Yifei Yuan and
+               Fangdan Ye and
+               Mengqi Liu and
+               Ruizhen Yang and
+               Yang Yu and
+               Tianchen Guo and
+               Qing Ma and
+               Xianlong Zeng and
+               Chenren Xu and
+               Dennis Cai and
+               Ennan Zhai},
+  title     = {A General and Efficient Approach to Verifying Traffic Load Properties under Arbitrary k Failures},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {228-243},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NamjoshiGS24,
+  author    = {Kedar S. Namjoshi and
+               Sougol Gheissi and
+               Krishan K. Sabnani},
+  title     = {Algorithms for In-Place, Consistent Network Update},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {244-257},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DingLY0XSZC24,
+  author    = {Rui Ding and
+               Xunpeng Liu and
+               Shibo Yang and
+               Qun Huang and
+               Baoshu Xie and
+               Ronghua Sun and
+               Zhi Zhang and
+               Bolong Cui},
+  title     = {RD-Probe: Scalable Monitoring With Sufficient Coverage In Complex Datacenter Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {258-273},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhengHH000DC24,
+  author    = {Hao Zheng and
+               Chengyuan Huang and
+               Xiangyu Han and
+               Jiaqi Zheng and
+               Xiaoliang Wang and
+               Chen Tian and
+               Wanchun Dou and
+               Guihai Chen},
+  title     = {μMon: Empowering Microsecond-level Network Monitoring with Wavelets},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {274-290},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenXL000HZ0024,
+  author    = {Xiang Chen and
+               Qingjiang Xiao and
+               Hongyan Liu and
+               Qun Huang and
+               Dong Zhang and
+               Xuan Liu and
+               Longbing Hu and
+               Haifeng Zhou and
+               Chunming Wu and
+               Kui Ren},
+  title     = {Eagle: Toward Scalable and {Near-Optimal} {Network-Wide} Sketch Deployment in Network Measurement},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {291-310},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GigisHV24,
+  author    = {Petros Gigis and
+               Mark James Handley and
+               Stefano Vissicchio},
+  title     = {Bad Packets Come Back, Worse Ones Don't},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {311-326},
+}
+
+@inproceedings{DBLP:conf/sigcomm/OkuboJWBS24,
+  author    = {Ryu Okubo and
+               Luke Jacobs and
+               Jinhua Wang and
+               Steven M. Bowers and
+               Elahe Soltanaghai},
+  title     = {Integrated Two-way Radar Backscatter Communication and Sensing with Low-power {IoT} Tags},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {327-339},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0009HSZDHFJLR0Z24,
+  author    = {Wei Ye and
+               Xinyue Hu and
+               Steven Sleder and
+               Anlan Zhang and
+               Udhaya Kumar Dayalan and
+               Ahmad Hassan and
+               Rostand A. K. Fezeu and
+               Akshay Jajoo and
+               Myungjin Lee and
+               Eman Ramadan and
+               Feng Qian and
+               Zhi-Li Zhang},
+  title     = {Dissecting Carrier Aggregation in 5G Networks: Measurement, {QoE} Implications and Prediction},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {340-357},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FezeuFRCFB0W0Z24,
+  author    = {Rostand A. K. Fezeu and
+               Claudio Fiandrino and
+               Eman Ramadan and
+               Jason Carpenter and
+               Lilian Coelho de Freitas and
+               Faaiq Bilal and
+               Wei Ye and
+               Joerg Widmer and
+               Feng Qian and
+               Zhi-Li Zhang},
+  title     = {Unveiling the 5G {Mid-Band} Landscape: From Network Deployment to Performance and Application {QoE}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {358-372},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0011SDJSH24,
+  author    = {Matthew Johnson and
+               Sudheesh Singanamalla and
+               Nick Durand and
+               Esther Han Beol Jang and
+               Spencer Sevilla and
+               Kurtis Heimerl},
+  title     = {dAuth: A Resilient Authentication Architecture for Federated Private Cellular Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {373-391},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MelletteFASPP24,
+  author    = {William M. Mellette and
+               Alex Forencich and
+               Rukshani Athapathu and
+               Alex C. Snoeren and
+               George Papen and
+               George Porter},
+  title     = {Realizing RotorNet: Toward Practical Microsecond Scale Optical Networking},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {392-414},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0005SCWL0Z024,
+  author    = {Cong Liang and
+               Xiangli Song and
+               Jing Cheng and
+               Mowei Wang and
+               Yashe Liu and
+               Zhenhua Liu and
+               Shizhen Zhao and
+               Yong Cui},
+  title     = {NegotiaToR: Towards A Simple Yet Effective On-demand Reconfigurable Datacenter Network},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {415-432},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiGMGLBX24,
+  author    = {Jialong Li and
+               Haotian Gong and
+               Federico De Marchi and
+               Aoyu Gong and
+               Yiming Lei and
+               Wei Bai and
+               Yiting Xia},
+  title     = {{Uniform-Cost} {Multi-Path} Routing for Reconfigurable Data Center Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {433-448},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AmirSWKSW24,
+  author    = {Daniel Amir and
+               Nitika Saran and
+               Tegan Wilson and
+               Robert Kleinberg and
+               Vishal Shrivastav and
+               Hakim Weatherspoon},
+  title     = {Shale: A Practical, Scalable Oblivious Reconfigurable Network},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {449-464},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangMXCL24,
+  author    = {Yuejie Wang and
+               Qiutong Men and
+               Yao Xiao and
+               Yongting Chen and
+               Guyue Liu},
+  title     = {ConfMask: Enabling {Privacy-Preserving} Configuration Sharing via Anonymization},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {465-483},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MandaSKZZPBGN24,
+  author    = {Haarika Manda and
+               Varshika Srinivasavaradhan and
+               Laasya Koduru and
+               Kevin Zhang and
+               Xuanhe Zhou and
+               Udit Paul and
+               Elizabeth M. Belding and
+               Arpit Gupta and
+               Tejas N. Narechania},
+  title     = {The Efficacy of the Connect America Fund in Addressing {US} Internet Access Inequities},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {484-505},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PhilipAWMSSMSS24,
+  author    = {Adithya Abraham Philip and
+               Rukshani Athapathu and
+               Ranysha Ware and
+               Fabian Francis Mkocheko and
+               Alexis Schlomer and
+               Mengrou Shou and
+               Zili Meng and
+               Srinivasan Seshan and
+               Justine Sherry},
+  title     = {Prudentia: Findings of an Internet Fairness Watchdog},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {506-520},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CarisimoKWKB24,
+  author    = {Esteban Carisimo and
+               Rashna Kumar and
+               Caleb J. Wang and
+               Santiago Klein and
+               Fabián E. Bustamante},
+  title     = {Ten years of the Venezuelan crisis - An Internet perspective},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {521-539},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JiaYPZLLLHWZZC024,
+  author    = {Xuya Jia and
+               Zhiyi Yao and
+               Chao Peng and
+               Zihao Zhao and
+               Bin Lei and
+               Edison Liu and
+               Xiang Li and
+               Zekun He and
+               Yachen Wang and
+               Xianneng Zou and
+               Chongqing Zhao and
+               Jinhui Chu and
+               Jilong Wang and
+               Congcong Miao},
+  title     = {Turbo: Efficient Communication Framework for Large-scale Data Processing Cluster},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {540-553},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0004JZGZBDLZWSX24,
+  author    = {Kefei Liu and
+               Zhuo Jiang and
+               Jiao Zhang and
+               Shixian Guo and
+               Xuan Zhang and
+               Yangyang Bai and
+               Yongbin Dong and
+               Feng Luo and
+               Zhang Zhang and
+               Lei Wang and
+               Xiang Shi and
+               Haohan Xu and
+               Yang Bai and
+               Dongyang Song and
+               Haoran Wei and
+               Bo Li and
+               Yongchen Pan and
+               Tian Pan and
+               Tao Huang},
+  title     = {R-Pingmesh: A {Service-Aware} {RoCE} Network Monitoring and Diagnostic System},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {554-567},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0007WLSXWN0024,
+  author    = {Zilong Wang and
+               Xinchen Wan and
+               Luyang Li and
+               Yijun Sun and
+               Peng Xie and
+               Xin Wei and
+               Qingsong Ning and
+               Junxue Zhang and
+               Kai Chen},
+  title     = {Fast, Scalable, and Accurate Rate Limiter for {RDMA} {NICs}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {568-580},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Vuppalapati0SKK24,
+  author    = {Midhul Vuppalapati and
+               Saksham Agarwal and
+               Henry Schuh and
+               Baris Kasikci and
+               Arvind Krishnamurthy and
+               Rachit Agarwal},
+  title     = {Understanding the Host Network},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {581-594},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YangGA24,
+  author    = {Lei Yang and
+               Yossi Gilad and
+               Mohammad Alizadeh},
+  title     = {Practical Rateless Set Reconciliation},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {595-612},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenLCADHWS24,
+  author    = {Tianyu Chen and
+               Yiheng Lin and
+               Nicolas Christianson and
+               Zahaib Akhtar and
+               Sharath Dharmaji and
+               Mohammad Hajiesmaili and
+               Adam Wierman and
+               Ramesh K. Sitaraman},
+  title     = {SODA: An Adaptive Bitrate Controller for Consistent {High-Quality} Video Streaming},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {613-644},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BrownMBASKMKKMN24,
+  author    = {Lloyd Brown and
+               Emily Marx and
+               Dev Bali and
+               Emmanuel Amaro and
+               Debnil Sur and
+               Ezra Kissel and
+               Inder Monga and
+               Ethan Katz-Bassett and
+               Arvind Krishnamurthy and
+               James Murphy McCauley and
+               Tejas Narechania and
+               Aurojit Panda and
+               Scott Shenker},
+  title     = {An Architecture For Edge Networking Services},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {645-660},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuWQ0JC024,
+  author    = {Duo Wu and
+               Xianda Wang and
+               Yaqi Qiao and
+               Zhi Wang and
+               Junchen Jiang and
+               Shuguang Cui and
+               Fangxin Wang},
+  title     = {NetLLM: Adapting Large Language Models for Networking},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {661-678},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuX0WZLZ24,
+  author    = {Yongji Wu and
+               Yechen Xu and
+               Jingrong Chen and
+               Zhaodong Wang and
+               Ying Zhang and
+               Matthew Lentz and
+               Danyang Zhuo},
+  title     = {MCCS: A Service-based Approach to Collective Communication for {Multi-Tenant} Cloud},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {679-690},
+}
+
+@inproceedings{DBLP:conf/sigcomm/QianXCGXGFSZMWW24,
+  author    = {Kun Qian and
+               Yongqing Xi and
+               Jiamin Cao and
+               Jiaqi Gao and
+               Yichi Xu and
+               Yu Guan and
+               Binzhang Fu and
+               Xuemei Shi and
+               Fangbo Zhu and
+               Rui Miao and
+               Chao Wang and
+               Peng Wang and
+               Pengcheng Zhang and
+               Xianlong Zeng and
+               Eddie Ruan and
+               Zhiping Yao and
+               Ennan Zhai and
+               Dennis Cai},
+  title     = {Alibaba HPN: A Data Center Network for Large Language Model Training},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {691-706},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LimYJH24,
+  author    = {Hwijoon Lim and
+               Juncheol Ye and
+               Sangeetha Abdu Jyothi and
+               Dongsu Han},
+  title     = {Accelerating Model Training in Multi-cluster Environments with Consumer-grade {GPUs}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {707-720},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BensonKGMAMLDKS24,
+  author    = {Theophilus A. Benson and
+               Prashanth Kannan and
+               Prankur Gupta and
+               Balasubramanian Madhavan and
+               Kumar Saurabh Arora and
+               Jie Meng and
+               Martin Lau and
+               Abhishek Dhamija and
+               Rajiv Krishnamurthy and
+               Srikanth Sundaresan and
+               Neil Spring and
+               Ying Zhang},
+  title     = {NetEdit: An Orchestration Platform for {eBPF} Network Functions at Scale},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {721-734},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZenoCS24,
+  author    = {Lior Zeno and
+               Ang Chen and
+               Mark Silberstein},
+  title     = {{In-Network} Address Caching for Virtual Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {735-749},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiJYCWWXLYWGCQD24,
+  author    = {Xing Li and
+               Xiaochong Jiang and
+               Ye Yang and
+               Lilong Chen and
+               Yi Wang and
+               Chao Wang and
+               Chao Xu and
+               Yilong Lv and
+               Bowen Yang and
+               Taotao Wu and
+               Haifeng Gao and
+               Zikang Chen and
+               Yisong Qiao and
+               Hongwei Ding and
+               Yijian Dong and
+               Hang Yang and
+               Jianming Song and
+               Jianyuan Lu and
+               Pengyu Zhang and
+               Chengkun Wei and
+               Zihui Zhang and
+               Wenzhi Chen and
+               Qinming He and
+               Shunmin Zhu},
+  title     = {Triton: A Flexible Hardware Offloading Architecture for Accelerating Apsara {vSwitch} in Alibaba Cloud},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {750-763},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GongRGA24,
+  author    = {Fengchen Gong and
+               Divya Raghunathan and
+               Aarti Gupta and
+               Maria Apostolaki},
+  title     = {Zoom2Net: Constrained Network Telemetry Imputation},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {764-777},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MehnerRPH24,
+  author    = {Stefan Mehner and
+               Helge Reelfs and
+               Ingmar Poese and
+               Oliver Hohlfeld},
+  title     = {IPD: Detecting Traffic Ingress Points at {ISPs}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {778-793},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AlfroyHKcP24,
+  author    = {Thomas Alfroy and
+               Thomas Holterbach and
+               Thomas Krenc and
+               kc claffy and
+               Cristel Pelsser},
+  title     = {The Next Generation of {BGP} Data Collection Platforms},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {794-812},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiNZNGAA24,
+  author    = {Chenning Li and
+               Arash Nasr-Esfahany and
+               Kevin Zhao and
+               Kimia Noorbakhsh and
+               Prateesh Goyal and
+               Mohammad Alizadeh and
+               Thomas E. Anderson},
+  title     = {m3: Accurate {Flow-Level} Performance Estimation using Machine Learning},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {813-827},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AshokHGM0S24,
+  author    = {Sachin Ashok and
+               Vipul Harsh and
+               Brighten Godfrey and
+               Radhika Mittal and
+               Srinivasan Parthasarathy and
+               Larisa Shwartz},
+  title     = {TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {828-842},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenQCLWZSLWZLL24,
+  author    = {Qiong Chen and
+               Jianmin Qian and
+               Yulin Che and
+               Ziqi Lin and
+               Jianfeng Wang and
+               Jie Zhou and
+               Licheng Song and
+               Yi Liang and
+               Jie Wu and
+               Wei Zheng and
+               Wei Liu and
+               Linfeng Li and
+               Fangming Liu and
+               Kun Tan},
+  title     = {YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {843-859},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SongSL0ZLZWWGLF24,
+  author    = {Enge Song and
+               Yang Song and
+               Chengyun Lu and
+               Tian Pan and
+               Shaokai Zhang and
+               Jianyuan Lu and
+               Jiangu Zhao and
+               Xining Wang and
+               Xiaomin Wu and
+               Minglan Gao and
+               Zongquan Li and
+               Ziyang Fang and
+               Biao Lyu and
+               Pengyu Zhang and
+               Rong Wen and
+               Li Yi and
+               Zhigang Zong and
+               Shunmin Zhu},
+  title     = {Canal Mesh: A {Cloud-Scale} {Sidecar-Free} {Multi-Tenant} Service Mesh Architecture},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {860-875},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ParkPJLYH24,
+  author    = {Jinwoo Park and
+               Jaehyeong Park and
+               Youngmok Jung and
+               Hwijoon Lim and
+               Hyunho Yeo and
+               Dongsu Han},
+  title     = {TopFull: An Adaptive {Top-Down} Overload Control for {SLO-Oriented} Microservices},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {876-890},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LarischTAWAF24,
+  author    = {James Larisch and
+               Timothy Alberdingk Thijm and
+               Suleman Ahmad and
+               Peter Wu and
+               Tom Arnfeld and
+               Marwan Fayed},
+  title     = {Topaz: Declarative and Verifiable Authoritative {DNS} at {CDN-Scale}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {891-903},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenFL0ZYX0L24,
+  author    = {Zhikang Chen and
+               Yong Feng and
+               Shuxin Liu and
+               Haoyu Song and
+               Hanyi Zhou and
+               Tong Yun and
+               Wenquan Xu and
+               Tian Pan and
+               Bin Liu},
+  title     = {OptimusPrime: Unleash Dataplane Programmability through a Transformable Architecture},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {904-920},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YangHZSCL24,
+  author    = {Yifan Yang and
+               Lin He and
+               Jiasheng Zhou and
+               Xiaoyi Shi and
+               Jiamin Cao and
+               Ying Liu},
+  title     = {P4runpro: Enabling Runtime Programmability for {RMT} Programmable Switches},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {921-937},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KrentselSKMNRAS24,
+  author    = {Alexander Krentsel and
+               Nitika Saran and
+               Bikash Koley and
+               Subhasree Mandal and
+               Ashok Narayanan and
+               Sylvia Ratnasamy and
+               Ali Al-Shabibi and
+               Anees Shaikh and
+               Rob Shakir and
+               Ankit Singla and
+               Hakim Weatherspoon},
+  title     = {A Decentralized {SDN} Architecture for the {WAN}},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {938-953},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SuoP0PLLHHL24,
+  author    = {Lide Suo and
+               Yiren Pang and
+               Wenxin Li and
+               Renjie Pei and
+               Keqiu Li and
+               Xiulong Liu and
+               Xin He and
+               Yitao Hu and
+               Guyue Liu},
+  title     = {PPT: A Pragmatic Transport for Datacenters},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {954-969},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PapayPRSSWZ24,
+  author    = {Ladislav Pápay and
+               Jan Pustelnik and
+               Krzysztof Rzadca and
+               Beata Strack and
+               Pawel Stradomski and
+               Bartlomiej Wolowiec and
+               Michal Zasadzinski},
+  title     = {An exabyte a day: throughput-oriented, large scale, managed data transfers with Effingo},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {970-982},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangCYSMWCFFSL24,
+  author    = {Zhiyu Zhang and
+               Shili Chen and
+               Ruyi Yao and
+               Ruoshi Sun and
+               Hao Mei and
+               Hao Wang and
+               Zixuan Chen and
+               Gaojian Fang and
+               Yibo Fan and
+               Wanxin Shi and
+               Sen Liu and
+               Yang Xu},
+  title     = {vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in {High-Speed} Networks},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {983-999},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TahirGMEM24,
+  author    = {Ammar Tahir and
+               Prateesh Goyal and
+               Ilias Marinos and
+               Mike Evans and
+               Radhika Mittal},
+  title     = {Efficient {Policy-Rich} Rate Enforcement with Phantom Queues},
+  booktitle = sigcomm,
+  year      = 2024,
+  pages     = {1000-1013},
+}
+
 @inproceedings{DBLP:conf/sigcomm/LiGWY23,
   author    = {Zhouyu Li and
                Huayue Gu and
@@ -23,6 +1506,42 @@
   pages     = {1-7},
 }
 
+@inproceedings{DBLP:conf/sigcomm/LiuWWWC023,
+  author    = {Junhua Liu and
+               Yuanyuan Wang and
+               Yan Wang and
+               Yufeng Wang and
+               Shuguang Cui and
+               Fangxin Wang},
+  title     = {Mobile Volumetric Video Streaming System through Implicit Neural Representation},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Tusa0R23,
+  author    = {Francesco Tusa and
+               David Griffin and
+               Miguel Rio},
+  title     = {Homomorphic Routing: Private Data Forwarding in the Internet},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/sigcomm/EidRAWAA23,
+  author    = {Aline Eid and
+               Jack Rademacher and
+               Waleed Akbar and
+               Purui Wang and
+               Ahmed Allam and
+               Fadel Adib},
+  title     = {Enabling {Long-Range} Underwater Backscatter via Van Atta Acoustic Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1-19},
+}
+
 @inproceedings{DBLP:conf/sigcomm/BuckleyCO0SE23,
   author    = {Anita Buckley and
                Pavel Chuprikov and
@@ -36,6 +1555,19 @@
   pages     = {7-12},
 }
 
+@inproceedings{DBLP:conf/sigcomm/ThomasFPXVP23,
+  author    = {Yannis Thomas and
+               Nikos Fotiou and
+               Iakovos Pittaras and
+               George Xylomenos and
+               Spyros Voulgaris and
+               George C. Polyzos},
+  title     = {Peer Clustering for the {InterPlanetary} File System},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {8-14},
+}
+
 @inproceedings{DBLP:conf/sigcomm/WustrichSBKGPC23,
   author    = {Lars Wüstrich and
                Markus Schacherbauer and
@@ -45,6 +1577,17 @@
                Marc-Oliver Pahl and
                Georg Carle},
   title     = {Network Profiles for Detecting {Application-Characteristic} Behavior Using Linux {eBPF}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {8-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangLOC23,
+  author    = {Xuechen Zhang and
+               Zheng Li and
+               Samet Oymak and
+               Jiasi Chen},
+  title     = {Text-to-3D Generative {AI} on Mobile Devices: Measurements and Optimizations},
   booktitle = sigcomm,
   year      = 2023,
   pages     = {8-14},
@@ -73,6 +1616,30 @@
   pages     = {15-20},
 }
 
+@inproceedings{DBLP:conf/sigcomm/LiCZZAFM23,
+  author    = {Hanchen Li and
+               Yihua Cheng and
+               Ziyi Zhang and
+               Qizheng Zhang and
+               Anton Arapin and
+               Nick Feamster and
+               Amrita Mazumdar},
+  title     = {Optimizing {Real-Time} Video Experience with Data Scalable Codec},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {15-21},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0003LS23,
+  author    = {Peter Willis and
+               Miaoxin Li and
+               Nirmala Shenoy},
+  title     = {Performance of Meshed Tree Protocol in Data Center Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {15-22},
+}
+
 @inproceedings{DBLP:conf/sigcomm/KenemerCFCB23,
   author    = {Keith Kenemer and
                Michelle Chalupnik and
@@ -85,6 +1652,17 @@
   pages     = {19-24},
 }
 
+@inproceedings{DBLP:conf/sigcomm/WuH0X23,
+  author    = {Chenhao Wu and
+               Xuan Huang and
+               Jun Huang and
+               Guoliang Xing},
+  title     = {Enabling Ubiquitous {WiFi} Sensing with Beamforming Reports},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {20-32},
+}
+
 @inproceedings{DBLP:conf/sigcomm/SommersRD23,
   author    = {Joel Sommers and
                Nolan Rudolph and
@@ -93,6 +1671,24 @@
   booktitle = sigcomm,
   year      = 2023,
   pages     = {21-27},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Guo23,
+  author    = {Tian Guo},
+  title     = {{Resource-Efficient} and {Privacy-Preserving} Edge for Augmented Reality},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {22-27},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Iordache-SicaKK23,
+  author    = {Mircea M. Iordache-Sica and
+               Tula Kraiser and
+               Olufemi Komolafe},
+  title     = {Seamless {Hardware-Accelerated} Kubernetes Networking},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {23-28},
 }
 
 @inproceedings{DBLP:conf/sigcomm/TeramotoHSMN23,
@@ -107,6 +1703,17 @@
   pages     = {25-30},
 }
 
+@inproceedings{DBLP:conf/sigcomm/PanZLY23,
+  author    = {Zipeng Pan and
+               Yuan Zhang and
+               Tao Lin and
+               Jinyao Yan},
+  title     = {LiveAE: Attention-based and Edge-assisted Viewport Prediction for Live 360° Video Streaming},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {28-33},
+}
+
 @inproceedings{DBLP:conf/sigcomm/Wang0C23,
   author    = {Yutian Wang and
                Dan Li and
@@ -117,16 +1724,58 @@
   pages     = {28-34},
 }
 
+@inproceedings{DBLP:conf/sigcomm/GuzmanTO23,
+  author    = {David Guzman and
+               Dirk Trossen and
+               Jörg Ott},
+  title     = {If Iterative Diffusion Is The Answer, What Was The Question?},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {29-34},
+}
+
 @inproceedings{DBLP:conf/sigcomm/MongaSKHW23,
   author    = {Inder Monga and
                Erhan Saglamyurek and
                Ezra Kissel and
-               Hartmut Haffner and
+               Hartmut Häffner and
                Wenji Wu},
   title     = {QUANT-NET: A testbed for quantum networking research over deployed fiber},
   booktitle = sigcomm,
   year      = 2023,
   pages     = {31-37},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenCG23,
+  author    = {Tuochao Chen and
+               Justin Chan and
+               Shyamnath Gollakota},
+  title     = {Underwater 3D positioning on smart devices},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {33-48},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuoWGHK23,
+  author    = {Yuting Guo and
+               Sizhe Wang and
+               Moinak Ghoshal and
+               Y. Charlie Hu and
+               Dimitrios Koutsonikolas},
+  title     = {The Power of Asynchronous {SLAM} in {Multi-User} {AR} over Cellular Networks: A Measurement Study},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {34-40},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhengRZ23,
+  author    = {Changgang Zheng and
+               Benjamin Rienecker and
+               Noa Zilberman},
+  title     = {QCMP: Load Balancing via {In-Network} Reinforcement Learning},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {35-40},
 }
 
 @inproceedings{DBLP:conf/sigcomm/DejaeghereGPR23,
@@ -150,6 +1799,20 @@
   pages     = {38-44},
 }
 
+@inproceedings{DBLP:conf/sigcomm/KulkarniDACASF23,
+  author    = {Umakant Kulkarni and
+               Khaled Diab and
+               Shivang Aggarwal and
+               Lianjie Cao and
+               Faraz Ahmed and
+               Puneet Sharma and
+               Sonia Fahmy},
+  title     = {Understanding the Impact of {Wi-Fi} Configuration on Volumetric Video Streaming Applications},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {41-47},
+}
+
 @inproceedings{DBLP:conf/sigcomm/LimHP23,
   author    = {Soo-Yee Lim and
                Xueyuan Han and
@@ -170,6 +1833,17 @@
   pages     = {45-50},
 }
 
+@inproceedings{DBLP:conf/sigcomm/ZhuS0023,
+  author    = {Mufeng Zhu and
+               Yang Sui and
+               Bo Yuan and
+               Yao Liu},
+  title     = {Learning-based Homography Matrix Optimization for Dual-fisheye Video Stitching},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {48-53},
+}
+
 @inproceedings{DBLP:conf/sigcomm/SahuW23,
   author    = {Raj Sahu and
                Dan Williams},
@@ -177,6 +1851,17 @@
   booktitle = sigcomm,
   year      = 2023,
   pages     = {49-55},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Lu0RA23,
+  author    = {Haofan Lu and
+               Mohammad Mazaheri and
+               Reza Rezvani and
+               Omid Abari},
+  title     = {A Millimeter Wave Backscatter Network for {Two-Way} Communication and Localization},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {49-61},
 }
 
 @inproceedings{DBLP:conf/sigcomm/Mao0023,
@@ -187,6 +1872,18 @@
   booktitle = sigcomm,
   year      = 2023,
   pages     = {51-56},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Yu0HS023,
+  author    = {Qian Yu and
+               Qing Li and
+               Rui He and
+               Wanxin Shi and
+               Yong Jiang},
+  title     = {RTCSR: Zero-latency Aware Super-resolution for {WebRTC} Mobile Video Streaming},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {54-59},
 }
 
 @inproceedings{DBLP:conf/sigcomm/HeLZW23,
@@ -218,6 +1915,17 @@
   pages     = {62-66},
 }
 
+@inproceedings{DBLP:conf/sigcomm/WangOAK23,
+  author    = {Jiaming Wang and
+               Sevda Ögüt and
+               Haitham Al-Hassanieh and
+               Bhuvana Krishnaswamy},
+  title     = {Towards Practical and Scalable Molecular Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {62-76},
+}
+
 @inproceedings{DBLP:conf/sigcomm/CraunOW23,
   author    = {Milo Craun and
                Adam Oswald and
@@ -245,6 +1953,17 @@
   booktitle = sigcomm,
   year      = 2023,
   pages     = {77-83},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SchneiderSVV23,
+  author    = {Tibor Schneider and
+               Roland Schmid and
+               Stefano Vissicchio and
+               Laurent Vanbever},
+  title     = {Taming the transient while reconfiguring {BGP}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {77-93},
 }
 
 @inproceedings{DBLP:conf/sigcomm/JiaL0WJ23,
@@ -280,6 +1999,1416 @@
   booktitle = sigcomm,
   year      = 2023,
   pages     = {89-91},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TangBBJPMV23,
+  author    = {Alan Tang and
+               Ryan Beckett and
+               Steven Benaloh and
+               Karthick Jayaraman and
+               Tejas Patil and
+               Todd D. Millstein and
+               George Varghese},
+  title     = {Lightyear: Using Modularity to Scale {BGP} Control Plane Verification},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {94-107},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MiaoXCDZ0BKW23,
+  author    = {Congcong Miao and
+               Yunming Xiao and
+               Marco Canini and
+               Ruiqiang Dai and
+               Shengli Zheng and
+               Jilong Wang and
+               Jiwu Bu and
+               Aleksandar Kuzmanovic and
+               Yachen Wang},
+  title     = {TENSOR: Lightweight {BGP} {Non-Stop} Routing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {108-121},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BrownFHHMM23,
+  author    = {Matt Brown and
+               Ari Fogel and
+               Daniel Halperin and
+               Victor Heorhiadi and
+               Ratul Mahajan and
+               Todd D. Millstein},
+  title     = {Lessons from the evolution of the Batfish configuration analysis tool},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {122-135},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RuffyLKHTSDPSF23,
+  author    = {Fabian Ruffy and
+               Jed Liu and
+               Prathima Kotikalapudi and
+               Vojtech Havel and
+               Hanneli Tavante and
+               Rob Sherwood and
+               Vladyslav Dubina and
+               Volodymyr Peschanenko and
+               Anirudh Sivaraman and
+               Nate Foster},
+  title     = {P4Testgen: An Extensible Test Oracle For P4-16},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {136-151},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Xiang0WWFLKDLS23,
+  author    = {Qiao Xiang and
+               Chenyang Huang and
+               Ridi Wen and
+               Yuxin Wang and
+               Xiwen Fan and
+               Zaoxing Liu and
+               Linghe Kong and
+               Dennis Duan and
+               Franck Le and
+               Wei Sun},
+  title     = {Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, {On-Device} Verification},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {152-166},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GaoC0LWZL23,
+  author    = {Kaihui Gao and
+               Li Chen and
+               Dan Li and
+               Vincent Liu and
+               Xizheng Wang and
+               Ran Zhang and
+               Lu Lu},
+  title     = {DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {167-181},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RenganathanRKVC23,
+  author    = {Sundararajan Renganathan and
+               Benny Rubin and
+               Hyojoon Kim and
+               Pier Luigi Ventre and
+               Carmelo Cascone and
+               Daniele Moro and
+               Charles Chan and
+               Nick McKeown and
+               Nate Foster},
+  title     = {Hydra: Effective Runtime Network Verification},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {182-194},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Kim23,
+  author    = {Gyuyeong Kim},
+  title     = {NetClone: Fast, Scalable, and Dynamic Request Cloning for {Microsecond-Scale} {RPCs}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {195-207},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YaoZFGLFXC23,
+  author    = {Ruyi Yao and
+               Zhiyu Zhang and
+               Gaojian Fang and
+               Peixuan Gao and
+               Sen Liu and
+               Yibo Fan and
+               Yang Xu and
+               H. Jonathan Chao},
+  title     = {{BMW} Tree: Large-scale, High-throughput and Modular {PIFO} Implementation using Balanced {Multi-Way} Sorting Tree},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {208-219},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DingYC023,
+  author    = {Rui Ding and
+               Shibo Yang and
+               Xiang Chen and
+               Qun Huang},
+  title     = {BitSense: Universal and Nearly {Zero-Error} Optimization for Sketch Counters with Compressive Sensing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {220-238},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SunJKL023,
+  author    = {Guangda Sun and
+               Mingliang Jiang and
+               Xin Zhe Khooi and
+               Yunfan Li and
+               Jialin Li},
+  title     = {NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated {In-Network} Ordering},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {239-254},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YenAC23,
+  author    = {Chen-Yu Yen and
+               Soheil Abbasloo and
+               H. Jonathan Chao},
+  title     = {Computers Can Learn from the Heuristic Designs and Master Internet Congestion Control},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {255-274},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0001KA23,
+  author    = {Saksham Agarwal and
+               Arvind Krishnamurthy and
+               Rachit Agarwal},
+  title     = {Host Congestion Control},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {275-287},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JoshiSKBMCL23,
+  author    = {Raj Joshi and
+               Cha Hwan Song and
+               Xin Zhe Khooi and
+               Nishant Budhdev and
+               Ayush Mishra and
+               Mun Choon Chan and
+               Ben Leong},
+  title     = {Masking Corruption Packet Losses in Datacenter Networks with Link-local Retransmission},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {288-304},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuWWN23,
+  author    = {Xinyu Crystal Wu and
+               Zhuang Wang and
+               Weitao Wang and
+               T. S. Eugene Ng},
+  title     = {Augmented Queue: A Scalable {In-Network} Abstraction for Data Center Network Sharing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {305-318},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MiaoZ0HLCZLHZ023,
+  author    = {Congcong Miao and
+               Zhizhen Zhong and
+               Ying Zhang and
+               Kunling He and
+               Fangchao Li and
+               Minggang Chen and
+               Yiren Zhao and
+               Xiang Li and
+               Zekun He and
+               Xianneng Zou and
+               Jilong Wang},
+  title     = {FlexWAN: Software Hardware Co-design for {Cost-Effective} and Resilient Optical Backbones},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {319-332},
+}
+
+@inproceedings{DBLP:conf/sigcomm/EasonHCNBAL23,
+  author    = {John P. Eason and
+               Xueqi He and
+               Richard Cziva and
+               Max Noormohammadpour and
+               Srivatsan Balasubramanian and
+               Satyajeet Singh Ahuja and
+               Biao Lu},
+  title     = {Hose-based cross-layer backbone network design with Benders decomposition},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {333-345},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DenisYHZLZSKFLH23,
+  author    = {Marek Denis and
+               Yuanjun Yao and
+               Ashley Hatch and
+               Qin Zhang and
+               Chiunlin Lim and
+               Shuqiang Zhang and
+               Kyle Sugrue and
+               Henry Kwok and
+               Mikel Jimenez Fernandez and
+               Petr Lapukhov and
+               Sandeep Hebbani and
+               Gaya Nagarajan and
+               Omar Baldonado and
+               Lixin Gao and
+               Ying Zhang},
+  title     = {EBB: Reliable and Evolvable Express Backbone Network in Meta},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {346-359},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KochYAKB23,
+  author    = {Thomas Koch and
+               Shuyue Yu and
+               Sharad Agarwal and
+               Ethan Katz-Bassett and
+               Ryan Beckett},
+  title     = {PAINTER: Ingress Traffic Engineering and Routing for Enterprise Cloud Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {360-377},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XuYSCRY23,
+  author    = {Zhiying Xu and
+               Francis Y. Yan and
+               Rachee Singh and
+               Justin T. Chiu and
+               Alexander M. Rush and
+               Minlan Yu},
+  title     = {Teal: {Learning-Accelerated} Optimization of {WAN} Traffic Engineering},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {378-393},
+}
+
+@inproceedings{DBLP:conf/sigcomm/QureshiYCYSCBJK23,
+  author    = {Mubashir Adnan Qureshi and
+               Junhua Yan and
+               Yuchung Cheng and
+               Soheil Hassas Yeganeh and
+               Yousuk Seung and
+               Neal Cardwell and
+               Willem de Bruijn and
+               Van Jacobson and
+               Jasleen Kaur and
+               David Wetherall and
+               Amin Vahdat},
+  title     = {Fathom: Understanding Datacenter Application Network Performance},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {394-405},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JinZXZHLJ23,
+  author    = {Chao Jin and
+               Zili Zhang and
+               Xingyu Xiang and
+               Songyun Zou and
+               Gang Huang and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Ditto: Efficient Serverless Analytics with Elastic Parallelism},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {406-419},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ShenZXSLSZWY0XL23,
+  author    = {Junxian Shen and
+               Han Zhang and
+               Yang Xiang and
+               Xingang Shi and
+               Xinrui Li and
+               Yunxi Shen and
+               Zijian Zhang and
+               Yongxiang Wu and
+               Xia Yin and
+               Jilong Wang and
+               Mingwei Xu and
+               Yahui Li and
+               Jiping Yin and
+               Jianchang Song and
+               Zhuofeng Li and
+               Runjie Nie},
+  title     = {{Network-Centric} Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {420-437},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HarshZAMGB23,
+  author    = {Vipul Harsh and
+               Wenxuan Zhou and
+               Sachin Ashok and
+               Radhika Niranjan Mysore and
+               Brighten Godfrey and
+               Sujata Banerjee},
+  title     = {Murphy: Performance Diagnosis of Distributed Cloud Applications},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {438-451},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhongYLWKSEEG23,
+  author    = {Zhizhen Zhong and
+               Mingran Yang and
+               Jay Lang and
+               Christian Williams and
+               Liam Kronman and
+               Alexander Sludds and
+               Homa Esfahanizadeh and
+               Dirk R. Englund and
+               Manya Ghobadi},
+  title     = {Lightning: A Reconfigurable {Photonic-Electronic} {SmartNIC} for Fast and {Energy-Efficient} Inference},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {452-472},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ShubhaS23,
+  author    = {Sudipta Saha Shubha and
+               Haiying Shen},
+  title     = {AdaInf: Data Drift Adaptive Scheduling for Accurate and {SLO-guaranteed} {Multiple-Model} Inference Serving at Edge Servers},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {473-485},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuWJ23,
+  author    = {Juncai Liu and
+               Jessie Hui Wang and
+               Yimin Jiang},
+  title     = {Janus: A Unified Distributed Training Framework for Sparse {Mixture-of-Experts} Models},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {486-498},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuUYZBBDJL0MNP23,
+  author    = {Hong Liu and
+               Ryohei Urata and
+               Kevin Yasumura and
+               Xiang Zhou and
+               Roy Bannon and
+               Jill Berger and
+               Pedram Dashti and
+               Norm Jouppi and
+               Cedric F. Lam and
+               Sheng Li and
+               Erji Mao and
+               Daniel Nelson and
+               George Papen and
+               Muhammad Mukarram Bin Tariq and
+               Amin Vahdat},
+  title     = {Lightwave Fabrics: {At-Scale} Optical Circuit Switching for Datacenter and Machine Learning Systems},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {499-515},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GhabashnehBGOR23,
+  author    = {Ehab Ghabashneh and
+               Chandan Bothra and
+               Ramesh Govindan and
+               Antonio Ortega and
+               Sanjay G. Rao},
+  title     = {Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {516-532},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HamadanianGAC23,
+  author    = {Pouya Hamadanian and
+               Doug Gallatin and
+               Mohammad Alizadeh and
+               Krishna Chintalapudi},
+  title     = {Ekho: Synchronizing cloud gaming media across multiple endpoints},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {533-549},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuptaGMZMC23,
+  author    = {Eashan Gupta and
+               Prateesh Goyal and
+               Ilias Marinos and
+               Chenxingyu Zhao and
+               Radhika Mittal and
+               Ranveer Chandra},
+  title     = {DBO: Fairness for {Cloud-Hosted} Financial Exchanges},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {550-563},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LuanWYKLOHCLS23,
+  author    = {Frank Sifei Luan and
+               Stephanie Wang and
+               Samyukta Yagati and
+               Sean Kim and
+               Kenneth Lien and
+               Isaac Ong and
+               Tony Hong and
+               SangBin Cho and
+               Eric Liang and
+               Ion Stoica},
+  title     = {Exoshuffle: An Extensible Shuffle Architecture},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {564-577},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PaulGLNGB23,
+  author    = {Udit Paul and
+               Vinothini Gunasekaran and
+               Jiamo Liu and
+               Tejas N. Narechania and
+               Arpit Gupta and
+               Elizabeth M. Belding},
+  title     = {Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major {US} {ISPs}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {578-591},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HabibTIAAUQQ23,
+  author    = {Rumaisa Habib and
+               Sarah Tanveer and
+               Aimen Inam and
+               Haseeb Ahmed and
+               Ayesha Ali and
+               Zartash Afzal Uzmi and
+               Zafar Ayyub Qazi and
+               Ihsan Ayyub Qazi},
+  title     = {A Framework for Improving Web Affordability and Inclusiveness},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {592-607},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BischofPCMNPRSD23,
+  author    = {Zachary S. Bischof and
+               Kennedy Pitcher and
+               Esteban Carisimo and
+               Amanda Meng and
+               Rafael Bezerra Nunes and
+               Ramakrishna Padmanabhan and
+               Margaret E. Roberts and
+               Alex C. Snoeren and
+               Alberto Dainotti},
+  title     = {Destination Unreachable: Characterizing Internet Outages and Shutdowns},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {608-621},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RamanM0FLSV23,
+  author    = {Ram Sundara Raman and
+               Louis-Henri Merino and
+               Kevin Bock and
+               Marwan Fayed and
+               Dave Levin and
+               Nick Sullivan and
+               Luke Valenta},
+  title     = {Global, Passive Detection of Connection Tampering},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {622-636},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SathyanarayanaL23,
+  author    = {Sandesh Dhawaskar Sathyanarayana and
+               Kyunghan Lee and
+               Dirk Grunwald and
+               Sangtae Ha},
+  title     = {Converge: {QoE-driven} Multipath Video Conferencing over {WebRTC}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {637-653},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LazarevJKKMYDZA23,
+  author    = {Nikita Lazarev and
+               Tao Ji and
+               Anuj Kalia and
+               Daehyeok Kim and
+               Ilias Marinos and
+               Francis Y. Yan and
+               Christina Delimitrou and
+               Zhiru Zhang and
+               Aditya Akella},
+  title     = {Resilient Baseband Processing in Virtualized {RANs} with Slingshot},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {654-667},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NiZLGZLXWZDYSCL23,
+  author    = {Yunzhe Ni and
+               Zhilong Zheng and
+               Xianshang Lin and
+               Fengyu Gao and
+               Xuan Zeng and
+               Yirui Liu and
+               Tao Xu and
+               Hua Wang and
+               Zhidong Zhang and
+               Senlang Du and
+               Guang Yang and
+               Yuanchao Su and
+               Dennis Cai and
+               Hongqiang Harry Liu and
+               Chenren Xu and
+               Ennan Zhai and
+               Yunfei Ma},
+  title     = {CellFusion: Multipath {Vehicle-to-Cloud} Video Streaming with Network Coding in the Wild},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {668-683},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WetherallKJWCMM23,
+  author    = {David Wetherall and
+               Abdul Kabbani and
+               Van Jacobson and
+               Jim Winget and
+               Yuchung Cheng and
+               Charles B. Morrey III and
+               Uma Moravapalle and
+               Phillipa Gill and
+               Steven Knight and
+               Amin Vahdat},
+  title     = {Improving Network Availability with Protective {ReRoute}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {684-695},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuQLMZJZCZLJ23,
+  author    = {Bingyang Wu and
+               Kun Qian and
+               Bo Li and
+               Yunfei Ma and
+               Qi Zhang and
+               Zhigang Jiang and
+               Jiayu Zhao and
+               Dennis Cai and
+               Ennan Zhai and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {XRON: A Hybrid Elastic Cloud Overlay Network for Video Conferencing at Planetary Scale},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {696-709},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuGM0G023,
+  author    = {Jiangkai Wu and
+               Yu Guan and
+               Qi Mao and
+               Yong Cui and
+               Zongming Guo and
+               Xinggong Zhang},
+  title     = {ZGaming: {Zero-Latency} 3D Cloud Gaming by Image Prediction},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {710-723},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YuanZY023,
+  author    = {Mu Yuan and
+               Lan Zhang and
+               Xuanke You and
+               Xiang-Yang Li},
+  title     = {PacketGame: {Multi-Stream} Packet Gating for Concurrent Video Inference at Scale},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {724-737},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Bothra0R023,
+  author    = {Chandan Bothra and
+               Jianfei Gao and
+               Sanjay G. Rao and
+               Bruno Ribeiro},
+  title     = {Veritas: Answering Causal Queries from Video Streaming Traces},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {738-753},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SpangKTHAJM23,
+  author    = {Bruce Spang and
+               Shravya Kunamalla and
+               Renata Teixeira and
+               Te-Yuan Huang and
+               Grenville Armitage and
+               Ramesh Johari and
+               Nick McKeown},
+  title     = {Sammy: smoothing video traffic to be a friendly internet neighbor},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {754-768},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WeiLYJXYWXLGZCW23,
+  author    = {Chengkun Wei and
+               Xing Li and
+               Ye Yang and
+               Xiaochong Jiang and
+               Tianyu Xu and
+               Bowen Yang and
+               Taotao Wu and
+               Chao Xu and
+               Yilong Lv and
+               Haifeng Gao and
+               Zhentao Zhang and
+               Zikang Chen and
+               Zeke Wang and
+               Zihui Zhang and
+               Shunmin Zhu and
+               Wenzhi Chen},
+  title     = {Achelous: Enabling Programmability, Elasticity, and Reliability in Hyperscale Cloud Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {769-782},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhaoZZZWTNFLJ23,
+  author    = {Yihao Zhao and
+               Xiaoxiang Zhang and
+               Hang Zhu and
+               Ying Zhang and
+               Zhaodong Wang and
+               Yuandong Tian and
+               Alex Nikulkov and
+               Joao Ferreira and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Klotski: Efficient and Safe Network Migration of Large Production Datacenters},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {783-797},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XuZF0CWLZLT023,
+  author    = {Wenquan Xu and
+               Zijian Zhang and
+               Yong Feng and
+               Haoyu Song and
+               Zhikang Chen and
+               Wenfei Wu and
+               Guyue Liu and
+               Yinchao Zhang and
+               Shuxin Liu and
+               Zerui Tian and
+               Bin Liu},
+  title     = {ClickINC: In-network Computing as a Service in Heterogeneous Programmable Data-center Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {798-815},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SongKJC0C23,
+  author    = {Cha Hwan Song and
+               Xin Zhe Khooi and
+               Raj Joshi and
+               Inho Choi and
+               Jialin Li and
+               Mun Choon Chan},
+  title     = {Network Load Balancing with In-network Reordering Support for {RDMA}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {816-831},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LangletBOMYA23,
+  author    = {Jonatan Langlet and
+               Ran Ben Basat and
+               Gabriele Oliaro and
+               Michael Mitzenmacher and
+               Minlan Yu and
+               Gianni Antichi},
+  title     = {Direct Telemetry Access},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {832-849},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PietNP23,
+  author    = {Julien Piet and
+               Dubem Nwoji and
+               Vern Paxson},
+  title     = {GGFAST: Automating Generation of Flexible Network Traffic Classifiers},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {850-866},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SunLHG023,
+  author    = {Haifeng Sun and
+               Jiaheng Li and
+               Jintao He and
+               Jie Gui and
+               Qun Huang},
+  title     = {OmniWindow: A General and Efficient Window Mechanism Framework for Network Telemetry},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {867-880},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Yang0M0LXQZLJX23,
+  author    = {Kaicheng Yang and
+               Yuhan Wu and
+               Ruijie Miao and
+               Tong Yang and
+               Zirui Liu and
+               Zicang Xu and
+               Rui Qiu and
+               Yikai Zhao and
+               Hanglong Lv and
+               Zhigang Ji and
+               Gaogang Xie},
+  title     = {ChameleMon: Shifting Measurement Attention as Network State Changes},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {881-903},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RyeL23,
+  author    = {Erik C. Rye and
+               Dave Levin},
+  title     = {IPv6 Hitlists at Scale: Be Careful What You Wish For},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {904-916},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhouZHYZCD23,
+  author    = {Minyuan Zhou and
+               Xiao Zhang and
+               Shuai Hao and
+               Xiaowei Yang and
+               Jiaqi Zheng and
+               Guihai Chen and
+               Wanchun Dou},
+  title     = {Regional {IP} Anycast: Deployments, Performance, and Potentials},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {917-931},
+}
+
+@inproceedings{DBLP:conf/sigcomm/0003DHBVBP23,
+  author    = {Si Liu and
+               Huayi Duan and
+               Lukas Heimes and
+               Marco Bearzi and
+               Jodok Vieli and
+               David A. Basin and
+               Adrian Perrig},
+  title     = {A Formal Framework for {End-to-End} {DNS} Resolution},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {932-949},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HlavacekJMSW23,
+  author    = {Tomas Hlavacek and
+               Philipp Jeitner and
+               Donika Mirdita and
+               Haya Schulmann and
+               Michael Waidner},
+  title     = {Beyond Limits: How to Disable Validators in Secure Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {950-966},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhaoLD0LYLJY23,
+  author    = {Yikai Zhao and
+               Wenrui Liu and
+               Fenghao Dong and
+               Tong Yang and
+               Yuanpeng Li and
+               Kaicheng Yang and
+               Zirui Liu and
+               Zhengyi Jia and
+               Yongqiang Yang},
+  title     = {P4LRU: Towards An {LRU} Cache Entirely in Programmable Data Plane},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {967-980},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenSKLCASS23,
+  author    = {Jiayi Chen and
+               Nihal Sharma and
+               Tarannum Khan and
+               Shu Liu and
+               Brian Chang and
+               Aditya Akella and
+               Sanjay Shakkottai and
+               Ramesh K. Sitaraman},
+  title     = {Darwin: Flexible Learning-based {CDN} Caching},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {981-999},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BothraGBPLCKASC23,
+  author    = {Rahul Bothra and
+               Rohan Gandhi and
+               Ranjita Bhagwan and
+               Venkata N. Padmanabhan and
+               Rui Liang and
+               Steve Carlson and
+               Vinayaka Kamath and
+               Sreangsu Acharyya and
+               Ken Sueda and
+               Somesh Chaturmohta and
+               Harsha Sharma},
+  title     = {Switchboard: Efficient Resource Management for Conferencing Services},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1000-1011},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuoZZBSL23,
+  author    = {Zerui Guo and
+               Hua Zhang and
+               Chenxingyu Zhao and
+               Yuebin Bai and
+               Michael M. Swift and
+               Ming Liu},
+  title     = {LEED: A Low-Power, Fast Persistent {Key-Value} Store on {SmartNIC} {JBOFs}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1012-1027},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XingQHSMSPKKN023,
+  author    = {Jiarong Xing and
+               Yiming Qiu and
+               Kuo-Feng Hsu and
+               Songyuan Sui and
+               Khalid Manaa and
+               Omer Shabtai and
+               Yonatan Piasetzky and
+               Matty Kadosh and
+               Arvind Krishnamurthy and
+               T. S. Eugene Ng and
+               Ang Chen},
+  title     = {Unleashing {SmartNIC} Packet Processing Performance in P4},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1028-1042},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DasS23,
+  author    = {Rajdeep Das and
+               Alex C. Snoeren},
+  title     = {Memory Management in ActiveRMT: Towards Runtime-programmable Switches},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1043-1059},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenY0023,
+  author    = {Xinyi Chen and
+               Liangcheng Yu and
+               Vincent Liu and
+               Qizhen Zhang},
+  title     = {Cowbird: Freeing {CPUs} to Compute by Offloading the Disaggregation of Memory},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1060-1073},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YuS0RBJ23,
+  author    = {Zhuolong Yu and
+               Bowen Su and
+               Wei Bai and
+               Shachar Raindel and
+               Vladimir Braverman and
+               Xin Jin},
+  title     = {Understanding the {Micro-Behaviors} of Hardware Offloaded Network Stacks with Lumina},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1074-1087},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ThiagarajanKB23,
+  author    = {Kedar Thiagarajan and
+               Rashna Kumar and
+               Fabián E. Bustamante},
+  title     = {Poster: A Peek Backstage: Organizations in {DNS} Resolver Hierarchies},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1088-1090},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenZLX23,
+  author    = {Ziteng Chen and
+               Menghao Zhang and
+               Guanyu Li and
+               Mingwei Xu},
+  title     = {Poster: Chameleon: Automatic and Adaptive Tuning for {DCQCN} Parameters in {RDMA} Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1091-1093},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HanWMTLQL23,
+  author    = {Bin Han and
+               Lei Wang and
+               Jie Meng and
+               Yu Tian and
+               Chi Lin and
+               Zhenquan Qin and
+               Bingxian Lu},
+  title     = {Poster: Connectivity topology generation with degree limitation for {UOWN}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1094-1095},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CiccoSG0AT23,
+  author    = {Nicola Di Cicco and
+               Amir Al Sadi and
+               Chiara Grasselli and
+               Andrea Melis and
+               Gianni Antichi and
+               Massimo Tornatore},
+  title     = {Poster: Continual Network Learning},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1096-1098},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YoonOMK23,
+  author    = {Wonsup Yoon and
+               Jisu Ok and
+               Sue Moon and
+               Youngjin Kwon},
+  title     = {Poster: Designing a Memory Disaggregation System for Cloud},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1099-1101},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YamamotoNFTE23,
+  author    = {Momoka Yamamoto and
+               Jin Nakazato and
+               Romain Fontugne and
+               Manabu Tsukada and
+               Hiroshi Esaki},
+  title     = {Poster: Evaluation of IPv6-{only-Capable} Iterative Resolvers},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1102-1104},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AmadoPS0R23,
+  author    = {João Romeiras Amado and
+               Francisco Chamiça Pereira and
+               Salvatore Signorello and
+               Miguel Correia and
+               Fernando M. V. Ramos},
+  title     = {Poster: {In-Network} {ML} Feature Computation for Malicious Traffic Detection},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1105-1107},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DietmullerFV23,
+  author    = {Alexander Dietmüller and
+               Georgia Fragkouli and
+               Laurent Vanbever},
+  title     = {Poster: Learning distributions to detect anomalies using all the network traffic},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1108-1110},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ShulmanZ23,
+  author    = {Haya Schulmann and
+               Shujie Zhao},
+  title     = {Poster: LeMon: Global Route Leak Monitoring Service},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1111-1113},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SuWN00XXL023,
+  author    = {Qiang Su and
+               Shaofeng Wu and
+               Zhixiong Niu and
+               Ran Shu and
+               Peng Cheng and
+               Yongqiang Xiong and
+               Chun Jason Xue and
+               Zaoxing Liu and
+               Hong Xu},
+  title     = {Poster: Meili: Towards {SmartNIC} as a Service},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1114-1116},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DasSN23,
+  author    = {Sushovan Das and
+               Arlei Silva and
+               T. S. Eugene Ng},
+  title     = {Poster: Near Non-blocking Performance with All-optical Circuit-switched Core},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1117-1119},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HeftrigSW23,
+  author    = {Elias Heftrig and
+               Haya Schulmann and
+               Michael Waidner},
+  title     = {Poster: {Off-Path} {DNSSEC} Downgrade Attacks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1120-1122},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JiangHXTS23,
+  author    = {Jinghui Jiang and
+               Zhenpei Huang and
+               Qiao Xiang and
+               Lu Tang and
+               Jiwu Shu},
+  title     = {Poster: P4-DPLL: Accelerating {SAT} Solving Using Switching {ASICs}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1123-1125},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Ma00Y0ZL23,
+  author    = {Ruilong Ma and
+               Jingyu Wang and
+               Qi Qi and
+               Xiang Yang and
+               Haifeng Sun and
+               Zirui Zhuang and
+               Jianxin Liao},
+  title     = {Poster: PipeLLM: Pipeline {LLM} Inference on Heterogeneous Devices with Sequence Slicing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1126-1128},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhuLMZZLW023,
+  author    = {Shuaipeng Zhu and
+               Tong Li and
+               Xinyu Ma and
+               Yinfeng Zhu and
+               Taotao Zhang and
+               Senzhen Liu and
+               Haiyang Wang and
+               Ke Xu},
+  title     = {Poster: PolyCC: {Poly-Algorithmic} Congestion Control},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1129-1131},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Huang0ZPZPHZCGL23,
+  author    = {Yudong Huang and
+               Shuo Wang and
+               Shiyin Zhu and
+               Guoyu Peng and
+               Xinyuan Zhang and
+               Tian Pan and
+               Tao Huang and
+               Lei Zhou and
+               Zuopin Cheng and
+               Daorong Guo and
+               Hui Lin and
+               Lianqing Zhang and
+               Juyan Lei and
+               Liangzhang Xu and
+               Wei Wang and
+               Xinmin Liu and
+               Xuejun You and
+               Yunjie Liu},
+  title     = {Poster: Programmable {Cycle-Specified} Queue for Deterministic Networking},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1132-1134},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YanWL23,
+  author    = {Rui Yan and
+               Shuai Wang and
+               Dan Li},
+  title     = {Poster: Q-Scanner: A Fast Scanning Tool for {Large-Scale} SSL/{TLS} Configurations Measurement},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1135-1137},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AmirWSWK23,
+  author    = {Daniel Amir and
+               Tegan Wilson and
+               Vishal Shrivastav and
+               Hakim Weatherspoon and
+               Robert Kleinberg},
+  title     = {Poster: Scalability and Congestion Control in Oblivious Reconfigurable Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1138-1140},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuoL0Y23,
+  author    = {Dong Guo and
+               Jian Luo and
+               Kai Gao and
+               Y. Richard Yang},
+  title     = {Poster: Scaling Data Plane Verification with {Throughput-Optimized} Atomic Predicates},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1141-1143},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DuTFSc23,
+  author    = {Ben Du and
+               Cecilia Testart and
+               Romain Fontugne and
+               Alex C. Snoeren and
+               kc claffy},
+  title     = {Poster: Taking the Low Road: How {RPKI} Invalids Propagate},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1144-1146},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YanLWLWWX23,
+  author    = {Xu Yan and
+               Tong Li and
+               Bo Wu and
+               Cheng Luo and
+               Fuyu Wang and
+               Haiyang Wang and
+               Ke Xu},
+  title     = {Poster: TOO: Accelerating Loss Recovery by Taming {On-Off} Traffic Patterns},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1147-1149},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KhooiBPBSC23,
+  author    = {Xin Zhe Khooi and
+               Archit Bhatnagar and
+               Satis Kumar Permal and
+               Nishant Budhdev and
+               Cha Hwan Song and
+               Mun Choon Chan},
+  title     = {Poster: Towards Accelerating the 5G Centralized Unit with Programmable Switches},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1150-1152},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuLCPGB23,
+  author    = {Jiamo Liu and
+               David Lerner and
+               Jae Chung and
+               Udit Paul and
+               Arpit Gupta and
+               Elizabeth M. Belding},
+  title     = {Poster: Traffic Shaping and {YouTube} Performance Interaction in {GEO} Satellite Networks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1153-1155},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiJYCXXXSWWLGCQ23,
+  author    = {Xing Li and
+               Xiaochong Jiang and
+               Ye Yang and
+               Lilong Chen and
+               Tianyu Xu and
+               Chao Xu and
+               Longbiao Xiao and
+               Fengmin Shi and
+               Yi Wang and
+               Taotao Wu and
+               Yilong Lv and
+               Hangfeng Gao and
+               Zikang Chen and
+               Yisong Qiao and
+               Hongwei Ding and
+               Yijian Dong and
+               Chengkun Wei and
+               Zihui Zhang and
+               Shunmin Zhu and
+               Wenzhi Chen},
+  title     = {Poster: Triton: Accelerating {vSwitch} with Flexibility through Hardware Assisting not Bypassing Software},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1156-1158},
+}
+
+@inproceedings{DBLP:conf/sigcomm/StuhrS23,
+  author    = {Eric Stuhr and
+               Ahmed Saeed},
+  title     = {Poster: Understanding Interactions between Overload Control Core Allocation in {Low-Latency} Network Stacks},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1159-1161},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KoGDWSB23,
+  author    = {Woo-Hyun Ko and
+               Ushasi Ghosh and
+               Ujwal Dinesha and
+               Raini Wu and
+               Srinivas Shakkottai and
+               Dinesh Bharadia},
+  title     = {Demo: EdgeRIC: Delivering Realtime {RAN} Intelligence},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1162-1164},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SeehoferMBZ23,
+  author    = {Paul Seehofer and
+               Hendrik Mahrt and
+               Roland Bless and
+               Martina Zitterbart},
+  title     = {Demo: Enabling Autonomic Network Infrastructures with {KIRA}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1165-1167},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangZX0XHH23,
+  author    = {Yanxiang Wang and
+               Guangrong Zhao and
+               Kenuo Xu and
+               Yiran Shen and
+               Chenren Xu and
+               Mahbub Hassan and
+               Wen Hu},
+  title     = {Demo: EV-DMD: a high-speed {VLC} system},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1168-1169},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LevinKGZJKSKZ23,
+  author    = {Alon Simon Levin and
+               Igor Kadota and
+               Sasank Garikapati and
+               Bo Zhang and
+               Aditya Jolly and
+               Manav Kohli and
+               Mingoo Seok and
+               Harish Krishnaswamy and
+               Gil Zussman},
+  title     = {Demo: Experimentation with Wideband {Real-Time} Adaptive {Full-Duplex} Radios},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1170-1172},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhongYLEG23,
+  author    = {Zhizhen Zhong and
+               Mingran Yang and
+               Jay Lang and
+               Dirk R. Englund and
+               Manya Ghobadi},
+  title     = {Demo: First Demonstration of {Real-Time} {Photonic-Electronic} {DNN} Acceleration on {SmartNICs}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1173-1175},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GartnerRKGKS23,
+  author    = {Christoph Gärtner and
+               Amr Rizk and
+               Boris Koldehofe and
+               René Guillaume and
+               Ralf Kundel and
+               Ralf Steinmetz},
+  title     = {Demo: Flexibility-aware Network Management of {Time-Sensitive} Flows},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1176-1178},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Gao00LWZL23,
+  author    = {Kaihui Gao and
+               Li Chen and
+               Dan Li and
+               Vincent Liu and
+               Xizheng Wang and
+               Ran Zhang and
+               Lu Lu},
+  title     = {Demo: NetVision: Efficient Visualization {Front-End} for Packet-level {Discrete-Event} Network Simulation},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1179-1181},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XiaoWYLVK23,
+  author    = {Yunming Xiao and
+               Chenkai Weng and
+               Ruijie Yu and
+               Peizhi Liu and
+               Matteo Varvello and
+               Aleksandar Kuzmanovic},
+  title     = {Demo: PDNS: A Fully {Privacy-Preserving} {DNS}},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1182-1184},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BoroushakiLCDEA23,
+  author    = {Tara Boroushaki and
+               Maisy Lam and
+               Weitung Chen and
+               Laura Dodds and
+               Aline Eid and
+               Fadel Adib},
+  title     = {Demo: Real-time {X-Ray} Vision via Augmented Reality with {RF} Sensing},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1185-1187},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AnwarWL023,
+  author    = {Mubashir Anwar and
+               Anduo Wang and
+               Fangping Lan and
+               Matthew Caesar},
+  title     = {Demo: Structural Network Minimization: A Case of Reflective Networking},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1188-1190},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AllamAA23,
+  author    = {Ahmed Allam and
+               Waleed Akbar and
+               Fadel Adib},
+  title     = {Demo: Underwater Backscatter Link Budget Tool},
+  booktitle = sigcomm,
+  year      = 2023,
+  pages     = {1191-1192},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KisGLN22,
+  author    = {Dávid Kis and
+               Gergo Gombos and
+               Sándor Laki and
+               Szilveszter Nádas},
+  title     = {Resource sharing beyond FQ: 35K users at 100Gbps},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {1-3},
 }
 
 @inproceedings{DBLP:conf/sigcomm/KolkmanRGB22,
@@ -350,6 +3479,18 @@
   pages     = {1-18},
 }
 
+@inproceedings{DBLP:conf/sigcomm/RodriguezVCSR22,
+  author    = {Fabricio Rodriguez and
+               Francisco Germano Vogt and
+               Ariel Góes de Castro and
+               Marcos Felipe Schwarz and
+               Christian Esteve Rothenberg},
+  title     = {P4 programmable patch panel (P7): an instant 100g emulated network on your tofino-based pizza box},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {4-6},
+}
+
 @inproceedings{DBLP:conf/sigcomm/LangeGZPL0V22,
   author    = {Stanislav Lange and
                Marija Gajic and
@@ -362,6 +3503,16 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {6-11},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GroshevSM22,
+  author    = {Milan Groshev and
+               Javier Sacido and
+               Jorge Martín-Pérez},
+  title     = {FoReCo: a forecast-based recovery mechanism for real-time remote control of robotic manipulators},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {7-9},
 }
 
 @inproceedings{DBLP:conf/sigcomm/BaniamerianMSBT22,
@@ -423,6 +3574,18 @@
   pages     = {8-14},
 }
 
+@inproceedings{DBLP:conf/sigcomm/QiaoLHWZ22,
+  author    = {Yu Qiao and
+               Chengxiang Li and
+               Shuzheng Hao and
+               Jun Wu and
+               Liang Zhang},
+  title     = {Deep or statistical: an empirical study of traffic predictions on multiple time scales},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {10-12},
+}
+
 @inproceedings{DBLP:conf/sigcomm/LiLI22,
   author    = {Guangpeng Li and
                David Lou and
@@ -431,6 +3594,18 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {12-17},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LaiYBZZ22,
+  author    = {Zhongzheng Lai and
+               Dong Yuan and
+               Wei Bao and
+               Yu Zhang and
+               Bing Bing Zhou},
+  title     = {DeepWiSim: a wireless signal simulator for automatic deep learning},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {13-15},
 }
 
 @inproceedings{DBLP:conf/sigcomm/Rio0L0JA22,
@@ -480,6 +3655,16 @@
   pages     = {15-23},
 }
 
+@inproceedings{DBLP:conf/sigcomm/StoyanovAZ22,
+  author    = {Radostin Stoyanov and
+               Wesley Armour and
+               Noa Zilberman},
+  title     = {Network-accelerated cluster scheduler},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {16-18},
+}
+
 @inproceedings{DBLP:conf/sigcomm/HouGLH22,
   author    = {Xindi Hou and
                Shuai Gao and
@@ -489,6 +3674,17 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {18-24},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuangZG022,
+  author    = {Run Huang and
+               Mengying Zhou and
+               Tiancheng Guo and
+               Yang Chen},
+  title     = {Locating {CDN} edge servers with {HTTP} responses},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {19-21},
 }
 
 @inproceedings{DBLP:conf/sigcomm/GholamiRHPSBC22,
@@ -528,6 +3724,18 @@
   pages     = {20-25},
 }
 
+@inproceedings{DBLP:conf/sigcomm/FaisAGLP22,
+  author    = {Alessandra Fais and
+               Gianni Antichi and
+               Stefano Giordano and
+               Giuseppe Lettieri and
+               Gregorio Procissi},
+  title     = {Mind the cost of telemetry data analysis},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {22-24},
+}
+
 @inproceedings{DBLP:conf/sigcomm/KousiasRCABNN0B22,
   author    = {Konstantinos Kousias and
                Mohammad Rajiullah and
@@ -554,6 +3762,15 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {24-30},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SunF22,
+  author    = {Xue Sun and
+               Chao Feng},
+  title     = {Ls-liquid: towards container-irrelevant liquid sensing on smartphones},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {25-27},
 }
 
 @inproceedings{DBLP:conf/sigcomm/TrossenFKBM22,
@@ -590,6 +3807,22 @@
   pages     = {26-32},
 }
 
+@inproceedings{DBLP:conf/sigcomm/SuWN0CXHX022,
+  author    = {Qiang Su and
+               Chuanwen Wang and
+               Zhixiong Niu and
+               Ran Shu and
+               Peng Cheng and
+               Yongqiang Xiong and
+               Dongsu Han and
+               Chun Jason Xue and
+               Hong Xu},
+  title     = {PipeDevice: a hardware-software co-design approach to intra-host container communication},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {28-30},
+}
+
 @inproceedings{DBLP:conf/sigcomm/GhoshalKXLAKLHK22,
   author    = {Moinak Ghoshal and
                Z. Jonny Kong and
@@ -604,6 +3837,16 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {29-35},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HugonCB22,
+  author    = {Johann Hugon and
+               Mathieu Cunche and
+               Thomas Begin},
+  title     = {RoMA: rotating {MAC} address for privacy protection},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {31-33},
 }
 
 @inproceedings{DBLP:conf/sigcomm/ReidEK22,
@@ -637,6 +3880,17 @@
   pages     = {33-39},
 }
 
+@inproceedings{DBLP:conf/sigcomm/BartolomeoBMO22,
+  author    = {Giovanni Bartolomeo and
+               Simon Bäurle and
+               Nitinder Mohan and
+               Jörg Ott},
+  title     = {Oakestra: an orchestration framework for edge computing},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {34-36},
+}
+
 @inproceedings{DBLP:conf/sigcomm/HauserSSGC22,
   author    = {Eric Hauser and
                Manuel Simon and
@@ -661,6 +3915,17 @@
   pages     = {36-52},
 }
 
+@inproceedings{DBLP:conf/sigcomm/HongZZZ22,
+  author    = {Xinpeng Hong and
+               Changgang Zheng and
+               Stefan Zohren and
+               Noa Zilberman},
+  title     = {Linnet: limit order books within switches},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {37-39},
+}
+
 @inproceedings{DBLP:conf/sigcomm/KhandakerTYDC22,
   author    = {Karima Saif Khandaker and
                Dirk Trossen and
@@ -682,6 +3947,15 @@
   pages     = {39-45},
 }
 
+@inproceedings{DBLP:conf/sigcomm/SagkriotisP22,
+  author    = {Stefanos Sagkriotis and
+               Dimitrios Pezaros},
+  title     = {Accelerating kubernetes with in-network caching},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {40-42},
+}
+
 @inproceedings{DBLP:conf/sigcomm/MortazaviMBDWG22,
   author    = {Seyed Hossein Mortazavi and
                Ali Munir and
@@ -693,6 +3967,20 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {40-45},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TanakaAI0KKS22,
+  author    = {Kenji Tanaka and
+               Yuki Arikawa and
+               Tsuyoshi Ito and
+               Yuki Matsuda and
+               Keisuke Kamahori and
+               Shinya Kaji and
+               Takeshi Sakamoto},
+  title     = {CiraaS: cloud computing with programmable logic},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {43-45},
 }
 
 @inproceedings{DBLP:conf/sigcomm/BorhaniAG22,
@@ -716,6 +4004,18 @@
   pages     = {43-49},
 }
 
+@inproceedings{DBLP:conf/sigcomm/ZangZSDZ22,
+  author    = {Mingyuan Zang and
+               Changgang Zheng and
+               Radostin Stoyanov and
+               Lars Dittmann and
+               Noa Zilberman},
+  title     = {P4Pir: in-network analysis for smart {IoT} gateways},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {46-48},
+}
+
 @inproceedings{DBLP:conf/sigcomm/MunirMBBWGG22,
   author    = {Ali Munir and
                Seyed Hossein Mortazavi and
@@ -730,6 +4030,20 @@
   pages     = {46-52},
 }
 
+@inproceedings{DBLP:conf/sigcomm/GuanJMLGVH22,
+  author    = {Junfeng Guan and
+               Suraj Jog and
+               Sohrab Madani and
+               Ruochen Lu and
+               Songbin Gong and
+               Deepak Vasisht and
+               Haitham Hassanieh},
+  title     = {Enabling {IoT} self-localization using ambient 5G {mmWave} signals},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {49-51},
+}
+
 @inproceedings{DBLP:conf/sigcomm/WirtgenB22,
   author    = {Thomas Wirtgen and
                Olivier Bonaventure},
@@ -737,6 +4051,16 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {50-57},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChiangAS22,
+  author    = {Erica Chiang and
+               Nirav Atre and
+               Hugo Sadok},
+  title     = {Robust heuristics: attacks and defenses for job size estimation in {WSJF} systems},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {52-54},
 }
 
 @inproceedings{DBLP:conf/sigcomm/Ordonez-LucenaD22,
@@ -756,6 +4080,29 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {53-65},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GanjiK022,
+  author    = {Santosh Ganji and
+               Jaewon Kim and
+               P. R. Kumar},
+  title     = {Terra: blockage resilience in outdoor mm-wave networks},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {55-57},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JereczekJWPZL22,
+  author    = {Grzegorz Jereczek and
+               Theo Jepsen and
+               Simon Wass and
+               Bimmy Pujari and
+               Jerry Zhen and
+               Jeongkeun Lee},
+  title     = {TCP-INT: lightweight network telemetry with {TCP} transport},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {58-60},
 }
 
 @inproceedings{DBLP:conf/sigcomm/Garcia-Luna-Aceves22,
@@ -781,6 +4128,20 @@
   booktitle = sigcomm,
   year      = 2022,
   pages     = {60-66},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhaoASSOHS22,
+  author    = {Zhipeng Zhao and
+               Nirav Atre and
+               Hugo Sadok and
+               Siddharth Sahay and
+               Shashank Obla and
+               James C. Hoe and
+               Justine Sherry},
+  title     = {Pigasus 2.0: making the pigasus {IDS} robust to attacks and different workloads},
+  booktitle = sigcomm,
+  year      = 2022,
+  pages     = {61-62},
 }
 
 @inproceedings{DBLP:conf/sigcomm/AshokPT22,
@@ -3200,7 +6561,7 @@
 @inproceedings{DBLP:conf/sigcomm/DaiJSW21,
   author    = {Tianxiang Dai and
                Philipp Jeitner and
-               Haya Shulman and
+               Haya Schulmann and
                Michael Waidner},
   title     = {From {IP} to transport and beyond: cross-layer attacks against applications},
   booktitle = sigcomm,
@@ -3713,7 +7074,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/SruthiRR20,
   author    = {Panchapakesan C. Sruthi and
-               Sanjay Rao and
+               Sanjay G. Rao and
                Bruno Ribeiro},
   title     = {Pitfalls of data-driven networking: A case study of latent causal confounders in video streaming},
   booktitle = sigcomm,
@@ -5782,6 +9143,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/LakiVF19,
   author    = {Sándor Laki and
+               Pé and
                Péter Vörös and
                Ferenc Fejes},
   title     = {Towards an {AQM} Evaluation Testbed with P4 and {DPDK}},
@@ -8193,14 +11555,6 @@
   pages     = {1-6},
 }
 
-@inproceedings{DBLP:conf/sigcomm/Kano17,
-  author    = {Makito Kano},
-  title     = {BlueSkyNet: {BLE} {Multi-Hop} Network Management Architecture},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {1-6},
-}
-
 @inproceedings{DBLP:conf/sigcomm/RistovWDA17,
   author    = {Samyon Ristov and
                Yaron Weinsberg and
@@ -8331,20 +11685,6 @@
   pages     = {7-12},
 }
 
-@inproceedings{DBLP:conf/sigcomm/HurtigABEGHR17,
-  author    = {Per Hurtig and
-               Stefan Alfredsson and
-               Anna Brunström and
-               Kristian Evensen and
-               Karl-Johan Grinnemo and
-               Audun Fosselie Hansen and
-               Tomasz Rozensztrauch},
-  title     = {A {NEAT} Approach to Mobile Communication},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {7-12},
-}
-
 @inproceedings{DBLP:conf/sigcomm/TrevisanDM17,
   author    = {Martino Trevisan and
                Idilio Drago and
@@ -8464,14 +11804,6 @@
                Jigna Chandaria and
                Andrew Secker},
   title     = {Wi-Stitch: Content Delivery in Converged Edge Networks},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {13-18},
-}
-
-@inproceedings{DBLP:conf/sigcomm/Siris17,
-  author    = {Vasilios A. Siris},
-  title     = {Popularity-aware Intra-domain Mobility Management},
   booktitle = sigcomm,
   year      = 2017,
   pages     = {13-18},
@@ -8622,15 +11954,6 @@
   pages     = {19-24},
 }
 
-@inproceedings{DBLP:conf/sigcomm/ShangW17,
-  author    = {Jiacheng Shang and
-               Jie Wu},
-  title     = {A Robust Sign Language Recognition System with Multiple {Wi-Fi} Devices},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {19-24},
-}
-
 @inproceedings{DBLP:conf/sigcomm/WamserHST17,
   author    = {Florian Wamser and
                Steffen Höfner and
@@ -8708,15 +12031,6 @@
                Preethi Natarajan and
                Constantine Dovrolis},
   title     = {Hierarchical {IP} flow clustering},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {25-30},
-}
-
-@inproceedings{DBLP:conf/sigcomm/ShafaghH17,
-  author    = {Hossein Shafagh and
-               Anwar Hithnawi},
-  title     = {Privacy-preserving Quantified Self: Secure Sharing and Processing of Encrypted Small Data},
   booktitle = sigcomm,
   year      = 2017,
   pages     = {25-30},
@@ -8831,18 +12145,6 @@
   pages     = {31-36},
 }
 
-@inproceedings{DBLP:conf/sigcomm/PanwarTMMM17,
-  author    = {Gaurav Panwar and
-               Reza Tourani and
-               Travis Mick and
-               Abderrahmen Mtibaa and
-               Satyajayant Misra},
-  title     = {DICE: Dynamic {Multi-RAT} Selection in the {ICN-enabled} Wireless Edge},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {31-36},
-}
-
 @inproceedings{DBLP:conf/sigcomm/QianWO0T17,
   author    = {Peng Qian and
                Ning Wang and
@@ -8926,16 +12228,6 @@
                Thomas Zinner and
                Anja S. Göritz},
   title     = {Designing a Survey Tool for Monitoring Enterprise {QoE}},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {37-42},
-}
-
-@inproceedings{DBLP:conf/sigcomm/BronzinoMR17,
-  author    = {Francesco Bronzino and
-               Shreyasee Mukherjee and
-               Dipankar Raychaudhuri},
-  title     = {The {Named-Object} Abstraction for Realizing Advanced Mobility Services in the Future Internet},
   booktitle = sigcomm,
   year      = 2017,
   pages     = {37-42},
@@ -9030,16 +12322,6 @@
   author    = {Mathieu Bouet and
                Vania Conan},
   title     = {Geo-partitioning of {MEC} Resources},
-  booktitle = sigcomm,
-  year      = 2017,
-  pages     = {43-48},
-}
-
-@inproceedings{DBLP:conf/sigcomm/DuarteBV17,
-  author    = {João M. G. Duarte and
-               Torsten Braun and
-               Leandro A. Villas},
-  title     = {Receiver Mobility in Vehicular Named Data Networking},
   booktitle = sigcomm,
   year      = 2017,
   pages     = {43-48},
@@ -9229,7 +12511,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/RotenbergSWZ17,
   author    = {Nadav Rotenberg and
-               Haya Shulman and
+               Haya Schulmann and
                Michael Waidner and
                Benjamin Zeltser},
   title     = {{Authentication-Bypass} Vulnerabilities in {SOHO} Routers},
@@ -10877,7 +14159,7 @@
                Andreas Terzis and
                Luis Pedrosa and
                Yuchung Cheng and
-               Tayeb Karim and
+               Tayeb A Karim and
                Ethan Katz-Bassett and
                Ramesh Govindan},
   title     = {An {Internet-Wide} Analysis of Traffic Policing},
@@ -13577,7 +16859,7 @@
                Jing Zhang and
                Scott Iekel-Johnson and
                Eric Osterweil and
-               Michael Bailey},
+               Michael D. Bailey},
   title     = {Measuring IPv6 adoption},
   booktitle = sigcomm,
   year      = 2014,
@@ -21674,7 +24956,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/KulkarniNM06,
-  author    = {P. Kulkarni and
+  author    = {Petre Kulkarni and
                Mohammad Nazeeruddin and
                Sally I. McClean},
   title     = {Building a controlled delay assured forwarding class in differentiated services networks},
@@ -21730,7 +25012,7 @@
   author    = {Jacobus E. van der Merwe and
                A. Cepleanu and
                K. D'Souza and
-               B. Freeman and
+               Brian Freeman and
                A. Greenberg and
                D. Knight and
                R. McMillan and
@@ -21740,7 +25022,7 @@
                M. Nguyen and
                A. Ramarajan and
                S. Saad and
-               M. Satterlee and
+               Michael Satterlee and
                T. Spencer and
                D. Toll and
                S. Zelingher},
@@ -23518,7 +26800,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/ShuK04,
-  author    = {Zhang Shu and
+  author    = {Shu Zhang and
                Youki Kadobayashi},
   title     = {Troubleshooting on intra-domain routing instability},
   booktitle = sigcomm,
@@ -26916,7 +30198,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/WangS91,
-  author    = {Y. T. Wang and
+  author    = {Yung-Terng Wang and
                Bhaskar Sengupta},
   title     = {Performance Analysis of a Feedback Congestion Control Policy Under {Non-Negligible} Propagation Delay},
   booktitle = sigcomm,
@@ -27426,7 +30708,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/Chang89,
-  author    = {C. C. Chang},
+  author    = {Chi-ching Chang},
   title     = {{REXDC} - A Remote Execution Mechanism},
   booktitle = sigcomm,
   year      = 1989,
@@ -27887,8 +31169,8 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/FoleyW86,
-  author    = {J. S. Foley and
-               Y. Weon-Yoon},
+  author    = {Jerrold S. Foley and
+               You-Bong Weon-Yoon},
   title     = {The current status of {MAP}},
   booktitle = sigcomm,
   year      = 1986,
@@ -28564,8 +31846,8 @@
                P. Leach and
                A. Freier and
                R. Lyon and
-               F. Parr},
-  title     = {Remote procedure calls varsus problem-orinted protocols},
+               Gerard P. Parr},
+  title     = {Remote procedure calls versus problem-orinted protocols},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {155},
@@ -29395,7 +32677,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/LamL81,
   author    = {Simon S. Lam and
-               Luke Y.-C. Lien},
+               Luke Yeong-Chang Lien},
   title     = {Modeling and analysis of flow controlled packet switching networks},
   booktitle = sigcomm,
   year      = 1981,

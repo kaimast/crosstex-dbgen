@@ -688,7 +688,7 @@ d.add_journal('ieeeconcurrency', 'IEEE Concurrency', prefixes=('journals/ieeecc'
 d.add_journal('ieeeis',         'IEEE IS', 'IEEE Intelligent Systems', prefixes=('journals/expert',), names=('IEEE Intelligent Systems',))
 d.add_journal('ieeenetwork',    'IEEE Network Magazine', prefixes=('journals/network',), names=('IEEE Network',))
 d.add_journal('ieeesac',        'IEEE Journal on Selected Areas in Communications', prefixes=('journals/jsac',))
-d.add_journal('ieeesecpriv',    'IEEE Security {\&} Privacy', prefixes=('journals/ieeesp',), names=('IEEE Security & Privacy',))
+d.add_journal('ieeesecpriv',    'IEEE Security {\\&} Privacy', prefixes=('journals/ieeesp',), names=('IEEE Security & Privacy',))
 #d.add_journal('ieeese',         'IEEE Transactions on Software Engineering', prefixes=('journals/tse',), names=('IEEE Trans. Software Eng.',))
 d.add_journal('ieeetc',         'IEEE ToC', 'IEEE Transactions on Computers', prefixes=('journals/tc',), names=('IEEE Trans.  Computers',))
 d.add_journal('tpds',           'IEEE Transactions on Parallel and Distributed Systems', names=('IEEE Trans. Parallel Distrib. Syst.',))

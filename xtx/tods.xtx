@@ -1,5 +1,170 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/GottlobLOP24,
+  author    = {Georg Gottlob and
+               Matthias Lanzinger and
+               Cem Okulmus and
+               Reinhard Pichler},
+  title     = {Fast Parallel Hypertree Decompositions in Logarithmic Recursion Depth},
+  journal   = tods,
+  volume    = {49},
+  number    = {1},
+  year      = 2024,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/FanLPJY24,
+  author    = {Wenfei Fan and
+               Ping Lu and
+               Kehan Pang and
+               Ruochun Jin and
+               Wenyuan Yu},
+  title     = {Linking Entities across Relations and Graphs},
+  journal   = tods,
+  volume    = {49},
+  number    = {1},
+  year      = 2024,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/WangTZYZGC24,
+  author    = {Zhaoguo Wang and
+               Chuzhe Tang and
+               Xiaodong Zhang and
+               Qianmian Yu and
+               Binyu Zang and
+               Haibing Guan and
+               Haibo Chen},
+  title     = {Ad Hoc Transactions through the Looking Glass: An Empirical Study of {Application-Level} Transactions in Web Applications},
+  journal   = tods,
+  volume    = {49},
+  number    = {1},
+  year      = 2024,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/CurrimSS24,
+  author    = {Sabah Currim and
+               Richard T. Snodgrass and
+               Young-Kyoon Suh},
+  title     = {Identifying the Root Causes of {DBMS} Suboptimality},
+  journal   = tods,
+  volume    = {49},
+  number    = {1},
+  year      = 2024,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/ArroyueloGHNRRS24,
+  author    = {Diego Arroyuelo and
+               Adrián Gómez-Brandón and
+               Aidan Hogan and
+               Gonzalo Navarro and
+               Juan L. Reutter and
+               Javiel Rojas-Ledesma and
+               Adrián Soto},
+  title     = {The Ring: Worst-case Optimal Joins in Graph Databases using (Almost) No Extra Space},
+  journal   = tods,
+  volume    = {49},
+  number    = {2},
+  year      = 2024,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/ChapmanLMT24,
+  author    = {Adriane Chapman and
+               Luca Lauro and
+               Paolo Missier and
+               Riccardo Torlone},
+  title     = {Supporting Better Insights of Data Science Pipelines with Fine-grained Provenance},
+  journal   = tods,
+  volume    = {49},
+  number    = {2},
+  year      = 2024,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/ZhangT24,
+  author    = {Chao Zhang and
+               Farouk Toumani},
+  title     = {Sharing Queries with Nonequivalent User-defined Aggregate Functions},
+  journal   = tods,
+  volume    = {49},
+  number    = {2},
+  year      = 2024,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/CarmeliGKLT24,
+  author    = {Nofar Carmeli and
+               Martin Grohe and
+               Benny Kimelfeld and
+               Ester Livshits and
+               Muhammad Tibi},
+  title     = {Database Repairing with Soft Functional Dependencies},
+  journal   = tods,
+  volume    = {49},
+  number    = {2},
+  year      = 2024,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/TenchWZBCDDFSZ24,
+  author    = {David Tench and
+               Evan West and
+               Victor Zhang and
+               Michael A. Bender and
+               Abiyaz Chowdhury and
+               Daniel DeLayo and
+               J. Ahmed Dellas and
+               Martín Farach-Colton and
+               Tyler Seip and
+               Kenny Zhang},
+  title     = {GraphZeppelin: How to Find Connected Components (Even When Graphs Are Dense, Dynamic, and Massive)},
+  journal   = tods,
+  volume    = {49},
+  number    = {3},
+  year      = 2024,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/BugedoRS24,
+  author    = {Sebastián Bugedo and
+               Cristian Riveros and
+               Jorge Salas},
+  title     = {A Family of Centrality Measures for Graph Data Based on Subgraphs},
+  journal   = tods,
+  volume    = {49},
+  number    = {3},
+  year      = 2024,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/GershteinAGMN24,
+  author    = {Shay Gershtein and
+               Uri Avron and
+               Ido Guy and
+               Tova Milo and
+               Slava Novgorodov},
+  title     = {Automated Category Tree Construction: Hardness Bounds and Algorithms},
+  journal   = tods,
+  volume    = {49},
+  number    = {3},
+  year      = 2024,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/HuM24,
+  author    = {Pan Hu and
+               Boris Motik},
+  title     = {Accurate {Sampling-Based} Cardinality Estimation for Complex Graph Queries},
+  journal   = tods,
+  volume    = {49},
+  number    = {3},
+  year      = 2024,
+  pages     = {12-1},
+}
+
 @article{DBLP:journals/tods/CarmeliTGKR23,
   author    = {Nofar Carmeli and
                Nikolaos Tziavelis and
@@ -76,6 +241,71 @@
   number    = {2},
   year      = 2023,
   pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/PavanVBM23,
+  author    = {A. Pavan and
+               N. Variyam Vinodchandran and
+               Arnab Bhattacharyya and
+               Kuldeep S. Meel},
+  title     = {Model Counting Meets F0 Estimation},
+  journal   = tods,
+  volume    = {48},
+  number    = {3},
+  year      = 2023,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/SarkarPSZA23,
+  author    = {Subhadeep Sarkar and
+               Tarikul Islam Papon and
+               Dimitris Staratzis and
+               Zichen Zhu and
+               Manos Athanassoulis},
+  title     = {Enabling Timely and Persistent Deletion in {LSM-Engines}},
+  journal   = tods,
+  volume    = {48},
+  number    = {3},
+  year      = 2023,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/LeventidisRGMR23,
+  author    = {Aristotelis Leventidis and
+               Laura Di Rocco and
+               Wolfgang Gatterbauer and
+               Renée J. Miller and
+               Mirek Riedewald},
+  title     = {DomainNet: Homograph Detection and Understanding in Data Lake Disambiguation},
+  journal   = tods,
+  volume    = {48},
+  number    = {3},
+  year      = 2023,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/LuMNT23,
+  author    = {Shangqi Lu and
+               Wim Martens and
+               Matthias Niewerth and
+               Yufei Tao},
+  title     = {Partial Order Multiway Search},
+  journal   = tods,
+  volume    = {48},
+  number    = {4},
+  year      = 2023,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/HerodotouK23,
+  author    = {Herodotos Herodotou and
+               Elena Kakoulli},
+  title     = {Cost-based Data Prefetching and Scheduling in Big Data Platforms over Tiered Storage Systems},
+  journal   = tods,
+  volume    = {48},
+  number    = {4},
+  year      = 2023,
+  pages     = {11-1},
 }
 
 @article{DBLP:journals/tods/BergerGPS22,
@@ -3795,7 +4025,7 @@
   author    = {Nikolaus Augsten and
                Michael H. Böhlen and
                Johann Gamper},
-  title     = {The pq-gram distance between ordered labeled trees},
+  title     = {The pq},
   journal   = tods,
   volume    = {35},
   number    = {1},
@@ -8288,7 +8518,7 @@
 
 @article{DBLP:journals/tods/CasanovaFT91,
   author    = {Marco A. Casanova and
-               Antonio L. Furtado and
+               António L. Furtado and
                Luiz Tucherman},
   title     = {A Software Tool for Modular Database Design},
   journal   = tods,
@@ -8710,7 +8940,7 @@
 
 @article{DBLP:journals/tods/AhadRM89,
   author    = {Rafiul Ahad and
-               K. V. Bapa Rao and
+               Kotcherlakota V. Bapa Rao and
                Dennis McLeod},
   title     = {On Estimating the Cardinality of the Projection of a Database Relation},
   journal   = tods,

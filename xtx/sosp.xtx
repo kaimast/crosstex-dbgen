@@ -1,5 +1,1226 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sosp/GiridharanSAAC24,
+  author    = {Neil Giridharan and
+               Florian Suri-Payer and
+               Ittai Abraham and
+               Lorenzo Alvisi and
+               Natacha Crooks},
+  title     = {Autobahn: Seamless high speed {BFT}},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {1-23},
+}
+
+@inproceedings{DBLP:conf/sosp/MuratBXZAG24,
+  author    = {Antoine Murat and
+               Clément Burgelin and
+               Athanasios Xygkis and
+               Igor Zablotchi and
+               Marcos Kawazoe Aguilera and
+               Rachid Guerraoui},
+  title     = {SWARM: Replicating Shared {Disaggregated-Memory} Data in No Time},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {24-45},
+}
+
+@inproceedings{DBLP:conf/sosp/PanWLN024,
+  author    = {Jia Pan and
+               Haoze Wu and
+               Tanakorn Leesatapornwongsa and
+               Suman Nath and
+               Peng Huang},
+  title     = {Efficient Reproduction of {Fault-Induced} Failures in Distributed Systems with {Feedback-Driven} Fault Injection},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {46-62},
+}
+
+@inproceedings{DBLP:conf/sosp/StoicaSSZ0MMN24,
+  author    = {Bogdan Alexandru Stoica and
+               Utsav Sethi and
+               Yiming Su and
+               Cyrus Zhou and
+               Shan Lu and
+               Jonathan Mace and
+               Madanlal Musuvathi and
+               Suman Nath},
+  title     = {If At First You Don't Succeed, Try, Try, Again...? Insights and {LLM-informed} Tooling for Detecting Retry Bugs in Software Systems},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {63-78},
+}
+
+@inproceedings{DBLP:conf/sosp/Vuppalapati024,
+  author    = {Midhul Vuppalapati and
+               Rachit Agarwal},
+  title     = {Tiered Memory Management: Access Latency is the Key!},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {79-94},
+}
+
+@inproceedings{DBLP:conf/sosp/RubinAC024,
+  author    = {Benny Rubin and
+               Saksham Agarwal and
+               Qizhe Cai and
+               Rachit Agarwal},
+  title     = {Fast & Safe {IO} Memory Protection},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {95-109},
+}
+
+@inproceedings{DBLP:conf/sosp/LuoSZ0LZ24,
+  author    = {Xuchuan Luo and
+               Jiacheng Shen and
+               Pengfei Zuo and
+               Xin Wang and
+               Michael R. Lyu and
+               Yangfan Zhou},
+  title     = {CHIME: A {Cache-Efficient} and {High-Performance} Hybrid Index on Disaggregated Memory},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {110-126},
+}
+
+@inproceedings{DBLP:conf/sosp/HuZCWHY24,
+  author    = {Zhisheng Hu and
+               Pengfei Zuo and
+               Yizou Chen and
+               Chao Wang and
+               Junliang Hu and
+               Ming-Chang Yang},
+  title     = {Aceso: Achieving Efficient Fault Tolerance in {Memory-Disaggregated} {Key-Value} Stores},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {127-143},
+}
+
+@inproceedings{DBLP:conf/sosp/ChungGJM0C24,
+  author    = {Jae-Won Chung and
+               Yile Gu and
+               Insu Jang and
+               Luoxi Meng and
+               Nikhil Bansal and
+               Mosharaf Chowdhury},
+  title     = {Reducing Energy Bloat in Large Model Training},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {144-159},
+}
+
+@inproceedings{DBLP:conf/sosp/LiuQC0HS0Y24,
+  author    = {Siran Liu and
+               Chengxiang Qi and
+               Ying Cao and
+               Chao Yang and
+               Weifang Hu and
+               Xuanhua Shi and
+               Fan Yang and
+               Mao Yang},
+  title     = {Uncovering Nested Data Parallelism and Data Reuse in {DNN} Computation with {FractalTensor}},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {160-177},
+}
+
+@inproceedings{DBLP:conf/sosp/GeFLWLWN0M024,
+  author    = {Hao Ge and
+               Fangcheng Fu and
+               Haoyang Li and
+               Xuanyu Wang and
+               Sheng Lin and
+               Yujie Wang and
+               Xiaonan Nie and
+               Hailin Zhang and
+               Xupeng Miao and
+               Bin Cui},
+  title     = {Enabling Parallelism Hot Switching for Efficient Training of Large Language Models},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {178-194},
+}
+
+@inproceedings{DBLP:conf/sosp/WagenlanderL0MP24,
+  author    = {Marcel Wagenländer and
+               Guo Li and
+               Bo Zhao and
+               Luo Mai and
+               Peter R. Pietzuch},
+  title     = {Tenplex: Dynamic Parallelism for Deep Learning using Parallelizable Tensor Collections},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {195-210},
+}
+
+@inproceedings{DBLP:conf/sosp/GandhiZSK24,
+  author    = {Swapnil Gandhi and
+               Mark Zhao and
+               Athinagoras Skiadopoulos and
+               Christos Kozyrakis},
+  title     = {ReCycle: Resilient Training of Large {DNNs} using Pipeline Adaptation},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {211-228},
+}
+
+@inproceedings{DBLP:conf/sosp/JeongCLSK24,
+  author    = {Dae R. Jeong and
+               Yewon Choi and
+               Byoungyoung Lee and
+               Insik Shin and
+               Youngjin Kwon},
+  title     = {OZZ: Identifying Kernel {Out-of-Order} Concurrency Bugs with {In-Vivo} Memory Access Reordering},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {229-248},
+}
+
+@inproceedings{DBLP:conf/sosp/DwivediIK24,
+  author    = {Kumar Kartikeya Dwivedi and
+               Rishabh R. Iyer and
+               Sanidhya Kashyap},
+  title     = {Fast, Flexible, and Practical Kernel Extensions},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {249-264},
+}
+
+@inproceedings{DBLP:conf/sosp/JiaTY0C24,
+  author    = {Yuekai Jia and
+               Kaifu Tian and
+               Yuyang You and
+               Yu Chen and
+               Kang Chen},
+  title     = {Skyloft: A General {High-Efficient} Scheduling Framework in User Space},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {265-279},
+}
+
+@inproceedings{DBLP:conf/sosp/LinCGL24,
+  author    = {Jiazhen Lin and
+               Youmin Chen and
+               Shiwei Gao and
+               Youyou Lu},
+  title     = {Fast Core Scheduling with Userspace Process Abstraction},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {280-295},
+}
+
+@inproceedings{DBLP:conf/sosp/LuoBHAG24,
+  author    = {Xuhao Luo and
+               Shreesha G. Bhat and
+               Jiyu Hu and
+               Ramnatthan Alagappan and
+               Aishwarya Ganesan},
+  title     = {LazyLog: A New Shared Log Abstraction for {Low-Latency} Applications},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {296-312},
+}
+
+@inproceedings{DBLP:conf/sosp/YiSPSYCLJZ024,
+  author    = {Shushu Yi and
+               Shaocong Sun and
+               Li Peng and
+               Yingbo Sun and
+               Ming-Chang Yang and
+               Zhichao Cao and
+               Qiao Li and
+               Myoungsoo Jung and
+               Ke Zhou and
+               Jie Zhang},
+  title     = {BIZA: Design of {Self-Governing} {Block-Interface} {ZNS} {AFA} for Endurance and Performance},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {313-329},
+}
+
+@inproceedings{DBLP:conf/sosp/KimAKMDMGR24,
+  author    = {Timothy Kim and
+               Sanjith Athlur and
+               Saurabh Kadekodi and
+               Francisco Maturana and
+               Dax Delvira and
+               Arif Merchant and
+               Gregory R. Ganger and
+               K. V. Rashmi},
+  title     = {Morph: Efficient {File-Lifetime} Redundancy Management for Cluster File Systems},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {330-346},
+}
+
+@inproceedings{DBLP:conf/sosp/ParkQGA24,
+  author    = {Hojin Park and
+               Ziyue Qiu and
+               Gregory R. Ganger and
+               George Amvrosiadis},
+  title     = {Reducing Cross-Cloud/Region Costs with the {Auto-Configuring} {MACARON} Cache},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {347-368},
+}
+
+@inproceedings{DBLP:conf/sosp/CvetkovicCD0K24,
+  author    = {Lazar Cvetkovic and
+               François Costa and
+               Mihajlo Djokic and
+               Michal Friedman and
+               Ana Klimovic},
+  title     = {Dirigent: Lightweight Serverless Orchestration},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {369-384},
+}
+
+@inproceedings{DBLP:conf/sosp/SzekelyBMK24,
+  author    = {Ariel Szekely and
+               Adam Belay and
+               Robert Tappan Morris and
+               M. Frans Kaashoek},
+  title     = {Unifying serverless and microservice workloads with {SigmaOS}},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {385-402},
+}
+
+@inproceedings{DBLP:conf/sosp/GsteigerLSJS24,
+  author    = {Viktor Urban Gsteiger and
+               Pin Hong (Daniel) Long and
+               Yiran (Jerry) Sun and
+               Parshan Javanrood and
+               Mohammad Shahrad},
+  title     = {Caribou: {Fine-Grained} Geospatial Shifting of Serverless Applications for Sustainability},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {403-420},
+}
+
+@inproceedings{DBLP:conf/sosp/HuangZMLLCJLSZL24,
+  author    = {Jialiang Huang and
+               Mingxing Zhang and
+               Teng Ma and
+               Zheng Liu and
+               Sixing Lin and
+               Kang Chen and
+               Jinlei Jiang and
+               Xia Liao and
+               Yingdi Shan and
+               Ning Zhang and
+               Mengting Lu and
+               Tao Ma and
+               Haifeng Gong and
+               YongWei Wu},
+  title     = {TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {421-437},
+}
+
+@inproceedings{DBLP:conf/sosp/0001HB0CLSACHHL24,
+  author    = {Andrea Lattuada and
+               Travis Hance and
+               Jay Bosamiya and
+               Matthias Brun and
+               Chanhee Cho and
+               Hayley LeBlanc and
+               Pranav Srinivasan and
+               Reto Achermann and
+               Tej Chajed and
+               Chris Hawblitzel and
+               Jon Howell and
+               Jacob R. Lorch and
+               Oded Padon and
+               Bryan Parno},
+  title     = {Verus: A Practical Foundation for Systems Verification},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {438-454},
+}
+
+@inproceedings{DBLP:conf/sosp/CebeciZZCP24,
+  author    = {Can Cebeci and
+               Yong-Hao Zou and
+               Diyu Zhou and
+               George Candea and
+               Clément Pit-Claudel},
+  title     = {Practical Verification of {System-Software} Components Written in Standard C},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {455-472},
+}
+
+@inproceedings{DBLP:conf/sosp/SmithSRTBSJS24,
+  author    = {Naomi Smith and
+               Abhishek Sharma and
+               John Renner and
+               David Thien and
+               Fraser Brown and
+               Hovav Shacham and
+               Ranjit Jhala and
+               Deian Stefan},
+  title     = {Icarus: Trustworthy {Just-In-Time} Compilers with Symbolic {Meta-Execution}},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {473-487},
+}
+
+@inproceedings{DBLP:conf/sosp/PrasadRRGB24,
+  author    = {Ashwin Prasad and
+               Sampath Rajendra and
+               Kaushik Rajan and
+               R. Govindarajan and
+               Uday Bondhugula},
+  title     = {SilvanForge: A {Schedule-Guided} Retargetable Compiler for Decision Tree Inference},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {488-504},
+}
+
+@inproceedings{DBLP:conf/sosp/LiuXCMMX024,
+  author    = {Yiqi Liu and
+               Yuqi Xue and
+               Yu Cheng and
+               Lingxiao Ma and
+               Ziming Miao and
+               Jilong Xue and
+               Jian Huang},
+  title     = {Scaling Deep Learning Computation over the {Inter-Core} Connected Intelligence Processor with T10},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {505-521},
+}
+
+@inproceedings{DBLP:conf/sosp/Yoon0YHJKKWGCLH24,
+  author    = {Dong Young Yoon and
+               Yang Wang and
+               Miao Yu and
+               Elvis Huang and
+               Juan Ignacio Jones and
+               Abhinay Kukkadapu and
+               Osman Kocas and
+               Jonathan Wiepert and
+               Kapil Goenka and
+               Sherry Chen and
+               Yanjun Lin and
+               Zhihui Huang and
+               Jocelyn Kong and
+               Michael Chow and
+               Chunqiang Tang},
+  title     = {FBDetect: Catching Tiny Performance Regressions at Hyperscale through {In-Production} Monitoring},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {522-540},
+}
+
+@inproceedings{DBLP:conf/sosp/GuoLLSPLDLSYZM24,
+  author    = {Kaijie Guo and
+               Dingji Li and
+               Ben Luo and
+               Yibin Shen and
+               Kaihuan Peng and
+               Ning Luo and
+               Shengdong Dai and
+               Chen Liang and
+               Jianming Song and
+               Hang Yang and
+               Xiantao Zhang and
+               Zeyu Mi},
+  title     = {VPRI: Efficient I/O Page Fault Handling via {Software-Hardware} {Co-Design} for {IaaS} Clouds},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {541-557},
+}
+
+@inproceedings{DBLP:conf/sosp/QiuZL00LGSMLX24,
+  author    = {Jiaxing Qiu and
+               Zijie Zhou and
+               Yang Li and
+               Zhenhua Li and
+               Feng Qian and
+               Hao Lin and
+               Di Gao and
+               Haitao Su and
+               Xin Miao and
+               Yunhao Liu and
+               Tianyin Xu},
+  title     = {vSoC: Efficient Virtual {System-on-Chip} on Heterogeneous Hardware},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {558-573},
+}
+
+@inproceedings{DBLP:conf/sosp/QiuKB024,
+  author    = {Yiming Qiu and
+               Patrick Tser Jern Kon and
+               Ryan Beckett and
+               Ang Chen},
+  title     = {Unearthing Semantic Checks for Cloud {Infrastructure-as-Code} Programs},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {574-589},
+}
+
+@inproceedings{DBLP:conf/sosp/SongMX024,
+  author    = {Yixin Song and
+               Zeyu Mi and
+               Haotong Xie and
+               Haibo Chen},
+  title     = {PowerInfer: Fast Large Language Model Serving with a Consumer-grade {GPU}},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {590-606},
+}
+
+@inproceedings{DBLP:conf/sosp/DaiPILN24,
+  author    = {Yinwei Dai and
+               Rui Pan and
+               Anand P. Iyer and
+               Kai Li and
+               Ravi Netravali},
+  title     = {Apparate: Rethinking Early Exits to Tame {Latency-Throughput} Tensions in {ML} Serving},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {607-623},
+}
+
+@inproceedings{DBLP:conf/sosp/IyerGDPGN24,
+  author    = {Anand Padmanabha Iyer and
+               Mingyu Guan and
+               Yinwei Dai and
+               Rui Pan and
+               Swapnil Gandhi and
+               Ravi Netravali},
+  title     = {Improving {DNN} Inference Throughput Using Practical, {Per-Input} Compute Adaptation},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {624-639},
+}
+
+@inproceedings{DBLP:conf/sosp/WuLZ0L024,
+  author    = {Bingyang Wu and
+               Shengyu Liu and
+               Yinmin Zhong and
+               Peng Sun and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {LoongServe: Efficiently Serving {Long-Context} Large Language Models with Elastic Sequence Parallelism},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {640-654},
+}
+
+@inproceedings{DBLP:conf/sosp/AthalyeCKTZ24,
+  author    = {Anish Athalye and
+               Henry Corrigan-Gibbs and
+               M. Frans Kaashoek and
+               Joseph Tassarotti and
+               Nickolai Zeldovich},
+  title     = {Modular Verification of Secure and {Leakage-Free} Systems: From Application Specification to {Circuit-Level} Implementation},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {655-672},
+}
+
+@inproceedings{DBLP:conf/sosp/DeStefanoMBW24,
+  author    = {Zachary DeStefano and
+               Jeff J. Ma and
+               Joseph Bonneau and
+               Michael Walfish},
+  title     = {NOPE: Strengthening domain authentication with succinct proofs},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {673-692},
+}
+
+@inproceedings{DBLP:conf/sosp/TholoniatKMSVCC24,
+  author    = {Pierre Tholoniat and
+               Kelly Kostopoulou and
+               Peter McNeely and
+               Prabhpreet Singh Sodhi and
+               Anirudh Varanasi and
+               Benjamin Case and
+               Asaf Cidon and
+               Roxana Geambasu and
+               Mathias Lécuyer},
+  title     = {Cookie Monster: Efficient {On-Device} Budgeting for {Differentially-Private} {Ad-Measurement} Systems},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {693-708},
+}
+
+@inproceedings{DBLP:conf/sosp/AlbabAATPRS24,
+  author    = {Kinan Dak Albab and
+               Artem Agvanian and
+               Allen Aby and
+               Corinn Tiffany and
+               Alexander Portland and
+               Sarah Ridley and
+               Malte Schwarzkopf},
+  title     = {Sesame: Practical {End-to-End} Privacy Compliance with Policy Containers and Privacy Regions},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {709-725},
+}
+
+@inproceedings{DBLP:conf/sosp/DuanKWP24,
+  author    = {Huayi Duan and
+               Jihye Kim and
+               Marc Wyss and
+               Adrian Perrig},
+  title     = {{DNS} Congestion Control in Adversarial Settings},
+  booktitle = sosp,
+  year      = 2024,
+  pages     = {726-747},
+}
+
+@inproceedings{DBLP:conf/sosp/Wu0M023,
+  author    = {Fangnuo Wu and
+               Mingkai Dong and
+               Gequan Mo and
+               Haibo Chen},
+  title     = {TreeSLS: A Whole-system Persistent Microkernel with Tree-structured State Checkpoint on {NVM}},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/sosp/LeeMME23,
+  author    = {Taehyung Lee and
+               Sumit Kumar Monga and
+               Changwoo Min and
+               Young Ik Eom},
+  title     = {MEMTIS: Efficient Memory Tiering with Dynamic Page Classification and Page Size Determination},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {17-34},
+}
+
+@inproceedings{DBLP:conf/sosp/GongPA0M23,
+  author    = {Sishuai Gong and
+               Dinglan Peng and
+               Deniz Altinbüken and
+               Pedro Fonseca and
+               Petros Maniatis},
+  title     = {Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {35-51},
+}
+
+@inproceedings{DBLP:conf/sosp/HeSZ0M23,
+  author    = {Liang He and
+               Purui Su and
+               Chao Zhang and
+               Yan Cai and
+               Jinxin Ma},
+  title     = {One Simple {API} Can Cause Hundreds of Bugs An Analysis of Refcounting Bugs in All Modern Linux Kernels},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {52-65},
+}
+
+@inproceedings{DBLP:conf/sosp/Li00S23,
+  author    = {Cong Li and
+               Yanyan Jiang and
+               Chang Xu and
+               Zhendong Su},
+  title     = {Validating {JIT} Compilers via Compilation Space Exploration},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {66-79},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhengLXSLHWMLCZ23,
+  author    = {Naiqian Zheng and
+               Mengqi Liu and
+               Yuxing Xiang and
+               Linjian Song and
+               Dong Li and
+               Feng Han and
+               Nan Wang and
+               Yong Ma and
+               Zhuo Liang and
+               Dennis Cai and
+               Ennan Zhai and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Automated Verification of an {In-Production} {DNS} Authoritative Engine},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {80-95},
+}
+
+@inproceedings{DBLP:conf/sosp/GuSZJWVLX23,
+  author    = {Jiawei Tyler Gu and
+               Xudong Sun and
+               Wentao Zhang and
+               Yuxuan Jiang and
+               Chen Wang and
+               Mandana Vaziri and
+               Owolabi Legunsen and
+               Tianyin Xu},
+  title     = {Acto: Automatic {End-to-End} Testing for Operation Correctness of Cloud System Management},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {96-112},
+}
+
+@inproceedings{DBLP:conf/sosp/Sharma0TKZ23,
+  author    = {Upamanyu Sharma and
+               Ralf Jung and
+               Joseph Tassarotti and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Grove: a {Separation-Logic} Library for Verifying Distributed Systems},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {113-129},
+}
+
+@inproceedings{DBLP:conf/sosp/YangZQYV23,
+  author    = {Juncheng Yang and
+               Yazhuo Zhang and
+               Ziyue Qiu and
+               Yao Yue and
+               Rashmi Vinayak},
+  title     = {{FIFO} queues are all you need for cache eviction},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {130-149},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhouA0ZKK23,
+  author    = {Diyu Zhou and
+               Vojtech Aschenbrenner and
+               Tao Lyu and
+               Jian Zhang and
+               Sudarsun Kannan and
+               Sanidhya Kashyap},
+  title     = {Enabling {High-Performance} and Secure Userspace {NVM} File Systems with the Trio Architecture},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {150-165},
+}
+
+@inproceedings{DBLP:conf/sosp/0001AABBCCCCCCC23,
+  author    = {Patrick Anderson and
+               Erika Blancada Aranas and
+               Youssef Assaf and
+               Raphael Behrendt and
+               Richard Black and
+               Marco Caballero and
+               Pashmina Cameron and
+               Burcu Canakci and
+               Thales De Carvalho and
+               Andromachi Chatzieleftheriou and
+               Rebekah Storan Clarke and
+               James Clegg and
+               Daniel Cletheroe and
+               Bridgette Cooper and
+               Tim Deegan and
+               Austin Donnelly and
+               Rokas Drevinskas and
+               Alexander L. Gaunt and
+               Christos Gkantsidis and
+               Ariel Gomez Diaz and
+               István Haller and
+               Freddie Hong and
+               Teodora Ilieva and
+               Shashidhar Joshi and
+               Russell Joyce and
+               Mint Kunkel and
+               David Lara and
+               Sergey Legtchenko and
+               Fanglin Linda Liu and
+               Bruno Magalhães and
+               Alana Marzoev and
+               Marvin McNett and
+               Jayashree Mohan and
+               Michael Myrah and
+               Trong Nguyen and
+               Sebastian Nowozin and
+               Aaron Ogus and
+               Hiske Overweg and
+               Antony I. T. Rowstron and
+               Maneesh Sah and
+               Masaaki Sakakura and
+               Peter Scholtz and
+               Nina Schreiner and
+               Omer Sella and
+               Adam Smith and
+               Ioan A. Stefanovici and
+               David Sweeney and
+               Benn Thomsen and
+               Govert Verkes and
+               Phil Wainman and
+               Jonathan Westcott and
+               Luke Weston and
+               Charles Whittaker and
+               Pablo Wilke Berenguer and
+               Hugh Williams and
+               Thomas Winkler and
+               Stefan Winzeck},
+  title     = {Project Silica: Towards Sustainable Cloud Archival Storage in Glass},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {166-181},
+}
+
+@inproceedings{DBLP:conf/sosp/ReidysXLSHCA023,
+  author    = {Benjamin Reidys and
+               Yuqi Xue and
+               Daixuan Li and
+               Bharat Sukhwani and
+               Wen-Mei Hwu and
+               Deming Chen and
+               Sameh W. Asaad and
+               Jian Huang},
+  title     = {RackBlox: A {Software-Defined} {Rack-Scale} Storage System with {Network-Storage} {Co-Design}},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {182-199},
+}
+
+@inproceedings{DBLP:conf/sosp/RaghavanRYTSMPO23,
+  author    = {Deepti Raghavan and
+               Shreya Ravi and
+               Gina Yuan and
+               Pratiksha Thaker and
+               Sanjari Srivastava and
+               Micah Murray and
+               Pedro Henrique Penna and
+               Amy Ousterhout and
+               Philip Alexander Levis and
+               Matei Zaharia and
+               Irene Zhang},
+  title     = {Cornflakes: {Zero-Copy} Serialization for {Microsecond-Scale} Networking},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {200-215},
+}
+
+@inproceedings{DBLP:conf/sosp/WangZW0WL23,
+  author    = {Shaobu Wang and
+               Guangyan Zhang and
+               Junyu Wei and
+               Yang Wang and
+               Jiesheng Wu and
+               Qingchao Luo},
+  title     = {Understanding Silent Data Corruptions in a Large Production {CPU} Population},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {216-230},
+}
+
+@inproceedings{DBLP:conf/sosp/SahraeiDSZNPJSH23,
+  author    = {Alireza Sahraei and
+               Soteris Demetriou and
+               Amirali Sobhgol and
+               Haoran Zhang and
+               Abhigna Nagaraja and
+               Neeraj Pathak and
+               Girish Joshi and
+               Carla Souza and
+               Bo Huang and
+               Wyatt Cook and
+               Andrii Golovei and
+               Pradeep Venkat and
+               Andrew Mcfague and
+               Dimitrios Skarlatos and
+               Vipul Patel and
+               Ravinder Thind and
+               Ernesto Gonzalez and
+               Yun Jin and
+               Chunqiang Tang},
+  title     = {XFaaS: Hyperscale and Low Cost Serverless Functions at Meta},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {231-246},
+}
+
+@inproceedings{DBLP:conf/sosp/HuH023,
+  author    = {Yigong Hu and
+               Gongqi Huang and
+               Peng Huang},
+  title     = {Pushing Performance Isolation Boundaries into Application with {pBox}},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {247-263},
+}
+
+@inproceedings{DBLP:conf/sosp/LiuXS0XWFDYZ23,
+  author    = {Shengyun Liu and
+               Wenbo Xu and
+               Chen Shan and
+               Xiaofeng Yan and
+               Tianjing Xu and
+               Bo Wang and
+               Lei Fan and
+               Fuxi Deng and
+               Ying Yan and
+               Hui Zhang},
+  title     = {Flexible Advancement in Asynchronous {BFT} Consensus},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {264-280},
+}
+
+@inproceedings{DBLP:conf/sosp/TennageBKSJEF23,
+  author    = {Pasindu Tennage and
+               Cristina Basescu and
+               Lefteris Kokoris-Kogias and
+               Ewa Syta and
+               Philipp Jovanovic and
+               Vero Estrada-Galiñanes and
+               Bryan Ford},
+  title     = {QuePaxa: Escaping the tyranny of timeouts in consensus},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {281-297},
+}
+
+@inproceedings{DBLP:conf/sosp/LoffP0M023,
+  author    = {João Ferreira Loff and
+               Daniel Porto and
+               João Garcia and
+               Jonathan Mace and
+               Rodrigo Rodrigues},
+  title     = {Antipode: Enforcing {Cross-Service} Causal Consistency in Distributed Applications},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {298-313},
+}
+
+@inproceedings{DBLP:conf/sosp/QiLJ23,
+  author    = {Sheng Qi and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Halfmoon: {Log-Optimal} {Fault-Tolerant} Stateful Serverless Computing},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {314-330},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhengJZHM0YZQYZ23,
+  author    = {Ningxin Zheng and
+               Huiqiang Jiang and
+               Quanlu Zhang and
+               Zhenhua Han and
+               Lingxiao Ma and
+               Yuqing Yang and
+               Fan Yang and
+               Chengruidong Zhang and
+               Lili Qiu and
+               Mao Yang and
+               Lidong Zhou},
+  title     = {PIT: Optimization of Dynamic Sparse Deep Learning Models via Permutation Invariant Transformation},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {331-347},
+}
+
+@inproceedings{DBLP:conf/sosp/AgarwalYZV23,
+  author    = {Saurabh Agarwal and
+               Chengpo Yan and
+               Ziyi Zhang and
+               Shivaram Venkataraman},
+  title     = {Bagpipe: Accelerating Deep Recommendation Model Training},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {348-363},
+}
+
+@inproceedings{DBLP:conf/sosp/WangJZZFNW23,
+  author    = {Zhuang Wang and
+               Zhen Jia and
+               Shuai Zheng and
+               Zhen Zhang and
+               Xinwei Fu and
+               T. S. Eugene Ng and
+               Yida Wang},
+  title     = {GEMINI: Fast Failure Recovery in Distributed Training with {In-Memory} Checkpoints},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {364-381},
+}
+
+@inproceedings{DBLP:conf/sosp/JangYZJC23,
+  author    = {Insu Jang and
+               Zhenning Yang and
+               Zhen Zhang and
+               Xin Jin and
+               Mosharaf Chowdhury},
+  title     = {Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {382-395},
+}
+
+@inproceedings{DBLP:conf/sosp/HenzingerDCZ23,
+  author    = {Alexandra Henzinger and
+               Emma Dauterman and
+               Henry Corrigan-Gibbs and
+               Nickolai Zeldovich},
+  title     = {Private Web Search with Tiptoe},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {396-416},
+}
+
+@inproceedings{DBLP:conf/sosp/LoughlinRSW0K23,
+  author    = {Kevin Loughlin and
+               Jonah Rosenblum and
+               Stefan Saroiu and
+               Alec Wolman and
+               Dimitrios Skarlatos and
+               Baris Kasikci},
+  title     = {Siloz: Leveraging {DRAM} Isolation Domains to Prevent {Inter-VM} Rowhammer},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {417-433},
+}
+
+@inproceedings{DBLP:conf/sosp/TsaiGKKS23,
+  author    = {Lillian Tsai and
+               Hannah Gross and
+               Eddie Kohler and
+               M. Frans Kaashoek and
+               Malte Schwarzkopf},
+  title     = {Edna: Disguising and Revealing User Data in Web Applications},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {434-450},
+}
+
+@inproceedings{DBLP:conf/sosp/MargolinNLRH23,
+  author    = {Elizabeth Margolin and
+               Karan Newatia and
+               Tao Luo and
+               Edo Roth and
+               Andreas Haeberlen},
+  title     = {Arboretum: A Planner for {Large-Scale} Federated Analytics with Differential Privacy},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {451-465},
+}
+
+@inproceedings{DBLP:conf/sosp/IyerUKC23,
+  author    = {Rishabh R. Iyer and
+               Musa Unal and
+               Marios Kogias and
+               George Candea},
+  title     = {Achieving {Microsecond-Scale} Tail Latency Efficiently with Approximate Optimal Scheduling},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {466-481},
+}
+
+@inproceedings{DBLP:conf/sosp/Anand0KM23,
+  author    = {Vaastav Anand and
+               Deepak Garg and
+               Antoine Kaufmann and
+               Jonathan Mace},
+  title     = {Blueprint: A Toolchain for {Highly-Reconfigurable} Microservice Applications},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {482-497},
+}
+
+@inproceedings{DBLP:conf/sosp/SeemakhuptSK0WY23,
+  author    = {Korakit Seemakhupt and
+               Brent E. Stephens and
+               Samira Manabi Khan and
+               Sihang Liu and
+               Hassan M. G. Wassel and
+               Soheil Hassas Yeganeh and
+               Alex C. Snoeren and
+               Arvind Krishnamurthy and
+               David E. Culler and
+               Henry M. Levy},
+  title     = {A {Cloud-Scale} Characterization of Remote Procedure Calls},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {498-514},
+}
+
+@inproceedings{DBLP:conf/sosp/HuangLR0HSXZZWH23,
+  author    = {Hang Huang and
+               Jiangshan Lai and
+               Jia Rao and
+               Hui Lu and
+               Wenlong Hou and
+               Hang Su and
+               Quan Xu and
+               Jiang Zhong and
+               Jiahao Zeng and
+               Xu Wang and
+               Zhengyu He and
+               Weidong Han and
+               Jiang Liu and
+               Tao Ma and
+               Song Wu},
+  title     = {PVM: Efficient Shadow Paging for Deploying Secure Containers in Cloud-native Environment},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {515-530},
+}
+
+@inproceedings{DBLP:conf/sosp/JiCWZW23,
+  author    = {Zhicheng Ji and
+               Kang Chen and
+               Leping Wang and
+               Mingxing Zhang and
+               Yongwei Wu},
+  title     = {Falcon: Fast {OLTP} Engine for Persistent Cache and {Non-Volatile} Memory},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {531-544},
+}
+
+@inproceedings{DBLP:conf/sosp/XuLLXCZLYYYCY23,
+  author    = {Yuming Xu and
+               Hengyu Liang and
+               Jin Li and
+               Shuotao Xu and
+               Qi Chen and
+               Qianxi Zhang and
+               Cheng Li and
+               Ziyue Yang and
+               Fan Yang and
+               Yuqing Yang and
+               Peng Cheng and
+               Mao Yang},
+  title     = {SPFresh: Incremental {In-Place} Update for {Billion-Scale} Vector Search},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {545-561},
+}
+
+@inproceedings{DBLP:conf/sosp/GongLMC0LWL23,
+  author    = {Ping Gong and
+               Renjie Liu and
+               Zunyao Mao and
+               Zhenkun Cai and
+               Xiao Yan and
+               Cheng Li and
+               Minjie Wang and
+               Zhuozhao Li},
+  title     = {gSampler: General and Efficient {GPU-based} Graph Sampling for Graph Learning},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {562-578},
+}
+
+@inproceedings{DBLP:conf/sosp/KostopoulouTCGL23,
+  author    = {Kelly Kostopoulou and
+               Pierre Tholoniat and
+               Asaf Cidon and
+               Roxana Geambasu and
+               Mathias Lécuyer},
+  title     = {Turbo: Effective Caching in {Differentially-Private} Databases},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {579-594},
+}
+
+@inproceedings{DBLP:conf/sosp/NgD023,
+  author    = {Kelvin K. W. Ng and
+               Henri Maxime Demoulin and
+               Vincent Liu},
+  title     = {Paella: Low-latency Model Serving with Software-defined {GPU} Scheduling},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {595-610},
+}
+
+@inproceedings{DBLP:conf/sosp/KwonLZ0ZY0ZS23,
+  author    = {Woosuk Kwon and
+               Zhuohan Li and
+               Siyuan Zhuang and
+               Ying Sheng and
+               Lianmin Zheng and
+               Cody Hao Yu and
+               Joseph Gonzalez and
+               Hao Zhang and
+               Ion Stoica},
+  title     = {Efficient Memory Management for Large Language Model Serving with {PagedAttention}},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {611-626},
+}
+
+@inproceedings{DBLP:conf/sosp/SongZ0C23,
+  author    = {Xiaoniu Song and
+               Yiwen Zhang and
+               Rong Chen and
+               Haibo Chen},
+  title     = {UGACHE: A Unified {GPU} Cache for Embedding-based Deep Learning},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {627-641},
+}
+
+@inproceedings{DBLP:conf/sosp/SubramanyaALQJG23,
+  author    = {Suhas Jayaram Subramanya and
+               Daiyaan Arfeen and
+               Shouxu Lin and
+               Aurick Qiao and
+               Zhihao Jia and
+               Gregory R. Ganger},
+  title     = {Sia: Heterogeneity-aware, goodput-optimized {ML-cluster} scheduling},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {642-657},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhangMHLCDDJMW23,
+  author    = {Mingxing Zhang and
+               Teng Ma and
+               Jinqi Hua and
+               Zheng Liu and
+               Kang Chen and
+               Ning Ding and
+               Fan Du and
+               Jinlei Jiang and
+               Tao Ma and
+               Yongwei Wu},
+  title     = {Partial Failure Resilient Memory Management System for (CXL-based) Distributed Shared Memory},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {658-674},
+}
+
+@inproceedings{DBLP:conf/sosp/ShenZL0GFZL23,
+  author    = {Jiacheng Shen and
+               Pengfei Zuo and
+               Xuchuan Luo and
+               Yuxin Su and
+               Jiazhen Gu and
+               Hao Feng and
+               Yangfan Zhou and
+               Michael R. Lyu},
+  title     = {Ditto: An Elastic and Adaptive {Memory-Disaggregated} Caching System},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {675-691},
+}
+
+@inproceedings{DBLP:conf/sosp/GuoH023,
+  author    = {Zhiyuan Guo and
+               Zijian He and
+               Yiying Zhang},
+  title     = {Mira: A {Program-Behavior-Guided} Far Memory System},
+  booktitle = sosp,
+  year      = 2023,
+  pages     = {692-708},
+}
+
 @inproceedings{DBLP:conf/sosp/LaiDZMC21,
   author    = {Fan Lai and
                Yinwei Dai and
@@ -128,7 +1349,7 @@
 
 @inproceedings{DBLP:conf/sosp/KoppenFBS21,
   author    = {Marcel Köppen and
-               Daniel Friesel and
+               Birte Friesel and
                Christoph Borchert and
                Olaf Spinczyk},
   title     = {Decoupling Application Logic from Persistent Memory Frameworks with AspectC++},
@@ -976,7 +2197,7 @@
 
 @inproceedings{DBLP:conf/sosp/HanKKH19,
   author    = {Juhyeng Han and
-               Seong Min Kim and
+               Seong-Min Kim and
                Taesoo Kim and
                Dongsu Han},
   title     = {Toward scaling hardware security module for emerging cloud services},
@@ -1815,7 +3036,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/FrieselBS17,
-  author    = {Daniel Friesel and
+  author    = {Birte Friesel and
                Markus Buschhoff and
                Olaf Spinczyk},
   title     = {Annotations in Operating Systems with Custom AspectC++ Attributes},
@@ -2352,7 +3573,7 @@
                Manos Kapritsos and
                Jacob R. Lorch and
                Bryan Parno and
-               Michael L. Roberts and
+               Michael Lowell Roberts and
                Srinath T. V. Setty and
                Brian Zill},
   title     = {IronFleet: proving practical distributed systems correct},
@@ -2970,7 +4191,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/TsaiZRJZP15,
-  author    = {Chia-che Tsai and
+  author    = {Chia-Che Tsai and
                Yang Zhan and
                Jayashree Reddy and
                Yizheng Jiao and
@@ -4444,7 +5665,7 @@
 @inproceedings{DBLP:conf/sosp/LaadanVTBYN11,
   author    = {Oren Laadan and
                Nicolas Viennot and
-               Chia-che Tsai and
+               Chia-Che Tsai and
                Chris Blinn and
                Junfeng Yang and
                Jason Nieh},
@@ -5070,7 +6291,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/TucekLHXZ07,
-  author    = {Joseph Tucek and
+  author    = {Joseph A. Tucek and
                Shan Lu and
                Chengdu Huang and
                Spiros Xanthos and
@@ -5473,7 +6694,7 @@
 
 @inproceedings{DBLP:conf/sosp/QinTSZ05,
   author    = {Feng Qin and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Jagadeesan Sundaresan and
                Yuanyuan Zhou},
   title     = {Rx: treating bugs as allergies - a safe method to survive software failures},
@@ -8527,7 +9748,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/AkkoyunluEH75,
-  author    = {E. A. Akkoyunlu and
+  author    = {Eralp A. Akkoyunlu and
                K. Ekanandham and
                R. V. Huber},
   title     = {Some Constraints and Tradeoffs in the Design of Network Communications},
@@ -9131,7 +10352,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/Hellerman69,
-  author    = {H. Hellerman},
+  author    = {Herbert Hellerman},
   title     = {Complementary replacement: a meta scheduling principle},
   booktitle = sosp,
   year      = 1969,

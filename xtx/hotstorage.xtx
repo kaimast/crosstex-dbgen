@@ -1,5 +1,200 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotstorage/BuddhanoyPR24,
+  author    = {Matchima Buddhanoy and
+               Sudeep Pasricha and
+               Biswajit Ray},
+  title     = {Life-after-Death: Exploring Thermal Annealing Conditions to Enhance 3D {NAND} {SSD} Endurance},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/CohenCNWH24,
+  author    = {Daniel Cohen and
+               Sarel Cohen and
+               Dalit Naor and
+               Daniel G. Waddington and
+               Moshik Hershcovitch},
+  title     = {Dictionary Based Cache Line Compression},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/EgersdoerferSBB24,
+  author    = {Chris Egersdoerfer and
+               Arnav Sareen and
+               Jean Luca Bez and
+               Suren Byna and
+               Dong Dai},
+  title     = {ION: Navigating the {HPC} I/O Optimization Journey using Large Language Models},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/GoukKBR0KJJ24,
+  author    = {Donghyun Gouk and
+               Seungkwan Kang and
+               Hanyeoreum Bae and
+               Eojin Ryu and
+               Sangwon Lee and
+               Dongpyung Kim and
+               Junhyeok Jang and
+               Myoungsoo Jung},
+  title     = {Breaking Barriers: Expanding {GPU} Memory with {Sub-Two} Digit Nanosecond Latency {CXL} Controller},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/HanSMYE00WWZ24,
+  author    = {Runzhou Han and
+               Chao Shi and
+               Tabassum Mahmud and
+               Zeren Yang and
+               Vladislav Esaulov and
+               Lipeng Wan and
+               Yong Chen and
+               Jim Wayda and
+               Matthew Wolf and
+               Mai Zheng},
+  title     = {Revisiting Erasure Codes: A Configuration Perspective},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/HuKR24,
+  author    = {Jiyu Hu and
+               Jack Kosaian and
+               K. V. Rashmi},
+  title     = {Rethinking {Erasure-Coding} Libraries in the Age of Optimized Machine Learning},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/HuangXG024,
+  author    = {Hongming Huang and
+               Chun Jason Xue and
+               Nan Guan and
+               Hong Xu},
+  title     = {Is Low Similarity Threshold A Bad Idea in Delta Compression?},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/JiaoK24,
+  author    = {Ziyang Jiao and
+               Bryan S. Kim},
+  title     = {Asymmetric RAID: Rethinking {RAID} for {SSD} Heterogeneity},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/LiuHAAC24,
+  author    = {Jing Liu and
+               Xiangpeng Hao and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Tej Chajed},
+  title     = {Shadow Filesystems: Recovering from Filesystem Runtime Errors via Robust Alternative Execution},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SeoJD24,
+  author    = {Dongjoo Seo and
+               Yongsoo Joo and
+               Nikil D. Dutt},
+  title     = {Improving Virtualized I/O Performance by Expanding the Polled I/O Path of Linux},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/SmithTDKWMZ24,
+  author    = {Christopher Smith and
+               Maliha Tabassum and
+               Soumya Chowdary Daruru and
+               Gaurav Kulhare and
+               Arvin Wang and
+               Ethan L. Miller and
+               Erez Zadok},
+  title     = {Secure Archival is Hard... Really Hard},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ThakkarSDS024,
+  author    = {Viraj Thakkar and
+               Madhumitha Sukumar and
+               Jiaxin Dai and
+               Kaushiki Singh and
+               Zhichao Cao},
+  title     = {Can Modern {LLMs} Tune and Configure {LSM-based} {Key-Value} Stores?},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WangHWS24,
+  author    = {Yuxin Wang and
+               Yuankai He and
+               Ruijun Wang and
+               Weisong Shi},
+  title     = {Quantitative Analysis of Storage Requirement for Autonomous Vehicles},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/WangWS24,
+  author    = {Meng Wang and
+               Gus Waldspurger and
+               Swaminathan Sundararaman},
+  title     = {A Selective Preprocessing Offloading Framework for Reducing Data Traffic in {DL} Training},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/XieSZ0KA24,
+  author    = {Dedong Xie and
+               Theano Stavrinos and
+               Kan Zhu and
+               Simon Peter and
+               Baris Kasikci and
+               Thomas E. Anderson},
+  title     = {Can Storage Devices be Power Adaptive?},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YangCGZ024,
+  author    = {Chongzhuo Yang and
+               Zhang Cao and
+               Chang Guo and
+               Ming Zhao and
+               Zhichao Cao},
+  title     = {Can {ZNS} {SSDs} be Better Storage Devices for Persistent Cache?},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/YoonYBNC24,
+  author    = {Heejin Yoon and
+               Jin Yang and
+               Juyoung Bang and
+               Sam H. Noh and
+               Young-ri Choi},
+  title     = {Advocating for {Key-Value} Stores with Workload Pattern Aware Dynamic Compaction},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/hotstorage/ZhangNKK24,
+  author    = {Jian Zhang and
+               Marie Nguyen and
+               Sanidhya Kashyap and
+               Sudarsun Kannan},
+  title     = {Context-aware Prefetching for {Near-Storage} Accelerators},
+  booktitle = hotstorage,
+  year      = 2024,
+}
+
 @inproceedings{DBLP:conf/hotstorage/LimY0LYH23,
   author    = {Jinyeong Lim and
                Juncheol Ye and
@@ -970,7 +1165,7 @@
   author    = {Zhen Cao and
                Geoff Kuenning and
                Klaus Mueller and
-               Anjul Tyagi and
+               Anjul Kumar Tyagi and
                Erez Zadok},
   title     = {Graphs Are Not Enough: Using Interactive Visual Analytics in Storage Research},
   booktitle = hotstorage,

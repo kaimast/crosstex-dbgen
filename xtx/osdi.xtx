@@ -1,5 +1,755 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/LazarevGTACZD24,
+  author    = {Nikita Lazarev and
+               Varun Gohil and
+               James Tsai and
+               Andy Anderson and
+               Bhushan Chitlur and
+               Zhiru Zhang and
+               Christina Delimitrou},
+  title     = {Sabre: {Hardware-Accelerated} Snapshot Compression for Serverless {MicroVMs}},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/osdi/XiangLD0RY024,
+  author    = {Lingfeng Xiang and
+               Zhen Lin and
+               Weishu Deng and
+               Hui Lu and
+               Jia Rao and
+               Yifan Yuan and
+               Ren Wang},
+  title     = {Nomad: {Non-Exclusive} Memory Tiering via Transactional Page Migration},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {19-35},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhongBWWAAHKHCC24,
+  author    = {Yuhong Zhong and
+               Daniel S. Berger and
+               Carl A. Waldspurger and
+               Ryan Wee and
+               Ishwar Agarwal and
+               Rajat Agarwal and
+               Frank Hady and
+               Karthik Kumar and
+               Mark D. Hill and
+               Mosharaf Chowdhury and
+               Asaf Cidon},
+  title     = {Managing Memory Tiers with {CXL} in Virtualized Environments},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {37-56},
+}
+
+@inproceedings{DBLP:conf/osdi/LuoSRS24,
+  author    = {Zhihong Luo and
+               Sam Son and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Harvesting Memory-bound {CPU} Stall Cycles in Software with {MSH}},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {57-75},
+}
+
+@inproceedings{DBLP:conf/osdi/ChenLWMQ00L0C0024,
+  author    = {Lei Chen and
+               Shi Liu and
+               Chenxi Wang and
+               Haoran Ma and
+               Yifan Qiao and
+               Zhe Wang and
+               Chenggang Wu and
+               Youyou Lu and
+               Xiaobing Feng and
+               Huimin Cui and
+               Shan Lu and
+               Harry Xu},
+  title     = {A Tale of Two Paths: Toward a Hybrid Data Plane for Efficient {Far-Memory} Applications},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {77-95},
+}
+
+@inproceedings{DBLP:conf/osdi/MaQLYNLW0K024,
+  author    = {Haoran Ma and
+               Yifan Qiao and
+               Shi Liu and
+               Shan Yu and
+               Yuanjiang Ni and
+               Qingda Lu and
+               Jiesheng Wu and
+               Yiying Zhang and
+               Miryung Kim and
+               Harry Xu},
+  title     = {DRust: {Language-Guided} Distributed Shared Memory with Fine Granularity, Full Transparency, and Ultra Efficiency},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {97-115},
+}
+
+@inproceedings{DBLP:conf/osdi/AgrawalKPMKGTR24,
+  author    = {Amey Agrawal and
+               Nitin Kedia and
+               Ashish Panwar and
+               Jayashree Mohan and
+               Nipun Kwatra and
+               Bhargav S. Gulavani and
+               Alexey Tumanov and
+               Ramachandran Ramjee},
+  title     = {Taming {Throughput-Latency} Tradeoff in {LLM} Inference with {Sarathi-Serve}},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {117-134},
+}
+
+@inproceedings{DBLP:conf/osdi/FuXHBUPM24,
+  author    = {Yao Fu and
+               Leyang Xue and
+               Yeqi Huang and
+               Andrei-Octavian Brabete and
+               Dmitrii Ustiugov and
+               Yuvraj Patel and
+               Luo Mai},
+  title     = {ServerlessLLM: {Low-Latency} Serverless Inference for Large Language Models},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {135-153},
+}
+
+@inproceedings{DBLP:conf/osdi/LeeLSS24,
+  author    = {Wonbeom Lee and
+               Jungi Lee and
+               Junghwan Seo and
+               Jaewoong Sim},
+  title     = {InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic {KV} Cache Management},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {155-172},
+}
+
+@inproceedings{DBLP:conf/osdi/SunHZXZL024,
+  author    = {Biao Sun and
+               Ziming Huang and
+               Hanyu Zhao and
+               Wencong Xiao and
+               Xinyi Zhang and
+               Yong Li and
+               Wei Lin},
+  title     = {Llumnix: Dynamic Scheduling for Large Language Model Serving},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {173-191},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhongLCHZL0024,
+  author    = {Yinmin Zhong and
+               Shengyu Liu and
+               Junda Chen and
+               Jianbo Hu and
+               Yibo Zhu and
+               Xuanzhe Liu and
+               Xin Jin and
+               Hao Zhang},
+  title     = {DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {193-210},
+}
+
+@inproceedings{DBLP:conf/osdi/HeKZRLPBA24,
+  author    = {Zhenhao He and
+               Dario Korolija and
+               Yu Zhu and
+               Benjamin Ramhorst and
+               Tristan Laan and
+               Lucian Petrica and
+               Michaela Blott and
+               Gustavo Alonso},
+  title     = {ACCL+: an {FPGA-Based} Collective Engine for Distributed Applications},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {211-231},
+}
+
+@inproceedings{DBLP:conf/osdi/YuZZSP024,
+  author    = {Liangcheng Yu and
+               Xiao Zhang and
+               Haoran Zhang and
+               John Sonchack and
+               Dan R. K. Ports and
+               Vincent Liu},
+  title     = {Beaver: Practical Partial Snapshots for Distributed Cloud Services},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {233-249},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangC0024,
+  author    = {Hanze Zhang and
+               Ke Cheng and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Fast and Scalable In-network Lock Management Using Lock Fission},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {251-268},
+}
+
+@inproceedings{DBLP:conf/osdi/CamaioniGMRVV24,
+  author    = {Martina Camaioni and
+               Rachid Guerraoui and
+               Matteo Monti and
+               Pierre-Louis Roman and
+               Manuel Vidigueira and
+               Gauthier Voron},
+  title     = {Chop Chop: Byzantine Atomic Broadcast to the Network Limit},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {269-287},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaiYPZLLYJZ0Z24,
+  author    = {Yi Zhai and
+               Sijia Yang and
+               Keyu Pan and
+               Renwei Zhang and
+               Shuo Liu and
+               Chao Liu and
+               Zichun Ye and
+               Jianmin Ji and
+               Jie Zhao and
+               Yu Zhang and
+               Yanyong Zhang},
+  title     = {Enabling Tensor Language Model to Assist in Generating {High-Performance} Tensor Programs for Deep Learning},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {289-305},
+}
+
+@inproceedings{DBLP:conf/osdi/WangMCZX0ZM0C0Y24,
+  author    = {Lei Wang and
+               Lingxiao Ma and
+               Shijie Cao and
+               Quanlu Zhang and
+               Jilong Xue and
+               Yining Shi and
+               Ningxin Zheng and
+               Ziming Miao and
+               Fan Yang and
+               Ting Cao and
+               Yuqing Yang and
+               Mao Yang},
+  title     = {Ladder: Enabling Efficient {Low-Precision} Deep Learning Computing through Hardware-aware Tensor Transformation},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {307-323},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangIBSZSO24,
+  author    = {Qizheng Zhang and
+               Ali Imran and
+               Enkeleda Bardhi and
+               Tushar Swamy and
+               Nathan Zhang and
+               Muhammad Shahbaz and
+               Kunle Olukotun},
+  title     = {Caravan: Practical Online Learning of {In-Network} {ML} Models with Labeling Agents},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {325-345},
+}
+
+@inproceedings{DBLP:conf/osdi/LinMZ0Z0MCSYXYZ24,
+  author    = {Zhiqi Lin and
+               Youshan Miao and
+               Quanlu Zhang and
+               Fan Yang and
+               Yi Zhu and
+               Cheng Li and
+               Saeed Maleki and
+               Xu Cao and
+               Ning Shang and
+               Yilei Yang and
+               Weijiang Xu and
+               Mao Yang and
+               Lintao Zhang and
+               Lidong Zhou},
+  title     = {nnScaler: {Constraint-Guided} Parallelization Plan Generation for Deep Learning Training},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {347-363},
+}
+
+@inproceedings{DBLP:conf/osdi/Liu0DHJ0M24,
+  author    = {Yuhan Liu and
+               Chengcheng Wan and
+               Kuntai Du and
+               Henry Hoffmann and
+               Junchen Jiang and
+               Shan Lu and
+               Michael Maire},
+  title     = {ChameleonAPI: Automatic and Efficient Customization of Neural Networks for {ML} Applications},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {365-386},
+}
+
+@inproceedings{DBLP:conf/osdi/LeBlancTBC24,
+  author    = {Hayley LeBlanc and
+               Nathan Taylor and
+               James Bornholt and
+               Vijay Chidambaram},
+  title     = {SquirrelFS: using the Rust compiler to check file-system crash consistency},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {387-404},
+}
+
+@inproceedings{DBLP:conf/osdi/SkiadopoulosXZC24,
+  author    = {Athinagoras Skiadopoulos and
+               Zhiqiang Xie and
+               Mark Zhao and
+               Qizhe Cai and
+               Saksham Agarwal and
+               Jacob Adelmann and
+               David Ahern and
+               Carlo Contavalli and
+               Michael D. Goldflam and
+               Vitaly Mayatskikh and
+               Raghu Raja and
+               Daniel Walton and
+               Rachit Agarwal and
+               Shrijeet Mukherjee and
+               Christos Kozyrakis},
+  title     = {High-throughput and Flexible Host Networking for Accelerated Computing},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {405-423},
+}
+
+@inproceedings{DBLP:conf/osdi/WuMI0JL24,
+  author    = {Yilun Wu and
+               Byounguk Min and
+               Mohannad Ismail and
+               Wenjie Xiong and
+               Changhee Jung and
+               Dongyoon Lee},
+  title     = {IntOS: Persistent Embedded Operating System and Language Support for Multi-threaded Intermittent Computing},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {425-443},
+}
+
+@inproceedings{DBLP:conf/osdi/0006024,
+  author    = {Ao Li and
+               Ning Zhang},
+  title     = {Data-flow Availability: Achieving Timing Assurance in Autonomous Systems},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {445-463},
+}
+
+@inproceedings{DBLP:conf/osdi/0001MJWLLLWHLYW24,
+  author    = {Haibo Chen and
+               Xie Miao and
+               Ning Jia and
+               Nan Wang and
+               Yu Li and
+               Nian Liu and
+               Yutao Liu and
+               Fei Wang and
+               Qiang Huang and
+               Kun Li and
+               Hongyang Yang and
+               Hui Wang and
+               Jie Yin and
+               Yu Peng and
+               Fengwei Xu},
+  title     = {Microkernel Goes General: Performance and Compatibility in the {HongMeng} Production Microkernel},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {465-485},
+}
+
+@inproceedings{DBLP:conf/osdi/FaisalMBLD24,
+  author    = {Abdullah Bin Faisal and
+               Noah Martin and
+               Hafiz Mohsin Bashir and
+               Swaminathan Lamelas and
+               Fahad R. Dogar},
+  title     = {When will my {ML} Job finish? Toward providing Completion Time Estimates through {Predictability-Centric} Scheduling},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {487-505},
+}
+
+@inproceedings{DBLP:conf/osdi/KumarRMKPNLWT24,
+  author    = {Neeraj Kumar and
+               Pol Mauri Ruiz and
+               Vijay Menon and
+               Igor Kabiljo and
+               Mayank Pundir and
+               Andrew Newell and
+               Daniel Lee and
+               Liyuan Wang and
+               Chunqiang Tang},
+  title     = {Optimizing Resource Allocation in Hyperscale Datacenters: Scalability, Usability, and Experiences},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {507-528},
+}
+
+@inproceedings{DBLP:conf/osdi/WangGR0ZWFC024,
+  author    = {Rui Wang and
+               Devin Gibson and
+               Kirk Rodrigues and
+               Yu Luo and
+               Yun Zhang and
+               Kaibo Wang and
+               Yupeng Fu and
+               Ting Chen and
+               Ding Yuan},
+  title     = {μSlope: High Compression and Fast Search on {Semi-Structured} Logs},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {529-544},
+}
+
+@inproceedings{DBLP:conf/osdi/Chow0WHBZQMSZPW24,
+  author    = {Mike Chow and
+               Yang Wang and
+               William Wang and
+               Ayichew Hailu and
+               Rohan Bopardikar and
+               Bin Zhang and
+               Jialiang Qu and
+               David Meisner and
+               Santosh Sonawane and
+               Yunqi Zhang and
+               Rodrigo Paim and
+               Mack Ward and
+               Ivor Huang and
+               Matt McNally and
+               Daniel Hodges and
+               Zoltan Farkas and
+               Caner Gocmen and
+               Elvis Huang and
+               Chunqiang Tang},
+  title     = {ServiceLab: Preventing Tiny Performance Regressions at Hyperscale through {Pre-Production} Testing},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {545-562},
+}
+
+@inproceedings{DBLP:conf/osdi/Choudhury0PSJLD24,
+  author    = {Arnab Choudhury and
+               Yang Wang and
+               Tuomas Pelkonen and
+               Kutta Srinivasan and
+               Abha Jain and
+               Shenghao Lin and
+               Delia David and
+               Siavash Soleimanifard and
+               Michael Chen and
+               Abhishek Yadav and
+               Ritesh Tijoriwala and
+               Denis Samoylov and
+               Chunqiang Tang},
+  title     = {MAST: Global Scheduling of {ML} Training across {Geo-Distributed} Datacenters at Hyperscale},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {563-580},
+}
+
+@inproceedings{DBLP:conf/osdi/IyerAC24,
+  author    = {Rishabh R. Iyer and
+               Katerina J. Argyraki and
+               George Candea},
+  title     = {Automatically Reasoning About How Systems Code Uses the {CPU} Cache},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {581-598},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhouACGHC24,
+  author    = {Ziqiao Zhou and
+               Anjali and
+               Weiteng Chen and
+               Sishuai Gong and
+               Chris Hawblitzel and
+               Weidong Cui},
+  title     = {VeriSMo: A Verified Security Module for Confidential {VMs}},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {599-614},
+}
+
+@inproceedings{DBLP:conf/osdi/Sun024,
+  author    = {Hao Sun and
+               Zhendong Su},
+  title     = {Validating the {eBPF} Verifier via State Embedding},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {615-628},
+}
+
+@inproceedings{DBLP:conf/osdi/Zou00024,
+  author    = {Mo Zou and
+               Dong Du and
+               Mingkai Dong and
+               Haibo Chen},
+  title     = {Using Dynamically Layered Definite Releases for Verifying the {RefFS} File System},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {629-648},
+}
+
+@inproceedings{DBLP:conf/osdi/0013MGMCH0PSSX24,
+  author    = {Xudong Sun and
+               Wenjie Ma and
+               Jiawei Tyler Gu and
+               Zicheng Ma and
+               Tej Chajed and
+               Jon Howell and
+               Andrea Lattuada and
+               Oded Padon and
+               Lalith Suresh and
+               Adriana Szekeres and
+               Tianyin Xu},
+  title     = {Anvil: Verifying Liveness of Cluster Management Controllers},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {649-666},
+}
+
+@inproceedings{DBLP:conf/osdi/AguileraBGMXZ24,
+  author    = {Marcos K. Aguilera and
+               Clément Burgelin and
+               Rachid Guerraoui and
+               Antoine Murat and
+               Athanasios Xygkis and
+               Igor Zablotchi},
+  title     = {DSig: Breaking the Barrier of Signatures in Data Centers},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {667-685},
+}
+
+@inproceedings{DBLP:conf/osdi/WangSXWTSLLDLZW24,
+  author    = {Zhongyu Wang and
+               Yaheng Song and
+               Erci Xu and
+               Haonan Wu and
+               Guangxun Tong and
+               Shizhuo Sun and
+               Haoran Li and
+               Jincheng Liu and
+               Lijun Ding and
+               Rong Liu and
+               Jiaji Zhu and
+               Jiesheng Wu},
+  title     = {Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with {DeftPunk}},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {687-702},
+}
+
+@inproceedings{DBLP:conf/osdi/ConnellFSDP24,
+  author    = {Graeme Connell and
+               Vivian Fang and
+               Rolfe Schmidt and
+               Emma Dauterman and
+               Raluca Ada Popa},
+  title     = {Secret Key Recovery in a {Global-Scale} {End-to-End} Encryption System},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {703-719},
+}
+
+@inproceedings{DBLP:conf/osdi/KavianiTKP24,
+  author    = {Darya Kaviani and
+               Sijun Tan and
+               Pravein Govindan Kannan and
+               Raluca Ada Popa},
+  title     = {Flock: A Framework for Deploying {On-Demand} Distributed Trust},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {721-743},
+}
+
+@inproceedings{DBLP:conf/osdi/McAllisterWBBAB24,
+  author    = {Sara McAllister and
+               Yucong Wang and
+               Benjamin Berg and
+               Daniel S. Berger and
+               George Amvrosiadis and
+               Nathan Beckmann and
+               Gregory R. Ganger},
+  title     = {FairyWREN: A Sustainable Cache for Emerging {Write-Read-Erase} Flash Interfaces},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {745-764},
+}
+
+@inproceedings{DBLP:conf/osdi/QianG24,
+  author    = {Shujian Qian and
+               Ashvin Goel},
+  title     = {Massively Parallel {Multi-Versioned} Transaction Processing},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {765-781},
+}
+
+@inproceedings{DBLP:conf/osdi/ShuQZL024,
+  author    = {Junyi Shu and
+               Kun Qian and
+               Ennan Zhai and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {Burstable Cloud Block Storage with Data Processing Units},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {783-799},
+}
+
+@inproceedings{DBLP:conf/osdi/Zhang0Y24,
+  author    = {Ming Zhang and
+               Yu Hua and
+               Zhijun Yang},
+  title     = {Motor: Enabling {Multi-Versioning} for Distributed Transactions on Disaggregated Memory},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {801-819},
+}
+
+@inproceedings{DBLP:conf/osdi/Jiang024,
+  author    = {Zu-Ming Jiang and
+               Zhendong Su},
+  title     = {Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {821-835},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangHKCP24,
+  author    = {Tony Nuda Zhang and
+               Travis Hance and
+               Manos Kapritsos and
+               Tej Chajed and
+               Bryan Parno},
+  title     = {Inductive Invariants That Spark Joy: Using Invariant Taxonomies to Streamline Distributed Protocol Proofs},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {837-853},
+}
+
+@inproceedings{DBLP:conf/osdi/0002IKEBC24,
+  author    = {Jiacheng Ma and
+               Rishabh R. Iyer and
+               Sahand Kashani and
+               Mahyar Emami and
+               Thomas Bourgeat and
+               George Candea},
+  title     = {Performance Interfaces for Hardware Accelerators},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {855-874},
+}
+
+@inproceedings{DBLP:conf/osdi/GoldweberYVK24,
+  author    = {Eli Goldweber and
+               Weixin Yu and
+               Seyed Armin Vakil-Ghahani and
+               Manos Kapritsos},
+  title     = {IronSpec: Increasing the Reliability of Formal Specifications},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {875-891},
+}
+
+@inproceedings{DBLP:conf/osdi/AhnHKJ24,
+  author    = {Minwoo Ahn and
+               Jeongmin Han and
+               Youngjin Kwon and
+               Jinkyu Jeong},
+  title     = {Identifying On-/{Off-CPU} Bottlenecks Together with Blocked Samples},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {893-910},
+}
+
+@inproceedings{DBLP:conf/osdi/WuZZSL024,
+  author    = {Bingyang Wu and
+               Ruidong Zhu and
+               Zili Zhang and
+               Peng Sun and
+               Xuanzhe Liu and
+               Xin Jin},
+  title     = {dLoRA: Dynamically Orchestrating Requests and Adapters for {LoRA} {LLM} Serving},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {911-927},
+}
+
+@inproceedings{DBLP:conf/osdi/LinHZ00CQ24,
+  author    = {Chaofan Lin and
+               Zhenhua Han and
+               Chengruidong Zhang and
+               Yuqing Yang and
+               Fan Yang and
+               Chen Chen and
+               Lili Qiu},
+  title     = {Parrot: Efficient Serving of {LLM-based} Applications with Semantic Variable},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {929-945},
+}
+
+@inproceedings{DBLP:conf/osdi/ShubhaSI24,
+  author    = {Sudipta Saha Shubha and
+               Haiying Shen and
+               Anand Iyer},
+  title     = {USHER: Holistic Interference Avoidance for Resource Optimized {ML} Inference},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {947-964},
+}
+
+@inproceedings{DBLP:conf/osdi/0007CLZ0ZGS24,
+  author    = {Ying Sheng and
+               Shiyi Cao and
+               Dacheng Li and
+               Banghua Zhu and
+               Zhuohan Li and
+               Danyang Zhuo and
+               Joseph E. Gonzalez and
+               Ion Stoica},
+  title     = {Fairness in Serving Large Language Models},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {965-988},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhuangZXQB0S24,
+  author    = {Donglin Zhuang and
+               Zhen Zheng and
+               Haojun Xia and
+               Xiafei Qiu and
+               Junjie Bai and
+               Wei Lin and
+               Shuaiwen Leon Song},
+  title     = {MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern {GPU-Centric} Architectures},
+  booktitle = osdi,
+  year      = 2024,
+  pages     = {989-1005},
+}
+
 @inproceedings{DBLP:conf/osdi/GuptaDKPZK23,
   author    = {Vishal Gupta and
                Kumar Kartikeya Dwivedi and
@@ -328,7 +1078,7 @@
 
 @inproceedings{DBLP:conf/osdi/ChengCLCCHSY23,
   author    = {Audrey Cheng and
-               David Chu and
+               David C. Y. Chu and
                Terrance Li and
                Jason Chan and
                Natacha Crooks and
@@ -2358,7 +3108,7 @@
 @inproceedings{DBLP:conf/osdi/RommelDFKBMSL20,
   author    = {Florian Rommel and
                Christian Dietrich and
-               Daniel Friesel and
+               Birte Friesel and
                Marcel Köppen and
                Christoph Borchert and
                Michael Müller and
@@ -4470,7 +5220,7 @@
 
 @inproceedings{DBLP:conf/osdi/ZhengTHQLYZS14,
   author    = {Mai Zheng and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Dachuan Huang and
                Feng Qin and
                Mark Lillibridge and
@@ -5230,7 +5980,7 @@
 @inproceedings{DBLP:conf/osdi/CuiWTY10,
   author    = {Heming Cui and
                Jingyue Wu and
-               Chia-che Tsai and
+               Chia-Che Tsai and
                Junfeng Yang},
   title     = {Stable Deterministic Multithreading through Schedule Memoization},
   booktitle = osdi,

@@ -1,5 +1,1448 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosp/WeipplM24,
+  author    = {Edgar R. Weippl and
+               Matteo Maffei},
+  title     = {Message from General Chairs; {EuroSP} 2024},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {xi},
+}
+
+@inproceedings{DBLP:conf/eurosp/WeipplM24a,
+  author    = {Edgar R. Weippl and
+               Matteo Maffei},
+  title     = {Message from General Chairs; {EuroSP} 2024},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/eurosp/MannPTBM24,
+  author    = {Zoltán Ádám Mann and
+               Jonathan Petit and
+               Sarah M. Thornton and
+               Michael Buchholz and
+               Jason Millar},
+  title     = {SPIDER: Interplay Assessment Method for Privacy and Other Values},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/eurosp/YinMPS24,
+  author    = {Yucheng Yin and
+               Jorge Guajardo Merchan and
+               Pradeep Pappachan and
+               Vyas Sekar},
+  title     = {Work-in-Progress: CANGen: Practical Synthetic {CAN} Traces Generation Using Deep Generative Models},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {1-9},
+}
+
+@inproceedings{DBLP:conf/eurosp/MittalHM24,
+  author    = {Govind Mittal and
+               Chinmay Hegde and
+               Nasir D. Memon},
+  title     = {Gotcha: {Real-Time} Video Deepfake Detection via {Challenge-Response}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {1-20},
+}
+
+@inproceedings{DBLP:conf/eurosp/KilhofferWB24,
+  author    = {Zachary Kilhoffer and
+               Devyn Wilder and
+               Masooda Bashir},
+  title     = {Compliance as Baseline, or Striving for More? How Privacy Engineers Work and Use Privacy Standards},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {9-18},
+}
+
+@inproceedings{DBLP:conf/eurosp/RodriguezFAS24,
+  author    = {David Rodríguez Torrado and
+               Celia Fernández-Aller and
+               José M. del Álamo and
+               Norman Sadeh},
+  title     = {Data Retention Disclosures in the Google Play Store: Opacity Remains the Norm},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {19-23},
+}
+
+@inproceedings{DBLP:conf/eurosp/BhusalAVCRR24,
+  author    = {Dipkamal Bhusal and
+               Md Tanvirul Alam and
+               Monish Kumar Manikya Veerabhadran and
+               Michael Clifford and
+               Sara Rampazzi and
+               Nidhi Rastogi},
+  title     = {PASA: Attack Agnostic Unsupervised Adversarial Detection Using Prediction & Attribution Sensitivity Analysis},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {21-40},
+}
+
+@inproceedings{DBLP:conf/eurosp/CoryRH24,
+  author    = {Thomas Cory and
+               Wolf Rieder and
+               Thu-My Huynh},
+  title     = {A Qualitative Analysis Framework for {mHealth} Privacy Practices},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {24-31},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlMomaniBMPPB24,
+  author    = {Ala'a Al-Momani and
+               David Balenson and
+               Zoltán Ádám Mann and
+               Sebastian Pape and
+               Jonathan Petit and
+               Christoph Bösch},
+  title     = {Navigating Privacy Patterns in the Era of Robotaxis},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {32-39},
+}
+
+@inproceedings{DBLP:conf/eurosp/HannemannFB24,
+  author    = {Anika Hannemann and
+               Benjamin Friedl and
+               Erik Buchmann},
+  title     = {Differentially Private {Multi-Label} Learning Is Harder Than You'd Think},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {40-47},
+}
+
+@inproceedings{DBLP:conf/eurosp/LiXQGWLZL24,
+  author    = {Guanlin Li and
+               Guowen Xu and
+               Han Qiu and
+               Shangwei Guo and
+               Run Wang and
+               Jiwei Li and
+               Tianwei Zhang and
+               Rongxing Lu},
+  title     = {Fingerprinting {Image-to-Image} Generative Adversarial Networks},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {41-61},
+}
+
+@inproceedings{DBLP:conf/eurosp/AllmannVT24,
+  author    = {Jonas Allmann and
+               Saskia Nuñez von Voigt and
+               Florian Tschorsch},
+  title     = {An applied Perspective: Estimating the Differential Identifiability Risk of an Exemplary {SOEP} Data Set},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {48-55},
+}
+
+@inproceedings{DBLP:conf/eurosp/GibbonMHA24,
+  author    = {Jonah Gibbon and
+               Tina Marjanov and
+               Alice Hutchings and
+               John Aston},
+  title     = {Measuring the Unmeasurable: Estimating True Population of Hidden Online Communities},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {56-66},
+}
+
+@inproceedings{DBLP:conf/eurosp/ShiOW24,
+  author    = {Haonan Shi and
+               Tu Ouyang and
+               An Wang},
+  title     = {{Learning-Based} Difficulty Calibration for Enhanced Membership Inference Attacks},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {62-77},
+}
+
+@inproceedings{DBLP:conf/eurosp/BurdaKAZ24,
+  author    = {Pavlo Burda and
+               Maria Eleni Kokkini and
+               Luca Allodi and
+               Nicola Zannone},
+  title     = {The (Relative) Impact of Email Cues on the Perceived Threat of Phishing Attacks: A User Perspective on Phishing Deceptiveness},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {67-84},
+}
+
+@inproceedings{DBLP:conf/eurosp/OyamaIM24,
+  author    = {Hotaka Oyama and
+               Ryo Iijima and
+               Tatsuya Mori},
+  title     = {DeGhost: Unmasking Phantom Intrusions in Autonomous Recognition Systems},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {78-94},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlvaradoP24,
+  author    = {Alejandro de la Cruz Alvarado and
+               Sergio Pastrana Portillo},
+  title     = {Understanding {Crypter-as-a-Service} in a Popular Underground Marketplace},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/eurosp/ValerosSCG24,
+  author    = {Veronica Valeros and
+               Anna Sirokova and
+               Carlos Adrián Catania and
+               Sebastián García},
+  title     = {Towards Better Understanding of Cybercrime: The Role of {Fine-Tuned} {LLMs} in Translation},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {91-99},
+}
+
+@inproceedings{DBLP:conf/eurosp/IzhikevichVSI24,
+  author    = {Katherine Izhikevich and
+               Geoffrey M. Voelker and
+               Stefan Savage and
+               Liz Izhikevich},
+  title     = {Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {95-113},
+}
+
+@inproceedings{DBLP:conf/eurosp/FieblingerAR24,
+  author    = {Romy Fieblinger and
+               Md Tanvirul Alam and
+               Nidhi Rastogi},
+  title     = {Actionable Cyber Threat Intelligence Using Knowledge Graphs and Large Language Models},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {100-111},
+}
+
+@inproceedings{DBLP:conf/eurosp/RossoAZH24,
+  author    = {Martin Rosso and
+               Luca Allodi and
+               Emmanuele Zambon and
+               Jerry den Hartog},
+  title     = {A Methodology to Measure the "Cost" of {CPS} Attacks: Not all {CPS} Networks are Created Equal},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {112-129},
+}
+
+@inproceedings{DBLP:conf/eurosp/HeBCPFHU24,
+  author    = {Weijia He and
+               Kevin Bryson and
+               Ricardo Calderon and
+               Vijay Prakash and
+               Nick Feamster and
+               Danny Yuxing Huang and
+               Blase Ur},
+  title     = {Can Allowlists Capture the Variability of Home {IoT} Device Network Behavior?},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {114-138},
+}
+
+@inproceedings{DBLP:conf/eurosp/RiosSHP24,
+  author    = {Javier Sande Ríos and
+               Jesús Canal Sánchez and
+               Carmen Manzano Hernandez and
+               Sergio Pastrana},
+  title     = {Threat Analysis and Adversarial Model for Smart Grids},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {130-145},
+}
+
+@inproceedings{DBLP:conf/eurosp/BisegnaBCCRS24,
+  author    = {Andrea Bisegna and
+               Matteo Bitussi and
+               Roberto Carbone and
+               Luca Compagna and
+               Silvio Ranise and
+               Avinash Sudhodanan},
+  title     = {{CSRFing} the {SSO} Waves: Security Testing of {SSO-Based} Account Linking Process},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {139-154},
+}
+
+@inproceedings{DBLP:conf/eurosp/KempinskiSZA24,
+  author    = {Stash Kempinski and
+               Savio Sciancalepore and
+               Emmanuele Zambon and
+               Luca Allodi},
+  title     = {Attacking Operational Technology Without Specialized Knowledge: The Unspecialized {OT} Threat Actor Profile},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {146-159},
+}
+
+@inproceedings{DBLP:conf/eurosp/StivalaSMGP24,
+  author    = {Giada Stivala and
+               Gianluca De Stefano and
+               Andrea Mengascini and
+               Mariano Graziano and
+               Giancarlo Pellegrino},
+  title     = {Uncovering the Role of Support Infrastructure in Clickbait {PDF} Campaigns},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {155-172},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChiavassaGFM24,
+  author    = {Pietro Chiavassa and
+               Filippo Gandino and
+               Renato Ferrero and
+               Jan Tobias Mühlberg},
+  title     = {Secure Intermittent Computing with {ARM} {TrustZone} on the {Cortex-M}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {160-168},
+}
+
+@inproceedings{DBLP:conf/eurosp/ScopellitiBM24,
+  author    = {Gianluca Scopelliti and
+               Christoph Baumann and
+               Jan Tobias Mühlberg},
+  title     = {Understanding Trust Relationships in {Cloud-Based} Confidential Computing},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {169-176},
+}
+
+@inproceedings{DBLP:conf/eurosp/JannettMWMWM24,
+  author    = {Louis Jannett and
+               Christian Mainka and
+               Maximilian Westers and
+               Andreas Mayer and
+               Tobias Wich and
+               Vladislav Mladenov},
+  title     = {SoK: {SSO-MONITOR} - The Current State and Future Research Directions in Single Sign-on Security Measurements},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {173-192},
+}
+
+@inproceedings{DBLP:conf/eurosp/LindenmeierSRB24,
+  author    = {Christian Lindenmeier and
+               Matti Schulze and
+               Jonas Röckl and
+               Marcel Busch},
+  title     = {SyncEmu: Enabling Dynamic Analysis of Stateful Trusted Applications},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {177-185},
+}
+
+@inproceedings{DBLP:conf/eurosp/YagawaTSA24,
+  author    = {Takashi Yagawa and
+               Tadanori Teruya and
+               Kuniyasu Suzaki and
+               Hirotake Abe},
+  title     = {Delegating Verification for Remote Attestation Using {TEE}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {186-192},
+}
+
+@inproceedings{DBLP:conf/eurosp/WilkeS24,
+  author    = {Luca Wilke and
+               Gianluca Scopelliti},
+  title     = {SNPGuard: Remote Attestation of {SEV-SNP} {VMs} Using Open Source Tools},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {193-198},
+}
+
+@inproceedings{DBLP:conf/eurosp/KrolARSPSLR24,
+  author    = {Michal Król and
+               Onur Ascigil and
+               Sergi Rene and
+               Alberto Sonnino and
+               Matthieu Pigaglio and
+               Ramin Sadre and
+               Felix Lange and
+               Etienne Rivière},
+  title     = {DISC-NG: Robust Service Discovery in the Ethereum Global Network},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {193-215},
+}
+
+@inproceedings{DBLP:conf/eurosp/AkkusRC24,
+  author    = {Istemi Ekin Akkus and
+               Ivica Rimac and
+               Ruichuan Chen},
+  title     = {PraaS: Verifiable Proofs of Property {as-a-Service} with Intel {SGX}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {199-207},
+}
+
+@inproceedings{DBLP:conf/eurosp/KavousiWJ24,
+  author    = {Alireza Kavousi and
+               Zhipeng Wang and
+               Philipp Jovanovic},
+  title     = {SoK: Public Randomness},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {216-234},
+}
+
+@inproceedings{DBLP:conf/eurosp/LewTSB24,
+  author    = {Chen Chang Lew and
+               Christof Ferreira Torres and
+               Shweta Shinde and
+               Marcus Brandenburger},
+  title     = {Revisiting Rollbacks on Smart Contracts in {TEE-protected} Private Blockchains},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {217-224},
+}
+
+@inproceedings{DBLP:conf/eurosp/RocklLSM24,
+  author    = {Jonas Röckl and
+               Christian Lindenmeier and
+               Matti Schulze and
+               Tilo Müller},
+  title     = {Conditional Network Availability: Enhancing Connectivity Guarantees for {TEE-Based} Services},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {225-233},
+}
+
+@inproceedings{DBLP:conf/eurosp/Karlsson24,
+  author    = {Henrik A. Karlsson},
+  title     = {Minimal Partitioning Kernel with Time Protection and Predictability},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {234-241},
+}
+
+@inproceedings{DBLP:conf/eurosp/BartolettiMZ24,
+  author    = {Massimo Bartoletti and
+               Riccardo Marchesin and
+               Roberto Zunino},
+  title     = {Secure compilation of rich smart contracts on poor {UTXO} blockchains},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {235-267},
+}
+
+@inproceedings{DBLP:conf/eurosp/EyckMDH24,
+  author    = {Tom Van Eyck and
+               Sam Michiels and
+               Xiaojiang Du and
+               Danny Hughes},
+  title     = {NetReach: Guaranteed Network Availability and Reachability to enable Resilient Networks for Embedded Systems},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {242-244},
+}
+
+@inproceedings{DBLP:conf/eurosp/SchulzeLR24,
+  author    = {Matti Schulze and
+               Christian Lindenmeier and
+               Jonas Röckl},
+  title     = {BarriCCAde: Isolating {Closed-Source} Drivers with {ARM} {CCA}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {245-251},
+}
+
+@inproceedings{DBLP:conf/eurosp/GonzalezCMF24,
+  author    = {Gastón García González and
+               Pedro Casas and
+               Emilio Martínez and
+               Alicia Fernández},
+  title     = {On the Quest for Foundation {Generative-AI} Models for Anomaly Detection in {Time-Series} Data},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {252-260},
+}
+
+@inproceedings{DBLP:conf/eurosp/GioacchiniSLDMAG24,
+  author    = {Luca Gioacchini and
+               Welton Santos and
+               Barbara Lopes and
+               Idilio Drago and
+               Marco Mellia and
+               Jussara M. Almeida and
+               Marcos André Gonçalves},
+  title     = {Explainable Stacking Models based on Complementary Traffic Embeddings},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {261-272},
+}
+
+@inproceedings{DBLP:conf/eurosp/MotaqyNA24,
+  author    = {Zahra Motaqy and
+               Mohamed E. Najd and
+               Ghada Almashaqbeh},
+  title     = {chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {268-292},
+}
+
+@inproceedings{DBLP:conf/eurosp/SchoenBGHMM24,
+  author    = {Adrien Schoen and
+               Gregory Blanc and
+               Pierre-François Gimenez and
+               Yufei Han and
+               Frédéric Majorczyk and
+               Ludovic Mé},
+  title     = {A Tale of Two Methods: Unveiling the Limitations of {GAN} and the Rise of Bayesian Networks for Synthetic Network Traffic Generation},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {273-286},
+}
+
+@inproceedings{DBLP:conf/eurosp/HuangGMV24,
+  author    = {Kai Huang and
+               Luca Gioacchini and
+               Marco Mellia and
+               Luca Vassio},
+  title     = {Dynamic Cluster Analysis to Detect and Track Novelty in Network Telescopes},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {287-296},
+}
+
+@inproceedings{DBLP:conf/eurosp/XiaW24,
+  author    = {Han Xia and
+               Mingsheng Wang},
+  title     = {{Single-Server} {PIR} via {NTRU-Based} FHE: Simpler, Smaller, and Faster},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {293-310},
+}
+
+@inproceedings{DBLP:conf/eurosp/SosnowskiZSALC24,
+  author    = {Markus Sosnowski and
+               Johannes Zirngibl and
+               Patrick Sattler and
+               Juliane Aulbach and
+               Jonas Lang and
+               Georg Carle},
+  title     = {An {Internet-Wide} View on {HTTPS} Certificate Revocations: Observing the Revival of {CRLs} via Active {TLS} Scans},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {297-306},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChenTLBV24,
+  author    = {Ting-Han Chen and
+               Carlotta Tagliaro and
+               Martina Lindorfer and
+               Kevin Borgolte and
+               Jeroen van der Ham-de Vos},
+  title     = {Are You Sure You Want To Do Coordinated Vulnerability Disclosure?},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {307-314},
+}
+
+@inproceedings{DBLP:conf/eurosp/SchrammelULSGLDM24,
+  author    = {David Schrammel and
+               Martin Unterguggenberger and
+               Lukas Lamster and
+               Salmin Sultana and
+               Karanvir Grewal and
+               Michael LeMay and
+               David M. Durham and
+               Stefan Mangard},
+  title     = {Memory Tagging using Cryptographic Integrity on Commodity x86 {CPUs}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {311-326},
+}
+
+@inproceedings{DBLP:conf/eurosp/CastellUrozB24,
+  author    = {Ismael Castell-Uroz and
+               Pere Barlet-Ros},
+  title     = {A First Look into Utiq: {Next-Generation} Cookies at the {ISP} Level},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {315-320},
+}
+
+@inproceedings{DBLP:conf/eurosp/SankaranRC24,
+  author    = {Ganesh Chennimalai Sankaran and
+               Mukund Raghothaman and
+               M. Patrick Collins},
+  title     = {Optimal Flow Collector Placement In Experimental Networks},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {321-325},
+}
+
+@inproceedings{DBLP:conf/eurosp/FarahNV24,
+  author    = {Abdirisaq Farah and
+               Martin Nielsen and
+               Emmanouil Vasilomanolakis},
+  title     = {Improving Synthetic Network Attack Traffic Generation},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {326-334},
+}
+
+@inproceedings{DBLP:conf/eurosp/DiptaTGME24,
+  author    = {Debopriya Roy Dipta and
+               Thore Tiemann and
+               Berk Gülmezoglu and
+               Eduard Marin and
+               Thomas Eisenbarth},
+  title     = {Dynamic {Frequency-Based} Fingerprinting Attacks against Modern Sandbox Environments},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {327-344},
+}
+
+@inproceedings{DBLP:conf/eurosp/FloodA24,
+  author    = {Robert Flood and
+               David Aspinall},
+  title     = {Measuring the Complexity of Benchmark {NIDS} Datasets via Spectral Analysis},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {335-341},
+}
+
+@inproceedings{DBLP:conf/eurosp/HaqAZCSN24,
+  author    = {Muhammad Yasir Muzayan Haq and
+               Abhishta Abhishta and
+               Sander Zeijlemaker and
+               Annette Chau and
+               Michael Siegel and
+               Lambert J. M. Nieuwenhuis},
+  title     = {Measuring Malware Detection Capability for Security Decision Making},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {342-351},
+}
+
+@inproceedings{DBLP:conf/eurosp/PustelnikSS24,
+  author    = {Frederik Dermot Pustelnik and
+               Xhani Marvin Saß and
+               Jean-Pierre Seifert},
+  title     = {Whispering Pixels: Exploiting Uninitialized Register Accesses in Modern {GPUs}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {345-360},
+}
+
+@inproceedings{DBLP:conf/eurosp/BrighenteCDT24,
+  author    = {Alessandro Brighente and
+               Mauro Conti and
+               Denis Donadel and
+               Federico Turrin},
+  title     = {Hyperloop: A Cybersecurity Perspective},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {352-360},
+}
+
+@inproceedings{DBLP:conf/eurosp/IlgGDM24,
+  author    = {Niclas Ilg and
+               Dominik Germek and
+               Paul Duplys and
+               Michael Menth},
+  title     = {Work-in-Progress: Emerging E/{E-Architectures} as Enabler for Automotive Honeypots},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {361-366},
+}
+
+@inproceedings{DBLP:conf/eurosp/MohammedJHDSGW24,
+  author    = {Abdullah Zubair Mohammed and
+               Louis Jenkins and
+               Rees R. Hatch and
+               Gökçen Yilmaz Dayanikli and
+               Craig Simpson and
+               Ryan M. Gerdes and
+               Hongjie Wang},
+  title     = {The {IEMI} Effect: On the Efficacy of {PCB-Level} Countermeasures in Adversarial Environments},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {361-380},
+}
+
+@inproceedings{DBLP:conf/eurosp/MarchioriBC24,
+  author    = {Francesco Marchiori and
+               Alessandro Brighente and
+               Mauro Conti},
+  title     = {Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {367-372},
+}
+
+@inproceedings{DBLP:conf/eurosp/KulandaivelLBG24,
+  author    = {Sekar Kulandaivel and
+               Wenjuan Lu and
+               Brandon Barry and
+               Jorge Guajardo},
+  title     = {Work-in-Progress: Towards a New Configurable and Practical Remote Automotive Security Testing Platform},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {373-379},
+}
+
+@inproceedings{DBLP:conf/eurosp/MohseniEjiyeh24,
+  author    = {Atefeh Mohseni-Ejiyeh},
+  title     = {Secure, Robust, and {Energy-Efficient} Authenticated Data Sharing in Drone to Vehicles Communications},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {380-389},
+}
+
+@inproceedings{DBLP:conf/eurosp/UllahR24,
+  author    = {Sami Ullah and
+               Awais Rashid},
+  title     = {Porting to Morello: An In-depth Study on Compiler Behaviors, {CERT} Guideline Violations, and Security Implications},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {381-397},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZhouZZR24,
+  author    = {Zhelei Zhou and
+               Bingsheng Zhang and
+               Hong-Sheng Zhou and
+               Kui Ren},
+  title     = {Practical Constructions for Single Input Functionality Against a Dishonest Majority},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {398-414},
+}
+
+@inproceedings{DBLP:conf/eurosp/AngeliRSS24,
+  author    = {Tillmann Angeli and
+               Daniel Reti and
+               Daniel Schneider and
+               Hans D. Schotten},
+  title     = {False Flavor Honeypot: Deceiving Vulnerability Scanning Tools},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {399-406},
+}
+
+@inproceedings{DBLP:conf/eurosp/Pappa24,
+  author    = {Tim Pappa},
+  title     = {Modeling a Cyber Deception Practitioner's Approach: Behaviorally Exploiting an American Cybercriminal with Warranting Theory and Whaley's Unpublished Work on "Unexpected Players"},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {407-414},
+}
+
+@inproceedings{DBLP:conf/eurosp/DayanikliL24,
+  author    = {Dennis Dayanikli and
+               Anja Lehmann},
+  title     = {(Strong) {aPAKE} Revisited: Capturing {Multi-User} Security and Salting},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {415-439},
+}
+
+@inproceedings{DBLP:conf/eurosp/KahlhoferR24,
+  author    = {Mario Kahlhofer and
+               Stefan Rass},
+  title     = {Application Layer Cyber Deception Without Developer Interaction},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {416-429},
+}
+
+@inproceedings{DBLP:conf/eurosp/SladicVCG24,
+  author    = {Muris Sladic and
+               Veronica Valeros and
+               Carlos Adrián Catania and
+               Sebastián García},
+  title     = {{LLM} in the Shell: Generative Honeypots},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {430-435},
+}
+
+@inproceedings{DBLP:conf/eurosp/AkkusR24,
+  author    = {Istemi Ekin Akkus and
+               Ivica Rimac},
+  title     = {Duet: Combining a Trustworthy Controller with a Confidential Computing Environment},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {436-442},
+}
+
+@inproceedings{DBLP:conf/eurosp/LiuP24,
+  author    = {Wenjie Liu and
+               Panos Papadimitratos},
+  title     = {Position-based Rogue Access Point Detection},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {436-442},
+}
+
+@inproceedings{DBLP:conf/eurosp/AgarwalPRSS24,
+  author    = {Amit Agarwal and
+               Stanislav Peceny and
+               Mariana Raykova and
+               Phillipp Schoppmann and
+               Karn Seth},
+  title     = {{Communication-Efficient} Secure Logistic Regression},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {440-467},
+}
+
+@inproceedings{DBLP:conf/eurosp/HemidaAKK24,
+  author    = {Ahmed Hemida and
+               Ahmed Bilal Asghar and
+               Charles A. Kamhoua and
+               Jon M. Kleinberg},
+  title     = {A Game Theoretic Framework for Multi Domain Cyber Deception},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {443-447},
+}
+
+@inproceedings{DBLP:conf/eurosp/PetrukhaSK24,
+  author    = {Ivan Petrukha and
+               Nataliia Stulova and
+               Sergii Kryvoblotskyi},
+  title     = {Position Paper: Think Globally, React Locally - Bringing {Real-Time} {Reference-Based} Website Phishing Detection on {macOS}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {448-455},
+}
+
+@inproceedings{DBLP:conf/eurosp/MengesK24,
+  author    = {Uta Menges and
+               Annette Kluge},
+  title     = {Contrasting and Synergizing CISOs' and Employees' Attitudes, Needs, and Resources for Security Using Personas},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {456-472},
+}
+
+@inproceedings{DBLP:conf/eurosp/BenadjilaFR24,
+  author    = {Ryad Benadjila and
+               Thibauld Feneuil and
+               Matthieu Rivain},
+  title     = {{MQ} on my Mind: {Post-Quantum} Signatures from the {Non-Structured} Multivariate Quadratic Problem},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {468-485},
+}
+
+@inproceedings{DBLP:conf/eurosp/SchieleEG24,
+  author    = {Nathan Daniel Schiele and
+               Jari Egberts and
+               Olga Gadyatskaya},
+  title     = {Nobody Knows the Risks I Have Seen: Evaluating the Gap Between Risk Analysis and Security Operations},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {473-483},
+}
+
+@inproceedings{DBLP:conf/eurosp/RagabMY24,
+  author    = {Abdelrahman Ragab and
+               Mohammad Mannan and
+               Amr M. Youssef},
+  title     = {"Trust Me Over My Privacy Policy": Privacy Discrepancies in Romantic {AI} Chatbot Apps},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {484-495},
+}
+
+@inproceedings{DBLP:conf/eurosp/LeeJY24,
+  author    = {Kang Hoon Lee and
+               Young Bae Jeon and
+               Ji Won Yoon},
+  title     = {Faster Homomorphic {DFT} and Speech Analysis for Torus Fully Homomorphic Encryption},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {486-505},
+}
+
+@inproceedings{DBLP:conf/eurosp/SalmanCG24,
+  author    = {Ahmed Salman and
+               Sadie Creese and
+               Michael Goldsmith},
+  title     = {Position Paper: Leveraging Large Language Models for Cybersecurity Compliance},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {496-503},
+}
+
+@inproceedings{DBLP:conf/eurosp/WeilAFH24,
+  author    = {Rebecca Weil and
+               Sahar Abdelnabi and
+               Mario Fritz and
+               Rakibul Hasan},
+  title     = {Tell Me What You Like and I Know What You Will Share: Topical Interest Influences Behavior Toward News From High and Low Credible Sources},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {504-518},
+}
+
+@inproceedings{DBLP:conf/eurosp/WangLWWTNW24,
+  author    = {Huaijin Wang and
+               Zhibo Liu and
+               Shuai Wang and
+               Ying Wang and
+               Qiyi Tang and
+               Sen Nie and
+               Shi Wu},
+  title     = {Are We There Yet? Filling the Gap Between Binary Similarity Analysis and Binary Software Composition Analysis},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {506-523},
+}
+
+@inproceedings{DBLP:conf/eurosp/MocerinoVGGBV24,
+  author    = {Gennaro Esposito Mocerino and
+               Claudio Velotti and
+               Danilo Gentile and
+               Luigi Gallo and
+               Alessio Botta and
+               Giorgio Ventre},
+  title     = {Work in Progress: Implicit Association Tests for Understanding Human Factor in Phishing Beyond Awareness},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {519-526},
+}
+
+@inproceedings{DBLP:conf/eurosp/CostaP24,
+  author    = {Miguel Costa and
+               Sandro Pinto},
+  title     = {David and Goliath: An Empirical Evaluation of Attacks and Defenses for {QNNs} at the Deep Edge},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {524-541},
+}
+
+@inproceedings{DBLP:conf/eurosp/WooSK24,
+  author    = {Seungwon Woo and
+               Wonho Song and
+               Min Suk Kang},
+  title     = {Work in Progress: I Know You Pin Me: Privacy Risks in User Pinning of Zoom Video Conferencing},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {527-532},
+}
+
+@inproceedings{DBLP:conf/eurosp/SahaBL24,
+  author    = {Aakanksha Saha and
+               Jorge Blasco and
+               Martina Lindorfer},
+  title     = {Exploring the Malicious Document Threat Landscape: Towards a Systematic Approach to Detection and Analysis},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {533-544},
+}
+
+@inproceedings{DBLP:conf/eurosp/ItoETS24,
+  author    = {Kunihiro Ito and
+               Batnyam Enkhtaivan and
+               Isamu Teranishi and
+               Jun Sakuma},
+  title     = {Trojan attribute inference attack on gradient boosting decision trees},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {542-559},
+}
+
+@inproceedings{DBLP:conf/eurosp/LahtinenCS24,
+  author    = {Tuomo Lahtinen and
+               Andrei Costin and
+               Guillermo Suarez-Tangil},
+  title     = {Position: On Potential Malware & New Attack Vectors for {Internet-of-Brains} (IoB)},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {545-553},
+}
+
+@inproceedings{DBLP:conf/eurosp/RuiG24,
+  author    = {L. Rui and
+               Olga Gadyatskaya},
+  title     = {Position: The Explainability Paradox - Challenges for {XAI} in Malware Detection and Analysis},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {554-561},
+}
+
+@inproceedings{DBLP:conf/eurosp/HuYZW24,
+  author    = {Zhaojie Hu and
+               Jingzhou Ye and
+               Yifan Zhang and
+               Xueqiang Wang},
+  title     = {Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {560-579},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlmuntashiriIC24,
+  author    = {Abdullah Hamed Almuntashiri and
+               Luis-Daniel Ibáñez and
+               Adriane Chapman},
+  title     = {{LLMs} for the {Post-Hoc} Creation of Provenance},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {562-566},
+}
+
+@inproceedings{DBLP:conf/eurosp/HoffmannP24,
+  author    = {Nils Hoffmann and
+               Neda Ebrahimi Pour},
+  title     = {A Low Overhead Approach for Automatically Tracking Provenance in Machine Learning Workflows},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {567-573},
+}
+
+@inproceedings{DBLP:conf/eurosp/AbbasiTS24,
+  author    = {Wisam Abbasi and
+               Adel Taweel and
+               Andrea Saracino},
+  title     = {A {Provenance-Driven} Approach for Detecting Revenue Leakage in Telecom},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {574-582},
+}
+
+@inproceedings{DBLP:conf/eurosp/FahimZQSPCCYJK24,
+  author    = {Abdulrahman Fahim and
+               Shitong Zhu and
+               Zhiyun Qian and
+               Chengyu Song and
+               Evangelos E. Papalexakis and
+               Supriyo Chakraborty and
+               Kevin S. Chan and
+               Paul L. Yu and
+               Trent Jaeger and
+               Srikanth V. Krishnamurthy},
+  title     = {{DNS} Exfiltration Guided by Generative Adversarial Networks},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {580-599},
+}
+
+@inproceedings{DBLP:conf/eurosp/JohnsonPKMLCDS24,
+  author    = {Michael A. C. Johnson and
+               Marcus Paradies and
+               Hans-Rainer Klöckner and
+               Albina Muzafarova and
+               Kristen Lackeos and
+               David J. Champion and
+               Marta Dembska and
+               Sirko Schindler},
+  title     = {Evaluation of Provenance Serialisations for Astronomical Provenance - Application Track},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {583-591},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlgarniGLC24,
+  author    = {Shatha Algarni and
+               Boris Glavic and
+               Seokki Lee and
+               Adriane Chapman},
+  title     = {Solving Why Not Questions for Aggregate Constraints Through Query Repair},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {592-596},
+}
+
+@inproceedings{DBLP:conf/eurosp/AugeFEKJMW24,
+  author    = {Tanja Auge and
+               Susanne Feistel and
+               Fajar J. Ekaputra and
+               Meike Klettke and
+               Susanne Jürgensmann and
+               Emil Michels and
+               Laura Waltersdorfer},
+  title     = {Towards an Integrated Provenance Framework: A Scenario for Marine Data},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {597-601},
+}
+
+@inproceedings{DBLP:conf/eurosp/AghvamipanahAAB24,
+  author    = {Mahmoud Aghvamipanah and
+               Morteza Amini and
+               Cyrille Artho and
+               Musard Balliu},
+  title     = {Activity Recognition Protection for {IoT} {Trigger-Action} Platforms},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {600-616},
+}
+
+@inproceedings{DBLP:conf/eurosp/BowersXL24,
+  author    = {Shawn Bowers and
+               Yilin Xia and
+               Bertram Ludäscher},
+  title     = {On the Structure of Game Provenance and its Applications},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {602-609},
+}
+
+@inproceedings{DBLP:conf/eurosp/FeioSEP24,
+  author    = {Clarisse Feio and
+               Nuno Santos and
+               Nelson Escravana and
+               Bernardo Pacheco},
+  title     = {An Empirical Study of {DevSecOps} Focused on Continuous Security Testing},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {610-617},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZhangJP24,
+  author    = {Zichao Zhang and
+               Limin Jia and
+               Corina S. Pasareanu},
+  title     = {ProInspector: Uncovering Logical Bugs in Protocol Implementations},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {617-632},
+}
+
+@inproceedings{DBLP:conf/eurosp/TurtiainenC24,
+  author    = {Hannu Turtiainen and
+               Andrei Costin},
+  title     = {VulnBERTa: On Automating {CWE} Weakness Assignment and Improving the Quality of Cybersecurity {CVE} Vulnerabilities Through ML/{NLP}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {618-625},
+}
+
+@inproceedings{DBLP:conf/eurosp/WeeKG24,
+  author    = {Alex Wee and
+               Arina Kudriavtseva and
+               Olga Gadyatskaya},
+  title     = {"Have Heard of it": A Study with Practitioners on Adoption of Secure Software Development Frameworks},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {626-633},
+}
+
+@inproceedings{DBLP:conf/eurosp/AckermannBJL24,
+  author    = {Eric G. Ackermann and
+               Kai Lennert Bober and
+               Volker Jungnickel and
+               Anja Lehmann},
+  title     = {SEKA: Secretless Key Exchange and Authentication in {LiFi} Networks},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {633-657},
+}
+
+@inproceedings{DBLP:conf/eurosp/AshiwalFD24,
+  author    = {Virendra Ashiwal and
+               Sören Finster and
+               Abdallah Dawoud},
+  title     = {{LLM-based} Vulnerability Sourcing from Unstructured Data},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {634-641},
+}
+
+@inproceedings{DBLP:conf/eurosp/DawoudFCA24,
+  author    = {Abdallah Dawoud and
+               Sören Finster and
+               Nicolas Coppik and
+               Virendra Ashiwal},
+  title     = {Better Left Shift Security! Framework for Secure Software Development},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {642-649},
+}
+
+@inproceedings{DBLP:conf/eurosp/BohlenderMMSV24,
+  author    = {Mark Bohlender and
+               Raphael Morisco and
+               Mattia Mossano and
+               Thorsten Schwarz and
+               Melanie Volkamer},
+  title     = {SMILE4VIP: Intervention to Support Visually Impaired Users Against Phishing},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {650-657},
+}
+
+@inproceedings{DBLP:conf/eurosp/Wilson24,
+  author    = {Tiffany Wilson},
+  title     = {The Unintended Harm of {IoT} Devices in Assistive Technology Distribution Programs},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {658-665},
+}
+
+@inproceedings{DBLP:conf/eurosp/FloodEAD24,
+  author    = {Robert Flood and
+               Gints Engelen and
+               David Aspinall and
+               Lieven Desmet},
+  title     = {Bad Design Smells in Benchmark {NIDS} Datasets},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {658-675},
+}
+
+@inproceedings{DBLP:conf/eurosp/NoahTBD24,
+  author    = {Naheem Noah and
+               Supriya Thakur and
+               Jason Beck and
+               Sanchari Das},
+  title     = {Evaluating Privacy & Security of Online Dating Applications with a Focus on Older Adults},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {666-677},
+}
+
+@inproceedings{DBLP:conf/eurosp/BrudniABMSE24,
+  author    = {Sagi Brudni and
+               Sapir Anidgar and
+               Oleg Brodt and
+               Dudu Mimran and
+               Asaf Shabtai and
+               Yuval Elovici},
+  title     = {Green Security: A Framework for Measurement and Optimization of Energy Consumption of Cybersecurity Solutions},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {676-696},
+}
+
+@inproceedings{DBLP:conf/eurosp/TranTHAZ24,
+  author    = {Mindy Tran and
+               Xinru Tang and
+               Adryana Hutchinson and
+               Adam J. Aviv and
+               Yixin Zou},
+  title     = {Position Paper: Exploring Security and Privacy Needs of d/Deaf Individuals},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {678-682},
+}
+
+@inproceedings{DBLP:conf/eurosp/AckermannMB24,
+  author    = {Eric Ackermann and
+               Noah Mauthe and
+               Sven Bugiel},
+  title     = {Work-in-Progress: Northcape: Embedded {Real-Time} {Capability-Based} Addressing},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {683-690},
+}
+
+@inproceedings{DBLP:conf/eurosp/BernardiniDSSM24,
+  author    = {Andrea Bernardini and
+               Francesco D'Alterio and
+               Leonardo Sagratella and
+               Marina Settembre and
+               Nicolò Maunero},
+  title     = {"Work-in-Progress" Structuring the Complexity: An Ontological Approach to Analyze the Cybersecurity of a 5G Service},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {691-700},
+}
+
+@inproceedings{DBLP:conf/eurosp/NelsonPA24,
+  author    = {Boel Nelson and
+               Elena Pagnin and
+               Aslan Askarov},
+  title     = {Metadata Privacy Beyond Tunneling for Instant Messaging},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {697-723},
+}
+
+@inproceedings{DBLP:conf/eurosp/SalernoPM24,
+  author    = {Giuseppe Salerno and
+               Andrea Pugliese and
+               Cristian Molinaro},
+  title     = {Work-in-Progress: Protecting Knowledge Graph-based Descriptions of Digital Twins},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {701-705},
+}
+
+@inproceedings{DBLP:conf/eurosp/BerlatoRFCMC24,
+  author    = {Stefano Berlato and
+               Matteo Rizzi and
+               Matteo Franzil and
+               Silvio Cretti and
+               Pietro De Matteis and
+               Roberto Carbone},
+  title     = {Work-in-Progress: A Sidecar Proxy for Usable and {Performance-Adaptable} {End-to-End} Protection of Communications in Cloud Native Applications},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {706-711},
+}
+
+@inproceedings{DBLP:conf/eurosp/ValerianiBVM24,
+  author    = {Lorenzo Valeriani and
+               Giuseppe Bianchi and
+               Luca Verderame and
+               Alessio Merlo},
+  title     = {Analyzing the Impact of Obfuscation on the Runtime Execution of Android Apps at Kernel Level},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {712-717},
+}
+
+@inproceedings{DBLP:conf/eurosp/CerretaC24,
+  author    = {Michele Cerreta and
+               Gabriele Costa},
+  title     = {Automating Penetration Testing with {MeTeOr}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {718-725},
+}
+
+@inproceedings{DBLP:conf/eurosp/ZhangMWGYCWJ24,
+  author    = {Zicheng Zhang and
+               Haoyu Ma and
+               Daoyuan Wu and
+               Debin Gao and
+               Xiao Yi and
+               Yufan Chen and
+               Yan Wu and
+               Lingxiao Jiang},
+  title     = {MtdScout: Complementing the Identification of Insecure Methods in Android Apps via {Source-to-Bytecode} Signature Generation and Tree-based Layered Search},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {724-740},
+}
+
+@inproceedings{DBLP:conf/eurosp/FortiLR24,
+  author    = {Alessandro Cantelli Forti and
+               Giacomo Longo and
+               Enrico Russo},
+  title     = {Work-In-Progress: Consistent and {Tamper-Proof} Acquisition of Automatically Verifiable Forensic Web Evidence},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {726-730},
+}
+
+@inproceedings{DBLP:conf/eurosp/CaviglioneGPZ24,
+  author    = {Luca Caviglione and
+               Massimo Guarascio and
+               Francesco Sergio Pisani and
+               Marco Zuppelli},
+  title     = {A Few to Unveil Them All: Leveraging Mixture of Experts on Minimal Data for Detecting Covert Channels in Containerized Cloud Infrastructures},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {731-739},
+}
+
+@inproceedings{DBLP:conf/eurosp/KanungoKABBMC24,
+  author    = {Koustuv Kanungo and
+               Rahul Khatoliya and
+               Vishrut Arora and
+               Aairah Bari and
+               Arani Bhattacharya and
+               Mukulika Maity and
+               Sambuddho Chakravarty},
+  title     = {How Many Hands in the Cookie Jar? Examining Privacy Implications of Popular Apps in India},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {741-757},
+}
+
+@inproceedings{DBLP:conf/eurosp/VagavoluAN24,
+  author    = {Dheeraj Vagavolu and
+               Yousra Aafer and
+               Meiyappan Nagappan},
+  title     = {(Deep) Learning of Android Access Control Recommendation from Static Execution Paths},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {758-772},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlmansooriIGMC24,
+  author    = {Maied Almansoori and
+               Mazharul Islam and
+               Saptarshi Ghosh and
+               Mainack Mondal and
+               Rahul Chatterjee},
+  title     = {The Web of Abuse: A Comprehensive Analysis of Online Resource in the Context of {Technology-Enabled} Intimate Partner Surveillance},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {773-789},
+}
+
+@inproceedings{DBLP:conf/eurosp/CongDNP24,
+  author    = {Kelong Cong and
+               Debajyoti Das and
+               Georgio Nicolas and
+               Jeongeun Park},
+  title     = {Panacea: {Non-Interactive} and Stateless Oblivious {RAM}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {790-809},
+}
+
+@inproceedings{DBLP:conf/eurosp/ChengMZH24,
+  author    = {Nan Cheng and
+               Aikaterini Mitrokotsa and
+               Feng Zhang and
+               Frank Hartmann},
+  title     = {Efficient {Two-Party} Secure Aggregation via Incremental Distributed Point Function},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {810-827},
+}
+
+@inproceedings{DBLP:conf/eurosp/AlbrechtBCP24,
+  author    = {Martin R. Albrecht and
+               Matilda Backendal and
+               Daniele Coppola and
+               Kenneth G. Paterson},
+  title     = {Share with Care: Breaking E2{EE} in Nextcloud},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {828-840},
+}
+
+@inproceedings{DBLP:conf/eurosp/SinghDCSCM24,
+  author    = {Animesh Singh and
+               Smita Das and
+               Anirban Chakraborty and
+               Rajat Sadhukhan and
+               Ayantika Chatterjee and
+               Debdeep Mukhopadhyay},
+  title     = {FHEDA: Efficient Circuit Synthesis with Reduced Bootstrapping for Torus {FHE}},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {841-859},
+}
+
+@inproceedings{DBLP:conf/eurosp/DowerahDHMMP24,
+  author    = {Uddipana Dowerah and
+               Subhranil Dutta and
+               Frank Hartmann and
+               Aikaterini Mitrokotsa and
+               Sayantan Mukherjee and
+               Tapas Pal},
+  title     = {SACfe: Secure Access Control in Functional Encryption with Unbounded Data},
+  booktitle = eurosp,
+  year      = 2024,
+  pages     = {860-882},
+}
+
 @inproceedings{DBLP:conf/eurosp/RacitiB23,
   author    = {Mario Raciti and
                Giampaolo Bella},
@@ -64,7 +1507,7 @@
 @inproceedings{DBLP:conf/eurosp/KrakerVH23,
   author    = {Wesley de Kraker and
                Harald Vranken and
-               Arjen Hommmersom},
+               Arjen Hommersom},
   title     = {GLICE: Combining Graph Neural Networks and Program Slicing to Improve Software Vulnerability Detection},
   booktitle = eurosp,
   year      = 2023,
@@ -179,7 +1622,7 @@
 
 @inproceedings{DBLP:conf/eurosp/JainRAS23,
   author    = {Akshath Jain and
-               David Rodriguez and
+               David Rodríguez Torrado and
                José M. del Álamo and
                Norman M. Sadeh},
   title     = {ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels},
@@ -278,7 +1721,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosp/RodriguezJAS23,
-  author    = {David Rodriguez and
+  author    = {David Rodríguez Torrado and
                Akshath Jain and
                José M. del Álamo and
                Norman Sadeh},
@@ -337,7 +1780,7 @@
   author    = {Lena Yuryna Connolly and
                Hervé Borrion and
                Budi Arief and
-               Sanna Kaddoura},
+               Sanaa Kaddoura},
   title     = {Applying Neutralisation Theory to Better Understand Ransomware Offenders},
   booktitle = eurosp,
   year      = 2023,
@@ -2181,7 +3624,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosp/RodriguezFPEG22,
-  author    = {Elsa Rodríguez and
+  author    = {Elsa Turcios Rodriguez and
                Max Fukkink and
                Simon Parkin and
                Michel van Eeten and
@@ -3200,7 +4643,7 @@
 
 @inproceedings{DBLP:conf/eurosp/NoroozianRLKEG21,
   author    = {Arman Noroozian and
-               Elsa Rodríguez and
+               Elsa Turcios Rodriguez and
                Elmer Lastdrager and
                Takahiro Kasama and
                Michel van Eeten and
@@ -4489,7 +5932,7 @@
 
 @inproceedings{DBLP:conf/eurosp/ValerosG20,
   author    = {Veronica Valeros and
-               Sebastian Garcia},
+               Sebastián García},
   title     = {Growth and Commoditization of Remote Access Trojans},
   booktitle = eurosp,
   year      = 2020,
@@ -4589,7 +6032,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosp/VuPMPS20,
-  author    = {Duc Ly Vu and
+  author    = {Duc-Ly Vu and
                Ivan Pashchenko and
                Fabio Massacci and
                Henrik Plate and
@@ -5881,7 +7324,7 @@
 @inproceedings{DBLP:conf/eurosp/ValerosRG19,
   author    = {Veronica Valeros and
                Maria Rigaki and
-               Sebastian Garcia},
+               Sebastián García},
   title     = {Machete: Dissecting the Operations of a Cyber Espionage Group in Latin America},
   booktitle = eurosp,
   year      = 2019,
@@ -6980,7 +8423,7 @@
 @inproceedings{DBLP:conf/eurosp/MaHSP17,
   author    = {Zhendong Ma and
                Aleksandar Hudic and
-               Abdelkader Shaaban and
+               Abdelkader Magdy Shaaban and
                Sándor Plósz},
   title     = {Security Viewpoint in a Reference Architecture Model for {Cyber-Physical} Production Systems},
   booktitle = eurosp,
@@ -7617,7 +9060,7 @@
                Yehia Elkhatib and
                Awais Rashid and
                Karolina Follis and
-               John Vidler and
+               John Edward Vidler and
                Nicholas J. P. Race and
                Christopher Edwards},
   title     = {It Bends But Would It Break? Topological Analysis of {BGP} Infrastructures in Europe},

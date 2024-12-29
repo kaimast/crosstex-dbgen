@@ -1,5 +1,683 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/aft/X24,
+  author    = {},
+  title     = {Front Matter, Table of Contents, Preface, Conference Organization},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {0-0},
+}
+
+@inproceedings{DBLP:conf/aft/ChristCMBM24,
+  author    = {Miranda Christ and
+               Kevin Choi and
+               Walter McKelvie and
+               Joseph Bonneau and
+               Tal Malkin},
+  title     = {Accountable Secret Leader Election},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/aft/AlvarezABBBEFGJ24,
+  author    = {Mario M. Alvarez and
+               Henry Arneson and
+               Ben Berger and
+               Lee Bousfield and
+               Chris Buckland and
+               Yafah Edelman and
+               Edward W. Felten and
+               Daniel Goldman and
+               Raul Jordan and
+               Mahimna Kelkar and
+               Akaki Mamageishvili and
+               Harry Ng and
+               Aman Sanghi and
+               Victor Shoup and
+               Terence Tsao},
+  title     = {BoLD: Fast and Cheap Dispute Resolution},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/aft/TangSNRWFV24,
+  author    = {Weizhao Tang and
+               Peiyao Sheng and
+               Ronghao Ni and
+               Pronoy Roy and
+               Xuechao Wang and
+               Giulia Fanti and
+               Pramod Viswanath},
+  title     = {CFT-Forensics: {High-Performance} Byzantine Accountability for Crash Fault Tolerant Protocols},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/aft/KoutsosT0C24,
+  author    = {Vlasis Koutsos and
+               Xiangan Tian and
+               Dimitrios Papadopoulos and
+               Dimitris Chatzopoulos},
+  title     = {Cross Ledger Transaction Consistency for Financial Auditing},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/aft/ShengRBTV24,
+  author    = {Peiyao Sheng and
+               Ranvir Rana and
+               Senthil Bala and
+               Himanshu Tyagi and
+               Pramod Viswanath},
+  title     = {Proof of Diligence: Cryptoeconomic Security for Rollups},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/aft/ChaliasosRTEKL24,
+  author    = {Stefanos Chaliasos and
+               Itamar Reif and
+               Adrià Torralba-Agell and
+               Jens Ernstberger and
+               Assimakis Kattis and
+               Benjamin Livshits},
+  title     = {Analyzing and Benchmarking {ZK-Rollups}},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/aft/GanZWQ024,
+  author    = {Rundong Gan and
+               Liyi Zhou and
+               Le Wang and
+               Kaihua Qin and
+               Xiaodong Lin},
+  title     = {DeFiAligner: Leveraging Symbolic Analysis and Large Language Models for Inconsistency Detection in Decentralized Finance},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/aft/TasTW24,
+  author    = {Ertem Nusret Tas and
+               David Tse and
+               Yifei Wang},
+  title     = {A Circuit Approach to Constructing Blockchains on Blockchains},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/aft/KiayiasKLP24,
+  author    = {Aggelos Kiayias and
+               Elias Koutsoupias and
+               Philip Lazos and
+               Giorgos Panagiotakos},
+  title     = {Blockchain Space Tokenization},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/aft/AlpturerW24,
+  author    = {Kaya Alpturer and
+               S. Matthew Weinberg},
+  title     = {Optimal {RANDAO} Manipulation in Ethereum},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/aft/AvarikiotiKLM24,
+  author    = {Zeta Avarikioti and
+               Pawel Kedzior and
+               Tomasz Lizurej and
+               Tomasz Michalak},
+  title     = {Bribe & Fork: Cheap {PCN} Bribing Attacks via Forking Threat},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/aft/NdoloT24,
+  author    = {Charmaine Ndolo and
+               Florian Tschorsch},
+  title     = {Payment Censorship in the Lightning Network Despite Encrypted Communication},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/aft/Avarikioti0T24,
+  author    = {Zeta Avarikioti and
+               Stefan Schmid and
+               Samarth Tiwari},
+  title     = {Musketeer: {Incentive-Compatible} Rebalancing for Payment Channel Networks},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/aft/ChristBCM0W24,
+  author    = {Miranda Christ and
+               Foteini Baldimtsi and
+               Konstantinos Kryptos Chalkias and
+               Deepak Maram and
+               Arnab Roy and
+               Joy Wang},
+  title     = {SoK: {Zero-Knowledge} Range Proofs},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/aft/KotzerR24,
+  author    = {Arad Kotzer and
+               Ori Rottenstreich},
+  title     = {Privacy Comparison for Bitcoin Light Client Implementations},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/aft/Zhou00R24,
+  author    = {Lulu Zhou and
+               Zeyu Liu and
+               Fan Zhang and
+               Michael K. Reiter},
+  title     = {CrudiTEE: A {Stick-And-Carrot} Approach to Building Trustworthy Cryptocurrency Wallets with {TEEs}},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/aft/ChristCB24,
+  author    = {Miranda Christ and
+               Kevin Choi and
+               Joseph Bonneau},
+  title     = {Cornucopia: Distributed Randomness at Scale},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/aft/MoallemiR24,
+  author    = {Ciamac C. Moallemi and
+               Dan Robinson},
+  title     = {Loss-Versus-Fair: Efficiency of Dutch Auctions on Blockchains},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/aft/ChitraFK24,
+  author    = {Tarun Chitra and
+               Matheus V. X. Ferreira and
+               Kshitij Kulkarni},
+  title     = {Credible, Optimal Auctions via Public Broadcast},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/aft/NeuderPR24,
+  author    = {Michael Neuder and
+               Mallesh M. Pai and
+               Max Resnick},
+  title     = {Optimizing Exit Queues for {Proof-Of-Stake} Blockchains: A Mechanism Design Approach},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/aft/MamageishviliSS24,
+  author    = {Akaki Mamageishvili and
+               Christoph Schlegel and
+               Benny Sudakov},
+  title     = {Searcher Competition in Block Building},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/aft/OzSTM24,
+  author    = {Burak Öz and
+               Danning Sui and
+               Thomas Thiery and
+               Florian Matthes},
+  title     = {Who Wins Ethereum Block Building Auctions and Why?},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/aft/RahimianC24,
+  author    = {Reza Rahimian and
+               Jeremy Clark},
+  title     = {A Shortfall in Investor Expectations of Leveraged Tokens},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/aft/OrdekianSHV24,
+  author    = {Marilyne Ordekian and
+               Gilberto Atondo Siu and
+               Alice Hutchings and
+               Marie Vasek},
+  title     = {Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/aft/Nadkarni0V24,
+  author    = {Viraj Nadkarni and
+               Sanjeev Kulkarni and
+               Pramod Viswanath},
+  title     = {Adaptive Curves for Optimally Efficient Market Making},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/aft/AlmashaqbehCR24,
+  author    = {Ghada Almashaqbeh and
+               Sixia Chen and
+               Alexander Russell},
+  title     = {Competitive Policies for Online Collateral Maintenance},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/aft/BastankhahN00V24,
+  author    = {Mahsa Bastankhah and
+               Viraj Nadkarni and
+               Chi Jin and
+               Sanjeev Kulkarni and
+               Pramod Viswanath},
+  title     = {Thinking Fast and Slow: {Data-Driven} Adaptive {DeFi} {Borrow-Lending} Protocol},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/aft/FeichtingerFHVW24,
+  author    = {Rainer Feichtinger and
+               Robin Fritsch and
+               Lioba Heimbach and
+               Yann Vonlanthen and
+               Roger Wattenhofer},
+  title     = {SoK: Attacks on {DAOs}},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/aft/BahraniGR24,
+  author    = {Maryam Bahrani and
+               Pranav Garimidi and
+               Tim Roughgarden},
+  title     = {Transaction Fee Mechanism Design in a {Post-MEV} World},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {29-1},
+}
+
+@inproceedings{DBLP:conf/aft/CaiLWZ24,
+  author    = {Linda Cai and
+               Jingyi Liu and
+               S. Matthew Weinberg and
+               Chenghan Zhou},
+  title     = {Profitable Manipulations of Cryptographic {Self-Selection} Are Statistically Detectable},
+  booktitle = aft,
+  year      = 2024,
+  pages     = {30-1},
+}
+
+@inproceedings{DBLP:conf/aft/X23,
+  author    = {},
+  title     = {Front Matter, Table of Contents, Preface, Conference Organization},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {0-1},
+}
+
+@inproceedings{DBLP:conf/aft/Movsowitz-Davidow23,
+  author    = {Danielle Movsowitz-Davidow and
+               Yacov Manevich and
+               Eran Toch},
+  title     = {{Privacy-Preserving} Transactions with Verifiable Local Differential Privacy},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/aft/YaishZ23,
+  author    = {Aviv Yaish and
+               Aviv Zohar},
+  title     = {Correct Cryptocurrency {ASIC} Pricing: Are Miners Overpaying?},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/aft/ZhangMQBEF23,
+  author    = {Haoqian Zhang and
+               Louis-Henri Merino and
+               Ziyan Qu and
+               Mahsa Bastankhah and
+               Vero Estrada-Galiñanes and
+               Bryan Ford},
+  title     = {F3B: A {Low-Overhead} Blockchain Architecture with {Per-Transaction} {Front-Running} Protection},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/aft/DiamandisECA23,
+  author    = {Theo Diamandis and
+               Alex Evans and
+               Tarun Chitra and
+               Guillermo Angeris},
+  title     = {Designing Multidimensional Blockchain Fee Markets},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/aft/WangAV23,
+  author    = {Xuechao Wang and
+               Sarah Azouvi and
+               Marko Vukolic},
+  title     = {Security Analysis of Filecoin's Expected Consensus in the Byzantine vs Honest Model},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/aft/KellerGBG23,
+  author    = {Patrik Keller and
+               Ben Glickenhaus and
+               George Bissias and
+               Gregory Griffith},
+  title     = {Tailstorm: A Secure and Fair Blockchain for Cash Transactions},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/aft/BeaverCKKLNN0S23,
+  author    = {Donald Beaver and
+               Konstantinos Chalkias and
+               Mahimna Kelkar and
+               Lefteris Kokoris-Kogias and
+               Kevin Lewi and
+               Ladi de Naurois and
+               Valeria Nikolaenko and
+               Arnab Roy and
+               Alberto Sonnino},
+  title     = {STROBE: Streaming Threshold Random Beacons},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/aft/KawaiRSZC23,
+  author    = {Daisuke Kawai and
+               Bryan R. Routledge and
+               Kyle Soska and
+               Ariel Zetlin-Jones and
+               Nicolas Christin},
+  title     = {User Participation in Cryptocurrency Derivative Markets},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/aft/HeimbachSW23,
+  author    = {Lioba Heimbach and
+               Eric Schertenleib and
+               Roger Wattenhofer},
+  title     = {{DeFi} Lending During The Merge},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/aft/ChiangDEG23,
+  author    = {James Hsin-yu Chiang and
+               Bernardo David and
+               Ittay Eyal and
+               Tiantian Gong},
+  title     = {FairPoS: Input Fairness in Permissionless Consensus},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/aft/ChiangDGL23,
+  author    = {James Hsin-yu Chiang and
+               Bernardo David and
+               Mariana Gama and
+               Christian Janos Lebeda},
+  title     = {{Correlated-Output} Differential Privacy and Applications to Dark Pools},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/aft/BaumCDF23,
+  author    = {Carsten Baum and
+               James Hsin-yu Chiang and
+               Bernardo David and
+               Tore Kasper Frederiksen},
+  title     = {SoK: {Privacy-Enhancing} Technologies in Finance},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/aft/Newman23,
+  author    = {Stephen H. Newman},
+  title     = {Decentralization Cheapens Corruptive Majority Attacks},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/aft/AgrawalNTZ23,
+  author    = {Shresth Agrawal and
+               Joachim Neu and
+               Ertem Nusret Tas and
+               Dionysis Zindros},
+  title     = {Proofs of {Proof-Of-Stake} with Sublinear Complexity},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/aft/VafadarK23,
+  author    = {Mohammad Amin Vafadar and
+               Majid Khabbazian},
+  title     = {Condorcet Attack Against Fair Transaction Ordering},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/aft/WangCLKC23,
+  author    = {Zhipeng Wang and
+               Marko Cirkovic and
+               Duc Viet Le and
+               William J. Knottenbelt and
+               Christian Cachin},
+  title     = {Pay Less for Your Privacy: Towards {Cost-Effective} {On-Chain} Mixers},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/aft/DziembowskiK23,
+  author    = {Stefan Dziembowski and
+               Pawel Kedzior},
+  title     = {{Non-Atomic} Payment Splitting in Channel Networks},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/aft/NguyenBS23,
+  author    = {Wilson D. Nguyen and
+               Dan Boneh and
+               Srinath T. V. Setty},
+  title     = {Revisiting the Nova Proof System on a Cycle of Curves},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/aft/FoxPR23,
+  author    = {Elijah Fox and
+               Mallesh M. Pai and
+               Max Resnick},
+  title     = {Censorship Resistance in {On-Chain} Auctions},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/aft/GuptaPR23,
+  author    = {Tivas Gupta and
+               Mallesh M. Pai and
+               Max Resnick},
+  title     = {The Centralizing Effects of Private Order Flow on {Proposer-Builder} Separation},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/aft/BahraniGR23,
+  author    = {Maryam Bahrani and
+               Pranav Garimidi and
+               Tim Roughgarden},
+  title     = {When Bidders Are {DAOs}},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/aft/MoosaviSGC23,
+  author    = {Mahsa Moosavi and
+               Mehdi Salehi and
+               Daniel Goldman and
+               Jeremy Clark},
+  title     = {Fast and Furious Withdrawals from Optimistic Rollups},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/aft/MamageishviliKS23,
+  author    = {Akaki Mamageishvili and
+               Mahimna Kelkar and
+               Jan Christoph Schlegel and
+               Edward W. Felten},
+  title     = {Buying Time: Latency Racing vs. Bidding for Transaction Ordering},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/aft/CanidioF23,
+  author    = {Andrea Canidio and
+               Robin Fritsch},
+  title     = {Batching Trades on Automated Market Makers},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/aft/FanCMNRP23,
+  author    = {Zhou Fan and
+               Francisco J. Marmolejo Cossío and
+               Daniel J. Moroz and
+               Michael Neuder and
+               Rithvik Rao and
+               David C. Parkes},
+  title     = {Strategic Liquidity Provision in Uniswap V3},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/aft/BonehPR23,
+  author    = {Dan Boneh and
+               Aditi Partap and
+               Lior Rotem},
+  title     = {{Post-Quantum} Single Secret Leader Election (SSLE) from Publicly {Re-Randomizable} Commitments},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/aft/ArjmandK23,
+  author    = {Alireza Arjmand and
+               Majid Khabbazian},
+  title     = {Liquidity Management Attacks on Lending Markets},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/aft/Vijayakumaran23,
+  author    = {Saravanan Vijayakumaran},
+  title     = {Analysis of {CryptoNote} Transaction Graphs Using the {Dulmage-Mendelsohn} Decomposition},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/aft/TasB23,
+  author    = {Ertem Nusret Tas and
+               Dan Boneh},
+  title     = {Vector Commitments with Efficient Updates},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {29-1},
+}
+
+@inproceedings{DBLP:conf/aft/Schwarz-Schilling23,
+  author    = {Caspar Schwarz-Schilling and
+               Fahad Saleh and
+               Thomas Thiery and
+               Jennifer Pan and
+               Nihar Shah and
+               Barnabé Monnot},
+  title     = {Time Is Money: Strategic Timing Games in {Proof-Of-Stake} Protocols},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {30-1},
+}
+
+@inproceedings{DBLP:conf/aft/AlposCKN23,
+  author    = {Orestis Alpos and
+               Christian Cachin and
+               Simon Holmgaard Kamp and
+               Jesper Buus Nielsen},
+  title     = {Practical {Large-Scale} {Proof-Of-Stake} Asynchronous {Total-Order} Broadcast},
+  booktitle = aft,
+  year      = 2023,
+  pages     = {31-1},
+}
+
 @inproceedings{DBLP:conf/aft/KellerB22,
   author    = {Patrik Keller and
                Rainer Böhme},

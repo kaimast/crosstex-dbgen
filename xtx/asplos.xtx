@@ -1,5 +1,2328 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/asplos/Vahdat24,
+  author    = {Amin Vahdat},
+  title     = {Societal infrastructure in the age of Artificial General Intelligence},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/asplos/GuanQL0YLF0Z00L24,
+  author    = {Yue Guan and
+               Yuxian Qiu and
+               Jingwen Leng and
+               Fan Yang and
+               Shuo Yu and
+               Yunxin Liu and
+               Yu Feng and
+               Yuhao Zhu and
+               Lidong Zhou and
+               Yun Liang and
+               Chen Zhang and
+               Chao Li and
+               Minyi Guo},
+  title     = {Amanda: Unified Instrumentation Framework for Deep Neural Networks},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/asplos/KimMCJBCHK24,
+  author    = {Junpyo Kim and
+               Dongmoon Min and
+               Jungmin Cho and
+               Hyeonseong Jeong and
+               Ilkwon Byun and
+               Junhyuk Choi and
+               Juwon Hong and
+               Jangwoo Kim},
+  title     = {A {Fault-Tolerant} Million {Qubit-Scale} Distributed Quantum Computer},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1-19},
+}
+
+@inproceedings{DBLP:conf/asplos/Witchel24,
+  author    = {Emmett Witchel},
+  title     = {Challenges and Opportunities for Systems Using {CXL} Memory},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/asplos/Eilam24,
+  author    = {Tamar Eilam},
+  title     = {Harnessing the Power of Specialization for Sustainable Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/asplos/Bshara24,
+  author    = {Nafea Bshara},
+  title     = {{AWS} Trainium: The Journey for Designing and Optimization Full Stack {ML} Hardware},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/asplos/YuPURHR24,
+  author    = {Jeffrey Yu and
+               Kartik Prabhu and
+               Yonatan Urman and
+               Robert M. Radway and
+               Eric Han and
+               Priyanka Raina},
+  title     = {8-bit Transformer Inference and Fine-tuning for Edge Accelerators},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {5-21},
+}
+
+@inproceedings{DBLP:conf/asplos/ThomasB24,
+  author    = {Samuel Thomas and
+               James Bornholt},
+  title     = {Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {19-34},
+}
+
+@inproceedings{DBLP:conf/asplos/DaviesMAMJS24,
+  author    = {Michael Davies and
+               Ian McDougall and
+               Selvaraj Anandaraj and
+               Deep Machchhar and
+               Rithik Jain and
+               Karthikeyan Sankaralingam},
+  title     = {A Journey of a 1, 000 Kernels Begins with a Single Step: A Retrospective of Deep Learning on {GPUs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {20-36},
+}
+
+@inproceedings{DBLP:conf/asplos/ThomasWMILB24,
+  author    = {Samuel Thomas and
+               Kidus Workneh and
+               Jac McCarty and
+               Joseph Izraelevitz and
+               Tamara Lehman and
+               R. Iris Bahar},
+  title     = {A Midsummer Night's Tree: Efficient and High Performance Secure {SCM}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {22-37},
+}
+
+@inproceedings{DBLP:conf/asplos/YadalamAKGS24,
+  author    = {Sujay Yadalam and
+               Chloe Alverti and
+               Vasileios Karakostas and
+               Jayneel Gandhi and
+               Michael M. Swift},
+  title     = {BypassD: Enabling fast userspace access to shared {SSDs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {35-51},
+}
+
+@inproceedings{DBLP:conf/asplos/KuperJY0RRHKLK24,
+  author    = {Reese Kuper and
+               Ipoom Jeong and
+               Yifan Yuan and
+               Ren Wang and
+               Narayan Ranganathan and
+               Nikhil Rao and
+               Jiayu Hu and
+               Sanjay Kumar and
+               Philip Lantz and
+               Nam Sung Kim},
+  title     = {A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {37-54},
+}
+
+@inproceedings{DBLP:conf/asplos/BisbasLB0FMRJKS24,
+  author    = {George Bisbas and
+               Anton Lydike and
+               Emilien Bauer and
+               Nick Brown and
+               Mathieu Fehr and
+               Lawrence Mitchell and
+               Gabriel Rodriguez-Canal and
+               Maurice Jamieson and
+               Paul H. J. Kelly and
+               Michel Steuwer and
+               Tobias Grosser},
+  title     = {A shared compilation stack for distributed-memory parallelism in stencil {DSLs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {38-56},
+}
+
+@inproceedings{DBLP:conf/asplos/SchuhKCLRKS24,
+  author    = {Henry N. Schuh and
+               Arvind Krishnamurthy and
+               David E. Culler and
+               Henry M. Levy and
+               Luigi Rizzo and
+               Samira Manabi Khan and
+               Brent E. Stephens},
+  title     = {CC-NIC: a {Cache-Coherent} Interface to the {NIC}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {52-68},
+}
+
+@inproceedings{DBLP:conf/asplos/YeLLZRWKX24,
+  author    = {Min Ye and
+               Qiao Li and
+               Yina Lv and
+               Jie Zhang and
+               Tianyu Ren and
+               Daniel Wen and
+               Tei-Wei Kuo and
+               Chun Jason Xue},
+  title     = {Achieving {Near-Zero} Read Retry for 3D {NAND} Flash Memory},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {55-70},
+}
+
+@inproceedings{DBLP:conf/asplos/Ji0X024,
+  author    = {Zhuoran Ji and
+               Zhiyuan Zhang and
+               Jiming Xu and
+               Lei Ju},
+  title     = {Accelerating {Multi-Scalar} Multiplication for Efficient Zero Knowledge Proofs with {Multi-GPU} Systems},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/asplos/TanZM24,
+  author    = {Zhanhong Tan and
+               Zijian Zhu and
+               Kaisheng Ma},
+  title     = {Cocco: {Hardware-Mapping} {Co-Exploration} towards Memory {Capacity-Communication} Optimization},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {69-84},
+}
+
+@inproceedings{DBLP:conf/asplos/WeiLD24,
+  author    = {Yixun Wei and
+               Bingzhe Li and
+               David H. C. Du},
+  title     = {An Encoding Scheme to Enlarge Practical {DNA} Storage Capacity by Reducing {Primer-Payload} Collisions},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {71-84},
+}
+
+@inproceedings{DBLP:conf/asplos/LuL00S24,
+  author    = {Xiaoyang Lu and
+               Boyu Long and
+               Xiaoming Chen and
+               Yinhe Han and
+               Xian-He Sun},
+  title     = {ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and {Concurrency-Aware} Cache Optimizations},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/asplos/RoyP0T24,
+  author    = {Rohan Basu Roy and
+               Tirthak Patel and
+               Rohan Garg and
+               Devesh Tiwari},
+  title     = {CodeCrunch: Improving Serverless Performance via Function Compression and {Cost-Aware} Warmup Location Optimization},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {85-101},
+}
+
+@inproceedings{DBLP:conf/asplos/LascorzMZ0IGAM24,
+  author    = {Alberto Delmas Lascorz and
+               Mostafa Mahmoud and
+               Ali Hadi Zadeh and
+               Milos Nikolic and
+               Kareem Ibrahim and
+               Christina Giannoula and
+               Ameer Abdelhadi and
+               Andreas Moshovos},
+  title     = {Atalanta: A Bit is Worth a "Thousand" Tensor Values},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {85-102},
+}
+
+@inproceedings{DBLP:conf/asplos/SunCWF0WC24,
+  author    = {Zhenbo Sun and
+               Huanqi Cao and
+               Yuanwei Wang and
+               Guanyu Feng and
+               Shengqi Chen and
+               Haojie Wang and
+               Wenguang Chen},
+  title     = {AdaPipe: Optimizing Pipeline Parallelism with Adaptive Recomputation and Partitioning},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {86-100},
+}
+
+@inproceedings{DBLP:conf/asplos/ChoKCSMK024,
+  author    = {Sungjun Cho and
+               Beomjun Kim and
+               Hyunuk Cho and
+               Gyeongseob Seo and
+               Onur Mutlu and
+               Myungsuk Kim and
+               Jisung Park},
+  title     = {AERO: Adaptive Erase Operation for Improving Lifetime and Performance of Modern {NAND} {Flash-Based} {SSDs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {101-118},
+}
+
+@inproceedings{DBLP:conf/asplos/GargZPPXK24,
+  author    = {Shaleen Garg and
+               Jian Zhang and
+               Rekha Pitchumani and
+               Manish Parashar and
+               Bing Xie and
+               Sudarsun Kannan},
+  title     = {CrossPrefetch: Accelerating I/O Prefetching for Modern Storage},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {102-116},
+}
+
+@inproceedings{DBLP:conf/asplos/0006CKKKKA24,
+  author    = {Jaehyun Park and
+               Jaewan Choi and
+               Kwanhee Kyung and
+               Michael Jaemin Kim and
+               Yongsuk Kwon and
+               Nam Sung Kim and
+               Jung Ho Ahn},
+  title     = {AttAcc! Unleashing the Power of {PIM} for Batched Transformer-based Generative Model Inference},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {103-119},
+}
+
+@inproceedings{DBLP:conf/asplos/ChengDML24,
+  author    = {Zhuo Cheng and
+               Bradley Denby and
+               Kyle McCleary and
+               Brandon Lucia},
+  title     = {EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {117-132},
+}
+
+@inproceedings{DBLP:conf/asplos/JandaghiMMEAS24,
+  author    = {Seyed Ali Jokar Jandaghi and
+               Kaveh Mahdaviani and
+               Amirhossein Mirhosseini and
+               Sameh Elnikety and
+               Cristiana Amza and
+               Bianca Schroeder},
+  title     = {AUDIBLE: A {Convolution-Based} Resource Allocator for Oversubscribing Burstable Virtual Machines},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {119-132},
+}
+
+@inproceedings{DBLP:conf/asplos/FlandersSMGK24,
+  author    = {Michael Flanders and
+               Reshabh K. Sharma and
+               Alexandra E. Michael and
+               Dan Grossman and
+               David Kohlbrenner},
+  title     = {Avoiding {Instruction-Centric} Microarchitectural Timing Channels Via {Binary-Code} Transformations},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {120-136},
+}
+
+@inproceedings{DBLP:conf/asplos/GaoLT024,
+  author    = {Ruihao Gao and
+               Zhichun Li and
+               Guangming Tan and
+               Xueqi Li},
+  title     = {BeeZip: Towards An Organized and Scalable Architecture for Data Compression},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {133-148},
+}
+
+@inproceedings{DBLP:conf/asplos/Zhao0FT24,
+  author    = {Zirui Neil Zhao and
+               Adam Morrison and
+               Christopher W. Fletcher and
+               Josep Torrellas},
+  title     = {Everywhere All at Once: {Co-Location} Attacks on Public Cloud {FaaS}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {133-149},
+}
+
+@inproceedings{DBLP:conf/asplos/Samardzic024,
+  author    = {Nikola Samardzic and
+               Daniel Sánchez},
+  title     = {BitPacker: Enabling High Arithmetic Efficiency in Fully Homomorphic Encryption Accelerators},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {137-150},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhouHSZY24,
+  author    = {Hao Zhou and
+               Qiukun Han and
+               Heng Shi and
+               Yalin Zhang and
+               Jianguo Yao},
+  title     = {Boost Linear Algebra Computation Performance via Efficient {VNNI} Utilization},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {149-163},
+}
+
+@inproceedings{DBLP:conf/asplos/PigaNSSDMCHDM24,
+  author    = {Leonardo Piga and
+               Iyswarya Narayanan and
+               Aditya Sundarrajan and
+               Matt Skach and
+               Qingyuan Deng and
+               Biswadip Maity and
+               Manoj Chakkaravarthy and
+               Alison Huang and
+               Abhishek Dhanotia and
+               Parth Malani},
+  title     = {Expanding Datacenter Capacity with {DVFS} Boosting: A safe and scalable deployment experience},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {150-165},
+}
+
+@inproceedings{DBLP:conf/asplos/WenKGM024,
+  author    = {Ziyuan Wen and
+               Lingkun Kong and
+               Alexis Le Glaunec and
+               Konstantinos Mamouras and
+               Kaiyuan Yang},
+  title     = {BVAP: Energy and Memory Efficient Automata Processing for Regular Expressions with Bounded Repetitions},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {151-166},
+}
+
+@inproceedings{DBLP:conf/asplos/FarzanehLLKHC24,
+  author    = {Hamid Farzaneh and
+               João Paulo Cardoso de Lima and
+               Mengyuan Li and
+               Asif Ali Khan and
+               Xiaobo Sharon Hu and
+               Jerónimo Castrillón},
+  title     = {C4CAM: A Compiler for {CAM-based} In-memory Accelerators},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {164-177},
+}
+
+@inproceedings{DBLP:conf/asplos/UjjainkarSCDS024,
+  author    = {Nisarg Ujjainkar and
+               Ethan Shahan and
+               Kenneth Chen and
+               Budmonde Duinkharjav and
+               Qi Sun and
+               Yuhao Zhu},
+  title     = {Exploiting Human Color Discrimination for Memory- and {Energy-Efficient} Image Encoding in Virtual Reality},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {166-180},
+}
+
+@inproceedings{DBLP:conf/asplos/0001M024,
+  author    = {Zhewen Pan and
+               Joshua San Miguel and
+               Di Wu},
+  title     = {Carat: Unlocking {Value-Level} Parallelism for {Multiplier-Free} {GEMMs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {167-184},
+}
+
+@inproceedings{DBLP:conf/asplos/ChenLZDSZY24,
+  author    = {Chang Chen and
+               Xiuhong Li and
+               Qianchao Zhu and
+               Jiangfei Duan and
+               Peng Sun and
+               Xingcheng Zhang and
+               Chao Yang},
+  title     = {Centauri: Enabling Efficient Scheduling for {Communication-Computation} Overlap in Large Model Training via Communication Partitioning},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {178-191},
+}
+
+@inproceedings{DBLP:conf/asplos/ZalivaMA0DRC0SW24,
+  author    = {Vadim Zaliva and
+               Kayvan Memarian and
+               Ricardo Almeida and
+               Jessica Clarke and
+               Brooks Davis and
+               Alexander Richardson and
+               David Chisnall and
+               Brian Campbell and
+               Ian Stark and
+               Robert N. M. Watson and
+               Peter Sewell},
+  title     = {Formal Mechanised Semantics of {CHERI} C: Capabilities, Undefined Behaviour, and Provenance},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {181-196},
+}
+
+@inproceedings{DBLP:conf/asplos/QuZLHCZW24,
+  author    = {Songyun Qu and
+               Shixin Zhao and
+               Bing Li and
+               Yintao He and
+               Xuyi Cai and
+               Lei Zhang and
+               Ying Wang},
+  title     = {CIM-MLC: A Multi-level Compilation Stack for {Computing-In-Memory} Accelerators},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {185-200},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhouGVK0KMDR24,
+  author    = {Zhuangzhuang Zhou and
+               Vaibhav Gogte and
+               Nilay Vaish and
+               Chris Kennelly and
+               Patrick Xia and
+               Svilen Kanev and
+               Tipp Moseley and
+               Christina Delimitrou and
+               Parthasarathy Ranganathan},
+  title     = {Characterizing a Memory Allocator at Warehouse Scale},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {192-206},
+}
+
+@inproceedings{DBLP:conf/asplos/LamJ0MGLLLRLRW024,
+  author    = {Maximilian Lam and
+               Jeff Johnson and
+               Wenjie Xiong and
+               Kiwan Maeng and
+               Udit Gupta and
+               Yang Li and
+               Liangzhen Lai and
+               Ilias Leontiadis and
+               Minsoo Rhu and
+               Hsien-Hsin S. Lee and
+               Vijay Janapa Reddi and
+               Gu-Yeon Wei and
+               David Brooks and
+               G. Edward Suh},
+  title     = {{GPU-based} Private Information Retrieval for {On-Device} Machine Learning Inference},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {197-214},
+}
+
+@inproceedings{DBLP:conf/asplos/SongQLJL24,
+  author    = {Zhuoran Song and
+               Chunyu Qi and
+               Fangxin Liu and
+               Naifeng Jing and
+               Xiaoyao Liang},
+  title     = {CMC: Video Transformer Acceleration via {CODEC} Assisted Matrix Condensing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {201-215},
+}
+
+@inproceedings{DBLP:conf/asplos/PatelCZGWMB24,
+  author    = {Pratyush Patel and
+               Esha Choukse and
+               Chaojie Zhang and
+               Íñigo Goiri and
+               Brijesh Warrier and
+               Nithish Mahalingam and
+               Ricardo Bianchini},
+  title     = {Characterizing Power Management Opportunities for {LLMs} in the Cloud},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {207-222},
+}
+
+@inproceedings{DBLP:conf/asplos/YeJC24,
+  author    = {Hanchen Ye and
+               Hyegang Jun and
+               Deming Chen},
+  title     = {HIDA: A Hierarchical Dataflow Compiler for {High-Level} Synthesis},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {215-230},
+}
+
+@inproceedings{DBLP:conf/asplos/LinVSRYCB24,
+  author    = {Sophia Fuhui Lin and
+               Joshua Viszlai and
+               Kaitlin N. Smith and
+               Gokul Subramanian Ravi and
+               Charles Yuan and
+               Frederic T. Chong and
+               Benjamin J. Brown},
+  title     = {Codesign of quantum error-correcting codes and modular chiplets in the presence of defects},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {216-231},
+}
+
+@inproceedings{DBLP:conf/asplos/TuncDCEP24,
+  author    = {Hünkar Can Tunç and
+               Ameya Prashant Deshmukh and
+               Berk Çirisci and
+               Constantin Enea and
+               Andreas Pavlogiannis},
+  title     = {CSSTs: A Dynamic Data Structure for Partial Orders in Concurrent Execution Analysis},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {223-238},
+}
+
+@inproceedings{DBLP:conf/asplos/VanHattumPFSB24,
+  author    = {Alexa VanHattum and
+               Monica Pardeshi and
+               Chris Fallin and
+               Adrian Sampson and
+               Fraser Brown},
+  title     = {Lightweight, Modular Verification for {WebAssembly-to-Native} Instruction Selection},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {231-248},
+}
+
+@inproceedings{DBLP:conf/asplos/SuRWDLADC24,
+  author    = {Yian Su and
+               Mike Rainey and
+               Nick Wanninger and
+               Nadharm Dhiantravan and
+               Jasper Liang and
+               Umut A. Acar and
+               Peter A. Dinda and
+               Simone Campanoni},
+  title     = {Compiling {Loop-Based} Nested Parallelism for Irregular Workloads},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {232-250},
+}
+
+@inproceedings{DBLP:conf/asplos/MaLDCMSJ24,
+  author    = {Dongning Ma and
+               Fan Fred Lin and
+               Alban Desmaison and
+               Joel Coburn and
+               Daniel Moore and
+               Sriram Sankar and
+               Xun Jiao},
+  title     = {Dr. DNA: Combating Silent Data Corruptions in Deep Learning using Distribution of Neuron Activations},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {239-252},
+}
+
+@inproceedings{DBLP:conf/asplos/LefeuvreGBDSRHO24,
+  author    = {Hugo Lefeuvre and
+               Gaulthier Gain and
+               Vlad-Andrei Badoiu and
+               Daniel Dinca and
+               Vlad-Radu Schiller and
+               Costin Raiciu and
+               Felipe Huici and
+               Pierre Olivier},
+  title     = {Loupe: Driving the Development of {OS} Compatibility Layers},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {249-267},
+}
+
+@inproceedings{DBLP:conf/asplos/FilardoGW0RDJNC24,
+  author    = {Nathaniel Wesley Filardo and
+               Brett F. Gutstein and
+               Jonathan Woodruff and
+               Jessica Clarke and
+               Peter Rugg and
+               Brooks Davis and
+               Mark Johnston and
+               Robert M. Norton and
+               David Chisnall and
+               Simon W. Moore and
+               Peter G. Neumann and
+               Robert N. M. Watson},
+  title     = {Cornucopia Reloaded: Load Barriers for {CHERI} Heap Temporal Safety},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {251-268},
+}
+
+@inproceedings{DBLP:conf/asplos/Fan0024,
+  author    = {Ruibo Fan and
+               Wei Wang and
+               Xiaowen Chu},
+  title     = {DTC-SpMM: Bridging the Gap in Accelerating General Sparse Matrix Multiplication with Tensor Cores},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {253-267},
+}
+
+@inproceedings{DBLP:conf/asplos/WilliamsH24,
+  author    = {Harrison Williams and
+               Matthew Hicks},
+  title     = {{Energy-Adaptive} Buffering for Efficient, Responsive, and Persistent Batteryless Systems},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {268-282},
+}
+
+@inproceedings{DBLP:conf/asplos/GeZ024,
+  author    = {Tianao Ge and
+               Tong Zhang and
+               Hongyuan Liu},
+  title     = {ngAP: Non-blocking Large-scale Automata Processing on {GPUs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {268-285},
+}
+
+@inproceedings{DBLP:conf/asplos/WangCRA24,
+  author    = {Yu-Neng Wang and
+               Glenn E. R. Cowan and
+               Ulrich Rührmair and
+               Sara Achour},
+  title     = {Design of Novel Analog Compute Paradigms with Ark},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {269-286},
+}
+
+@inproceedings{DBLP:conf/asplos/IsmailJJMX24,
+  author    = {Mohannad Ismail and
+               Christopher Jelesnianski and
+               Yeongjin Jang and
+               Changwoo Min and
+               Wenjie Xiong},
+  title     = {Enforcing C/C++ Type and Scope at Runtime for {Control-Flow} and {Data-Flow} Integrity},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {283-300},
+}
+
+@inproceedings{DBLP:conf/asplos/XiaZSWWYFC24,
+  author    = {Chunwei Xia and
+               Jiacheng Zhao and
+               Qianqi Sun and
+               Zheng Wang and
+               Yuan Wen and
+               Teng Yu and
+               Xiaobing Feng and
+               Huimin Cui},
+  title     = {Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {286-301},
+}
+
+@inproceedings{DBLP:conf/asplos/00030CLKX24,
+  author    = {Jiyuan Zhang and
+               Weiwei Jia and
+               Siyuan Chai and
+               Peizhe Liu and
+               Jongyul Kim and
+               Tianyin Xu},
+  title     = {Direct Memory Translation for Virtualized Clouds},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {287-304},
+}
+
+@inproceedings{DBLP:conf/asplos/ChenKCKWD024,
+  author    = {Zhaodong Chen and
+               Andrew Kerr and
+               Richard Cai and
+               Jack Kosaian and
+               Haicheng Wu and
+               Yufei Ding and
+               Yuan Xie},
+  title     = {EVT: Accelerating Deep Learning Training with Epilogue Visitor Tree},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {301-316},
+}
+
+@inproceedings{DBLP:conf/asplos/0001C0L024,
+  author    = {Yongwoo Lee and
+               Seonyoung Cheon and
+               Dongkwan Kim and
+               Dongyoon Lee and
+               Hanjun Kim},
+  title     = {Performance-aware Scale Analysis with Reserve for Homomorphic Encryption},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {302-317},
+}
+
+@inproceedings{DBLP:conf/asplos/LuoSBAORS24,
+  author    = {Zhihong Luo and
+               Sam Son and
+               Dev Bali and
+               Emmanuel Amaro and
+               Amy Ousterhout and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Efficient Microsecond-scale Blind Scheduling with Tiny Quanta},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {305-319},
+}
+
+@inproceedings{DBLP:conf/asplos/0002H24,
+  author    = {Fabian Ritter and
+               Sebastian Hack},
+  title     = {Explainable Port Mapping Inference with Sparse Performance Counters for {AMD's} Zen Architectures},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {317-330},
+}
+
+@inproceedings{DBLP:conf/asplos/AhmadGFWSW24,
+  author    = {Sohaib Ahmad and
+               Hui Guan and
+               Brian D. Friedman and
+               Thomas Williams and
+               Ramesh K. Sitaraman and
+               Thomas Y. C. Woo},
+  title     = {Proteus: A {High-Throughput} {Inference-Serving} System with Accuracy Scaling},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {318-334},
+}
+
+@inproceedings{DBLP:conf/asplos/WenZZ0YX024,
+  author    = {Yuhong Wen and
+               Xiaogang Zhao and
+               You Zhou and
+               Tong Zhang and
+               Shangjun Yang and
+               Changsheng Xie and
+               Fei Wu},
+  title     = {Eliminating Storage Management Overhead of Deduplication over {SSD} Arrays Through a Hardware/Software {Co-Design}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {320-335},
+}
+
+@inproceedings{DBLP:conf/asplos/XuLLCZZPWZFG24,
+  author    = {Chuhao Xu and
+               Yiyu Liu and
+               Zijun Li and
+               Quan Chen and
+               Han Zhao and
+               Deze Zeng and
+               Qian Peng and
+               Xueqi Wu and
+               Haifeng Zhao and
+               Senbo Fu and
+               Minyi Guo},
+  title     = {FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {331-348},
+}
+
+@inproceedings{DBLP:conf/asplos/YuRFTLZWP24,
+  author    = {Hanfei Yu and
+               Rohan Basu Roy and
+               Christian Fontenot and
+               Devesh Tiwari and
+               Jian Li and
+               Hong Zhang and
+               Hao Wang and
+               Seung-Jong Park},
+  title     = {RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {335-350},
+}
+
+@inproceedings{DBLP:conf/asplos/AnagolumA0QS24,
+  author    = {Sashwat Anagolum and
+               Narges Alavisamani and
+               Poulami Das and
+               Moinuddin K. Qureshi and
+               Yunong Shi},
+  title     = {Elivagar: Efficient Quantum Circuit Search for Classification},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {336-353},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhongZDWYZSMZHZ24,
+  author    = {Kai Zhong and
+               Zhenhua Zhu and
+               Guohao Dai and
+               Hongyi Wang and
+               Xinhao Yang and
+               Haoyu Zhang and
+               Jin Si and
+               Qiuli Mao and
+               Shulin Zeng and
+               Ke Hong and
+               Genghan Zhang and
+               Huazhong Yang and
+               Yu Wang},
+  title     = {FEASTA: A Flexible and Efficient Accelerator for Sparse Tensor Algebra in Machine Learning},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {349-366},
+}
+
+@inproceedings{DBLP:conf/asplos/RenZCXCW24,
+  author    = {Feng Ren and
+               Mingxing Zhang and
+               Kang Chen and
+               Huaxia Xia and
+               Zuoning Chen and
+               Yongwei Wu},
+  title     = {Scaling Up Memory Disaggregated Applications with {SMART}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {351-367},
+}
+
+@inproceedings{DBLP:conf/asplos/GretschSMLS24,
+  author    = {Rhys Gretsch and
+               Peiyang Song and
+               Advait Madhavan and
+               Jeremy Lau and
+               Timothy Sherwood},
+  title     = {Energy Efficient Convolutions with Temporal Arithmetic},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {354-368},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhaoSAM24,
+  author    = {Yifan Zhao and
+               Hashim Sharif and
+               Vikram S. Adve and
+               Sasa Misailovic},
+  title     = {Felix: Optimizing Tensor Programs with Gradient Descent},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {367-381},
+}
+
+@inproceedings{DBLP:conf/asplos/XuXLZHJL24,
+  author    = {Daliang Xu and
+               Mengwei Xu and
+               Chiheng Lou and
+               Li Zhang and
+               Gang Huang and
+               Xin Jin and
+               Xuanzhe Liu},
+  title     = {SoCFlow: Efficient and Scalable {DNN} Training on {SoC-Clustered} Edge Servers},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {368-385},
+}
+
+@inproceedings{DBLP:conf/asplos/OhKKKLC024,
+  author    = {Hyungjun Oh and
+               Kihong Kim and
+               Jaemin Kim and
+               Sungkyun Kim and
+               Junyeol Lee and
+               Du-Seong Chang and
+               Jiwon Seo},
+  title     = {ExeGPT: {Constraint-Aware} Resource Scheduling for {LLM} Inference},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {369-384},
+}
+
+@inproceedings{DBLP:conf/asplos/LiuCZSL24,
+  author    = {Yuhao Liu and
+               Shize Che and
+               Junyu Zhou and
+               Yunong Shi and
+               Gushu Li},
+  title     = {Fermihedral: On the Optimal Compilation for {Fermion-to-Qubit} Encoding},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {382-397},
+}
+
+@inproceedings{DBLP:conf/asplos/LiuSL0GHLG24,
+  author    = {Yushi Liu and
+               Shixuan Sun and
+               Zijun Li and
+               Quan Chen and
+               Sen Gao and
+               Bingsheng He and
+               Chao Li and
+               Minyi Guo},
+  title     = {FaaSGraph: Enabling Scalable, Efficient, and {Cost-Effective} Graph Processing with Serverless Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {385-400},
+}
+
+@inproceedings{DBLP:conf/asplos/NiuAR24,
+  author    = {Wei Niu and
+               Gagan Agrawal and
+               Bin Ren},
+  title     = {SoD2: Statically Optimizing Dynamic Deep Neural Network Execution},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {386-400},
+}
+
+@inproceedings{DBLP:conf/asplos/TitzerGTATM24,
+  author    = {Ben L. Titzer and
+               Elizabeth Gilbert and
+               Bradley Wei Jie Teo and
+               Yash Anand and
+               Kazuyuki Takayama and
+               Heather Miller},
+  title     = {Flexible Non-intrusive Dynamic Instrumentation for {WebAssembly}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {398-415},
+}
+
+@inproceedings{DBLP:conf/asplos/Eeckhout24,
+  author    = {Lieven Eeckhout},
+  title     = {FOCAL: A {First-Order} Carbon Model to Assess Processor Sustainability},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {401-415},
+}
+
+@inproceedings{DBLP:conf/asplos/TauroSCDH24,
+  author    = {Brian R. Tauro and
+               Brian Suchy and
+               Simone Campanoni and
+               Peter A. Dinda and
+               Kyle C. Hale},
+  title     = {TrackFM: Far-out Compiler Support for a Far Memory World},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {401-419},
+}
+
+@inproceedings{DBLP:conf/asplos/GuanYZLLG24,
+  author    = {Yue Guan and
+               Changming Yu and
+               Yangjie Zhou and
+               Jingwen Leng and
+               Chao Li and
+               Minyi Guo},
+  title     = {Fractal: Joint {Multi-Level} Sparse Pattern Tuning of Accuracy and Performance for {DNN} Pruning},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {416-430},
+}
+
+@inproceedings{DBLP:conf/asplos/SmithKCCLPJBT24,
+  author    = {Gus Henry Smith and
+               Benjamin Kushigian and
+               Vishal Canumalla and
+               Andrew Cheung and
+               Steven Lyubomirsky and
+               Sorawee Porncharoenwase and
+               René Just and
+               Gilbert Louis Bernstein and
+               Zachary Tatlock},
+  title     = {{FPGA} Technology Mapping Using {Sketch-Guided} Program Synthesis},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {416-432},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhaoXLTWW24,
+  author    = {Bohan Zhao and
+               Wei Xu and
+               Shuo Liu and
+               Yang Tian and
+               Qiaoling Wang and
+               Wenfei Wu},
+  title     = {Training Job Placement in Clusters with Statistical {In-Network} Aggregation},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {420-434},
+}
+
+@inproceedings{DBLP:conf/asplos/LiuZLDCHSQ24,
+  author    = {Guowei Liu and
+               Laiping Zhao and
+               Yiming Li and
+               Zhaolin Duan and
+               Sheng Chen and
+               Yitao Hu and
+               Zhiyuan Su and
+               Wenyu Qu},
+  title     = {FUYAO: {DPU-enabled} Direct Data Transfer for Serverless Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {431-447},
+}
+
+@inproceedings{DBLP:conf/asplos/LingHWCZ24,
+  author    = {Hao Ling and
+               Heqing Huang and
+               Chengpeng Wang and
+               Yuandao Cai and
+               Charles Zhang},
+  title     = {GIANTSAN: Efficient Memory Sanitization with Segment Folding},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {433-449},
+}
+
+@inproceedings{DBLP:conf/asplos/Li024,
+  author    = {Shaohua Li and
+               Zhendong Su},
+  title     = {UBFuzz: Finding Bugs in Sanitizer Implementations},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {435-449},
+}
+
+@inproceedings{DBLP:conf/asplos/WanningerMCD24,
+  author    = {Nick Wanninger and
+               Tommy McMichen and
+               Simone Campanoni and
+               Peter A. Dinda},
+  title     = {Getting a Handle on Unmanaged Memory},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {448-463},
+}
+
+@inproceedings{DBLP:conf/asplos/FengWWYD24,
+  author    = {Boyuan Feng and
+               Zheng Wang and
+               Yuke Wang and
+               Shu Yang and
+               Yufei Ding},
+  title     = {ZENO: A Type-based Optimization Framework for Zero Knowledge Neural Network Inference},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {450-464},
+}
+
+@inproceedings{DBLP:conf/asplos/0003ZXLLHGWZZZ24,
+  author    = {Cong Guo and
+               Rui Zhang and
+               Jiale Xu and
+               Jingwen Leng and
+               Zihan Liu and
+               Ziyu Huang and
+               Minyi Guo and
+               Hao Wu and
+               Shouren Zhao and
+               Junping Zhao and
+               Ke Zhang},
+  title     = {GMLake: Efficient and Transparent {GPU} Memory Defragmentation for Large-scale {DNN} Training with Virtual Memory Stitching},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {450-466},
+}
+
+@inproceedings{DBLP:conf/asplos/ChangHSMQH24,
+  author    = {Chia-Hao Chang and
+               Jihoon Han and
+               Anand Sivasubramaniam and
+               Vikram Sharma Mailthody and
+               Zaid Qureshi and
+               Wen-Mei Hwu},
+  title     = {GMT: {GPU} Orchestrated Memory Tiering for the Big Data Era},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {464-478},
+}
+
+@inproceedings{DBLP:conf/asplos/YangELLY24,
+  author    = {Tsun-Yu Yang and
+               Cale England and
+               Yi Li and
+               Bingzhe Li and
+               Ming-Chang Yang},
+  title     = {Grafu: Unleashing the Full Potential of Future Value Computation for Out-of-core Synchronous Graph Processing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {467-481},
+}
+
+@inproceedings{DBLP:conf/asplos/HanafyLBSIS24,
+  author    = {Walid A. Hanafy and
+               Qianlin Liang and
+               Noman Bashir and
+               Abel Souza and
+               David E. Irwin and
+               Prashant J. Shenoy},
+  title     = {Going Green for Less Green: Optimizing the Cost of Reducing Cloud Carbon Emissions},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {479-496},
+}
+
+@inproceedings{DBLP:conf/asplos/WolffSD0R24,
+  author    = {Dylan Wolff and
+               Zheng Shi and
+               Gregory J. Duck and
+               Umang Mathur and
+               Abhik Roychoudhury},
+  title     = {Greybox Fuzzing for Concurrency Testing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {482-498},
+}
+
+@inproceedings{DBLP:conf/asplos/LeeLL0S24,
+  author    = {Junseo Lee and
+               Seokwon Lee and
+               Jungi Lee and
+               Junyong Park and
+               Jaewoong Sim},
+  title     = {GSCore: Efficient Radiance Field Rendering via Architectural Support for 3D Gaussian Splatting},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {497-511},
+}
+
+@inproceedings{DBLP:conf/asplos/MoX024,
+  author    = {Zizhao Mo and
+               Huanle Xu and
+               Chengzhong Xu},
+  title     = {Heet: Accelerating Elastic Training in Heterogeneous Deep Learning Clusters},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {499-513},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhangCZ0LCWL24,
+  author    = {Yichi Zhang and
+               Dibei Chen and
+               Gang Zeng and
+               Jianfeng Zhu and
+               Zhaoshi Li and
+               Longlong Chen and
+               Shaojun Wei and
+               Leibo Liu},
+  title     = {Harp: Leveraging {Quasi-Sequential} Characteristics to Accelerate {Sequence-to-Graph} Mapping of Long Reads},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {512-527},
+}
+
+@inproceedings{DBLP:conf/asplos/KothariNXUBBAMS24,
+  author    = {Akash Kothari and
+               Abdul Rafae Noor and
+               Muchen Xu and
+               Hassam Uddin and
+               Dhruv Baronia and
+               Stefanos Baziotis and
+               Vikram S. Adve and
+               Charith Mendis and
+               Sudipta Sengupta},
+  title     = {Hydride: A Retargetable and Extensible Synthesis-based Compiler for Modern Hardware Architectures},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {514-529},
+}
+
+@inproceedings{DBLP:conf/asplos/WuH0HZNH24,
+  author    = {Kun Wu and
+               Mert Hidayetoglu and
+               Xiang Song and
+               Sitao Huang and
+               Da Zheng and
+               Israt Nisa and
+               Wen-Mei Hwu},
+  title     = {Hector: An Efficient Programming and Compilation Framework for Implementing Relational Graph Neural Networks in {GPU} Architectures},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {528-544},
+}
+
+@inproceedings{DBLP:conf/asplos/MahapatraGAKWXK24,
+  author    = {Rohan Mahapatra and
+               Soroush Ghodrati and
+               Byung Hoon Ahn and
+               Sean Kinzer and
+               Shu-Ting Wang and
+               Hanyang Xu and
+               Lavanya Karthikeyan and
+               Hardik Sharma and
+               Amir Yazdanbakhsh and
+               Mohammad Alian and
+               Hadi Esmaeilzadeh},
+  title     = {{In-Storage} {Domain-Specific} Acceleration for Serverless Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {530-548},
+}
+
+@inproceedings{DBLP:conf/asplos/SeoNHKKPKP0SWCK24,
+  author    = {Minseok Seo and
+               Xuan Truong Nguyen and
+               Seok Joong Hwang and
+               Yongkee Kwon and
+               Guhyun Kim and
+               Chanwook Park and
+               Ilkon Kim and
+               Jaehan Park and
+               Jeongbin Kim and
+               Woojae Shin and
+               Jongsoon Won and
+               Haerang Choi and
+               Kyuyoung Kim and
+               Daehan Kwon and
+               Chunseok Jeong and
+               Sangheon Lee and
+               Yongseok Choi and
+               Wooseok Byun and
+               Seungcheol Baek and
+               Hyuk-Jae Lee and
+               John Kim},
+  title     = {IANUS: Integrated Accelerator based on {NPU-PIM} Unified Memory System},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {545-560},
+}
+
+@inproceedings{DBLP:conf/asplos/LiuNLFGCLG024,
+  author    = {Zihan Liu and
+               Wentao Ni and
+               Jingwen Leng and
+               Yu Feng and
+               Cong Guo and
+               Quan Chen and
+               Chao Li and
+               Minyi Guo and
+               Yuhao Zhu},
+  title     = {JUNO: Optimizing {High-Dimensional} Approximate Nearest Neighbour Search with {Sparsity-Aware} Algorithm and {Ray-Tracing} Core Mapping},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {549-565},
+}
+
+@inproceedings{DBLP:conf/asplos/Palit024,
+  author    = {Tapti Palit and
+               Pedro Fonseca},
+  title     = {Kaleidoscope: Precise {Invariant-Guided} Pointer Analysis},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {561-576},
+}
+
+@inproceedings{DBLP:conf/asplos/LeeDP24,
+  author    = {Hochan Lee and
+               Roshan Dathathri and
+               Keshav Pingali},
+  title     = {Kimbap: A {Node-Property} Map System for Distributed Graph Analytics},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {566-581},
+}
+
+@inproceedings{DBLP:conf/asplos/JainLVKKHR24,
+  author    = {Akanksha Jain and
+               Hannah Lin and
+               Carlos Villavieja and
+               Baris Kasikci and
+               Chris Kennelly and
+               Milad Hashemi and
+               Parthasarathy Ranganathan},
+  title     = {Limoncello: Prefetchers for Scale},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {577-590},
+}
+
+@inproceedings{DBLP:conf/asplos/Zhao0FT24a,
+  author    = {Zirui Neil Zhao and
+               Adam Morrison and
+               Christopher W. Fletcher and
+               Josep Torrellas},
+  title     = {{Last-Level} Cache {Side-Channel} Attacks Are Feasible in the Modern Public Cloud},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {582-600},
+}
+
+@inproceedings{DBLP:conf/asplos/OppermannDMMJ024,
+  author    = {Julian Oppermann and
+               Brindusa Mihaela Damian-Kosterhon and
+               Florian Meisel and
+               Tammo Mürmann and
+               Eyck Jentzsch and
+               Andreas Koch},
+  title     = {Longnail: {High-Level} Synthesis of Portable Custom Instruction Set Extensions for {RISC-V} Processors from Descriptions in the {Open-Source} {CoreDSL} Language},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {591-606},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhangZCHPCP24,
+  author    = {Yuanyi Zhang and
+               Heng Zhang and
+               Wenbin Cao and
+               Xing He and
+               Daejun Park and
+               Jinyoung Choi and
+               SungJun Park},
+  title     = {LazyBarrier: Reconstructing Android {IO} Stack for {Barrier-Enabled} Flash Storage},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {601-615},
+}
+
+@inproceedings{DBLP:conf/asplos/ChenD0ZLL024,
+  author    = {Renze Chen and
+               Zijian Ding and
+               Size Zheng and
+               Chengrui Zhang and
+               Jingwen Leng and
+               Xuanzhe Liu and
+               Yun Liang},
+  title     = {MAGIS: Memory Optimization via Coordinated Graph Transformation and Scheduling for {DNN}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {607-621},
+}
+
+@inproceedings{DBLP:conf/asplos/LimKHMSR24,
+  author    = {Juntaek Lim and
+               Youngeun Kwon and
+               Ranggi Hwang and
+               Kiwan Maeng and
+               G. Edward Suh and
+               Minsoo Rhu},
+  title     = {LazyDP: {Co-Designing} {Algorithm-Software} for Scalable Training of Differentially Private Recommendation Models},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {616-630},
+}
+
+@inproceedings{DBLP:conf/asplos/TsalapatisHHM24,
+  author    = {Emil Tsalapatis and
+               Ryan Hancock and
+               Rakeeb Hossain and
+               Ali José Mashtizadeh},
+  title     = {{MemSnap} μCheckpoints: A Data Single Level Store for Fearless Persistence},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {622-638},
+}
+
+@inproceedings{DBLP:conf/asplos/GodboleCMS24,
+  author    = {Adwait Godbole and
+               Kevin Cheang and
+               Yatin A. Manerkar and
+               Sanjit A. Seshia},
+  title     = {Lifting {Micro-Update} Models from {RTL} for Formal Security Analysis},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {631-648},
+}
+
+@inproceedings{DBLP:conf/asplos/MaoDZM24,
+  author    = {Jinsong Mao and
+               Hailun Ding and
+               Juan Zhai and
+               Shiqing Ma},
+  title     = {Merlin: Multi-tier Optimization of {eBPF} Code for Performance and Compactness},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {639-653},
+}
+
+@inproceedings{DBLP:conf/asplos/Yedidia24,
+  author    = {Zachary Yedidia},
+  title     = {Lightweight Fault Isolation: Practical, Efficient, and Secure Software Sandboxing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {649-665},
+}
+
+@inproceedings{DBLP:conf/asplos/HuangZQLALX24,
+  author    = {Jiacheng Huang and
+               Yunmo Zhang and
+               Junqiao Qiu and
+               Yu Liang and
+               Rachata Ausavarungnirun and
+               Qingan Li and
+               Chun Jason Xue},
+  title     = {More Apps, Faster {Hot-Launch} on Mobile Devices via Fore/Background-aware {GC-Swap} Co-design},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {654-670},
+}
+
+@inproceedings{DBLP:conf/asplos/ShaLIMGAM24,
+  author    = {Eugene Sha and
+               Andy Liu and
+               Kareem Ibrahim and
+               Mostafa Mahmoud and
+               Christina Giannoula and
+               Ameer Abdelhadi and
+               Andreas Moshovos},
+  title     = {Marple: Scalable Spike Sorting for Untethered {Brain-Machine} Interfacing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {666-682},
+}
+
+@inproceedings{DBLP:conf/asplos/TanXLLJCY24,
+  author    = {Siwei Tan and
+               Debin Xiang and
+               Liqiang Lu and
+               Junlin Lu and
+               Qiuping Jiang and
+               Mingshuai Chen and
+               Jianwei Yin},
+  title     = {MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {671-688},
+}
+
+@inproceedings{DBLP:conf/asplos/PengXSHZHKKD24,
+  author    = {Hongwu Peng and
+               Xi Xie and
+               Kaustubh Shivdikar and
+               Md Amit Hasan and
+               Jiahui Zhao and
+               Shaoyi Huang and
+               Omer Khan and
+               David R. Kaeli and
+               Caiwen Ding},
+  title     = {MaxK-GNN: Extremely Fast {GPU} Kernel Design for Accelerating Graph Neural Networks Training},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {683-698},
+}
+
+@inproceedings{DBLP:conf/asplos/KimOKK024,
+  author    = {Jungwoo Kim and
+               Seonggyun Oh and
+               Jaeha Kung and
+               Yeseong Kim and
+               Sungjin Lee},
+  title     = {NDPipe: Exploiting Near-data Processing for Scalable Inference and Continuous Training in Photo Storage},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {689-707},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhangYWSSD24,
+  author    = {Hezi Zhang and
+               Keyi Yin and
+               Anbang Wu and
+               Hassan Shapourian and
+               Alireza Shabani and
+               Yufei Ding},
+  title     = {MECH: {Multi-Entry} Communication Highway for Superconducting Quantum Chiplets},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {699-714},
+}
+
+@inproceedings{DBLP:conf/asplos/HanWQSXWZYL24,
+  author    = {Rongxin Han and
+               Jingyu Wang and
+               Qi Qi and
+               Haifeng Sun and
+               Chaowei Xu and
+               Zhaoyang Wan and
+               Zirui Zhuang and
+               Yichuan Yu and
+               Jianxin Liao},
+  title     = {NetRen: Service {Migration-Driven} Network Renascence with Synthesizing Updated Configuration},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {708-721},
+}
+
+@inproceedings{DBLP:conf/asplos/KumarPBS24,
+  author    = {Anagha Molakalmur Anil Kumar and
+               Aditya Prasanna and
+               Jonathan Balkind and
+               Arrvindh Shriraman},
+  title     = {METAL: Caching Multi-level Indexes in {Domain-Specific} Architectures},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {715-729},
+}
+
+@inproceedings{DBLP:conf/asplos/HeoLCCLHK0P24,
+  author    = {Guseul Heo and
+               Sangyeop Lee and
+               Jaehong Cho and
+               Hyunmin Choi and
+               Sanghyeon Lee and
+               Hyungkyu Ham and
+               Gwangsun Kim and
+               Divya Mahajan and
+               Jongse Park},
+  title     = {NeuPIMs: {NPU-PIM} Heterogeneous Acceleration for Batched {LLM} Inferencing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {722-737},
+}
+
+@inproceedings{DBLP:conf/asplos/NarkthongDRX24,
+  author    = {Nuntipat Narkthong and
+               Shijin Duan and
+               Shaolei Ren and
+               Xiaolin Xu},
+  title     = {MicroVSA: An {Ultra-Lightweight} Vector Symbolic Architecture-based Classifier Library for {Always-On} Inference on Tiny Microcontrollers},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {730-745},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhangRSKD24,
+  author    = {Hezi Zhang and
+               Jixuan Ruan and
+               Hassan Shapourian and
+               Ramana Rao Kompella and
+               Yufei Ding},
+  title     = {OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {738-754},
+}
+
+@inproceedings{DBLP:conf/asplos/WanCSCBRR24,
+  author    = {Zishen Wan and
+               Nandhini Chandramoorthy and
+               Karthik Swaminathan and
+               Pin-Yu Chen and
+               Kshitij Bhardwaj and
+               Vijay Janapa Reddi and
+               Arijit Raychowdhury},
+  title     = {MulBERRY: Enabling {Bit-Error} Robustness for {Energy-Efficient} {Multi-Agent} Autonomous Systems},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {746-762},
+}
+
+@inproceedings{DBLP:conf/asplos/HuVBMHOW0MZJ24,
+  author    = {Muyan Hu and
+               Ashwin Venkatram and
+               Shreyashri Biswas and
+               Balamurugan Marimuthu and
+               Bohan Hou and
+               Gabriele Oliaro and
+               Haojie Wang and
+               Liyan Zheng and
+               Xupeng Miao and
+               Jidong Zhai and
+               Zhihao Jia},
+  title     = {Optimal Kernel Orchestration for Tensor Programs with Korch},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {755-769},
+}
+
+@inproceedings{DBLP:conf/asplos/BaiS024,
+  author    = {Jia-Ju Bai and
+               Haoxuan Song and
+               Shimin Hu},
+  title     = {{Multi-Dimensional} and {Message-Guided} Fuzzing for Robotic Programs in Robot Operating System},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {763-778},
+}
+
+@inproceedings{DBLP:conf/asplos/YavarzadehACGGK24,
+  author    = {Hosein Yavarzadeh and
+               Archit Agarwal and
+               Max Christman and
+               Christina Garman and
+               Daniel Genkin and
+               Andrew Kwong and
+               Daniel Moghimi and
+               Deian Stefan and
+               Kazem Taram and
+               Dean M. Tullsen},
+  title     = {Pathfinder: {High-Resolution} {Control-Flow} Attacks Exploiting the Conditional Branch Predictor},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {770-784},
+}
+
+@inproceedings{DBLP:conf/asplos/Chen0GHY24,
+  author    = {Jianxin Chen and
+               Dawei Ding and
+               Weiyuan Gong and
+               Cupjin Huang and
+               Qi Ye},
+  title     = {One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {779-796},
+}
+
+@inproceedings{DBLP:conf/asplos/JiaMGSB24,
+  author    = {Lin Jia and
+               James Patrick Mcmahon and
+               Sumanth Gudaparthi and
+               Shreyas Singh and
+               Rajeev Balasubramonian},
+  title     = {PATHFINDER: Practical {Real-Time} Learning for Data Prefetching},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {785-800},
+}
+
+@inproceedings{DBLP:conf/asplos/YuLZCFX24,
+  author    = {Feng Yu and
+               Guangli Li and
+               Jiacheng Zhao and
+               Huimin Cui and
+               Xiaobing Feng and
+               Jingling Xue},
+  title     = {Optimizing {Dynamic-Shape} Neural Networks on Accelerators via {On-the-Fly} {Micro-Kernel} Polymerization},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {797-812},
+}
+
+@inproceedings{DBLP:conf/asplos/WangWXWL024,
+  author    = {Haoran Wang and
+               Lei Wang and
+               Haobo Xu and
+               Ying Wang and
+               Yuming Li and
+               Yinhe Han},
+  title     = {PrimePar: Efficient Spatial-temporal Tensor Partitioning for Large Transformer Model Training},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {801-817},
+}
+
+@inproceedings{DBLP:conf/asplos/HaoG00HWL24,
+  author    = {Yuhui Hao and
+               Yiming Gan and
+               Bo Yu and
+               Qiang Liu and
+               Yinhe Han and
+               Zishen Wan and
+               Shaoshan Liu},
+  title     = {ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {813-829},
+}
+
+@inproceedings{DBLP:conf/asplos/AlavisamaniVA0Q24,
+  author    = {Narges Alavisamani and
+               Suhas Vittal and
+               Ramin Ayanzadeh and
+               Poulami Das and
+               Moinuddin K. Qureshi},
+  title     = {Promatch: Extending the Reach of {Real-Time} Quantum Error Correction with Adaptive Predecoding},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {818-833},
+}
+
+@inproceedings{DBLP:conf/asplos/HuangWSXXB24,
+  author    = {Hongming Huang and
+               Peng Wang and
+               Qiang Su and
+               Hong Xu and
+               Chun Jason Xue and
+               André Brinkmann},
+  title     = {Palantir: Hierarchical Similarity Detection for {Post-Deduplication} Delta Compression},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {830-845},
+}
+
+@inproceedings{DBLP:conf/asplos/RanjanPSGT24,
+  author    = {Aditya Ranjan and
+               Tirthak Patel and
+               Daniel Silver and
+               Harshitta Gandhi and
+               Devesh Tiwari},
+  title     = {ProxiML: Building Machine Learning Classifiers for Photonic Quantum Computing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {834-849},
+}
+
+@inproceedings{DBLP:conf/asplos/GodalaRPSSTA24,
+  author    = {Bhargav Reddy Godala and
+               Sankara Prasad Ramesh and
+               Gilles A. Pokam and
+               Jared Stark and
+               André Seznec and
+               Dean M. Tullsen and
+               David I. August},
+  title     = {PDIP: Priority Directed Instruction Prefetching},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {846-861},
+}
+
+@inproceedings{DBLP:conf/asplos/KhanCP24,
+  author    = {Sharjeel Khan and
+               Bodhisatwa Chatterjee and
+               Santosh Pande},
+  title     = {Pythia: {Compiler-Guided} Defense Against {Non-Control} Data Attacks},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {850-866},
+}
+
+@inproceedings{DBLP:conf/asplos/DrewesW0AKKR24,
+  author    = {Colin Drewes and
+               Olivia Weng and
+               Andres Meza and
+               Alric Althoff and
+               David Kohlbrenner and
+               Ryan Kastner and
+               Dustin Richmond},
+  title     = {Pentimento: Data Remanence in Cloud {FPGAs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {862-878},
+}
+
+@inproceedings{DBLP:conf/asplos/LaeuferFAINS24,
+  author    = {Kevin Laeufer and
+               Brandon Fajardo and
+               Abhik Ahuja and
+               Vighnesh Iyer and
+               Borivoje Nikolic and
+               Koushik Sen},
+  title     = {RTL-Repair: Fast Symbolic Repair of Hardware Design Code},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {867-881},
+}
+
+@inproceedings{DBLP:conf/asplos/LiZWYCYL024,
+  author    = {Cong Li and
+               Zhe Zhou and
+               Yang Wang and
+               Fan Yang and
+               Ting Cao and
+               Mao Yang and
+               Yun Liang and
+               Guangyu Sun},
+  title     = {PIM-DL: Expanding the Applicability of Commodity {DRAM-PIMs} for Deep Learning via {Algorithm-System} {Co-Optimization}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {879-896},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhangCYWTZ24,
+  author    = {Bowen Zhang and
+               Wei Chen and
+               Peisen Yao and
+               Chengpeng Wang and
+               Wensheng Tang and
+               Charles Zhang},
+  title     = {SIRO: Empowering Version Compatibility in Intermediate Representations via Program Synthesis},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {882-899},
+}
+
+@inproceedings{DBLP:conf/asplos/LopesC024,
+  author    = {André Lopes and
+               Daniel Castro and
+               Paolo Romano},
+  title     = {PIM-STM: Software Transactional Memory for {Processing-In-Memory} Systems},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {897-911},
+}
+
+@inproceedings{DBLP:conf/asplos/BehrooziCFSSM24,
+  author    = {Armand Behroozi and
+               Yuxiang Chen and
+               Vlad Fruchter and
+               Lavanya Subramanian and
+               Sriseshan Srikanth and
+               Scott A. Mahlke},
+  title     = {SlimSLAM: An Adaptive Runtime for {Visual-Inertial} Simultaneous Localization and Mapping},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {900-915},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhouYHCZ24,
+  author    = {Anshunkang Zhou and
+               Chengfeng Ye and
+               Heqing Huang and
+               Yuandao Cai and
+               Charles Zhang},
+  title     = {Plankton: Reconciling Binary Code and Debug Information},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {912-928},
+}
+
+@inproceedings{DBLP:conf/asplos/NiuSSGSYAR24,
+  author    = {Wei Niu and
+               Md. Musfiqur Rahman Sanim and
+               Zhihao Shu and
+               Jiexiong Guan and
+               Xipeng Shen and
+               Miao Yin and
+               Gagan Agrawal and
+               Bin Ren},
+  title     = {SmartMem: Layout Transformation Elimination and Adaptation for Efficient {DNN} Execution on Mobile},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {916-931},
+}
+
+@inproceedings{DBLP:conf/asplos/AnselYHGJVBBBBC24,
+  author    = {Jason Ansel and
+               Edward Z. Yang and
+               Horace He and
+               Natalia Gimelshein and
+               Animesh Jain and
+               Michael Voznesensky and
+               Bin Bao and
+               Peter Bell and
+               David Berard and
+               Evgeni Burovski and
+               Geeta Chauhan and
+               Anjali Chourdia and
+               Will Constable and
+               Alban Desmaison and
+               Zachary DeVito and
+               Elias Ellison and
+               Will Feng and
+               Jiong Gong and
+               Michael Gschwind and
+               Brian Hirsh and
+               Sherlock Huang and
+               Kshiteej Kalambarkar and
+               Laurent Kirsch and
+               Michael Lazos and
+               Mario Lezcano and
+               Yanbo Liang and
+               Jason Liang and
+               Yinghai Lu and
+               C. K. Luk and
+               Bert Maher and
+               Yunjie Pan and
+               Christian Puhrsch and
+               Matthias Reso and
+               Mark Saroufim and
+               Marcos Yukio Siraichi and
+               Helen Suk and
+               Shunting Zhang and
+               Michael Suo and
+               Phil Tillet and
+               Xu Zhao and
+               Eikan Wang and
+               Keren Zhou and
+               Richard Zou and
+               Xiaodong Wang and
+               Ajit Mathews and
+               William Wen and
+               Gregory Chanan and
+               Peng Wu and
+               Soumith Chintala},
+  title     = {{PyTorch} 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {929-947},
+}
+
+@inproceedings{DBLP:conf/asplos/MiaoOZCWZWZYSSC24,
+  author    = {Xupeng Miao and
+               Gabriele Oliaro and
+               Zhihao Zhang and
+               Xinhao Cheng and
+               Zeyu Wang and
+               Zhengxin Zhang and
+               Rae Ying Yee Wong and
+               Alan Zhu and
+               Lijie Yang and
+               Xiaoxiang Shi and
+               Chunan Shi and
+               Zhuoming Chen and
+               Daiyaan Arfeen and
+               Reyna Abhyankar and
+               Zhihao Jia},
+  title     = {SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {932-949},
+}
+
+@inproceedings{DBLP:conf/asplos/TanLZYLSZC0Y24,
+  author    = {Siwei Tan and
+               Liqiang Lu and
+               Hanyu Zhang and
+               Jia Yu and
+               Congliang Lang and
+               Yongheng Shang and
+               Xinkui Zhao and
+               Mingshuai Chen and
+               Yun Liang and
+               Jianwei Yin},
+  title     = {QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {948-963},
+}
+
+@inproceedings{DBLP:conf/asplos/LiZZZL024,
+  author    = {Cong Li and
+               Zhe Zhou and
+               Size Zheng and
+               Jiaxi Zhang and
+               Yun Liang and
+               Guangyu Sun},
+  title     = {SpecPIM: Accelerating Speculative Inference on {PIM-Enabled} System via {Architecture-Dataflow} {Co-Exploration}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {950-965},
+}
+
+@inproceedings{DBLP:conf/asplos/WangWDZ0D24,
+  author    = {Zheng Wang and
+               Yuke Wang and
+               Jiaqi Deng and
+               Da Zheng and
+               Ang Li and
+               Yufei Ding},
+  title     = {RAP: Resource-aware Automated {GPU} Sharing for {Multi-GPU} Recommendation Model Training and Input Preprocessing},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {964-979},
+}
+
+@inproceedings{DBLP:conf/asplos/PrakriyaCBSC24,
+  author    = {Neha Prakriya and
+               Yuze Chi and
+               Suhail Basalama and
+               Linghao Song and
+               Jason Cong},
+  title     = {TAPA-CS: Enabling Scalable Accelerator Design on Distributed {HBM-FPGAs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {966-980},
+}
+
+@inproceedings{DBLP:conf/asplos/0033F0N24,
+  author    = {Meng Wang and
+               Bo Fang and
+               Ang Li and
+               Prashant J. Nair},
+  title     = {Red-QAOA: Efficient Variational Optimization through Circuit Reduction},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {980-998},
+}
+
+@inproceedings{DBLP:conf/asplos/SongKWJHJ0NWAK24,
+  author    = {Chihun Song and
+               Michael Jaemin Kim and
+               Tianchen Wang and
+               Houxiang Ji and
+               Jinghan Huang and
+               Ipoom Jeong and
+               Jaehyun Park and
+               Hwayong Nam and
+               Minbok Wi and
+               Jung Ho Ahn and
+               Nam Sung Kim},
+  title     = {TAROT: A {CXL} {SmartNIC-Based} Defense Against Multi-bit Errors by {Row-Hammer} Attacks},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {981-998},
+}
+
+@inproceedings{DBLP:conf/asplos/ZhangSPJKKPLD24,
+  author    = {Yuxuan Zhang and
+               Nathan Sobotka and
+               Soyoon Park and
+               Saba Jamilan and
+               Tanvir Ahmed Khan and
+               Baris Kasikci and
+               Gilles A. Pokam and
+               Heiner Litz and
+               Joseph Devietti},
+  title     = {RPG2: Robust {Profile-Guided} Runtime Prefetch Generation},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {999-1013},
+}
+
+@inproceedings{DBLP:conf/asplos/KimRL24,
+  author    = {Heehoon Kim and
+               Junyeol Ryu and
+               Jaejin Lee},
+  title     = {TCCL: Discovering Better Communication Paths for {PCIe} {GPU} Clusters},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {999-1015},
+}
+
+@inproceedings{DBLP:conf/asplos/SaxenaMQ24,
+  author    = {Anish Saxena and
+               Saurav Mathur and
+               Moinuddin K. Qureshi},
+  title     = {Rubix: Reducing the Overhead of Secure Rowhammer Mitigations via Randomized {Line-to-Row} Mapping},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1014-1028},
+}
+
+@inproceedings{DBLP:conf/asplos/PhothilimthanaK24,
+  author    = {Phitchaya Mangpo Phothilimthana and
+               Saurabh Kadekodi and
+               Soroush Ghodrati and
+               Selene Moon and
+               Martin Maas},
+  title     = {Thesios: Synthesizing Accurate Counterfactual I/O Traces from I/O Samples},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1016-1032},
+}
+
+@inproceedings{DBLP:conf/asplos/ChengCCBD24,
+  author    = {Jianyi Cheng and
+               Samuel Coward and
+               Lorenzo Chelini and
+               Rafael Barbalho and
+               Theo Drane},
+  title     = {SEER: {Super-Optimization} Explorer for {High-Level} Synthesis using E-graph Rewriting},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1029-1044},
+}
+
+@inproceedings{DBLP:conf/asplos/GiordanoDLM24,
+  author    = {Massimo Giordano and
+               Rohan Doshi and
+               Qianyun Lu and
+               Boris Murmann},
+  title     = {TinyForge: A Design Space Exploration to Advance Energy and Silicon Area Trade-offs in {tinyML} Compute Architectures with Custom Latch Arrays},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1033-1047},
+}
+
+@inproceedings{DBLP:conf/asplos/0002WW24,
+  author    = {Benjamin Holmes and
+               Jason Waterman and
+               Dan Williams},
+  title     = {SEVeriFast: Minimizing the root of trust for fast startup of {SEV} {microVMs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1045-1060},
+}
+
+@inproceedings{DBLP:conf/asplos/WeiLLZSBA24,
+  author    = {Tianrui Wei and
+               Kevin Laeufer and
+               Katie Lim and
+               Jerry Zhao and
+               Koushik Sen and
+               Jonathan Balkind and
+               Krste Asanovic},
+  title     = {Zoomie: A Software-like Debugging Tool for {FPGAs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1048-1062},
+}
+
+@inproceedings{DBLP:conf/asplos/FengF0XZZ024,
+  author    = {Erhu Feng and
+               Dahu Feng and
+               Dong Du and
+               Yubin Xia and
+               Wenbin Zheng and
+               Siqi Zhao and
+               Haibo Chen},
+  title     = {sIOPMP: Scalable and Efficient I/O Protection for {TEEs}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1061-1076},
+}
+
+@inproceedings{DBLP:conf/asplos/Anand0GA24,
+  author    = {Shashank Anand and
+               Michal Friedman and
+               Michael Giardino and
+               Gustavo Alonso},
+  title     = {Skip It: Take Control of Your Cache!},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1077-1094},
+}
+
+@inproceedings{DBLP:conf/asplos/ChenYZZZ024,
+  author    = {Hongzheng Chen and
+               Cody Hao Yu and
+               Shuai Zheng and
+               Zhen Zhang and
+               Zhiru Zhang and
+               Yida Wang},
+  title     = {Slapo: A Schedule Language for Progressive Optimization of Large Deep Learning Model Training},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1095-1111},
+}
+
+@inproceedings{DBLP:conf/asplos/MiaoSDXL0J24,
+  author    = {Xupeng Miao and
+               Chunan Shi and
+               Jiangfei Duan and
+               Xiaoli Xi and
+               Dahua Lin and
+               Bin Cui and
+               Zhihao Jia},
+  title     = {SpotServe: Serving Generative Large Language Models on Preemptible Instances},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1112-1127},
+}
+
+@inproceedings{DBLP:conf/asplos/JuffingerKGM24,
+  author    = {Jonas Juffinger and
+               Stepan Kalinin and
+               Daniel Gruss and
+               Frank Mueller},
+  title     = {SUIT: Secure Undervolting with Instruction Traps},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1128-1145},
+}
+
+@inproceedings{DBLP:conf/asplos/PatiAIJS24,
+  author    = {Suchita Pati and
+               Shaizeen Aga and
+               Mahzabeen Islam and
+               Nuwan Jayasena and
+               Matthew D. Sinclair},
+  title     = {T3: Transparent Tracking & Triggering for Fine-grained Overlap of Compute & Collectives},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1146-1164},
+}
+
+@inproceedings{DBLP:conf/asplos/GhodratiKXMKAWK24,
+  author    = {Soroush Ghodrati and
+               Sean Kinzer and
+               Hanyang Xu and
+               Rohan Mahapatra and
+               Yoonsung Kim and
+               Byung Hoon Ahn and
+               Dong Kai Wang and
+               Lavanya Karthikeyan and
+               Amir Yazdanbakhsh and
+               Jongse Park and
+               Nam Sung Kim and
+               Hadi Esmaeilzadeh},
+  title     = {Tandem Processor: Grappling with Emerging Operators in Neural Networks},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1165-1182},
+}
+
+@inproceedings{DBLP:conf/asplos/WangM24,
+  author    = {Yufeng Wang and
+               Charith Mendis},
+  title     = {TGLite: A Lightweight Programming Framework for {Continuous-Time} Temporal Graph Neural Networks},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1183-1199},
+}
+
+@inproceedings{DBLP:conf/asplos/BlockGMAT24,
+  author    = {Charles Block and
+               Gerasimos Gerogiannis and
+               Charith Mendis and
+               Ariful Azad and
+               Josep Torrellas},
+  title     = {Two-Face: Combining Collective and {One-Sided} Communication for Efficient Distributed {SpMM}},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1200-1217},
+}
+
+@inproceedings{DBLP:conf/asplos/DaiLSL0WJAESZNY24,
+  author    = {Zhenyang Dai and
+               Shuang Liu and
+               Vilhelm Sjöberg and
+               Xupeng Li and
+               Yu Chen and
+               Wenhao Wang and
+               Yuekai Jia and
+               Sean Noble Anderson and
+               Laila Elbeheiry and
+               Shubham Sondhi and
+               Yu Zhang and
+               Zhaozhong Ni and
+               Shoumeng Yan and
+               Ronghui Gu and
+               Zhengyu He},
+  title     = {Verifying Rust Implementation of Page Tables in a Software Enclave Hypervisor},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1218-1232},
+}
+
+@inproceedings{DBLP:conf/asplos/Qu024,
+  author    = {Hongliang Qu and
+               Zhibin Yu},
+  title     = {WASP: {Workload-Aware} {Self-Replicating} {Page-Tables} for {NUMA} Servers},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1233-1249},
+}
+
+@inproceedings{DBLP:conf/asplos/ParzefallDHF24,
+  author    = {Fabian Parzefall and
+               Chinmay Deshpande and
+               Felicitas Hetzelt and
+               Michael Franz},
+  title     = {What You Trace is What You Get: Dynamic {Stack-Layout} Recovery for Binary Recompilation},
+  booktitle = asplos,
+  year      = 2024,
+  pages     = {1250-1263},
+}
+
 @inproceedings{DBLP:conf/asplos/Bhattacharjee23,
   author    = {Abhishek Bhattacharjee},
   title     = {Direct {Mind-Machine} Teaming},
@@ -30,6 +2353,16 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/asplos/PriyadarshanN023,
+  author    = {Soumyakant Priyadarshan and
+               Huan Nguyen and
+               R. Sekar},
+  title     = {Accurate Disassembly of Complex Binaries Without Use of Compiler Metadata},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {1-18},
 }
 
 @inproceedings{DBLP:conf/asplos/Catanzaro23,
@@ -95,6 +2428,23 @@
   pages     = {18-32},
 }
 
+@inproceedings{DBLP:conf/asplos/HellstenSLLHEKS23,
+  author    = {Erik Orm Hellsten and
+               Artur L. F. Souza and
+               Johannes Lenfers and
+               Rubens Lacouture and
+               Olivia Hsu and
+               Adel Ejjeh and
+               Fredrik Kjolstad and
+               Michel Steuwer and
+               Kunle Olukotun and
+               Luigi Nardi},
+  title     = {BaCO: A Fast and Portable Bayesian Compiler Optimization Framework},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {19-42},
+}
+
 @inproceedings{DBLP:conf/asplos/SutherlandFD23,
   author    = {Mark Sutherland and
                Babak Falsafi and
@@ -133,6 +2483,19 @@
   pages     = {33-47},
 }
 
+@inproceedings{DBLP:conf/asplos/LiuXM0Z023,
+  author    = {Yuxuan Liu and
+               Tianqiang Xu and
+               Zeyu Mi and
+               Zhichao Hua and
+               Binyu Zang and
+               Haibo Chen},
+  title     = {CPS: A Cooperative Para-virtualized Scheduling Framework for Manycore Machines},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {43-56},
+}
+
 @inproceedings{DBLP:conf/asplos/ChengRJRTOB23,
   author    = {Lin Cheng and
                Max Ruttenberg and
@@ -165,6 +2528,19 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {48-60},
+}
+
+@inproceedings{DBLP:conf/asplos/LiXCZ0G23,
+  author    = {Zijun Li and
+               Chuhao Xu and
+               Quan Chen and
+               Jieru Zhao and
+               Chen Chen and
+               Minyi Guo},
+  title     = {DataFlower: Exploiting the Data-flow Paradigm for Serverless Workflow Orchestration},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {57-72},
 }
 
 @inproceedings{DBLP:conf/asplos/HuaJCVKBLJZ23,
@@ -229,6 +2605,20 @@
   pages     = {72-88},
 }
 
+@inproceedings{DBLP:conf/asplos/KimKSJCLC23,
+  author    = {Seah Kim and
+               Hyoukjun Kwon and
+               Jinook Song and
+               Jihyuck Jo and
+               Yu-Hsin Chen and
+               Liangzhen Lai and
+               Vikas Chandra},
+  title     = {DREAM: A Dynamic Scheduler for Dynamic Real-time Multi-model {ML} Workloads},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {73-86},
+}
+
 @inproceedings{DBLP:conf/asplos/00030TZW023,
   author    = {Ziming Zhao and
                Mingyu Wu and
@@ -250,6 +2640,16 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {78-92},
+}
+
+@inproceedings{DBLP:conf/asplos/DaveNS23,
+  author    = {Shail Dave and
+               Tony Nowatzki and
+               Aviral Shrivastava},
+  title     = {Explainable-DSE: An Agile and Explainable Exploration of Efficient HW/{SW} Codesigns of Deep Learning Accelerators Using Bottleneck Analysis},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {87-107},
 }
 
 @inproceedings{DBLP:conf/asplos/RaviBFLJPC23,
@@ -336,6 +2736,19 @@
   pages     = {107-122},
 }
 
+@inproceedings{DBLP:conf/asplos/JinHCHZZ23,
+  author    = {Yuwei Jin and
+               Fei Hua and
+               Yan-Hao Chen and
+               Ari B. Hayes and
+               Chi Zhang and
+               Eddy Z. Zhang},
+  title     = {Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {108-124},
+}
+
 @inproceedings{DBLP:conf/asplos/AcunLKMGC0W23,
   author    = {Bilge Acun and
                Benjamin Lee and
@@ -372,6 +2785,19 @@
   pages     = {123-137},
 }
 
+@inproceedings{DBLP:conf/asplos/RootASA0R23,
+  author    = {Alexander J. Root and
+               Maaz Bin Safeer Ahmad and
+               Dillon Sharlet and
+               Andrew Adams and
+               Shoaib Kamil and
+               Jonathan Ragan-Kelley},
+  title     = {Fast Instruction Selection for Fast Digital Signal Processing},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {125-137},
+}
+
 @inproceedings{DBLP:conf/asplos/AfarinGRA023,
   author    = {Mahbod Afarin and
                Chao Gao and
@@ -393,6 +2819,20 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {134-146},
+}
+
+@inproceedings{DBLP:conf/asplos/LiuZSQFLS23,
+  author    = {Puzhuo Liu and
+               Yaowen Zheng and
+               Chengnian Sun and
+               Chuan Qin and
+               Dongliang Fang and
+               Mingdong Liu and
+               Limin Sun},
+  title     = {FITS: Inferring Intermediate Taint Sources for Effective Vulnerability Analysis of {IoT} Device Firmware},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {138-152},
 }
 
 @inproceedings{DBLP:conf/asplos/Wang00XS23,
@@ -421,8 +2861,22 @@
   pages     = {147-163},
 }
 
+@inproceedings{DBLP:conf/asplos/YangZLWHML23,
+  author    = {Yanan Yang and
+               Laiping Zhao and
+               Yiming Li and
+               Shihao Wu and
+               Yuechan Hao and
+               Yuchi Ma and
+               Keqiu Li},
+  title     = {Flame: A Centralized Cache Controller for Serverless Computing},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {153-168},
+}
+
 @inproceedings{DBLP:conf/asplos/HackettHCDB23,
-  author    = {Finn Hackett and
+  author    = {A. Finn Hackett and
                Shayan Hosseini and
                Renato Costa and
                Matthew Do and
@@ -441,6 +2895,19 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {164-178},
+}
+
+@inproceedings{DBLP:conf/asplos/AhadWKJL023,
+  author    = {Ali Ahad and
+               Gang Wang and
+               Chung Hwan Kim and
+               Suman Jana and
+               Zhiqiang Lin and
+               Yonghwi Kwon},
+  title     = {FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {169-188},
 }
 
 @inproceedings{DBLP:conf/asplos/Hildenbrand0A23,
@@ -462,6 +2929,15 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {179-193},
+}
+
+@inproceedings{DBLP:conf/asplos/MajumderB23,
+  author    = {Kingshuk Majumder and
+               Uday Bondhugula},
+  title     = {HIR: An {MLIR-based} Intermediate Representation for Hardware Accelerator Description},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {189-201},
 }
 
 @inproceedings{DBLP:conf/asplos/PorterKP23,
@@ -488,6 +2964,19 @@
   pages     = {194-207},
 }
 
+@inproceedings{DBLP:conf/asplos/LiCLRGY23,
+  author    = {Yingjie Li and
+               Ruiyang Chen and
+               Minhan Lou and
+               Berardi Sensale Rodriguez and
+               Weilu Gao and
+               Cunxi Yu},
+  title     = {LightRidge: An End-to-end Agile Design Framework for Diffractive Optical Neural Networks},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {202-218},
+}
+
 @inproceedings{DBLP:conf/asplos/JungKL23,
   author    = {Jaehoon Jung and
                Jinpyo Kim and
@@ -508,6 +2997,19 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {208-223},
+}
+
+@inproceedings{DBLP:conf/asplos/EmamiKKPRL23,
+  author    = {Mahyar Emami and
+               Sahand Kashani and
+               Keisuke Kamahori and
+               Mohammad Sepehr Pourghannad and
+               Ritik Raj and
+               James R. Larus},
+  title     = {Manticore: {Hardware-Accelerated} {RTL} Simulation with Static {Bulk-Synchronous} Parallelism},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {219-237},
 }
 
 @inproceedings{DBLP:conf/asplos/Liang0LTDKD23,
@@ -554,6 +3056,14 @@
   pages     = {238-251},
 }
 
+@inproceedings{DBLP:conf/asplos/Moffitt23,
+  author    = {Michael D. Moffitt},
+  title     = {MiniMalloc: A Lightweight Memory Allocator for {Hardware-Accelerated} Machine Learning},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {238-252},
+}
+
 @inproceedings{DBLP:conf/asplos/Munoz-MartinezG23,
   author    = {Francisco Muñoz-Martínez and
                Raveesh Garg and
@@ -579,6 +3089,18 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {252-265},
+}
+
+@inproceedings{DBLP:conf/asplos/BharadwajDMBK23,
+  author    = {Srikant Bharadwaj and
+               Shomit Das and
+               Kaushik Mazumdar and
+               Bradford M. Beckmann and
+               Stephen Kosonocky},
+  title     = {Predict; Don't React for Enabling Efficient {Fine-Grain} {DVFS} in {GPUs}},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {253-267},
 }
 
 @inproceedings{DBLP:conf/asplos/GuZZXHCYHJL23,
@@ -617,6 +3139,23 @@
   pages     = {266-281},
 }
 
+@inproceedings{DBLP:conf/asplos/PanZ0WLWQB0023,
+  author    = {Zaifeng Pan and
+               Zhen Zheng and
+               Feng Zhang and
+               Ruofan Wu and
+               Hao Liang and
+               Dalin Wang and
+               Xiafei Qiu and
+               Junjie Bai and
+               Wei Lin and
+               Xiaoyong Du},
+  title     = {RECom: A Compiler Approach to Accelerating Recommendation Model Inference with Massive Embedding Columns},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {268-286},
+}
+
 @inproceedings{DBLP:conf/asplos/KurniawanWZWBVG23,
   author    = {Daniar Heri Kurniawan and
                Ruipu Wang and
@@ -644,6 +3183,18 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {282-301},
+}
+
+@inproceedings{DBLP:conf/asplos/LiT00023,
+  author    = {Ye Li and
+               Jian Tan and
+               Bin Wu and
+               Xiao He and
+               Feifei Li},
+  title     = {ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {287-323},
 }
 
 @inproceedings{DBLP:conf/asplos/KaoSAYK23,
@@ -701,6 +3252,19 @@
   pages     = {314-328},
 }
 
+@inproceedings{DBLP:conf/asplos/GanLZZWJ23,
+  author    = {Yu Gan and
+               Guiyang Liu and
+               Xin Zhang and
+               Qi Zhou and
+               Jiesheng Wu and
+               Jiangwei Jiang},
+  title     = {Sleuth: A {Trace-Based} Root Cause Analysis System for {Large-Scale} Microservices with Graph Neural Networks},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {324-337},
+}
+
 @inproceedings{DBLP:conf/asplos/QureshiMGMMPXNV23,
   author    = {Zaid Qureshi and
                Vikram Sharma Mailthody and
@@ -731,6 +3295,16 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {329-342},
+}
+
+@inproceedings{DBLP:conf/asplos/GienieczkoMP23,
+  author    = {Mateusz Gienieczko and
+               Filip Murlak and
+               Charles Paperman},
+  title     = {Supporting Descendants in {SIMD-Accelerated} {JSONPath}},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {338-361},
 }
 
 @inproceedings{DBLP:conf/asplos/MaXSM0K0ZSH23,
@@ -798,6 +3372,19 @@
   pages     = {359-375},
 }
 
+@inproceedings{DBLP:conf/asplos/DangwalR0SBC23,
+  author    = {Siddharth Dangwal and
+               Gokul Subramanian Ravi and
+               Poulami Das and
+               Kaitlin N. Smith and
+               Jonathan Mark Baker and
+               Frederic T. Chong},
+  title     = {VarSaw: Application-tailored Measurement Error Mitigation for Variational Quantum Algorithms},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {362-377},
+}
+
 @inproceedings{DBLP:conf/asplos/DingYZLWP23,
   author    = {Yaoyao Ding and
                Cody Hao Yu and
@@ -828,6 +3415,18 @@
   pages     = {376-391},
 }
 
+@inproceedings{DBLP:conf/asplos/AhmadOLZ023,
+  author    = {Adil Ahmad and
+               Botong Ou and
+               Congyu Liu and
+               Xiaokuan Zhang and
+               Pedro Fonseca},
+  title     = {Veil: A Protected Services Framework for Confidential Virtual Machines},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {378-393},
+}
+
 @inproceedings{DBLP:conf/asplos/YangNL23,
   author    = {Dingqing Yang and
                Prashant J. Nair and
@@ -848,6 +3447,18 @@
   booktitle = asplos,
   year      = 2023,
   pages     = {392-403},
+}
+
+@inproceedings{DBLP:conf/asplos/CarverHZZ023,
+  author    = {Benjamin Carver and
+               Runzhou Han and
+               Jingyuan Zhang and
+               Mai Zheng and
+               Yue Cheng},
+  title     = {λFS: A Scalable and Elastic Distributed File System Metadata Service using Serverless Functions},
+  booktitle = asplos,
+  year      = 2023,
+  pages     = {394-411},
 }
 
 @inproceedings{DBLP:conf/asplos/SwitzerMKP23,
@@ -5533,7 +8144,7 @@
 @inproceedings{DBLP:conf/asplos/SivathanuCSZ19,
   author    = {Muthian Sivathanu and
                Tapan Chugh and
-               Sanjay S. Singapuram and
+               Sanjay Sri Vallabh Singapuram and
                Lidong Zhou},
   title     = {Astra: Exploiting Predictability to Optimize Deep Learning},
   booktitle = asplos,
@@ -5629,7 +8240,7 @@
   author    = {Yunong Shi and
                Nelson Leung and
                Pranav Gokhale and
-               Zane Rossi and
+               Zane M. Rossi and
                David I. Schuster and
                Henry Hoffmann and
                Frederic T. Chong},
@@ -6870,7 +9481,7 @@
 }
 
 @inproceedings{DBLP:conf/asplos/AjaySRZX17,
-  author    = {Jerry Ajay and
+  author    = {Jerry Antony Ajay and
                Chen Song and
                Aditya Singh Rathore and
                Chi Zhou and
@@ -7995,7 +10606,7 @@
 }
 
 @inproceedings{DBLP:conf/asplos/HaqueEHEBM15,
-  author    = {Md. E. Haque and
+  author    = {Md. Enamul Haque and
                Yong Hun Eom and
                Yuxiong He and
                Sameh Elnikety and
@@ -11521,7 +14132,7 @@
 }
 
 @inproceedings{DBLP:conf/asplos/TucekXZ09,
-  author    = {Joseph Tucek and
+  author    = {Joseph A. Tucek and
                Weiwei Xiong and
                Yuanyuan Zhou},
   title     = {Efficient online validation with delta execution},
@@ -12041,7 +14652,7 @@
 
 @inproceedings{DBLP:conf/asplos/LuTQZ06,
   author    = {Shan Lu and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Feng Qin and
                Yuanyuan Zhou},
   title     = {AVIO: detecting atomicity violations via access interleaving invariants},
@@ -14968,7 +17579,7 @@
 @inproceedings{DBLP:conf/asplos/GeorgiouPR87,
   author    = {Christos J. Georgiou and
                S. L. Palmer and
-               P. L. Rosenfeld},
+               Philip L. Rosenfeld},
   title     = {An Experimental Coprocessor for Implementing Persistant Objects on an {IBM} 4381},
   booktitle = asplos,
   year      = 1987,

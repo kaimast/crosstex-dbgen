@@ -1,5 +1,1208 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigmod/Baeza-Yates24,
+  author    = {Ricardo Baeza-Yates},
+  title     = {The Limitations of Data, Machine Learning and Us},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sigmod/Dong24,
+  author    = {Xin Luna Dong},
+  title     = {The Journey to a Knowledgeable Assistant with {Retrieval-Augmented} Generation (RAG)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/sigmod/Boncz24,
+  author    = {Peter A. Boncz},
+  title     = {Making Data Management Better with Vectorized Query Processing},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/sigmod/LambSHCKHS24,
+  author    = {Andrew Lamb and
+               Yijie Shen and
+               Daniël Heres and
+               Jayjeet Chakraborty and
+               Mehmet Ozan Kabak and
+               Liang-Chi Hsieh and
+               Chao Sun},
+  title     = {Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {5-17},
+}
+
+@inproceedings{DBLP:conf/sigmod/BrunoGJVMRCJS24,
+  author    = {Nicolas Bruno and
+               César A. Galindo-Legaria and
+               Milind Joshi and
+               Esteban Calvo Vargas and
+               Kabita Mahapatra and
+               Sharon Ravindran and
+               Guoheng Chen and
+               Ernesto Cervantes Juárez and
+               Beysim Sezgin},
+  title     = {Unified Query Optimization in the Fabric Data Warehouse},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {18-30},
+}
+
+@inproceedings{DBLP:conf/sigmod/HydeF24,
+  author    = {Julian Hyde and
+               John Fremlin},
+  title     = {Measures in {SQL}},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002WCDCYYQ24,
+  author    = {Yuxing Han and
+               Haoyu Wang and
+               Lixiang Chen and
+               Yifeng Dong and
+               Xing Chen and
+               Benquan Yu and
+               Chengcheng Yang and
+               Weining Qian},
+  title     = {ByteCard: Enhancing {ByteDance's} Data Warehouse with Learned Cardinality Estimation},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {41-54},
+}
+
+@inproceedings{DBLP:conf/sigmod/DingABPJPPPPPSS24,
+  author    = {Jialin Ding and
+               Matt Abrams and
+               Sanghita Bandyopadhyay and
+               Luciano Di Palma and
+               Yanzhu Ji and
+               Davide Pagano and
+               Gopal Paliwal and
+               Panos Parchas and
+               Pascal Pfeil and
+               Orestis Polychroniou and
+               Gaurav Saxena and
+               Aamer Shah and
+               Amina Voloder and
+               Sherry Xiao and
+               Davis Zhang and
+               Tim Kraska},
+  title     = {Automated Multidimensional Data Layouts in Amazon Redshift},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {55-67},
+}
+
+@inproceedings{DBLP:conf/sigmod/BudalakotiZWKKW24,
+  author    = {Suratna Budalakoti and
+               Mohamed Ziauddin and
+               Andrew Witkowski and
+               You Jung Kim and
+               Ramarajan Krishnamachari and
+               Alan Wood},
+  title     = {Automated Clustering Recommendation With Database Zone Maps},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {68-79},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001S24,
+  author    = {Ahmed Metwally and
+               Michael Shum},
+  title     = {Similarity Joins of Sparse Features},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {80-92},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangMFMG0LL24,
+  author    = {Chao Zhang and
+               Yuren Mao and
+               Yijiang Fan and
+               Yu Mi and
+               Yunjun Gao and
+               Lu Chen and
+               Dongfang Lou and
+               Jinshu Lin},
+  title     = {FinSQL: {Model-Agnostic} {LLMs-based} {Text-to-SQL} Framework for Financial Analysis},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {93-105},
+}
+
+@inproceedings{DBLP:conf/sigmod/BaoBBDFLLLLLOTW24,
+  author    = {Xianchun Bao and
+               Zian Bao and
+               Bie Binbin and
+               Qingsong Duan and
+               Wenfei Fan and
+               Hui Lei and
+               Daji Li and
+               Wei Lin and
+               Peng Liu and
+               Zhicong Lv and
+               Mingliang Ouyang and
+               Shuai Tang and
+               Yaoshu Wang and
+               Qiyuan Wei and
+               Min Xie and
+               Jing Zhang and
+               Xin Zhang and
+               Runxiao Zhao and
+               Shuping Zhou},
+  title     = {Rock: Cleaning Data by Embedding {ML} in Logic Rules},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {106-119},
+}
+
+@inproceedings{DBLP:conf/sigmod/Chen0MCPGGXLGLD24,
+  author    = {Daoyuan Chen and
+               Yilun Huang and
+               Zhijian Ma and
+               Hesen Chen and
+               Xuchen Pan and
+               Ce Ge and
+               Dawei Gao and
+               Yuexiang Xie and
+               Zhaoyang Liu and
+               Jinyang Gao and
+               Yaliang Li and
+               Bolin Ding and
+               Jingren Zhou},
+  title     = {Data-Juicer: A {One-Stop} Data Processing System for Large Language Models},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {120-134},
+}
+
+@inproceedings{DBLP:conf/sigmod/MartinezBKONBMJ24,
+  author    = {Javier de la Rúa Martínez and
+               Fabio Buso and
+               Antonios Kouzoupis and
+               Alexandru A. Ormenisan and
+               Salman Niazi and
+               Davit Bzhalava and
+               Kenneth Mak and
+               Victor Jouffrey and
+               Mikael Ronström and
+               Raymond Cunningham and
+               Ralfs Zangis and
+               Dhananjay Mukhedkar and
+               Ayushman Khazanchi and
+               Vladimir Vlassov and
+               Jim Dowling},
+  title     = {The Hopsworks Feature Store for Machine Learning},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {135-147},
+}
+
+@inproceedings{DBLP:conf/sigmod/YuLML0GSGZYL24,
+  author    = {Changlong Yu and
+               Xin Liu and
+               Jefferson Maia and
+               Yang Li and
+               Tianyu Cao and
+               Yifan Gao and
+               Yangqiu Song and
+               Rahul Goutam and
+               Haiyang Zhang and
+               Bing Yin and
+               Zheng Li},
+  title     = {COSMO: A {Large-Scale} E-commerce Common Sense Knowledge Generation and Serving System at Amazon},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {148-160},
+}
+
+@inproceedings{DBLP:conf/sigmod/TianLZTHCY0JZJ24,
+  author    = {Shikun Tian and
+               Zhonghao Lu and
+               Haizhen Zhuo and
+               Xiaojing Tang and
+               Peiyi Hong and
+               Shenglong Chen and
+               Dayi Yang and
+               Ying Yan and
+               Zhiyong Jiang and
+               Hui Zhang and
+               Guofei Jiang},
+  title     = {LETUS: A {Log-Structured} Efficient Trusted Universal {BlockChain} Storage},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {161-174},
+}
+
+@inproceedings{DBLP:conf/sigmod/EdaraFL24,
+  author    = {Pavan Edara and
+               Jonathan Forbesj and
+               Bigang Li},
+  title     = {Vortex: A Stream-oriented Storage Engine For Big Data Analytics},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {175-187},
+}
+
+@inproceedings{DBLP:conf/sigmod/KalmukGBSRRMCHE24,
+  author    = {David Kalmuk and
+               Christian Garcia-Arellano and
+               Ronald Barber and
+               Richard Sidle and
+               Kostas Rakopoulos and
+               Hamdi Roumani and
+               William Minor and
+               Alexander Cheung and
+               Robert C. Hooper and
+               Matthew Emmerton and
+               Zach Hoggard and
+               Scott Walkty and
+               Patrick Pérez and
+               Aleksandrs Santars and
+               Michael Chen and
+               Matthew Olan and
+               Daniel C. Zilio and
+               Imran Sayyid and
+               Humphrey Li and
+               Ketan Rampurkar and
+               Krishna K. Ramachandran and
+               Yiren Shen},
+  title     = {Native Cloud Object Storage in Db2 Warehouse: Implementing a Fast and {Cost-Efficient} Cloud Storage Architecture},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {188-200},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangCQXFLHLZ024,
+  author    = {Yupu Zhang and
+               Guanglin Cong and
+               Jihan Qu and
+               Ran Xu and
+               Yuan Fu and
+               Weiqi Li and
+               Feiran Hu and
+               Jing Liu and
+               Wenliang Zhang and
+               Kai Zheng},
+  title     = {ESTELLE: An Efficient and Cost-effective Cloud Log Engine},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {201-213},
+}
+
+@inproceedings{DBLP:conf/sigmod/DengL0LCFZ24,
+  author    = {Jianjun Deng and
+               Jianan Lu and
+               Hua Fan and
+               Chaoyang Liu and
+               Shi Cheng and
+               Cuiyun Fu and
+               Wenchao Zhou},
+  title     = {TimeCloth: Fast {Point-in-Time} Database Recovery in The Cloud},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {214-226},
+}
+
+@inproceedings{DBLP:conf/sigmod/PoppeASCPSJLGIS24,
+  author    = {Olga Poppe and
+               Pankaj Arora and
+               Sakshi Sharma and
+               Jie Chen and
+               Sachin Pandit and
+               Rahul Sawhney and
+               Vaishali Jhalani and
+               Willis Lang and
+               Qun Guo and
+               Anupriya Inumella and
+               Sanjana Dulipeta Sridhar and
+               Dheren Gala and
+               Nilesh Rathi and
+               Morgan Oslake and
+               Alexandru Chirica and
+               Sarika Iyer and
+               Prateek Goel and
+               Ajay Kalhan},
+  title     = {Proactive Resume and Pause of Resources for Microsoft Azure {SQL} Database Serverless},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {227-240},
+}
+
+@inproceedings{DBLP:conf/sigmod/PavlenkoCZKNCLW24,
+  author    = {Anna Pavlenko and
+               Joyce Cahoon and
+               Yiwen Zhu and
+               Brian Kroth and
+               Michael Nelson and
+               Andrew Carter and
+               David Liao and
+               Travis Wright and
+               Jesús Camacho-Rodríguez and
+               Karla Saur},
+  title     = {Vertically Autoscaling Monolithic Applications with CaaSPER: Scalable {Container-as-a-Service} Performance Enhanced Resizing Algorithm for the Cloud},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {241-254},
+}
+
+@inproceedings{DBLP:conf/sigmod/02260YLZZL024,
+  author    = {Wei Li and
+               Jiachi Zhang and
+               Ye Yin and
+               Yan Li and
+               Zhanyang Zhu and
+               Wenchao Zhou and
+               Liang Lin and
+               Feifei Li},
+  title     = {Flux: Decoupled {Auto-Scaling} for Heterogeneous Query Workload in Alibaba {AnalyticDB}},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {255-268},
+}
+
+@inproceedings{DBLP:conf/sigmod/NathanSLRKHPSNK24,
+  author    = {Vikram Nathan and
+               Vikramank Y. Singh and
+               Zhengchun Liu and
+               Mohammad Rahman and
+               Andreas Kipf and
+               Dominik Horn and
+               Davide Pagano and
+               Gaurav Saxena and
+               Balakrishnan Narayanaswamy and
+               Tim Kraska},
+  title     = {Intelligent Scaling in Amazon Redshift},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {269-279},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuMLNNPSRNK24,
+  author    = {Ziniu Wu and
+               Ryan Marcus and
+               Zhengchun Liu and
+               Parimarjan Negi and
+               Vikram Nathan and
+               Pascal Pfeil and
+               Gaurav Saxena and
+               Mohammad Rahman and
+               Balakrishnan Narayanaswamy and
+               Tim Kraska},
+  title     = {Stage: Query Execution Time Prediction in Amazon Redshift},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {280-294},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangZC0WFSW24,
+  author    = {Xinjun Yang and
+               Yingqiang Zhang and
+               Hao Chen and
+               Feifei Li and
+               Bo Wang and
+               Jing Fang and
+               Chuan Sun and
+               Yuhui Wang},
+  title     = {PolarDB-MP: A {Multi-Primary} {Cloud-Native} Database via Disaggregated Shared Memory},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/sigmod/TalebMYWMS24,
+  author    = {Yacine Taleb and
+               Kevin McGehee and
+               Nan Yan and
+               Shawn Wang and
+               Stefan C. Müller and
+               Allen Samuels},
+  title     = {Amazon MemoryDB: A Fast and Durable {Memory-First} Cloud Database},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {309-320},
+}
+
+@inproceedings{DBLP:conf/sigmod/Aguilar-Saborit24,
+  author    = {Josep Aguilar-Saborit and
+               Raghu Ramakrishnan and
+               Kevin Bocksrocker and
+               Alan Halverson and
+               Konstantin Kosinsky and
+               Ryan O'Connor and
+               Nadejda Poliakova and
+               Moe Shafiei and
+               Haris Mahmood Ansari and
+               Bogdan Crivat and
+               Conor Cunningham and
+               Taewoo Kim and
+               Phil Kon-Kim and
+               Ishan Rajesh Madan and
+               Blazej Matuszyk and
+               Matt Miles and
+               Sumin Mohanan and
+               Cristian Petculescu and
+               Emma Rose-Wirshing and
+               Elias Yousefi and
+               Amin Abadi},
+  title     = {Extending Polaris to Support Transactions},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {321-333},
+}
+
+@inproceedings{DBLP:conf/sigmod/LevandoskiCDDEH24,
+  author    = {Justin J. Levandoski and
+               Garrett Casto and
+               Mingge Deng and
+               Rushabh Desai and
+               Pavan Edara and
+               Thibaud Hottelier and
+               Amir Hormati and
+               Anoop Johnson and
+               Jeff Johnson and
+               Dawid Kurzyniec and
+               Sam McVeety and
+               Prem Ramanathan and
+               Gaurav Saxena and
+               Vidya Shanmugan and
+               Yuri Volobuev},
+  title     = {BigLake: {BigQuery's} Evolution toward a {Multi-Cloud} Lakehouse},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {334-346},
+}
+
+@inproceedings{DBLP:conf/sigmod/SchmidtKHSK24,
+  author    = {Tobias Schmidt and
+               Andreas Kipf and
+               Dominik Horn and
+               Gaurav Saxena and
+               Tim Kraska},
+  title     = {Predicate Caching: {Query-Driven} Secondary Indexing for Cloud Data Warehouses},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {347-359},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangCWWYZZCZHC24,
+  author    = {Wei Zhang and
+               Cheng Chen and
+               Qiange Wang and
+               Wei Wang and
+               Shijiao Yang and
+               Bingyu Zhou and
+               Huiming Zhu and
+               Chao Chen and
+               Yongjun Zhao and
+               Yingqian Hu and
+               Miaomiao Cheng and
+               Meng Li and
+               Hongfei Tan and
+               Mengjin Liu and
+               Hexiang Lin and
+               Shuai Zhang and
+               Lei Zhang},
+  title     = {BG3: A Cost Effective and I/O Efficient Graph Database in Bytedance},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {360-372},
+}
+
+@inproceedings{DBLP:conf/sigmod/Ceri0GMBM24,
+  author    = {Stefano Ceri and
+               Anna Bernasconi and
+               Alessia Gagliardi and
+               Davide Martinenghi and
+               Luigi Bellomarini and
+               Davide Magnanimi},
+  title     = {PG-Triggers: Triggers for Property Graphs},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {373-385},
+}
+
+@inproceedings{DBLP:conf/sigmod/HeHLLLLLLLMSSW024,
+  author    = {Tao He and
+               Shuxian Hu and
+               Longbin Lai and
+               Dongze Li and
+               Neng Li and
+               Xue Li and
+               Lexiao Liu and
+               Xiaojian Luo and
+               Bingqing Lyu and
+               Ke Meng and
+               Sijie Shen and
+               Li Su and
+               Lei Wang and
+               Jingbo Xu and
+               Wenyuan Yu and
+               Weibin Zeng and
+               Lei Zhang and
+               Siyuan Zhang and
+               Jingren Zhou and
+               Xiaoli Zhou and
+               Diwen Zhu},
+  title     = {{GraphScope} Flex: {LEGO-like} Graph Computing Stack},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {386-399},
+}
+
+@inproceedings{DBLP:conf/sigmod/XuC24,
+  author    = {Hao Xu and
+               Juan A. Colmenares},
+  title     = {Bouncer: Admission Control with Response Time Objectives for Low-latency Online Data Systems},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {400-413},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangYSLT0T24,
+  author    = {Wentao Zhang and
+               Guochen Yan and
+               Yu Shen and
+               Ling Yang and
+               Yangyu Tao and
+               Bin Cui and
+               Jian Tang},
+  title     = {NPA: Improving Large-scale Graph Neural Networks with Non-parametric Attention},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {414-427},
+}
+
+@inproceedings{DBLP:conf/sigmod/DharmawanKGYZGK24,
+  author    = {Kevin Dharmawan and
+               Chirag A. Kawediya and
+               Yue Gong and
+               Zaki Indra Yudhistira and
+               Zhiru Zhu and
+               Sainyam Galhotra and
+               Adila Alfa Krisnadhi and
+               Raul Castro Fernandez},
+  title     = {Demonstration of Ver: View Discovery in the Wild},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {428-431},
+}
+
+@inproceedings{DBLP:conf/sigmod/Chen0MD24,
+  author    = {Zhijia Chen and
+               Lihong He and
+               Arjun Mukherjee and
+               Eduard C. Dragut},
+  title     = {Comquest: Large Scale User Comment Crawling and Integration},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {432-435},
+}
+
+@inproceedings{DBLP:conf/sigmod/SeowTBBFLKV24,
+  author    = {Ethan Seow and
+               Yan Tong and
+               Eli Baum and
+               Sam Buxbaum and
+               Muhammad Faisal and
+               John Liagouris and
+               Vasiliki Kalavri and
+               Mayank Varia},
+  title     = {QueryShield: Cryptographically Secure Analytics in the Cloud},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {436-439},
+}
+
+@inproceedings{DBLP:conf/sigmod/MaBTC24,
+  author    = {Jiebing Ma and
+               Sourav S. Bhowmick and
+               Lester Tay and
+               Byron Choi},
+  title     = {SIERRA: A Counterfactual Thinking-based Visual Interface for Property Graph Query Construction},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {440-443},
+}
+
+@inproceedings{DBLP:conf/sigmod/MarkakisCYGZSCL24,
+  author    = {Markos Markakis and
+               An Bo Chen and
+               Brit Youngmann and
+               Trinity Gao and
+               Ziyu Zhang and
+               Rana Shahout and
+               Peter Baile Chen and
+               Chunwei Liu and
+               Ibrahim Sabek and
+               Michael J. Cafarella},
+  title     = {Sawmill: From Logs to Causal Diagnosis of Large Systems},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {444-447},
+}
+
+@inproceedings{DBLP:conf/sigmod/BossonneyCRTJV24,
+  author    = {Kyle Bossonney and
+               Vicente Calisto and
+               Cristian Riveros and
+               Gustavo Toro and
+               Nicolás Van Sint Jan and
+               Domagoj Vrgoc},
+  title     = {Demonstrating REmatch: A Novel {RegEx} Engine for Finding all Matches},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {448-451},
+}
+
+@inproceedings{DBLP:conf/sigmod/DavidsonMRZ24,
+  author    = {Susan B. Davidson and
+               Tova Milo and
+               Kathy Razmadze and
+               Gal Zeevi},
+  title     = {{ASQP-RL} Demo: Learning Approximation Sets for Exploratory Queries},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {452-455},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangPXXY24,
+  author    = {Chenyang Zhang and
+               Junxiong Peng and
+               Chen Xu and
+               Quanqing Xu and
+               Chuanhui Yang},
+  title     = {IMBridge: Impedance Mismatch Mitigation between Database Engine and Prediction Query Execution},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {456-459},
+}
+
+@inproceedings{DBLP:conf/sigmod/Lee0H24,
+  author    = {Sangoh Lee and
+               Kyoungmin Kim and
+               Wook-Shin Han},
+  title     = {{ASM} in Action: Fast and Practical Learned Cardinality Estimation},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {460-463},
+}
+
+@inproceedings{DBLP:conf/sigmod/BellFS24,
+  author    = {Andrew Bell and
+               João Fonseca and
+               Julia Stoyanovich},
+  title     = {The Game Of Recourse: Simulating Algorithmic Recourse over Time to Improve Its Reliability and Fairness},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {464-467},
+}
+
+@inproceedings{DBLP:conf/sigmod/KamaliKZC24,
+  author    = {Amin Kamali and
+               Verena Kantere and
+               Calisto Zuzarte and
+               Vincent Corvinelli},
+  title     = {RobOpt: A Tool for Robust Workload Optimization Based on {Uncertainty-Aware} Machine Learning},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {468-471},
+}
+
+@inproceedings{DBLP:conf/sigmod/UrbanB24,
+  author    = {Matthias Urban and
+               Carsten Binnig},
+  title     = {Demonstrating CAESURA: Language Models as {Multi-Modal} Query Planners},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {472-475},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002W024,
+  author    = {Yicong Huang and
+               Zuozhi Wang and
+               Chen Li},
+  title     = {Demonstration of Udon: Line-by-line Debugging of {User-Defined} Functions in Data Workflows},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {476-479},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiangLLWZ24,
+  author    = {Zhiyu Liang and
+               Chen Liang and
+               Zheng Liang and
+               Hongzhi Wang and
+               Bo Zheng},
+  title     = {UniTS: A Universal Time Series Analysis Framework Powered by {Self-Supervised} Representation Learning},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {480-483},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenLJSFF0024,
+  author    = {Sibei Chen and
+               Hanbing Liu and
+               Waiting Jin and
+               Xiangyu Sun and
+               Xiaoyao Feng and
+               Ju Fan and
+               Xiaoyong Du and
+               Nan Tang},
+  title     = {ChatPipe: Orchestrating Data Preparation Pipelines by Optimizing {Human-ChatGPT} Interactions},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {484-487},
+}
+
+@inproceedings{DBLP:conf/sigmod/HerasymukKS24,
+  author    = {Denys Herasymuk and
+               Falaah Arif Khan and
+               Julia Stoyanovich},
+  title     = {Responsible Model Selection with Virny and {VirnyView}},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {488-491},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001RBVRHPSV24,
+  author    = {Riccardo Tommasini and
+               Christopher Rost and
+               Angela Bonifati and
+               Emanuele Della Valle and
+               Erhard Rahm and
+               Keith W. Hare and
+               Stefan Plantikow and
+               Petra Selmer and
+               Hannes Voigt},
+  title     = {Property Graph Stream Processing In Action with Seraph},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {492-495},
+}
+
+@inproceedings{DBLP:conf/sigmod/VrgocRAACFFHH0P24,
+  author    = {Domagoj Vrgoc and
+               Carlos Rojas and
+               Renzo Angles and
+               Marcelo Arenas and
+               Vicente Calisto and
+               Benjamín Farias and
+               Sebastián Ferrada and
+               Tristan Heuer and
+               Aidan Hogan and
+               Gonzalo Navarro and
+               Alexander Pinto and
+               Juan L. Reutter and
+               Henry Rosales-Méndez and
+               Etienne Toussaint},
+  title     = {MillenniumDB: A Multi-modal, Multi-model Graph Database},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {496-499},
+}
+
+@inproceedings{DBLP:conf/sigmod/DengQC00F0YW24,
+  author    = {Yuhao Deng and
+               Deng Qiyan and
+               Chengliang Chai and
+               Lei Cao and
+               Nan Tang and
+               Ju Fan and
+               Jiayi Wang and
+               Ye Yuan and
+               Guoren Wang},
+  title     = {IDE: A System for Iterative Mislabel Detection},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {500-503},
+}
+
+@inproceedings{DBLP:conf/sigmod/LaoWLWZCCZT024,
+  author    = {Jiale Lao and
+               Yibo Wang and
+               Yufei Li and
+               Jianping Wang and
+               Yunjia Zhang and
+               Zhiyuan Cheng and
+               Wanghu Chen and
+               Yuanchun Zhou and
+               Mingjie Tang and
+               Jianguo Wang},
+  title     = {A Demonstration of GPTuner: A {GPT-Based} {Manual-Reading} Database Tuning System},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {504-507},
+}
+
+@inproceedings{DBLP:conf/sigmod/GiannakourisT24,
+  author    = {Victor Giannakouris and
+               Immanuel Trummer},
+  title     = {Demonstrating λ-Tune: Exploiting Large Language Models for {Workload-Adaptive} Database System Tuning},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {508-511},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenQW0KG24,
+  author    = {Tingyang Chen and
+               Dazhuo Qiu and
+               Yinghui Wu and
+               Arijit Khan and
+               Xiangyu Ke and
+               Yunjun Gao},
+  title     = {User-friendly, Interactive, and Configurable Explanations for Graph Neural Networks with Graph Views},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {512-515},
+}
+
+@inproceedings{DBLP:conf/sigmod/BattistonKB24,
+  author    = {Ilaria Battiston and
+               Kriti Kathuria and
+               Peter A. Boncz},
+  title     = {OpenIVM: a {SQL-to-SQL} Compiler for Incremental Computations},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {516-519},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShankarP24,
+  author    = {Shreya Shankar and
+               Aditya G. Parameswaran},
+  title     = {Building Reactive Large Language Model Pipelines with Motion},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {520-523},
+}
+
+@inproceedings{DBLP:conf/sigmod/GongF24,
+  author    = {Yue Gong and
+               Raul Castro Fernandez},
+  title     = {Demonstrating Nexus for Correlation Discovery over Collections of {Spatio-Temporal} Tabular Data},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {524-527},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChangDN024,
+  author    = {Jiwon Chang and
+               Christina Dionysio and
+               Fatemeh Nargesian and
+               Matthias Boehm},
+  title     = {PLUTUS: Understanding Data Distribution Tailoring for Machine Learning},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {528-531},
+}
+
+@inproceedings{DBLP:conf/sigmod/DusellaGNMZ24,
+  author    = {Gereon Dusella and
+               Haralampos Gavriilidis and
+               Laert Nuhu and
+               Volker Markl and
+               Eleni Tzirita Zacharatou},
+  title     = {{Multi-Backend} Zonal Statistics Execution with Raven},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {532-535},
+}
+
+@inproceedings{DBLP:conf/sigmod/SahaABT24,
+  author    = {Sanad Saha and
+               Nischal Aryal and
+               Leilani Battle and
+               Arash Termehchy},
+  title     = {ShiftScope: Adapting Visualization Recommendations to Users' Dynamic Data Focus},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {536-539},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiCFSTPP24,
+  author    = {Zhaoheng Li and
+               Supawit Chockchowwat and
+               Hanxi Fang and
+               Ribhav Sahu and
+               Sumay Thakurdesai and
+               Kantanat Pridaphatrakun and
+               Yongjoo Park},
+  title     = {Demonstration of ElasticNotebook: Migrating Live Computational Notebook States},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {540-543},
+}
+
+@inproceedings{DBLP:conf/sigmod/BonifatiOTVY024,
+  author    = {Angela Bonifati and
+               M. Tamer Özsu and
+               Yuanyuan Tian and
+               Hannes Voigt and
+               Wenyuan Yu and
+               Wenjie Zhang},
+  title     = {The Future of Graph Analytics},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {544-545},
+}
+
+@inproceedings{DBLP:conf/sigmod/Curino024,
+  author    = {Carlo Curino and
+               Raghu Ramakrishnan},
+  title     = {{AI} for Systems},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {546},
+}
+
+@inproceedings{DBLP:conf/sigmod/MiaoJ024,
+  author    = {Xupeng Miao and
+               Zhihao Jia and
+               Bin Cui},
+  title     = {Demystifying Data Management for Large Language Models},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {547-555},
+}
+
+@inproceedings{DBLP:conf/sigmod/Faghih0IB24,
+  author    = {Faeze Faghih and
+               Tobias Ziegler and
+               Zsolt István and
+               Carsten Binnig},
+  title     = {{SmartNICs} in the Cloud: The Why, What and How of In-network Processing for {Data-Intensive} Applications},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {556-560},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhuWDZ24,
+  author    = {Rong Zhu and
+               Lianggui Weng and
+               Bolin Ding and
+               Jingren Zhou},
+  title     = {Learned Query Optimizer: What is New and What is Next},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {561-569},
+}
+
+@inproceedings{DBLP:conf/sigmod/AmiriAAL24,
+  author    = {Mohammad Javad Amiri and
+               Divyakant Agrawal and
+               Amr El Abbadi and
+               Boon Thau Loo},
+  title     = {Distributed Transaction Processing in Untrusted Environments},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {570-579},
+}
+
+@inproceedings{DBLP:conf/sigmod/Fernandez024,
+  author    = {Raul Castro Fernandez and
+               Arnab Nandi},
+  title     = {Responsible Sharing of Spatiotemporal Data},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {580-584},
+}
+
+@inproceedings{DBLP:conf/sigmod/HoganV24,
+  author    = {Aidan Hogan and
+               Domagoj Vrgoc},
+  title     = {Querying Graph Databases at Scale},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {585-589},
+}
+
+@inproceedings{DBLP:conf/sigmod/BhowmickCS24,
+  author    = {Sourav S. Bhowmick and
+               S. H. Annabel Chen and
+               Divesh Srivastava},
+  title     = {Cognitive Psychology Meets Data Management: State of the Art and Future Directions},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {590-596},
+}
+
+@inproceedings{DBLP:conf/sigmod/Pan0L24,
+  author    = {James Jie Pan and
+               Jianguo Wang and
+               Guoliang Li},
+  title     = {Vector Database Management Techniques and Systems},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {597-604},
+}
+
+@inproceedings{DBLP:conf/sigmod/Bonifati024,
+  author    = {Angela Bonifati and
+               Riccardo Tommasini},
+  title     = {An Overview of Continuous Querying in (Modern) Data Systems},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {605-612},
+}
+
+@inproceedings{DBLP:conf/sigmod/HabichP24,
+  author    = {Dirk Habich and
+               Johannes Pietrzyk},
+  title     = {{SIMDified} Data Processing - Foundations, Abstraction, and Advanced Techniques},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {613-621},
+}
+
+@inproceedings{DBLP:conf/sigmod/CongYZ24,
+  author    = {Gao Cong and
+               Jingyi Yang and
+               Yue Zhao},
+  title     = {Machine Learning for Databases: Foundations, Paradigms, and Open problems},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {622-629},
+}
+
+@inproceedings{DBLP:conf/sigmod/LuoP24,
+  author    = {Xuan Luo and
+               Jian Pei},
+  title     = {Applications and Computation of the Shapley Value in Databases and Machine Learning},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {630-635},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001FDZ24,
+  author    = {Prashant Pandey and
+               Martín Farach-Colton and
+               Niv Dayan and
+               Huanchen Zhang},
+  title     = {Beyond Bloom: A Tutorial on Future {Feature-Rich} Filters},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {636-644},
+}
+
+@inproceedings{DBLP:conf/sigmod/BinnigT24,
+  author    = {Carsten Binnig and
+               Nesime Tatbul},
+  title     = {International Workshop on Data Management on New Hardware (DaMoN)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {645-646},
+}
+
+@inproceedings{DBLP:conf/sigmod/Porobic024,
+  author    = {Danica Porobic and
+               Tianzheng Wang},
+  title     = {Second Workshop on Simplicity in Management of Data (SiMoD)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {647-648},
+}
+
+@inproceedings{DBLP:conf/sigmod/BordawekarSABF24,
+  author    = {Rajesh Bordawekar and
+               Oded Shmueli and
+               Yael Amsterdamer and
+               Renata Borovica-Gajic and
+               Donatella Firmani},
+  title     = {Seventh International Workshop on Exploiting Artificial Intelligence Techniques for Data Management (aiDM)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {649-650},
+}
+
+@inproceedings{DBLP:conf/sigmod/HulsebosIS24,
+  author    = {Madelon Hulsebos and
+               Matteo Interlandi and
+               Shreya Shankar},
+  title     = {Eighth Workshop on Data Management for {End-to-End} Machine Learning (DEEM)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {651-652},
+}
+
+@inproceedings{DBLP:conf/sigmod/HartigK24,
+  author    = {Olaf Hartig and
+               Zoi Kaoudi},
+  title     = {GRADES-NDA'24: 7th Joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {653-654},
+}
+
+@inproceedings{DBLP:conf/sigmod/Cudre-MaurouxKW24,
+  author    = {Philippe Cudré-Mauroux and
+               Andrea Ko and
+               Robert Wrembel},
+  title     = {Fourth International Workshop on Big Data in Emergent Distributed Environments (BiDEDE)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {655-656},
+}
+
+@inproceedings{DBLP:conf/sigmod/Fekete0OS24,
+  author    = {Jean-Daniel Fekete and
+               Kexin Rong and
+               Behrooz Omidvar-Tehrani and
+               Roee Shraga},
+  title     = {Eighth Workshop on {Human-In-the-Loop} Data Analytics (HILDA)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {657-658},
+}
+
+@inproceedings{DBLP:conf/sigmod/MiedemaBL24,
+  author    = {Daphne Miedema and
+               Sourav S. Bhowmick and
+               Michael Liut},
+  title     = {Third International Workshop on Data Systems Education (DataEd'24)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {659-660},
+}
+
+@inproceedings{DBLP:conf/sigmod/AsudehGGSY24,
+  author    = {Abolfazl Asudeh and
+               Sainyam Galhotra and
+               Amir Gilad and
+               Babak Salimi and
+               Brit Youngmann},
+  title     = {First Workshop on Governance, Understanding and Integration of Data for Effective and Responsible {AI} (GUIDE-AI)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {661-662},
+}
+
+@inproceedings{DBLP:conf/sigmod/SabekTP24,
+  author    = {Ibrahim Sabek and
+               Immanuel Trummer and
+               Stefan Prestel},
+  title     = {First Workshop on Quantum Computing and {Quantum-Inspired} Technology for {Data-Intensive} Systems and Applications (Q-Data)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {663-664},
+}
+
+@inproceedings{DBLP:conf/sigmod/GruenheidR24,
+  author    = {Anja Gruenheid and
+               Manuel Rigger},
+  title     = {Tenth International Workshop on Testing Database Systems (DBTest)},
+  booktitle = sigmod,
+  year      = 2024,
+  pages     = {665-666},
+}
+
 @inproceedings{DBLP:conf/sigmod/Chamberlin23,
   author    = {Don Chamberlin},
   title     = {49 Years of Queries},
@@ -417,7 +1620,7 @@
 @inproceedings{DBLP:conf/sigmod/MohammedSK023,
   author    = {Haneen Mohammed and
                Charlie Summers and
-               Sughosh Kaushik and
+               Sughosh V. Kaushik and
                Eugene Wu},
   title     = {{SmokedDuck} Demonstration: {SQLStepper}},
   booktitle = sigmod,
@@ -568,7 +1771,7 @@
 
 @inproceedings{DBLP:conf/sigmod/IlyasL0MMPRS23,
   author    = {Ihab F. Ilyas and
-               JP Lacerda and
+               J. P. Lacerda and
                Yunyao Li and
                Umar Farooq Minhas and
                Ali Mousavi and
@@ -5673,7 +6876,7 @@
   author    = {Xinjing Zhou and
                Joy Arulraj and
                Andrew Pavlo and
-               David Cohen},
+               David E. Cohen},
   title     = {Spitfire: A {Three-Tier} Buffer Manager for Volatile and {Non-Volatile} Memory},
   booktitle = sigmod,
   year      = 2021,
@@ -6589,7 +7792,7 @@
 @inproceedings{DBLP:conf/sigmod/TianoBN21,
   author    = {Donato Tiano and
                Angela Bonifati and
-               Raymond Ng},
+               Raymond T. Ng},
   title     = {FeatTS: Feature-based Time Series Clustering},
   booktitle = sigmod,
   year      = 2021,
@@ -9282,7 +10485,7 @@
 
 @inproceedings{DBLP:conf/sigmod/WeirUGCIRBGHEcB20,
   author    = {Nathaniel Weir and
-               Prasetya Utama and
+               Prasetya Ajie Utama and
                Alex Galakatos and
                Andrew Crotty and
                Amir Ilkhechi and
@@ -12109,7 +13312,7 @@
 
 @inproceedings{DBLP:conf/sigmod/WeirU19,
   author    = {Nathaniel Weir and
-               Prasetya Utama},
+               Prasetya Ajie Utama},
   title     = {Bootstrapping an {End-to-End} Natural Language Interface for Databases},
   booktitle = sigmod,
   year      = 2019,
@@ -12645,7 +13848,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BaaziziCGS19,
-  author    = {Mohamed Amine Baazizi and
+  author    = {Mohamed-Amine Baazizi and
                Dario Colazzo and
                Giorgio Ghelli and
                Carlo Sartiani},
@@ -15101,7 +16304,7 @@
                Amir Ilkhechi and
                Arif Usta and
                Shekar Ramaswamy and
-               Prasetya Utama and
+               Prasetya Ajie Utama and
                Nathaniel Weir and
                Carsten Binnig and
                Ugur Çetintemel},
@@ -17363,7 +18566,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/ChanCDSF17,
-  author    = {Gromit Yeuk-Yin Chan and
+  author    = {Yeuk-Yin Chan and
                Fernando Chirigati and
                Harish Doraiswamy and
                Cláudio T. Silva and
@@ -21745,7 +22948,7 @@
   author    = {Jesús Camacho-Rodríguez and
                Dario Colazzo and
                Ioana Manolescu and
-               Juan A. M. Naranjo},
+               Juan Álvaro Muñoz Naranjo},
   title     = {PAXQuery: Parallel Analytical {XML} Processing},
   booktitle = sigmod,
   year      = 2015,
@@ -25131,7 +26334,7 @@
   author    = {Goetz Graefe and
                Mark Lillibridge and
                Harumi A. Kuno and
-               Joseph Tucek and
+               Joseph A. Tucek and
                Alistair C. Veitch},
   title     = {Controlled lock violation},
   booktitle = sigmod,
@@ -39007,7 +40210,7 @@
 @inproceedings{DBLP:conf/sigmod/SchleimerWA03,
   author    = {Saul Schleimer and
                Daniel Shawcross Wilkerson and
-               Alexander Aiken},
+               Alex Aiken},
   title     = {Winnowing: Local Algorithms for Document Fingerprinting},
   booktitle = sigmod,
   year      = 2003,
@@ -47034,7 +48237,7 @@
 
 @inproceedings{DBLP:conf/sigmod/MissikoffT94,
   author    = {Michele Missikoff and
-               M. Toiati},
+               Marco Toiati},
   title     = {{MOSAICO} - A System for Conceptual Modeling and Rapid Prototyping of {Object-Oriented} Database Application},
   booktitle = sigmod,
   year      = 1994,
@@ -52931,7 +54134,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/ClarkH78,
-  author    = {J. D. Clark and
+  author    = {Jon D. Clark and
                Jeffrey A. Hoffer},
   title     = {A Procedure for the Determination of Attribute Access Probabilities},
   booktitle = sigmod,
@@ -53025,7 +54228,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FurtadoK77,
-  author    = {Antonio L. Furtado and
+  author    = {António L. Furtado and
                Larry Kerschberg},
   title     = {An Algebra of Quotient Relations},
   booktitle = sigmod,
@@ -53611,7 +54814,7 @@
 
 @inproceedings{DBLP:conf/sigmod/MommensS75,
   author    = {J. H. Mommens and
-               S. E. Smith},
+               Stephen E. Smith},
   title     = {Automatic Generation of Physical Data Base Structures},
   booktitle = sigmod,
   year      = 1975,

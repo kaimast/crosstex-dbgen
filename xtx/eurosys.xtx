@@ -1,5 +1,953 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosys/HuangZ0WJZZZYS24,
+  author    = {Kezhao Huang and
+               Jidong Zhai and
+               Liyan Zheng and
+               Haojie Wang and
+               Yuyang Jin and
+               Qihao Zhang and
+               Runqing Zhang and
+               Zhen Zheng and
+               Youngmin Yi and
+               Xipeng Shen},
+  title     = {WiseGraph: Optimizing {GNN} with Joint Workload Partition of Graph and Operations},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/eurosys/0002A0A024,
+  author    = {Xiaolin Jiang and
+               Mahbod Afarin and
+               Zhijia Zhao and
+               Nael B. Abu-Ghazaleh and
+               Rajiv Gupta},
+  title     = {Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {18-32},
+}
+
+@inproceedings{DBLP:conf/eurosys/QiWHZLC0Z024,
+  author    = {Hao Qi and
+               Yiyang Wu and
+               Ligang He and
+               Yu Zhang and
+               Kang Luo and
+               Minzhi Cai and
+               Hai Jin and
+               Zhan Zhang and
+               Jin Zhao},
+  title     = {LSGraph: A Locality-centric High-performance Streaming Graph Engine},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {33-49},
+}
+
+@inproceedings{DBLP:conf/eurosys/CheJV24,
+  author    = {Joanna Che and
+               Kasra Jamshidi and
+               Keval Vora},
+  title     = {Contigra: Graph Mining with Containment Constraints},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {50-65},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiuGCYXLYTS0024,
+  author    = {Sen Liu and
+               Yongbo Gao and
+               Zixuan Chen and
+               Jiarui Ye and
+               Haiyang Xu and
+               Furong Liang and
+               Wei Yan and
+               Zerui Tian and
+               Quanwei Sun and
+               Zehua Guo and
+               Yang Xu},
+  title     = {Halflife: An Adaptive Flowlet-based Load Balancer with Fading Timeout in Data Center Networks},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {66-81},
+}
+
+@inproceedings{DBLP:conf/eurosys/PanHLZWZDZX24,
+  author    = {Heng Pan and
+               Peng He and
+               Zhenyu Li and
+               Pan Zhang and
+               Junjie Wan and
+               Yuhao Zhou and
+               Xiongchun Duan and
+               Yu Zhang and
+               Gaogang Xie},
+  title     = {Hoda: a High-performance Open {vSwitch} Dataplane with Multiple Specialized Data Paths},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {82-98},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiaoTZW024,
+  author    = {Xudong Liao and
+               Han Tian and
+               Chaoliang Zeng and
+               Xinchen Wan and
+               Kai Chen},
+  title     = {Astraea: Towards Fair and Efficient Learning-based Congestion Control},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {99-114},
+}
+
+@inproceedings{DBLP:conf/eurosys/BaiZ00LJXXDC24,
+  author    = {Songyuan Bai and
+               Hao Zheng and
+               Chen Tian and
+               Xiaoliang Wang and
+               Chang Liu and
+               Xin Jin and
+               Fu Xiao and
+               Qiao Xiang and
+               Wanchun Dou and
+               Guihai Chen},
+  title     = {Unison: A {Parallel-Efficient} and {User-Transparent} Network Simulation Kernel},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {115-131},
+}
+
+@inproceedings{DBLP:conf/eurosys/LuWH0W024,
+  author    = {Fangming Lu and
+               Xingda Wei and
+               Zhuobin Huang and
+               Rong Chen and
+               Mingyu Wu and
+               Haibo Chen},
+  title     = {Serialization/Deserialization-free State Transfer in Serverless Workflows},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {132-147},
+}
+
+@inproceedings{DBLP:conf/eurosys/XingHXCLZC24,
+  author    = {Jiarong Xing and
+               Kuo-Feng Hsu and
+               Yiting Xia and
+               Yan Cai and
+               Yanping Li and
+               Ying Zhang and
+               Ang Chen},
+  title     = {Occam: A Programming System for Reliable Network Management},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {148-162},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiuMLSMYBW24,
+  author    = {Guodong Liu and
+               Youshan Miao and
+               Zhiqi Lin and
+               Xiaoxiang Shi and
+               Saeed Maleki and
+               Fan Yang and
+               Yungang Bao and
+               Sa Wang},
+  title     = {Aceso: Efficient Parallel {DNN} Training through Iterative Bottleneck Alleviation},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {163-181},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChingCKJWSH24,
+  author    = {Cheng-Wei Ching and
+               Xin Chen and
+               Taehwan Kim and
+               Bo Ji and
+               Qingyang Wang and
+               Dilma Da Silva and
+               Liting Hu},
+  title     = {Totoro: A Scalable Federated Learning Engine for the Edge},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {182-199},
+}
+
+@inproceedings{DBLP:conf/eurosys/KhanKAFB024,
+  author    = {Ahmad Faraz Khan and
+               Azal Ahmad Khan and
+               Ahmed M. Abdelmoniem and
+               Samuel Fountain and
+               Ali Raza Butt and
+               Ali Anwar},
+  title     = {FLOAT: Federated Learning Optimizations with Automated Tuning},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {200-218},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChengEGJJVV24,
+  author    = {Pau-Chen Cheng and
+               Kevin Eykholt and
+               Zhongshu Gu and
+               Hani Jamjoom and
+               K. R. Jayaram and
+               Enriquillo Valdez and
+               Ashish Verma},
+  title     = {DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and Trustworthy Aggregation},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {219-235},
+}
+
+@inproceedings{DBLP:conf/eurosys/ShiPWLRHYLC24,
+  author    = {Shaohuai Shi and
+               Xinglin Pan and
+               Qiang Wang and
+               Chengjian Liu and
+               Xiaozhe Ren and
+               Zhongzhe Hu and
+               Yu Yang and
+               Bo Li and
+               Xiaowen Chu},
+  title     = {ScheMoE: An Extensible {Mixture-of-Experts} Distributed Training System with Tasks Scheduling},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {236-249},
+}
+
+@inproceedings{DBLP:conf/eurosys/DuanZSHMDW24,
+  author    = {Sisi Duan and
+               Haibin Zhang and
+               Xiao Sui and
+               Baohan Huang and
+               Changchun Mu and
+               Gang Di and
+               Xiaoyun Wang},
+  title     = {Dashing and Star: Byzantine Fault Tolerance with Weak Certificates},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {250-264},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangLDW0ZZ024,
+  author    = {Bo Wang and
+               Shengyun Liu and
+               He Dong and
+               Xiangzhe Wang and
+               Wenbo Xu and
+               Jingjing Zhang and
+               Ping Zhong and
+               Yiming Zhang},
+  title     = {Bandle: Asynchronous State Machine Replication Made Efficient},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {265-280},
+}
+
+@inproceedings{DBLP:conf/eurosys/0003W0Z24,
+  author    = {Ziming Zhao and
+               Mingyu Wu and
+               Haibo Chen and
+               Binyu Zang},
+  title     = {Characterization and Reclamation of Frozen Garbage in Managed {FaaS} Workloads},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {281-297},
+}
+
+@inproceedings{DBLP:conf/eurosys/KohliKBC024,
+  author    = {Sumer Kohli and
+               Shreyas Kharbanda and
+               Rodrigo Bruno and
+               João Carreira and
+               Pedro Fonseca},
+  title     = {Pronghorn: Effective Checkpoint Orchestration for Serverless {Hot-Starts}},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {298-316},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiuL0LW024,
+  author    = {Tianyi Liu and
+               Jerry Lucas and
+               Sen He and
+               Tongping Liu and
+               Xiaoyin Wang and
+               Wei Wang},
+  title     = {Improving Resource and Energy Efficiency for Cloud 3D through Excessive Rendering Reduction},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {317-332},
+}
+
+@inproceedings{DBLP:conf/eurosys/UdayashankarAMA24,
+  author    = {Sreeharsha Udayashankar and
+               Ashraf Abdel-Hadi and
+               Ali José Mashtizadeh and
+               Samer Al-Kiswany},
+  title     = {Draconis: {Network-Accelerated} Scheduling for {Microsecond-Scale} Workloads},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {333-348},
+}
+
+@inproceedings{DBLP:conf/eurosys/XiaoZLK24,
+  author    = {Yunming Xiao and
+               Yibo Zhao and
+               Sen Lin and
+               Aleksandar Kuzmanovic},
+  title     = {Snatch: Online Streaming Analytics at the Network Edge},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {349-369},
+}
+
+@inproceedings{DBLP:conf/eurosys/SongEUJC24,
+  author    = {Won Wook Song and
+               Jeongyoon Eo and
+               Taegeon Um and
+               Myeongjae Jeon and
+               Byung-Gon Chun},
+  title     = {Blaze: Holistic Caching for Iterative Data Processing},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {370-386},
+}
+
+@inproceedings{DBLP:conf/eurosys/SultanSLCS24,
+  author    = {Sari Sultan and
+               Kia Shakiba and
+               Albert Lee and
+               Paul Chen and
+               Michael Stumm},
+  title     = {{TTLs} Matter: Efficient Cache Sizing with {TTL-Aware} Miss Ratio Curves and Working Set Sizes},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {387-404},
+}
+
+@inproceedings{DBLP:conf/eurosys/MaoSK24,
+  author    = {Ziming Mao and
+               Kiran Srinivasan and
+               Anurag Khandelwal},
+  title     = {Trinity: A Fast Compressed Multi-attribute Data Store},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {405-420},
+}
+
+@inproceedings{DBLP:conf/eurosys/GuoWZJHX24,
+  author    = {Xiaojun Guo and
+               Hua Wang and
+               Ke Zhou and
+               Hong Jiang and
+               Yaodong Han and
+               Guangjie Xing},
+  title     = {FLOWS: Balanced {MRC} Profiling for Heterogeneous {Object-Size} Cache},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {421-440},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiHDHZWW24,
+  author    = {Zhenxin Li and
+               Shuibing He and
+               Zheng Dang and
+               Peiyi Hong and
+               Xuechen Zhang and
+               Rui Wang and
+               Fei Wu},
+  title     = {CCL-BTree: A {Crash-Consistent} {Locality-Aware} B+-Tree for Reducing {XPBuffer-Induced} Write Amplification in Persistent Memory},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {441-455},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangDGL0DCCLC24,
+  author    = {Hancheng Wang and
+               Haipeng Dai and
+               Rong Gu and
+               Youyou Lu and
+               Jiaqi Zheng and
+               Jingsong Dai and
+               Shusen Chen and
+               Zhiyuan Chen and
+               Shuaituan Li and
+               Guihai Chen},
+  title     = {Wormhole Filters: Caching Your Hash on Persistent Memory},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {456-471},
+}
+
+@inproceedings{DBLP:conf/eurosys/Jiang0C24,
+  author    = {Zhifeng Jiang and
+               Wei Wang and
+               Ruichuan Chen},
+  title     = {Dordis: Efficient Federated Learning with {Dropout-Resilient} Differential Privacy},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {472-488},
+}
+
+@inproceedings{DBLP:conf/eurosys/Huang0C0JHT024,
+  author    = {Xinyang Huang and
+               Junxue Zhang and
+               Xiaodian Cheng and
+               Hong Zhang and
+               Yilun Jin and
+               Shuihai Hu and
+               Han Tian and
+               Kai Chen},
+  title     = {Accelerating {Privacy-Preserving} Machine Learning With {GeniBatch}},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {489-504},
+}
+
+@inproceedings{DBLP:conf/eurosys/YangYXZWS024,
+  author    = {Qizheng Yang and
+               Tianyi Yang and
+               Mingcan Xiang and
+               Lijun Zhang and
+               Haoliang Wang and
+               Marco Serafini and
+               Hui Guan},
+  title     = {GMorph: Accelerating {Multi-DNN} Inference via Model Fusion},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {505-523},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangD0CW024,
+  author    = {Shiwei Zhang and
+               Lansong Diao and
+               Chuan Wu and
+               Zongyan Cao and
+               Siyu Wang and
+               Wei Lin},
+  title     = {HAP: {SPMD} {DNN} Training on Heterogeneous {GPU} Clusters with Automated Program Synthesis},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {524-541},
+}
+
+@inproceedings{DBLP:conf/eurosys/JiangJ00024,
+  author    = {Chenyu Jiang and
+               Zhen Jia and
+               Shuai Zheng and
+               Yida Wang and
+               Chuan Wu},
+  title     = {DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {542-559},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenWSK24,
+  author    = {Bing-Jyue Chen and
+               Suppakit Waiwitlikhit and
+               Ion Stoica and
+               Daniel Kang},
+  title     = {ZKML: An Optimizing System for {ML} Inference in {Zero-Knowledge} Proofs},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {560-574},
+}
+
+@inproceedings{DBLP:conf/eurosys/MaharSSIS24,
+  author    = {Suyash Mahar and
+               Mingyao Shen and
+               TJ Smith and
+               Joseph Izraelevitz and
+               Steven Swanson},
+  title     = {Puddles: {Application-Independent} Recovery and {Location-Independent} Data for Persistent Memory},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {575-589},
+}
+
+@inproceedings{DBLP:conf/eurosys/LuoAG24,
+  author    = {Xuhao Luo and
+               Ramnatthan Alagappan and
+               Aishwarya Ganesan},
+  title     = {SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {590-607},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhouXZKBGMKLLYH24,
+  author    = {Yanbo Zhou and
+               Erci Xu and
+               Li Zhang and
+               Kapil Karkra and
+               Mariusz Barczak and
+               Wayne Gao and
+               Wojciech Malikowski and
+               Mateusz Kozlowski and
+               Lukasz Lasek and
+               Ruiming Lu and
+               Feng Yang and
+               Lilong Huang and
+               Xiaolu Zhang and
+               Keqiang Niu and
+               Jiaji Zhu and
+               Jiesheng Wu},
+  title     = {CSAL: the {Next-Gen} Local Disks for the Cloud},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {608-623},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhuCS24,
+  author    = {Bohong Zhu and
+               Youmin Chen and
+               Jiwu Shu},
+  title     = {Exploring the Asynchrony of Slow Memory Filesystem with {EasyIO}},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {624-640},
+}
+
+@inproceedings{DBLP:conf/eurosys/PhamCLNYJLKS24,
+  author    = {Kiet Tuan Pham and
+               Seokjoo Cho and
+               Sangjin Lee and
+               Lan Anh Nguyen and
+               Hyeongi Yeo and
+               Ipoom Jeong and
+               Sungjin Lee and
+               Nam Sung Kim and
+               Yongseok Son},
+  title     = {ScaleCache: A Scalable Page Cache for Multiple {Solid-State} Drives},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {641-656},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZengLGL24,
+  author    = {Shaoxun Zeng and
+               Xiaojian Liao and
+               Hao Guo and
+               Youyou Lu},
+  title     = {Volley: Accelerating {Write-Read} Orders in Disaggregated Storage},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {657-673},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenXMKGSCGFWZG24,
+  author    = {Yinfang Chen and
+               Huaibing Xie and
+               Minghua Ma and
+               Yu Kang and
+               Xin Gao and
+               Liu Shi and
+               Yunjie Cao and
+               Xuedong Gao and
+               Hao Fan and
+               Ming Wen and
+               Jun Zeng and
+               Supriyo Ghosh and
+               Xuchao Zhang and
+               Chaoyun Zhang and
+               Qingwei Lin and
+               Saravan Rajmohan and
+               Dongmei Zhang and
+               Tianyin Xu},
+  title     = {Automatic Root Cause Analysis via Large Language Models for Cloud Incidents},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {674-688},
+}
+
+@inproceedings{DBLP:conf/eurosys/SunXLSGJ24,
+  author    = {Hao Sun and
+               Yiru Xu and
+               Jianzhong Liu and
+               Yuheng Shen and
+               Nan Guan and
+               Yu Jiang},
+  title     = {Finding Correctness Bugs in {eBPF} Verifier with Structured and Sanitized Program},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {689-703},
+}
+
+@inproceedings{DBLP:conf/eurosys/Ma0ZCYC24,
+  author    = {Kai Ma and
+               Cheng Li and
+               Enzuo Zhu and
+               Ruichuan Chen and
+               Feng Yan and
+               Kang Chen},
+  title     = {Noctua: Towards Automated and Practical Fine-grained Consistency Analysis},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {704-719},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhongXH0M024,
+  author    = {Li Zhong and
+               Chengcheng Xiang and
+               Haochen Huang and
+               Bingyu Shen and
+               Eric Mugnier and
+               Yuanyuan Zhou},
+  title     = {Effective Bug Detection with Unused Definitions},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {720-735},
+}
+
+@inproceedings{DBLP:conf/eurosys/TangS0WOM24,
+  author    = {Ruize Tang and
+               Xudong Sun and
+               Yu Huang and
+               Yuyang Wei and
+               Lingzhi Ouyang and
+               Xiaoxing Ma},
+  title     = {SandTable: Scalable Distributed System Model Checking with {Specification-Level} State Exploration},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {736-753},
+}
+
+@inproceedings{DBLP:conf/eurosys/ClarkDWR24,
+  author    = {Jack Clark and
+               Alastair F. Donaldson and
+               John Wickerson and
+               Manuel Rigger},
+  title     = {Validating Database System Isolation Level Implementations with Version Certificate Recovery},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {754-768},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangWLXW24,
+  author    = {Yijia Zhang and
+               Qiang Wang and
+               Zhe Lin and
+               Pengxiang Xu and
+               Bingqiang Wang},
+  title     = {Improving {GPU} Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {769-785},
+}
+
+@inproceedings{DBLP:conf/eurosys/YangGWE0P24,
+  author    = {Jiacheng Yang and
+               Christina Giannoula and
+               Jun Wu and
+               Mostafa Elhoushi and
+               James Gleeson and
+               Gennady Pekhimenko},
+  title     = {Minuet: Accelerating 3D Sparse Convolutions on {GPUs}},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {786-802},
+}
+
+@inproceedings{DBLP:conf/eurosys/0015XRSKL24,
+  author    = {Jie Ren and
+               Dong Xu and
+               Junhee Ryu and
+               Kwangsik Shin and
+               Daewoo Kim and
+               Dong Li},
+  title     = {MTM: Rethinking Memory Profiling and Migration for {Multi-Tiered} Large Memory},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {803-817},
+}
+
+@inproceedings{DBLP:conf/eurosys/TangZZHYXLSHZCZ24,
+  author    = {Yupeng Tang and
+               Ping Zhou and
+               Wenhui Zhang and
+               Henry Hu and
+               Qirui Yang and
+               Hao Xiang and
+               Tongping Liu and
+               Jiaxin Shan and
+               Ruoyun Huang and
+               Cheng Zhao and
+               Cheng Chen and
+               Hui Zhang and
+               Fei Liu and
+               Shuai Zhang and
+               Xiaoning Ding and
+               Jianjun Chen},
+  title     = {Exploring Performance and Cost Optimization with {ASIC-Based} {CXL} Memory},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {818-833},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangCYCLLZWLG24,
+  author    = {Zongpu Zhang and
+               Jiangtao Chen and
+               Banghao Ying and
+               Yahui Cao and
+               Lingyu Liu and
+               Jian Li and
+               Xin Zeng and
+               Junyuan Wang and
+               Weigang Li and
+               Haibing Guan},
+  title     = {HD-IOV: {SW-HW} Co-designed I/O Virtualization with Scalability and Flexibility for {Hyper-Density} Cloud},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {834-850},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhouWMY24,
+  author    = {Yang Zhou and
+               Mark Wilkening and
+               James Mickens and
+               Minlan Yu},
+  title     = {{SmartNIC} Security Isolation in the Cloud with {S-NIC}},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {851-869},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChowDDS024,
+  author    = {Ka-Ho Chow and
+               Umesh Deshpande and
+               Veera Deenadhayalan and
+               Sangeetha Seshadri and
+               Ling Liu},
+  title     = {Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {870-887},
+}
+
+@inproceedings{DBLP:conf/eurosys/SachidanandaS24,
+  author    = {Vighnesh Sachidananda and
+               Anirudh Sivaraman},
+  title     = {Erlang: {Application-Aware} Autoscaling for Cloud Microservices},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {888-923},
+}
+
+@inproceedings{DBLP:conf/eurosys/SukprasertSBIS24,
+  author    = {Thanathorn Sukprasert and
+               Abel Souza and
+               Noman Bashir and
+               David E. Irwin and
+               Prashant J. Shenoy},
+  title     = {On the Limitations of {Carbon-Aware} Temporal and Spatial Workload Shifting in the Cloud},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {924-941},
+}
+
+@inproceedings{DBLP:conf/eurosys/SajalZU024,
+  author    = {Sultan Mahmud Sajal and
+               Timothy Zhu and
+               Bhuvan Urgaonkar and
+               Siddhartha Sen},
+  title     = {TraceUpscaler: Upscaling Traces to Evaluate Systems at High Load},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {942-961},
+}
+
+@inproceedings{DBLP:conf/eurosys/MillerKV0ZA24,
+  author    = {Samantha Miller and
+               Anirudh Kumar and
+               Tanay Vakharia and
+               Ang Chen and
+               Danyang Zhuo and
+               Thomas E. Anderson},
+  title     = {Enoki: High Velocity Linux Kernel Scheduler Development},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {962-980},
+}
+
+@inproceedings{DBLP:conf/eurosys/JinDVWRTC24,
+  author    = {Sian Jin and
+               Sheng Di and
+               Frédéric Vivien and
+               Daoce Wang and
+               Yves Robert and
+               Dingwen Tao and
+               Franck Cappello},
+  title     = {Concealing Compression-accelerated I/O for {HPC} Applications through In Situ Task Scheduling},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {981-998},
+}
+
+@inproceedings{DBLP:conf/eurosys/SaikumarV24,
+  author    = {Dhananjay Saikumar and
+               Blesson Varghese},
+  title     = {NeuroFlux: {Memory-Efficient} {CNN} Training Using Adaptive Local Learning},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {999-1015},
+}
+
+@inproceedings{DBLP:conf/eurosys/MendozaRT24,
+  author    = {Daniel Mendoza and
+               Francisco Romero and
+               Caroline Trippel},
+  title     = {Model Selection for {Latency-Critical} Inference Serving},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1016-1038},
+}
+
+@inproceedings{DBLP:conf/eurosys/HongL0LCW024,
+  author    = {Zicong Hong and
+               Jian Lin and
+               Song Guo and
+               Sifu Luo and
+               Wuhui Chen and
+               Roger Wattenhofer and
+               Yue Yu},
+  title     = {Optimus: Warming Serverless {ML} Inference via {Inter-Function} Model Transformation},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1039-1053},
+}
+
+@inproceedings{DBLP:conf/eurosys/HuSZPZL024,
+  author    = {Hanpeng Hu and
+               Junwei Su and
+               Juntao Zhao and
+               Yanghua Peng and
+               Yibo Zhu and
+               Haibin Lin and
+               Chuan Wu},
+  title     = {CDMPP: A {Device-Model} Agnostic Framework for Latency Prediction of Tensor Programs},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1054-1074},
+}
+
+@inproceedings{DBLP:conf/eurosys/StratiMK24,
+  author    = {Foteini Strati and
+               Xianzhe Ma and
+               Ana Klimovic},
+  title     = {Orion: Interference-aware, Fine-grained {GPU} Sharing for {ML} Applications},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1075-1092},
+}
+
+@inproceedings{DBLP:conf/eurosys/AgarwalPV24,
+  author    = {Saurabh Agarwal and
+               Amar Phanishayee and
+               Shivaram Venkataraman},
+  title     = {Blox: A Modular Toolkit for Deep Learning Schedulers},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1093-1109},
+}
+
+@inproceedings{DBLP:conf/eurosys/GuptaKKVGKRS24,
+  author    = {Tanmaey Gupta and
+               Sanjeev Krishnan and
+               Rituraj Kumar and
+               Abhishek Vijeev and
+               Bhargav S. Gulavani and
+               Nipun Kwatra and
+               Ramachandran Ramjee and
+               Muthian Sivathanu},
+  title     = {{Just-In-Time} Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1110-1125},
+}
+
+@inproceedings{DBLP:conf/eurosys/DeshpandePHF24,
+  author    = {Chinmay Deshpande and
+               Fabian Parzefall and
+               Felicitas Hetzelt and
+               Michael Franz},
+  title     = {Polynima: Practical Hybrid Recompilation for Multithreaded Binaries},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1126-1141},
+}
+
+@inproceedings{DBLP:conf/eurosys/YanPZCK24,
+  author    = {Lei Yan and
+               Yueyang Pan and
+               Diyu Zhou and
+               George Candea and
+               Sanidhya Kashyap},
+  title     = {Transparent Multicore Scaling of {Single-Threaded} Network Functions},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1142-1159},
+}
+
+@inproceedings{DBLP:conf/eurosys/0001MLJLLTLTDCZ24,
+  author    = {Mingyu Wu and
+               Liang Mao and
+               Yude Lin and
+               Yifeng Jin and
+               Zhe Li and
+               Hongtao Lyu and
+               Jiawei Tang and
+               Xiaowei Lu and
+               Hao Tang and
+               Denghui Dong and
+               Haibo Chen and
+               Binyu Zang},
+  title     = {Jade: A High-throughput Concurrent Copying Garbage Collector},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1160-1174},
+}
+
+@inproceedings{DBLP:conf/eurosys/YildizARGKY24,
+  author    = {Eren Yildiz and
+               Khakim Akhunov and
+               Lorenzo Antonio Riva and
+               Arda Goknil and
+               Ivan Kurtev and
+               Kasim Sinan Yildirim},
+  title     = {Adaptable Runtime Monitoring for Intermittent Systems},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1175-1191},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhouWLZS24,
+  author    = {Ming Zhou and
+               Haining Wang and
+               Ke Li and
+               Hongsong Zhu and
+               Limin Sun},
+  title     = {Save the Bruised Striver: A Reliable Live Patching Framework for Protecting {Real-World} {PLCs}},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1192-1207},
+}
+
+@inproceedings{DBLP:conf/eurosys/TziallaWZPW24,
+  author    = {Ioanna Tzialla and
+               Jeffery Wang and
+               Jingyi Zhu and
+               Aurojit Panda and
+               Michael Walfish},
+  title     = {Efficient Auditing of Event-driven Web Applications},
+  booktitle = eurosys,
+  year      = 2024,
+  pages     = {1208-1224},
+}
+
 @inproceedings{DBLP:conf/eurosys/Chen0C023,
   author    = {Chen Chen and
                Lars Nagel and
@@ -201,7 +1149,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosys/SoaresR23,
-  author    = {Rafael Soares and
+  author    = {João Rafael Pinto Soares and
                Luís E. T. Rodrigues},
   title     = {Performance Trade-offs in Transactional Systems},
   booktitle = eurosys,
@@ -2514,7 +3462,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosys/StanciuSDP21,
-  author    = {Valeriu Daniel Stanciu and
+  author    = {Valeriu-Daniel Stanciu and
                Maarten van Steen and
                Ciprian Dobre and
                Andreas Peter},
@@ -4945,7 +5893,7 @@
 
 @inproceedings{DBLP:conf/eurosys/RiellaIJSFGR18,
   author    = {Rodrigo Jardim Riella and
-               Luciana M. Iantorno and
+               Luciana Michelotto Iantorno and
                Laerte C. R. Junior and
                Dilmari Seidel and
                Keiko V. O. Fonseca and
@@ -6715,7 +7663,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosys/TsaiJAP16,
-  author    = {Chia-che Tsai and
+  author    = {Chia-Che Tsai and
                Bhushan Jain and
                Nafees Ahmed Abdul and
                Donald E. Porter},
@@ -7885,7 +8833,7 @@
 
 @inproceedings{DBLP:conf/eurosys/JainTJP14,
   author    = {Bhushan Jain and
-               Chia-che Tsai and
+               Chia-Che Tsai and
                Jitin John and
                Donald E. Porter},
   title     = {Practical techniques to obviate setuid-to-root binaries},
@@ -7906,7 +8854,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosys/TsaiABJJJKKOP14,
-  author    = {Chia-che Tsai and
+  author    = {Chia-Che Tsai and
                Kumar Saurabh Arora and
                Nehal Bandi and
                Bhushan Jain and
@@ -11084,7 +12032,7 @@
 }
 
 @inproceedings{DBLP:conf/eurosys/TucekNLHXBZS07,
-  author    = {Joseph Tucek and
+  author    = {Joseph A. Tucek and
                James Newsome and
                Shan Lu and
                Chengdu Huang and

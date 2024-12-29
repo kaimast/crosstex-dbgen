@@ -367,12 +367,12 @@
 
 @inproceedings{DBLP:conf/pldi/SlagelMBMD0W22,
   author    = {J. Tanner Slagel and
-               César Muñoz and
+               César A. Muñoz and
                Swee Balachandran and
                Mariano M. Moscato and
                Aaron Dutle and
                Paolo Masci and
-               Lauren White},
+               Lauren M. White},
   title     = {Towards an implementation of differential dynamic logic in {PVS}},
   booktitle = pldi,
   year      = 2022,
@@ -591,7 +591,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/AhrensKA22,
-  author    = {Peter Ahrens and
+  author    = {Willow Ahrens and
                Fredrik Kjolstad and
                Saman P. Amarasinghe},
   title     = {Autoscheduling for sparse tensor algebra with an asymptotic cost model},
@@ -1117,7 +1117,7 @@
   author    = {Suresh Parthasarathy and
                Lincy Pattanaik and
                Anirudh Khatry and
-               Arun Shankar Iyer and
+               Arun Iyer and
                Arjun Radhakrishna and
                Sriram K. Rajamani and
                Mohammad Raza},
@@ -3766,7 +3766,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/IyerJPRR19,
-  author    = {Arun Shankar Iyer and
+  author    = {Arun Iyer and
                Manohar Jonnalagedda and
                Suresh Parthasarathy and
                Arjun Radhakrishna and
@@ -6098,7 +6098,7 @@
 @inproceedings{DBLP:conf/pldi/NoonanLC16,
   author    = {Matthew Noonan and
                Alexey Loginov and
-               David Cok},
+               David R. Cok},
   title     = {Polymorphic type inference for machine code},
   booktitle = pldi,
   year      = 2016,
@@ -12660,7 +12660,7 @@
   author    = {Ben Liblit and
                Mayur Naik and
                Alice X. Zheng and
-               Alexander Aiken and
+               Alex Aiken and
                Michael I. Jordan},
   title     = {Scalable statistical bug isolation},
   booktitle = pldi,
@@ -13132,7 +13132,7 @@
 
 @inproceedings{DBLP:conf/pldi/KodumalA04,
   author    = {John Kodumal and
-               Alexander Aiken},
+               Alex Aiken},
   title     = {The set constraint/{CFL} reachability connection in practice},
   booktitle = pldi,
   year      = 2004,
@@ -13323,7 +13323,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/AikenFKT03,
-  author    = {Alexander Aiken and
+  author    = {Alex Aiken and
                Jeffrey S. Foster and
                John Kodumal and
                Tachio Terauchi},
@@ -13335,7 +13335,7 @@
 
 @inproceedings{DBLP:conf/pldi/LiblitAZJ03,
   author    = {Ben Liblit and
-               Alexander Aiken and
+               Alex Aiken and
                Alice X. Zheng and
                Michael I. Jordan},
   title     = {Bug isolation via remote program sampling},
@@ -13517,7 +13517,7 @@
 @inproceedings{DBLP:conf/pldi/FosterTA02,
   author    = {Jeffrey S. Foster and
                Tachio Terauchi and
-               Alexander Aiken},
+               Alex Aiken},
   title     = {{Flow-Sensitive} Type Qualifiers},
   booktitle = pldi,
   year      = 2002,
@@ -13953,7 +13953,7 @@
 
 @inproceedings{DBLP:conf/pldi/GayA01,
   author    = {David Gay and
-               Alexander Aiken},
+               Alex Aiken},
   title     = {Language Support for Regions},
   booktitle = pldi,
   year      = 2001,
@@ -13984,7 +13984,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/BakshiPL01,
-  author    = {A. Bakshi and
+  author    = {Amol Bakshi and
                Viktor K. Prasanna and
                Ákos Lédeczi},
   title     = {MILAN: A Model Based Integrated Simulation Framework for Design of Embedded Systems},
@@ -14018,10 +14018,10 @@
 
 @inproceedings{DBLP:conf/pldi/ZiegenbeinWRJE01,
   author    = {Dirk Ziegenbein and
-               F. Wolf and
-               K. Richter and
+               Fabian Wolf and
+               Kai Richter and
                Marek Jersak and
-               R. Ernst},
+               Rolf Ernst},
   title     = {{Interval-Based} Analysis of Software Processes},
   booktitle = pldi,
   year      = 2001,
@@ -15239,7 +15239,7 @@
 
 @inproceedings{DBLP:conf/pldi/GayA98,
   author    = {David Gay and
-               Alexander Aiken},
+               Alex Aiken},
   title     = {Memory Management with Explicit Regions},
   booktitle = pldi,
   year      = 1998,
@@ -18378,7 +18378,7 @@
 }
 
 @inproceedings{DBLP:conf/pldi/Robison87,
-  author    = {Arch D. Robison},
+  author    = {Arch Douglas Robison},
   title     = {The Illinois functional programming interpreter},
   booktitle = pldi,
   year      = 1987,

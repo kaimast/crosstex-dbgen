@@ -1,5 +1,453 @@
 @include journals-cs
 
+@article{DBLP:journals/jacm/Ovens24,
+  author    = {Sean Ovens},
+  title     = {The Space Complexity of Consensus from Swap},
+  journal   = jacm,
+  volume    = {71},
+  number    = {1},
+  year      = 2024,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/jacm/SteinS24,
+  author    = {Dario Stein and
+               Sam Staton},
+  title     = {Probabilistic Programming with Exact Conditions},
+  journal   = jacm,
+  volume    = {71},
+  number    = {1},
+  year      = 2024,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/jacm/GeorgesGSTTDB24,
+  author    = {Aïna Linn Georges and
+               Armaël Guéneau and
+               Thomas Van Strydonck and
+               Amin Timany and
+               Alix Trieu and
+               Dominique Devriese and
+               Lars Birkedal},
+  title     = {Cerise: Program Verification on a Capability Machine in the Presence of Untrusted Code},
+  journal   = jacm,
+  volume    = {71},
+  number    = {1},
+  year      = 2024,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/jacm/ChaudhuryGM24,
+  author    = {Bhaskar Ray Chaudhury and
+               Jugal Garg and
+               Kurt Mehlhorn},
+  title     = {{EFX} Exists for Three Agents},
+  journal   = jacm,
+  volume    = {71},
+  number    = {1},
+  year      = 2024,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/jacm/Dutting0NPR24,
+  author    = {Paul Dütting and
+               Zhe Feng and
+               Harikrishna Narasimhan and
+               David C. Parkes and
+               Sai Srivatsa Ravindranath},
+  title     = {Optimal Auctions through Deep Learning: Advances in Differentiable Economics},
+  journal   = jacm,
+  volume    = {71},
+  number    = {1},
+  year      = 2024,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/jacm/0005024,
+  author    = {Xiao Hu and
+               Yufei Tao},
+  title     = {Parallel Acyclic Joins: Optimal Algorithms and Cyclicity Separation},
+  journal   = jacm,
+  volume    = {71},
+  number    = {1},
+  year      = 2024,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/jacm/LichterS24,
+  author    = {Moritz Lichter and
+               Pascal Schweitzer},
+  title     = {Choiceless Polynomial Time with Witnessed Symmetric Choice},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/jacm/KhamisNPSW24,
+  author    = {Mahmoud Abo Khamis and
+               Hung Q. Ngo and
+               Reinhard Pichler and
+               Dan Suciu and
+               Yisu Remy Wang},
+  title     = {Convergence of datalog over (Pre-) Semirings},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/jacm/Kong24,
+  author    = {Yuqing Kong},
+  title     = {Dominantly Truthful Peer Prediction Mechanisms with a Finite Number of Tasks},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/jacm/CohenAddadDKPT24,
+  author    = {Vincent Cohen-Addad and
+               Debarati Das and
+               Evangelos Kipouridis and
+               Nikos Parotsidis and
+               Mikkel Thorup},
+  title     = {Fitting Distances by Tree Metrics Minimizing the Total Error within a Constant Factor},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/jacm/NeigerSSV24,
+  author    = {Vincent Neiger and
+               Bruno Salvy and
+               Éric Schost and
+               Gilles Villard},
+  title     = {Faster Modular Composition},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/jacm/HuangPZ24,
+  author    = {Shang-En Huang and
+               Seth Pettie and
+               Leqi Zhu},
+  title     = {Byzantine Agreement with Optimal Resilience via Statistical Fraud Detection},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/jacm/BalcanDSV24,
+  author    = {Maria-Florina Balcan and
+               Travis Dick and
+               Tuomas Sandholm and
+               Ellen Vitercik},
+  title     = {Learning to Branch: Generalization Guarantees and Limits of {Data-Independent} Discretization},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/jacm/ValeSC24,
+  author    = {Arthur Oliveira Vale and
+               Zhong Shao and
+               Yixuan Chen},
+  title     = {A Compositional Theory of Linearizability},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/jacm/ChouGSV24,
+  author    = {Chi-Ning Chou and
+               Alexander Golovnev and
+               Madhu Sudan and
+               Santhoshini Velusamy},
+  title     = {Sketching Approximability of All Finite {CSPs}},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/jacm/EsparzaRS24,
+  author    = {Javier Esparza and
+               Rubén Rubio and
+               Salomon Sickert},
+  title     = {Efficient Normalization of Linear Temporal Logic},
+  journal   = jacm,
+  volume    = {71},
+  number    = {2},
+  year      = 2024,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/jacm/DinitzFGN24,
+  author    = {Michael Dinitz and
+               Jeremy T. Fineman and
+               Seth Gilbert and
+               Calvin Newport},
+  title     = {Smoothed Analysis of Information Spreading in Dynamic Networks},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {17},
+}
+
+@article{DBLP:journals/jacm/RonZewiR24,
+  author    = {Noga Ron-Zewi and
+               Ron Rothblum},
+  title     = {Local Proofs Approaching the Witness Length},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {18},
+}
+
+@article{DBLP:journals/jacm/HaghtalabRS24,
+  author    = {Nika Haghtalab and
+               Tim Roughgarden and
+               Abhishek Shetty},
+  title     = {Smoothed Analysis with Adaptive Adversaries},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {19},
+}
+
+@article{DBLP:journals/jacm/YamakawaZ24,
+  author    = {Takashi Yamakawa and
+               Mark Zhandry},
+  title     = {Verifiable Quantum Advantage without Structure},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {20},
+}
+
+@article{DBLP:journals/jacm/BonnetGMSTT24,
+  author    = {Édouard Bonnet and
+               Ugo Giocanti and
+               Patrice Ossona de Mendez and
+               Pierre Simon and
+               Stéphan Thomassé and
+               Szymon Torunczyk},
+  title     = {{Twin-Width} IV: Ordered Graphs and Matrices},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {21},
+}
+
+@article{DBLP:journals/jacm/BhargavaGGKU24,
+  author    = {Vishwas Bhargava and
+               Sumanta Ghosh and
+               Zeyu Guo and
+               Mrinal Kumar and
+               Chris Umans},
+  title     = {Fast Multivariate Multipoint Evaluation over All Finite Fields},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {22},
+}
+
+@article{DBLP:journals/jacm/DinurKK24,
+  author    = {Itai Dinur and
+               Nathan Keller and
+               Ohad Klein},
+  title     = {Fine-grained Cryptanalysis: Tight Conditional Bounds for Dense {k-SUM} and {k-XOR}},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {23},
+}
+
+@article{DBLP:journals/jacm/AltschulerC24,
+  author    = {Jason M. Altschuler and
+               Sinho Chewi},
+  title     = {Faster High-accuracy Log-concave Sampling via Algorithmic Warm Starts},
+  journal   = jacm,
+  volume    = {71},
+  number    = {3},
+  year      = 2024,
+  pages     = {24},
+}
+
+@article{DBLP:journals/jacm/GarayKL24,
+  author    = {Juan A. Garay and
+               Aggelos Kiayias and
+               Nikos Leonardos},
+  title     = {The Bitcoin Backbone Protocol: Analysis and Applications},
+  journal   = jacm,
+  volume    = {71},
+  number    = {4},
+  year      = 2024,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/jacm/GoosHJMPRT24,
+  author    = {Mika Göös and
+               Alexandros Hollender and
+               Siddhartha Jain and
+               Gilbert Maystre and
+               William Pires and
+               Robert Robere and
+               Ran Tao},
+  title     = {Separations in Proof Complexity and {TFNP}},
+  journal   = jacm,
+  volume    = {71},
+  number    = {4},
+  year      = 2024,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/jacm/ThilikosW24,
+  author    = {Dimitrios M. Thilikos and
+               Sebastian Wiederrecht},
+  title     = {Killing a Vortex},
+  journal   = jacm,
+  volume    = {71},
+  number    = {4},
+  year      = 2024,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/jacm/BuchetDK24,
+  author    = {Mickaël Buchet and
+               Bianca B. Dornelas and
+               Michael Kerber},
+  title     = {Sparse Higher Order Čech Filtrations},
+  journal   = jacm,
+  volume    = {71},
+  number    = {4},
+  year      = 2024,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/jacm/ChewiPLLN24,
+  author    = {Sinho Chewi and
+               Jaume de Dios Pont and
+               Jerry Li and
+               Chen Lu and
+               Shyam Narayanan},
+  title     = {Query Lower Bounds for Log-concave Sampling},
+  journal   = jacm,
+  volume    = {71},
+  number    = {4},
+  year      = 2024,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/jacm/Roughgarden24,
+  author    = {Tim Roughgarden},
+  title     = {Transaction Fee Mechanism Design},
+  journal   = jacm,
+  volume    = {71},
+  number    = {4},
+  year      = 2024,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/jacm/DeligkasFHM24,
+  author    = {Argyrios Deligkas and
+               John Fearnley and
+               Alexandros Hollender and
+               Themistoklis Melissourgos},
+  title     = {Pure-Circuit: Tight Inapproximability for {PPAD}},
+  journal   = jacm,
+  volume    = {71},
+  number    = {5},
+  year      = 2024,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/jacm/BalcanDDKSV24,
+  author    = {Maria-Florina Balcan and
+               Dan F. DeBlasio and
+               Travis Dick and
+               Carl Kingsford and
+               Tuomas Sandholm and
+               Ellen Vitercik},
+  title     = {How Much Data Is Sufficient to Learn {High-Performing} Algorithms?},
+  journal   = jacm,
+  volume    = {71},
+  number    = {5},
+  year      = 2024,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/jacm/BhattacharyaKSW24,
+  author    = {Sayan Bhattacharya and
+               Peter Kiss and
+               Thatchaphol Saranurak and
+               David Wajc},
+  title     = {Dynamic Matching with Better-than-2 Approximation in Polylogarithmic Update Time},
+  journal   = jacm,
+  volume    = {71},
+  number    = {5},
+  year      = 2024,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/jacm/AdilKPS24,
+  author    = {Deeksha Adil and
+               Rasmus Kyng and
+               Richard Peng and
+               Sushant Sachdeva},
+  title     = {Fast Algorithms for ℓ{p-Regression}},
+  journal   = jacm,
+  volume    = {71},
+  number    = {5},
+  year      = 2024,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/jacm/MatsumotoM24,
+  author    = {Namiko Matsumoto and
+               Arya Mazumdar},
+  title     = {Binary Iterative Hard Thresholding Converges with Optimal Number of Measurements for 1-Bit Compressed Sensing},
+  journal   = jacm,
+  volume    = {71},
+  number    = {5},
+  year      = 2024,
+  pages     = {35-1},
+}
+
+@article{DBLP:journals/jacm/MottetP24,
+  author    = {Antoine Mottet and
+               Michael Pinsker},
+  title     = {Smooth approximations: An algebraic approach to {CSPs} over finitely bounded homogeneous structures},
+  journal   = jacm,
+  volume    = {71},
+  number    = {5},
+  year      = 2024,
+  pages     = {36-1},
+}
+
 @article{DBLP:journals/jacm/Kock23,
   author    = {Joachim Kock},
   title     = {Whole-grain Petri Nets and Processes},
@@ -265,6 +713,240 @@
   number    = {3},
   year      = 2023,
   pages     = {23-1},
+}
+
+@article{DBLP:journals/jacm/FeldmanNSZ23,
+  author    = {Moran Feldman and
+               Ashkan Norouzi-Fard and
+               Ola Svensson and
+               Rico Zenklusen},
+  title     = {The {One-Way} Communication Complexity of Submodular Maximization with Applications to Streaming and Robustness},
+  journal   = jacm,
+  volume    = {70},
+  number    = {4},
+  year      = 2023,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/jacm/ChenRTY23,
+  author    = {Lijie Chen and
+               Ron D. Rothblum and
+               Roei Tell and
+               Eylon Yogev},
+  title     = {On Exponential-time Hypotheses, Derandomization, and Circuit Lower Bounds},
+  journal   = jacm,
+  volume    = {70},
+  number    = {4},
+  year      = 2023,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/jacm/ChonevOW23,
+  author    = {Ventsislav Chonev and
+               Joël Ouaknine and
+               James Worrell},
+  title     = {On the Zeros of Exponential Polynomials},
+  journal   = jacm,
+  volume    = {70},
+  number    = {4},
+  year      = 2023,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/jacm/CotumaccioDPP23,
+  author    = {Nicola Cotumaccio and
+               Giovanna D'Agostino and
+               Alberto Policriti and
+               Nicola Prezza},
+  title     = {Co-lexicographically Ordering Automata and Regular Languages - Part I},
+  journal   = jacm,
+  volume    = {70},
+  number    = {4},
+  year      = 2023,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/jacm/BodwinP23,
+  author    = {Greg Bodwin and
+               Merav Parter},
+  title     = {Restorable Shortest Path Tiebreaking for {Edge-Faulty} Graphs},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/jacm/HrushovskiOPW23,
+  author    = {Ehud Hrushovski and
+               Joël Ouaknine and
+               Amaury Pouly and
+               James Worrell},
+  title     = {On Strongest Algebraic Program Invariants},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/jacm/CormodeKLTV23,
+  author    = {Graham Cormode and
+               Zohar S. Karnin and
+               Edo Liberty and
+               Justin Thaler and
+               Pavel Veselý},
+  title     = {Relative Error Streaming Quantiles},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/jacm/BenSassonCIKS23,
+  author    = {Eli Ben-Sasson and
+               Dan Carmon and
+               Yuval Ishai and
+               Swastik Kopparty and
+               Shubhangi Saraf},
+  title     = {Proximity Gaps for {Reed-Solomon} Codes},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/jacm/BerkholzN23,
+  author    = {Christoph Berkholz and
+               Jakob Nordström},
+  title     = {Near-optimal Lower Bounds on Quantifier Depth and {Weisfeiler-Leman} Refinement Steps},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/jacm/BaltagBF23,
+  author    = {Alexandru Baltag and
+               Nick Bezhanishvili and
+               David Fernández-Duque},
+  title     = {The Topological Mu-Calculus: Completeness and Decidability},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/jacm/BehnezhadHH23,
+  author    = {Soheil Behnezhad and
+               MohammadTaghi Hajiaghayi and
+               David G. Harris},
+  title     = {Exponentially Faster Massively Parallel Maximal Matching},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/jacm/GoubaultLarrecqJT23,
+  author    = {Jean Goubault-Larrecq and
+               Xiaodong Jia and
+               Clément Théron},
+  title     = {A Domain-theoretic Approach to Statistical Programming Languages},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {35-1},
+}
+
+@article{DBLP:journals/jacm/JinL23,
+  author    = {Yaonan Jin and
+               Pinyan Lu},
+  title     = {First Price Auction is 1-1/e2 Efficient},
+  journal   = jacm,
+  volume    = {70},
+  number    = {5},
+  year      = 2023,
+  pages     = {36-1},
+}
+
+@article{DBLP:journals/jacm/LosS23,
+  author    = {Dimitrios Los and
+               Thomas Sauerwald},
+  title     = {Balanced Allocations with the Choice of Noise},
+  journal   = jacm,
+  volume    = {70},
+  number    = {6},
+  year      = 2023,
+  pages     = {37-1},
+}
+
+@article{DBLP:journals/jacm/BenDavidB23,
+  author    = {Shalev Ben-David and
+               Eric Blais},
+  title     = {A New Minimax Theorem for Randomized Algorithms},
+  journal   = jacm,
+  volume    = {70},
+  number    = {6},
+  year      = 2023,
+  pages     = {38-1},
+}
+
+@article{DBLP:journals/jacm/TangWZ23,
+  author    = {Zhihao Gavin Tang and
+               Xiaowei Wu and
+               Yuhao Zhang},
+  title     = {Toward a Better Understanding of Randomized Greedy Matching},
+  journal   = jacm,
+  volume    = {70},
+  number    = {6},
+  year      = 2023,
+  pages     = {39-1},
+}
+
+@article{DBLP:journals/jacm/BenderCFKT23,
+  author    = {Michael A. Bender and
+               Alex Conway and
+               Martin Farach-Colton and
+               William Kuszmaul and
+               Guido Tagliavini},
+  title     = {Iceberg Hashing: Optimizing Many {Hash-Table} Criteria at Once},
+  journal   = jacm,
+  volume    = {70},
+  number    = {6},
+  year      = 2023,
+  pages     = {40-1},
+}
+
+@article{DBLP:journals/jacm/RomeroWZ23,
+  author    = {Miguel Romero and
+               Marcin Wrochna and
+               Stanislav Zivný},
+  title     = {Pliability and Approximating {Max-CSPs}},
+  journal   = jacm,
+  volume    = {70},
+  number    = {6},
+  year      = 2023,
+  pages     = {41-1},
+}
+
+@article{DBLP:journals/jacm/BhargavaGKM23,
+  author    = {Vishwas Bhargava and
+               Sumanta Ghosh and
+               Mrinal Kumar and
+               Chandra Kanta Mohapatra},
+  title     = {Fast, Algebraic Multivariate Multipoint Evaluation in Small Characteristic and Applications},
+  journal   = jacm,
+  volume    = {70},
+  number    = {6},
+  year      = 2023,
+  pages     = {42-1},
 }
 
 @article{DBLP:journals/jacm/KalaiRR22,
@@ -9285,7 +9967,7 @@
 }
 
 @article{DBLP:journals/jacm/JayasimhaSMM03,
-  author    = {D. N. Jayasimha and
+  author    = {Doddaballapur Narasimha-Murthy Jayasimha and
                Loren Schwiebert and
                D. Manivannan and
                Jeff A. May},
@@ -10587,7 +11269,7 @@
 
 @article{DBLP:journals/jacm/RawlingS00,
   author    = {J. P. Rawling and
-               S. A. Selesnick},
+               Stephen A. Selesnick},
   title     = {Orthologic and quantum logic: models and computational elements},
   journal   = jacm,
   volume    = {47},
@@ -22122,7 +22804,7 @@
 @article{DBLP:journals/jacm/DeMilloVS77,
   author    = {Richard A. DeMillo and
                K. Vairavan and
-               E. Sycara-Cyranski},
+               Ekaterini Sycara-Cyranski},
   title     = {A Study of Schedules as Models of Synchronous Parallel Computation},
   journal   = jacm,
   volume    = {24},
@@ -22818,7 +23500,7 @@
 }
 
 @article{DBLP:journals/jacm/Peterson76,
-  author    = {G. E. Peterson},
+  author    = {Gerald E. Peterson},
   title     = {Theorem Proving with Lemmas},
   journal   = jacm,
   volume    = {23},
@@ -22860,7 +23542,7 @@
 }
 
 @article{DBLP:journals/jacm/HellerST76,
-  author    = {D. E. Heller and
+  author    = {Don Eric Heller and
                D. K. Stevenson and
                Joseph F. Traub},
   title     = {Accelerated Iterative Methods for the Solution of Tridiagonal Systems on Parallel Computers},
@@ -22894,7 +23576,7 @@
 
 @article{DBLP:journals/jacm/RosbergA76,
   author    = {Zvi Rosberg and
-               I. Adiri},
+               Igal Adiri},
   title     = {Multilevel Queues with Extremal Priorities},
   journal   = jacm,
   volume    = {23},
@@ -23551,7 +24233,7 @@
 
 @article{DBLP:journals/jacm/FranaszekW74,
   author    = {Peter A. Franaszek and
-               T. J. Wagner},
+               Terry J. Wagner},
   title     = {Some {Distribution-Free} Aspects of Paging Algorithm Performance},
   journal   = jacm,
   volume    = {21},
@@ -23733,7 +24415,7 @@
 }
 
 @article{DBLP:journals/jacm/BermanC74,
-  author    = {G. Berman and
+  author    = {Gerald Berman and
                A. W. Colijn},
   title     = {A Modified List Technique Allowing Binary Search},
   journal   = jacm,
@@ -23745,7 +24427,7 @@
 
 @article{DBLP:journals/jacm/ChienM74,
   author    = {Robert T. Chien and
-               Edward A. Mark},
+               Edward Abraham Mark},
   title     = {A Document Storage Method Based on Polarized Distance},
   journal   = jacm,
   volume    = {21},
@@ -24575,7 +25257,7 @@
 
 @article{DBLP:journals/jacm/LewisP73,
   author    = {Ted G. Lewis and
-               W. H. Payne},
+               William H. Payne},
   title     = {Generalized Feedback Shift Register Pseudorandom Number Algorithm},
   journal   = jacm,
   volume    = {20},
@@ -25252,7 +25934,7 @@
 
 @article{DBLP:journals/jacm/FrazerB72,
   author    = {W. Donald Frazer and
-               B. T. Bennett},
+               Brian T. Bennett},
   title     = {Bounds on Optimal Merge Performance, and a Strategy for Optimality},
   journal   = jacm,
   volume    = {19},
@@ -25867,7 +26549,7 @@
 
 @article{DBLP:journals/jacm/IraniW71,
   author    = {Keki B. Irani and
-               V. L. Wallace},
+               Victor L. Wallace},
   title     = {On Network Linguistics and the Conversational Design of Queueing Networks},
   journal   = jacm,
   volume    = {18},
@@ -26231,7 +26913,7 @@
 }
 
 @article{DBLP:journals/jacm/Caviness70,
-  author    = {B. F. Caviness},
+  author    = {Bob F. Caviness},
   title     = {On Canonical Forms and Simplification},
   journal   = jacm,
   volume    = {17},
@@ -28360,7 +29042,7 @@
 }
 
 @article{DBLP:journals/jacm/Schwartz66,
-  author    = {J. Schwartz},
+  author    = {Jack Schwartz},
   title     = {Large Parallel Computers},
   journal   = jacm,
   volume    = {13},
@@ -28961,7 +29643,7 @@
 
 @article{DBLP:journals/jacm/GlassC65,
   author    = {H. Glass and
-               L. Cooper},
+               Leon Cooper},
   title     = {Sequential Search: A Method for Solving Constrained Optimization Problems},
   journal   = jacm,
   volume    = {12},
@@ -30219,7 +30901,7 @@
 }
 
 @article{DBLP:journals/jacm/Tainiter63,
-  author    = {M. Tainiter},
+  author    = {Melvin Tainiter},
   title     = {Addressing for {Random-Access} Storage with Multiple Bucket Capacities},
   journal   = jacm,
   volume    = {10},
@@ -30414,7 +31096,7 @@
 }
 
 @article{DBLP:journals/jacm/Grau63,
-  author    = {A. A. Grau},
+  author    = {Albert A. Grau},
   title     = {On the Reduction of Number Range in the Use of the Graeffe Process},
   journal   = jacm,
   volume    = {10},
@@ -30848,7 +31530,7 @@
 }
 
 @article{DBLP:journals/jacm/Grau62,
-  author    = {A. A. Grau},
+  author    = {Albert A. Grau},
   title     = {A {Translator-Oriented} Symbolic Programming Language},
   journal   = jacm,
   volume    = {9},
@@ -31749,7 +32431,7 @@
 
 @article{DBLP:journals/jacm/MillerTZ60,
   author    = {C. E. Miller and
-               A. W. Tucker and
+               Albert W. Tucker and
                R. A. Zemlin},
   title     = {Integer Programming Formulation of Traveling Salesman Problems},
   journal   = jacm,
@@ -32400,7 +33082,7 @@
 }
 
 @article{DBLP:journals/jacm/Bashkow58,
-  author    = {T. R. Bashkow},
+  author    = {Theodore R. Bashkow},
   title     = {A "Curve Plotting" Routine for the Inverse Laplace Transform of Rational Functions},
   journal   = jacm,
   volume    = {5},
@@ -32933,7 +33615,7 @@
 @article{DBLP:journals/jacm/KisterSUWW57,
   author    = {J. Kister and
                P. Stein and
-               S. Ulam and
+               Stanislaw M. Ulam and
                W. Walden and
                M. Wells},
   title     = {Experiments in Chess},
@@ -33125,7 +33807,7 @@
 }
 
 @article{DBLP:journals/jacm/NelsonJ57,
-  author    = {R. T. Nelson and
+  author    = {Rosser T. Nelson and
                J. R. Jackson},
   title     = {{SWAC} Computations for Some m×n Scheduling Problems},
   journal   = jacm,

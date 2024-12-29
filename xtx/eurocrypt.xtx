@@ -1,5 +1,1088 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurocrypt/BriaudBPS24,
+  author    = {Pierre Briaud and
+               Maxime Bros and
+               Ray A. Perlner and
+               Daniel Smith-Tone},
+  title     = {Practical Attack on All Parameters of the {DME} Signature Scheme},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-29},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/Heath24,
+  author    = {David Heath},
+  title     = {Efficient Arithmetic in Garbled Circuits},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-31},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BanfiGHMR24,
+  author    = {Fabio Banfi and
+               Konstantin Gegier and
+               Martin Hirt and
+               Ueli Maurer and
+               Guilherme Rito},
+  title     = {Anamorphic Encryption, Revisited},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DartoisLRW24,
+  author    = {Pierrick Dartois and
+               Antonin Leroux and
+               Damien Robert and
+               Benjamin Wesolowski},
+  title     = {SQIsignHD: New Dimensions in Cryptography},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HamoudiLS24,
+  author    = {Yassine Hamoudi and
+               Qipeng Liu and
+               Makrand Sinha},
+  title     = {The {NISQ} Complexity of Collision Finding},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-32},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ArunST24,
+  author    = {Arasu Arun and
+               Srinath T. V. Setty and
+               Justin Thaler},
+  title     = {Jolt: {SNARKs} for Virtual Machines via Lookups},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-33},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/CanalesMartinezCHRSS24,
+  author    = {Isaac Andrés Canales Martinez and
+               Jorge Chávez-Saab and
+               Anna Hambitzer and
+               Francisco Rodríguez-Henríquez and
+               Nitin Satpute and
+               Adi Shamir},
+  title     = {Polynomial Time Cryptanalytic Extraction of Neural Network Models},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {3-33},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/Xagawa24,
+  author    = {Keita Xagawa},
+  title     = {Signatures with {Memory-Tight} Security in the Quantum Random Oracle Model},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {30-58},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AlonOV24,
+  author    = {Bar Alon and
+               Eran Omri and
+               Muthuramakrishnan Venkitasubramaniam},
+  title     = {Can Alice and Bob Guarantee Output to Carol?},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {32-61},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BallSS24,
+  author    = {Marshall Ball and
+               Ronen Shaltiel and
+               Jad Silbak},
+  title     = {Non-malleable Codes with Optimal Rate for {Poly-Size} Circuits},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {33-54},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/CatalanoGM24,
+  author    = {Dario Catalano and
+               Emanuele Giunta and
+               Francesco Migliaro},
+  title     = {Anamorphic Encryption: New Constructions and Homomorphic Realizations},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {33-62},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/Dinur24,
+  author    = {Itai Dinur},
+  title     = {Tight Indistinguishability Bounds for the {XOR} of Independent Random Permutations by Fourier Analysis},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {33-62},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/KiayiasLS24,
+  author    = {Aggelos Kiayias and
+               Nikos Leonardos and
+               Yu Shen},
+  title     = {Ordering Transactions with Bounded Unfairness: Definitions, Complexity and Constructions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {34-63},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LipmaaPS24,
+  author    = {Helger Lipmaa and
+               Roberto Parisella and
+               Janno Siim},
+  title     = {{Constant-Size} {zk-SNARKs} in {ROM} from Falsifiable Assumptions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {34-64},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ChaidosKRZ24,
+  author    = {Pyrros Chaidos and
+               Aggelos Kiayias and
+               Leonid Reyzin and
+               Anatoliy Zinovyev},
+  title     = {Approximate Lower Bound Arguments},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {55-84},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/PanRZ24,
+  author    = {Jiaxin Pan and
+               Doreen Riepel and
+               Runzhi Zeng},
+  title     = {Key Exchange with Tight (Full) Forward Secrecy via Key Confirmation},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {59-89},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BenhamoudaHKMR24,
+  author    = {Fabrice Benhamouda and
+               Shai Halevi and
+               Hugo Krawczyk and
+               Yiping Ma and
+               Tal Rabin},
+  title     = {SPRINT: {High-Throughput} Robust Distributed Schnorr Signatures},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {62-91},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ManulisN24,
+  author    = {Mark Manulis and
+               Jérôme Nguyen},
+  title     = {Fully Homomorphic Encryption Beyond IND-CCA1 Security: Integrity Through Verifiability},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {63-93},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/SantosEMR24,
+  author    = {Maria Corte-Real Santos and
+               Jonathan Komada Eriksen and
+               Michael Meyer and
+               Krijn Reijnders},
+  title     = {AprèsSQI: Extra Fast Verification for {SQIsign} Using {Extension-Field} Signing},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {63-93},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LiuZhangMT24,
+  author    = {Chen-Da Liu-Zhang and
+               Christian Matt and
+               Søren Eller Thomsen},
+  title     = {Asymptotically Optimal Message Dissemination with Applications to Blockchains},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {64-95},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DujmovicH24,
+  author    = {Jesko Dujmovic and
+               Mohammad Hajiabadi},
+  title     = {{Lower-Bounds} on {Public-Key} Operations in {PIR}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {65-87},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BartusekGKMRR24,
+  author    = {James Bartusek and
+               Vipul Goyal and
+               Dakshita Khurana and
+               Giulio Malavolta and
+               Justin Raizes and
+               Bhaskar Roberts},
+  title     = {Software with Certified Deletion},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {85-111},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BuiCMPR24,
+  author    = {Dung Bui and
+               Geoffroy Couteau and
+               Pierre Meyer and
+               Alain Passelègue and
+               Mahshid Riahinia},
+  title     = {Fast {Public-Key} Silent {OT} and More from Constrained {Naor-Reingold}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {88-118},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AlbrechtFLN24,
+  author    = {Martin R. Albrecht and
+               Giacomo Fenzi and
+               Oleksandra Lapiha and
+               Ngoc Khanh Nguyen},
+  title     = {SLAP: Succinct {Lattice-Based} Polynomial Commitments from Standard Assumptions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {90-119},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/EriguchiKN24,
+  author    = {Reo Eriguchi and
+               Kaoru Kurosawa and
+               Koji Nuida},
+  title     = {Efficient and Generic Methods to Achieve Active Security in Private Information Retrieval and More Advanced Database Search},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {92-121},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BaeCKS24,
+  author    = {Youngjin Bae and
+               Jung Hee Cheon and
+               Jaehyung Kim and
+               Damien Stehlé},
+  title     = {Bootstrapping Bits with {CKKS}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {94-123},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GarayKS24,
+  author    = {Juan A. Garay and
+               Aggelos Kiayias and
+               Yu Shen},
+  title     = {{Proof-of-Work-Based} Consensus in {Expected-Constant} Time},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {96-125},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/NaitoSS24,
+  author    = {Yusuke Naito and
+               Yu Sasaki and
+               Takeshi Sugawara},
+  title     = {The Exact Multi-user Security of (Tweakable) Key Alternating Ciphers with a Single Permutation},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {97-127},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/FreitagPP24,
+  author    = {Cody Freitag and
+               Omer Paneth and
+               Rafael Pass},
+  title     = {Public-Coin, Complexity-Preserving, Succinct Arguments of Knowledge for {NP} from {Collision-Resistance}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {112-141},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ChungHTZ24,
+  author    = {Kai-Min Chung and
+               Mi-Ying (Miryam) Huang and
+               Er-Cheng Tang and
+               Jiapeng Zhang},
+  title     = {{Best-of-Both-Worlds} Multiparty Quantum Computation with Publicly Verifiable Identifiable Abort},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {119-148},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LyuLH24,
+  author    = {You Lyu and
+               Shengli Liu and
+               Shuai Han},
+  title     = {Universal Composable Password Authenticated Key Exchange for the {Post-Quantum} World},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {120-150},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AbramDIN24,
+  author    = {Damiano Abram and
+               Jack Doerner and
+               Yuval Ishai and
+               Varun Narayanan},
+  title     = {{Constant-Round} {Simulation-Secure} Coin Tossing Extension with Guaranteed Output},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {122-154},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/FuchsbauerW24,
+  author    = {Georg Fuchsbauer and
+               Mathias Wolf},
+  title     = {Concurrently Secure Blind Schnorr Signatures},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {124-160},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DunkelmanGKLMM24,
+  author    = {Orr Dunkelman and
+               Shibam Ghosh and
+               Nathan Keller and
+               Gaëtan Leurent and
+               Avichai Marmor and
+               Victor Mollimard},
+  title     = {Partial Sums Meet FFT: Improved Attack on 6-Round {AES}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {128-157},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/CremersLW24,
+  author    = {Cas Cremers and
+               Julian Loss and
+               Benedikt Wagner},
+  title     = {A Holistic Security Analysis of Monero Transactions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {129-159},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GiuntaS24,
+  author    = {Emanuele Giunta and
+               Alistair Stewart},
+  title     = {Unbiasable Verifiable Random Functions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {142-167},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LiuWYY24,
+  author    = {Hanlin Liu and
+               Xiao Wang and
+               Kang Yang and
+               Yu Yu},
+  title     = {The Hardness of {LPN} over Any Integer Ring and Field for {PCG} Applications},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {149-179},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DucasEEK24,
+  author    = {Léo Ducas and
+               Andre Esser and
+               Simona Etinski and
+               Elena Kirshanova},
+  title     = {Asymptotics and Improvements of Sieving for Codes},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {151-180},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LouMS24,
+  author    = {Paul Lou and
+               Nathan Manohar and
+               Amit Sahai},
+  title     = {Witness Semantic Security},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {155-184},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LiLW24,
+  author    = {Yingxin Li and
+               Fukang Liu and
+               Gaoli Wang},
+  title     = {New Records in Collision Attacks on SHA-2},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {158-186},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/NarayananQT24,
+  author    = {Anand Kumar Narayanan and
+               Youming Qiao and
+               Gang Tang},
+  title     = {Algorithms for Matrix Code and Alternating Trilinear Form Equivalences via New Isomorphism Invariants},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {160-187},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GerhartSST24,
+  author    = {Paul Gerhart and
+               Dominique Schröder and
+               Pratik Soni and
+               Sri Aravinda Krishnan Thyagarajan},
+  title     = {Foundations of Adaptor Signatures},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {161-189},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BrodskyCJP24,
+  author    = {Maya Farber Brodsky and
+               Arka Rai Choudhuri and
+               Abhishek Jain and
+               Omer Paneth},
+  title     = {{Monotone-Policy} Aggregate Signatures},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {168-195},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/SettyTW24,
+  author    = {Srinath T. V. Setty and
+               Justin Thaler and
+               Riad S. Wahby},
+  title     = {Unlocking the Lookup Singularity with Lasso},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {180-209},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/FeoFP24,
+  author    = {Luca De Feo and
+               Tako Boris Fouotsa and
+               Lorenz Panny},
+  title     = {Isogeny Problems with Level Structure},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {181-204},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HeathKN24,
+  author    = {David Heath and
+               Vladimir Kolesnikov and
+               Lucien K. L. Ng},
+  title     = {Garbled Circuit Lookup Tables with Logarithmic Number of Ciphertexts},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {185-215},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/FlorezGutierrezT24,
+  author    = {Antonio Flórez-Gutiérrez and
+               Yosuke Todo},
+  title     = {Improving Linear Key Recovery Attacks Using Walsh Spectrum Puncturing},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {187-216},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GrassiMMMS24,
+  author    = {Lorenzo Grassi and
+               Loïc Masure and
+               Pierrick Méaux and
+               Thorben Moos and
+               François-Xavier Standaert},
+  title     = {Generalized Feistel Ciphers for Efficient Prime Field Masking},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {188-220},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DongHMW24,
+  author    = {Fangqi Dong and
+               Zihan Hao and
+               Ethan Mook and
+               Daniel Wichs},
+  title     = {Laconic Function Evaluation, Functional Encryption and Obfuscation for {RAMs} with Sublinear Computation},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {190-218},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/IshaiS24,
+  author    = {Yuval Ishai and
+               Yifan Song},
+  title     = {{Leakage-Tolerant} Circuits},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {196-225},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DasJ24,
+  author    = {Dipayan Das and
+               Antoine Joux},
+  title     = {Key Recovery Attack on the Partial Vandermonde Knapsack Problem},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {205-225},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GhoshalZS24,
+  author    = {Ashrujit Ghoshal and
+               Mingxun Zhou and
+               Elaine Shi},
+  title     = {Efficient Pre-processing {PIR} Without {Public-Key} Cryptography},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {210-240},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/CascudoD24,
+  author    = {Ignacio Cascudo and
+               Bernardo David},
+  title     = {Publicly Verifiable Secret Sharing Over Class Groups and Applications to {DKG} and {YOSO}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {216-248},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BouraDDBN24,
+  author    = {Christina Boura and
+               Nicolas David and
+               Patrick Derbez and
+               Rachelle Heim Boissier and
+               María Naya-Plasencia},
+  title     = {A Generic Algorithm for Efficient Key Recovery in Differential Attacks - and its Associated Tool},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {217-248},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/PinoKMMPS24,
+  author    = {Rafaël Del Pino and
+               Shuichi Katsumata and
+               Mary Maller and
+               Fabrice Mouhartem and
+               Thomas Prest and
+               Markku-Juhani O. Saarinen},
+  title     = {Threshold Raccoon: Practical Threshold Signatures from Standard Lattice Assumptions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {219-248},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GaoO24,
+  author    = {Si Gao and
+               Elisabeth Oswald},
+  title     = {A Novel Framework for Explainable Leakage Assessment},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {221-250},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AnanthGKL24,
+  author    = {Prabhanjan Ananth and
+               Aditya Gulati and
+               Fatih Kaleoglu and
+               Yao-Ting Lin},
+  title     = {Pseudorandom Isometries},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {226-254},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/MureauPPW24,
+  author    = {Guilhem Mureau and
+               Alice Pellet-Mary and
+               Georgii Pliatsok and
+               Alexandre Wallet},
+  title     = {Cryptanalysis of Rank-2 {Module-LIP} in Totally Real Number Fields},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {226-255},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/MuNRV24,
+  author    = {Changrui Mu and
+               Shafik Nassar and
+               Ron D. Rothblum and
+               Prashant Nalini Vasudevan},
+  title     = {Strong Batching for Non-interactive Statistical {Zero-Knowledge}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {241-270},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/EagenKRN24,
+  author    = {Liam Eagen and
+               Sanket Kanjalkar and
+               Tim Ruffing and
+               Jonas Nick},
+  title     = {Bulletproofs++: Next Generation Confidential Transactions via Reciprocal Set Membership Arguments},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {249-279},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/JhaKNS24,
+  author    = {Ashwin Jha and
+               Mustafa Khairallah and
+               Mridul Nandi and
+               Abishanka Saha},
+  title     = {Tight Security of {TNT} and Beyond - Attacks, Proofs and Possibilities for the Cascaded {LRW} Paradigm},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {249-279},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/TairiU24,
+  author    = {Erkan Tairi and
+               Akin Ünal},
+  title     = {Lower Bounds for {Lattice-Based} Compact Functional Encryption},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {249-279},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ChenF24,
+  author    = {Shan Chen and
+               Marc Fischlin},
+  title     = {Integrating Causality in Messaging Channels},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {251-282},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/Schage24,
+  author    = {Sven Schäge},
+  title     = {New Limits of Provable Security and Applications to {ElGamal} Encryption},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {255-285},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/PoulyS24,
+  author    = {Amaury Pouly and
+               Yixin Shen},
+  title     = {Provable Dual Attacks on Learning with Errors},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {256-285},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BrancoDS24,
+  author    = {Pedro Branco and
+               Nico Döttling and
+               Akshayaram Srinivasan},
+  title     = {{Two-Round} {Maliciously-Secure} Oblivious Transfer with Optimal Rate},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {271-300},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AbrahamAPP24,
+  author    = {Ittai Abraham and
+               Gilad Asharov and
+               Shravani Patil and
+               Arpita Patra},
+  title     = {Perfect Asynchronous {MPC} with Linear Communication Overhead},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {280-309},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AhmadianKMMN24,
+  author    = {Zahra Ahmadian and
+               Akram Khalesi and
+               Dounia M'foukh and
+               Hossein Moghimi and
+               María Naya-Plasencia},
+  title     = {Improved Differential {Meet-in-the-Middle} Cryptanalysis},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {280-309},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/WeeW24,
+  author    = {Hoeteck Wee and
+               David J. Wu},
+  title     = {Succinct Functional Commitments for Circuits from {k-sfLin}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {280-310},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/JaegerKS24,
+  author    = {Joseph Jaeger and
+               Akshaya Kumar and
+               Igors Stepanovs},
+  title     = {Symmetric Signcryption and E2{EE} Group Messaging in Keybase},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {283-312},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/CarrierDMT24,
+  author    = {Kévin Carrier and
+               Thomas Debris-Alazard and
+               Charles Meyer-Hilfiger and
+               Jean-Pierre Tillich},
+  title     = {Reduction from Sparse {LPN} to LPN, Dual Attack 3.0},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {286-315},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/MajiNPY24,
+  author    = {Hemanta K. Maji and
+               Hai H. Nguyen and
+               Anat Paskin-Cherniavsky and
+               Xiuyu Ye},
+  title     = {Constructing {Leakage-Resilient} Shamir's Secret Sharing: Over Composite Order Fields},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {286-315},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AbramRS24,
+  author    = {Damiano Abram and
+               Lawrence Roy and
+               Peter Scholl},
+  title     = {Succinct Homomorphic Secret Sharing},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {301-330},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AlagicBKMS24,
+  author    = {Gorjan Alagic and
+               Chen Bai and
+               Jonathan Katz and
+               Christian Majenz and
+               Patrick Struck},
+  title     = {Post-quantum Security of Tweakable Even-Mansour, and Applications},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {310-338},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AsharovC24,
+  author    = {Gilad Asharov and
+               Anirudh Chandramouli},
+  title     = {Perfect (Parallel) Broadcast in Constant Expected Rounds via Statistical {VSS}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {310-339},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DujmovicGM24,
+  author    = {Jesko Dujmovic and
+               Rachit Garg and
+               Giulio Malavolta},
+  title     = {{Time-Lock} Puzzles with Efficient Batch Solving},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {311-341},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AuerbachGP24,
+  author    = {Benedikt Auerbach and
+               Christoph U. Günther and
+               Krzysztof Pietrzak},
+  title     = {Trapdoor {Memory-Hard} Functions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {315-344},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/FaustMMOS24,
+  author    = {Sebastian Faust and
+               Loïc Masure and
+               Elena Micheli and
+               Maximilian Orlt and
+               François-Xavier Standaert},
+  title     = {Connecting {Leakage-Resilient} Secret Sharing to Practice: Scaling Trends and Physical Dependencies of Prime Field Masking},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {316-344},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/EsginENPSS24,
+  author    = {Muhammed F. Esgin and
+               Thomas Espitau and
+               Guilhem Niot and
+               Thomas Prest and
+               Amin Sakzad and
+               Ron Steinfeld},
+  title     = {Plover: {Masking-Friendly} {Hash-and-Sign} Lattice Signatures},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {316-345},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LiL24,
+  author    = {Hanjun Li and
+               Tianren Liu},
+  title     = {How to Garble Mixed Circuits that Combine Boolean and Arithmetic Computations},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {331-360},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/SongYCHW24,
+  author    = {Ling Song and
+               Qianqian Yang and
+               Yincen Chen and
+               Lei Hu and
+               Jian Weng},
+  title     = {Probabilistic Extensions: A {One-Step} Framework for Finding Rectangle Attacks and Beyond},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {339-367},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BaarsenP24,
+  author    = {Aron van Baarsen and
+               Sihang Pu},
+  title     = {Fuzzy Private Set Intersection with Large Hyperballs},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {340-369},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/WangWLLWLW24,
+  author    = {Ruida Wang and
+               Yundi Wen and
+               Zhihao Li and
+               Xianhui Lu and
+               Benqiang Wei and
+               Kun Liu and
+               Kunpeng Wang},
+  title     = {Circuit Bootstrapping: Faster and Smaller},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {342-372},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BenDavid24,
+  author    = {Shany Ben-David},
+  title     = {Probabilistically Checkable Arguments for All {NP}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {345-374},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BrianDF24,
+  author    = {Gianluca Brian and
+               Stefan Dziembowski and
+               Sebastian Faust},
+  title     = {From Random Probing to Noisy Leakages Without {Field-Size} Dependence},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {345-374},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AlwenFM24,
+  author    = {Joël Alwen and
+               Georg Fuchsbauer and
+               Marta Mularczyk},
+  title     = {Updatable {Public-Key} Encryption, Revisited},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {346-376},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DoHP24,
+  author    = {Khue Do and
+               Lucjan Hanzlik and
+               Eugenio Paracucchi},
+  title     = {M&M'S: Mix and Match Attacks on {Schnorr-Type} Blind Signatures with Repetition},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {363-387},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HeHLW24,
+  author    = {Jiahui He and
+               Kai Hu and
+               Hao Lei and
+               Meiqin Wang},
+  title     = {Massive Superpoly Recovery with a {Meet-in-the-Middle} Framework - Improved Cube Attacks on Trivium and Kreyvium},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {368-397},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/GrothS24,
+  author    = {Jens Groth and
+               Victor Shoup},
+  title     = {Fast Batched Asynchronous Distributed Key Generation},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {370-400},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ZhuLZGQ24,
+  author    = {Ziqi Zhu and
+               Jiangtao Li and
+               Kai Zhang and
+               Junqing Gong and
+               Haifeng Qian},
+  title     = {Registered Functional Encryptions from Pairings},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {373-402},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/Steiner24,
+  author    = {Matthias Johann Steiner},
+  title     = {The Complexity of Algebraic Algorithms for {LWE}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {375-403},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LiuP24,
+  author    = {Yanyi Liu and
+               Rafael Pass},
+  title     = {A Direct {PRF} Construction from Kolmogorov Complexity},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {375-406},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/PageW24,
+  author    = {Aurel Page and
+               Benjamin Wesolowski},
+  title     = {The Supersingular Endomorphism Ring and One Endomorphism Problems are Equivalent},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {388-417},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/ChenGLSZ24,
+  author    = {Shiyao Chen and
+               Jian Guo and
+               Eik List and
+               Danping Shi and
+               Tianyu Zhang},
+  title     = {Diving Deep into the Preimage Security of {AES-Like} Hashing},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {398-426},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HazayY24,
+  author    = {Carmit Hazay and
+               Yibin Yang},
+  title     = {Toward Malicious {Constant-Rate} 2{PC} via Arithmetic Garbling},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {401-431},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/MaHWW24,
+  author    = {Shihe Ma and
+               Tairong Huang and
+               Anyu Wang and
+               Xiaoyun Wang},
+  title     = {Accelerating BGV Bootstrapping for Large p Using Null Polynomials over $\mathbb {Z}_{p^e}$},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {403-432},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/Bergamaschi24,
+  author    = {Thiago Bergamaschi},
+  title     = {Pauli Manipulation Detection Codes and Applications to Quantum Communication over Adversarial Channels},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {404-433},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/JacksonMW24,
+  author    = {Kelsey A. Jackson and
+               Carl A. Miller and
+               Daochen Wang},
+  title     = {Evaluating the Security of {CRYSTALS-Dilithium} in the Quantum Random Oracle Model},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {418-446},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/BachoLTWZ24,
+  author    = {Renas Bacho and
+               Julian Loss and
+               Stefano Tessaro and
+               Benedikt Wagner and
+               Chenzhi Zhu},
+  title     = {Twinkle: Threshold Signatures from {DDH} with Full Adaptive Security},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {429-459},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/DeligiosE24,
+  author    = {Giovanni Deligios and
+               Mose Mizrahi Erbes},
+  title     = {Closing the Efficiency Gap Between Synchronous and {Network-Agnostic} Consensus},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {432-461},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HsiehLL24,
+  author    = {Yao-Ching Hsieh and
+               Huijia Lin and
+               Ji Luo},
+  title     = {A General Framework for {Lattice-Based} {ABE} Using Evasive {Inner-Product} Functional Encryption},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {433-464},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HirokaKMNPY24,
+  author    = {Taiga Hiroka and
+               Fuyuki Kitagawa and
+               Tomoyuki Morimae and
+               Ryo Nishimaki and
+               Tapas Pal and
+               Takashi Yamakawa},
+  title     = {Certified Everlasting Secure {Collusion-Resistant} Functional Encryption, and More},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {434-456},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AlbrechtDDG24,
+  author    = {Martin R. Albrecht and
+               Alex Davidson and
+               Amit Deo and
+               Daniel Gardham},
+  title     = {Crypto Dark Matter on the Torus - Oblivious {PRFs} from Shallow {PRFs} and {TFHE}},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {447-476},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/LossN24,
+  author    = {Julian Loss and
+               Jesper Buus Nielsen},
+  title     = {Early Stopping for Any Number of Corruptions},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {457-488},
+}
+
+@inproceedings{DBLP:conf/eurocrypt/PanW24,
+  author    = {Jiaxin Pan and
+               Benedikt Wagner},
+  title     = {Toothpicks: More Efficient {Fork-Free} {Two-Round} Multi-signatures},
+  booktitle = eurocrypt,
+  year      = 2024,
+  pages     = {460-489},
+}
+
 @inproceedings{DBLP:conf/eurocrypt/Rothblum23,
   author    = {Guy N. Rothblum},
   title     = {Indistinguishable Predictions and Multi-group Fair Learning},
@@ -638,7 +1721,7 @@
 @inproceedings{DBLP:conf/eurocrypt/LiuW23a,
   author    = {Feng-Hao Liu and
                Han Wang},
-  title     = {Batch Bootstrapping II: - Bootstrapping in Polynomial Modulus only Requires O~(1)\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\tilde{O}(1)$$\end{document} {FHE} Multiplications in Amortization},
+  title     = {Batch Bootstrapping II: - Bootstrapping in Polynomial Modulus only Requires Õ(1) {FHE} Multiplications in Amortization},
   booktitle = eurocrypt,
   year      = 2023,
   pages     = {353-384},
@@ -1492,7 +2575,7 @@
                Carmit Hazay and
                Yuval Ishai and
                Vinod Vaikuntanathan and
-               Muthu Venkitasubramaniam},
+               Muthuramakrishnan Venkitasubramaniam},
   title     = {Asymptotically {Quasi-Optimal} Cryptography},
   booktitle = eurocrypt,
   year      = 2022,
@@ -1666,7 +2749,7 @@
                Matthew Green and
                Mathias Hall-Andersen and
                Gabriel Kaptchuk},
-  title     = {Stacking Sigmas: A Framework to Compose $\{varSigma} $-Protocols for Disjunctions},
+  title     = {Stacking Sigmas: A Framework to Compose $\varSigma $-Protocols for Disjunctions},
   booktitle = eurocrypt,
   year      = 2022,
   pages     = {458-487},
@@ -8317,7 +9400,7 @@
                Koray Karabina and
                Patrick Longa and
                Catherine H. Gebotys and
-               Julio César López-Hernández},
+               Julio López},
   title     = {Faster Explicit Formulas for Computing Pairings over Ordinary Curves},
   booktitle = eurocrypt,
   year      = 2011,
@@ -14102,7 +15185,7 @@
 
 @inproceedings{DBLP:conf/eurocrypt/SyversonM94,
   author    = {Paul F. Syverson and
-               Catherine A. Meadows},
+               Catherine Meadows},
   title     = {Formal Requirements for Key Distribution Protocols},
   booktitle = eurocrypt,
   year      = 1994,
@@ -17994,7 +19077,7 @@
 }
 
 @inproceedings{DBLP:conf/eurocrypt/Bouckaert84,
-  author    = {A. Bouckaert},
+  author    = {André Bouckaert},
   title     = {Security of Transportable Computerized Files},
   booktitle = eurocrypt,
   year      = 1984,

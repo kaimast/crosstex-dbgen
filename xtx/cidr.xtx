@@ -1,5 +1,360 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cidr/0001CB024,
+  author    = {Tianyu Li and
+               Badrish Chandramouli and
+               Sebastian Burckhardt and
+               Samuel Madden},
+  title     = {Serverless State Management Systems},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/0001L24,
+  author    = {Thomas Neumann and
+               Viktor Leis},
+  title     = {A Critique of Modern {SQL} and a Proposal Towards a Simple and Expressive Query Language},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/0001LBC24,
+  author    = {Sangjin Lee and
+               Alberto Lerner and
+               Philippe Bonnet and
+               Philippe Cudré-Mauroux},
+  title     = {Database Kernels: Seamless Integration of Database Systems and Fast Storage via {CXL}},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/0001YF0LH24,
+  author    = {Nan Tang and
+               Chenyu Yang and
+               Ju Fan and
+               Lei Cao and
+               Yuyu Luo and
+               Alon Y. Halevy},
+  title     = {VerifAI: Verified Generative {AI}},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/AtwalBBCDGHHHFL24,
+  author    = {R. J. Atwal and
+               Peter A. Boncz and
+               Ryan Boyd and
+               Antony Courtney and
+               Till Döhmen and
+               Florian Gerlinghoff and
+               Jeff Huang and
+               Joseph Hwang and
+               Raphael Hyde and
+               Elena Felder and
+               Jacob Lacouture and
+               Yves Le Maout and
+               Boaz Leskes and
+               Yao Liu and
+               Alex Monahan and
+               Dan Perkins and
+               Tino Tereshko and
+               Jordan Tigani and
+               Nick Ursa and
+               Stephanie Wang and
+               Yannick Welsch},
+  title     = {MotherDuck: {DuckDB} in the cloud and in the client},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/BangPACH24,
+  author    = {Tiemo Bang and
+               Conor Power and
+               Siavash Ameli and
+               Natacha Crooks and
+               Joseph M. Hellerstein},
+  title     = {Optimizing the cloud? Don't train models. Build oracles!},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/CusackABCKPVWW24,
+  author    = {Mark A Cusack and
+               John Adamson and
+               Mark Brinicombe and
+               Neil A. Carson and
+               Thomas Kejser and
+               Jim Peterson and
+               Arvind Vasudev and
+               Kurt Westerfeld and
+               Robert Wipfel},
+  title     = {Yellowbrick: An Elastic Data Warehouse on Kubernetes},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/DurnerEGG24,
+  author    = {Dominik Durner and
+               Lennart Espe and
+               Jana Giceva and
+               Anja Gruenheid},
+  title     = {TracEx: Understanding and Analyzing Database Traces},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/EldeebBCY24,
+  author    = {Tamer Eldeeb and
+               Philip A. Bernstein and
+               Asaf Cidon and
+               Junfeng Yang},
+  title     = {Chablis: Fast and General Transactions in {Geo-Distributed} Systems},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/FloratouPZDHTCA24,
+  author    = {Avrilia Floratou and
+               Fotis Psallidas and
+               Fuheng Zhao and
+               Shaleen Deep and
+               Gunther Hagleither and
+               Wangda Tan and
+               Joyce Cahoon and
+               Rana Alotaibi and
+               Jordan Henkel and
+               Abhik Singla and
+               Alex Van Grootel and
+               Brandon Chow and
+               Kai Deng and
+               Katherine Lin and
+               Marcos Campos and
+               K. Venkatesh Emani and
+               Vivek Pandit and
+               Victor Shnayder and
+               Wenjing Wang and
+               Carlo Curino},
+  title     = {NL2{SQL} is a solved problem... Not!},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/FranzAHGMP24,
+  author    = {Kai Franz and
+               Samuel Arch and
+               Denis Hirn and
+               Torsten Grust and
+               Todd C. Mowry and
+               Andrew Pavlo},
+  title     = {Dear {User-Defined} Functions, Inlining isn't working out so great for us. Let's try batching to make our relationship work. Sincerely, {SQL}},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/GaffneyP24,
+  author    = {Kevin P. Gaffney and
+               Jignesh M. Patel},
+  title     = {Is Perfect Hashing Practical for {OLAP} Systems?},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/Glavic0LGKPL24,
+  author    = {Boris Glavic and
+               Pengyuan Li and
+               Ziyu Liu and
+               Dieter Gawlick and
+               Vasudha Krishnaswamy and
+               Danica Porobic and
+               Zhen Hua Liu},
+  title     = {Towards an Objective Metric for Data Value Through Relevance},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/Helland24,
+  author    = {Pat Helland},
+  title     = {Scalable {OLTP} in the Cloud: What's the {BIG} DEAL?},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/HuangLW024,
+  author    = {Zezhou Huang and
+               Jiaxiang Liu and
+               Haonan Wang and
+               Eugene Wu},
+  title     = {The Fast and the Private: Task-based Dataset Search},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/Jindal0MRJ24,
+  author    = {Alekh Jindal and
+               Shi Qiao and
+               Sathwik Madhula and
+               Kanupriya Raheja and
+               Sandhya Jain},
+  title     = {Turning Databases Into Generative {AI} Machines},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/LinDJZ24,
+  author    = {Yin Lin and
+               Bolin Ding and
+               H. V. Jagadish and
+               Jingren Zhou},
+  title     = {SMARTFEAT: Efficient Feature Construction through {Feature-Level} Foundation Model Interactions},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/LiuCOEEFK24,
+  author    = {Rui Liu and
+               Jun Hyuk Chang and
+               Riki Otaki and
+               Zhe Heng Eng and
+               Aaron J. Elmore and
+               Michael J. Franklin and
+               Sanjay Krishnan},
+  title     = {Towards Resource-adaptive Query Execution in Cloud Native Databases},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/LiuWLNY0QQ24,
+  author    = {Peiyuan Liu and
+               Siyang Weng and
+               Keqiang Li and
+               Lyu Ni and
+               Chengcheng Yang and
+               Rong Zhang and
+               Weining Qian and
+               Dian Qiao},
+  title     = {Leopard: A General Test Suite for Isolation Level Verification},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/NawabS24,
+  author    = {Faisal Nawab and
+               Moshe Shadmon},
+  title     = {The Tipping Point of {Edge-Cloud} Data Management},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/ParameswaranSAJ24,
+  author    = {Aditya G. Parameswaran and
+               Shreya Shankar and
+               Parth Asawa and
+               Naman Jain and
+               Yujie Wang},
+  title     = {Revisiting Prompt Engineering via Declarative Crowdsourcing},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/PietrzykKFHL24,
+  author    = {Johannes Pietrzyk and
+               Alexander Krause and
+               Christian Faerber and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {Program your (custom) {SIMD} instruction set on {FPGA} in C++},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/RajanRLRSP24,
+  author    = {Kaushik Rajan and
+               Aseem Rastogi and
+               Akash Lal and
+               Sampath Rajendra and
+               Krithika Subramanian and
+               Krut Patel},
+  title     = {Welding Natural Language Queries to Analytics {IRs} with {LLMs}},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/Schuhknecht24,
+  author    = {Felix Martin Schuhknecht},
+  title     = {Taking the Shortcut: Actively Incorporating the Virtual Memory Index of the {OS} to {Hardware-Accelerate} Database Indexing},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/SinghVKKNGK24,
+  author    = {Vikramank Y. Singh and
+               Kapil Vaidya and
+               Vinayshekhar Bannihatti Kumar and
+               Sopan Khosla and
+               Balakrishnan Narayanaswamy and
+               Rashmi Gangadharaiah and
+               Tim Kraska},
+  title     = {Panda: Performance Debugging for Databases using {LLM} Agents},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/UrbanB24,
+  author    = {Matthias Urban and
+               Carsten Binnig},
+  title     = {CAESURA: Language Models as {Multi-Modal} Query Planners},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/WangAA24,
+  author    = {Ziheng Wang and
+               Emanuel Adamiak and
+               Alex Aiken},
+  title     = {A Model for Query Execution Over Heterogeneous Instances},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/WawrzoniakMBKA24,
+  author    = {Michal Wawrzoniak and
+               Gianluca Moro and
+               Rodrigo Bruno and
+               Ana Klimovic and
+               Gustavo Alonso},
+  title     = {Off-the-shelf Data Analytics on Serverless},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/YangZYK24,
+  author    = {Yifei Yang and
+               Hangdong Zhao and
+               Xiangyao Yu and
+               Paraschos Koutris},
+  title     = {Predicate Transfer: Efficient {Pre-Filtering} on {Multi-Join} Queries},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/ZapridouSA24,
+  author    = {Eleni Zapridou and
+               Panagiotis Sioulas and
+               Anastasia Ailamaki},
+  title     = {Oligolithic Cross-task Optimizations across Isolated Workloads},
+  booktitle = cidr,
+  year      = 2024,
+}
+
+@inproceedings{DBLP:conf/cidr/ZhangLY24,
+  author    = {Huanchen Zhang and
+               Yihao Liu and
+               Jiaqi Yan},
+  title     = {{Cost-Intelligent} Data Analytics in the Cloud},
+  booktitle = cidr,
+  year      = 2024,
+}
+
 @inproceedings{DBLP:conf/cidr/00010PT0L23,
   author    = {Lukas Vogel and
                Daniel Ritter and

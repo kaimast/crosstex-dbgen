@@ -1,5 +1,47 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pods/Arenas24,
+  author    = {Marcelo Arenas},
+  title     = {A Data Management Approach to Explainable {AI}},
+  booktitle = pods,
+  year      = 2024,
+  pages     = {1-3},
+}
+
+@inproceedings{DBLP:conf/pods/000124,
+  author    = {Thomas Neumann},
+  title     = {Closing the Gap between Theory and Practice in Query Optimization},
+  booktitle = pods,
+  year      = 2024,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/pods/Woodruff24,
+  author    = {David P. Woodruff},
+  title     = {Approximation Algorithms on Matrices - With Some Database Applications!},
+  booktitle = pods,
+  year      = 2024,
+  pages     = {5-6},
+}
+
+@inproceedings{DBLP:conf/pods/GroheBY24,
+  author    = {Martin Grohe and
+               Jan Van den Bussche and
+               Ke Yi},
+  title     = {The {ACM} {PODS} Alberto O. Mendelzon {Test-of-Time} Award 2024},
+  booktitle = pods,
+  year      = 2024,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/pods/Olteanu24,
+  author    = {Dan Olteanu},
+  title     = {Recent Increments in Incremental View Maintenance},
+  booktitle = pods,
+  year      = 2024,
+  pages     = {8-17},
+}
+
 @inproceedings{DBLP:conf/pods/Leskovec23,
   author    = {Jure Leskovec},
   title     = {Databases as Graphs: Predictive Queries for Declarative Machine Learning},
@@ -6681,7 +6723,7 @@
 }
 
 @inproceedings{DBLP:conf/pods/Henzinger04,
-  author    = {Monika Rauch Henzinger},
+  author    = {Monika Henzinger},
   title     = {The Past, Present and Future of Web Information Retrieval},
   booktitle = pods,
   year      = 2004,
@@ -12476,7 +12518,7 @@
 @inproceedings{DBLP:conf/pods/CasanovaVF84,
   author    = {Marco A. Casanova and
                Paulo A. S. Veloso and
-               Antonio L. Furtado},
+               António L. Furtado},
   title     = {Formal Data Base Specification - An Eclectic Perspective},
   booktitle = pods,
   year      = 1984,

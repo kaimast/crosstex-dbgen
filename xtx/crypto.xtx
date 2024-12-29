@@ -1,5 +1,1483 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/crypto/CorriganGibbsW24,
+  author    = {Henry Corrigan-Gibbs and
+               David J. Wu},
+  title     = {The {One-Wayness} of Jacobi Signatures},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-13},
+}
+
+@inproceedings{DBLP:conf/crypto/ChecriSBB24,
+  author    = {Marina Checri and
+               Renaud Sirdey and
+               Aymen Boudguiga and
+               Jean-Paul Bultel},
+  title     = {On the Practical {CPAD} Security of "exact" and Threshold {FHE} Schemes and Libraries},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-33},
+}
+
+@inproceedings{DBLP:conf/crypto/BitanskyPS24,
+  author    = {Nir Bitansky and
+               Omer Paneth and
+               Dana Shamir},
+  title     = {Reusable {Online-Efficient} Commitments},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-35},
+}
+
+@inproceedings{DBLP:conf/crypto/HhanYY24,
+  author    = {Minki Hhan and
+               Takashi Yamakawa and
+               Aaram Yun},
+  title     = {Quantum Complexity for Discrete Logarithms and Related Problems},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-36},
+}
+
+@inproceedings{DBLP:conf/crypto/AmitR24,
+  author    = {Noga Amit and
+               Guy N. Rothblum},
+  title     = {{Constant-Round} Arguments for {Batch-Verification} and {Bounded-Space} Computations from {One-Way} Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-37},
+}
+
+@inproceedings{DBLP:conf/crypto/AnanthB24,
+  author    = {Prabhanjan Ananth and
+               Amit Behera},
+  title     = {A Modular Approach to Unclonable Cryptography},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-37},
+}
+
+@inproceedings{DBLP:conf/crypto/DongZQHZW24,
+  author    = {Xiaoyang Dong and
+               Boxin Zhao and
+               Lingyue Qin and
+               Qingliang Hou and
+               Shun Zhang and
+               Xiaoyun Wang},
+  title     = {Generic {MitM} Attack Frameworks on Sponge Constructions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-37},
+}
+
+@inproceedings{DBLP:conf/crypto/AcharayaHKP24,
+  author    = {Anasuya Acharya and
+               Carmit Hazay and
+               Vladimir Kolesnikov and
+               Manoj Prabhakaran},
+  title     = {Malicious Security for {SCALES} - Outsourced Computation with Ephemeral Servers},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-38},
+}
+
+@inproceedings{DBLP:conf/crypto/ZhangSELLR24,
+  author    = {Xinyu Zhang and
+               Ron Steinfeld and
+               Muhammed F. Esgin and
+               Joseph K. Liu and
+               Dongxi Liu and
+               Sushmita Ruj},
+  title     = {Loquat: A {SNARK-Friendly} Post-quantum Signature Based on the Legendre {PRF} with Applications in Ring and Aggregate Signatures},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-38},
+}
+
+@inproceedings{DBLP:conf/crypto/AtenieseBCFK24,
+  author    = {Giuseppe Ateniese and
+               Foteini Baldimtsi and
+               Matteo Campanelli and
+               Danilo Francati and
+               Ioanna Karantaidou},
+  title     = {Advancing Scalability in Decentralized Storage: A Novel Approach to {Proof-of-Replication} via Polynomial Evaluation},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {3-39},
+}
+
+@inproceedings{DBLP:conf/crypto/JaegerM24,
+  author    = {Joseph Jaeger and
+               Deep Inder Mohan},
+  title     = {Generic and Algebraic Computation Models: When {AGM} Proofs Transfer to the {GGM}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {14-45},
+}
+
+@inproceedings{DBLP:conf/crypto/DaoJ24,
+  author    = {Quang Dao and
+               Aayush Jain},
+  title     = {Lossy Cryptography from {Code-Based} Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {34-75},
+}
+
+@inproceedings{DBLP:conf/crypto/CohenDKS24,
+  author    = {Ran Cohen and
+               Jack Doerner and
+               Yashvanth Kondi and
+               Abhi Shelat},
+  title     = {Secure Multiparty Computation with Identifiable Abort via Vindicating Release},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {36-73},
+}
+
+@inproceedings{DBLP:conf/crypto/ShafranMRST24,
+  author    = {Avital Shafran and
+               Eran Malach and
+               Thomas Ristenpart and
+               Gil Segev and
+               Stefano Tessaro},
+  title     = {Is {ML-Based} Cryptanalysis Inherently Limited? Simulating Cryptographic Adversaries via {Gradient-Based} Methods},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {37-71},
+}
+
+@inproceedings{DBLP:conf/crypto/Qian24,
+  author    = {Luowen Qian},
+  title     = {Unconditionally Secure Quantum Commitments with Preprocessing},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {38-58},
+}
+
+@inproceedings{DBLP:conf/crypto/MathialaganPV24,
+  author    = {Surya Mathialagan and
+               Spencer Peters and
+               Vinod Vaikuntanathan},
+  title     = {Adaptively Sound {Zero-Knowledge} {SNARKs} for {UP}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {38-71},
+}
+
+@inproceedings{DBLP:conf/crypto/HadipourDE24,
+  author    = {Hosein Hadipour and
+               Patrick Derbez and
+               Maria Eichlseder},
+  title     = {Revisiting {Differential-Linear} Attacks via a Boomerang Perspective with Application to AES, Ascon, CLEFIA, SKINNY, PRESENT, KNOT, TWINE, WARP, LBlock, Simeck, and {SERPENT}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {38-72},
+}
+
+@inproceedings{DBLP:conf/crypto/HuthJ24,
+  author    = {Janik Huth and
+               Antoine Joux},
+  title     = {{MPC} in the Head Using the Subfield Bilinear Collision Problem},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {39-70},
+}
+
+@inproceedings{DBLP:conf/crypto/CouteauK24,
+  author    = {Geoffroy Couteau and
+               Naman Kumar},
+  title     = {10-Party Sublinear Secure Computation from Standard Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {39-73},
+}
+
+@inproceedings{DBLP:conf/crypto/BackendalDGHP24,
+  author    = {Matilda Backendal and
+               Hannah Davis and
+               Felix Günther and
+               Miro Haller and
+               Kenneth G. Paterson},
+  title     = {A Formal Treatment of {End-to-End} Encrypted Cloud Storage},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {40-74},
+}
+
+@inproceedings{DBLP:conf/crypto/LuZ24,
+  author    = {George Lu and
+               Mark Zhandry},
+  title     = {Limits on the Power of {Prime-Order} Groups: Separating {Q-Type} from Static Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {46-74},
+}
+
+@inproceedings{DBLP:conf/crypto/MorimaeNY24,
+  author    = {Tomoyuki Morimae and
+               Barak Nehoran and
+               Takashi Yamakawa},
+  title     = {Unconditionally Secure Commitments with Quantum Auxiliary Inputs},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {59-92},
+}
+
+@inproceedings{DBLP:conf/crypto/AardalABKT24,
+  author    = {Marius A. Aardal and
+               Diego F. Aranha and
+               Katharina Boudgoust and
+               Sebastian Kolby and
+               Akira Takahashi},
+  title     = {Aggregating Falcon Signatures with {LaBRADOR}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {71-106},
+}
+
+@inproceedings{DBLP:conf/crypto/WatersZ24,
+  author    = {Brent Waters and
+               Mark Zhandry},
+  title     = {Adaptive Security in {SNARGs} via {iO} and Lossy Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {72-104},
+}
+
+@inproceedings{DBLP:conf/crypto/BindelBTV24,
+  author    = {Nina Bindel and
+               Xavier Bonnetain and
+               Marcel Tiepelt and
+               Fernando Virdia},
+  title     = {Quantum Lattice Enumeration in Limited Depth},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {72-106},
+}
+
+@inproceedings{DBLP:conf/crypto/NiuHSZW24,
+  author    = {Zhongfeng Niu and
+               Kai Hu and
+               Siwei Sun and
+               Zhiyu Zhang and
+               Meiqin Wang},
+  title     = {Speeding Up Preimage and {Key-Recovery} Attacks with Highly Biased {Differential-Linear} Approximations},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {73-104},
+}
+
+@inproceedings{DBLP:conf/crypto/AlonNOS24,
+  author    = {Bar Alon and
+               Moni Naor and
+               Eran Omri and
+               Uri Stemmer},
+  title     = {{MPC} for Tech Giants (GMPC): Enabling Gulliver and the Lilliputians to Cooperate Amicably},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {74-108},
+}
+
+@inproceedings{DBLP:conf/crypto/Ostrovsky24,
+  author    = {Benjamin Ostrovsky},
+  title     = {{Privacy-Preserving} Dijkstra},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {74-110},
+}
+
+@inproceedings{DBLP:conf/crypto/NakagawaO24,
+  author    = {Kohei Nakagawa and
+               Hiroshi Onuki},
+  title     = {QFESTA: Efficient Algorithms and Parameters for {FESTA} Using Quaternion Algebras},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {75-106},
+}
+
+@inproceedings{DBLP:conf/crypto/DodisJM24,
+  author    = {Yevgeniy Dodis and
+               Daniel Jost and
+               Antonio Marcedone},
+  title     = {Compact Key Storage - A Modern Approach to Key Backup and Delegation},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {75-109},
+}
+
+@inproceedings{DBLP:conf/crypto/KimMMADKKR24,
+  author    = {Andrey Kim and
+               Ahmet Can Mert and
+               Anisha Mukherjee and
+               Aikata and
+               Maxim Deryabin and
+               Sunmin Kwon and
+               HyungChul Kang and
+               Sujoy Sinha Roy},
+  title     = {Exploring the Advantages and Challenges of Fermat {NTT} in {FHE} Acceleration},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {76-106},
+}
+
+@inproceedings{DBLP:conf/crypto/KitagawaMNY24,
+  author    = {Fuyuki Kitagawa and
+               Tomoyuki Morimae and
+               Ryo Nishimaki and
+               Takashi Yamakawa},
+  title     = {Quantum {Public-Key} Encryption with {Tamper-Resilient} Public Keys from {One-Way} Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {93-125},
+}
+
+@inproceedings{DBLP:conf/crypto/RonZewiW24,
+  author    = {Noga Ron-Zewi and
+               Mor Weiss},
+  title     = {{Zero-Knowledge} {IOPs} Approaching Witness Length},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {105-137},
+}
+
+@inproceedings{DBLP:conf/crypto/BonnetainBLS24,
+  author    = {Xavier Bonnetain and
+               Rachelle Heim Boissier and
+               Gaëtan Leurent and
+               André Schrottenloher},
+  title     = {Improving Generic Attacks Using Exceptional Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {105-138},
+}
+
+@inproceedings{DBLP:conf/crypto/Decru24,
+  author    = {Thomas Decru},
+  title     = {Radical $\root N \of {\mathrm {\acute{e}lu}}$ Isogeny Formulae},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {107-128},
+}
+
+@inproceedings{DBLP:conf/crypto/BoschiniDNR24,
+  author    = {Cecilia Boschini and
+               Hila Dahari and
+               Moni Naor and
+               Eyal Ronen},
+  title     = {That's Not My Signature! {Fail-Stop} Signatures for a Post-quantum World},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {107-140},
+}
+
+@inproceedings{DBLP:conf/crypto/RagavanV24,
+  author    = {Seyoon Ragavan and
+               Vinod Vaikuntanathan},
+  title     = {{Space-Efficient} and {Noise-Robust} Quantum Factoring},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {107-140},
+}
+
+@inproceedings{DBLP:conf/crypto/DongHMWW24,
+  author    = {Fangqi Dong and
+               Zihan Hao and
+               Ethan Mook and
+               Hoeteck Wee and
+               Daniel Wichs},
+  title     = {Laconic Function Evaluation and {ABE} for {RAMs} from (Ring-){LWE}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {107-142},
+}
+
+@inproceedings{DBLP:conf/crypto/BitanskyF24,
+  author    = {Nir Bitansky and
+               Sapir Freizeit},
+  title     = {Robust Additive Randomized Encodings from {IO} and {Pseudo-Non-linear} Codes},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {109-135},
+}
+
+@inproceedings{DBLP:conf/crypto/BallGHKP24,
+  author    = {Marshall Ball and
+               Juan A. Garay and
+               Peter Hall and
+               Aggelos Kiayias and
+               Giorgos Panagiotakos},
+  title     = {Towards Permissionless Consensus in the Standard Model via {Fine-Grained} Complexity},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {113-146},
+}
+
+@inproceedings{DBLP:conf/crypto/DietzT24,
+  author    = {Marian Dietz and
+               Stefano Tessaro},
+  title     = {Fully Malicious Authenticated {PIR}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {113-147},
+}
+
+@inproceedings{DBLP:conf/crypto/MalavoltaW24,
+  author    = {Giulio Malavolta and
+               Michael Walter},
+  title     = {Robust Quantum {Public-Key} Encryption with Applications to Quantum Key Distribution},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {126-151},
+}
+
+@inproceedings{DBLP:conf/crypto/PeikertT24,
+  author    = {Chris Peikert and
+               Yi Tang},
+  title     = {Cryptanalysis of {Lattice-Based} Sequentiality Assumptions and Proofs of Sequential Work},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {129-157},
+}
+
+@inproceedings{DBLP:conf/crypto/DalskovEN24,
+  author    = {Anders P. K. Dalskov and
+               Daniel Escudero and
+               Ariel Nof},
+  title     = {Fully Secure {MPC} and {zk-FLIOP} over Rings: New Constructions, Improvements and Extensions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {136-169},
+}
+
+@inproceedings{DBLP:conf/crypto/ZeilbergerCF24,
+  author    = {Hadas Zeilberger and
+               Binyi Chen and
+               Ben Fisch},
+  title     = {BaseFold: Efficient {Field-Agnostic} Polynomial Commitment Schemes from Foldable Codes},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {138-169},
+}
+
+@inproceedings{DBLP:conf/crypto/BariantBLAOPR24,
+  author    = {Augustin Bariant and
+               Aurélien Boeuf and
+               Axel Lemoine and
+               Irati Manterola Ayala and
+               Morten Øygarden and
+               Léo Perrin and
+               Håvard Raddum},
+  title     = {The Algebraic FreeLunch: Efficient Gröbner Basis Attacks Against {Arithmetization-Oriented} Primitives},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {139-173},
+}
+
+@inproceedings{DBLP:conf/crypto/GilchristMPT24,
+  author    = {Valerie Gilchrist and
+               Laurane Marco and
+               Christophe Petit and
+               Gang Tang},
+  title     = {Solving the Tensor Isomorphism Problem for Special Orbits with Low Rank Points: Cryptanalysis and Repair of an Asiacrypt 2023 Commitment Scheme},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {141-173},
+}
+
+@inproceedings{DBLP:conf/crypto/BernsteinC24,
+  author    = {Daniel J. Bernstein and
+               Tung Chou},
+  title     = {CryptAttackTester: high-assurance attack analysis},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {141-182},
+}
+
+@inproceedings{DBLP:conf/crypto/GargLWW24,
+  author    = {Rachit Garg and
+               George Lu and
+               Brent Waters and
+               David J. Wu},
+  title     = {Reducing the {CRS} Size in Registered {ABE} Systems},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {143-177},
+}
+
+@inproceedings{DBLP:conf/crypto/CiampiKS24,
+  author    = {Michele Ciampi and
+               Aggelos Kiayias and
+               Yu Shen},
+  title     = {Universal Composable Transaction Serialization with Order Fairness},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {147-180},
+}
+
+@inproceedings{DBLP:conf/crypto/IshaiSW24,
+  author    = {Yuval Ishai and
+               Elaine Shi and
+               Daniel Wichs},
+  title     = {{PIR} with {Client-Side} Preprocessing: {Information-Theoretic} Constructions and Lower Bounds},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {148-182},
+}
+
+@inproceedings{DBLP:conf/crypto/LiLLL24,
+  author    = {Longcheng Li and
+               Qian Li and
+               Xingjian Li and
+               Qipeng Liu},
+  title     = {How (not) to Build Quantum {PKE} in Minicrypt},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {152-183},
+}
+
+@inproceedings{DBLP:conf/crypto/LuY24,
+  author    = {Mingqi Lu and
+               Junzhao Yang},
+  title     = {{Memory-Sample} Lower Bounds for {LWE}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {158-182},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalLS24,
+  author    = {Vipul Goyal and
+               Chen-Da Liu-Zhang and
+               Yifan Song},
+  title     = {Towards Achieving Asynchronous {MPC} with Linear Communication and Optimal Resilience},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {170-206},
+}
+
+@inproceedings{DBLP:conf/crypto/Lipmaa24,
+  author    = {Helger Lipmaa},
+  title     = {Polymath: Groth16 Is Not the Limit},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {170-206},
+}
+
+@inproceedings{DBLP:conf/crypto/PengZWD24,
+  author    = {Ting Peng and
+               Wentao Zhang and
+               Jingsui Weng and
+               Tianyou Ding},
+  title     = {New Approaches for Estimating the Bias of {Differential-Linear} Distinguishers},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {174-205},
+}
+
+@inproceedings{DBLP:conf/crypto/ChairattanaApiromTZ24,
+  author    = {Rutchathon Chairattana-Apirom and
+               Stefano Tessaro and
+               Chenzhi Zhu},
+  title     = {{Pairing-Free} Blind Signatures from {CDH} Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {174-209},
+}
+
+@inproceedings{DBLP:conf/crypto/Wee24,
+  author    = {Hoeteck Wee},
+  title     = {Circuit {ABE} with sfpoly( depth,λ )-Sized Ciphertexts and Keys from Lattices},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {178-209},
+}
+
+@inproceedings{DBLP:conf/crypto/BarbosaGHJ24,
+  author    = {Manuel Barbosa and
+               Kai Gellert and
+               Julia Hesse and
+               Stanislaw Jarecki},
+  title     = {Bare PAKE: Universally Composable Key Exchange from Just Passwords},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {183-217},
+}
+
+@inproceedings{DBLP:conf/crypto/BencinaKMPSW24,
+  author    = {Benjamin Bencina and
+               Péter Kutas and
+               Simon-Philipp Merz and
+               Christophe Petit and
+               Miha Stopar and
+               Charlotte Weitkämper},
+  title     = {Improved Algorithms for Finding {Fixed-Degree} Isogenies Between Supersingular Elliptic Curves},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {183-217},
+}
+
+@inproceedings{DBLP:conf/crypto/EsserS24,
+  author    = {Andre Esser and
+               Paolo Santini},
+  title     = {Not Just Regular Decoding: Asymptotics and Improvements of Regular Syndrome Decoding Attacks},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {183-217},
+}
+
+@inproceedings{DBLP:conf/crypto/LiMRS24,
+  author    = {Baiyu Li and
+               Daniele Micciancio and
+               Mariana Raykova and
+               Mark Schultz},
+  title     = {Hintless {Single-Server} Private Information Retrieval},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {183-217},
+}
+
+@inproceedings{DBLP:conf/crypto/BartusekR24,
+  author    = {James Bartusek and
+               Justin Raizes},
+  title     = {Secret Sharing with Certified Deletion},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {184-214},
+}
+
+@inproceedings{DBLP:conf/crypto/AvoineCCDL24,
+  author    = {Gildas Avoine and
+               Xavier Carpent and
+               Tristan Claverie and
+               Christophe Devine and
+               Diane Leblanc-Albarel},
+  title     = {{Time-Memory} {Trade-Offs} Sound the Death Knell for {GPRS} and {GSM}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {206-240},
+}
+
+@inproceedings{DBLP:conf/crypto/ThyagarajanSW24,
+  author    = {Sri Aravinda Krishnan Thyagarajan and
+               Pratik Soni and
+               Ke Wu},
+  title     = {{Game-Theoretically} Fair Distributed Sampling},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {207-239},
+}
+
+@inproceedings{DBLP:conf/crypto/CiniMNW24,
+  author    = {Valerio Cini and
+               Giulio Malavolta and
+               Ngoc Khanh Nguyen and
+               Hoeteck Wee},
+  title     = {Polynomial Commitments from Lattices: Post-quantum Security, Fast Verification and Transparent Setup},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {207-242},
+}
+
+@inproceedings{DBLP:conf/crypto/JainLS24,
+  author    = {Aayush Jain and
+               Huijia Lin and
+               Sagnik Saha},
+  title     = {A Systematic Study of Sparse {LWE}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {210-245},
+}
+
+@inproceedings{DBLP:conf/crypto/KastnerNR24,
+  author    = {Julia Kastner and
+               Ky Nguyen and
+               Michael Reichle},
+  title     = {{Pairing-Free} Blind Signatures from Standard Assumptions in the {ROM}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {210-245},
+}
+
+@inproceedings{DBLP:conf/crypto/ChungGG24,
+  author    = {Kai-Min Chung and
+               Eli Goldin and
+               Matthew Gray},
+  title     = {On Central Primitives for Quantum Cryptography with Classical Communication},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {215-248},
+}
+
+@inproceedings{DBLP:conf/crypto/KatzR24,
+  author    = {Jonathan Katz and
+               Michael Rosenberg},
+  title     = {LATKE: A Framework for Constructing {Identity-Binding} {PAKEs}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {218-250},
+}
+
+@inproceedings{DBLP:conf/crypto/CarolanP24,
+  author    = {Joseph Carolan and
+               Alexander Poremba},
+  title     = {Quantum {One-Wayness} of the {Single-Round} Sponge with Invertible Permutations},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {218-252},
+}
+
+@inproceedings{DBLP:conf/crypto/SantosCN24,
+  author    = {Maria Corte-Real Santos and
+               Craig Costello and
+               Michael Naehrig},
+  title     = {On Cycles of {Pairing-Friendly} Abelian Varieties},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {221-253},
+}
+
+@inproceedings{DBLP:conf/crypto/BonehPR24,
+  author    = {Dan Boneh and
+               Aditi Partap and
+               Lior Rotem},
+  title     = {Traceable Secret Sharing: Strong Security and Efficient Constructions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {221-256},
+}
+
+@inproceedings{DBLP:conf/crypto/LinMW24,
+  author    = {Wei-Kai Lin and
+               Ethan Mook and
+               Daniel Wichs},
+  title     = {Doubly Efficient Cryptography: Commitments, Arguments and {RAM} {MPC}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {240-273},
+}
+
+@inproceedings{DBLP:conf/crypto/ZhangHL24,
+  author    = {Zhongyi Zhang and
+               Chengan Hou and
+               Meicheng Liu},
+  title     = {Probabilistic Linearization: Internal Differential Collisions in up to 6 Rounds of SHA-3},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {241-272},
+}
+
+@inproceedings{DBLP:conf/crypto/NguyenS24,
+  author    = {Ngoc Khanh Nguyen and
+               Gregor Seiler},
+  title     = {Greyhound: Fast Polynomial Commitments from Lattices},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {243-275},
+}
+
+@inproceedings{DBLP:conf/crypto/DonFHS24,
+  author    = {Jelle Don and
+               Serge Fehr and
+               Yu-Hsuan Huang and
+               Patrick Struck},
+  title     = {On the (In)Security of the {BUFF} Transform},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {246-275},
+}
+
+@inproceedings{DBLP:conf/crypto/GupteV24,
+  author    = {Aparna Gupte and
+               Vinod Vaikuntanathan},
+  title     = {How to Construct Quantum FHE, Generically},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {246-279},
+}
+
+@inproceedings{DBLP:conf/crypto/DasR24,
+  author    = {Sourav Das and
+               Ling Ren},
+  title     = {Adaptively Secure {BLS} Threshold Signatures from {DDH} and {co-CDH}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {251-284},
+}
+
+@inproceedings{DBLP:conf/crypto/WangSP24,
+  author    = {Yuyu Wang and
+               Chuanjie Su and
+               Jiaxin Pan},
+  title     = {{Fine-Grained} Non-interactive {Key-Exchange} Without Idealized Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {251-285},
+}
+
+@inproceedings{DBLP:conf/crypto/HormannW24,
+  author    = {Felicitas Hörmann and
+               Wessel P. J. van Woerden},
+  title     = {FuLeakage: Breaking {FuLeeca} by Learning Attacks},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {253-286},
+}
+
+@inproceedings{DBLP:conf/crypto/OrruTZZ24,
+  author    = {Michele Orrù and
+               Stefano Tessaro and
+               Greg Zaverucha and
+               Chenzhi Zhu},
+  title     = {Oblivious Issuance of Proofs},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {254-287},
+}
+
+@inproceedings{DBLP:conf/crypto/Nguyen24,
+  author    = {Hai H. Nguyen},
+  title     = {Towards Breaking the {Half-Barrier} of Local {Leakage-Resilient} Shamir's Secret Sharing},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {257-285},
+}
+
+@inproceedings{DBLP:conf/crypto/AlamatiPRR24,
+  author    = {Navid Alamati and
+               Guru-Vamsi Policharla and
+               Srinivasan Raghuraman and
+               Peter Rindal},
+  title     = {Improved {Alternating-Moduli} {PRFs} and Post-quantum Signatures},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {274-308},
+}
+
+@inproceedings{DBLP:conf/crypto/SunXDLSQF24,
+  author    = {Bing Sun and
+               Zejun Xiang and
+               Zhengyi Dai and
+               Guoqiang Liu and
+               Xuan Shen and
+               Longjiang Qu and
+               Shaojing Fu},
+  title     = {{Feistel-Like} Structures Revisited: Classification and Cryptanalysis},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {275-304},
+}
+
+@inproceedings{DBLP:conf/crypto/Saarinen24,
+  author    = {Markku-Juhani O. Saarinen},
+  title     = {Accelerating {SLH-DSA} by Two Orders of Magnitude with a Single Hash Unit},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {276-304},
+}
+
+@inproceedings{DBLP:conf/crypto/BlockFKTWZ24,
+  author    = {Alexander R. Block and
+               Zhiyong Fang and
+               Jonathan Katz and
+               Justin Thaler and
+               Hendrik Waldner and
+               Yupeng Zhang},
+  title     = {{Field-Agnostic} {SNARKs} from {Expand-Accumulate} Codes},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {276-307},
+}
+
+@inproceedings{DBLP:conf/crypto/AttrapadungT24,
+  author    = {Nuttapong Attrapadung and
+               Junichi Tomida},
+  title     = {A Modular Approach to Registered {ABE} for Unbounded Predicates},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {280-316},
+}
+
+@inproceedings{DBLP:conf/crypto/Katz24,
+  author    = {Jonathan Katz},
+  title     = {Round-Optimal, Fully Secure Distributed Key Generation},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {285-316},
+}
+
+@inproceedings{DBLP:conf/crypto/BauerCS24,
+  author    = {Balthazar Bauer and
+               Geoffroy Couteau and
+               Elahe Sadeghi},
+  title     = {{Fine-Grained} Non-interactive Key Exchange, Revisited},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {286-312},
+}
+
+@inproceedings{DBLP:conf/crypto/ApplebaumK24,
+  author    = {Benny Applebaum and
+               Eliran Kachlon},
+  title     = {Stochastic Secret Sharing with 1-Bit Shares and Applications to {MPC}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {286-320},
+}
+
+@inproceedings{DBLP:conf/crypto/Kiyoshima24,
+  author    = {Susumu Kiyoshima},
+  title     = {Resettable Statistical Zero-Knowledge for $\ensuremath {\textsf{NP}}$},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {288-320},
+}
+
+@inproceedings{DBLP:conf/crypto/HallAndersenSW24,
+  author    = {Mathias Hall-Andersen and
+               Mark Simkin and
+               Benedikt Wagner},
+  title     = {FRIDA: Data Availability Sampling from {FRI}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {289-324},
+}
+
+@inproceedings{DBLP:conf/crypto/GajlandJK24,
+  author    = {Phillip Gajland and
+               Jonas Janneck and
+               Eike Kiltz},
+  title     = {Ring Signatures for Deniable AKEM: Gandalf's Fellowship},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {305-338},
+}
+
+@inproceedings{DBLP:conf/crypto/BellareH24,
+  author    = {Mihir Bellare and
+               Viet Tung Hoang},
+  title     = {{Succinctly-Committing} Authenticated Encryption},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {305-339},
+}
+
+@inproceedings{DBLP:conf/crypto/NguyenDCTB24,
+  author    = {Wilson D. Nguyen and
+               Trisha Datta and
+               Binyi Chen and
+               Nirvan Tyagi and
+               Dan Boneh},
+  title     = {Mangrove: A Scalable Framework for {Folding-Based} {SNARKs}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {308-344},
+}
+
+@inproceedings{DBLP:conf/crypto/GarimellaGM24,
+  author    = {Gayathri Garimella and
+               Benjamin Goff and
+               Peihan Miao},
+  title     = {Computation Efficient {Structure-Aware} {PSI} from Incremental Function Secret Sharing},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {309-345},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalSSVV24,
+  author    = {Shweta Agrawal and
+               Sagnik Saha and
+               Nikolaj I. Schwartzbach and
+               Akhil Vanukuri and
+               Prashant Nalini Vasudevan},
+  title     = {{k-SUM} in the Sparse Regime: Complexity and Applications},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {315-351},
+}
+
+@inproceedings{DBLP:conf/crypto/AnthoineBF24,
+  author    = {Gaspard Anthoine and
+               David Balbás and
+               Dario Fiore},
+  title     = {{Fully-Succinct} Multi-key Homomorphic Signatures from Standard Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {317-351},
+}
+
+@inproceedings{DBLP:conf/crypto/BonehPR24a,
+  author    = {Dan Boneh and
+               Aditi Partap and
+               Lior Rotem},
+  title     = {Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {317-351},
+}
+
+@inproceedings{DBLP:conf/crypto/DaoJJ24,
+  author    = {Quang Dao and
+               Aayush Jain and
+               Zhengzhong Jin},
+  title     = {Non-interactive {Zero-Knowledge} from {LPN} and {MQ}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {321-360},
+}
+
+@inproceedings{DBLP:conf/crypto/DoernerKR24,
+  author    = {Jack Doerner and
+               Yashvanth Kondi and
+               Leah Namisa Rosenbloom},
+  title     = {Sometimes You Can't Distribute {Random-Oracle-Based} Proofs},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {323-358},
+}
+
+@inproceedings{DBLP:conf/crypto/ChristG24,
+  author    = {Miranda Christ and
+               Sam Gunn},
+  title     = {Pseudorandom {Error-Correcting} Codes},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {325-347},
+}
+
+@inproceedings{DBLP:conf/crypto/BamburyBRS24,
+  author    = {Henry Bambury and
+               Hugo Beguinet and
+               Thomas Ricosset and
+               Éric Sageloli},
+  title     = {Polytopes in the {Fiat-Shamir} with Aborts Paradigm},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {339-372},
+}
+
+@inproceedings{DBLP:conf/crypto/LeanderPSS24,
+  author    = {Gregor Leander and
+               Christof Paar and
+               Julian Speith and
+               Lukas Stennes},
+  title     = {{HAWKEYE} - Recovering Symmetric Cryptography From Hardware Circuits},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {340-376},
+}
+
+@inproceedings{DBLP:conf/crypto/KothapalliS24,
+  author    = {Abhiram Kothapalli and
+               Srinath T. V. Setty},
+  title     = {HyperNova: Recursive Arguments for Customizable Constraint Systems},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {345-379},
+}
+
+@inproceedings{DBLP:conf/crypto/AgarwalBGIKM24,
+  author    = {Amit Agarwal and
+               Elette Boyle and
+               Niv Gilboa and
+               Yuval Ishai and
+               Mahimna Kelkar and
+               Yiping Ma},
+  title     = {Compressing {Unit-Vector} Correlations via Sparse Pseudorandom Generators},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {346-383},
+}
+
+@inproceedings{DBLP:conf/crypto/BellGKW24,
+  author    = {Zoë Ruha Bell and
+               Shafi Goldwasser and
+               Michael P. Kim and
+               Jean-Luc Watson},
+  title     = {Certifying Private Probabilistic Mechanisms},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {348-386},
+}
+
+@inproceedings{DBLP:conf/crypto/CatalanoGM24,
+  author    = {Dario Catalano and
+               Emanuele Giunta and
+               Francesco Migliaro},
+  title     = {Limits of {Black-Box} Anamorphic Encryption},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {352-383},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalKY24,
+  author    = {Shweta Agrawal and
+               Simran Kumari and
+               Shota Yamada},
+  title     = {Attribute Based Encryption for Turing Machines from Lattices},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {352-386},
+}
+
+@inproceedings{DBLP:conf/crypto/GargKPW24,
+  author    = {Sanjam Garg and
+               Dimitris Kolonelos and
+               Guru-Vamsi Policharla and
+               Mingyuan Wang},
+  title     = {Threshold Encryption with Silent Setup},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {352-386},
+}
+
+@inproceedings{DBLP:conf/crypto/MorimaeY24,
+  author    = {Tomoyuki Morimae and
+               Takashi Yamakawa},
+  title     = {Quantum Advantage from {One-Way} Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {359-392},
+}
+
+@inproceedings{DBLP:conf/crypto/BitanskyG24,
+  author    = {Nir Bitansky and
+               Nathan Geier},
+  title     = {Amplification of Non-interactive Zero Knowledge, Revisited},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {361-390},
+}
+
+@inproceedings{DBLP:conf/crypto/HulsingJMN24,
+  author    = {Andreas Hülsing and
+               David Joseph and
+               Christian Majenz and
+               Anand Kumar Narayanan},
+  title     = {On Round Elimination for {Special-Sound} Multi-round Identification and the Generality of the Hypercube for {MPCitH}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {373-408},
+}
+
+@inproceedings{DBLP:conf/crypto/DongLW24,
+  author    = {Fangqi Dong and
+               Qipeng Liu and
+               Kewen Wu},
+  title     = {Tight Characterizations for Preprocessing Against Cryptographic Salting},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {377-411},
+}
+
+@inproceedings{DBLP:conf/crypto/ArnonCFY24,
+  author    = {Gal Arnon and
+               Alessandro Chiesa and
+               Giacomo Fenzi and
+               Eylon Yogev},
+  title     = {STIR: {Reed-Solomon} Proximity Testing with Fewer Queries},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {380-413},
+}
+
+@inproceedings{DBLP:conf/crypto/GargJMW24,
+  author    = {Sanjam Garg and
+               Abhishek Jain and
+               Pratyay Mukherjee and
+               Mingyuan Wang},
+  title     = {Scalable Multiparty Computation from Non-linear Secret Sharing},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {384-417},
+}
+
+@inproceedings{DBLP:conf/crypto/AlmeidaOBBDGLLLOPQSS24,
+  author    = {José Bacelar Almeida and
+               Santiago Arranz Olmos and
+               Manuel Barbosa and
+               Gilles Barthe and
+               François Dupressoir and
+               Benjamin Grégoire and
+               Vincent Laporte and
+               Jean-Christophe Léchenet and
+               Cameron Low and
+               Tiago Oliveira and
+               Hugo Pacheco and
+               Miguel Quaresma and
+               Peter Schwabe and
+               Pierre-Yves Strub},
+  title     = {Formally Verifying Kyber - Episode V: {Machine-Checked} {IND-CCA} Security and Correctness of {ML-KEM} in {EasyCrypt}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {384-421},
+}
+
+@inproceedings{DBLP:conf/crypto/BaeCHPS24,
+  author    = {Youngjin Bae and
+               Jung Hee Cheon and
+               Guillaume Hanrot and
+               Jai Hyun Park and
+               Damien Stehlé},
+  title     = {{Plaintext-Ciphertext} Matrix Multiplication and {FHE} Bootstrapping: Fast and Fused},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {387-421},
+}
+
+@inproceedings{DBLP:conf/crypto/EspitauKT24,
+  author    = {Thomas Espitau and
+               Shuichi Katsumata and
+               Kaoru Takemure},
+  title     = {{Two-Round} Threshold Signature from Algebraic {One-More} Learning with Errors},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {387-424},
+}
+
+@inproceedings{DBLP:conf/crypto/BeguinotCGR24,
+  author    = {Julien Béguinot and
+               Wei Cheng and
+               Sylvain Guilley and
+               Olivier Rioul},
+  title     = {Formal Security Proofs via Doeblin Coefficients: - Optimal {Side-Channel} Factorization from Noisy Leakage to Random Probing},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {389-426},
+}
+
+@inproceedings{DBLP:conf/crypto/AbeBORST24,
+  author    = {Masayuki Abe and
+               Andrej Bogdanov and
+               Miyako Ohkubo and
+               Alon Rosen and
+               Zehua Shang and
+               Mehdi Tibouchi},
+  title     = {{CDS} Composition of Multi-round Protocols},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {391-423},
+}
+
+@inproceedings{DBLP:conf/crypto/GuanM24,
+  author    = {Jiaxin Guan and
+               Hart Montgomery},
+  title     = {On Sequential Functions and {Fine-Grained} Cryptography},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {393-428},
+}
+
+@inproceedings{DBLP:conf/crypto/PinoKPR24,
+  author    = {Rafaël del Pino and
+               Shuichi Katsumata and
+               Thomas Prest and
+               Mélissa Rossi},
+  title     = {Raccoon: A {Masking-Friendly} Signature Proven in the Probing Model},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {409-444},
+}
+
+@inproceedings{DBLP:conf/crypto/KriepkeK24,
+  author    = {Björn Kriepke and
+               Gohar M. Kyureghyan},
+  title     = {Algebraic Structure of the Iterates of χ},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {412-424},
+}
+
+@inproceedings{DBLP:conf/crypto/HwangSS24,
+  author    = {Intak Hwang and
+               Jinyeong Seo and
+               Yongsoo Song},
+  title     = {Concretely Efficient {Lattice-Based} Polynomial Commitment from Standard Assumptions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {414-448},
+}
+
+@inproceedings{DBLP:conf/crypto/JiLS24,
+  author    = {Xiaoyu Ji and
+               Junru Li and
+               Yifan Song},
+  title     = {{Linear-Communication} Asynchronous Complete Secret Sharing with Optimal Resilience},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {418-453},
+}
+
+@inproceedings{DBLP:conf/crypto/PersianoPY24,
+  author    = {Giuseppe Persiano and
+               Duong Hieu Phan and
+               Moti Yung},
+  title     = {{Public-Key} Anamorphism in (CCA-Secure) {Public-Key} Encryption and Beyond},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {422-455},
+}
+
+@inproceedings{DBLP:conf/crypto/LinXY24,
+  author    = {Fuchun Lin and
+               Chaoping Xing and
+               Yizhou Yao},
+  title     = {More Efficient Zero-Knowledge Protocols over $\mathbb {Z}_{2^k}$ via Galois Rings},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {424-457},
+}
+
+@inproceedings{DBLP:conf/crypto/AgrawalrMZ24,
+  author    = {Shweta Agrawalr and
+               Giulio Malavolta and
+               Tianwei Zhang},
+  title     = {{Time-Lock} Puzzles from Lattices},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {425-456},
+}
+
+@inproceedings{DBLP:conf/crypto/EspitauNP24,
+  author    = {Thomas Espitau and
+               Guilhem Niot and
+               Thomas Prest},
+  title     = {Flood and Submerse: Distributed Key Generation and Robust Threshold Signature from Lattices},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {425-458},
+}
+
+@inproceedings{DBLP:conf/crypto/BhaumikCCDGS24,
+  author    = {Ritam Bhaumik and
+               Bishwajit Chakraborty and
+               Wonseok Choi and
+               Avijit Dutta and
+               Jérôme Govinden and
+               Yaobin Shen},
+  title     = {The Committing Security of {MACs} with Applications to Generic Composition},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {425-462},
+}
+
+@inproceedings{DBLP:conf/crypto/ChowdhuryRBO24,
+  author    = {Aakash Chowdhury and
+               Arnab Roy and
+               Carlo Brunetta and
+               Elisabeth Oswald},
+  title     = {Leakage Certification Made Simple},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {427-460},
+}
+
+@inproceedings{DBLP:conf/crypto/BuzekT24,
+  author    = {Jan Buzek and
+               Stefano Tessaro},
+  title     = {Collision Resistance from Multi-collision Resistance for All Constant Parameters},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {429-458},
+}
+
+@inproceedings{DBLP:conf/crypto/GargGW24,
+  author    = {Sanjam Garg and
+               Aarushi Goel and
+               Mingyuan Wang},
+  title     = {How to Prove Statements Obliviously?},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {449-487},
+}
+
+@inproceedings{DBLP:conf/crypto/BaumMRS24,
+  author    = {Carsten Baum and
+               Nikolas Melissaris and
+               Rahul Rachuri and
+               Peter Scholl},
+  title     = {Cheater Identification on a Budget: {MPC} with Identifiable Abort from Pairwise {MACs}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {454-488},
+}
+
+@inproceedings{DBLP:conf/crypto/MajenzS24,
+  author    = {Christian Majenz and
+               Fabrizio Sisinni},
+  title     = {Provable Security Against Decryption Failure Attacks from {LWE}},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {456-485},
+}
+
+@inproceedings{DBLP:conf/crypto/BiryukovFHKLNW24,
+  author    = {Alex Biryukov and
+               Ben Fisch and
+               Gottfried Herold and
+               Dmitry Khovratovich and
+               Gaëtan Leurent and
+               María Naya-Plasencia and
+               Benjamin Wesolowski},
+  title     = {Cryptanalysis of Algebraic Verifiable Delay Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {457-490},
+}
+
+@inproceedings{DBLP:conf/crypto/BottaCOSV24,
+  author    = {Vincenzo Botta and
+               Michele Ciampi and
+               Emmanuela Orsini and
+               Luisa Siniscalchi and
+               Ivan Visconti},
+  title     = {{Black-Box} (and Fast) Non-malleable Zero Knowledge},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {458-490},
+}
+
+@inproceedings{DBLP:conf/crypto/BeimelMM24,
+  author    = {Amos Beimel and
+               Tal Malkin and
+               Noam Mazor},
+  title     = {Structural Lower Bounds on {Black-Box} Constructions of Pseudorandom Functions},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {459-488},
+}
+
+@inproceedings{DBLP:conf/crypto/KatsumataRT24,
+  author    = {Shuichi Katsumata and
+               Michael Reichle and
+               Kaoru Takemure},
+  title     = {Adaptively Secure 5 Round Threshold Signatures from MLWE/{MSIS} and {DL} with Rewinding},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {459-491},
+}
+
+@inproceedings{DBLP:conf/crypto/ObresmkiRRSV24,
+  author    = {Maciej Obremski and
+               João Ribeiro and
+               Lawrence Roy and
+               François-Xavier Standaert and
+               Daniele Venturi},
+  title     = {Improved Reductions from Noisy to Bounded and Probing Leakages via {Hockey-Stick} Divergences},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {461-491},
+}
+
+@inproceedings{DBLP:conf/crypto/BeyneC24,
+  author    = {Tim Beyne and
+               Yu Long Chen},
+  title     = {{Information-Theoretic} Security with Asymmetries},
+  booktitle = crypto,
+  year      = 2024,
+  pages     = {463-494},
+}
+
 @inproceedings{DBLP:conf/crypto/RyanH23,
   author    = {Keegan Ryan and
                Nadia Heninger},
@@ -16,6 +1494,14 @@
                Yiran Dai and
                Dengguo Feng},
   title     = {Fast Blind Rotation for Bootstrapping {FHEs}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {3-36},
+}
+
+@inproceedings{DBLP:conf/crypto/Zhandry22c,
+  author    = {Mark Zhandry},
+  title     = {Tracing Quantum State Distinguishers via Backtracking},
   booktitle = crypto,
   year      = 2023,
   pages     = {3-36},
@@ -39,6 +1525,14 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {3-38},
+}
+
+@inproceedings{DBLP:conf/crypto/Brakerski22,
+  author    = {Zvika Brakerski},
+  title     = {{Black-Hole} Radiation Decoding Is Quantum Cryptography},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {37-65},
 }
 
 @inproceedings{DBLP:conf/crypto/BaeCKPS23,
@@ -81,6 +1575,16 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {39-70},
+}
+
+@inproceedings{DBLP:conf/crypto/AnanthKL22,
+  author    = {Prabhanjan Ananth and
+               Fatih Kaleoglu and
+               Qipeng Liu},
+  title     = {Cloning Games: A General Framework for Unclonable Primitives},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {66-98},
 }
 
 @inproceedings{DBLP:conf/crypto/KimLSS23,
@@ -134,6 +1638,16 @@
   pages     = {95-127},
 }
 
+@inproceedings{DBLP:conf/crypto/BartusekKP22,
+  author    = {James Bartusek and
+               Dakshita Khurana and
+               Alexander Poremba},
+  title     = {{Publicly-Verifiable} Deletion via {Target-Collapsing} Functions},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {99-128},
+}
+
 @inproceedings{DBLP:conf/crypto/Beullens23,
   author    = {Ward Beullens},
   title     = {{Graph-Theoretic} Algorithms for the Alternating Trilinear Form Equivalence Problem},
@@ -180,6 +1694,16 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {128-160},
+}
+
+@inproceedings{DBLP:conf/crypto/GoyalLM22,
+  author    = {Vipul Goyal and
+               Xiao Liang and
+               Giulio Malavolta},
+  title     = {On Concurrent Multi-party Quantum Computation},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {129-161},
 }
 
 @inproceedings{DBLP:conf/crypto/BitanskyPSS23,
@@ -231,6 +1755,18 @@
   pages     = {161-196},
 }
 
+@inproceedings{DBLP:conf/crypto/BrakerskiGKPV22,
+  author    = {Zvika Brakerski and
+               Alexandru Gheorghiu and
+               Gregory D. Kahanamoku-Meyer and
+               Eitan Porat and
+               Thomas Vidick},
+  title     = {Simple Tests of Quantumness Also Certify Qubits},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {162-191},
+}
+
 @inproceedings{DBLP:conf/crypto/BonehBCGI23,
   author    = {Dan Boneh and
                Elette Boyle and
@@ -251,6 +1787,15 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {177-208},
+}
+
+@inproceedings{DBLP:conf/crypto/BartusekK22,
+  author    = {James Bartusek and
+               Dakshita Khurana},
+  title     = {Cryptography with Certified Deletion},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {192-223},
 }
 
 @inproceedings{DBLP:conf/crypto/GolovnevLSTW23,
@@ -288,12 +1833,22 @@
   author    = {Christof Beierle and
                Patrick Felke and
                Gregor Leander and
-               Patrick P. Neumann and
+               Patrick Neumann and
                Lukas Stennes},
   title     = {On Perfect Linear Approximations and Differentials over {Two-Round} {SPNs}},
   booktitle = crypto,
   year      = 2023,
   pages     = {209-239},
+}
+
+@inproceedings{DBLP:conf/crypto/BartusekKS22,
+  author    = {James Bartusek and
+               Dakshita Khurana and
+               Akshayaram Srinivasan},
+  title     = {Secure Computation with Shared {EPR} Pairs (Or: How to Teleport in Zero-Knowledge)},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {224-257},
 }
 
 @inproceedings{DBLP:conf/crypto/BootleCS23,
@@ -351,6 +1906,14 @@
   pages     = {252-283},
 }
 
+@inproceedings{DBLP:conf/crypto/Schrottenloher22,
+  author    = {André Schrottenloher},
+  title     = {Quantum Linear {Key-Recovery} Attacks Using the {QFT}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {258-291},
+}
+
 @inproceedings{DBLP:conf/crypto/IshaiJLSZ23,
   author    = {Yuval Ishai and
                Aayush Jain and
@@ -391,6 +1954,16 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {284-314},
+}
+
+@inproceedings{DBLP:conf/crypto/GeSX22,
+  author    = {Jiangxia Ge and
+               Tianshu Shan and
+               Rui Xue},
+  title     = {Tighter {QCCA-Secure} Key Encapsulation Mechanism with Explicit Rejection in the Quantum Random Oracle Model},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {292-324},
 }
 
 @inproceedings{DBLP:conf/crypto/GargJMSWZ23,
@@ -441,6 +2014,17 @@
   pages     = {315-348},
 }
 
+@inproceedings{DBLP:conf/crypto/DeveveyFPS22,
+  author    = {Julien Devevey and
+               Pouria Fallahpour and
+               Alain Passelègue and
+               Damien Stehlé},
+  title     = {A Detailed Analysis of {Fiat-Shamir} with Aborts},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {327-357},
+}
+
 @inproceedings{DBLP:conf/crypto/AcharyaHPV23,
   author    = {Anasuya Acharya and
                Carmit Hazay and
@@ -483,6 +2067,23 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {351-383},
+}
+
+@inproceedings{DBLP:conf/crypto/BarbosaBDDFGHHLW22,
+  author    = {Manuel Barbosa and
+               Gilles Barthe and
+               Christian Doczkal and
+               Jelle Don and
+               Serge Fehr and
+               Benjamin Grégoire and
+               Yu-Hsuan Huang and
+               Andreas Hülsing and
+               Yi Lee and
+               Xiaodi Wu},
+  title     = {Fixing and Mechanizing the Security Proof of {Fiat-Shamir} with Aborts and Dilithium},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {358-389},
 }
 
 @inproceedings{DBLP:conf/crypto/DavidDGIKKLN23,
@@ -536,6 +2137,16 @@
   pages     = {384-417},
 }
 
+@inproceedings{DBLP:conf/crypto/YuJW22,
+  author    = {Yang Yu and
+               Huiwen Jia and
+               Xiaoyun Wang},
+  title     = {Compact Lattice Gadget and Its Applications to {Hash-and-Sign} Signatures},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {390-420},
+}
+
 @inproceedings{DBLP:conf/crypto/IshaiKSS23,
   author    = {Yuval Ishai and
                Dakshita Khurana and
@@ -580,6 +2191,19 @@
   pages     = {418-449},
 }
 
+@inproceedings{DBLP:conf/crypto/BarbosaDGHMS22,
+  author    = {Manuel Barbosa and
+               François Dupressoir and
+               Benjamin Grégoire and
+               Andreas Hülsing and
+               Matthias Meijers and
+               Pierre-Yves Strub},
+  title     = {Machine-Checked Security for rmXMSS as in RFC 8391 and $\mathrm {SPHINCS^{+}} $},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {421-454},
+}
+
 @inproceedings{DBLP:conf/crypto/GoyalSW23,
   author    = {Vipul Goyal and
                Akshayaram Srinivasan and
@@ -622,6 +2246,16 @@
   pages     = {453-481},
 }
 
+@inproceedings{DBLP:conf/crypto/ZhangCY22,
+  author    = {Kaiyi Zhang and
+               Hongrui Cui and
+               Yu Yu},
+  title     = {Revisiting the {Constant-Sum} Winternitz {One-Time} Signature with Applications to SPHINCS+ and {XMSS}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {455-483},
+}
+
 @inproceedings{DBLP:conf/crypto/CiampiOSW23,
   author    = {Michele Ciampi and
                Rafail Ostrovsky and
@@ -661,6 +2295,17 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {482-513},
+}
+
+@inproceedings{DBLP:conf/crypto/EsginSLR22,
+  author    = {Muhammed F. Esgin and
+               Ron Steinfeld and
+               Dongxi Liu and
+               Sushmita Ruj},
+  title     = {Efficient Hybrid Exact/Relaxed Lattice Proofs and Applications to Rounding and {VRFs}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {484-517},
 }
 
 @inproceedings{DBLP:conf/crypto/AbramWZ23,
@@ -720,6 +2365,15 @@
   pages     = {515-547},
 }
 
+@inproceedings{DBLP:conf/crypto/BeullensS22,
+  author    = {Ward Beullens and
+               Gregor Seiler},
+  title     = {LaBRADOR: Compact Proofs for R1{CS} from {Module-SIS}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {518-548},
+}
+
 @inproceedings{DBLP:conf/crypto/AgrawalRYY23,
   author    = {Shweta Agrawal and
                Mélissa Rossi and
@@ -761,6 +2415,17 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {548-576},
+}
+
+@inproceedings{DBLP:conf/crypto/KimLSS22,
+  author    = {Duhyeong Kim and
+               Dongwon Lee and
+               Jinyeong Seo and
+               Yongsoo Song},
+  title     = {Toward Practical {Lattice-Based} Proof of Knowledge from {Hint-MLWE}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {549-580},
 }
 
 @inproceedings{DBLP:conf/crypto/BombarCCD23,
@@ -807,6 +2472,20 @@
   pages     = {580-610},
 }
 
+@inproceedings{DBLP:conf/crypto/BaumBGKORS22,
+  author    = {Carsten Baum and
+               Lennart Braun and
+               Cyprien Delpech de Saint Guilhem and
+               Michael Klooß and
+               Emmanuela Orsini and
+               Lawrence Roy and
+               Peter Scholl},
+  title     = {Publicly Verifiable {Zero-Knowledge} and {Post-Quantum} Signatures from {VOLE-in-the-Head}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {581-615},
+}
+
 @inproceedings{DBLP:conf/crypto/RaghuramanRT23,
   author    = {Srinivasan Raghuraman and
                Peter Rindal and
@@ -844,6 +2523,16 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {613-645},
+}
+
+@inproceedings{DBLP:conf/crypto/PanWZ22,
+  author    = {Jiaxin Pan and
+               Benedikt Wagner and
+               Runzhi Zeng},
+  title     = {{Lattice-Based} Authenticated Key Exchange with Tight Security},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {616-647},
 }
 
 @inproceedings{DBLP:conf/crypto/GunsingBJMS23,
@@ -889,6 +2578,15 @@
   pages     = {646-677},
 }
 
+@inproceedings{DBLP:conf/crypto/MicciancioS22,
+  author    = {Daniele Micciancio and
+               Mark Schultz},
+  title     = {Error Correction and Ciphertext Quantization in Lattice Cryptography},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {648-681},
+}
+
 @inproceedings{DBLP:conf/crypto/BackendalBGS23,
   author    = {Matilda Backendal and
                Mihir Bellare and
@@ -926,6 +2624,17 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {678-709},
+}
+
+@inproceedings{DBLP:conf/crypto/HanLWG22,
+  author    = {Shuai Han and
+               Shengli Liu and
+               Zhedong Wang and
+               Dawu Gu},
+  title     = {Almost Tight Multi-user Security Under Adaptive Corruptions from {LWE} in the Standard Model},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {682-715},
 }
 
 @inproceedings{DBLP:conf/crypto/ChenCL23,
@@ -967,6 +2676,14 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {710-742},
+}
+
+@inproceedings{DBLP:conf/crypto/Chen22,
+  author    = {Yanbo Chen},
+  title     = {sfDualMS: Efficient {Lattice-Based} {Two-Round} Multi-signature with {Trapdoor-Free} Simulation},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {716-747},
 }
 
 @inproceedings{DBLP:conf/crypto/HofheinzKK23,
@@ -1012,6 +2729,17 @@
   pages     = {743-773},
 }
 
+@inproceedings{DBLP:conf/crypto/DachmanSoledGHK22,
+  author    = {Dana Dachman-Soled and
+               Huijing Gong and
+               Tom Hanson and
+               Hunter Kippen},
+  title     = {Revisiting Security Estimation for {LWE} with Hints from a Geometric Perspective},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {748-781},
+}
+
 @inproceedings{DBLP:conf/crypto/KutylowskiPPYZ23,
   author    = {Miroslaw Kutylowski and
                Giuseppe Persiano and
@@ -1035,6 +2763,35 @@
   booktitle = crypto,
   year      = 2023,
   pages     = {762-792},
+}
+
+@inproceedings{DBLP:conf/crypto/LaiM22,
+  author    = {Russell W. F. Lai and
+               Giulio Malavolta},
+  title     = {{Lattice-Based} Timed Cryptography},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {782-804},
+}
+
+@inproceedings{DBLP:conf/crypto/NewtonR22,
+  author    = {Parker Newton and
+               Silas Richelson},
+  title     = {A Lower Bound for Proving Hardness of Learning with Rounding with Polynomial Modulus},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {805-835},
+}
+
+@inproceedings{DBLP:conf/crypto/MicheliMPT22,
+  author    = {Gabrielle De Micheli and
+               Daniele Micciancio and
+               Alice Pellet-Mary and
+               Nam Tran},
+  title     = {Reductions from Module Lattices to Free Module Lattices, and Application to Dequantizing {Module-LLL}},
+  booktitle = crypto,
+  year      = 2023,
+  pages     = {836-865},
 }
 
 @inproceedings{DBLP:conf/crypto/Chairattana-Apirom22,
@@ -1081,14 +2838,6 @@
   pages     = {3-33},
 }
 
-@inproceedings{DBLP:conf/crypto/Zhandry22c,
-  author    = {Mark Zhandry},
-  title     = {Tracing Quantum State Distinguishers via Backtracking},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {3-36},
-}
-
 @inproceedings{DBLP:conf/crypto/ApplebaumKP22,
   author    = {Benny Applebaum and
                Eliran Kachlon and
@@ -1127,14 +2876,6 @@
   pages     = {35-65},
 }
 
-@inproceedings{DBLP:conf/crypto/Brakerski22,
-  author    = {Zvika Brakerski},
-  title     = {{Black-Hole} Radiation Decoding Is Quantum Cryptography},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {37-65},
-}
-
 @inproceedings{DBLP:conf/crypto/DittmerILO22,
   author    = {Samuel Dittmer and
                Yuval Ishai and
@@ -1163,16 +2904,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {66-96},
-}
-
-@inproceedings{DBLP:conf/crypto/AnanthKL22,
-  author    = {Prabhanjan Ananth and
-               Fatih Kaleoglu and
-               Qipeng Liu},
-  title     = {Cloning Games: A General Framework for Unclonable Primitives},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {66-98},
 }
 
 @inproceedings{DBLP:conf/crypto/LyubashevskyNP22,
@@ -1215,16 +2946,6 @@
   pages     = {97-127},
 }
 
-@inproceedings{DBLP:conf/crypto/BartusekKP22,
-  author    = {James Bartusek and
-               Dakshita Khurana and
-               Alexander Poremba},
-  title     = {{Publicly-Verifiable} Deletion via {Target-Collapsing} Functions},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {99-128},
-}
-
 @inproceedings{DBLP:conf/crypto/AlbrechtCLMT22,
   author    = {Martin R. Albrecht and
                Valerio Cini and
@@ -1256,16 +2977,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {127-147},
-}
-
-@inproceedings{DBLP:conf/crypto/GoyalLM22,
-  author    = {Vipul Goyal and
-               Xiao Liang and
-               Giulio Malavolta},
-  title     = {On Concurrent Multi-party Quantum Computation},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {129-161},
 }
 
 @inproceedings{DBLP:conf/crypto/FreitagGK22,
@@ -1316,18 +3027,6 @@
   pages     = {161-191},
 }
 
-@inproceedings{DBLP:conf/crypto/BrakerskiGKPV22,
-  author    = {Zvika Brakerski and
-               Alexandru Gheorghiu and
-               Gregory D. Kahanamoku-Meyer and
-               Eitan Porat and
-               Thomas Vidick},
-  title     = {Simple Tests of Quantumness Also Certify Qubits},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {162-191},
-}
-
 @inproceedings{DBLP:conf/crypto/AustrinCCFLM22,
   author    = {Per Austrin and
                Hao Chung and
@@ -1369,15 +3068,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {192-221},
-}
-
-@inproceedings{DBLP:conf/crypto/BartusekK22,
-  author    = {James Bartusek and
-               Dakshita Khurana},
-  title     = {Cryptography with Certified Deletion},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {192-223},
 }
 
 @inproceedings{DBLP:conf/crypto/BartusekKLMMVVY22,
@@ -1434,16 +3124,6 @@
   pages     = {222-251},
 }
 
-@inproceedings{DBLP:conf/crypto/BartusekKS22,
-  author    = {James Bartusek and
-               Dakshita Khurana and
-               Akshayaram Srinivasan},
-  title     = {Secure Computation with Shared {EPR} Pairs (Or: How to Teleport in Zero-Knowledge)},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {224-257},
-}
-
 @inproceedings{DBLP:conf/crypto/BeyneC22,
   author    = {Tim Beyne and
                Yu Long Chen},
@@ -1484,14 +3164,6 @@
   pages     = {252-281},
 }
 
-@inproceedings{DBLP:conf/crypto/Schrottenloher22,
-  author    = {André Schrottenloher},
-  title     = {Quantum Linear {Key-Recovery} Attacks Using the {QFT}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {258-291},
-}
-
 @inproceedings{DBLP:conf/crypto/DegabrieleK22,
   author    = {Jean Paul Degabriele and
                Vukasin Karadzic},
@@ -1528,16 +3200,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {285-314},
-}
-
-@inproceedings{DBLP:conf/crypto/GeSX22,
-  author    = {Jiangxia Ge and
-               Tianshu Shan and
-               Rui Xue},
-  title     = {Tighter {QCCA-Secure} Key Encapsulation Mechanism with Explicit Rejection in the Quantum Random Oracle Model},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {292-324},
 }
 
 @inproceedings{DBLP:conf/crypto/Shmueli22,
@@ -1587,17 +3249,6 @@
   pages     = {323-352},
 }
 
-@inproceedings{DBLP:conf/crypto/DeveveyFPS22,
-  author    = {Julien Devevey and
-               Pouria Fallahpour and
-               Alain Passelègue and
-               Damien Stehlé},
-  title     = {A Detailed Analysis of {Fiat-Shamir} with Aborts},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {327-357},
-}
-
 @inproceedings{DBLP:conf/crypto/BaumBMS22,
   author    = {Carsten Baum and
                Lennart Braun and
@@ -1638,23 +3289,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {353-382},
-}
-
-@inproceedings{DBLP:conf/crypto/BarbosaBDDFGHHLW22,
-  author    = {Manuel Barbosa and
-               Gilles Barthe and
-               Christian Doczkal and
-               Jelle Don and
-               Serge Fehr and
-               Benjamin Grégoire and
-               Yu-Hsuan Huang and
-               Andreas Hülsing and
-               Yi Lee and
-               Xiaodi Wu},
-  title     = {Fixing and Mechanizing the Security Proof of {Fiat-Shamir} with Aborts and Dilithium},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {358-389},
 }
 
 @inproceedings{DBLP:conf/crypto/KothapalliST22,
@@ -1712,16 +3346,6 @@
   pages     = {389-418},
 }
 
-@inproceedings{DBLP:conf/crypto/YuJW22,
-  author    = {Yang Yu and
-               Huiwen Jia and
-               Xiaoyun Wang},
-  title     = {Compact Lattice Gadget and Its Applications to {Hash-and-Sign} Signatures},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {390-420},
-}
-
 @inproceedings{DBLP:conf/crypto/MattNT22,
   author    = {Christian Matt and
                Jesper Buus Nielsen and
@@ -1763,19 +3387,6 @@
   pages     = {421-452},
 }
 
-@inproceedings{DBLP:conf/crypto/BarbosaDGHMS22,
-  author    = {Manuel Barbosa and
-               François Dupressoir and
-               Benjamin Grégoire and
-               Andreas Hülsing and
-               Matthias Meijers and
-               Pierre-Yves Strub},
-  title     = {Machine-Checked Security for rmXMSS as in RFC 8391 and $\mathrm {SPHINCS^{+}} $},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {421-454},
-}
-
 @inproceedings{DBLP:conf/crypto/WatersW22,
   author    = {Brent Waters and
                David J. Wu},
@@ -1812,16 +3423,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {453-482},
-}
-
-@inproceedings{DBLP:conf/crypto/ZhangCY22,
-  author    = {Kaiyi Zhang and
-               Hongrui Cui and
-               Yu Yu},
-  title     = {Revisiting the {Constant-Sum} Winternitz {One-Time} Signature with Applications to SPHINCS+ and {XMSS}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {455-483},
 }
 
 @inproceedings{DBLP:conf/crypto/Beullens22,
@@ -1872,17 +3473,6 @@
   pages     = {483-513},
 }
 
-@inproceedings{DBLP:conf/crypto/EsginSLR22,
-  author    = {Muhammed F. Esgin and
-               Ron Steinfeld and
-               Dongxi Liu and
-               Sushmita Ruj},
-  title     = {Efficient Hybrid Exact/Relaxed Lattice Proofs and Applications to Rounding and {VRFs}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {484-517},
-}
-
 @inproceedings{DBLP:conf/crypto/RothblumV22,
   author    = {Ron D. Rothblum and
                Prashant Nalini Vasudevan},
@@ -1924,15 +3514,6 @@
   pages     = {517-550},
 }
 
-@inproceedings{DBLP:conf/crypto/BeullensS22,
-  author    = {Ward Beullens and
-               Gregor Seiler},
-  title     = {LaBRADOR: Compact Proofs for R1{CS} from {Module-SIS}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {518-548},
-}
-
 @inproceedings{DBLP:conf/crypto/ChiaCLY22,
   author    = {Nai-Hui Chia and
                Kai-Min Chung and
@@ -1960,17 +3541,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {541-572},
-}
-
-@inproceedings{DBLP:conf/crypto/KimLSS22,
-  author    = {Duhyeong Kim and
-               Dongwon Lee and
-               Jinyeong Seo and
-               Yongsoo Song},
-  title     = {Toward Practical {Lattice-Based} Proof of Knowledge from {Hint-MLWE}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {549-580},
 }
 
 @inproceedings{DBLP:conf/crypto/BonehK22,
@@ -2013,20 +3583,6 @@
   pages     = {573-602},
 }
 
-@inproceedings{DBLP:conf/crypto/BaumBGKORS22,
-  author    = {Carsten Baum and
-               Lennart Braun and
-               Cyprien Delpech de Saint Guilhem and
-               Michael Klooß and
-               Emmanuela Orsini and
-               Lawrence Roy and
-               Peter Scholl},
-  title     = {Publicly Verifiable {Zero-Knowledge} and {Post-Quantum} Signatures from {VOLE-in-the-Head}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {581-615},
-}
-
 @inproceedings{DBLP:conf/crypto/AgrawalYY22,
   author    = {Shweta Agrawal and
                Anshu Yadav and
@@ -2059,16 +3615,6 @@
   pages     = {603-633},
 }
 
-@inproceedings{DBLP:conf/crypto/PanWZ22,
-  author    = {Jiaxin Pan and
-               Benedikt Wagner and
-               Runzhi Zeng},
-  title     = {{Lattice-Based} Authenticated Key Exchange with Tight Security},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {616-647},
-}
-
 @inproceedings{DBLP:conf/crypto/HulsingMS22,
   author    = {Andreas Hülsing and
                Matthias Meijers and
@@ -2099,15 +3645,6 @@
   pages     = {637-667},
 }
 
-@inproceedings{DBLP:conf/crypto/MicciancioS22,
-  author    = {Daniele Micciancio and
-               Mark Schultz},
-  title     = {Error Correction and Ciphertext Quantization in Lattice Cryptography},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {648-681},
-}
-
 @inproceedings{DBLP:conf/crypto/BitanskyBK22,
   author    = {Nir Bitansky and
                Zvika Brakerski and
@@ -2135,17 +3672,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {668-698},
-}
-
-@inproceedings{DBLP:conf/crypto/HanLWG22,
-  author    = {Shuai Han and
-               Shengli Liu and
-               Zhedong Wang and
-               Dawu Gu},
-  title     = {Almost Tight Multi-user Security Under Adaptive Corruptions from {LWE} in the Standard Model},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {682-715},
 }
 
 @inproceedings{DBLP:conf/crypto/BeyneR22,
@@ -2178,14 +3704,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {699-728},
-}
-
-@inproceedings{DBLP:conf/crypto/Chen22,
-  author    = {Yanbo Chen},
-  title     = {sfDualMS: Efficient {Lattice-Based} {Two-Round} Multi-signature with {Trapdoor-Free} Simulation},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {716-747},
 }
 
 @inproceedings{DBLP:conf/crypto/SchrottenloherS22,
@@ -2228,17 +3746,6 @@
   pages     = {748-778},
 }
 
-@inproceedings{DBLP:conf/crypto/DachmanSoledGHK22,
-  author    = {Dana Dachman-Soled and
-               Huijing Gong and
-               Tom Hanson and
-               Hunter Kippen},
-  title     = {Revisiting Security Estimation for {LWE} with Hints from a Geometric Perspective},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {748-781},
-}
-
 @inproceedings{DBLP:conf/crypto/LiuT22,
   author    = {Zeyu Liu and
                Eran Tromer},
@@ -2267,15 +3774,6 @@
   pages     = {779-808},
 }
 
-@inproceedings{DBLP:conf/crypto/LaiM22,
-  author    = {Russell W. F. Lai and
-               Giulio Malavolta},
-  title     = {{Lattice-Based} Timed Cryptography},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {782-804},
-}
-
 @inproceedings{DBLP:conf/crypto/BienstockFGMR22,
   author    = {Alexander Bienstock and
                Jaiden Fairoze and
@@ -2297,26 +3795,6 @@
   booktitle = crypto,
   year      = 2022,
   pages     = {792-822},
-}
-
-@inproceedings{DBLP:conf/crypto/NewtonR22,
-  author    = {Parker Newton and
-               Silas Richelson},
-  title     = {A Lower Bound for Proving Hardness of Learning with Rounding with Polynomial Modulus},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {805-835},
-}
-
-@inproceedings{DBLP:conf/crypto/MicheliMPT22,
-  author    = {Gabrielle De Micheli and
-               Daniele Micciancio and
-               Alice Pellet-Mary and
-               Nam Tran},
-  title     = {Reductions from Module Lattices to Free Module Lattices, and Application to Dequantizing {Module-LLL}},
-  booktitle = crypto,
-  year      = 2022,
-  pages     = {836-865},
 }
 
 @inproceedings{DBLP:conf/crypto/Teague21,
@@ -7290,7 +8768,7 @@
   author    = {Marc Fischlin and
                Amir Herzberg and
                Hod Bin Noon and
-               Haya Shulman},
+               Haya Schulmann},
   title     = {Obfuscation Combiners},
   booktitle = crypto,
   year      = 2016,
@@ -7541,7 +9019,7 @@
                Ruilin Li and
                Lei Cheng and
                Qingju Wang and
-               Hoda AlKhzaimi and
+               Hoda Alkhzaimi and
                Chao Li},
   title     = {Links Among Impossible Differential, Integral and Zero Correlation Linear Cryptanalysis},
   booktitle = crypto,
@@ -10060,7 +11538,7 @@
 @inproceedings{DBLP:conf/crypto/LeanderAAZ11,
   author    = {Gregor Leander and
                Mohamed Ahmed Abdelraheem and
-               Hoda AlKhzaimi and
+               Hoda Alkhzaimi and
                Erik Zenner},
   title     = {A Cryptanalysis of PRINTcipher: The Invariant Subspace Attack},
   booktitle = crypto,
@@ -17986,7 +19464,7 @@
 @inproceedings{DBLP:conf/crypto/BellareM89,
   author    = {Mihir Bellare and
                Silvio Micali},
-  title     = {{Non-Interactive} Oblivious Transfer and Spplications},
+  title     = {{Non-Interactive} Oblivious Transfer and Applications},
   booktitle = crypto,
   year      = 1989,
   pages     = {547-557},
@@ -19323,7 +20801,7 @@
 
 @inproceedings{DBLP:conf/crypto/BlakleyMP85,
   author    = {G. R. Blakley and
-               Catherine A. Meadows and
+               Catherine Meadows and
                George B. Purdy},
   title     = {Fingerprinting Long Forgiving Messages},
   booktitle = crypto,
@@ -19756,7 +21234,7 @@
 
 @inproceedings{DBLP:conf/crypto/BlakleyM84,
   author    = {G. R. Blakley and
-               Catherine A. Meadows},
+               Catherine Meadows},
   title     = {Security of Ramp Schemes},
   booktitle = crypto,
   year      = 1984,

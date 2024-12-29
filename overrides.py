@@ -7,13 +7,14 @@ It is good practice to report errors to DBLP so they can fix them upstream event
 
 # Override paper/article titles that contain errors or do not properly compile in LaTeX
 TITLE = {
-    'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction in l{$\\alpha$}; ({$0 < \\alpha \le 2$}) using stable random projections',
-    'journals/cacm/Glass99c': 'Buzzwordism and the Epic \$150 Million Software Debacle',
+    'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction in l{$\\alpha$}; ({$0 < \\alpha \\le 2$}) using stable random projections',
+    'journals/cacm/Glass99c': 'Buzzwordism and the Epic \\$150 Million Software Debacle',
     'conf/crypto/AttemaCK21': 'A Compressed $\varSigma $-Protocol Theory for Lattices',
     'conf/crypto/RotemS21': 'Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for $\varSigma $-Protocols',
-    'conf/crypto/AttemaC20' : 'Compressed $\varSigma $-Protocol Theory and Practical Application to Plug \& Play Secure Algorithmics',
-    'conf/asplos/GanZCSRKBHRJHPH19': 'An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud \& Edge Systems',
+    'conf/crypto/AttemaC20' : 'Compressed $\varSigma $-Protocol Theory and Practical Application to Plug \\& Play Secure Algorithmics',
+    'conf/asplos/GanZCSRKBHRJHPH19': 'An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud \\& Edge Systems',
     'conf/usenix/Uhler91': 'HOME MOVIE - Tools for Building Demos on a Sparcstation',
+    'conf/eurocrypt/GoelGHK22': 'Stacking Sigmas: A Framework to Compose $\\varSigma $-Protocols for Disjunctions',
 }
 
 # Add missing conference locations here
